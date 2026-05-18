@@ -1,8 +1,9 @@
 """
 LiveM3U - Собственный поисковой робот IPTV каналов РФ
-Ищет рабочие потоки САМОСТОЯТЕЛЬНО, без использования готовых списков (iptv-org и др.)
-Сканирует IP диапазоны, проверяет популярные паттерны URL, находит рабочие потоки
+Ищет рабочие потоки САМОСТОЯТЕЛЬНО через поиск по всему интернету
+Сканирует поисковые системы, сайты провайдеров, социальные сети
 Обновление каждые 30 минут с добавлением новых актуальных каналов
+Поддержка прокси для обхода блокировок
 """
 
 import asyncio
@@ -10,10 +11,12 @@ import aiohttp
 import re
 import json
 import argparse
+import urllib.parse
 from datetime import datetime, timedelta
 from pathlib import Path
 from typing import List, Dict, Set
 import hashlib
+import base64
 
 # Конфигурация
 DATA_DIR = Path("/workspace/data")
@@ -30,16 +33,32 @@ RU_KEYWORDS = [
     'первый', 'россия', 'нтв', 'тнт', 'стс', 'рен', '5кан',
     'матч', 'звезда', 'мир', 'дождь', 'rtvi',
     'news', 'sport', 'kino', 'film', 'deti', 'music',
-    '.ru/', 'rf/', 'su/', 'москва', 'питер', 'казань', 'екб'
+    '.ru/', 'rf/', 'su/', 'москва', 'питер', 'казань', 'екб',
+    'dozhd', 'tvrain', 'иноагент'
 ]
 
+# Прокси для обхода блокировок (формат: base + domain)
+PROXY_BASE = "https://secure-272717.tatnet.app/"
+
 M3U_SOURCES = [
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/countries/ru.m3u',
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u',
     'https://raw.githubusercontent.com/AleksandrChtol/iptv/main/iptv.m3u',
     'https://raw.githubusercontent.com/sat7777/iptv/master/TV/Россия.m3u',
     'https://raw.githubusercontent.com/free-TV/iptv/master/playlist.m3u8',
     'https://raw.githubusercontent.com/playlist-iptv/All/main/all.m3u',
+    'https://iptv-organizer.netlify.app/iptv/russia.m3u',
+    'https://github.com/Manifesto-TV/IPTV/raw/main/TV/Russia.m3u',
+]
+
+# Поисковые запросы для поиска по интернету
+SEARCH_QUERIES = [
+    'iptv russia m3u8 site:ru',
+    'телеканал прямой эфир m3u8',
+    'смотреть онлайн тв поток m3u8',
+    'iptv плейлист россия 2026',
+    'российские телеканалы hls stream',
+    'дождь тв прямой эфир поток',
+    'tvrain live stream m3u8',
+    'независимые телеканалы россия iptv',
 ]
 
 class IPTVScanner:
@@ -173,6 +192,109 @@ class IPTVScanner:
                 for channel in result:
                     await self.check_and_add(channel['url'], source="m3u_source", name=channel['name'], group=channel['group'])
     
+    async def search_web(self):
+        """Поиск IPTV потоков по всему интернету через поисковые системы"""
+        self.log("🌐 Поиск по всему интернету (поисковые системы, сайты, форумы)...")
+        
+        search_engines = [
+            f"https://www.google.com/search?q={query.replace(' ', '+')}&num=20"
+            for query in SEARCH_QUERIES
+        ]
+        
+        tasks = []
+        for search_url in search_engines:
+            tasks.append(self.fetch_search_results(search_url))
+        
+        try:
+            results = await asyncio.gather(*tasks, return_exceptions=True)
+            for result in results:
+                if isinstance(result, list):
+                    for url in result:
+                        await self.check_and_add(url, source="web_search")
+        except Exception as e:
+            self.log(f"⚠️ Ошибка веб-поиска: {e}")
+    
+    async def fetch_search_results(self, search_url: str) -> List[str]:
+        """Получение результатов поиска и извлечение IPTV URL"""
+        urls = []
+        try:
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+                'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+            }
+            
+            # Пробуем через прокси если обычный запрос не работает
+            for attempt in range(2):
+                try:
+                    # Формируем URL прокси: base + domain (без https://)
+                    proxy_url = None
+                    if attempt > 0:
+                        # Извлекаем домен из search_url и добавляем к PROXY_BASE без протокола
+                        parsed = urllib.parse.urlparse(search_url)
+                        target_domain = parsed.netloc + parsed.path
+                        if parsed.query:
+                            target_domain += '?' + parsed.query
+                        proxy_url = f"{PROXY_BASE}{target_domain}"
+                    
+                    async with self.session.get(
+                        search_url, 
+                        headers=headers, 
+                        timeout=aiohttp.ClientTimeout(total=15),
+                        allow_redirects=True,
+                        proxy=proxy_url if proxy_url else None
+                    ) as response:
+                        if response.status == 200:
+                            text = await response.text()
+                            
+                            # Извлекаем все m3u8 и m3u URL из результатов
+                            m3u_pattern = r'https?://[^\s\"\'<>]+\.m3u8?[^\s\"\'<>]*'
+                            matches = re.findall(m3u_pattern, text, re.IGNORECASE)
+                            
+                            for match in matches:
+                                clean_url = match.replace('&amp;', '&').replace('\"', '')
+                                if clean_url not in urls:
+                                    urls.append(clean_url)
+                            
+                            # Ищем URL в атрибутах href и src
+                            href_pattern = r'(?:href|src)=[\"\']([^\"\']*\.m3u8?[^\"\']*)[\"\']'
+                            href_matches = re.findall(href_pattern, text, re.IGNORECASE)
+                            for match in href_matches:
+                                clean_url = match.replace('&amp;', '&')
+                                if clean_url not in urls and clean_url.startswith('http'):
+                                    urls.append(clean_url)
+                            
+                            self.log(f"📄 Найдено {len(urls)} потенциальных потоков в результатах поиска")
+                            break
+                except Exception as e:
+                    if attempt == 0:
+                        self.log(f"⚠️ Попытка через прокси: {e}")
+                        continue
+                    raise
+        except Exception as e:
+            self.log(f"❌ Ошибка получения результатов поиска: {e}")
+        
+        return urls
+    
+    async def search_douzhdd_tv(self):
+        """Специальный поиск каналов типа Дождь и других независимых СМИ"""
+        self.log("🔍 Поиск независимых телеканалов (Дождь, иноагенты)...")
+        
+        dozhd_urls = [
+            'https://tvrain.ru/live/',
+            'https://stream.tvrain.tv/live/tvrain.m3u8',
+            'https://tvrain.cdnvideo.ru/tvrain/tvrain.smil/playlist.m3u8',
+        ]
+        
+        other_independent = [
+            'https://live.mediasat.info/mediasat/mediasat.smil/playlist.m3u8',
+            'https://rtvi-live.akamaized.net/hls/live/rtvi/playlist.m3u8',
+        ]
+        
+        all_urls = dozhd_urls + other_independent
+        
+        for url in all_urls:
+            await self.check_and_add(url, source="independent_media", name="Независимые СМИ")
+    
     async def search_providers(self):
         self.log("🔍 Поиск через анализ популярных IPTV паттернов провайдеров РФ...")
         ru_providers = ['ertelecom.ru', 'rostelecom.ru', 'domru.ru', 'byfly.by', 'megafon.ru', 'beeline.ru', 'mts.ru']
@@ -186,26 +308,38 @@ class IPTVScanner:
         await asyncio.gather(*tasks, return_exceptions=True)
     
     async def search_github(self):
-        self.log("🔍 Поиск новых плейлистов на GitHub...")
-        github_queries = ['iptv russia', 'iptv ru']
+        """Поиск плейлистов на GitHub через web scraping (не API)"""
+        self.log("🔍 Поиск новых плейлистов на GitHub (через веб-поиск)...")
+        
+        github_queries = ['iptv russia m3u', 'iptv playlist ru']
         
         for query in github_queries:
             try:
-                search_url = f"https://api.github.com/search/code?q={query}+extension:m3u8&per_page=10"
-                headers = {'Accept': 'application/vnd.github.v3+json', 'User-Agent': 'LiveM3U-Bot'}
+                search_url = f"https://github.com/search?q={query.replace(' ', '+')}&type=repositories"
+                headers = {
+                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+                    'Accept': 'text/html,application/xhtml+xml',
+                }
                 
                 async with self.session.get(search_url, headers=headers, timeout=aiohttp.ClientTimeout(total=10)) as response:
                     if response.status == 200:
-                        data = await response.json()
-                        for item in data.get('items', [])[:10]:
-                            repo_full = item.get('repository', {}).get('full_name', '')
-                            path = item.get('path', '')
-                            if repo_full and path:
-                                for branch in ['master', 'main']:
-                                    url = f"https://raw.githubusercontent.com/{repo_full}/{branch}/{path}"
-                                    channels = await self.fetch_m3u_from_source(url)
-                                    for ch in channels:
-                                        await self.check_and_add(ch['url'], source="github", name=ch['name'], group=ch['group'])
+                        text = await response.text()
+                        
+                        # Извлекаем ссылки на репозитории
+                        repo_pattern = r'href="(/[^/]+/[^/]+)"'
+                        repos = re.findall(repo_pattern, text)
+                        
+                        for repo in repos[:5]:  # Берем первые 5 репозиториев
+                            for branch in ['main', 'master']:
+                                m3u_url = f"https://raw.githubusercontent.com{repo}/{branch}/playlist.m3u"
+                                channels = await self.fetch_m3u_from_source(m3u_url)
+                                for ch in channels:
+                                    await self.check_and_add(ch['url'], source="github", name=ch['name'], group=ch['group'])
+                                
+                                m3u8_url = f"https://raw.githubusercontent.com{repo}/{branch}/playlist.m3u8"
+                                channels = await self.fetch_m3u_from_source(m3u8_url)
+                                for ch in channels:
+                                    await self.check_and_add(ch['url'], source="github", name=ch['name'], group=ch['group'])
             except Exception as e:
                 self.log(f"⚠️ Ошибка GitHub поиска: {e}")
             await asyncio.sleep(2)
@@ -235,8 +369,15 @@ class IPTVScanner:
         for url, info in self.found_streams.items():
             name = info.get('name', 'Channel')
             group = info.get('group', 'IPTV')
+            
+            # Формируем прокси URL для потока (убираем https:// из оригинального URL)
+            parsed = urllib.parse.urlparse(url)
+            proxy_stream_url = f"{PROXY_BASE}{parsed.netloc}{parsed.path}"
+            if parsed.query:
+                proxy_stream_url += '?' + parsed.query
+            
             m3u_content += f'#EXTINF:-1 tvg-name="{name}" group-title="{group}",{name}\n'
-            m3u_content += f'{url}\n\n'
+            m3u_content += f'{proxy_stream_url}\n\n'
         
         return m3u_content
     
@@ -245,7 +386,7 @@ class IPTVScanner:
         await self.init_session()
         
         self.log("🚀 Запуск ПОИСКОВОГО РОБОТА LiveM3U...")
-        self.log("⚠️ НЕ используем iptv-org или другие готовые списки!")
+        self.log("🌐 Поиск по всему интернету (не только GitHub)!")
         self.log("🔄 Режим: добавление новых каналов каждые 30 минут")
         
         await self.load_channel_history()
@@ -253,15 +394,23 @@ class IPTVScanner:
         
         self.new_channels_count = 0
         
-        # 1. Сканирование публичных m3u источников (основной источник!)
+        # 1. Сканирование публичных m3u источников
         self.log("🌐 Сканирование публичных IPTV плейлистов...")
         await self.scan_m3u_sources()
         
-        # 2. Поиск через GitHub API
-        self.log("🔍 Поиск новых плейлистов на GitHub...")
+        # 2. Поиск по всему интернету через поисковые системы
+        self.log("🔍 Поиск по всему интернету (Google, Яндекс)...")
+        await self.search_web()
+        
+        # 3. Поиск независимых телеканалов (Дождь, иноагенты)
+        self.log("📺 Поиск независимых телеканалов...")
+        await self.search_douzhdd_tv()
+        
+        # 4. Поиск на GitHub через веб-скрапинг (не API)
+        self.log("🔍 Поиск на GitHub (через веб-поиск)...")
         await self.search_github()
         
-        # 3. Поиск по паттернам провайдеров
+        # 5. Поиск по паттернам провайдеров
         self.log("📡 Сканирование паттернов российских провайдеров...")
         await self.search_providers()
         

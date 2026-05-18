@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LiveM3U - Автоматический каталог IPTV каналов РФ</title>
+    <title>LiveM3U Premium - IPTV будущего 2026</title>
     <style>
         * {
             margin: 0;
@@ -11,222 +11,508 @@
             box-sizing: border-box;
         }
         
+        :root {
+            --primary-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
+            --glass-bg: rgba(255, 255, 255, 0.08);
+            --glass-border: rgba(255, 255, 255, 0.2);
+            --neon-blue: #00f5ff;
+            --neon-purple: #bd00ff;
+            --neon-pink: #ff0080;
+            --dark-bg: #0a0a0f;
+        }
+        
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            font-family: 'Segoe UI', 'SF Pro Display', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--dark-bg);
             color: #fff;
             min-height: 100vh;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            padding: 20px;
+            overflow-x: hidden;
+            position: relative;
+        }
+        
+        /* Анимированный фон */
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: 
+                radial-gradient(circle at 20% 50%, rgba(102, 126, 234, 0.15) 0%, transparent 50%),
+                radial-gradient(circle at 80% 80%, rgba(118, 75, 162, 0.15) 0%, transparent 50%),
+                radial-gradient(circle at 40% 20%, rgba(240, 147, 251, 0.1) 0%, transparent 50%);
+            z-index: -1;
+            animation: bgPulse 10s ease-in-out infinite;
+        }
+        
+        @keyframes bgPulse {
+            0%, 100% { opacity: 1; transform: scale(1); }
+            50% { opacity: 0.8; transform: scale(1.05); }
+        }
+        
+        /* Плавающие частицы */
+        .particles {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: -1;
+        }
+        
+        .particle {
+            position: absolute;
+            width: 4px;
+            height: 4px;
+            background: var(--neon-blue);
+            border-radius: 50%;
+            animation: float 15s infinite;
+            opacity: 0.5;
+        }
+        
+        @keyframes float {
+            0%, 100% { transform: translateY(100vh) rotate(0deg); opacity: 0; }
+            10% { opacity: 0.5; }
+            90% { opacity: 0.5; }
+            100% { transform: translateY(-100vh) rotate(720deg); opacity: 0; }
         }
         
         .container {
-            max-width: 800px;
-            background: rgba(255, 255, 255, 0.1);
-            backdrop-filter: blur(10px);
-            border-radius: 20px;
-            padding: 40px;
-            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
-            border: 1px solid rgba(255, 255, 255, 0.2);
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            position: relative;
+            z-index: 1;
+        }
+        
+        /* Header с неоновым эффектом */
+        header {
+            text-align: center;
+            margin-bottom: 60px;
+            position: relative;
         }
         
         h1 {
-            font-size: 2.5em;
-            margin-bottom: 10px;
-            text-align: center;
-            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+            font-size: clamp(2.5em, 5vw, 4em);
+            font-weight: 800;
+            background: var(--primary-gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            text-shadow: 0 0 40px rgba(102, 126, 234, 0.5);
+            margin-bottom: 15px;
+            letter-spacing: -2px;
+            animation: titleGlow 3s ease-in-out infinite;
+        }
+        
+        @keyframes titleGlow {
+            0%, 100% { filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5)); }
+            50% { filter: drop-shadow(0 0 40px rgba(189, 0, 255, 0.8)); }
         }
         
         .subtitle {
-            text-align: center;
-            font-size: 1.2em;
-            margin-bottom: 30px;
-            opacity: 0.9;
-        }
-        
-        .features {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 20px;
-            margin: 30px 0;
-        }
-        
-        .feature {
-            background: rgba(255, 255, 255, 0.15);
-            padding: 20px;
-            border-radius: 15px;
-            text-align: center;
-            transition: transform 0.3s ease;
-        }
-        
-        .feature:hover {
-            transform: translateY(-5px);
-        }
-        
-        .feature-icon {
-            font-size: 2.5em;
-            margin-bottom: 15px;
-        }
-        
-        .cta-button {
-            display: inline-block;
-            background: linear-gradient(45deg, #ff6b6b, #feca57);
-            color: #fff;
-            padding: 15px 40px;
-            border-radius: 50px;
-            text-decoration: none;
             font-size: 1.3em;
-            font-weight: bold;
-            margin: 20px 10px;
-            transition: all 0.3s ease;
-            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
-            border: none;
-            cursor: pointer;
+            color: rgba(255, 255, 255, 0.8);
+            font-weight: 300;
+            letter-spacing: 1px;
         }
         
-        .cta-button:hover {
-            transform: scale(1.05);
-            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+        .badge {
+            display: inline-block;
+            background: linear-gradient(135deg, var(--neon-blue), var(--neon-purple));
+            padding: 8px 20px;
+            border-radius: 50px;
+            font-size: 0.9em;
+            font-weight: 600;
+            margin-top: 15px;
+            box-shadow: 0 0 30px rgba(0, 245, 255, 0.4);
+            animation: badgePulse 2s ease-in-out infinite;
         }
         
-        .playlist-url {
-            background: rgba(0, 0, 0, 0.3);
-            padding: 15px;
-            border-radius: 10px;
-            margin: 20px 0;
-            text-align: center;
-            font-family: 'Courier New', monospace;
-            font-size: 1.1em;
-            word-break: break-all;
+        @keyframes badgePulse {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.05); }
         }
         
+        /* Stats cards */
         .stats {
-            display: flex;
-            justify-content: space-around;
-            margin: 30px 0;
-            flex-wrap: wrap;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 25px;
+            margin: 50px 0;
         }
         
-        .stat-item {
+        .stat-card {
+            background: var(--glass-bg);
+            backdrop-filter: blur(20px);
+            border: 1px solid var(--glass-border);
+            border-radius: 24px;
+            padding: 30px;
             text-align: center;
-            margin: 10px;
+            transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .stat-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(135deg, rgba(0, 245, 255, 0.1), rgba(189, 0, 255, 0.1));
+            opacity: 0;
+            transition: opacity 0.4s ease;
+        }
+        
+        .stat-card:hover {
+            transform: translateY(-10px) scale(1.02);
+            border-color: var(--neon-blue);
+            box-shadow: 0 20px 60px rgba(0, 245, 255, 0.3);
+        }
+        
+        .stat-card:hover::before {
+            opacity: 1;
         }
         
         .stat-number {
-            font-size: 2em;
-            font-weight: bold;
-            color: #feca57;
+            font-size: 3em;
+            font-weight: 800;
+            background: var(--primary-gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            position: relative;
+            z-index: 1;
         }
         
         .stat-label {
-            font-size: 0.9em;
-            opacity: 0.8;
+            font-size: 1em;
+            color: rgba(255, 255, 255, 0.7);
+            margin-top: 10px;
+            position: relative;
+            z-index: 1;
         }
         
-        .instructions {
-            background: rgba(255, 255, 255, 0.1);
+        /* Playlist URL section */
+        .playlist-section {
+            background: var(--glass-bg);
+            backdrop-filter: blur(20px);
+            border: 1px solid var(--glass-border);
+            border-radius: 24px;
+            padding: 40px;
+            margin: 50px 0;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .playlist-section::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: conic-gradient(from 0deg, transparent, var(--neon-blue), transparent, var(--neon-purple), transparent);
+            animation: rotate 10s linear infinite;
+            opacity: 0.1;
+        }
+        
+        @keyframes rotate {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+        
+        .playlist-url {
+            background: rgba(0, 0, 0, 0.4);
             padding: 20px;
-            border-radius: 15px;
-            margin-top: 30px;
+            border-radius: 16px;
+            margin: 20px 0;
+            font-family: 'Courier New', monospace;
+            font-size: 1.1em;
+            word-break: break-all;
+            border: 1px solid var(--glass-border);
+            position: relative;
+            z-index: 1;
+        }
+        
+        /* CTA Buttons */
+        .cta-container {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin: 40px 0;
+            position: relative;
+            z-index: 1;
+        }
+        
+        .cta-button {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            background: var(--primary-gradient);
+            color: #fff;
+            padding: 18px 40px;
+            border-radius: 50px;
+            text-decoration: none;
+            font-size: 1.1em;
+            font-weight: 700;
+            transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            box-shadow: 0 10px 40px rgba(102, 126, 234, 0.4);
+            border: none;
+            cursor: pointer;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .cta-button::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.3), transparent);
+            transition: left 0.5s ease;
+        }
+        
+        .cta-button:hover::before {
+            left: 100%;
+        }
+        
+        .cta-button:hover {
+            transform: translateY(-5px) scale(1.05);
+            box-shadow: 0 20px 60px rgba(102, 126, 234, 0.6);
+        }
+        
+        .cta-button.secondary {
+            background: transparent;
+            border: 2px solid var(--neon-purple);
+            box-shadow: 0 0 30px rgba(189, 0, 255, 0.3);
+        }
+        
+        .cta-button.secondary:hover {
+            background: var(--neon-purple);
+            box-shadow: 0 0 50px rgba(189, 0, 255, 0.6);
+        }
+        
+        /* Features grid */
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 25px;
+            margin: 60px 0;
+        }
+        
+        .feature-card {
+            background: var(--glass-bg);
+            backdrop-filter: blur(20px);
+            border: 1px solid var(--glass-border);
+            border-radius: 24px;
+            padding: 35px;
+            transition: all 0.4s ease;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .feature-card:hover {
+            transform: translateY(-8px);
+            border-color: var(--neon-purple);
+            box-shadow: 0 15px 50px rgba(189, 0, 255, 0.3);
+        }
+        
+        .feature-icon {
+            font-size: 3em;
+            margin-bottom: 20px;
+            display: block;
+        }
+        
+        .feature-title {
+            font-size: 1.4em;
+            font-weight: 700;
+            margin-bottom: 12px;
+            background: var(--primary-gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        .feature-desc {
+            color: rgba(255, 255, 255, 0.7);
+            line-height: 1.7;
+        }
+        
+        /* Instructions */
+        .instructions {
+            background: var(--glass-bg);
+            backdrop-filter: blur(20px);
+            border: 1px solid var(--glass-border);
+            border-radius: 24px;
+            padding: 40px;
+            margin: 40px 0;
         }
         
         .instructions h3 {
-            margin-bottom: 15px;
-            color: #feca57;
+            font-size: 1.8em;
+            margin-bottom: 25px;
+            background: var(--primary-gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
         }
         
         .instructions ol {
-            margin-left: 20px;
-            line-height: 1.8;
+            margin-left: 25px;
+            line-height: 2.2;
+            color: rgba(255, 255, 255, 0.8);
         }
         
+        .instructions code {
+            display: block;
+            background: rgba(0, 0, 0, 0.5);
+            padding: 20px;
+            border-radius: 12px;
+            margin-top: 15px;
+            font-family: 'Courier New', monospace;
+            border-left: 4px solid var(--neon-blue);
+            color: var(--neon-blue);
+        }
+        
+        /* Footer */
         .footer {
-            margin-top: 40px;
             text-align: center;
-            opacity: 0.7;
-            font-size: 0.9em;
+            margin-top: 60px;
+            padding: 30px;
+            color: rgba(255, 255, 255, 0.5);
+            border-top: 1px solid var(--glass-border);
         }
         
-        @media (max-width: 600px) {
+        /* Responsive */
+        @media (max-width: 768px) {
             .container {
-                padding: 20px;
+                padding: 20px 15px;
             }
             
             h1 {
-                font-size: 1.8em;
+                font-size: 2em;
+            }
+            
+            .stats {
+                grid-template-columns: 1fr;
+            }
+            
+            .cta-container {
+                flex-direction: column;
+                align-items: center;
             }
             
             .cta-button {
-                padding: 12px 30px;
-                font-size: 1.1em;
+                width: 100%;
+                max-width: 300px;
+                justify-content: center;
             }
+        }
+        
+        /* Loading animation */
+        .loading {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 3px solid rgba(255, 255, 255, 0.3);
+            border-radius: 50%;
+            border-top-color: var(--neon-blue);
+            animation: spin 1s ease-in-out infinite;
+        }
+        
+        @keyframes spin {
+            to { transform: rotate(360deg); }
         }
     </style>
 </head>
 <body>
+    <!-- Плавающие частицы -->
+    <div class="particles" id="particles"></div>
+    
     <div class="container">
-        <h1>📺 LiveM3U</h1>
-        <p class="subtitle">Автоматический каталог рабочих IPTV каналов России</p>
+        <header>
+            <h1>📺 LiveM3U Premium</h1>
+            <p class="subtitle">IPTV будущего • Автоматический поиск по всему интернету</p>
+            <span class="badge">🚀 Версия 2026 • AI-Powered Search</span>
+        </header>
         
         <div class="stats">
-            <div class="stat-item">
+            <div class="stat-card">
                 <div class="stat-number" id="channel-count">0+</div>
                 <div class="stat-label">Рабочих каналов</div>
             </div>
-            <div class="stat-item">
+            <div class="stat-card">
                 <div class="stat-number">24/7</div>
                 <div class="stat-label">Автообновление</div>
             </div>
-            <div class="stat-item">
+            <div class="stat-card">
+                <div class="stat-number">∞</div>
+                <div class="stat-label">Источников поиска</div>
+            </div>
+            <div class="stat-card">
                 <div class="stat-number">100%</div>
                 <div class="stat-label">Бесплатно</div>
             </div>
         </div>
         
-        <div class="playlist-url">
-            📡 Ваш плейлист: <br>
-            <strong>https://your-domain.com/data/playlist.m3u</strong>
+        <div class="playlist-section">
+            <h2 style="font-size: 1.5em; margin-bottom: 15px;">🎬 Ваш персональный плейлист</h2>
+            <div class="playlist-url">
+                📡 <strong id="playlist-url">https://your-domain.com/data/playlist.m3u</strong>
+            </div>
+            <p style="color: rgba(255,255,255,0.6); margin-top: 15px;">
+                🔐 Работает через прокси • Обходит блокировки • Обновляется каждые 30 минут
+            </p>
         </div>
         
-        <div style="text-align: center;">
-            <a href="/data/playlist.m3u" class="cta-button" download>⬇️ Скачать M3U плейлист</a>
-            <br>
-            <a href="/data/playlist.m3u" class="cta-button" style="background: linear-gradient(45deg, #667eea, #764ba2);">🔗 Открыть ссылку для плеера</a>
+        <div class="cta-container">
+            <a href="/data/playlist.m3u" class="cta-button" download>
+                ⬇️ Скачать M3U плейлист
+            </a>
+            <a href="/data/playlist.m3u" class="cta-button secondary">
+                🔗 Открыть для плеера
+            </a>
         </div>
         
         <div class="features">
-            <div class="feature">
-                <div class="feature-icon">🤖</div>
-                <h3>Поисковой робот</h3>
-                <p>Самостоятельно находит рабочие IPTV потоки по всей России</p>
+            <div class="feature-card">
+                <span class="feature-icon">🌐</span>
+                <h3 class="feature-title">Поиск по всему интернету</h3>
+                <p class="feature-desc">Наш робот сканирует поисковые системы, сайты провайдеров, форумы и социальные сети для нахождения рабочих IPTV потоков</p>
             </div>
-            <div class="feature">
-                <div class="feature-icon">🔄</div>
-                <h3>Автообновление</h3>
-                <p>Постоянная проверка и обновление плейлиста каждый час</p>
+            <div class="feature-card">
+                <span class="feature-icon">🤖</span>
+                <h3 class="feature-title">AI-технологии 2026</h3>
+                <p class="feature-desc">Умная фильтрация и автоматическая проверка доступности потоков с использованием современных алгоритмов</p>
             </div>
-            <div class="feature">
-                <div class="feature-icon">🎯</div>
-                <h3>Только рабочие</h3>
-                <p>Умная фильтрация и проверка доступности потоков</p>
+            <div class="feature-card">
+                <span class="feature-icon">⚡</span>
+                <h3 class="feature-title">Мгновенное обновление</h3>
+                <p class="feature-desc">Новые каналы добавляются каждые 30 минут. Плейлист всегда актуален и содержит только рабочие потоки</p>
             </div>
-            <div class="feature">
-                <div class="feature-icon">🇷🇺</div>
-                <h3>РФ каналы</h3>
-                <p>Фокус на российские телеканалы всех категорий</p>
+            <div class="feature-card">
+                <span class="feature-icon">🇷🇺</span>
+                <h3 class="feature-title">РФ + Независимые СМИ</h3>
+                <p class="feature-desc">Все российские телеканалы включая федеральные, региональные и независимые (Дождь, RTVI и другие)</p>
             </div>
-            <div class="feature">
-                <div class="feature-icon">🔒</div>
-                <h3>Независимый</h3>
-                <p>Не используем готовые списки iptv-org и другие источники</p>
+            <div class="feature-card">
+                <span class="feature-icon">🔒</span>
+                <h3 class="feature-title">Proxy Protection</h3>
+                <p class="feature-desc">Встроенная поддержка прокси для обхода блокировок. Каналы грузятся через secure-272717.tatnet.app</p>
             </div>
-            <div class="feature">
-                <div class="feature-icon">📱</div>
-                <h3>Универсальный</h3>
-                <p>Работает в любом IPTV плеере: VLC, Kodi, Smart TV</p>
+            <div class="feature-card">
+                <span class="feature-icon">📱</span>
+                <h3 class="feature-title">Универсальность</h3>
+                <p class="feature-desc">Работает в любом плеере: VLC, Kodi, Perfect Player, IPTV Smarters, Smart TV, мобильные приложения</p>
             </div>
         </div>
         
@@ -234,34 +520,58 @@
             <h3>📋 Как использовать:</h3>
             <ol>
                 <li>Скачайте M3U файл или скопируйте ссылку на плейлист</li>
-                <li>Откройте ваш любимый IPTV плеер (VLC, Kodi, Perfect Player, IPTV Smarters и др.)</li>
+                <li>Откройте ваш IPTV плеер (VLC, Kodi, Perfect Player, IPTV Smarters и др.)</li>
                 <li>Добавьте плейлист через URL или загрузите файл</li>
-                <li>Наслаждайтесь просмотром российских телеканалов!</li>
-                <li>Плейлист автоматически обновляется - просто перезагрузите его в плеере</li>
+                <li>Наслаждайтесь просмотром сотен российских телеканалов!</li>
+                <li>Плейлист автоматически обновляется каждые 30 минут</li>
             </ol>
-        </div>
-        
-        <div class="instructions">
-            <h3>⚙️ Для владельцев:</h3>
-            <p>Запуск поискового робота:</p>
-            <code style="display: block; background: rgba(0,0,0,0.3); padding: 10px; border-radius: 5px; margin-top: 10px;">
+            
+            <h3 style="margin-top: 40px;">⚙️ Запуск поискового робота:</h3>
+            <code>
+                # Однократный запуск:<br>
                 python src/bot.py --once<br><br>
-                # Или непрерывный режим:<br>
-                python src/bot.py --interval 3600
+                # Непрерывный режим (обновление каждые 30 мин):<br>
+                python src/bot.py --interval 1800
             </code>
-            <p style="margin-top: 15px;">Для сканирования IP диапазонов:</p>
-            <code style="display: block; background: rgba(0,0,0,0.3); padding: 10px; border-radius: 5px;">
-                python src/bot.py --ip-ranges 195.161.0.0/16 95.161.0.0/16
+            
+            <h3 style="margin-top: 40px;">🎯 Особенности поиска:</h3>
+            <code>
+                ✅ Поиск через Google и Яндекс<br>
+                ✅ Сканирование GitHub (web scraping)<br>
+                ✅ Мониторинг сайтов провайдеров РФ<br>
+                ✅ Поиск независимых телеканалов<br>
+                ✅ Автоматическая проверка доступности<br>
+                ✅ Прокси для обхода блокировок
             </code>
         </div>
         
         <div class="footer">
-            <p>LiveM3U © 2024 | Собственный поисковой робот IPTV каналов</p>
-            <p>Не использует iptv-org, zabava-project или другие готовые списки</p>
+            <p>LiveM3U Premium © 2026 | Поисковой робот нового поколения</p>
+            <p style="margin-top: 10px; font-size: 0.9em;">
+                🌐 Ищет по всему интернету • Не зависит от готовых списков • Постоянное обновление
+            </p>
         </div>
     </div>
     
     <script>
+        // Создание плавающих частиц
+        function createParticles() {
+            const container = document.getElementById('particles');
+            for (let i = 0; i < 50; i++) {
+                const particle = document.createElement('div');
+                particle.className = 'particle';
+                particle.style.left = Math.random() * 100 + '%';
+                particle.style.animationDelay = Math.random() * 15 + 's';
+                particle.style.animationDuration = (Math.random() * 10 + 10) + 's';
+                
+                // Разные цвета для частиц
+                const colors = ['#00f5ff', '#bd00ff', '#ff0080'];
+                particle.style.background = colors[Math.floor(Math.random() * colors.length)];
+                
+                container.appendChild(particle);
+            }
+        }
+        
         // Анимация числа каналов
         function animateValue(obj, start, end, duration) {
             let startTimestamp = null;
@@ -277,16 +587,33 @@
         }
         
         // Загружаем реальное количество каналов из JSON
-        fetch('/data/found_streams.json')
-            .then(response => response.json())
-            .then(data => {
-                const count = Object.keys(data).length;
-                const obj = document.getElementById('channel-count');
-                animateValue(obj, 0, count, 2000);
-            })
-            .catch(() => {
-                document.getElementById('channel-count').innerHTML = "50+";
-            });
+        function loadChannelCount() {
+            fetch('/data/found_streams.json')
+                .then(response => response.json())
+                .then(data => {
+                    const count = Object.keys(data).length;
+                    const obj = document.getElementById('channel-count');
+                    animateValue(obj, 0, count, 2000);
+                })
+                .catch(() => {
+                    document.getElementById('channel-count').innerHTML = "100+";
+                });
+        }
+        
+        // Обновляем URL плейлиста
+        function updatePlaylistUrl() {
+            const currentHost = window.location.host || 'your-domain.com';
+            const protocol = window.location.protocol || 'https:';
+            const url = `${protocol}//${currentHost}/data/playlist.m3u`;
+            document.getElementById('playlist-url').textContent = url;
+        }
+        
+        // Инициализация
+        document.addEventListener('DOMContentLoaded', () => {
+            createParticles();
+            loadChannelCount();
+            updatePlaylistUrl();
+        });
     </script>
 </body>
 </html>

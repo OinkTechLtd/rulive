@@ -1,8 +1,10 @@
 ```
-# Logs and temp files
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Logs
 *.log
-*.tmp
-*.swp
 
 # Data files that might be generated
 data/*.json

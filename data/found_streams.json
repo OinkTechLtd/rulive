@@ -6640,5 +6640,41 @@
     "group": "IPTV",
     "source": "provider",
     "hash": "260c2615771724685122459b2aa0c6a7"
+  },
+  "https://tvrain.ru/live/": {
+    "name": "Независимые СМИ",
+    "url": "https://tvrain.ru/live/",
+    "found_at": "2026-05-18T06:38:05.402499",
+    "country": "RU",
+    "group": "IPTV",
+    "source": "independent_media",
+    "hash": "bcbce99b0ede1709bd951c18e0458fdf"
+  },
+  "https://stream.tvrain.tv/live/tvrain.m3u8": {
+    "name": "Независимые СМИ",
+    "url": "https://stream.tvrain.tv/live/tvrain.m3u8",
+    "found_at": "2026-05-18T06:38:05.402536",
+    "country": "RU",
+    "group": "IPTV",
+    "source": "independent_media",
+    "hash": "f3d20165e68743f74761dbb6a7923c44"
+  },
+  "https://tvrain.cdnvideo.ru/tvrain/tvrain.smil/playlist.m3u8": {
+    "name": "Независимые СМИ",
+    "url": "https://tvrain.cdnvideo.ru/tvrain/tvrain.smil/playlist.m3u8",
+    "found_at": "2026-05-18T06:38:05.402555",
+    "country": "RU",
+    "group": "IPTV",
+    "source": "independent_media",
+    "hash": "7038cdd5e69ab6440b80623d3d9b5666"
+  },
+  "https://rtvi-live.akamaized.net/hls/live/rtvi/playlist.m3u8": {
+    "name": "Независимые СМИ",
+    "url": "https://rtvi-live.akamaized.net/hls/live/rtvi/playlist.m3u8",
+    "found_at": "2026-05-18T06:38:05.402590",
+    "country": "RU",
+    "group": "IPTV",
+    "source": "independent_media",
+    "hash": "185b5988a152c82553f08729d27c951b"
   }
 }
