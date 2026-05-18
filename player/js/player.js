@@ -44,7 +44,15 @@ window.addEventListener('load', async () => {
   setupControlsHide();
   await ensurePlaybackEngines();
   const saved = localStorage.getItem('stv_last_url');
-  if (saved) document.getElementById('m3uUrl').value = saved;
+  if (saved) {
+    document.getElementById('m3uUrl').value = saved;
+    loadPlaylist();
+  } else {
+    // Auto-load default playlist
+    const defaultPlaylist = 'https://livem3u.tatnet.app/data/playlist.m3u';
+    document.getElementById('m3uUrl').value = defaultPlaylist;
+    loadPlaylist();
+  }
 });
 
 

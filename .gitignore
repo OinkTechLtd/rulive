@@ -1,7 +1,1 @@
-```
-# Logs
-*.log
-
-# Data files that might be generated
-data/*.log
-```
+Nothing should be ignored based on the provided file changes. The only modified file is a JavaScript source file (`player/js/player.js`), which is a legitimate source code file that should not be ignored. No build artifacts, dependencies, temporary files, or other ignorable content was detected in the changes.
