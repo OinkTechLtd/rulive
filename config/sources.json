@@ -1,0 +1,372 @@
+[
+  {
+    "name": "Первый канал",
+    "urls": [
+      "https://edge1.1cliptv.com/dash-live2/streams/1ch/1ch.mpd",
+      "https://publ-streaming.live.novatel.ru/live/first/playlist.m3u8",
+      "https://c.medialive.ru/first/first_720p/playlist.m3u8"
+    ],
+    "category": "Федеральные"
+  },
+  {
+    "name": "Россия 1",
+    "urls": [
+      "https://player.smotrim.ru/iframe/stream/live_id/2963",
+      "https://rtmp-vc1.sibnet.ru/hls/live_1080/index.m3u8",
+      "https://live.ptvcsn.ru/live/rossiya1/playlist.m3u8"
+    ],
+    "category": "Федеральные"
+  },
+  {
+    "name": "НТВ",
+    "urls": [
+      "https://media.ntv.ru/live/ntv/playlist.m3u8",
+      "https://live-vgtrk.cdnvideo.ru/vgtrk/ntv_hd.m3u8",
+      "https://ntv-stream.akamaized.net/hls/live/ntv/playlist.m3u8"
+    ],
+    "category": "Федеральные"
+  },
+  {
+    "name": "ТНТ",
+    "urls": [
+      "https://media.tnt-tv.ru/live/tnt/playlist.m3u8",
+      "https://tnt-stream.akamaized.net/hls/live/tnt/playlist.m3u8",
+      "https://live-vgtrk.cdnvideo.ru/vgtrk/tnt_hd.m3u8"
+    ],
+    "category": "Развлекательные"
+  },
+  {
+    "name": "РЕН ТВ",
+    "urls": [
+      "https://ren-stream.akamaized.net/hls/live/rentv/playlist.m3u8",
+      "https://live.ren.tv/live/rentv_720p/playlist.m3u8",
+      "https://media.ren.tv/live/rentv/playlist.m3u8"
+    ],
+    "category": "Федеральные"
+  },
+  {
+    "name": "СТС",
+    "urls": [
+      "https://media.ctc.ru/live/ctc/playlist.m3u8",
+      "https://ctc-stream.akamaized.net/hls/live/ctc/playlist.m3u8",
+      "https://live-vgtrk.cdnvideo.ru/vgtrk/ctc_hd.m3u8"
+    ],
+    "category": "Развлекательные"
+  },
+  {
+    "name": "Домашний",
+    "urls": [
+      "https://media.domashniy.ru/live/domashniy/playlist.m3u8",
+      "https://domashniy-stream.akamaized.net/hls/live/domashniy/playlist.m3u8"
+    ],
+    "category": "Развлекательные"
+  },
+  {
+    "name": "ТВ-3",
+    "urls": [
+      "https://media.tv3.ru/live/tv3/playlist.m3u8",
+      "https://tv3-stream.akamaized.net/hls/live/tv3/playlist.m3u8"
+    ],
+    "category": "Развлекательные"
+  },
+  {
+    "name": "Пятница!",
+    "urls": [
+      "https://media.pyatnitsa.ru/live/pyatnitsa/playlist.m3u8",
+      "https://pyatnitsa-stream.akamaized.net/hls/live/pyatnitsa/playlist.m3u8"
+    ],
+    "category": "Развлекательные"
+  },
+  {
+    "name": "Звезда",
+    "urls": [
+      "https://tvzvezda.ru/live/stream.m3u8",
+      "https://tvzvezda-cdn.akamaized.net/hls/live/tvzvezda/playlist.m3u8",
+      "https://live.tvzvezda.ru/live/tvzvezda_720p/playlist.m3u8"
+    ],
+    "category": "Федеральные"
+  },
+  {
+    "name": "Мир",
+    "urls": [
+      "https://tv-mir.ru/live/stream.m3u8",
+      "https://mir-stream.akamaized.net/hls/live/mir/playlist.m3u8"
+    ],
+    "category": "Федеральные"
+  },
+  {
+    "name": "ТВ Центр",
+    "urls": [
+      "https://tvcentr.ru/live/stream.m3u8",
+      "https://tvcenter-stream.akamaized.net/hls/live/tvcenter/playlist.m3u8"
+    ],
+    "category": "Федеральные"
+  },
+  {
+    "name": "РТР-Планета",
+    "urls": [
+      "https://live-vgtrk.cdnvideo.ru/vgtrk/rtr_planeta_hd.m3u8",
+      "https://rtr-planeta.akamaized.net/hls/live/rtrplaneta/playlist.m3u8"
+    ],
+    "category": "Международные"
+  },
+  {
+    "name": "Россия 24",
+    "urls": [
+      "https://player.smotrim.ru/iframe/stream/live_id/2964",
+      "https://live-vgtrk.cdnvideo.ru/vgtrk/russia24_hd.m3u8",
+      "https://russia24-stream.akamaized.net/hls/live/russia24/playlist.m3u8"
+    ],
+    "category": "Новости"
+  },
+  {
+    "name": "Карусель",
+    "urls": [
+      "https://media.karusel-tv.ru/live/karusel/playlist.m3u8",
+      "https://karusel-stream.akamaized.net/hls/live/karusel/playlist.m3u8"
+    ],
+    "category": "Детские"
+  },
+  {
+    "name": "ОТР",
+    "urls": [
+      "https://otr-online.ru/live/stream.m3u8",
+      "https://otr-stream.akamaized.net/hls/live/otr/playlist.m3u8"
+    ],
+    "category": "Федеральные"
+  },
+  {
+    "name": "ТВ Культура",
+    "urls": [
+      "https://tvkultura.ru/live/stream.m3u8",
+      "https://kultura-stream.akamaized.net/hls/live/kultura/playlist.m3u8"
+    ],
+    "category": "Культура"
+  },
+  {
+    "name": "Матч ТВ",
+    "urls": [
+      "https://match-stream.akamaized.net/hls/live/matchtv/playlist.m3u8",
+      "https://live.matchtv.ru/live/matchtv_720p/playlist.m3u8"
+    ],
+    "category": "Спорт"
+  },
+  {
+    "name": "Матч! Страна",
+    "urls": [
+      "https://match-strana.akamaized.net/hls/live/matchstrana/playlist.m3u8",
+      "https://live.matchtv.ru/live/matchstrana_720p/playlist.m3u8"
+    ],
+    "category": "Спорт"
+  },
+  {
+    "name": "Матч! Боец",
+    "urls": [
+      "https://match-fighter.akamaized.net/hls/live/matchfighter/playlist.m3u8",
+      "https://live.matchtv.ru/live/matchfighter_720p/playlist.m3u8"
+    ],
+    "category": "Спорт"
+  },
+  {
+    "name": "Матч! Премьер",
+    "urls": [
+      "https://match-premier.akamaized.net/hls/live/matchpremier/playlist.m3u8",
+      "https://live.matchtv.ru/live/matchpremier_720p/playlist.m3u8"
+    ],
+    "category": "Спорт"
+  },
+  {
+    "name": "Москва 24",
+    "urls": [
+      "https://moscow24.ru/live/stream.m3u8",
+      "https://moscow24-stream.akamaized.net/hls/live/moscow24/playlist.m3u8"
+    ],
+    "category": "Региональные"
+  },
+  {
+    "name": "МИР 24",
+    "urls": [
+      "https://mir24.tv/live/stream.m3u8",
+      "https://mir24-stream.akamaized.net/hls/live/mir24/playlist.m3u8"
+    ],
+    "category": "Новости"
+  },
+  {
+    "name": "RTД (Russian Documentary)",
+    "urls": [
+      "https://rt-doc.akamaized.net/hls/live/rtdoc/playlist.m3u8",
+      "https://doc.rt.com/live/rtdoc_720p/playlist.m3u8"
+    ],
+    "category": "Документальные"
+  },
+  {
+    "name": "RT News",
+    "urls": [
+      "https://rt-news.akamaized.net/hls/live/rtnews/playlist.m3u8",
+      "https://news.rt.com/live/rtnews_720p/playlist.m3u8"
+    ],
+    "category": "Новости"
+  },
+  {
+    "name": "Euronews (доступен в РФ)",
+    "urls": [
+      "https://euronews-ru.akamaized.net/hls/live/euronewsru/playlist.m3u8",
+      "https://ru.euronews.com/live/euronews_ru_720p/playlist.m3u8"
+    ],
+    "category": "Новости"
+  },
+  {
+    "name": "CGTN Russian (китайский международный)",
+    "urls": [
+      "https://cgtn-russian.akamaized.net/hls/live/cgtnru/playlist.m3u8",
+      "https://russian.cgtn.com/live/cgtn_ru_720p/playlist.m3u8"
+    ],
+    "category": "Международные"
+  },
+  {
+    "name": "DW (Deutsche Welle - русский)",
+    "urls": [
+      "https://dw-russian.akamaized.net/hls/live/dwru/playlist.m3u8",
+      "https://www.dw.com/ru/live/dw_ru_720p/playlist.m3u8"
+    ],
+    "category": "Международные"
+  },
+  {
+    "name": "France 24 (русская версия)",
+    "urls": [
+      "https://france24-ru.akamaized.net/hls/live/france24ru/playlist.m3u8",
+      "https://ru.france24.com/live/france24_ru_720p/playlist.m3u8"
+    ],
+    "category": "Международные"
+  },
+  {
+    "name": "Sky News Arabia (доступен в РФ)",
+    "urls": [
+      "https://skynews-arabia.akamaized.net/hls/live/skynewsarabia/playlist.m3u8"
+    ],
+    "category": "Новости"
+  },
+  {
+    "name": "Al Jazeera English (доступен в РФ)",
+    "urls": [
+      "https://aljazeera-en.akamaized.net/hls/live/aljazeeraen/playlist.m3u8"
+    ],
+    "category": "Новости"
+  },
+  {
+    "name": "Bloomberg TV (доступен в РФ)",
+    "urls": [
+      "https://bloomberg-tv.akamaized.net/hls/live/bloombergtv/playlist.m3u8"
+    ],
+    "category": "Новости"
+  },
+  {
+    "name": "CNBC International (доступен в РФ)",
+    "urls": [
+      "https://cnbc-intl.akamaized.net/hls/live/cnbcintl/playlist.m3u8"
+    ],
+    "category": "Новости"
+  },
+  {
+    "name": "Fashion TV (доступен в РФ)",
+    "urls": [
+      "https://fashiontv.akamaized.net/hls/live/fashiontv/playlist.m3u8"
+    ],
+    "category": "Развлекательные"
+  },
+  {
+    "name": "Trace Hits (доступен в РФ)",
+    "urls": [
+      "https://trace-hits.akamaized.net/hls/live/tracehits/playlist.m3u8"
+    ],
+    "category": "Развлекательные"
+  },
+  {
+    "name": "MTV Global (доступен в РФ)",
+    "urls": [
+      "https://mtv-global.akamaized.net/hls/live/mtvglobal/playlist.m3u8"
+    ],
+    "category": "Развлекательные"
+  },
+  {
+    "name": "Nickelodeon (доступен в РФ)",
+    "urls": [
+      "https://nickelodeon.akamaized.net/hls/live/nickelodeon/playlist.m3u8"
+    ],
+    "category": "Детские"
+  },
+  {
+    "name": "Cartoon Network (доступен в РФ)",
+    "urls": [
+      "https://cartoonnetwork.akamaized.net/hls/live/cartoonnetwork/playlist.m3u8"
+    ],
+    "category": "Детские"
+  },
+  {
+    "name": "Disney Channel (доступен в РФ)",
+    "urls": [
+      "https://disney-channel.akamaized.net/hls/live/disneychannel/playlist.m3u8"
+    ],
+    "category": "Детские"
+  },
+  {
+    "name": "Nat Geo Wild (доступен в РФ)",
+    "urls": [
+      "https://natgeowild.akamaized.net/hls/live/natgeowild/playlist.m3u8"
+    ],
+    "category": "Документальные"
+  },
+  {
+    "name": "Discovery Science (доступен в РФ)",
+    "urls": [
+      "https://discovery-science.akamaized.net/hls/live/discoveryscience/playlist.m3u8"
+    ],
+    "category": "Документальные"
+  },
+  {
+    "name": "History Russia (доступен в РФ)",
+    "urls": [
+      "https://history-russia.akamaized.net/hls/live/historyru/playlist.m3u8"
+    ],
+    "category": "Документальные"
+  },
+  {
+    "name": "EuroNews Live Stream",
+    "urls": [
+      "https://stream.euronews.com/euronews_live_ru.m3u8",
+      "https://euronews-live.akamaized.net/hls/live/euronewslive/playlist.m3u8"
+    ],
+    "category": "Новости"
+  },
+  {
+    "name": "Russia Today (RT)",
+    "urls": [
+      "https://rt-live.akamaized.net/hls/live/rtlive/playlist.m3u8",
+      "https://rt.com/live/rtlive_720p/playlist.m3u8"
+    ],
+    "category": "Новости"
+  },
+  {
+    "name": "Sputnik News",
+    "urls": [
+      "https://sputnik-news.akamaized.net/hls/live/sputniknews/playlist.m3u8"
+    ],
+    "category": "Новости"
+  },
+  {
+    "name": "TASS TV",
+    "urls": [
+      "https://tass.ru/live/stream.m3u8",
+      "https://tass-tv.akamaized.net/hls/live/tasstv/playlist.m3u8"
+    ],
+    "category": "Новости"
+  },
+  {
+    "name": "RIA Novosti",
+    "urls": [
+      "https://ria.ru/live/stream.m3u8",
+      "https://ria-novosti.akamaized.net/hls/live/rianovosti/playlist.m3u8"
+    ],
+    "category": "Новости"
+  }
+]
