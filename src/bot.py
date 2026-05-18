@@ -63,7 +63,7 @@ M3U_SOURCES = [
     'https://raw.githubusercontent.com/playlist-iptv/All/main/all.m3u',
     'https://raw.githubusercontent.com/CrocoUser/zabava-project/refs/heads/main/zabava-full.m3u',
     
-    # Дополнительные российские источники
+    # Дополнительные российские источники - расширенный список
     'https://raw.githubusercontent.com/Manifesto-TV/IPTV/main/TV/Russia.m3u',
     'https://raw.githubusercontent.com/russian-broadcasters/iptv/main/ru.m3u',
     'https://raw.githubusercontent.com/mnogo-tv/iptv/master/russia.m3u',
@@ -80,25 +80,47 @@ M3U_SOURCES = [
     'https://raw.githubusercontent.com/WebTV/iptv/main/russian.m3u',
     'https://raw.githubusercontent.com/ZapTV/iptv/master/ru.m3u',
     
-    # Региональные и специализированные
+    # Региональные и специализированные российские каналы
     'https://raw.githubusercontent.com/region-tv/iptv/main/russia_regions.m3u',
     'https://raw.githubusercontent.com/sibcast/iptv/master/siberia.m3u',
     'https://raw.githubusercontent.com/volgatv/iptv/main/volga_region.m3u',
     'https://raw.githubusercontent.com/uralmedia/iptv/master/ural.m3u',
     'https://raw.githubusercontent.com/dontv/iptv/main/donbass.m3u',
+    'https://raw.githubusercontent.com/rustvbot/iptv/main/russia_tv.m3u',
+    'https://raw.githubusercontent.com/tvtvrus/iptv/master/ru.m3u',
+    'https://raw.githubusercontent.com/ru-iptv/channels/main/ru.m3u',
+    'https://raw.githubusercontent.com/iptv-ru/playlist/master/russia.m3u',
+    'https://raw.githubusercontent.com/rubalt/iptv/main/baltic_ru.m3u',
+    'https://raw.githubusercontent.com/sibirtv/iptv/master/siberia.m3u',
+    'https://raw.githubusercontent.com/northtv/iptv/main/north_russia.m3u',
+    'https://raw.githubusercontent.com/southtv/iptv/master/south_russia.m3u',
+    'https://raw.githubusercontent.com/easttv/iptv/main/far_east.m3u',
+    'https://raw.githubusercontent.com/westtv/iptv/master/kaliningrad.m3u',
+    'https://raw.githubusercontent.com/crimea-tv/iptv/main/crimea.m3u',
+    'https://raw.githubusercontent.com/moscow-tv/iptv/master/moscow_region.m3u',
+    'https://raw.githubusercontent.com/spb-tv/iptv/main/petersburg.m3u',
     
-    # Забавные и развлекательные
+    # Забава и развлекательные российские каналы
     'https://raw.githubusercontent.com/kinotv/iptv/master/movies.m3u',
     'https://raw.githubusercontent.com/serialy/iptv/main/series.m3u',
     'https://raw.githubusercontent.com/music-tv/iptv/master/music.m3u',
     'https://raw.githubusercontent.com/sport-tv/iptv/main/sport.m3u',
     'https://raw.githubusercontent.com/detskie/iptv/master/kids.m3u',
+    'https://raw.githubusercontent.com/zabava-iptv/playlist/main/zabava.m3u',
+    'https://raw.githubusercontent.com/wink-rt/iptv/master/wink_channels.m3u',
+    'https://raw.githubusercontent.com/rostelecom-tv/iptv/main/rtk_premium.m3u',
     
-    # Новостные и познавательные
+    # Новостные и познавательные российские каналы
     'https://raw.githubusercontent.com/news24/iptv/main/news.m3u',
     'https://raw.githubusercontent.com/nauka24/iptv/master/science.m3u',
     'https://raw.githubusercontent.com/history-tv/iptv/main/history.m3u',
     'https://raw.githubusercontent.com/travel-channel/iptv/master/travel.m3u',
+    'https://raw.githubusercontent.com/rbc-tv/iptv/main/rbc_news.m3u',
+    'https://raw.githubusercontent.com/gazprom-media/iptv/master/gpm_tv.m3u',
+    'https://raw.githubusercontent.com/vgtrk-official/iptv/main/vgtrk_channels.m3u',
+    'https://raw.githubusercontent.com/1tv-official/iptv/master/first_channel.m3u',
+    'https://raw.githubusercontent.com/ntv-plus/iptv/main/ntv_plus.m3u',
+    'https://raw.githubusercontent.com/tricolor/iptv/master/tricolor_tv.m3u',
 ]
 
 # Поисковые запросы для поиска по интернету
@@ -201,9 +223,9 @@ class IPTVScanner:
                 is_ru = any(kw in url.lower() for kw in RU_KEYWORDS) or \
                         any(kw in channel_name.lower() for kw in RU_KEYWORDS)
                 
-                # Принимаем все российские каналы без ограничений по количеству
+                # Принимаем все российские каналы без ограничений по количеству (до 10000+)
                 # Западные каналы принимаем только если они рабочие и интересные
-                if is_ru or len(self.found_streams) < 3000:
+                if is_ru or len(self.found_streams) < 8000:
                     stream_hash = self.get_stream_hash(url)
                     
                     if stream_hash in self.channel_history:
@@ -366,22 +388,28 @@ class IPTVScanner:
     
     async def search_douzhdd_tv(self):
         """Специальный поиск каналов типа Дождь и других независимых СМИ"""
-        self.log("🔍 Поиск независимых телеканалов (Дождь, иноагенты)...")
+        self.log("🔍 Поиск независимых телеканалов (Дождь, RTVI, иноагенты)...")
         
-        # Каналы Дождя (TV Rain) - несколько вариантов
+        # Каналы Дождя (TV Rain) - несколько вариантов с разными CDN
         dozhd_urls = [
             'https://tvrain.ru/live/',
             'https://stream.tvrain.tv/live/tvrain.m3u8',
             'https://tvrain.cdnvideo.ru/tvrain/tvrain.smil/playlist.m3u8',
             'https://tvrain.akamaized.net/hls/live/2039675/tvrain/master.m3u8',
             'https://tv.tvrain.ru/live/index.m3u8',
+            'https://tvrain-live.hls.tavrmedia.ua/live/tvrain/playlist.m3u8',
+            'https://tvrain-hls.hls.tavrmedia.ua/live/tvrain/index.m3u8',
+            'https://stream.tvrain.tv/hls/tvrain_live.m3u8',
         ]
         
-        # RTVI - международный русскоязычный канал
+        # RTVI - международный русскоязычный канал (несколько CDN)
         rtvi_urls = [
             'https://rtvi-live.akamaized.net/hls/live/rtvi/playlist.m3u8',
             'https://rtvi.com/live/stream.m3u8',
             'https://rtvi-hls.webcaster.pro/rtvi/index.m3u8',
+            'https://rtvi-live.simplecast.com/rtvi.m3u8',
+            'https://rtvihls.akamaized.net/hls/live/rtvi_master/playlist.m3u8',
+            'https://rtvi-stream.akamaized.net/hls/live/rtvi_hd/index.m3u8',
         ]
         
         # Другие независимые СМИ
@@ -391,6 +419,11 @@ class IPTVScanner:
             'https://nastoyashchee-vremya.org/livestream/nv.m3u8',
             'https://kavkazr.com/livestream/kavkazrealii.m3u8',
             'https://svoboda.org/livestream/rferl.m3u8',
+            'https://novayagazeta.eu/livestream/novaya.m3u8',
+            'https://holod.media/livestream/holod.m3u8',
+            'https://importantstories.org/livestream/istories.m3u8',
+            'https://verstka.com/livestream/verstka.m3u8',
+            'https://mediazona.ru/livestream/mediazona.m3u8',
         ]
         
         # Федеральные каналы которые могут не работать в базовом поиске
@@ -398,28 +431,48 @@ class IPTVScanner:
             # Первый канал
             'https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd',
             'https://www.1tv.ru/live/stream.m3u8',
+            'https://1tv.akamaized.net/hls/live/1tv_master/playlist.m3u8',
             # Россия 1 / Россия 24
             'https://vgtrkregion-reg.cdnvideo.ru/vgtrk/russia1-hd/index.m3u8',
             'https://hls.russia.tv/vgtrk/russia24/playlist.m3u8',
+            'https://vgtrk-rtmp.cdnvideo.ru/vgtrk/russia1/playlist.m3u8',
             # НТВ
             'https://ntv.akamaized.net/hls/live/ntv/playlist.m3u8',
+            'https://ntv.akamaized.net/hls/live/ntv_hd/master.m3u8',
             # ТНТ
             'https://tnt.akamaized.net/hls/live/tnt/master.m3u8',
+            'https://tnt4.akamaized.net/hls/live/tnt4/playlist.m3u8',
             # СТС
             'https://ctc.akamaized.net/hls/live/ctc/playlist.m3u8',
+            'https://ctc-love.akamaized.net/hls/live/ctc_love/playlist.m3u8',
             # РЕН ТВ
             'https://ren.tv/hls/live/ren/playlist.m3u8',
             # Пятница
             'https://pyatnitsa.akamaized.net/hls/live/pyatnitsa/playlist.m3u8',
             # Звезда
             'https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8',
+            'https://tvzvezda.akamaized.net/hls/live/tvzvezda/playlist.m3u8',
             # Мир
             'https://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8',
             # Матч ТВ
             'https://match.akamaized.net/hls/live/match/playlist.m3u8',
+            # Культура
+            'https://vgtrkregion.cdnvideo.ru/vgtrk/kultura/playlist.m3u8',
+            # Домашний
+            'https://domashniy.akamaized.net/hls/live/domashniy/playlist.m3u8',
+            # Че
+            'https://che.akamaized.net/hls/live/che/playlist.m3u8',
+            # Пятый канал
+            'https://5-tv.akamaized.net/hls/live/5tv/playlist.m3u8',
+            # Из
+            'https://iz.ru/hls/live/izvestia/playlist.m3u8',
+            # ТВ Центр
+            'https://tvcentr.akamaized.net/hls/live/tvc/playlist.m3u8',
+            # Спас
+            'https://spas.akamaized.net/hls/live/spas/playlist.m3u8',
         ]
         
-        # Каналы Забавы/Wink (Ростелеком)
+        # Каналы Забавы/Wink (Ростелеком) - расширенный список
         zabava_wink = [
             'https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8',
             'https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24_7/variant.m3u8',
@@ -436,6 +489,11 @@ class IPTVScanner:
             'https://zabava-htlive.cdn.ngenix.net/hls/CH_PTICA_7/variant.m3u8',
             'https://zabava-htlive.cdn.ngenix.net/hls/CH_IZ_7/variant.m3u8',
             'https://zabava-htlive.cdn.ngenix.net/hls/CH_TVЦ_7/variant.m3u8',
+            'https://zabava-htlive.cdn.ngenix.net/hls/CH_1TV_7/variant.m3u8',
+            'https://zabava-htlive.cdn.ngenix.net/hls/CH_SPORT_7/variant.m3u8',
+            'https://zabava-htlive.cdn.ngenix.net/hls/CH_KINO_7/variant.m3u8',
+            'https://zabava-htlive.cdn.ngenix.net/hls/CH_SERIAL_7/variant.m3u8',
+            'https://zabava-htlive.cdn.ngenix.net/hls/CH_COMEDY_7/variant.m3u8',
         ]
         
         all_urls = dozhd_urls + rtvi_urls + other_independent + federal_channels + zabava_wink
