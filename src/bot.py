@@ -49,11 +49,65 @@ RU_KEYWORDS = [
     'мурманск', 'архангельск', 'калининград', 'севастополь',
     'симферополь', 'крым', 'луговой', 'донбасс',
     'забава', 'wink', 'rostelecom', 'ertelecom', 'domru',
-    'megafon', 'beeline', 'mts', 'tele2', 'yandex'
+    'megafon', 'beeline', 'mts', 'tele2', 'yandex',
+    # Зарубежные каналы
+    'bbc', 'cnn', 'euronews', 'france24', 'dw', 'arte',
+    'espn', 'sky', 'fox', 'nbc', 'abc', 'cbs',
+    'discovery', 'national geographic', 'history channel',
+    'hbo', 'netflix', 'amazon prime', 'disney',
+    'eurosport', 'bein sports', 'dazn',
+    'bloomberg', 'cnbc', 'reuters', 'ap news',
+    'aljazeera', 'france info', 'rae', 'tve',
+    'rai', 'mediaset', 'rtl', 'pro7', 'tf1', 'm6',
+    'channel 4', 'itv', 'five', 'channel 5'
 ]
 
 # Прокси для обхода блокировок (формат: base + domain)
 PROXY_BASE = "https://secure-272717.tatnet.app/"
+
+# Источники zabava-hlive БЕЗ прокси (прямые ссылки)
+ZABAVA_HLIVE_DIRECT = [
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_STC_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_REN_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCH_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_KULTURA_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_PTICA_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_IZ_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_TVЦ_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_1TV_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_SPORT_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_KINO_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_SERIAL_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_COMEDY_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_CARTOON_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_ANIMAL_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_HISTORY_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_SCIENCE_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_TRAVEL_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_FOOD_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_FASHION_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_MUSIC_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_HITV_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_PREMIUM_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_ACTION_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_DRAMA_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_THRILLER_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_CLASSIC_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_INDIE_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_DOCU_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_NEWS_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_REGION_7/variant.m3u8',
+    'https://zabava-htlive.cdn.ngenix.net/hls/CH_LOCAL_7/variant.m3u8',
+]
 
 M3U_SOURCES = [
     # Основные российские плейлисты
@@ -223,9 +277,9 @@ class IPTVScanner:
                 is_ru = any(kw in url.lower() for kw in RU_KEYWORDS) or \
                         any(kw in channel_name.lower() for kw in RU_KEYWORDS)
                 
-                # Принимаем все российские каналы без ограничений по количеству (до 10000+)
-                # Западные каналы принимаем только если они рабочие и интересные
-                if is_ru or len(self.found_streams) < 8000:
+                # Принимаем все каналы (российские и зарубежные) без ограничений по количеству (до 25000+)
+                
+                if len(self.found_streams) < 25000:
                     stream_hash = self.get_stream_hash(url)
                     
                     if stream_hash in self.channel_history:
@@ -472,29 +526,8 @@ class IPTVScanner:
             'https://spas.akamaized.net/hls/live/spas/playlist.m3u8',
         ]
         
-        # Каналы Забавы/Wink (Ростелеком) - расширенный список
-        zabava_wink = [
-            'https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8',
-            'https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24_7/variant.m3u8',
-            'https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8',
-            'https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8',
-            'https://zabava-htlive.cdn.ngenix.net/hls/CH_STC_7/variant.m3u8',
-            'https://zabava-htlive.cdn.ngenix.net/hls/CH_REN_7/variant.m3u8',
-            'https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCH_7/variant.m3u8',
-            'https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8',
-            'https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8',
-            'https://zabava-htlive.cdn.ngenix.net/hls/CH_KULTURA_7/variant.m3u8',
-            'https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_7/variant.m3u8',
-            'https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_7/variant.m3u8',
-            'https://zabava-htlive.cdn.ngenix.net/hls/CH_PTICA_7/variant.m3u8',
-            'https://zabava-htlive.cdn.ngenix.net/hls/CH_IZ_7/variant.m3u8',
-            'https://zabava-htlive.cdn.ngenix.net/hls/CH_TVЦ_7/variant.m3u8',
-            'https://zabava-htlive.cdn.ngenix.net/hls/CH_1TV_7/variant.m3u8',
-            'https://zabava-htlive.cdn.ngenix.net/hls/CH_SPORT_7/variant.m3u8',
-            'https://zabava-htlive.cdn.ngenix.net/hls/CH_KINO_7/variant.m3u8',
-            'https://zabava-htlive.cdn.ngenix.net/hls/CH_SERIAL_7/variant.m3u8',
-            'https://zabava-htlive.cdn.ngenix.net/hls/CH_COMEDY_7/variant.m3u8',
-        ]
+        # Каналы Забавы/Wink (Ростелеком) - расширенный список БЕЗ ПРОКСИ
+        zabava_wink = ZABAVA_HLIVE_DIRECT.copy()
         
         all_urls = dozhd_urls + rtvi_urls + other_independent + federal_channels + zabava_wink
         
@@ -603,18 +636,24 @@ class IPTVScanner:
         for url, info in self.found_streams.items():
             name = info.get('name', 'Channel')
             group = info.get('group', 'IPTV')
+
+            # Проверяем является ли URL zabava-htlive - для них НЕ используем прокси
+            is_zabava = 'zabava-htlive' in url.lower() or 'zabava-hlive' in url.lower()
             
-            # Формируем прокси URL для потока (убираем https:// из оригинального URL)
-            parsed = urllib.parse.urlparse(url)
-            proxy_stream_url = f"{PROXY_BASE}{parsed.netloc}{parsed.path}"
-            if parsed.query:
-                proxy_stream_url += '?' + parsed.query
-            
+            if is_zabava:
+                # Прямая ссылка без прокси для zabava-hlive
+                stream_url = url
+            else:
+                # Формируем прокси URL для остальных потоков
+                parsed = urllib.parse.urlparse(url)
+                stream_url = f"{PROXY_BASE}{parsed.netloc}{parsed.path}"
+                if parsed.query:
+                    stream_url += '?' + parsed.query
+
             m3u_content += f'#EXTINF:-1 tvg-name="{name}" group-title="{group}",{name}\n'
-            m3u_content += f'{proxy_stream_url}\n\n'
-        
+            m3u_content += f'{stream_url}\n\n'
+
         return m3u_content
-    
     async def run_scan(self, ip_ranges: List[str] = None):
         """Запуск полного сканирования с обновлением каждые 30 минут"""
         await self.init_session()
