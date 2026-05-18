@@ -725,8 +725,101 @@ class IPTVScanner:
         
         all_urls = dozhd_urls + rtvi_urls + other_independent + federal_channels + zabava_wink
         
+        # Названия для каналов - заменяем общее название на конкретные
+        channel_names = {
+            'https://tv5.kazaniptv.ru/live/playlist.m3u8': 'Пятый канал',
+            'https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd': 'Первый канал',
+            'https://www.1tv.ru/live/stream.m3u8': 'Первый канал',
+            'https://1tv.akamaized.net/hls/live/1tv_master/playlist.m3u8': 'Первый канал',
+            'https://vgtrkregion-reg.cdnvideo.ru/vgtrk/russia1-hd/index.m3u8': 'Россия 1',
+            'https://hls.russia.tv/vgtrk/russia24/playlist.m3u8': 'Россия 24',
+            'https://vgtrk-rtmp.cdnvideo.ru/vgtrk/russia1/playlist.m3u8': 'Россия 1',
+            'https://ntv.akamaized.net/hls/live/ntv/playlist.m3u8': 'НТВ',
+            'https://ntv.akamaized.net/hls/live/ntv_hd/master.m3u8': 'НТВ HD',
+            'https://tnt.akamaized.net/hls/live/tnt/master.m3u8': 'ТНТ',
+            'https://tnt4.akamaized.net/hls/live/tnt4/playlist.m3u8': 'ТНТ4',
+            'https://ctc.akamaized.net/hls/live/ctc/playlist.m3u8': 'СТС',
+            'https://ctc-love.akamaized.net/hls/live/ctc_love/playlist.m3u8': 'СТС Love',
+            'https://ren.tv/hls/live/ren/playlist.m3u8': 'РЕН ТВ',
+            'https://pyatnitsa.akamaized.net/hls/live/pyatnitsa/playlist.m3u8': 'Пятница',
+            'https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8': 'Звезда',
+            'https://tvzvezda.akamaized.net/hls/live/tvzvezda/playlist.m3u8': 'Звезда',
+            'https://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8': 'Мир',
+            'https://match.akamaized.net/hls/live/match/playlist.m3u8': 'Матч ТВ',
+            'https://vgtrkregion.cdnvideo.ru/vgtrk/kultura/playlist.m3u8': 'Культура',
+            'https://domashniy.akamaized.net/hls/live/domashniy/playlist.m3u8': 'Домашний',
+            'https://che.akamaized.net/hls/live/che/playlist.m3u8': 'Че',
+            'https://5-tv.akamaized.net/hls/live/5tv/playlist.m3u8': 'Пятый канал',
+            'https://iz.ru/hls/live/izvestia/playlist.m3u8': 'Известия',
+            'https://tvcentr.akamaized.net/hls/live/tvc/playlist.m3u8': 'ТВ Центр',
+            'https://spas.akamaized.net/hls/live/spas/playlist.m3u8': 'Спас',
+        }
+        
         for url in all_urls:
-            await self.check_and_add(url, source="independent_media", name="Независимые СМИ/Федеральные")
+            channel_name = channel_names.get(url, self.get_channel_name_from_url(url))
+            await self.check_and_add(url, source="independent_media", name=channel_name)
+    
+    def get_channel_name_from_url(self, url: str) -> str:
+        """Извлекает понятное название канала из URL"""
+        if 'dozhd' in url.lower() or 'tvrain' in url.lower():
+            return 'Дождь'
+        if 'rtvi' in url.lower():
+            return 'RTVI'
+        if 'zabava' in url.lower() or 'ngenix' in url.lower():
+            # Извлекаем название из URL забавы
+            match = re.search(r'/CH_([^/]+)/', url)
+            if match:
+                code = match.group(1)
+                # Расшифровываем коды каналов
+                channel_map = {
+                    'RUSSIA1_7': 'Россия 1',
+                    'RUSSIA24_7': 'Россия 24',
+                    'NTV_7': 'НТВ',
+                    'TNT_7': 'ТНТ',
+                    'STC_7': 'СТС',
+                    'REN_7': 'РЕН ТВ',
+                    'MATCH_7': 'Матч ТВ',
+                    'ZVEZDA_7': 'Звезда',
+                    'MIR_7': 'Мир',
+                    'KULTURA_7': 'Культура',
+                    'DOMASHNIY_7': 'Домашний',
+                    'CHE_7': 'Че',
+                    'PTICA_7': 'Птица',
+                    'IZ_7': 'Известия',
+                    'TVЦ_7': 'ТВ Центр',
+                    '1TV_7': 'Первый канал',
+                    'SPORT_7': 'Спорт',
+                    'KINO_7': 'Кино',
+                    'SERIAL_7': 'Сериал',
+                    'COMEDY_7': 'Комедия',
+                    'DISNEY_7': 'Disney',
+                    'CARTOON_7': 'Мультики',
+                    'ANIMAL_7': 'Animal Planet',
+                    'HISTORY_7': 'History',
+                    'SCIENCE_7': 'Наука',
+                    'TRAVEL_7': 'Travel',
+                    'FOOD_7': 'Еда',
+                    'FASHION_7': 'Fashion TV',
+                    'MUSIC_7': 'Музыка',
+                    'RUSSIA1SD': 'Россия 1',
+                    'RUSSIA24SD': 'Россия 24',
+                    'NTVSD': 'НТВ',
+                    'TNTSD': 'ТНТ',
+                    'STCSD': 'СТС',
+                    'RENSD': 'РЕН ТВ',
+                    'MATCHSD': 'Матч ТВ',
+                    'ZVEZDASD': 'Звезда',
+                    'MIRSD': 'Мир',
+                    'KULTURASD': 'Культура',
+                    'DOMASHNIYSD': 'Домашний',
+                    'CHESD': 'Че',
+                    'PTCSD': 'Пятница',
+                    'IZSD': 'Известия',
+                    'TVCSD': 'ТВ Центр',
+                    '1TVSD': 'Первый канал',
+                }
+                return channel_map.get(code, code)
+        return 'Канал'
     
     async def search_providers(self):
         self.log("🔍 Поиск через анализ популярных IPTV паттернов провайдеров РФ...")
@@ -819,6 +912,26 @@ class IPTVScanner:
             json.dump(self.found_streams, f, ensure_ascii=False, indent=2)
         self.log(f"💾 Сохранено {len(self.found_streams)} потоков")
     
+    def clean_channel_name(self, name: str) -> str:
+        """Очищает название канала от технических суффиксов"""
+        if not name:
+            return "Канал"
+        
+        # Удаляем технические суффиксы
+        cleaned = name
+        cleaned = re.sub(r'\s*\(1080p\)', '', cleaned, flags=re.IGNORECASE)
+        cleaned = re.sub(r'\s*\(720p\)', '', cleaned, flags=re.IGNORECASE)
+        cleaned = re.sub(r'\s*\(576p\)', '', cleaned, flags=re.IGNORECASE)
+        cleaned = re.sub(r'\s*\(480p\)', '', cleaned, flags=re.IGNORECASE)
+        cleaned = re.sub(r'\s*\(4k\)', '', cleaned, flags=re.IGNORECASE)
+        cleaned = re.sub(r'\s*\[Not 24/7\]\s*', '', cleaned, flags=re.IGNORECASE)
+        cleaned = re.sub(r'\s*\[Geo-blocked\]\s*', '', cleaned, flags=re.IGNORECASE)
+        cleaned = re.sub(r'\s*HD\s*', ' ', cleaned, flags=re.IGNORECASE)
+        cleaned = re.sub(r'\s*SD\s*', ' ', cleaned, flags=re.IGNORECASE)
+        cleaned = re.sub(r'\s+', ' ', cleaned).strip()
+        
+        return cleaned if cleaned else "Канал"
+    
     def generate_m3u(self) -> str:
         m3u_content = "#EXTM3U\n"
         m3u_content += f"# Обновлён: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n"
@@ -828,8 +941,11 @@ class IPTVScanner:
         m3u_content += "# НЕ использует iptv-org или другие готовые списки\n\n"
         
         for url, info in self.found_streams.items():
-            name = info.get('name', 'Channel')
+            original_name = info.get('name', 'Channel')
             group = info.get('group', 'IPTV')
+            
+            # Очищаем название от технических суффиксов
+            name = self.clean_channel_name(original_name)
 
             # Проверяем является ли URL zabava-htlive/zabava-hlive - для них НЕ используем прокси
             is_zabava = 'zabava-htlive' in url.lower() or 'zabava-hlive' in url.lower() or \
