@@ -472,14 +472,55 @@
             <p style="color: rgba(255,255,255,0.6); margin-top: 15px;">
                 🔐 Zabava-HLive без прокси • Остальные через proxy • Обходит блокировки • Обновляется каждые 30 минут
             </p>
+            
+            <div style="margin-top: 30px; padding: 25px; background: rgba(0, 245, 255, 0.05); border-radius: 16px; border: 1px solid rgba(0, 245, 255, 0.2);">
+                <h3 style="color: var(--neon-blue); margin-bottom: 15px; font-size: 1.3em;">🎯 Рекомендация: Тематические плейлисты</h3>
+                <p style="color: rgba(255,255,255,0.8); margin-bottom: 20px; line-height: 1.6;">
+                    Для лучшей производительности используйте тематические плейлисты вместо полного списка!
+                </p>
+                
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin-bottom: 20px;">
+                    <div style="background: rgba(0,0,0,0.3); padding: 15px; border-radius: 12px;">
+                        <strong style="color: var(--neon-purple);">🇷🇺 Основные каналы РФ</strong><br>
+                        <span style="color: rgba(255,255,255,0.7); font-size: 0.9em;">102 канала • Быстрая загрузка</span><br>
+                        <a href="/data/playlists/Основные.m3u" style="color: var(--neon-blue); text-decoration: none; display: inline-block; margin-top: 8px;">⬇️ Скачать</a>
+                    </div>
+                    <div style="background: rgba(0,0,0,0.3); padding: 15px; border-radius: 12px;">
+                        <strong style="color: var(--neon-purple);">📺 IPTV Пакет</strong><br>
+                        <span style="color: rgba(255,255,255,0.7); font-size: 0.9em;">3278 каналов • Оптимальный выбор</span><br>
+                        <a href="/data/playlists/IPTV.m3u" style="color: var(--neon-blue); text-decoration: none; display: inline-block; margin-top: 8px;">⬇️ Скачать</a>
+                    </div>
+                    <div style="background: rgba(0,0,0,0.3); padding: 15px; border-radius: 12px;">
+                        <strong style="color: var(--neon-purple);">🌍 Италия</strong><br>
+                        <span style="color: rgba(255,255,255,0.7); font-size: 0.9em;">388 каналов + 155 VOD</span><br>
+                        <a href="/data/playlists/Italy.m3u" style="color: var(--neon-blue); text-decoration: none; display: inline-block; margin-top: 8px;">⬇️ Скачать</a>
+                    </div>
+                    <div style="background: rgba(0,0,0,0.3); padding: 15px; border-radius: 12px;">
+                        <strong style="color: var(--neon-purple);">🏙️ Ваш регион</strong><br>
+                        <span style="color: rgba(255,255,255,0.7); font-size: 0.9em;">70+ городов России</span><br>
+                        <a href="/data/playlists/" style="color: var(--neon-blue); text-decoration: none; display: inline-block; margin-top: 8px;">📂 Выбрать город</a>
+                    </div>
+                </div>
+                
+                <p style="color: rgba(255,255,255,0.6); font-size: 0.9em; margin-top: 15px;">
+                    💡 <strong>Совет:</strong> Полный плейлист (7645+ каналов) может медленно работать. 
+                    Начните с тематических плейлистов для лучшей производительности!
+                </p>
+                <p style="color: rgba(255,255,255,0.6); font-size: 0.9em;">
+                    📂 <a href="/data/playlists/INDEX.m3u" style="color: var(--neon-blue); text-decoration: none;">Посмотреть все 172 категории →</a>
+                </p>
+            </div>
         </div>
         
         <div class="cta-container">
             <a href="/data/playlist.m3u" class="cta-button" download>
-                ⬇️ Скачать M3U плейлист
+                ⬇️ Скачать полный M3U (7900+)
             </a>
-            <a href="/data/playlist.m3u" class="cta-button secondary">
-                🔗 Открыть для плеера
+            <a href="/live/player.html" class="cta-button secondary">
+                ▶️ Смотреть онлайн в веб-плеере
+            </a>
+            <a href="/data/playlists/" class="cta-button secondary">
+                📋 Тематические плейлисты
             </a>
         </div>
         
@@ -514,19 +555,36 @@
                 <h3 class="feature-title">Универсальность</h3>
                 <p class="feature-desc">Работает в любом плеере: VLC, Kodi, Perfect Player, IPTV Smarters, Smart TV, мобильные приложения</p>
             </div>
+            <div class="feature-card">
+                <span class="feature-icon">📂</span>
+                <h3 class="feature-title">Тематические плейлисты</h3>
+                <p class="feature-desc">172 категории по странам и городам. Оптимальный размер для быстрой работы. Выберите свой регион или страну!</p>
+            </div>
         </div>
         
         <div class="instructions">
             <h3>📋 Как использовать:</h3>
             <ol>
-                <li>Скачайте M3U файл или скопируйте ссылку на плейлист</li>
+                <li><strong>Быстрый старт:</strong> Скачайте <a href="/data/playlists/Основные.m3u" style="color: var(--neon-blue);">Основные.m3u</a> (102 канала) для мгновенной загрузки</li>
+                <li><strong>Оптимальный выбор:</strong> Используйте <a href="/data/playlists/IPTV.m3u" style="color: var(--neon-blue);">IPTV.m3u</a> (3278 каналов) для баланса размера и количества</li>
+                <li><strong>Региональные каналы:</strong> Выберите свой город в папке <a href="/data/playlists/" style="color: var(--neon-blue);">/data/playlists/</a></li>
+                <li><strong>Полный список:</strong> Для всех 7645+ каналов используйте <a href="/data/playlist.m3u" style="color: var(--neon-blue);">playlist.m3u</a></li>
                 <li>Откройте ваш IPTV плеер (VLC, Kodi, Perfect Player, IPTV Smarters и др.)</li>
                 <li>Добавьте плейлист через URL или загрузите файл</li>
-                <li>Наслаждайтесь просмотром сотен российских телеканалов!</li>
+                <li>Наслаждайтесь просмотром!</li>
                 <li>Плейлист автоматически обновляется каждые 30 минут</li>
             </ol>
             
             <h3 style="margin-top: 40px;">⚙️ Запуск поискового робота:</h3>
+
+            <h3 style="margin-top: 40px;">💡 Рекомендации по выбору плейлиста:</h3>
+            <code style="background: rgba(0, 245, 255, 0.05); border-left: 4px solid var(--neon-blue);">
+                🎯 <strong>Для быстрого старта:</strong> Основные.m3u (102 канала)<br>
+                📺 <strong>Для максимального охвата:</strong> IPTV.m3u (3278 каналов)<br>
+                🏙️ <strong>Для региона:</strong> Москва.m3u, СПб.m3u, Челябинск.m3u и др.<br>
+                🌍 <strong>Для зарубежья:</strong> Italy.m3u, USA.m3u, Germany.m3u и др.<br>
+                📂 <strong>Все категории:</strong> <a href="/data/playlists/INDEX.m3u" style="color: var(--neon-blue);">INDEX.m3u</a> (172 плейлиста)
+            </code>
             <code>
                 # Однократный запуск:<br>
                 python src/bot.py --once<br><br>

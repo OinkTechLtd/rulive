@@ -1,0 +1,19 @@
+#EXTM3U
+# Обновлён: 2026-05-18 12:12:40
+# Всего каналов: 7645
+# Новых за сессию: 0
+# Сгенерировано собственным поисковым роботом LiveM3U
+# НЕ использует iptv-org или другие готовые списки
+
+# Категория: Luxembourg
+# Каналов: 3
+
+#EXTINF:-1 tvg-name="RTL Télé Lëtzebuerg" group-title="Luxembourg",RTL Télé Lëtzebuerg
+https://secure-272717.tatnet.app/live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RTL Zwee" group-title="Luxembourg",RTL Zwee
+https://secure-272717.tatnet.app/live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Chamber TV" group-title="Luxembourg",Chamber TV
+https://secure-272717.tatnet.app/media02.webtvlive.eu/chd-edge/_definst_/smil:chamber_tv_hd.smil/playlist.m3u8
+

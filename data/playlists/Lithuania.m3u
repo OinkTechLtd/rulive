@@ -1,0 +1,22 @@
+#EXTM3U
+# Обновлён: 2026-05-18 12:12:40
+# Всего каналов: 7645
+# Новых за сессию: 0
+# Сгенерировано собственным поисковым роботом LiveM3U
+# НЕ использует iptv-org или другие готовые списки
+
+# Категория: Lithuania
+# Каналов: 4
+
+#EXTINF:-1 tvg-name="LRT TV" group-title="Lithuania",LRT TV
+https://secure-272717.tatnet.app/stream-syncwords.lrt.lt/out/v1/channel-group-lrt-portal-prod-01/channel-lrt-portal-prod-01/endpoint-lrt-portal-prod-01/index.m3u8
+
+#EXTINF:-1 tvg-name="LRT Lituanica" group-title="Lithuania",LRT Lituanica
+https://secure-272717.tatnet.app/stream-live.lrt.lt/lituanica/master.m3u8
+
+#EXTINF:-1 tvg-name="Lietuvos Rytas TV" group-title="Lithuania",Lietuvos Rytas TV
+https://secure-272717.tatnet.app/live.lietuvosryto.tv/live/hls/eteris.m3u8
+
+#EXTINF:-1 tvg-name="Delfi TV" group-title="Lithuania",Delfi TV
+https://secure-272717.tatnet.app/s1.dcdn.lt/live/televizija/playlist.m3u8
+

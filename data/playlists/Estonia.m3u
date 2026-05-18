@@ -1,0 +1,34 @@
+#EXTM3U
+# Обновлён: 2026-05-18 12:12:40
+# Всего каналов: 7645
+# Новых за сессию: 0
+# Сгенерировано собственным поисковым роботом LiveM3U
+# НЕ использует iptv-org или другие готовые списки
+
+# Категория: Estonia
+# Каналов: 8
+
+#EXTINF:-1 tvg-name="ETV Ⓖ" group-title="Estonia",ETV Ⓖ
+https://secure-272717.tatnet.app/sb.err.ee/live/etv.m3u8
+
+#EXTINF:-1 tvg-name="ETV2 Ⓖ" group-title="Estonia",ETV2 Ⓖ
+https://secure-272717.tatnet.app/sb.err.ee/live/etv2.m3u8
+
+#EXTINF:-1 tvg-name="ETV+ Ⓖ" group-title="Estonia",ETV+ Ⓖ
+https://secure-272717.tatnet.app/sb.err.ee/live/etvpluss.m3u8
+
+#EXTINF:-1 tvg-name="Riigikogu" group-title="Estonia",Riigikogu
+https://secure-272717.tatnet.app/riigikogu.babahhcdn.com/bb1027/smil:riigikogu_ch1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Taevas TV7" group-title="Estonia",Taevas TV7
+https://secure-272717.tatnet.app/vod.tv7.fi/tv7-ee/_definst_/smil:tv7-ee.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Life TV Estonia" group-title="Estonia",Life TV Estonia
+https://secure-272717.tatnet.app/lifetv.bitflip.ee/live/stream2.m3u8
+
+#EXTINF:-1 tvg-name="Life TV Europe" group-title="Estonia",Life TV Europe
+https://secure-272717.tatnet.app/lifetv.bitflip.ee/live/stream1.m3u8
+
+#EXTINF:-1 tvg-name="TBN Baltia" group-title="Estonia",TBN Baltia
+https://secure-272717.tatnet.app/dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
+
