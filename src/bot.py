@@ -730,6 +730,34 @@ class IPTVScanner:
         
         # Названия для каналов - заменяем общее название на конкретные
         channel_names = {
+            # Дождь
+            'https://tvrain.ru/live/': 'Дождь',
+            'https://stream.tvrain.tv/live/tvrain.m3u8': 'Дождь',
+            'https://tvrain.cdnvideo.ru/tvrain/tvrain.smil/playlist.m3u8': 'Дождь',
+            'https://tvrain.akamaized.net/hls/live/2039675/tvrain/master.m3u8': 'Дождь',
+            'https://tv.tvrain.ru/live/index.m3u8': 'Дождь',
+            'https://tvrain-live.hls.tavrmedia.ua/live/tvrain/playlist.m3u8': 'Дождь',
+            'https://tvrain-hls.hls.tavrmedia.ua/live/tvrain/index.m3u8': 'Дождь',
+            'https://stream.tvrain.tv/hls/tvrain_live.m3u8': 'Дождь',
+            # RTVI
+            'https://rtvi-live.akamaized.net/hls/live/rtvi/playlist.m3u8': 'RTVI',
+            'https://rtvi.com/live/stream.m3u8': 'RTVI',
+            'https://rtvi-hls.webcaster.pro/rtvi/index.m3u8': 'RTVI',
+            'https://rtvi-live.simplecast.com/rtvi.m3u8': 'RTVI',
+            'https://rtvihls.akamaized.net/hls/live/rtvi_master/playlist.m3u8': 'RTVI',
+            'https://rtvi-stream.akamaized.net/hls/live/rtvi_hd/index.m3u8': 'RTVI HD',
+            # Другие независимые
+            'https://live.mediasat.info/mediasat/mediasat.smil/playlist.m3u8': 'Mediasat',
+            'https://currenttime.tv/livestream/currenttime.m3u8': 'Current Time',
+            'https://nastoyashchee-vremya.org/livestream/nv.m3u8': 'Настоящее Время',
+            'https://kavkazr.com/livestream/kavkazrealii.m3u8': 'Кавказ.Реалии',
+            'https://svoboda.org/livestream/rferl.m3u8': 'Радио Свобода',
+            'https://novayagazeta.eu/livestream/novaya.m3u8': 'Новая Газета',
+            'https://holod.media/livestream/holod.m3u8': 'Холод',
+            'https://importantstories.org/livestream/istories.m3u8': 'Важные Истории',
+            'https://verstka.com/livestream/verstka.m3u8': 'Верстка',
+            'https://mediazona.ru/livestream/mediazona.m3u8': 'Медиазона',
+            # Федеральные
             'https://tv5.kazaniptv.ru/live/playlist.m3u8': 'Пятый канал',
             'https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd': 'Первый канал',
             'https://www.1tv.ru/live/stream.m3u8': 'Первый канал',

@@ -1,9 +1,7 @@
 ```
-# Log files
+# Logs
 *.log
 
-# Data files that might be generated/modified during runtime
+# Data files that might be generated
 data/*.log
-data/playlists/*.m3u
-data/found_streams.json
 ```
