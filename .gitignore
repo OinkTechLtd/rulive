@@ -1,1 +1,10 @@
-Nothing should be ignored based on the provided file changes, as they consist only of source/config files (.json, .html, .md) without any build artifacts, dependencies, or temporary files.
+```
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Data files that might be generated
+data/*.json
+data/*.m3u
+```
