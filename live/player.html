@@ -429,7 +429,7 @@
             reader.readAsText(file);
         }
         
-        // Парсинг M3U
+        // Парсинг M3U - улучшенная версия с правильными названиями каналов
         function parseM3U(content) {
             allChannels = [];
             const lines = content.split('\n');
@@ -440,14 +440,52 @@
                 
                 if (line.startsWith('#EXTINF:')) {
                     const info = line.substring(8);
-                    const parts = info.split(',');
-                    currentChannel.name = parts[parts.length - 1].trim();
                     
+                    // Извлекаем tvg-name если есть
+                    const tvgNameMatch = info.match(/tvg-name="([^"]*)"/);
+                    const tvgName = tvgNameMatch ? tvgNameMatch[1].trim() : null;
+                    
+                    // Извлекаем group-title
                     const groupMatch = info.match(/group-title="([^"]*)"/);
                     currentChannel.group = groupMatch ? groupMatch[1] : 'Разное';
                     
+                    // Извлекаем logo
                     const logoMatch = info.match(/tvg-logo="([^"]*)"/);
                     currentChannel.logo = logoMatch ? logoMatch[1] : null;
+                    
+                    // Название канала - последняя часть после запятой
+                    const parts = info.split(',');
+                    let displayName = parts[parts.length - 1].trim();
+                    
+                    // Если есть tvg-name и он лучше чем displayName, используем его
+                    if (tvgName && tvgName.length > 0) {
+                        // Очищаем tvg-name от технических суффиксов
+                        displayName = tvgName
+                            .replace(/\s*\(1080p\)/gi, '')
+                            .replace(/\s*\(720p\)/gi, '')
+                            .replace(/\s*\(576p\)/gi, '')
+                            .replace(/\s*\(480p\)/gi, '')
+                            .replace(/\s*\(4k\)/gi, '')
+                            .replace(/\s*\[Not 24\/7\]\s*/gi, '')
+                            .replace(/\s*\[Geo-blocked\]\s*/gi, '')
+                            .replace(/\s*HD\s*/gi, '')
+                            .trim();
+                    } else {
+                        // Очищаем displayName от технических суффиксов
+                        displayName = displayName
+                            .replace(/\s*\(1080p\)/gi, '')
+                            .replace(/\s*\(720p\)/gi, '')
+                            .replace(/\s*\(576p\)/gi, '')
+                            .replace(/\s*\(480p\)/gi, '')
+                            .replace(/\s*\(4k\)/gi, '')
+                            .replace(/\s*\[Not 24\/7\]\s*/gi, '')
+                            .replace(/\s*\[Geo-blocked\]\s*/gi, '')
+                            .replace(/\s*HD\s*/gi, '')
+                            .trim();
+                    }
+                    
+                    currentChannel.name = displayName || 'Канал';
+                    
                 } else if (line && !line.startsWith('#')) {
                     currentChannel.url = line;
                     if (currentChannel.name && currentChannel.url) {
