@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SmartTVLove App — Zabawa Wink для РФ</title>
+<link rel="stylesheet" href="live/css/landing.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@300;400;600;700;900&display=swap" rel="stylesheet">
+</head>
+<body>
+<div class="noise"></div>
+
+<!-- HERO -->
+<header class="hero">
+  <nav class="nav">
+    <div class="logo">
+      <span class="logo-icon">📺</span>
+      <span class="logo-text">SmartTVLove</span>
+      <span class="logo-badge">Live</span>
+    </div>
+    <div class="nav-links">
+      <a href="#how">Как работает</a>
+      <a href="#features">Возможности</a>
+      <a href="live/player.html" class="btn-nav">Открыть плеер →</a>
+    </div>
+    <button class="burger" onclick="toggleMenu()">☰</button>
+  </nav>
+  <div class="mobile-menu" id="mobileMenu">
+    <a href="#how">Как работает</a>
+    <a href="#features">Возможности</a>
+    <a href="live/player.html">Открыть плеер</a>
+  </div>
+
+  <div class="hero-content">
+    <div class="badge-top">🇷🇺 Только для РФ · Zabawa Wink</div>
+    <h1 class="hero-title">
+      <span class="line1">SMART</span>
+      <span class="line2">TV<em>LOVE</em></span>
+      <span class="line3">APP</span>
+    </h1>
+    <p class="hero-sub">Современный IPTV-плеер с поддержкой M3U / M3U8 / HLS / DASH<br>Смотри любые плейлисты как на Smart TV — прямо в браузере</p>
+    <div class="hero-btns">
+      <a href="live/player.html" class="btn-primary">▶ Запустить плеер</a>
+      <a href="#how" class="btn-ghost">Посмотреть как работает</a>
+    </div>
+    <div class="hero-stats">
+      <div class="stat"><span>M3U</span><small>Формат</small></div>
+      <div class="stat"><span>HLS</span><small>Стриминг</small></div>
+      <div class="stat"><span>DASH</span><small>Поддержка</small></div>
+      <div class="stat"><span>MP4</span><small>Видео</small></div>
+    </div>
+  </div>
+
+  <div class="hero-screen">
+    <div class="screen-mockup">
+      <div class="screen-top">
+        <span></span><span></span><span></span>
+      </div>
+      <div class="screen-body">
+        <div class="screen-player">
+          <div class="play-icon">▶</div>
+          <div class="screen-overlay">
+            <div class="channel-name">Первый канал HD</div>
+            <div class="progress-bar"><div class="progress-fill"></div></div>
+          </div>
+        </div>
+        <div class="screen-sidebar">
+          <div class="ch active">📺 Первый HD</div>
+          <div class="ch">📺 Россия 1</div>
+          <div class="ch">📺 НТВ</div>
+          <div class="ch">🎬 Кино 1</div>
+          <div class="ch">🎵 Муз ТВ</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- HOW IT WORKS -->
+<section class="how" id="how">
+  <div class="container">
+    <div class="section-label">КАК РАБОТАЕТ</div>
+    <h2>Три шага до просмотра</h2>
+    <p class="section-sub">Используй ссылку на Zabawa-плейлист или свою M3U ссылку</p>
+
+    <div class="steps">
+      <div class="step">
+        <div class="step-num">01</div>
+        <div class="step-icon">🔗</div>
+        <h3>Вставь M3U ссылку</h3>
+        <p>Вставь URL плейлиста в поле ввода. Например, ссылку из проекта <strong>Zabawa Wink</strong> для РФ:</p>
+        <div class="code-block">
+          <code>https://raw.githubusercontent.com/<br>CrocoUser/zabava-project/main/...</code>
+          <button onclick="copyDemo()" class="copy-btn">Копировать</button>
+        </div>
+      </div>
+      <div class="step-arrow">→</div>
+      <div class="step">
+        <div class="step-num">02</div>
+        <div class="step-icon">📋</div>
+        <h3>Выбери группу каналов</h3>
+        <p>Плейлисты автоматически разбиваются по группам. Выпадающий список как на Smart TV — выбери категорию и канал.</p>
+        <div class="mini-ui">
+          <select class="mini-select">
+            <option>📺 Все каналы (128)</option>
+            <option>🎬 Кино и сериалы</option>
+            <option>📰 Новости</option>
+          </select>
+        </div>
+      </div>
+      <div class="step-arrow">→</div>
+      <div class="step">
+        <div class="step-num">03</div>
+        <div class="step-icon">▶</div>
+        <h3>Смотри в плеере</h3>
+        <p>Современный плеер с выбором качества, полноэкранным режимом, embed-кодом и поддержкой всех форматов потоков.</p>
+        <div class="quality-tags">
+          <span>4K</span><span>1080p</span><span>720p</span><span>480p</span><span>Auto</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- DEMO TUTORIAL -->
+    <div class="tutorial-box">
+      <div class="tutorial-header">
+        <span class="tut-badge">📖 ТУТОРИАЛ</span>
+        <h3>Как смотреть Zabawa Wink плейлисты</h3>
+      </div>
+      <div class="tutorial-steps">
+        <div class="tut-step">
+          <div class="tut-n">1</div>
+          <div class="tut-text">
+            <strong>Открой плеер</strong> по кнопке «Запустить плеер» выше
+          </div>
+        </div>
+        <div class="tut-step">
+          <div class="tut-n">2</div>
+          <div class="tut-text">
+            <strong>Перейди на GitHub</strong> проекта:
+            <a href="https://github.com/CrocoUser/zabava-project" target="_blank" rel="noopener" class="tut-link">github.com/CrocoUser/zabava-project</a>
+          </div>
+        </div>
+        <div class="tut-step">
+          <div class="tut-n">3</div>
+          <div class="tut-text">
+            <strong>Найди .m3u файл</strong> в репозитории, нажми на него, затем кнопку «Raw» — скопируй URL
+          </div>
+        </div>
+        <div class="tut-step">
+          <div class="tut-n">4</div>
+          <div class="tut-text">
+            <strong>Вставь Raw-ссылку</strong> в поле плеера и нажми «Загрузить» — каналы появятся автоматически
+          </div>
+        </div>
+        <div class="tut-step">
+          <div class="tut-n">5</div>
+          <div class="tut-text">
+            <strong>Выбери группу</strong> из выпадающего списка и кликни на канал для просмотра
+          </div>
+        </div>
+      </div>
+      <div class="tut-warning">
+        ⚠️ <strong>Только для РФ:</strong> Сервис Zabawa Wink предоставляет каналы для российских пользователей. Используй VPN при необходимости.
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FEATURES -->
+<section class="features" id="features">
+  <div class="container">
+    <div class="section-label">ВОЗМОЖНОСТИ</div>
+    <h2>Всё что нужно для IPTV</h2>
+    <div class="features-grid">
+      <div class="feat">
+        <div class="feat-icon">🎬</div>
+        <h4>Все форматы</h4>
+        <p>M3U, M3U8, HLS, MPEG-DASH, MP4, WebM, TS, FLV — плеер воспроизводит всё</p>
+      </div>
+      <div class="feat">
+        <div class="feat-icon">📋</div>
+        <h4>Группы каналов</h4>
+        <p>Автоматическая сортировка по группам из M3U файла с удобным выпадающим списком</p>
+      </div>
+      <div class="feat">
+        <div class="feat-icon">🔍</div>
+        <h4>Поиск каналов</h4>
+        <p>Мгновенный поиск по названию среди всех загруженных каналов плейлиста</p>
+      </div>
+      <div class="feat">
+        <div class="feat-icon">📐</div>
+        <h4>Выбор качества</h4>
+        <p>Переключение качества потока: Auto, 1080p, 720p, 480p, 360p в реальном времени</p>
+      </div>
+      <div class="feat">
+        <div class="feat-icon">🔗</div>
+        <h4>Embed код</h4>
+        <p>Скопируй embed-код выбранного канала и встрой его на любой сайт</p>
+      </div>
+      <div class="feat">
+        <div class="feat-icon">📱</div>
+        <h4>Мобильная версия</h4>
+        <p>Полностью адаптивный дизайн — работает на смартфоне, планшете и TV-браузере</p>
+      </div>
+      <div class="feat">
+        <div class="feat-icon">⛶</div>
+        <h4>Полный экран</h4>
+        <p>Режим полноэкранного просмотра с управлением поверх видео как на Smart TV</p>
+      </div>
+      <div class="feat">
+        <div class="feat-icon">🎭</div>
+        <h4>EPG поддержка</h4>
+        <p>Отображение логотипов каналов из M3U метаданных (tvg-logo, tvg-name)</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA -->
+<section class="cta">
+  <div class="container">
+    <div class="cta-box">
+      <h2>Готов смотреть?</h2>
+      <p>Открой плеер, вставь ссылку на M3U плейлист Zabawa Wink — и наслаждайся просмотром</p>
+      <a href="/live/player.html" class="btn-primary big">▶ Открыть SmartTVLove плеер</a>
+      <div class="cta-note">Бесплатно · Без регистрации · Работает в браузере</div>
+    </div>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer-inner">
+      <div class="footer-logo">📺 SmartTVLove App</div>
+      <div class="footer-text">Zabawa Wink — сервис для РФ<br><a href="https://github.com/CrocoUser/zabava-project" target="_blank" rel="noopener">github.com/CrocoUser/zabava-project</a></div>
+      <div class="footer-links">
+        <a href="/live/player.html">Плеер</a>
+        <a href="/live/embed.html">Embed</a>
+      </div>
+    </div>
+    <div class="footer-bottom">© 2024 SmartTVLove Live · Только для РФ · Не является официальным сервисом Wink</div>
+  </div>
+</footer>
+
+<script>
+function toggleMenu() {
+  document.getElementById('mobileMenu').classList.toggle('open');
+}
+function copyDemo() {
+  navigator.clipboard.writeText('https://raw.githubusercontent.com/CrocoUser/zabava-project/main/playlist.m3u').then(() => {
+    event.target.textContent = '✓ Скопировано';
+    setTimeout(() => event.target.textContent = 'Копировать', 2000);
+  });
+}
+// Smooth scroll
+document.querySelectorAll('a[href^="#"]').forEach(a => {
+  a.addEventListener('click', e => {
+    e.preventDefault();
+    document.querySelector(a.getAttribute('href'))?.scrollIntoView({behavior:'smooth'});
+  });
+});
+</script>
+</body>
+</html>

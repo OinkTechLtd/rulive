@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>SmartTVLove — Плеер</title>
+<link rel="stylesheet" href="/live/css/player.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+<link rel="preconnect" href="https://cdn.dashjs.org" crossorigin>
+<link rel="dns-prefetch" href="//cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="//cdn.dashjs.org">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<!-- HLS.js -->
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<!-- Dash.js -->
+<script src="https://cdn.dashjs.org/latest/dash.all.min.js"></script>
+</head>
+<body>
+
+<!-- TOP BAR -->
+<div class="topbar">
+  <div class="topbar-title">📺 <span id="currentChannelName">Нет канала</span></div>
+  <div class="topbar-right">
+    <button onclick="toggleSidebar()" class="icon-btn" title="Каналы">☰</button>
+    <button onclick="openEmbedModal()" class="icon-btn" id="embedBtn" title="Embed код" disabled>🔗</button>
+  </div>
+</div>
+
+<!-- MAIN LAYOUT -->
+<div class="app-layout" id="appLayout">
+
+  <!-- SIDEBAR -->
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-header">
+      <h2>📺 Плейлист</h2>
+      <button onclick="toggleSidebar()" class="close-sidebar">✕</button>
+    </div>
+
+    <!-- M3U INPUT -->
+    <div class="m3u-input-area">
+      <label>M3U Ссылка или URL файла</label>
+      <div class="input-row">
+        <input type="url" id="m3uUrl" placeholder="https://... .m3u или .m3u8" />
+        <button onclick="loadPlaylist()" id="loadBtn" class="load-btn">▶ Загрузить</button>
+      </div>
+      <div class="quick-links">
+        <span>Быстрый доступ:</span>
+        <button onclick="loadZabawa()" class="quick-btn">Zabawa Wink</button>
+      </div>
+    </div>
+
+    <!-- SEARCH -->
+    <div class="search-area">
+      <input type="text" id="searchInput" placeholder="🔍 Поиск каналов..." oninput="filterChannels()" />
+    </div>
+
+    <!-- GROUP SELECT -->
+    <div class="group-area">
+      <label>Группа каналов</label>
+      <select id="groupSelect" onchange="filterByGroup()" disabled>
+        <option value="">Все каналы</option>
+      </select>
+    </div>
+
+    <!-- CHANNEL LIST -->
+    <div class="channel-list" id="channelList">
+      <div class="empty-state">
+        <div class="empty-icon">📡</div>
+        <p>Вставьте ссылку M3U и нажмите «Загрузить»</p>
+        <small>Поддерживаются: M3U, M3U8, HLS, DASH, MP4, TS, WebM</small>
+      </div>
+    </div>
+
+    <div class="sidebar-footer">
+      <span id="channelCount">0 каналов</span>
+    </div>
+  </aside>
+
+  <!-- PLAYER AREA -->
+  <main class="player-area">
+    <!-- VIDEO WRAPPER -->
+    <div class="video-wrapper" id="videoWrapper">
+      <video id="videoPlayer" playsinline></video>
+
+      <!-- CONTROLS OVERLAY -->
+      <div class="controls-overlay" id="controlsOverlay">
+        <div class="controls-top">
+          <span class="now-playing" id="nowPlaying">Выберите канал</span>
+          <div class="top-right-controls">
+            <select id="qualitySelect" onchange="changeQuality()" class="quality-select">
+              <option value="auto">Auto</option>
+            </select>
+            <button onclick="toggleFullscreen()" class="ctrl-btn" title="Полный экран">⛶</button>
+          </div>
+        </div>
+
+        <div class="controls-center" id="controlsCenter">
+          <button onclick="seekBack()" class="ctrl-big">⏪</button>
+          <button onclick="togglePlay()" class="ctrl-play" id="playBtn">▶</button>
+          <button onclick="seekFwd()" class="ctrl-big">⏩</button>
+        </div>
+
+        <div class="controls-bottom">
+          <div class="progress-area">
+            <input type="range" id="progressBar" value="0" min="0" max="100" step="0.1" oninput="seekTo(this.value)" class="progress-input" />
+            <div class="time-display">
+              <span id="currentTime">0:00</span>
+              <span id="duration">Live</span>
+            </div>
+          </div>
+          <div class="bottom-controls">
+            <div class="vol-group">
+              <button onclick="toggleMute()" class="ctrl-btn" id="muteBtn">🔊</button>
+              <input type="range" id="volumeBar" value="80" min="0" max="100" oninput="setVolume(this.value)" class="volume-input" />
+            </div>
+            <div class="right-controls">
+              <button onclick="togglePIP()" class="ctrl-btn" title="Картинка в картинке">⧉</button>
+              <button onclick="openEmbedModal()" class="ctrl-btn" title="Embed">🔗</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- BUFFERING -->
+      <div class="buffering" id="buffering" style="display:none">
+        <div class="spinner"></div>
+        <span>Загрузка...</span>
+      </div>
+
+      <!-- NO CHANNEL -->
+      <div class="no-channel" id="noChannel">
+        <div class="no-ch-icon">📺</div>
+        <h3>SmartTVLove Player</h3>
+        <p>Загрузите M3U плейлист и выберите канал</p>
+      </div>
+    </div>
+
+    <!-- CHANNEL INFO BAR -->
+    <div class="info-bar" id="infoBar" style="display:none">
+      <img id="channelLogo" src="" alt="" class="ch-logo" />
+      <div class="ch-info">
+        <div class="ch-title" id="infoTitle">—</div>
+        <div class="ch-group" id="infoGroup">—</div>
+      </div>
+      <div class="ch-actions">
+        <button onclick="openEmbedModal()" class="action-btn">🔗 Embed</button>
+        <a id="directLink" href="#" target="_blank" class="action-btn">↗ Прямая ссылка</a>
+      </div>
+    </div>
+  </main>
+</div>
+
+<!-- EMBED MODAL -->
+<div class="modal-overlay" id="embedModal" style="display:none" onclick="closeEmbedModal(event)">
+  <div class="modal">
+    <div class="modal-header">
+      <h3>🔗 Embed код канала</h3>
+      <button onclick="closeEmbedModal()" class="modal-close">✕</button>
+    </div>
+    <div class="modal-body">
+      <p class="modal-note">Этот код встраивает <strong id="embedChannelName">канал</strong> на ваш сайт:</p>
+      <textarea id="embedCode" class="embed-textarea" readonly onclick="this.select()"></textarea>
+      <div class="modal-actions">
+        <button onclick="copyEmbed()" class="btn-copy" id="copyEmbedBtn">📋 Копировать код</button>
+        <button onclick="openEmbedPlayer()" class="btn-open">↗ Открыть в embed плеере</button>
+      </div>
+      <div class="embed-preview-label">Превью:</div>
+      <div id="embedPreview" class="embed-preview"></div>
+    </div>
+  </div>
+</div>
+
+<!-- LOADING TOAST -->
+<div class="toast" id="toast"></div>
+
+<script src="/live/js/player.js"></script>
+</body>
+</html>

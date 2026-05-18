@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SmartTVLove — Embed Player</title>
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+<link rel="preconnect" href="https://cdn.dashjs.org" crossorigin>
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<script src="https://cdn.dashjs.org/latest/dash.all.min.js"></script>
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+:root {
+  --accent: #e63946;
+  --bg: #000;
+  --text: #fff;
+  --muted: rgba(255,255,255,0.6);
+}
+html, body { width: 100%; height: 100%; overflow: hidden; background: #000; }
+
+.player-wrap {
+  position: relative; width: 100%; height: 100%;
+  background: #000; display: flex; align-items: center; justify-content: center;
+}
+
+video { width: 100%; height: 100%; object-fit: contain; display: block; }
+
+.controls {
+  position: absolute; bottom: 0; left: 0; right: 0;
+  background: linear-gradient(transparent, rgba(0,0,0,0.85));
+  padding: 30px 14px 10px;
+  opacity: 0; transition: opacity 0.3s;
+}
+.player-wrap:hover .controls { opacity: 1; }
+
+.ch-title {
+  position: absolute; top: 10px; left: 12px;
+  font-family: sans-serif; font-size: 13px; font-weight: 600; color: #fff;
+  text-shadow: 0 1px 4px rgba(0,0,0,0.8);
+  display: flex; align-items: center; gap: 8px;
+}
+.ch-logo { width: 28px; height: 20px; object-fit: contain; display: none; }
+.ch-logo.show { display: block; }
+
+.branding {
+  position: absolute; top: 10px; right: 12px;
+  font-family: sans-serif; font-size: 10px; color: rgba(255,255,255,0.4);
+  letter-spacing: 1px;
+}
+
+.ctrl-row { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.progress { flex: 1; -webkit-appearance: none; height: 3px; background: rgba(255,255,255,0.3); border-radius: 2px; outline: none; cursor: pointer; min-width: 60px; }
+.progress::-webkit-slider-thumb { -webkit-appearance: none; width: 12px; height: 12px; border-radius: 50%; background: var(--accent); cursor: pointer; }
+.cbtn { background: none; border: none; color: #fff; cursor: pointer; font-size: 16px; padding: 4px; line-height: 1; opacity: 0.85; transition: opacity 0.2s; }
+.cbtn:hover { opacity: 1; }
+.vol { width: 60px; -webkit-appearance: none; height: 3px; background: rgba(255,255,255,0.3); border-radius: 2px; outline: none; cursor: pointer; }
+.vol::-webkit-slider-thumb { -webkit-appearance: none; width: 10px; height: 10px; border-radius: 50%; background: #fff; }
+.qsel { background: rgba(0,0,0,0.6); border: 1px solid rgba(255,255,255,0.2); color: #fff; padding: 2px 6px; border-radius: 4px; font-size: 11px; cursor: pointer; max-width: 80px; }
+.time { font-family: sans-serif; font-size: 11px; color: var(--muted); white-space: nowrap; }
+
+.spinner-wrap {
+  position: absolute; inset: 0; display: flex; align-items: center; justify-content: center;
+  background: rgba(0,0,0,0.5); pointer-events: none;
+}
+.spinner { width: 32px; height: 32px; border: 3px solid rgba(255,255,255,0.2); border-top-color: var(--accent); border-radius: 50%; animation: spin 0.8s linear infinite; }
+@keyframes spin { to { transform: rotate(360deg); } }
+
+.error-msg {
+  position: absolute; inset: 0; display: flex; flex-direction: column;
+  align-items: center; justify-content: center; gap: 12px;
+  background: rgba(0,0,0,0.8); font-family: sans-serif;
+}
+.error-msg span { font-size: 40px; }
+.error-msg p { color: rgba(255,255,255,0.7); font-size: 14px; text-align: center; padding: 0 20px; }
+.retry-btn { background: var(--accent); color: #fff; border: none; padding: 8px 20px; border-radius: 8px; cursor: pointer; font-size: 13px; }
+
+.live-badge {
+  background: var(--accent); color: #fff; font-size: 9px; font-weight: 700;
+  padding: 2px 6px; border-radius: 3px; letter-spacing: 1px;
+  animation: pulse 2s ease-in-out infinite;
+}
+@keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.5} }
+</style>
+</head>
+<body>
+<div class="player-wrap" id="pw">
+  <!-- CHANNEL INFO -->
+  <div class="ch-title">
+    <img id="logoImg" class="ch-logo" src="" alt="" />
+    <span id="chName">Загрузка...</span>
+    <span class="live-badge" id="liveBadge" style="display:none">LIVE</span>
+  </div>
+  <div class="branding">SmartTVLove by StreamLIVETV</div>
+
+  <video id="vid" playsinline></video>
+
+  <!-- CONTROLS -->
+  <div class="controls" id="ctrl">
+    <div class="ctrl-row">
+      <button class="cbtn" id="playB" onclick="togglePlay()">▶</button>
+      <input type="range" class="progress" id="prog" value="0" min="0" max="100" step="0.1" oninput="seekTo(this.value)">
+      <span class="time" id="timeEl">Live</span>
+      <button class="cbtn" id="muteB" onclick="toggleMute()">🔊</button>
+      <input type="range" class="vol" id="volR" value="80" min="0" max="100" oninput="setVol(this.value)">
+      <select class="qsel" id="qsel" onchange="setQuality()"><option value="-1">Auto</option></select>
+      <button class="cbtn" onclick="goFS()">⛶</button>
+    </div>
+  </div>
+
+  <!-- BUFFERING -->
+  <div class="spinner-wrap" id="spin" style="display:none"><div class="spinner"></div></div>
+
+  <!-- ERROR -->
+  <div class="error-msg" id="errMsg" style="display:none">
+    <span>📡</span>
+    <p id="errText">Поток недоступен</p>
+    <button class="retry-btn" onclick="init()">↺ Попробовать снова</button>
+  </div>
+</div>
+
+<script>
+const params = new URLSearchParams(location.search);
+const streamUrl = params.get('url') || '';
+const chName = params.get('name') || 'Канал';
+const chLogo = params.get('logo') || '';
+
+const vid = document.getElementById('vid');
+let hls, dash;
+let watchdogTimer = null;
+let retryCount = 0;
+const MAX_RETRIES = 2;
+
+const HLS_CDNS = [
+  'https://cdn.jsdelivr.net/npm/hls.js@latest',
+  'https://unpkg.com/hls.js@latest/dist/hls.min.js',
+  'https://cdnjs.cloudflare.com/ajax/libs/hls.js/1.5.17/hls.min.js'
+];
+const DASH_CDNS = [
+  'https://cdn.dashjs.org/latest/dash.all.min.js',
+  'https://cdnjs.cloudflare.com/ajax/libs/dashjs/4.7.4/dash.all.min.js'
+];
+
+document.getElementById('chName').textContent = chName;
+document.title = chName + ' — SmartTVLove by StreamLIVETV';
+
+if (chLogo) {
+  const logo = document.getElementById('logoImg');
+  logo.src = chLogo;
+  logo.className = 'ch-logo show';
+  logo.onerror = () => logo.className = 'ch-logo';
+}
+
+function loadScriptWithFallback(urls, checker) {
+  if (checker()) return Promise.resolve(true);
+  const [first, ...rest] = urls;
+  if (!first) return Promise.resolve(false);
+
+  return new Promise(resolve => {
+    const s = document.createElement('script');
+    s.src = first;
+    s.async = true;
+    s.crossOrigin = 'anonymous';
+    s.onload = () => resolve(checker());
+    s.onerror = () => resolve(false);
+    document.head.appendChild(s);
+  }).then(ok => ok ? true : loadScriptWithFallback(rest, checker));
+}
+
+async function ensurePlaybackEngines() {
+  const [hlsReady, dashReady] = await Promise.all([
+    loadScriptWithFallback(HLS_CDNS, () => typeof window.Hls !== 'undefined'),
+    loadScriptWithFallback(DASH_CDNS, () => typeof window.dashjs !== 'undefined')
+  ]);
+
+  if (!hlsReady) console.warn('HLS engine was not loaded from CDNs');
+  if (!dashReady) console.warn('DASH engine was not loaded from CDNs');
+}
+
+async function init() {
+  cleanupPlayers();
+  document.getElementById('errMsg').style.display = 'none';
+  if (!streamUrl) {
+    document.getElementById('errText').textContent = 'URL потока не указан';
+    document.getElementById('errMsg').style.display = 'flex';
+    return;
+  }
+
+  showSpin(true);
+  await ensurePlaybackEngines();
+
+  const ext = streamUrl.split('?')[0].split('.').pop().toLowerCase();
+  if (streamUrl.includes('.m3u8') || streamUrl.includes('hls') || ext === 'm3u8' || ext === 'm3u') {
+    playHLS(streamUrl);
+  } else if (streamUrl.includes('.mpd') || ext === 'mpd') {
+    playDASH(streamUrl);
+  } else {
+    playNative(streamUrl);
+  }
+
+  startWatchdog();
+}
+
+function playHLS(url) {
+  if (window.Hls && Hls.isSupported()) {
+    hls = new Hls({
+      enableWorker: true,
+      lowLatencyMode: true,
+      backBufferLength: 60,
+      maxBufferLength: 20,
+      manifestLoadingTimeOut: 15000,
+      fragLoadingTimeOut: 20000
+    });
+    hls.loadSource(url);
+    hls.attachMedia(vid);
+    hls.on(Hls.Events.MANIFEST_PARSED, (_, data) => {
+      buildQ(data.levels || []);
+      vid.play().catch(() => {});
+      document.getElementById('liveBadge').style.display = 'inline';
+    });
+    hls.on(Hls.Events.ERROR, (_, d) => {
+      if (!d.fatal) return;
+      if (d.type === Hls.ErrorTypes.NETWORK_ERROR) {
+        hls.startLoad();
+      } else if (d.type === Hls.ErrorTypes.MEDIA_ERROR) {
+        hls.recoverMediaError();
+      } else {
+        recoverWithRetry('Ошибка HLS: ' + (d.details || 'неизвестно'));
+      }
+    });
+  } else if (vid.canPlayType('application/vnd.apple.mpegurl')) {
+    playNative(url);
+  } else {
+    showErr('HLS не поддерживается в этом браузере');
+  }
+}
+
+function playDASH(url) {
+  if (window.dashjs) {
+    dash = dashjs.MediaPlayer().create();
+    dash.updateSettings({
+      streaming: {
+        lowLatencyEnabled: true,
+        fastSwitchEnabled: true,
+        retryIntervals: { MPD: 1000, Fragment: 1000 },
+        retryAttempts: { MPD: 3, Fragment: 3 }
+      }
+    });
+    dash.initialize(vid, url, true);
+    dash.on(dashjs.MediaPlayer.events.ERROR, () => recoverWithRetry('Ошибка DASH потока'));
+  } else {
+    playNative(url);
+  }
+}
+
+function playNative(url) {
+  vid.src = url;
+  vid.preload = 'auto';
+  vid.play().catch(() => recoverWithRetry('Не удалось воспроизвести поток'));
+}
+
+function cleanupPlayers() {
+  clearTimeout(watchdogTimer);
+  if (hls) { hls.destroy(); hls = null; }
+  if (dash) { dash.reset(); dash = null; }
+  vid.removeAttribute('src');
+  vid.load();
+}
+
+function recoverWithRetry(message) {
+  if (retryCount < MAX_RETRIES) {
+    retryCount += 1;
+    showSpin(true);
+    setTimeout(() => init(), 900 * retryCount);
+    return;
+  }
+  showErr(message);
+}
+
+function startWatchdog() {
+  clearTimeout(watchdogTimer);
+  watchdogTimer = setTimeout(() => {
+    if (vid.readyState < 2 || vid.currentTime === 0) {
+      recoverWithRetry('Поток долго не стартует (возможна блокировка CDN/провайдера)');
+    }
+  }, 10000);
+}
+
+function buildQ(levels) {
+  const s = document.getElementById('qsel');
+  s.innerHTML = '<option value="-1">Auto</option>';
+  levels.forEach((l, i) => {
+    const o = document.createElement('option');
+    o.value = i;
+    o.textContent = l.height ? l.height+'p' : 'Q'+i;
+    s.appendChild(o);
+  });
+}
+
+function setQuality() {
+  const v = parseInt(document.getElementById('qsel').value);
+  if (hls) hls.currentLevel = v;
+  else if (dash) {
+    dash.setAutoSwitchQualityFor('video', v === -1);
+    if (v !== -1) dash.setQualityFor('video', v);
+  }
+}
+
+vid.addEventListener('playing', () => { showSpin(false); clearTimeout(watchdogTimer); document.getElementById('playB').textContent = '⏸'; });
+vid.addEventListener('pause', () => document.getElementById('playB').textContent = '▶');
+vid.addEventListener('waiting', () => showSpin(true));
+vid.addEventListener('canplay', () => showSpin(false));
+vid.addEventListener('timeupdate', () => {
+  if (vid.duration && isFinite(vid.duration)) {
+    document.getElementById('prog').value = (vid.currentTime / vid.duration) * 100;
+    const m = Math.floor(vid.currentTime/60), s = Math.floor(vid.currentTime%60);
+    document.getElementById('timeEl').textContent = m+':'+(s<10?'0':'')+s;
+  }
+});
+vid.addEventListener('error', () => showErr('Ошибка воспроизведения'));
+vid.addEventListener('click', togglePlay);
+
+function togglePlay() { vid.paused ? vid.play() : vid.pause(); }
+function seekTo(p) { if (vid.duration) vid.currentTime = (p/100)*vid.duration; }
+function setVol(v) { vid.volume = v/100; }
+function toggleMute() { vid.muted = !vid.muted; document.getElementById('muteB').textContent = vid.muted ? '🔇' : '🔊'; }
+function goFS() {
+  const w = document.getElementById('pw');
+  if (!document.fullscreenElement) w.requestFullscreen?.() || w.webkitRequestFullscreen?.();
+  else document.exitFullscreen?.() || document.webkitExitFullscreen?.();
+}
+function showSpin(v) { document.getElementById('spin').style.display = v ? 'flex' : 'none'; }
+function showErr(msg) {
+  showSpin(false);
+  document.getElementById('errText').textContent = msg;
+  document.getElementById('errMsg').style.display = 'flex';
+}
+
+window.addEventListener('beforeunload', cleanupPlayers);
+init();
+</script>
+</body>
+</html>
