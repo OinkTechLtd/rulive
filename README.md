@@ -160,72 +160,7 @@ python src/bot.py --ip-ranges 195.161.0.0/16 95.161.0.0/16
 2. **Или используйте URL**: `https://your-domain.com/data/playlist.m3u`
 3. **Откройте** в любом IPTV плеере (VLC, Kodi, IPTV Org, TiviMate и др.)
 
-### Вариант 3: Веб-плеер онлайн 🆕
-Смотрите IPTV прямо в браузере без установки дополнительных программ!
 
-1. **Откройте** `https://your-domain.com/live/player.html?src=https://stream-url.com/playlist.m3u8`
-2. **Или встройте на сайт** через iframe или JS (см. ниже)
-
-**Встраивание на сайт:**
-
-#### Способ 1: Через iframe (самый простой)
-```html
-<iframe src="https://your-domain.com/live/player.html?src=https://stream-url.com/playlist.m3u8" 
-        width="100%" 
-        height="100%" 
-        frameborder="0" 
-        allowfullscreen>
-</iframe>
-```
-
-#### Способ 2: Через JavaScript (для динамической загрузки)
-```html
-<div id="iptv-player" style="width:100%;height:100%"></div>
-<script>
-  // Загрузка плеера с нужным потоком
-  const streamUrl = 'https://stream-url.com/playlist.m3u8';
-  const playerUrl = `https://your-domain.com/live/player.html?src=${encodeURIComponent(streamUrl)}`;
-  
-  document.getElementById('iptv-player').innerHTML = 
-    `<iframe src="${playerUrl}" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>`;
-</script>
-```
-
-#### Способ 3: Прямое подключение Player.js (как в player.html)
-```html
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    html,body{margin:0;height:100%;background:#000}
-    #player{width:100%;height:100%}
-  </style>
-</head>
-<body>
-  <div id="player"></div>
-  <script src="https://cdn.jsdelivr.net/gh/OinkTechLLC/cdnplayerjs@main/playerjs.js"></script>
-  <script>
-    new Playerjs({
-      id: 'player',
-      file: 'https://stream-url.com/playlist.m3u8',
-      title: 'Мой IPTV канал',
-      autoplay: 1
-    });
-  </script>
-</body>
-</html>
-```
-
-**Параметры URL для player.html:**
-- `?src=URL` - основной параметр для потока
-- `?file=URL` - альтернативный параметр
-- `?stream=URL` - альтернативный параметр
-- `?title=Название` - название канала (опционально)
-
-**Примеры использования:**
-```
-https://your-domain.com/live/player.html?src=https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
-https://your-domain.com/live/player.html?src=https://stream.tvrain.tv/live/tvrain.m3u8&title=Дождь
 ```
 
 **Возможности веб-плеера:**
