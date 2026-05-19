@@ -1,3 +1,28 @@
-```html
+# Examples 1:
+(empty — output nothing)
 
-```
+# Example 2 (Project with artifacts):
+# Compiled and build artifacts
+*.pyc
+__pycache__/
+*.o
+*.obj
+dist/
+build/
+target/
+# Dependencies
+.venv/
+venv/
+.env
+.env.local
+.env.*
+node_modules/
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+# Editors
+.vscode/
+.idea/
+# Original rules preserved
+*.log

@@ -108,6 +108,7 @@
   <script src="https://cdn.jsdelivr.net/gh/OinkTechLLC/cdnplayerjs@main/playerjs.js"></script>
   <script>
     let currentChannels=[],currentPlayer=null,embedType='iframe';
+    const PROXY_URL='https://secure-271717.tatnet.app/';
     const params=new URLSearchParams(window.location.search);
     const initialSrc=params.get('src')||params.get('file')||params.get('stream')||'';
     const initialTitle=params.get('title')||'IPTV канал';
@@ -159,7 +160,9 @@
       const container=document.getElementById('channelsList');
       container.innerHTML='<div style="padding:20px;text-align:center;color:#888">Загрузка каналов...</div>';
       try{
-        const response=await fetch(url);
+        // Используем прокси для загрузки M3U файлов
+        const proxyUrl=PROXY_URL+encodeURIComponent(url);
+        const response=await fetch(proxyUrl);
         if(!response.ok)throw new Error('Не удалось загрузить');
         const text=await response.text();
         currentChannels=parseM3u(text);
