@@ -724,7 +724,7 @@
             document.getElementById('playlist-url').textContent = url;
             
             // Обновляем URL прокси-плейлиста
-            const proxyUrl = `${protocol}//secure-272717.tatnet.app/data/playlist.m3u`;
+            const proxyUrl = `${protocol}//secure-272717.tatnet.app/${currentHost}/data/playlist.m3u`;
             const proxyElement = document.getElementById('proxy-playlist-url');
             if (proxyElement) {
                 proxyElement.textContent = proxyUrl;
