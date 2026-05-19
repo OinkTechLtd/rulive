@@ -1,6 +1,21 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}"
 #EXTINF:-1,ИНФОКАНАЛ
 https://github.com/CrocoUser/files/raw/refs/heads/main/infokanal.m3u8
+#EXTINF:-1 group-title="Независимые" tvg-id="dozhd",Дождь (TV Rain)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://secure-272717.tatnet.app/wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+#EXTINF:-1 group-title="Независимые" tvg-id="dozhd-backup",Дождь (резерв)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://secure-272717.tatnet.app/tvrain.akamaized.net/hls/live/2039675/tvrain/master.m3u8
+#EXTINF:-1 group-title="Независимые" tvg-id="rtvi",RTVI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://secure-272717.tatnet.app/rtvi-live.akamaized.net/hls/live/rtvi/playlist.m3u8
+#EXTINF:-1 group-title="Независимые" tvg-id="currenttime",Настоящее Время
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://secure-272717.tatnet.app/currenttime.akamaized.net/hls/live/currenttime/playlist.m3u8
+#EXTINF:-1 group-title="Международные" tvg-id="bbcrussian",BBC News Русская служба
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://secure-272717.tatnet.app/bbc-news-russian.akamaized.net/hls/live/bbcrussian/playlist.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="pervy",Первый
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8

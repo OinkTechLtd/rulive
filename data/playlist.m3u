@@ -2221,7 +2221,8 @@ https://secure-272717.tatnet.app/mts.ru/iptv.m3u
 
 
 #EXTINF:-1 tvg-name="Дождь" group-title="IPTV",Дождь
-https://secure-272717.tatnet.app/stream.tvrain.tv/live/tvrain.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://secure-272717.tatnet.app/wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Дождь" group-title="IPTV",Дождь
 https://secure-272717.tatnet.app/tvrain.cdnvideo.ru/tvrain/tvrain.smil/playlist.m3u8
