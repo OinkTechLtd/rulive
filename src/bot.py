@@ -466,6 +466,78 @@ class IPTVScanner:
         with open(HISTORY_FILE, 'w', encoding='utf-8') as f:
             json.dump(self.channel_history, f, ensure_ascii=False, indent=2)
     
+    async def check_stream_availability(self, url: str) -> bool:
+        """Проверка доступности потока в РФ (с прокси и без)"""
+        try:
+            # Для zabava-htlive.cdn.ngenix.net и tvrain.tv - прямая проверка без прокси
+            direct_domains = ['zabava-htlive.cdn.ngenix.net', 'tvrain.tv', 'tvrain.akamaized.net', 
+                             'd1vrcsh6f4z3z8.cloudfront.net', 'cdn.tvrain.tv', 'hls.tvrain.tv',
+                             'stream.tvrain.tv', 'live.tvrain.tv']
+            
+            use_proxy = not any(domain in url for domain in direct_domains)
+            
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+                'Accept': '*/*',
+                'Referer': 'https://ok.ru/'
+            }
+            
+            # Проверка без прокси для доверенных CDN
+            if not use_proxy:
+                try:
+                    async with self.session.head(url, headers=headers, timeout=aiohttp.ClientTimeout(total=8), allow_redirects=True) as response:
+                        if response.status in [200, 206, 301, 302]:
+                            return True
+                except Exception:
+                    pass
+            
+            # Проверка через прокси для остальных
+            if use_proxy:
+                try:
+                    parsed = urllib.parse.urlparse(url)
+                    target_url = parsed.scheme + '://' + parsed.netloc + parsed.path
+                    if parsed.query:
+                        target_url += '?' + parsed.query
+                    proxy_url = f"{PROXY_BASE}{parsed.netloc}{parsed.path}"
+                    if parsed.query:
+                        proxy_url += '?' + parsed.query
+                    
+                    async with self.session.head(proxy_url, headers=headers, timeout=aiohttp.ClientTimeout(total=8), allow_redirects=True) as response:
+                        if response.status in [200, 206, 301, 302]:
+                            return True
+                except Exception:
+                    pass
+            
+            # Фолбэк: попытка GET запроса с малым диапазоном
+            headers['Range'] = 'bytes=0-1024'
+            if not use_proxy:
+                try:
+                    async with self.session.get(url, headers=headers, timeout=aiohttp.ClientTimeout(total=8), allow_redirects=True) as response:
+                        if response.status in [200, 206]:
+                            content = await response.read()
+                            if len(content) > 0:
+                                return True
+                except Exception:
+                    pass
+            else:
+                try:
+                    parsed = urllib.parse.urlparse(url)
+                    proxy_url = f"{PROXY_BASE}{parsed.netloc}{parsed.path}"
+                    if parsed.query:
+                        proxy_url += '?' + parsed.query
+                    async with self.session.get(proxy_url, headers=headers, timeout=aiohttp.ClientTimeout(total=8), allow_redirects=True) as response:
+                        if response.status in [200, 206]:
+                            content = await response.read()
+                            if len(content) > 0:
+                                return True
+                except Exception:
+                    pass
+            
+            return False
+            
+        except Exception as e:
+            return False
+    
     async def check_and_add(self, url: str, source: str = "scan", name: str = None, group: str = "IPTV") -> bool:
         async with self.semaphore:
             try:
@@ -478,6 +550,16 @@ class IPTVScanner:
                 
                 is_ru = any(kw in url.lower() for kw in RU_KEYWORDS) or \
                         any(kw in channel_name.lower() for kw in RU_KEYWORDS)
+                
+                # ПРОВЕРКА ДОСТУПНОСТИ ПОТОКА ПЕРЕД ДОБАВЛЕНИЕМ
+                self.log(f"🔍 Проверка доступности: {url[:80]}...")
+                is_available = await self.check_stream_availability(url)
+                
+                if not is_available:
+                    self.log(f"❌ Канал недоступен: {channel_name}")
+                    return False
+                
+                self.log(f"✅ Канал доступен: {channel_name}")
                 
                 # Принимаем все каналы (российские и зарубежные) без ограничений по количеству (до 30000+)
                 
@@ -511,7 +593,8 @@ class IPTVScanner:
                     self.new_channels_count += 1
                     return True
                 return False
-            except Exception:
+            except Exception as e:
+                self.log(f"⚠️ Ошибка при проверке канала: {e}")
                 return False
     
     async def fetch_m3u_from_source(self, url: str) -> List[Dict]:
