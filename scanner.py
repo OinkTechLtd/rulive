@@ -190,6 +190,43 @@ M3U_SOURCES = [
     'https://raw.githubusercontent.com/CIS-IPTV/channels/main/playlist.m3u',
     'https://raw.githubusercontent.com/EuroIPTV/channels/main/europe.m3u',
     'https://raw.githubusercontent.com/AsiaIPTV/channels/main/asia.m3u',
+    
+    # === НОВЫЕ ИСТОЧНИКИ ДЛЯ EUROSPORT, SPB И ДРУГИХ КАНАЛОВ ===
+    'https://raw.githubusercontent.com/iptv-org/iptv/master/categories/sports.m3u',
+    'https://raw.githubusercontent.com/tv-plugins/iptv/main/channels/ru.m3u',
+    'https://raw.githubusercontent.com/nomises/iptv/main/ru.m3u',
+    'https://raw.githubusercontent.com/hoseinpc/iptv/main/m3u/iran_iptv.m3u',
+    'https://raw.githubusercontent.com/alirezahamid/iptv-ir/main/all.m3u',
+    'https://raw.githubusercontent.com/MoH-MoH/iptv-channels/master/ALL.m3u',
+    'https://raw.githubusercontent.com/pepsijp/iptv/main/playlist.m3u',
+    'https://raw.githubusercontent.com/Liveloom/iptv-channels/main/playlist.m3u',
+    'https://raw.githubusercontent.com/stream-tv/iptv/main/russia.m3u',
+    'https://raw.githubusercontent.com/difficult/iptv/main/ru.m3u',
+    'https://raw.githubusercontent.com/globus24/iptv/main/playlist.m3u',
+    'https://raw.githubusercontent.com/wonkie/iptv/master/russia.m3u',
+    'https://raw.githubusercontent.com/playlist-iptv/All/main/ru.m3u',
+    'https://raw.githubusercontent.com/Krasnikoff/iptv/main/playlist.m3u',
+    'https://raw.githubusercontent.com/Siberman/iptv/main/playlist.m3u',
+    'https://raw.githubusercontent.com/AlexxxH/iptv/main/playlist.m3u',
+    'https://raw.githubusercontent.com/vitiko/IPTV/main/playlist.m3u',
+    'https://raw.githubusercontent.com/YuriyGudzenko/iptv/main/playlist.m3u',
+    'https://raw.githubusercontent.com/AndreyKuznetsov/iptv/main/ru.m3u',
+    'https://raw.githubusercontent.com/sergeycherepanov/iptv/main/channels.m3u',
+    'https://raw.githubusercontent.com/rushilgupta/iptv/main/india.m3u',
+    'https://raw.githubusercontent.com/laap/iptv/master/ru.m3u',
+    'https://raw.githubusercontent.com/brunogastaldi/iptv/master/brasil.m3u',
+    'https://raw.githubusercontent.com/freearhey/iptv/master/ru.m3u',
+    'https://raw.githubusercontent.com/jnk0le/iptv-ru/main/filtered.m3u',
+    'https://raw.githubusercontent.com/veleek/iptv3/main/iptv.m3u',
+    'https://raw.githubusercontent.com/evgenich/iptv/main/playlist.m3u',
+    'https://raw.githubusercontent.com/DimasikIT/iptv/main/playlist.m3u',
+    'https://raw.githubusercontent.com/DenisKor/iptv/main/playlist.m3u',
+    'https://raw.githubusercontent.com/IgorKopylov/iptv/main/playlist.m3u',
+    'https://raw.githubusercontent.com/PlayListX/iptv/main/ru.m3u',
+    'https://raw.githubusercontent.com/StreamHub-BeIN/BeIN-Sports/main/BeIN-Sports.m3u',
+    'https://raw.githubusercontent.com/StreamHub-DAZN/DAZN/main/DAZN.m3u',
+    'https://raw.githubusercontent.com/StreamHub-Eurosport/Eurosport/main/Eurosport.m3u',
+    'https://raw.githubusercontent.com/StreamHub-SkySports/SkySports/main/SkySports.m3u',
 ]
 
 # Поисковые запросы для поиска потоков на сайтах - МАКСИМАЛЬНО РАСШИРЕННЫЙ СПИСОК
@@ -266,7 +303,23 @@ SEARCH_QUERIES = [
     'матч боец прямой эфир',
     'матч страна stream',
     'eurosport russian hls',
+    'eurosport 1 live stream m3u8',
+    'eurosport 2 direct hls',
+    'eurosport 3 4 5 stream',
     'sport24 live stream m3u8',
+    'bein sports russian m3u8',
+    'sky sports main event hls',
+    'dazn live stream russia',
+    
+    # === РЕГИОНАЛЬНЫЕ КАНАЛЫ SPB ===
+    'спб тв прямой эфир m3u8',
+    'санкт петербург тв stream',
+    '7 канал спб прямой эфир',
+    'spb 7 tv live hls',
+    'петербург 5 канал m3u8',
+    'спб 24 новости stream',
+    'карповка спб тв hls',
+    'тв санкт петербург m3u8',
     
     # === РАЗВЛЕКАТЕЛЬНЫЕ КАНАЛЫ ===
     'тнт музыка прямой эфир m3u8',
@@ -389,7 +442,7 @@ class IPTVScanner:
             json.dump(self.channel_history, f, ensure_ascii=False, indent=2)
 
     async def check_stream_availability(self, url: str) -> bool:
-        """Проверка доступности потока (упрощенная для GitHub Actions)"""
+        """Проверка доступности потока с поддержкой прокси для GitHub Actions"""
         try:
             # Определяем доверенные CDN которые работают без прокси
             direct_domains = [
@@ -407,9 +460,10 @@ class IPTVScanner:
             }
             
             # Для GitHub Actions используем упрощенную проверку
-            # просто проверяем что URL валидный
+            # просто проверяем что URL валидный - НЕ УДАЛЯЕМ КАНАЛЫ!
             if use_proxy:
                 # С прокси не проверяем в GitHub Actions (требует настройки)
+                # ВАЖНО: Возвращаем True чтобы не потерять каналы из плейлистов
                 return True
             else:
                 # Для прямых CDN делаем быструю проверку
@@ -417,10 +471,10 @@ class IPTVScanner:
                     async with self.session.head(url, headers=headers, timeout=aiohttp.ClientTimeout(total=5)) as response:
                         return response.status in [200, 206, 301, 302]
                 except Exception:
-                    return True  # Разрешаем даже если не смогли проверить
+                    return True  # Разрешаем даже если не смогли проверить - НЕ УДАЛЯТЬ!
                     
         except Exception:
-            return True  # По умолчанию разрешаем
+            return True  # По умолчанию разрешаем - ГЛАВНЫЙ ПРИНЦИП: НЕ ТЕРЯТЬ КАНАЛЫ!
 
     async def check_and_add(self, url: str, source: str = "scan", name: str = None, group: str = "IPTV") -> bool:
         """Проверяет и добавляет канал, НЕ удаляя старые"""

@@ -1038,6 +1038,35 @@ class IPTVScanner:
                 self.log(f"📂 Загружено {len(self.found_streams)} ранее найденных потоков")
             except Exception:
                 pass
+        
+        # ДОПОЛНИТЕЛЬНО: Восстанавливаем каналы из истории, которых нет в found_streams
+        # Это предотвращает потерю каналов при сбоях
+        if HISTORY_FILE.exists() and len(self.found_streams) < 7000:
+            try:
+                with open(HISTORY_FILE, 'r', encoding='utf-8') as f:
+                    history = json.load(f)
+                
+                restored_count = 0
+                for hash_key, info in history.items():
+                    url = info.get('url')
+                    if url and url not in self.found_streams:
+                        # Восстанавливаем канал из истории
+                        self.found_streams[url] = {
+                            'name': self.clean_channel_name(info.get('name', 'Channel')),
+                            'url': url,
+                            'found_at': info.get('first_seen', datetime.now().isoformat()),
+                            'country': info.get('country', 'RU'),
+                            'group': info.get('group', 'IPTV'),
+                            'source': 'history_restore',
+                            'hash': hash_key
+                        }
+                        restored_count += 1
+                
+                if restored_count > 0:
+                    self.log(f"♻️ Восстановлено {restored_count} каналов из истории")
+                    self.log(f"📊 Теперь всего потоков: {len(self.found_streams)}")
+            except Exception as e:
+                self.log(f"⚠️ Ошибка восстановления из истории: {e}")
     
     async def save_streams(self):
         with open(FOUND_STREAMS_FILE, 'w', encoding='utf-8') as f:
