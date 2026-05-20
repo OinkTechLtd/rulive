@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Вологда
 # Каналов: 37
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
 
 #EXTINF:-1 tvg-name="Первый (Вологда)" group-title="Вологда",Первый (Вологда)
 https://secure-272717.tatnet.app/rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
@@ -29,9 +29,6 @@ https://secure-272717.tatnet.app/rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_ROSS
 
 #EXTINF:-1 tvg-name="Карусель (Вологда)" group-title="Вологда",Карусель (Вологда)
 https://secure-272717.tatnet.app/rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
-
-#EXTINF:-1 tvg-name="ТВ Центр (Вологда)" group-title="Вологда",ТВ Центр (Вологда)
-https://secure-272717.tatnet.app/rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 
 #EXTINF:-1 tvg-name="РЕН ТВ (Вологда)" group-title="Вологда",РЕН ТВ (Вологда)
 https://secure-272717.tatnet.app/rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
@@ -72,9 +69,6 @@ https://secure-272717.tatnet.app/rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_ROSS
 #EXTINF:-1 tvg-name="Карусель (Вологда)" group-title="Вологда",Карусель (Вологда)
 https://secure-272717.tatnet.app/rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL_VLGD/variant.m3u8
 
-#EXTINF:-1 tvg-name="ТВ Центр (Вологда)" group-title="Вологда",ТВ Центр (Вологда)
-https://secure-272717.tatnet.app/rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R04_TVC_VLGD/variant.m3u8
-
 #EXTINF:-1 tvg-name="РЕН ТВ (Вологда)" group-title="Вологда",РЕН ТВ (Вологда)
 https://secure-272717.tatnet.app/rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_VLGD/variant.m3u8
 
@@ -99,6 +93,9 @@ https://secure-272717.tatnet.app/rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CH
 #EXTINF:-1 tvg-name="Пятый (Вологда)" group-title="Вологда",Пятый (Вологда)
 https://secure-272717.tatnet.app/rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
 
+#EXTINF:-1 tvg-name="ТВ Центр (Вологда)" group-title="Вологда",ТВ Центр (Вологда)
+https://secure-272717.tatnet.app/rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+
 #EXTINF:-1 tvg-name="ТВ-3 (Вологда)" group-title="Вологда",ТВ-3 (Вологда)
 https://secure-272717.tatnet.app/rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
 
@@ -110,6 +107,9 @@ https://secure-272717.tatnet.app/rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R02_5TV_
 
 #EXTINF:-1 tvg-name="ОТР (Вологда)" group-title="Вологда",ОТР (Вологда)
 https://secure-272717.tatnet.app/rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_OTR_VLGD/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ Центр (Вологда)" group-title="Вологда",ТВ Центр (Вологда)
+https://secure-272717.tatnet.app/rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R04_TVC_VLGD/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТВ-3 (Вологда)" group-title="Вологда",ТВ-3 (Вологда)
 https://secure-272717.tatnet.app/rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV3_VLGD/variant.m3u8

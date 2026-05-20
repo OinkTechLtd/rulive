@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Астрахань
 # Каналов: 41
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
 
 #EXTINF:-1 tvg-name="Первый (Астрахань)" group-title="Астрахань",Первый (Астрахань)
 https://secure-272717.tatnet.app/rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
@@ -29,9 +29,6 @@ https://secure-272717.tatnet.app/rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_R
 
 #EXTINF:-1 tvg-name="Карусель (Астрахань)" group-title="Астрахань",Карусель (Астрахань)
 https://secure-272717.tatnet.app/rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
-
-#EXTINF:-1 tvg-name="ТВ Центр (Астрахань)" group-title="Астрахань",ТВ Центр (Астрахань)
-https://secure-272717.tatnet.app/rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 
 #EXTINF:-1 tvg-name="РЕН ТВ (Астрахань)" group-title="Астрахань",РЕН ТВ (Астрахань)
 https://secure-272717.tatnet.app/rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
@@ -72,9 +69,6 @@ https://secure-272717.tatnet.app/rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_R
 #EXTINF:-1 tvg-name="Карусель (Астрахань)" group-title="Астрахань",Карусель (Астрахань)
 https://secure-272717.tatnet.app/rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL_AST/variant.m3u8
 
-#EXTINF:-1 tvg-name="ТВ Центр (Астрахань)" group-title="Астрахань",ТВ Центр (Астрахань)
-https://secure-272717.tatnet.app/rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R04_TVC_AST/variant.m3u8
-
 #EXTINF:-1 tvg-name="РЕН ТВ (Астрахань)" group-title="Астрахань",РЕН ТВ (Астрахань)
 https://secure-272717.tatnet.app/rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_AST/variant.m3u8
 
@@ -102,6 +96,9 @@ https://secure-272717.tatnet.app/rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R02_5
 #EXTINF:-1 tvg-name="ОТР (Астрахань)" group-title="Астрахань",ОТР (Астрахань)
 https://secure-272717.tatnet.app/rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
 
+#EXTINF:-1 tvg-name="ТВ Центр (Астрахань)" group-title="Астрахань",ТВ Центр (Астрахань)
+https://secure-272717.tatnet.app/rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+
 #EXTINF:-1 tvg-name="ТВ-3 (Астрахань)" group-title="Астрахань",ТВ-3 (Астрахань)
 https://secure-272717.tatnet.app/rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
 
@@ -116,6 +113,9 @@ https://secure-272717.tatnet.app/rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R02_5
 
 #EXTINF:-1 tvg-name="ОТР (Астрахань)" group-title="Астрахань",ОТР (Астрахань)
 https://secure-272717.tatnet.app/rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_OTR_AST/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ Центр (Астрахань)" group-title="Астрахань",ТВ Центр (Астрахань)
+https://secure-272717.tatnet.app/rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R04_TVC_AST/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТВ-3 (Астрахань)" group-title="Астрахань",ТВ-3 (Астрахань)
 https://secure-272717.tatnet.app/rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_TV3_AST/variant.m3u8

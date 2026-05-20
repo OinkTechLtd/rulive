@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Иваново
 # Каналов: 21
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
 
 #EXTINF:-1 tvg-name="Первый (Иваново)" group-title="Иваново",Первый (Иваново)
 https://secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
@@ -29,9 +29,6 @@ https://secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_ROS
 
 #EXTINF:-1 tvg-name="Карусель (Иваново)" group-title="Иваново",Карусель (Иваново)
 https://secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
-
-#EXTINF:-1 tvg-name="ТВ Центр (Иваново)" group-title="Иваново",ТВ Центр (Иваново)
-https://secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 
 #EXTINF:-1 tvg-name="РЕН ТВ (Иваново)" group-title="Иваново",РЕН ТВ (Иваново)
 https://secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
@@ -56,6 +53,9 @@ https://secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_5TV
 
 #EXTINF:-1 tvg-name="ОТР (Иваново)" group-title="Иваново",ОТР (Иваново)
 https://secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ Центр (Иваново)" group-title="Иваново",ТВ Центр (Иваново)
+https://secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТВ-3 (Иваново)" group-title="Иваново",ТВ-3 (Иваново)
 https://secure-272717.tatnet.app/rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8

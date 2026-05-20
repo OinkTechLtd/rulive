@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Чита
 # Каналов: 45
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
 
 #EXTINF:-1 tvg-name="ТНТ4 (+2) (Чита)" group-title="Чита",ТНТ4 (+2) (Чита)
 https://secure-272717.tatnet.app/rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_TNT4_2/variant.m3u8
@@ -35,9 +35,6 @@ https://secure-272717.tatnet.app/rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_R
 
 #EXTINF:-1 tvg-name="Карусель (Чита)" group-title="Чита",Карусель (Чита)
 https://secure-272717.tatnet.app/rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL_CHITA/variant.m3u8
-
-#EXTINF:-1 tvg-name="ТВ Центр (Чита)" group-title="Чита",ТВ Центр (Чита)
-https://secure-272717.tatnet.app/rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R04_TVC_CHITA/variant.m3u8
 
 #EXTINF:-1 tvg-name="РЕН ТВ (Чита)" group-title="Чита",РЕН ТВ (Чита)
 https://secure-272717.tatnet.app/rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_CHITA/variant.m3u8
@@ -105,14 +102,11 @@ https://secure-272717.tatnet.app/rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_T
 #EXTINF:-1 tvg-name="Че! (Забайкальский КР)" group-title="Чита",Че! (Забайкальский КР)
 https://secure-272717.tatnet.app/rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ_ZK/variant.m3u8
 
-#EXTINF:-1 tvg-name="Забайкалье (Забайкальский край)" group-title="Чита",Забайкалье (Забайкальский край)
-https://secure-272717.tatnet.app/rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_RTKZAB/variant.m3u8
-
-#EXTINF:-1 tvg-name="Буряад ТВ (Забайкальский край)" group-title="Чита",Буряад ТВ (Забайкальский край)
-https://secure-272717.tatnet.app/rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R02_BURYAAD_ZK/variant.m3u8
-
 #EXTINF:-1 tvg-name="Пятый (Чита)" group-title="Чита",Пятый (Чита)
 https://secure-272717.tatnet.app/rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R02_5TV_CHITA/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ Центр (Чита)" group-title="Чита",ТВ Центр (Чита)
+https://secure-272717.tatnet.app/rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R04_TVC_CHITA/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТВ-3 (Чита)" group-title="Чита",ТВ-3 (Чита)
 https://secure-272717.tatnet.app/rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_TV3_CHITA/variant.m3u8
@@ -143,4 +137,10 @@ https://secure-272717.tatnet.app/rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_P
 
 #EXTINF:-1 tvg-name="МУЗ-ТВ (Забайкальский КР)" group-title="Чита",МУЗ-ТВ (Забайкальский КР)
 https://secure-272717.tatnet.app/rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_MUZTV_ZK/variant.m3u8
+
+#EXTINF:-1 tvg-name="Забайкалье (Забайкальский край)" group-title="Чита",Забайкалье (Забайкальский край)
+https://secure-272717.tatnet.app/rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_RTKZAB/variant.m3u8
+
+#EXTINF:-1 tvg-name="Буряад ТВ (Забайкальский край)" group-title="Чита",Буряад ТВ (Забайкальский край)
+https://secure-272717.tatnet.app/rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R02_BURYAAD_ZK/variant.m3u8
 

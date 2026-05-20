@@ -1,13 +1,16 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Spain VOD
 # Каналов: 18
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
+
+#EXTINF:-1 tvg-name="HQM Hip Hop" group-title="Spain VOD",HQM Hip Hop
+https://secure-272717.tatnet.app/livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8
 
 #EXTINF:-1 tvg-name="HQM Arabic" group-title="Spain VOD",HQM Arabic
 https://secure-272717.tatnet.app/livelist01.yowi.tv/lista/39596c72840d27b213caf4e58c39599a6f2ed203/master.m3u8
@@ -32,9 +35,6 @@ https://secure-272717.tatnet.app/livelist01.yowi.tv/lista/9f5310c179e8e840188d18
 
 #EXTINF:-1 tvg-name="HQM Gym" group-title="Spain VOD",HQM Gym
 https://secure-272717.tatnet.app/livelist01.yowi.tv/lista/abb87f329d0ed03072b1930e9636a53e8076c8d5/master.m3u8
-
-#EXTINF:-1 tvg-name="HQM Hip Hop" group-title="Spain VOD",HQM Hip Hop
-https://secure-272717.tatnet.app/livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8
 
 #EXTINF:-1 tvg-name="HQM Hits" group-title="Spain VOD",HQM Hits
 https://secure-272717.tatnet.app/livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Пермь
 # Каналов: 45
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
 
 #EXTINF:-1 tvg-name="Первый (Пермь)" group-title="Пермь",Первый (Пермь)
 https://secure-272717.tatnet.app/rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_URAL_PERM/variant.m3u8
@@ -29,9 +29,6 @@ https://secure-272717.tatnet.app/rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_O
 
 #EXTINF:-1 tvg-name="Карусель (Пермь)" group-title="Пермь",Карусель (Пермь)
 https://secure-272717.tatnet.app/rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_KARUSEL_RTRS_PERM/variant.m3u8
-
-#EXTINF:-1 tvg-name="ТВ Центр (Пермь)" group-title="Пермь",ТВ Центр (Пермь)
-https://secure-272717.tatnet.app/rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TVC_RTRS_PERM/variant.m3u8
 
 #EXTINF:-1 tvg-name="РЕН ТВ (Пермь)" group-title="Пермь",РЕН ТВ (Пермь)
 https://secure-272717.tatnet.app/rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_RTRS_PERM/variant.m3u8
@@ -75,9 +72,6 @@ https://secure-272717.tatnet.app/rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_O
 #EXTINF:-1 tvg-name="Карусель (Березники)" group-title="Пермь",Карусель (Березники)
 https://secure-272717.tatnet.app/rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_KARUSEL_BER/variant.m3u8
 
-#EXTINF:-1 tvg-name="ТВ Центр (Березники)" group-title="Пермь",ТВ Центр (Березники)
-https://secure-272717.tatnet.app/rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TVC_BER/variant.m3u8
-
 #EXTINF:-1 tvg-name="РЕН ТВ (Березники)" group-title="Пермь",РЕН ТВ (Березники)
 https://secure-272717.tatnet.app/rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_BER/variant.m3u8
 
@@ -96,14 +90,14 @@ https://secure-272717.tatnet.app/rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_Z
 #EXTINF:-1 tvg-name="МИР (Березники)" group-title="Пермь",МИР (Березники)
 https://secure-272717.tatnet.app/rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_MIR_BER/variant.m3u8
 
-#EXTINF:-1 tvg-name="Ветта 24 (Пермский край)" group-title="Пермь",Ветта 24 (Пермский край)
-https://secure-272717.tatnet.app/rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VETTA24_PERM/variant.m3u8
-
 #EXTINF:-1 tvg-name="Пятый (Пермь)" group-title="Пермь",Пятый (Пермь)
 https://secure-272717.tatnet.app/rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_5TV_URAL_PERM/variant.m3u8
 
 #EXTINF:-1 tvg-name="ОТР (Пермь)" group-title="Пермь",ОТР (Пермь)
 https://secure-272717.tatnet.app/rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTR_RTRS_PERM/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ Центр (Пермь)" group-title="Пермь",ТВ Центр (Пермь)
+https://secure-272717.tatnet.app/rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TVC_RTRS_PERM/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТВ-3 (Пермь)" group-title="Пермь",ТВ-3 (Пермь)
 https://secure-272717.tatnet.app/rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TV3_RTRS_PERM/variant.m3u8
@@ -119,6 +113,9 @@ https://secure-272717.tatnet.app/rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_O
 
 #EXTINF:-1 tvg-name="ОТР (Березники)" group-title="Пермь",ОТР (Березники)
 https://secure-272717.tatnet.app/rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTR_BER/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ Центр (Березники)" group-title="Пермь",ТВ Центр (Березники)
+https://secure-272717.tatnet.app/rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TVC_BER/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТВ-3 (Березники)" group-title="Пермь",ТВ-3 (Березники)
 https://secure-272717.tatnet.app/rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TV3_BER/variant.m3u8
@@ -137,6 +134,9 @@ https://secure-272717.tatnet.app/rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_O
 
 #EXTINF:-1 tvg-name="Своё ТВ (Березники)" group-title="Пермь",Своё ТВ (Березники)
 https://secure-272717.tatnet.app/rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SVOETV/variant.m3u8
+
+#EXTINF:-1 tvg-name="Ветта 24 (Пермский край)" group-title="Пермь",Ветта 24 (Пермский край)
+https://secure-272717.tatnet.app/rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VETTA24_PERM/variant.m3u8
 
 #EXTINF:-1 tvg-name="Верхнекамье-ТВ (Березники)" group-title="Пермь",Верхнекамье-ТВ (Березники)
 https://secure-272717.tatnet.app/rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_VERHTV/variant.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Липецк
 # Каналов: 23
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
 
 #EXTINF:-1 tvg-name="Первый (Липецк)" group-title="Липецк",Первый (Липецк)
 https://secure-272717.tatnet.app/rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
@@ -29,9 +29,6 @@ https://secure-272717.tatnet.app/rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_
 
 #EXTINF:-1 tvg-name="Карусель (Липецк)" group-title="Липецк",Карусель (Липецк)
 https://secure-272717.tatnet.app/rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
-
-#EXTINF:-1 tvg-name="ТВ Центр (Липецк)" group-title="Липецк",ТВ Центр (Липецк)
-https://secure-272717.tatnet.app/rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 
 #EXTINF:-1 tvg-name="РЕН ТВ (Липецк)" group-title="Липецк",РЕН ТВ (Липецк)
 https://secure-272717.tatnet.app/rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
@@ -56,6 +53,9 @@ https://secure-272717.tatnet.app/rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_
 
 #EXTINF:-1 tvg-name="ОТР (Липецк)" group-title="Липецк",ОТР (Липецк)
 https://secure-272717.tatnet.app/rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ Центр (Липецк)" group-title="Липецк",ТВ Центр (Липецк)
+https://secure-272717.tatnet.app/rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТВ-3 (Липецк)" group-title="Липецк",ТВ-3 (Липецк)
 https://secure-272717.tatnet.app/rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8

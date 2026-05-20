@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Псков
 # Каналов: 35
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
 
 #EXTINF:-1 tvg-name="Первый (Псков)" group-title="Псков",Первый (Псков)
 https://secure-272717.tatnet.app/s87712.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
@@ -29,9 +29,6 @@ https://secure-272717.tatnet.app/s87712.cdn.ngenix.net/hls/CH_R01_ROSSIA24/varia
 
 #EXTINF:-1 tvg-name="Карусель (Псков)" group-title="Псков",Карусель (Псков)
 https://secure-272717.tatnet.app/s87712.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
-
-#EXTINF:-1 tvg-name="ТВ Центр (Псков)" group-title="Псков",ТВ Центр (Псков)
-https://secure-272717.tatnet.app/s87712.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 
 #EXTINF:-1 tvg-name="РЕН ТВ (Псков)" group-title="Псков",РЕН ТВ (Псков)
 https://secure-272717.tatnet.app/s87712.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
@@ -66,9 +63,6 @@ https://secure-272717.tatnet.app/s87712.cdn.ngenix.net/hls/CH_R03_NTV_PSKV/varia
 #EXTINF:-1 tvg-name="Россия 24 (Псков)" group-title="Псков",Россия 24 (Псков)
 https://secure-272717.tatnet.app/s87712.cdn.ngenix.net/hls/CH_R01_ROSSIA24_PSKV/variant.m3u8
 
-#EXTINF:-1 tvg-name="ТВ Центр (Псков)" group-title="Псков",ТВ Центр (Псков)
-https://secure-272717.tatnet.app/s87712.cdn.ngenix.net/hls/CH_R04_TVC_PSKV/variant.m3u8
-
 #EXTINF:-1 tvg-name="РЕН ТВ (Псков)" group-title="Псков",РЕН ТВ (Псков)
 https://secure-272717.tatnet.app/s87712.cdn.ngenix.net/hls/CH_R02_RENTV_PSKV/variant.m3u8
 
@@ -90,6 +84,9 @@ https://secure-272717.tatnet.app/s87712.cdn.ngenix.net/hls/CH_R02_MIR_PSKOV_FILI
 #EXTINF:-1 tvg-name="Пятый (Псков)" group-title="Псков",Пятый (Псков)
 https://secure-272717.tatnet.app/s87712.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
 
+#EXTINF:-1 tvg-name="ТВ Центр (Псков)" group-title="Псков",ТВ Центр (Псков)
+https://secure-272717.tatnet.app/s87712.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+
 #EXTINF:-1 tvg-name="ТВ-3 (Псков)" group-title="Псков",ТВ-3 (Псков)
 https://secure-272717.tatnet.app/s87712.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
 
@@ -104,6 +101,9 @@ https://secure-272717.tatnet.app/s87712.cdn.ngenix.net/hls/CH_R02_5TV_PSKV/varia
 
 #EXTINF:-1 tvg-name="ОТР (Псков)" group-title="Псков",ОТР (Псков)
 https://secure-272717.tatnet.app/s87712.cdn.ngenix.net/hls/CH_R01_OTR_PSKV/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ Центр (Псков)" group-title="Псков",ТВ Центр (Псков)
+https://secure-272717.tatnet.app/s87712.cdn.ngenix.net/hls/CH_R04_TVC_PSKV/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТВ-3 (Псков)" group-title="Псков",ТВ-3 (Псков)
 https://secure-272717.tatnet.app/s87712.cdn.ngenix.net/hls/CH_R01_TV3_PSKV/variant.m3u8

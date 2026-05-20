@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Кострома
 # Каналов: 21
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
 
 #EXTINF:-1 tvg-name="Первый (Кострома)" group-title="Кострома",Первый (Кострома)
 https://secure-272717.tatnet.app/rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
@@ -29,9 +29,6 @@ https://secure-272717.tatnet.app/rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R01
 
 #EXTINF:-1 tvg-name="Карусель (Кострома)" group-title="Кострома",Карусель (Кострома)
 https://secure-272717.tatnet.app/rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
-
-#EXTINF:-1 tvg-name="ТВ Центр (Кострома)" group-title="Кострома",ТВ Центр (Кострома)
-https://secure-272717.tatnet.app/rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 
 #EXTINF:-1 tvg-name="РЕН ТВ (Кострома)" group-title="Кострома",РЕН ТВ (Кострома)
 https://secure-272717.tatnet.app/rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
@@ -62,6 +59,9 @@ https://secure-272717.tatnet.app/rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R02
 
 #EXTINF:-1 tvg-name="ОТР (Кострома)" group-title="Кострома",ОТР (Кострома)
 https://secure-272717.tatnet.app/rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ Центр (Кострома)" group-title="Кострома",ТВ Центр (Кострома)
+https://secure-272717.tatnet.app/rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТВ-3 (Кострома)" group-title="Кострома",ТВ-3 (Кострома)
 https://secure-272717.tatnet.app/rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8

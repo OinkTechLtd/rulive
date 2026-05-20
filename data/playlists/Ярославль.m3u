@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Ярославль
 # Каналов: 39
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
 
 #EXTINF:-1 tvg-name="Первый (Ярославль)" group-title="Ярославль",Первый (Ярославль)
 https://secure-272717.tatnet.app/rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
@@ -29,9 +29,6 @@ https://secure-272717.tatnet.app/rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_ROS
 
 #EXTINF:-1 tvg-name="Карусель (Ярославль)" group-title="Ярославль",Карусель (Ярославль)
 https://secure-272717.tatnet.app/rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
-
-#EXTINF:-1 tvg-name="ТВ Центр (Ярославль)" group-title="Ярославль",ТВ Центр (Ярославль)
-https://secure-272717.tatnet.app/rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 
 #EXTINF:-1 tvg-name="РЕН ТВ (Ярославль)" group-title="Ярославль",РЕН ТВ (Ярославль)
 https://secure-272717.tatnet.app/rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
@@ -72,9 +69,6 @@ https://secure-272717.tatnet.app/rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_ROS
 #EXTINF:-1 tvg-name="Карусель (Рыбинск)" group-title="Ярославль",Карусель (Рыбинск)
 https://secure-272717.tatnet.app/rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL_RYB/variant.m3u8
 
-#EXTINF:-1 tvg-name="ТВ Центр (Рыбинск)" group-title="Ярославль",ТВ Центр (Рыбинск)
-https://secure-272717.tatnet.app/rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R04_TVC_RYB/variant.m3u8
-
 #EXTINF:-1 tvg-name="РЕН ТВ (Рыбинск)" group-title="Ярославль",РЕН ТВ (Рыбинск)
 https://secure-272717.tatnet.app/rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_RYB/variant.m3u8
 
@@ -99,6 +93,9 @@ https://secure-272717.tatnet.app/rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_5TV
 #EXTINF:-1 tvg-name="ОТР (Ярославль)" group-title="Ярославль",ОТР (Ярославль)
 https://secure-272717.tatnet.app/rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
 
+#EXTINF:-1 tvg-name="ТВ Центр (Ярославль)" group-title="Ярославль",ТВ Центр (Ярославль)
+https://secure-272717.tatnet.app/rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+
 #EXTINF:-1 tvg-name="ТВ-3 (Ярославль)" group-title="Ярославль",ТВ-3 (Ярославль)
 https://secure-272717.tatnet.app/rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
 
@@ -113,6 +110,9 @@ https://secure-272717.tatnet.app/rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_5TV
 
 #EXTINF:-1 tvg-name="ОТР (Рыбинск)" group-title="Ярославль",ОТР (Рыбинск)
 https://secure-272717.tatnet.app/rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTR_RYB/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ Центр (Рыбинск)" group-title="Ярославль",ТВ Центр (Рыбинск)
+https://secure-272717.tatnet.app/rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R04_TVC_RYB/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТВ-3 (Рыбинск)" group-title="Ярославль",ТВ-3 (Рыбинск)
 https://secure-272717.tatnet.app/rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_TV3_RYB/variant.m3u8

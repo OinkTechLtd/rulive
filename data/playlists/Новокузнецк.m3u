@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Новокузнецк
 # Каналов: 46
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
 
 #EXTINF:-1 tvg-name="Россия 24 (Новокузнецк)" group-title="Новокузнецк",Россия 24 (Новокузнецк)
 https://secure-272717.tatnet.app/rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_RUSSIA24/variant.m3u8
@@ -38,9 +38,6 @@ https://secure-272717.tatnet.app/rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_RO
 
 #EXTINF:-1 tvg-name="Карусель (Кемеровская ОБЛ)" group-title="Новокузнецк",Карусель (Кемеровская ОБЛ)
 https://secure-272717.tatnet.app/rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL_KEMOBL/variant.m3u8
-
-#EXTINF:-1 tvg-name="ТВ Центр (Кемеровская ОБЛ)" group-title="Новокузнецк",ТВ Центр (Кемеровская ОБЛ)
-https://secure-272717.tatnet.app/rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_TVC_KEMOBL/variant.m3u8
 
 #EXTINF:-1 tvg-name="РЕН ТВ (Кемеровская ОБЛ)" group-title="Новокузнецк",РЕН ТВ (Кемеровская ОБЛ)
 https://secure-272717.tatnet.app/rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R04_RENTV_KEMOBL/variant.m3u8
@@ -81,9 +78,6 @@ https://secure-272717.tatnet.app/rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R02_RO
 #EXTINF:-1 tvg-name="Карусель (Новокузнецк)" group-title="Новокузнецк",Карусель (Новокузнецк)
 https://secure-272717.tatnet.app/rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL_NVKZ/variant.m3u8
 
-#EXTINF:-1 tvg-name="ТВ Центр (Новокузнецк)" group-title="Новокузнецк",ТВ Центр (Новокузнецк)
-https://secure-272717.tatnet.app/rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R04_TVC_NVKZ/variant.m3u8
-
 #EXTINF:-1 tvg-name="РЕН ТВ (Новокузнецк)" group-title="Новокузнецк",РЕН ТВ (Новокузнецк)
 https://secure-272717.tatnet.app/rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_NVKZ/variant.m3u8
 
@@ -117,6 +111,9 @@ https://secure-272717.tatnet.app/rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R02_5T
 #EXTINF:-1 tvg-name="ОТР (Кемеровская ОБЛ)" group-title="Новокузнецк",ОТР (Кемеровская ОБЛ)
 https://secure-272717.tatnet.app/rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_OTR_KEMOBL/variant.m3u8
 
+#EXTINF:-1 tvg-name="ТВ Центр (Кемеровская ОБЛ)" group-title="Новокузнецк",ТВ Центр (Кемеровская ОБЛ)
+https://secure-272717.tatnet.app/rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_TVC_KEMOBL/variant.m3u8
+
 #EXTINF:-1 tvg-name="ТВ-3 (Кемеровская ОБЛ)" group-title="Новокузнецк",ТВ-3 (Кемеровская ОБЛ)
 https://secure-272717.tatnet.app/rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_TV3_KEMOBL/variant.m3u8
 
@@ -131,6 +128,9 @@ https://secure-272717.tatnet.app/rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R02_5T
 
 #EXTINF:-1 tvg-name="ОТР (Новокузнецк)" group-title="Новокузнецк",ОТР (Новокузнецк)
 https://secure-272717.tatnet.app/rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_OTR_NVKZ/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ Центр (Новокузнецк)" group-title="Новокузнецк",ТВ Центр (Новокузнецк)
+https://secure-272717.tatnet.app/rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R04_TVC_NVKZ/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТВ-3 (Новокузнецк)" group-title="Новокузнецк",ТВ-3 (Новокузнецк)
 https://secure-272717.tatnet.app/rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_TV3_NVKZ/variant.m3u8

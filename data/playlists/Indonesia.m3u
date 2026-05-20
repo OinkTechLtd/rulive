@@ -1,20 +1,20 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Indonesia
 # Каналов: 3
-# Обновлено: 2026-05-20 08:29:14
-
-#EXTINF:-1 tvg-name="BeritaSatu" group-title="Indonesia",BeritaSatu
-https://secure-272717.tatnet.app/b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+# Обновлено: 2026-05-20 09:25:56
 
 #EXTINF:-1 tvg-name="CNBC Indonesia" group-title="Indonesia",CNBC Indonesia
 https://secure-272717.tatnet.app/live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="CNN Indonesia" group-title="Indonesia",CNN Indonesia
 https://secure-272717.tatnet.app/live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BeritaSatu" group-title="Indonesia",BeritaSatu
+https://secure-272717.tatnet.app/b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 

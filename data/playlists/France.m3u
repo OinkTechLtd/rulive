@@ -1,16 +1,22 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: France
 # Каналов: 16
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
+
+#EXTINF:-1 tvg-name="Arte Ⓖ" group-title="France",Arte Ⓖ
+https://secure-272717.tatnet.app/artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 
 #EXTINF:-1 tvg-name="CNews Ⓓ" group-title="France",CNews Ⓓ
 https://secure-272717.tatnet.app/www.dailymotion.com/video/x3b68jn
+
+#EXTINF:-1 tvg-name="France 24 Ⓨ" group-title="France",France 24 Ⓨ
+https://secure-272717.tatnet.app/www.youtube.com/c/FRANCE24/live
 
 #EXTINF:-1 tvg-name="Euronews Français Ⓨ" group-title="France",Euronews Français Ⓨ
 https://secure-272717.tatnet.app/www.youtube.com/euronewsfr/live
@@ -20,9 +26,6 @@ https://secure-272717.tatnet.app/www.youtube.com/c/Africanewsfr/live
 
 #EXTINF:-1 tvg-name="CGTN Français" group-title="France",CGTN Français
 https://secure-272717.tatnet.app/news.cgtn.com/resource/live/french/cgtn-f.m3u8
-
-#EXTINF:-1 tvg-name="Arte Ⓖ" group-title="France",Arte Ⓖ
-https://secure-272717.tatnet.app/artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 
 #EXTINF:-1 tvg-name="C8 Ⓓ" group-title="France",C8 Ⓓ
 https://secure-272717.tatnet.app/www.dailymotion.com/video/x5gv5rr
@@ -38,9 +41,6 @@ https://secure-272717.tatnet.app/www.publicsenat.fr/direct
 
 #EXTINF:-1 tvg-name="franceinfo: Ⓨ" group-title="France",franceinfo: Ⓨ
 https://secure-272717.tatnet.app/www.youtube.com/c/franceinfo/live
-
-#EXTINF:-1 tvg-name="France 24 Ⓨ" group-title="France",France 24 Ⓨ
-https://secure-272717.tatnet.app/www.youtube.com/c/FRANCE24/live
 
 #EXTINF:-1 tvg-name="L'Équipe ⒹⒼ" group-title="France",L'Équipe ⒹⒼ
 https://secure-272717.tatnet.app/www.dailymotion.com/video/x2lefik

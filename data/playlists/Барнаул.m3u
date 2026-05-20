@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Барнаул
 # Каналов: 31
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
 
 #EXTINF:-1 tvg-name="Спас (Барнаул)" group-title="Барнаул",Спас (Барнаул)
 https://secure-272717.tatnet.app/rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_SPAS/variant.m3u8
@@ -48,9 +48,6 @@ https://secure-272717.tatnet.app/rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_ROS
 #EXTINF:-1 tvg-name="Карусель (Алтайский КР)" group-title="Барнаул",Карусель (Алтайский КР)
 https://secure-272717.tatnet.app/rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL_ALTAY/variant.m3u8
 
-#EXTINF:-1 tvg-name="ТВ Центр (Алтайский КР)" group-title="Барнаул",ТВ Центр (Алтайский КР)
-https://secure-272717.tatnet.app/rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R04_TVC_ALTAY/variant.m3u8
-
 #EXTINF:-1 tvg-name="РЕН ТВ (Алтайский КР)" group-title="Барнаул",РЕН ТВ (Алтайский КР)
 https://secure-272717.tatnet.app/rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_ALTAY/variant.m3u8
 
@@ -68,9 +65,6 @@ https://secure-272717.tatnet.app/rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_TNT
 
 #EXTINF:-1 tvg-name="Первый (Алтайский КР)" group-title="Барнаул",Первый (Алтайский КР)
 https://secure-272717.tatnet.app/rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_1TV_ALTAYKRAY/variant.m3u8
-
-#EXTINF:-1 tvg-name="Катунь 24 (Алтайский край)" group-title="Барнаул",Катунь 24 (Алтайский край)
-https://secure-272717.tatnet.app/rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_KATUN24/variant.m3u8
 
 #EXTINF:-1 tvg-name="Рубцовск ТВ (Рубцовск)" group-title="Барнаул",Рубцовск ТВ (Рубцовск)
 https://secure-272717.tatnet.app/rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_RUBCOSKTV/variant.m3u8
@@ -90,6 +84,9 @@ https://secure-272717.tatnet.app/rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_5TV
 #EXTINF:-1 tvg-name="Пятый (Алтайский КР)" group-title="Барнаул",Пятый (Алтайский КР)
 https://secure-272717.tatnet.app/rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_5TV_ALTAY/variant.m3u8
 
+#EXTINF:-1 tvg-name="ТВ Центр (Алтайский КР)" group-title="Барнаул",ТВ Центр (Алтайский КР)
+https://secure-272717.tatnet.app/rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R04_TVC_ALTAY/variant.m3u8
+
 #EXTINF:-1 tvg-name="ТВ-3 (Алтайский КР)" group-title="Барнаул",ТВ-3 (Алтайский КР)
 https://secure-272717.tatnet.app/rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_TV3_ALTAY/variant.m3u8
 
@@ -98,6 +95,9 @@ https://secure-272717.tatnet.app/rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_FRI
 
 #EXTINF:-1 tvg-name="Бийское ТВ (Бийск)" group-title="Барнаул",Бийское ТВ (Бийск)
 https://secure-272717.tatnet.app/rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_BIYSKTV/variant.m3u8
+
+#EXTINF:-1 tvg-name="Катунь 24 (Алтайский край)" group-title="Барнаул",Катунь 24 (Алтайский край)
+https://secure-272717.tatnet.app/rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_KATUN24/variant.m3u8
 
 #EXTINF:-1 tvg-name="Толк (Барнаул)" group-title="Барнаул",Толк (Барнаул)
 https://secure-272717.tatnet.app/rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_TOLK/variant.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Тверь
 # Каналов: 38
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
 
 #EXTINF:-1 tvg-name="Первый (Тверь)" group-title="Тверь",Первый (Тверь)
 https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
@@ -21,6 +21,9 @@ https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R04_ROS
 #EXTINF:-1 tvg-name="НТВ (Тверь)" group-title="Тверь",НТВ (Тверь)
 https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 
+#EXTINF:-1 tvg-name="Пятый (Тверь)" group-title="Тверь",Пятый (Тверь)
+https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
+
 #EXTINF:-1 tvg-name="Россия К (Тверь)" group-title="Тверь",Россия К (Тверь)
 https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
 
@@ -29,6 +32,9 @@ https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_ROS
 
 #EXTINF:-1 tvg-name="Карусель (Тверь)" group-title="Тверь",Карусель (Тверь)
 https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
+
+#EXTINF:-1 tvg-name="ОТР (Тверь)" group-title="Тверь",ОТР (Тверь)
+https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТВ Центр (Тверь)" group-title="Тверь",ТВ Центр (Тверь)
 https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
@@ -42,6 +48,12 @@ https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R02_STS
 #EXTINF:-1 tvg-name="Домашний (Тверь)" group-title="Тверь",Домашний (Тверь)
 https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
 
+#EXTINF:-1 tvg-name="ТВ-3 (Тверь)" group-title="Тверь",ТВ-3 (Тверь)
+https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
+
+#EXTINF:-1 tvg-name="Пятница! (Тверь)" group-title="Тверь",Пятница! (Тверь)
+https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
+
 #EXTINF:-1 tvg-name="Звезда (Тверь)" group-title="Тверь",Звезда (Тверь)
 https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
 
@@ -50,6 +62,9 @@ https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_TNT
 
 #EXTINF:-1 tvg-name="Че! (Тверь)" group-title="Тверь",Че! (Тверь)
 https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
+
+#EXTINF:-1 tvg-name="Ю (Тверь)" group-title="Тверь",Ю (Тверь)
+https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
 
 #EXTINF:-1 tvg-name="Первый канал (Тверь)" group-title="Тверь",Первый канал (Тверь)
 https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R03_1TV_TVR/variant.m3u8
@@ -63,6 +78,9 @@ https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R04_ROS
 #EXTINF:-1 tvg-name="НТВ (Тверь)" group-title="Тверь",НТВ (Тверь)
 https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R03_NTV_TVR/variant.m3u8
 
+#EXTINF:-1 tvg-name="Пятый канал (Тверь)" group-title="Тверь",Пятый канал (Тверь)
+https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R02_5TV_TVR/variant.m3u8
+
 #EXTINF:-1 tvg-name="Россия К (Тверь)" group-title="Тверь",Россия К (Тверь)
 https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK_TVR/variant.m3u8
 
@@ -71,6 +89,9 @@ https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_ROS
 
 #EXTINF:-1 tvg-name="Карусель (Тверь)" group-title="Тверь",Карусель (Тверь)
 https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL_TVR/variant.m3u8
+
+#EXTINF:-1 tvg-name="ОТР (Тверь)" group-title="Тверь",ОТР (Тверь)
+https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_OTR_TVR/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТВ Центр (Тверь)" group-title="Тверь",ТВ Центр (Тверь)
 https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R04_TVC_TVR/variant.m3u8
@@ -84,42 +105,21 @@ https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R02_STS
 #EXTINF:-1 tvg-name="Домашний (Тверь)" group-title="Тверь",Домашний (Тверь)
 https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY_TVR/variant.m3u8
 
-#EXTINF:-1 tvg-name="Звезда (Тверь)" group-title="Тверь",Звезда (Тверь)
-https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA_TVR/variant.m3u8
-
-#EXTINF:-1 tvg-name="ТНТ (Тверь)" group-title="Тверь",ТНТ (Тверь)
-https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_TNT_TVR/variant.m3u8
-
-#EXTINF:-1 tvg-name="Тверской проспект - Регион (Тверь)" group-title="Тверь",Тверской проспект - Регион (Тверь)
-https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_TVERPROSP/variant.m3u8
-
-#EXTINF:-1 tvg-name="Пятый (Тверь)" group-title="Тверь",Пятый (Тверь)
-https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
-
-#EXTINF:-1 tvg-name="ОТР (Тверь)" group-title="Тверь",ОТР (Тверь)
-https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
-
-#EXTINF:-1 tvg-name="ТВ-3 (Тверь)" group-title="Тверь",ТВ-3 (Тверь)
-https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
-
-#EXTINF:-1 tvg-name="Пятница! (Тверь)" group-title="Тверь",Пятница! (Тверь)
-https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-
-#EXTINF:-1 tvg-name="Ю (Тверь)" group-title="Тверь",Ю (Тверь)
-https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
-
-#EXTINF:-1 tvg-name="Пятый канал (Тверь)" group-title="Тверь",Пятый канал (Тверь)
-https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R02_5TV_TVR/variant.m3u8
-
-#EXTINF:-1 tvg-name="ОТР (Тверь)" group-title="Тверь",ОТР (Тверь)
-https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_OTR_TVR/variant.m3u8
-
 #EXTINF:-1 tvg-name="ТВ-3 (Тверь)" group-title="Тверь",ТВ-3 (Тверь)
 https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_TV3_TVR/variant.m3u8
 
 #EXTINF:-1 tvg-name="Пятница! (Тверь)" group-title="Тверь",Пятница! (Тверь)
 https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_TVR/variant.m3u8
 
+#EXTINF:-1 tvg-name="Звезда (Тверь)" group-title="Тверь",Звезда (Тверь)
+https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA_TVR/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТНТ (Тверь)" group-title="Тверь",ТНТ (Тверь)
+https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_TNT_TVR/variant.m3u8
+
 #EXTINF:-1 tvg-name="Панорама ТВ (Тверь)" group-title="Тверь",Панорама ТВ (Тверь)
 https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_PANORAMATV/variant.m3u8
+
+#EXTINF:-1 tvg-name="Тверской проспект - Регион (Тверь)" group-title="Тверь",Тверской проспект - Регион (Тверь)
+https://secure-272717.tatnet.app/rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_TVERPROSP/variant.m3u8
 

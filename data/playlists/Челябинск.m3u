@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Челябинск
 # Каналов: 72
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
 
 #EXTINF:-1 tvg-name="Спас (Челябинск)" group-title="Челябинск",Спас (Челябинск)
 https://secure-272717.tatnet.app/rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_SPAS_RTRS/variant.m3u8
@@ -93,9 +93,6 @@ https://secure-272717.tatnet.app/rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_O
 #EXTINF:-1 tvg-name="Карусель (Магнитогорск)" group-title="Челябинск",Карусель (Магнитогорск)
 https://secure-272717.tatnet.app/rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_KARUSEL_MAG/variant.m3u8
 
-#EXTINF:-1 tvg-name="ТВ Центр (Магнитогорск)" group-title="Челябинск",ТВ Центр (Магнитогорск)
-https://secure-272717.tatnet.app/rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TVC_URAL_MAG/variant.m3u8
-
 #EXTINF:-1 tvg-name="РЕН ТВ (Магнитогорск)" group-title="Челябинск",РЕН ТВ (Магнитогорск)
 https://secure-272717.tatnet.app/rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_URAL_MAG/variant.m3u8
 
@@ -131,9 +128,6 @@ https://secure-272717.tatnet.app/rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_O
 
 #EXTINF:-1 tvg-name="Карусель (Златоуст)" group-title="Челябинск",Карусель (Златоуст)
 https://secure-272717.tatnet.app/rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_KARUSEL_ZLAT/variant.m3u8
-
-#EXTINF:-1 tvg-name="ТВ Центр (Златоуст)" group-title="Челябинск",ТВ Центр (Златоуст)
-https://secure-272717.tatnet.app/rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TVC_ZLAT/variant.m3u8
 
 #EXTINF:-1 tvg-name="РЕН ТВ (Златоуст)" group-title="Челябинск",РЕН ТВ (Златоуст)
 https://secure-272717.tatnet.app/rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_ZLAT/variant.m3u8
@@ -189,6 +183,9 @@ https://secure-272717.tatnet.app/rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_O
 #EXTINF:-1 tvg-name="ОТР (Магнитогорск)" group-title="Челябинск",ОТР (Магнитогорск)
 https://secure-272717.tatnet.app/rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_OTR_MAG/variant.m3u8
 
+#EXTINF:-1 tvg-name="ТВ Центр (Магнитогорск)" group-title="Челябинск",ТВ Центр (Магнитогорск)
+https://secure-272717.tatnet.app/rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TVC_URAL_MAG/variant.m3u8
+
 #EXTINF:-1 tvg-name="ТВ-3 (Магнитогорск)" group-title="Челябинск",ТВ-3 (Магнитогорск)
 https://secure-272717.tatnet.app/rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TV3_URAL_MAG/variant.m3u8
 
@@ -203,6 +200,9 @@ https://secure-272717.tatnet.app/rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_O
 
 #EXTINF:-1 tvg-name="ОТР (Златоуст)" group-title="Челябинск",ОТР (Златоуст)
 https://secure-272717.tatnet.app/rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_OTR_ZLAT/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ Центр (Златоуст)" group-title="Челябинск",ТВ Центр (Златоуст)
+https://secure-272717.tatnet.app/rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TVC_ZLAT/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТВ-3 (Златоуст)" group-title="Челябинск",ТВ-3 (Златоуст)
 https://secure-272717.tatnet.app/rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TV3_ZLAT/variant.m3u8

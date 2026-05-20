@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Уфа
 # Каналов: 31
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
 
 #EXTINF:-1 tvg-name="Первый (Уфа)" group-title="Уфа",Первый (Уфа)
 https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
@@ -21,9 +21,6 @@ https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R02_ROSSIA2/varian
 #EXTINF:-1 tvg-name="НТВ (Уфа)" group-title="Уфа",НТВ (Уфа)
 https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 
-#EXTINF:-1 tvg-name="Пятый (Уфа)" group-title="Уфа",Пятый (Уфа)
-https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
-
 #EXTINF:-1 tvg-name="Россия К (Уфа)" group-title="Уфа",Россия К (Уфа)
 https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
 
@@ -32,12 +29,6 @@ https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R01_ROSSIA24/varia
 
 #EXTINF:-1 tvg-name="Карусель (Уфа)" group-title="Уфа",Карусель (Уфа)
 https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
-
-#EXTINF:-1 tvg-name="ОТР (Уфа)" group-title="Уфа",ОТР (Уфа)
-https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
-
-#EXTINF:-1 tvg-name="ТВ Центр (Уфа)" group-title="Уфа",ТВ Центр (Уфа)
-https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 
 #EXTINF:-1 tvg-name="РЕН ТВ (Уфа)" group-title="Уфа",РЕН ТВ (Уфа)
 https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
@@ -48,12 +39,6 @@ https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R02_STS/variant.m3
 #EXTINF:-1 tvg-name="Домашний (Уфа)" group-title="Уфа",Домашний (Уфа)
 https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
 
-#EXTINF:-1 tvg-name="ТВ-3 (Уфа)" group-title="Уфа",ТВ-3 (Уфа)
-https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
-
-#EXTINF:-1 tvg-name="Пятница! (Уфа)" group-title="Уфа",Пятница! (Уфа)
-https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-
 #EXTINF:-1 tvg-name="Звезда (Уфа)" group-title="Уфа",Звезда (Уфа)
 https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
 
@@ -63,23 +48,32 @@ https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3
 #EXTINF:-1 tvg-name="Че! (Уфа)" group-title="Уфа",Че! (Уфа)
 https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
 
+#EXTINF:-1 tvg-name="Первый (Уфа)" group-title="Уфа",Первый (Уфа)
+https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R03_1TV_UFA/variant.m3u8
+
+#EXTINF:-1 tvg-name="Курай (Башкортостан)" group-title="Уфа",Курай (Башкортостан)
+https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R01_KURAI/variant.m3u8
+
+#EXTINF:-1 tvg-name="Пятый (Уфа)" group-title="Уфа",Пятый (Уфа)
+https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
+
+#EXTINF:-1 tvg-name="ОТР (Уфа)" group-title="Уфа",ОТР (Уфа)
+https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ Центр (Уфа)" group-title="Уфа",ТВ Центр (Уфа)
+https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ-3 (Уфа)" group-title="Уфа",ТВ-3 (Уфа)
+https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
+
+#EXTINF:-1 tvg-name="Пятница! (Уфа)" group-title="Уфа",Пятница! (Уфа)
+https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
+
 #EXTINF:-1 tvg-name="Ю (Уфа)" group-title="Уфа",Ю (Уфа)
 https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТНВ Планета (Уфа)" group-title="Уфа",ТНВ Планета (Уфа)
 https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R05_TNV/variant.m3u8
-
-#EXTINF:-1 tvg-name="Первый (Уфа)" group-title="Уфа",Первый (Уфа)
-https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R03_1TV_UFA/variant.m3u8
-
-#EXTINF:-1 tvg-name="Матур ТВ (Уфа)" group-title="Уфа",Матур ТВ (Уфа)
-https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R02_MATURTV/variant.m3u8
-
-#EXTINF:-1 tvg-name="Шаян ТВ (Уфа)" group-title="Уфа",Шаян ТВ (Уфа)
-https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
-
-#EXTINF:-1 tvg-name="Курай (Башкортостан)" group-title="Уфа",Курай (Башкортостан)
-https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R01_KURAI/variant.m3u8
 
 #EXTINF:-1 tvg-name="Next TV (Нефтекамск)" group-title="Уфа",Next TV (Нефтекамск)
 https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R01_NEXTTV/variant.m3u8
@@ -89,6 +83,9 @@ https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R01_TUGANTEL/varia
 
 #EXTINF:-1 tvg-name="Башкортостан 24 (Башкортостан)" group-title="Уфа",Башкортостан 24 (Башкортостан)
 https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
+
+#EXTINF:-1 tvg-name="Матур ТВ (Уфа)" group-title="Уфа",Матур ТВ (Уфа)
+https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R02_MATURTV/variant.m3u8
 
 #EXTINF:-1 tvg-name="Салям (Башкортостан)" group-title="Уфа",Салям (Башкортостан)
 https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R02_SALYAM/variant.m3u8
@@ -101,4 +98,7 @@ https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R02_UCHALYTV/varia
 
 #EXTINF:-1 tvg-name="Тамыр (Башкортостан)" group-title="Уфа",Тамыр (Башкортостан)
 https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R03_TAMYRTV/variant.m3u8
+
+#EXTINF:-1 tvg-name="Шаян ТВ (Уфа)" group-title="Уфа",Шаян ТВ (Уфа)
+https://secure-272717.tatnet.app/s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
 

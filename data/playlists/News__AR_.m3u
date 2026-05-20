@@ -1,13 +1,19 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News (AR)
 # Каналов: 7
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
+
+#EXTINF:-1 tvg-name="France 24 العربية Ⓨ" group-title="News (AR)",France 24 العربية Ⓨ
+https://secure-272717.tatnet.app/www.youtube.com/c/FRANCE24Arabic/live
+
+#EXTINF:-1 tvg-name="DW العربية" group-title="News (AR)",DW العربية
+https://secure-272717.tatnet.app/dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
 #EXTINF:-1 tvg-name="CGTN العربية" group-title="News (AR)",CGTN العربية
 https://secure-272717.tatnet.app/news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
@@ -17,12 +23,6 @@ https://secure-272717.tatnet.app/live-hls-web-aja.getaj.net/AJA/index.m3u8
 
 #EXTINF:-1 tvg-name="Al Arabiya العربية" group-title="News (AR)",Al Arabiya العربية
 https://secure-272717.tatnet.app/live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="France 24 العربية Ⓨ" group-title="News (AR)",France 24 العربية Ⓨ
-https://secure-272717.tatnet.app/www.youtube.com/c/FRANCE24Arabic/live
-
-#EXTINF:-1 tvg-name="DW العربية" group-title="News (AR)",DW العربية
-https://secure-272717.tatnet.app/dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
 #EXTINF:-1 tvg-name="RT العربية" group-title="News (AR)",RT العربية
 https://secure-272717.tatnet.app/rt-arb.rttv.com/dvr/rtarab/playlist.m3u8

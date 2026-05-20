@@ -1,25 +1,25 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Australia
 # Каналов: 9
-# Обновлено: 2026-05-20 08:29:14
-
-#EXTINF:-1 tvg-name="ABC News" group-title="Australia",ABC News
-https://secure-272717.tatnet.app/abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+# Обновлено: 2026-05-20 09:25:56
 
 #EXTINF:-1 tvg-name="ABC" group-title="Australia",ABC
 https://secure-272717.tatnet.app/c.mjh.nz/101002210221/
 
-#EXTINF:-1 tvg-name="TVSN" group-title="Australia",TVSN
-https://secure-272717.tatnet.app/tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8
-
 #EXTINF:-1 tvg-name="ABC Me" group-title="Australia",ABC Me
 https://secure-272717.tatnet.app/c.mjh.nz/101002210224/
+
+#EXTINF:-1 tvg-name="ABC News" group-title="Australia",ABC News
+https://secure-272717.tatnet.app/abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+#EXTINF:-1 tvg-name="TVSN" group-title="Australia",TVSN
+https://secure-272717.tatnet.app/tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8
 
 #EXTINF:-1 tvg-name="M4TV" group-title="Australia",M4TV
 https://secure-272717.tatnet.app/5a32c05065c79.streamlock.net/live/stream/playlist.m3u8

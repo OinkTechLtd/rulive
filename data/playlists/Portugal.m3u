@@ -1,13 +1,16 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Portugal
 # Каналов: 12
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
+
+#EXTINF:-1 tvg-name="CNN Portugal" group-title="Portugal",CNN Portugal
+https://secure-272717.tatnet.app/sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
 
 #EXTINF:-1 tvg-name="Euronews em Português Ⓨ" group-title="Portugal",Euronews em Português Ⓨ
 https://secure-272717.tatnet.app/www.youtube.com/euronewspt/live
@@ -41,7 +44,4 @@ https://secure-272717.tatnet.app/streamer-a01.videos.sapo.pt/live/portocanal/pla
 
 #EXTINF:-1 tvg-name="ADtv Ⓢ" group-title="Portugal",ADtv Ⓢ
 https://secure-272717.tatnet.app/playout172.livextend.cloud/liveiframe/_definst_/ngrp:liveartvabr_abr/playlist.m3u8
-
-#EXTINF:-1 tvg-name="CNN Portugal" group-title="Portugal",CNN Portugal
-https://secure-272717.tatnet.app/sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
 
