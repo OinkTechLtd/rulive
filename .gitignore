@@ -1,23 +1,53 @@
 ```
-# Python
+# Logs and temp files
+*.log
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# Dependencies
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-
-# Data files (if they are generated/regenerated)
-data/*.json
-data/**/*.m3u
-data/*.log
-
-# Dependencies
-.venv/
+.Python
 venv/
-env/
-ENV/
+.venv/
+.env/
+pip-log.txt
+pip-selfcheck.json
 
-# Logs
-*.log
+# Build artifacts
+build/
+dist/
+*.egg
+*.egg-info/
+*.so
+*.dylib
+*.dll
+*.exe
+*.o
+*.obj
+*.out
+
+# Coverage reports
+.coverage
+coverage/
+htmlcov/
+
+# Testing
+.pytest_cache/
+.mypy_cache/
+.hypothesis/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
 
 # OS generated files
 .DS_Store

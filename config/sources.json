@@ -368,5 +368,93 @@
       "https://ria-novosti.akamaized.net/hls/live/rianovosti/playlist.m3u8"
     ],
     "category": "Новости"
+  },
+  {
+    "name": "Eurosport 1",
+    "urls": [
+      "https://eurosport1.akamaized.net/hls/live/eurosport1/playlist.m3u8",
+      "https://eurosport-ru.akamaized.net/hls/live/eurosport1ru/playlist.m3u8"
+    ],
+    "category": "Спорт"
+  },
+  {
+    "name": "Eurosport 2",
+    "urls": [
+      "https://eurosport2.akamaized.net/hls/live/eurosport2/playlist.m3u8",
+      "https://eurosport-ru.akamaized.net/hls/live/eurosport2ru/playlist.m3u8"
+    ],
+    "category": "Спорт"
+  },
+  {
+    "name": "SPB 7 TV (Санкт-Петербург 7)",
+    "urls": [
+      "https://spb7tv.akamaized.net/hls/live/spb7tv/playlist.m3u8",
+      "https://stream.spb7tv.ru/live/spb7_720p/playlist.m3u8"
+    ],
+    "category": "Региональные"
+  },
+  {
+    "name": "Санкт-Петербург ТВ",
+    "urls": [
+      "https://spbtv.akamaized.net/hls/live/spbtv/playlist.m3u8",
+      "https://www.spbtv.ru/live/spbtv_720p/playlist.m3u8"
+    ],
+    "category": "Региональные"
+  },
+  {
+    "name": "Матч! Футбол 1",
+    "urls": [
+      "https://match-football1.akamaized.net/hls/live/matchfootball1/playlist.m3u8"
+    ],
+    "category": "Спорт"
+  },
+  {
+    "name": "Матч! Футбол 2",
+    "urls": [
+      "https://match-football2.akamaized.net/hls/live/matchfootball2/playlist.m3u8"
+    ],
+    "category": "Спорт"
+  },
+  {
+    "name": "Матч! Футбол 3",
+    "urls": [
+      "https://match-football3.akamaized.net/hls/live/matchfootball3/playlist.m3u8"
+    ],
+    "category": "Спорт"
+  },
+  {
+    "name": "Матч! Арена",
+    "urls": [
+      "https://match-arena.akamaized.net/hls/live/matcharena/playlist.m3u8"
+    ],
+    "category": "Спорт"
+  },
+  {
+    "name": "Матч! Игра",
+    "urls": [
+      "https://match-igra.akamaized.net/hls/live/matchigra/playlist.m3u8"
+    ],
+    "category": "Спорт"
+  },
+  {
+    "name": "KHL",
+    "urls": [
+      "https://khl.akamaized.net/hls/live/khl/playlist.m3u8"
+    ],
+    "category": "Спорт"
+  },
+  {
+    "name": "Setanta Sports 1",
+    "urls": [
+      "https://setanta1.akamaized.net/hls/live/setanta1/playlist.m3u8"
+    ],
+    "category": "Спорт"
+  },
+  {
+    "name": "Setanta Sports 2",
+    "urls": [
+      "https://setanta2.akamaized.net/hls/live/setanta2/playlist.m3u8"
+    ],
+    "category": "Спорт"
   }
 ]
