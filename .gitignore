@@ -1,41 +1,24 @@
 ```
+# Logs
+*.log
+
 # Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-
-# Data files (if they are generated/output files)
-data/
-
-# Logs
-*.log
-
-# Dependencies
-.venv/
-venv/
+.Python
 env/
+venv/
+.venv/
+.ENV
 .env
 .env.local
-*.env.*
+.env.*
+.venv.bak
+pip-log.txt
+pip-delete-this-directory.txt
 
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Coverage
-.coverage
-htmlcov/
-coverage/
-
-# Build artifacts
-dist/
-build/
-*.egg-info/
+# Generated files
+data/search.log
 ```
