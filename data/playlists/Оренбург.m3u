@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Оренбург
 # Каналов: 35
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
 
 #EXTINF:-1 tvg-name="Первый (Оренбург)" group-title="Оренбург",Первый (Оренбург)
 https://secure-272717.tatnet.app/rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
@@ -78,9 +78,6 @@ https://secure-272717.tatnet.app/rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R04_ROS
 #EXTINF:-1 tvg-name="НТВ (Орск)" group-title="Оренбург",НТВ (Орск)
 https://secure-272717.tatnet.app/rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_NTV_ORSK/variant.m3u8
 
-#EXTINF:-1 tvg-name="ТВ Центр (Орск)" group-title="Оренбург",ТВ Центр (Орск)
-https://secure-272717.tatnet.app/rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R04_TVC_ORSK/variant.m3u8
-
 #EXTINF:-1 tvg-name="РЕН ТВ (Орск)" group-title="Оренбург",РЕН ТВ (Орск)
 https://secure-272717.tatnet.app/rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_ORSK/variant.m3u8
 
@@ -89,6 +86,9 @@ https://secure-272717.tatnet.app/rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_STS
 
 #EXTINF:-1 tvg-name="ТНТ (Орск)" group-title="Оренбург",ТНТ (Орск)
 https://secure-272717.tatnet.app/rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R01_TNT_ORSK/variant.m3u8
+
+#EXTINF:-1 tvg-name="Курай (Башкортостан)" group-title="Оренбург",Курай (Башкортостан)
+https://secure-272717.tatnet.app/rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R01_KURAI/variant.m3u8
 
 #EXTINF:-1 tvg-name="ОРТ-Планета (Оренбург)" group-title="Оренбург",ОРТ-Планета (Оренбург)
 https://secure-272717.tatnet.app/rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ORTPLANET/variant.m3u8
@@ -99,14 +99,14 @@ https://secure-272717.tatnet.app/rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_SHA
 #EXTINF:-1 tvg-name="Пятый (Орск)" group-title="Оренбург",Пятый (Орск)
 https://secure-272717.tatnet.app/rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_5TV_ORSK/variant.m3u8
 
+#EXTINF:-1 tvg-name="ТВ Центр (Орск)" group-title="Оренбург",ТВ Центр (Орск)
+https://secure-272717.tatnet.app/rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R04_TVC_ORSK/variant.m3u8
+
 #EXTINF:-1 tvg-name="ТВ-3 (Орск)" group-title="Оренбург",ТВ-3 (Орск)
 https://secure-272717.tatnet.app/rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R01_TV3_ORSK/variant.m3u8
 
 #EXTINF:-1 tvg-name="Пятница! (Орск)" group-title="Оренбург",Пятница! (Орск)
 https://secure-272717.tatnet.app/rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_ORSK/variant.m3u8
-
-#EXTINF:-1 tvg-name="Курай (Башкортостан)" group-title="Оренбург",Курай (Башкортостан)
-https://secure-272717.tatnet.app/rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R01_KURAI/variant.m3u8
 
 #EXTINF:-1 tvg-name="Евразия (Орск)" group-title="Оренбург",Евразия (Орск)
 https://secure-272717.tatnet.app/rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_EVRAZIY/variant.m3u8

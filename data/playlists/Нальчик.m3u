@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Нальчик
 # Каналов: 20
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
 
 #EXTINF:-1 tvg-name="Первый (Нальчик)" group-title="Нальчик",Первый (Нальчик)
 https://secure-272717.tatnet.app/rt-sth-nalch-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
@@ -29,9 +29,6 @@ https://secure-272717.tatnet.app/rt-sth-nalch-htlive.cdn.ngenix.net/hls/CH_R01_R
 
 #EXTINF:-1 tvg-name="Карусель (Нальчик)" group-title="Нальчик",Карусель (Нальчик)
 https://secure-272717.tatnet.app/rt-sth-nalch-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
-
-#EXTINF:-1 tvg-name="ТВ Центр (Нальчик)" group-title="Нальчик",ТВ Центр (Нальчик)
-https://secure-272717.tatnet.app/rt-sth-nalch-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 
 #EXTINF:-1 tvg-name="РЕН ТВ (Нальчик)" group-title="Нальчик",РЕН ТВ (Нальчик)
 https://secure-272717.tatnet.app/rt-sth-nalch-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
@@ -56,6 +53,9 @@ https://secure-272717.tatnet.app/rt-sth-nalch-htlive.cdn.ngenix.net/hls/CH_R02_5
 
 #EXTINF:-1 tvg-name="ОТР (Нальчик)" group-title="Нальчик",ОТР (Нальчик)
 https://secure-272717.tatnet.app/rt-sth-nalch-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ Центр (Нальчик)" group-title="Нальчик",ТВ Центр (Нальчик)
+https://secure-272717.tatnet.app/rt-sth-nalch-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТВ-3 (Нальчик)" group-title="Нальчик",ТВ-3 (Нальчик)
 https://secure-272717.tatnet.app/rt-sth-nalch-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8

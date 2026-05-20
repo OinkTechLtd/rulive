@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Калуга
 # Каналов: 37
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
 
 #EXTINF:-1 tvg-name="Первый (Калуга)" group-title="Калуга",Первый (Калуга)
 https://secure-272717.tatnet.app/rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
@@ -29,9 +29,6 @@ https://secure-272717.tatnet.app/rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_R
 
 #EXTINF:-1 tvg-name="Карусель (Калуга)" group-title="Калуга",Карусель (Калуга)
 https://secure-272717.tatnet.app/rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
-
-#EXTINF:-1 tvg-name="ТВ Центр (Калуга)" group-title="Калуга",ТВ Центр (Калуга)
-https://secure-272717.tatnet.app/rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 
 #EXTINF:-1 tvg-name="РЕН ТВ (Калуга)" group-title="Калуга",РЕН ТВ (Калуга)
 https://secure-272717.tatnet.app/rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
@@ -72,9 +69,6 @@ https://secure-272717.tatnet.app/rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_R
 #EXTINF:-1 tvg-name="Карусель (Обнинск)" group-title="Калуга",Карусель (Обнинск)
 https://secure-272717.tatnet.app/rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL_OBN/variant.m3u8
 
-#EXTINF:-1 tvg-name="ТВ Центр (Обнинск)" group-title="Калуга",ТВ Центр (Обнинск)
-https://secure-272717.tatnet.app/rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R04_TVC_OBN/variant.m3u8
-
 #EXTINF:-1 tvg-name="РЕН ТВ (Обнинск)" group-title="Калуга",РЕН ТВ (Обнинск)
 https://secure-272717.tatnet.app/rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_OBN/variant.m3u8
 
@@ -96,6 +90,9 @@ https://secure-272717.tatnet.app/rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R02_5
 #EXTINF:-1 tvg-name="ОТР (Калуга)" group-title="Калуга",ОТР (Калуга)
 https://secure-272717.tatnet.app/rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
 
+#EXTINF:-1 tvg-name="ТВ Центр (Калуга)" group-title="Калуга",ТВ Центр (Калуга)
+https://secure-272717.tatnet.app/rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+
 #EXTINF:-1 tvg-name="ТВ-3 (Калуга)" group-title="Калуга",ТВ-3 (Калуга)
 https://secure-272717.tatnet.app/rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
 
@@ -110,6 +107,9 @@ https://secure-272717.tatnet.app/rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R02_5
 
 #EXTINF:-1 tvg-name="ОТР (Обнинск)" group-title="Калуга",ОТР (Обнинск)
 https://secure-272717.tatnet.app/rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_OTR_OBN/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ Центр (Обнинск)" group-title="Калуга",ТВ Центр (Обнинск)
+https://secure-272717.tatnet.app/rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R04_TVC_OBN/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТВ-3 (Обнинск)" group-title="Калуга",ТВ-3 (Обнинск)
 https://secure-272717.tatnet.app/rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_TV3_OBN/variant.m3u8

@@ -1,13 +1,19 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Greece
 # Каналов: 62
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
+
+#EXTINF:-1 tvg-name="ERT 1 Ⓖ" group-title="Greece",ERT 1 Ⓖ
+https://secure-272717.tatnet.app/ertflix.ascdn.broadpeak.io/ertlive/ert1/default/index.mpd
+
+#EXTINF:-1 tvg-name="ERT 3 Ⓖ" group-title="Greece",ERT 3 Ⓖ
+https://secure-272717.tatnet.app/ertflix.ascdn.broadpeak.io/ertlive/ert3/default/index.mpd
 
 #EXTINF:-1 tvg-name="ERT News" group-title="Greece",ERT News
 https://secure-272717.tatnet.app/ertflix.ascdn.broadpeak.io/ertlive/ertnews/default/index.m3u8
@@ -18,29 +24,35 @@ https://secure-272717.tatnet.app/ertflix-ertsports1.siliconweb.com/cmaf/618618_3
 #EXTINF:-1 tvg-name="ERT Sports 4" group-title="Greece",ERT Sports 4
 https://secure-272717.tatnet.app/ertflix.ascdn.broadpeak.io/ertlive/seasonal/default/index.mpd
 
+#EXTINF:-1 tvg-name="ERT Kids Ⓖ" group-title="Greece",ERT Kids Ⓖ
+https://secure-272717.tatnet.app/ertflix.akamaized.net/ertlive/kids/default/index.m3u8
+
 #EXTINF:-1 tvg-name="ERT Music Ⓖ" group-title="Greece",ERT Music Ⓖ
 https://secure-272717.tatnet.app/ertflix.akamaized.net/ertlive/music/default/index.m3u8
 
 #EXTINF:-1 tvg-name="Mega News" group-title="Greece",Mega News
 https://secure-272717.tatnet.app/c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Alert" group-title="Greece",Alert
+https://secure-272717.tatnet.app/itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Blue Sky" group-title="Greece",Blue Sky
+https://secure-272717.tatnet.app/cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Gnomi" group-title="Greece",Gnomi
+https://secure-272717.tatnet.app/live.streams.ovh:8081/gnomitv/index.m3u8
+
 #EXTINF:-1 tvg-name="Vergina" group-title="Greece",Vergina
 https://secure-272717.tatnet.app/verginanews.gr:8443/hls_live/stream1.m3u8
 
-#EXTINF:-1 tvg-name="ERT 1 Ⓖ" group-title="Greece",ERT 1 Ⓖ
-https://secure-272717.tatnet.app/ertflix.ascdn.broadpeak.io/ertlive/ert1/default/index.mpd
+#EXTINF:-1 tvg-name="Corfu" group-title="Greece",Corfu
+https://secure-272717.tatnet.app/itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ERT 2 Ⓖ" group-title="Greece",ERT 2 Ⓖ
 https://secure-272717.tatnet.app/ertflix.ascdn.broadpeak.io/ert2/default/index.mpd
 
-#EXTINF:-1 tvg-name="ERT 3 Ⓖ" group-title="Greece",ERT 3 Ⓖ
-https://secure-272717.tatnet.app/ertflix.ascdn.broadpeak.io/ertlive/ert3/default/index.mpd
-
 #EXTINF:-1 tvg-name="ERT World" group-title="Greece",ERT World
 https://secure-272717.tatnet.app/ertflix-ertworld.siliconweb.com/mpegts/618618_3479286/master_mpegts.m3u8
-
-#EXTINF:-1 tvg-name="ERT Kids Ⓖ" group-title="Greece",ERT Kids Ⓖ
-https://secure-272717.tatnet.app/ertflix.akamaized.net/ertlive/kids/default/index.m3u8
 
 #EXTINF:-1 tvg-name="Vouli TV" group-title="Greece",Vouli TV
 https://secure-272717.tatnet.app/diavlos-cache.cnt.grnet.gr/parltv/webtv-1b.sdp/playlist.m3u8
@@ -69,14 +81,8 @@ https://secure-272717.tatnet.app/lcdn.antennaplus.gr/r444865966c0847fca53b9b0c13
 #EXTINF:-1 tvg-name="Action24" group-title="Greece",Action24
 https://secure-272717.tatnet.app/actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Alert" group-title="Greece",Alert
-https://secure-272717.tatnet.app/itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
-
 #EXTINF:-1 tvg-name="ART" group-title="Greece",ART
 https://secure-272717.tatnet.app/rumble.com/live-hls/7113t0/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Blue Sky" group-title="Greece",Blue Sky
-https://secure-272717.tatnet.app/cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="High TV" group-title="Greece",High TV
 https://secure-272717.tatnet.app/live.streams.ovh/hightv/hightv/playlist.m3u8
@@ -101,9 +107,6 @@ https://secure-272717.tatnet.app/video.streams.ovh:1936/egnatiatv/egnatiatv/inde
 
 #EXTINF:-1 tvg-name="Euro" group-title="Greece",Euro
 https://secure-272717.tatnet.app/live20.bozztv.com/akamaissh101/ssh101/eurotvlive/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Gnomi" group-title="Greece",Gnomi
-https://secure-272717.tatnet.app/live.streams.ovh:8081/gnomitv/index.m3u8
 
 #EXTINF:-1 tvg-name="Pella" group-title="Greece",Pella
 https://secure-272717.tatnet.app/video.streams.ovh:1936/pellatv/pellatv/playlist.m3u8
@@ -152,9 +155,6 @@ https://secure-272717.tatnet.app/acheloostv.streamings.gr/live/stream/index.m3u8
 
 #EXTINF:-1 tvg-name="ART TV" group-title="Greece",ART TV
 https://secure-272717.tatnet.app/rtmp.win:3696/live/arttvgrlive.m3u8
-
-#EXTINF:-1 tvg-name="Corfu" group-title="Greece",Corfu
-https://secure-272717.tatnet.app/itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Epirus TV 1" group-title="Greece",Epirus TV 1
 https://secure-272717.tatnet.app/rtmp.win:3929/live/epiruslive.m3u8

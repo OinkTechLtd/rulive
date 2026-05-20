@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Камчатка
 # Каналов: 14
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
 
 #EXTINF:-1 tvg-name="ТНТ (Камчатка)" group-title="Камчатка",ТНТ (Камчатка)
 https://secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R41_TNT/variant.m3u8
@@ -33,9 +33,6 @@ https://secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R03_SPAS_KAM/varia
 #EXTINF:-1 tvg-name="СТС (Камчатский КР)" group-title="Камчатка",СТС (Камчатский КР)
 https://secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R02_STS_KAM/variant.m3u8
 
-#EXTINF:-1 tvg-name="41 регион (Петропавловск-Камчатский)" group-title="Камчатка",41 регион (Петропавловск-Камчатский)
-https://secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R02_41REG_OTT/variant.m3u8
-
 #EXTINF:-1 tvg-name="Пятница! (Камчатка)" group-title="Камчатка",Пятница! (Камчатка)
 https://secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R41_FRIDAY/variant.m3u8
 
@@ -47,6 +44,9 @@ https://secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R01_OTR_KAM/varian
 
 #EXTINF:-1 tvg-name="Пятница! (Камчатский КР)" group-title="Камчатка",Пятница! (Камчатский КР)
 https://secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R01_FRIDAY_KAM/variant.m3u8
+
+#EXTINF:-1 tvg-name="41 регион (Петропавловск-Камчатский)" group-title="Камчатка",41 регион (Петропавловск-Камчатский)
+https://secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R02_41REG_OTT/variant.m3u8
 
 #EXTINF:-1 tvg-name="Камчатка 1 (Камчатка)" group-title="Камчатка",Камчатка 1 (Камчатка)
 https://secure-272717.tatnet.app/s14131.cdn.ngenix.net/hls/CH_R41_KAMCHATKA/variant.m3u8

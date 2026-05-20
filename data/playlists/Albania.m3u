@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Albania
 # Каналов: 17
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
 
 #EXTINF:-1 tvg-name="A2 CNN Albania" group-title="Albania",A2 CNN Albania
 https://secure-272717.tatnet.app/tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
@@ -27,6 +27,9 @@ https://secure-272717.tatnet.app/tv.balkanweb.com/news24/livestream/playlist.m3u
 #EXTINF:-1 tvg-name="Ora News" group-title="Albania",Ora News
 https://secure-272717.tatnet.app/live1.mediadesk.al/oranews.m3u8
 
+#EXTINF:-1 tvg-name="Syri" group-title="Albania",Syri
+https://secure-272717.tatnet.app/stream.syritv.al/SyriTV/index.m3u8
+
 #EXTINF:-1 tvg-name="Top News Ⓣ" group-title="Albania",Top News Ⓣ
 https://secure-272717.tatnet.app/www.twitch.tv/topnewsal
 
@@ -44,9 +47,6 @@ https://secure-272717.tatnet.app/198.244.188.94/panorama/livestream/playlist.m3u
 
 #EXTINF:-1 tvg-name="Report TV" group-title="Albania",Report TV
 https://secure-272717.tatnet.app/deb10stream.duckdns.org/hls/stream.m3u8
-
-#EXTINF:-1 tvg-name="Syri" group-title="Albania",Syri
-https://secure-272717.tatnet.app/stream.syritv.al/SyriTV/index.m3u8
 
 #EXTINF:-1 tvg-name="Tropoja" group-title="Albania",Tropoja
 https://secure-272717.tatnet.app/live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8

@@ -1,16 +1,22 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Belgium
 # Каналов: 13
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
 
 #EXTINF:-1 tvg-name="RTL-Be" group-title="Belgium",RTL-Be
 https://secure-272717.tatnet.app/rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
+
+#EXTINF:-1 tvg-name="Club RTL" group-title="Belgium",Club RTL
+https://secure-272717.tatnet.app/4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/9ef55f75bc15308.ts
+
+#EXTINF:-1 tvg-name="Plug RTL" group-title="Belgium",Plug RTL
+https://secure-272717.tatnet.app/4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/de5c6896d356f8e.ts
 
 #EXTINF:-1 tvg-name="La Une" group-title="Belgium",La Une
 https://secure-272717.tatnet.app/4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/29797c9f3f4fa00.m3u8
@@ -18,14 +24,8 @@ https://secure-272717.tatnet.app/4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/
 #EXTINF:-1 tvg-name="Tipik" group-title="Belgium",Tipik
 https://secure-272717.tatnet.app/4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/5dee2de1f4661ce.m3u8
 
-#EXTINF:-1 tvg-name="Club RTL" group-title="Belgium",Club RTL
-https://secure-272717.tatnet.app/4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/9ef55f75bc15308.ts
-
 #EXTINF:-1 tvg-name="La Trois" group-title="Belgium",La Trois
 https://secure-272717.tatnet.app/4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/6f940c7da9a562e.ts
-
-#EXTINF:-1 tvg-name="Plug RTL" group-title="Belgium",Plug RTL
-https://secure-272717.tatnet.app/4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/de5c6896d356f8e.ts
 
 #EXTINF:-1 tvg-name="LN24" group-title="Belgium",LN24
 https://secure-272717.tatnet.app/live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8

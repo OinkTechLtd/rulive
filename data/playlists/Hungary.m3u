@@ -1,13 +1,16 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Hungary
 # Каналов: 53
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
+
+#EXTINF:-1 tvg-name="RTL Klub" group-title="Hungary",RTL Klub
+https://secure-272717.tatnet.app/cdn.mediaklikk.org:443/rtl/00wMyEjM5UTM
 
 #EXTINF:-1 tvg-name="MUSICPlus" group-title="Hungary",MUSICPlus
 https://secure-272717.tatnet.app/s02.diazol.hu:10192/stream.m3u8
@@ -18,6 +21,12 @@ https://secure-272717.tatnet.app/oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1 tvg-name="Euronews Hungarian Ⓨ" group-title="Hungary",Euronews Hungarian Ⓨ
 https://secure-272717.tatnet.app/www.youtube.com/channel/UC4Ct8gIf9f0n4mdyGsFiZRA/live
 
+#EXTINF:-1 tvg-name="TV Eger" group-title="Hungary",TV Eger
+https://secure-272717.tatnet.app/stream.tveger.hu:8010/live.m3u8
+
+#EXTINF:-1 tvg-name="Miskolc TV" group-title="Hungary",Miskolc TV
+https://secure-272717.tatnet.app/video.mhzrt.hu/live/mitv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="M4 Sport" group-title="Hungary",M4 Sport
 https://secure-272717.tatnet.app/c401-node62-cdn.connectmedia.hu/110110/5dd8dc6d853c9b7f94db85646ed44326/641177e3/index.m3u8
 
@@ -26,9 +35,6 @@ https://secure-272717.tatnet.app/152.66.115.226:33391/bysid/103
 
 #EXTINF:-1 tvg-name="M1 Hiradó Ⓨ" group-title="Hungary",M1 Hiradó Ⓨ
 https://secure-272717.tatnet.app/www.youtube.com/@M1-Hirado/live
-
-#EXTINF:-1 tvg-name="RTL Klub" group-title="Hungary",RTL Klub
-https://secure-272717.tatnet.app/cdn.mediaklikk.org:443/rtl/00wMyEjM5UTM
 
 #EXTINF:-1 tvg-name="TV2" group-title="Hungary",TV2
 https://secure-272717.tatnet.app/cdn.mediaklikk.org:443/tv2/00wMyEjM4UTM
@@ -129,14 +135,8 @@ https://secure-272717.tatnet.app/cloudfront41.lexanetwork.com:1344/relay01/lives
 #EXTINF:-1 tvg-name="Vásárhelyi Televízió" group-title="Hungary",Vásárhelyi Televízió
 https://secure-272717.tatnet.app/stream.vasarhelyitelevizio.hu/stream/stream.m3u8
 
-#EXTINF:-1 tvg-name="TV Eger" group-title="Hungary",TV Eger
-https://secure-272717.tatnet.app/stream.tveger.hu:8010/live.m3u8
-
 #EXTINF:-1 tvg-name="Putnok Városi TV" group-title="Hungary",Putnok Városi TV
 https://secure-272717.tatnet.app/78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null
-
-#EXTINF:-1 tvg-name="Miskolc TV" group-title="Hungary",Miskolc TV
-https://secure-272717.tatnet.app/video.mhzrt.hu/live/mitv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Oroszlányi Városi Televízió" group-title="Hungary",Oroszlányi Városi Televízió
 https://secure-272717.tatnet.app/cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8

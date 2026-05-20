@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Элиста
 # Каналов: 23
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
 
 #EXTINF:-1 tvg-name="Первый (Элиста)" group-title="Элиста",Первый (Элиста)
 https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
@@ -30,9 +30,6 @@ https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_
 #EXTINF:-1 tvg-name="Карусель (Элиста)" group-title="Элиста",Карусель (Элиста)
 https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
 
-#EXTINF:-1 tvg-name="ТВ Центр (Элиста)" group-title="Элиста",ТВ Центр (Элиста)
-https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
-
 #EXTINF:-1 tvg-name="РЕН ТВ (Элиста)" group-title="Элиста",РЕН ТВ (Элиста)
 https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
 
@@ -54,17 +51,14 @@ https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R02_
 #EXTINF:-1 tvg-name="МИР (Республика Калмыкия)" group-title="Элиста",МИР (Республика Калмыкия)
 https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R02_MIR_KALM/variant.m3u8
 
-#EXTINF:-1 tvg-name="МУЗ-ТВ (Республика Калмыкия)" group-title="Элиста",МУЗ-ТВ (Республика Калмыкия)
-https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R06_MUZTV_KALM/variant.m3u8
-
-#EXTINF:-1 tvg-name="Калмыкия-24 (Республика Калмыкия)" group-title="Элиста",Калмыкия-24 (Республика Калмыкия)
-https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R06_KALMYKIYA24/variant.m3u8
-
 #EXTINF:-1 tvg-name="Пятый (Элиста)" group-title="Элиста",Пятый (Элиста)
 https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
 
 #EXTINF:-1 tvg-name="ОТР (Элиста)" group-title="Элиста",ОТР (Элиста)
 https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ Центр (Элиста)" group-title="Элиста",ТВ Центр (Элиста)
+https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТВ-3 (Элиста)" group-title="Элиста",ТВ-3 (Элиста)
 https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
@@ -75,6 +69,12 @@ https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_
 #EXTINF:-1 tvg-name="Ю (Элиста)" group-title="Элиста",Ю (Элиста)
 https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
 
+#EXTINF:-1 tvg-name="МУЗ-ТВ (Республика Калмыкия)" group-title="Элиста",МУЗ-ТВ (Республика Калмыкия)
+https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R06_MUZTV_KALM/variant.m3u8
+
 #EXTINF:-1 tvg-name="НТК (Элиста)" group-title="Элиста",НТК (Элиста)
 https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_HAMDAN/variant.m3u8
+
+#EXTINF:-1 tvg-name="Калмыкия-24 (Республика Калмыкия)" group-title="Элиста",Калмыкия-24 (Республика Калмыкия)
+https://secure-272717.tatnet.app/rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R06_KALMYKIYA24/variant.m3u8
 

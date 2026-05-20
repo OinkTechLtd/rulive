@@ -1,4 +1,25 @@
 ```
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Data files (if they are generated/regenerated)
+data/*.json
+data/**/*.m3u
+data/*.log
+
+# Dependencies
+.venv/
+venv/
+env/
+ENV/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
 ```

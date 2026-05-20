@@ -1,16 +1,25 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Croatia
 # Каналов: 17
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
+
+#EXTINF:-1 tvg-name="RTL" group-title="Croatia",RTL
+https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RTL 2" group-title="Croatia",RTL 2
+https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Sportska televizija Ⓖ" group-title="Croatia",Sportska televizija Ⓖ
 https://secure-272717.tatnet.app/stream.agatin.hr:3087/live/sptvlive.m3u8
+
+#EXTINF:-1 tvg-name="RTL Kockica" group-title="Croatia",RTL Kockica
+https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
 
 #EXTINF:-1 tvg-name="HRT 1" group-title="Croatia",HRT 1
 https://secure-272717.tatnet.app/webtvstream.bhtelecom.ba/hls9/hrt1_1200.m3u8
@@ -18,17 +27,8 @@ https://secure-272717.tatnet.app/webtvstream.bhtelecom.ba/hls9/hrt1_1200.m3u8
 #EXTINF:-1 tvg-name="HRT 2" group-title="Croatia",HRT 2
 https://secure-272717.tatnet.app/webtvstream.bhtelecom.ba/hls9/hrt2_1200.m3u8
 
-#EXTINF:-1 tvg-name="RTL" group-title="Croatia",RTL
-https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
-
 #EXTINF:-1 tvg-name="HRT 3" group-title="Croatia",HRT 3
 https://secure-272717.tatnet.app/webtvstream.bhtelecom.ba/hls9/hrt3_1200.m3u8
-
-#EXTINF:-1 tvg-name="RTL 2" group-title="Croatia",RTL 2
-https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
-
-#EXTINF:-1 tvg-name="RTL Kockica" group-title="Croatia",RTL Kockica
-https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CMC TV" group-title="Croatia",CMC TV
 https://secure-272717.tatnet.app/stream.cmctv.hr:49998/cmc/live.m3u8

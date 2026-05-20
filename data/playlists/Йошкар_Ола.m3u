@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Йошкар-Ола
 # Каналов: 21
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
 
 #EXTINF:-1 tvg-name="Первый (Йошкар-Ола)" group-title="Йошкар-Ола",Первый (Йошкар-Ола)
 https://secure-272717.tatnet.app/rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
@@ -29,9 +29,6 @@ https://secure-272717.tatnet.app/rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R01_RO
 
 #EXTINF:-1 tvg-name="Карусель (Йошкар-Ола)" group-title="Йошкар-Ола",Карусель (Йошкар-Ола)
 https://secure-272717.tatnet.app/rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
-
-#EXTINF:-1 tvg-name="ТВ Центр (Йошкар-Ола)" group-title="Йошкар-Ола",ТВ Центр (Йошкар-Ола)
-https://secure-272717.tatnet.app/rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 
 #EXTINF:-1 tvg-name="РЕН ТВ (Йошкар-Ола)" group-title="Йошкар-Ола",РЕН ТВ (Йошкар-Ола)
 https://secure-272717.tatnet.app/rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
@@ -56,6 +53,9 @@ https://secure-272717.tatnet.app/rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R02_5T
 
 #EXTINF:-1 tvg-name="ОТР (Йошкар-Ола)" group-title="Йошкар-Ола",ОТР (Йошкар-Ола)
 https://secure-272717.tatnet.app/rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ Центр (Йошкар-Ола)" group-title="Йошкар-Ола",ТВ Центр (Йошкар-Ола)
+https://secure-272717.tatnet.app/rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТВ-3 (Йошкар-Ола)" group-title="Йошкар-Ола",ТВ-3 (Йошкар-Ола)
 https://secure-272717.tatnet.app/rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8

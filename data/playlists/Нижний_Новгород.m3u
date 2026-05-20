@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Нижний Новгород
 # Каналов: 27
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
 
 #EXTINF:-1 tvg-name="Первый (Нижний Новгород)" group-title="Нижний Новгород",Первый (Нижний Новгород)
 https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
@@ -21,9 +21,6 @@ https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_ROSS
 #EXTINF:-1 tvg-name="НТВ (Нижний Новгород)" group-title="Нижний Новгород",НТВ (Нижний Новгород)
 https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 
-#EXTINF:-1 tvg-name="Пятый (Нижний Новгород)" group-title="Нижний Новгород",Пятый (Нижний Новгород)
-https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
-
 #EXTINF:-1 tvg-name="Россия К (Нижний Новгород)" group-title="Нижний Новгород",Россия К (Нижний Новгород)
 https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
 
@@ -32,12 +29,6 @@ https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_ROSS
 
 #EXTINF:-1 tvg-name="Карусель (Нижний Новгород)" group-title="Нижний Новгород",Карусель (Нижний Новгород)
 https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
-
-#EXTINF:-1 tvg-name="ОТР (Нижний Новгород)" group-title="Нижний Новгород",ОТР (Нижний Новгород)
-https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
-
-#EXTINF:-1 tvg-name="ТВ Центр (Нижний Новгород)" group-title="Нижний Новгород",ТВ Центр (Нижний Новгород)
-https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 
 #EXTINF:-1 tvg-name="РЕН ТВ (Нижний Новгород)" group-title="Нижний Новгород",РЕН ТВ (Нижний Новгород)
 https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
@@ -48,26 +39,44 @@ https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_STS/
 #EXTINF:-1 tvg-name="Домашний (Нижний Новгород)" group-title="Нижний Новгород",Домашний (Нижний Новгород)
 https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
 
-#EXTINF:-1 tvg-name="ТВ-3 (Нижний Новгород)" group-title="Нижний Новгород",ТВ-3 (Нижний Новгород)
-https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
-
-#EXTINF:-1 tvg-name="Пятница! (Нижний Новгород)" group-title="Нижний Новгород",Пятница! (Нижний Новгород)
-https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-
 #EXTINF:-1 tvg-name="Звезда (Нижний Новгород)" group-title="Нижний Новгород",Звезда (Нижний Новгород)
 https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТНТ (Нижний Новгород)" group-title="Нижний Новгород",ТНТ (Нижний Новгород)
 https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
 
-#EXTINF:-1 tvg-name="ТНВ Планета (Нижний Новгород)" group-title="Нижний Новгород",ТНВ Планета (Нижний Новгород)
-https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_TNV/variant.m3u8
-
 #EXTINF:-1 tvg-name="Россия 24 (Нижний Новгород)" group-title="Нижний Новгород",Россия 24 (Нижний Новгород)
 https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_NN/variant.m3u8
 
+#EXTINF:-1 tvg-name="Пятый (Нижний Новгород)" group-title="Нижний Новгород",Пятый (Нижний Новгород)
+https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
+
+#EXTINF:-1 tvg-name="ОТР (Нижний Новгород)" group-title="Нижний Новгород",ОТР (Нижний Новгород)
+https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ Центр (Нижний Новгород)" group-title="Нижний Новгород",ТВ Центр (Нижний Новгород)
+https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ-3 (Нижний Новгород)" group-title="Нижний Новгород",ТВ-3 (Нижний Новгород)
+https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
+
+#EXTINF:-1 tvg-name="Пятница! (Нижний Новгород)" group-title="Нижний Новгород",Пятница! (Нижний Новгород)
+https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТНВ Планета (Нижний Новгород)" group-title="Нижний Новгород",ТНВ Планета (Нижний Новгород)
+https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_TNV/variant.m3u8
+
+#EXTINF:-1 tvg-name="Дзержинск-ТВ (Дзержинск)" group-title="Нижний Новгород",Дзержинск-ТВ (Дзержинск)
+https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
+
 #EXTINF:-1 tvg-name="Нижний Новгород 24 (Нижний Новгород)" group-title="Нижний Новгород",Нижний Новгород 24 (Нижний Новгород)
 https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_NN24/variant.m3u8
+
+#EXTINF:-1 tvg-name="Новое Телевидение Сарова (Саров)" group-title="Нижний Новгород",Новое Телевидение Сарова (Саров)
+https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_NTS/variant.m3u8
+
+#EXTINF:-1 tvg-name="Хузур ТВ (Татарстан)" group-title="Нижний Новгород",Хузур ТВ (Татарстан)
+https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_HUZUR/variant.m3u8
 
 #EXTINF:-1 tvg-name="Нижний Новгород 24 (Нижний Новгород)" group-title="Нижний Новгород",Нижний Новгород 24 (Нижний Новгород)
 https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
@@ -80,13 +89,4 @@ https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREM
 
 #EXTINF:-1 tvg-name="Камин ТВ (Нижний Новгород)" group-title="Нижний Новгород",Камин ТВ (Нижний Новгород)
 https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
-
-#EXTINF:-1 tvg-name="Дзержинск-ТВ (Дзержинск)" group-title="Нижний Новгород",Дзержинск-ТВ (Дзержинск)
-https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
-
-#EXTINF:-1 tvg-name="Новое Телевидение Сарова (Саров)" group-title="Нижний Новгород",Новое Телевидение Сарова (Саров)
-https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_NTS/variant.m3u8
-
-#EXTINF:-1 tvg-name="Хузур ТВ (Татарстан)" group-title="Нижний Новгород",Хузур ТВ (Татарстан)
-https://secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_HUZUR/variant.m3u8
 

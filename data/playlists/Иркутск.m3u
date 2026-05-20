@@ -1,19 +1,16 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Иркутск
 # Каналов: 50
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
 
 #EXTINF:-1 tvg-name="Первый (Иркутск)" group-title="Иркутск",Первый (Иркутск)
 https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_1TV/variant.m3u8
-
-#EXTINF:-1 tvg-name="ОТР (Иркутск)" group-title="Иркутск",ОТР (Иркутск)
-https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTR/variant.m3u8
 
 #EXTINF:-1 tvg-name="СТС (Иркутск)" group-title="Иркутск",СТС (Иркутск)
 https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_STS/variant.m3u8
@@ -39,9 +36,6 @@ https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_ROS
 #EXTINF:-1 tvg-name="НТВ (Иркутск)" group-title="Иркутск",НТВ (Иркутск)
 https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_NTV_IRKUTSK/variant.m3u8
 
-#EXTINF:-1 tvg-name="Пятый (Иркутск)" group-title="Иркутск",Пятый (Иркутск)
-https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R02_5TV_IRKUTSK/variant.m3u8
-
 #EXTINF:-1 tvg-name="Россия К (Иркутск)" group-title="Иркутск",Россия К (Иркутск)
 https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK_IRKUTSK/variant.m3u8
 
@@ -51,9 +45,6 @@ https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_ROS
 #EXTINF:-1 tvg-name="Карусель (Иркутск)" group-title="Иркутск",Карусель (Иркутск)
 https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL_IRKUTSK/variant.m3u8
 
-#EXTINF:-1 tvg-name="ТВ Центр (Иркутск)" group-title="Иркутск",ТВ Центр (Иркутск)
-https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_TVC_IRKUTSK/variant.m3u8
-
 #EXTINF:-1 tvg-name="РЕН ТВ (Иркутск)" group-title="Иркутск",РЕН ТВ (Иркутск)
 https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_IRKUTSK/variant.m3u8
 
@@ -62,12 +53,6 @@ https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R02_STS
 
 #EXTINF:-1 tvg-name="Домашний (Иркутск)" group-title="Иркутск",Домашний (Иркутск)
 https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY_IRKUTSK/variant.m3u8
-
-#EXTINF:-1 tvg-name="ТВ-3 (Иркутск)" group-title="Иркутск",ТВ-3 (Иркутск)
-https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_TV3_IRKUTSK/variant.m3u8
-
-#EXTINF:-1 tvg-name="Пятница! (Иркутск)" group-title="Иркутск",Пятница! (Иркутск)
-https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_IRKUTSK/variant.m3u8
 
 #EXTINF:-1 tvg-name="Звезда (Иркутск)" group-title="Иркутск",Звезда (Иркутск)
 https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA_IRKUTSK/variant.m3u8
@@ -87,9 +72,6 @@ https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_MAT
 #EXTINF:-1 tvg-name="НТВ (Иркутская ОБЛ)" group-title="Иркутск",НТВ (Иркутская ОБЛ)
 https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_NTV_IRKOBL/variant.m3u8
 
-#EXTINF:-1 tvg-name="Пятый (Иркутская ОБЛ)" group-title="Иркутск",Пятый (Иркутская ОБЛ)
-https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_5KANAL_IRKOBL/variant.m3u8
-
 #EXTINF:-1 tvg-name="Россия К (Иркутская ОБЛ)" group-title="Иркутск",Россия К (Иркутская ОБЛ)
 https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_RUSSIAK_IRKOBL/variant.m3u8
 
@@ -98,12 +80,6 @@ https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_RUS
 
 #EXTINF:-1 tvg-name="Карусель (Иркутская ОБЛ)" group-title="Иркутск",Карусель (Иркутская ОБЛ)
 https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL_IRKOBL/variant.m3u8
-
-#EXTINF:-1 tvg-name="ОТР (Иркутская ОБЛ)" group-title="Иркутск",ОТР (Иркутская ОБЛ)
-https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTR_IRKOBL/variant.m3u8
-
-#EXTINF:-1 tvg-name="ТВ Центр (Иркутская ОБЛ)" group-title="Иркутск",ТВ Центр (Иркутская ОБЛ)
-https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_TVC_IRKOBL/variant.m3u8
 
 #EXTINF:-1 tvg-name="РЕН ТВ (Иркутская ОБЛ)" group-title="Иркутск",РЕН ТВ (Иркутская ОБЛ)
 https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_RENTV_IRKOBL/variant.m3u8
@@ -114,9 +90,6 @@ https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R02_SPA
 #EXTINF:-1 tvg-name="СТС (Иркутская ОБЛ)" group-title="Иркутск",СТС (Иркутская ОБЛ)
 https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_STS_IRKOBL/variant.m3u8
 
-#EXTINF:-1 tvg-name="Пятница! (Иркутская ОБЛ)" group-title="Иркутск",Пятница! (Иркутская ОБЛ)
-https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_IRKOBL/variant.m3u8
-
 #EXTINF:-1 tvg-name="Звезда (Иркутская ОБЛ)" group-title="Иркутск",Звезда (Иркутская ОБЛ)
 https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_ZVEZDA_IRKOBL/variant.m3u8
 
@@ -125,9 +98,6 @@ https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R02_MIR
 
 #EXTINF:-1 tvg-name="ТНТ (Иркутская ОБЛ)" group-title="Иркутск",ТНТ (Иркутская ОБЛ)
 https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_TNT_IRKOBL/variant.m3u8
-
-#EXTINF:-1 tvg-name="МУЗ-ТВ (Иркутская ОБЛ)" group-title="Иркутск",МУЗ-ТВ (Иркутская ОБЛ)
-https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_MUZTV_IRKOBL/variant.m3u8
 
 #EXTINF:-1 tvg-name="Россия 1 (Братск)" group-title="Иркутск",Россия 1 (Братск)
 https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_BRATSK/variant.m3u8
@@ -138,20 +108,50 @@ https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_NTV
 #EXTINF:-1 tvg-name="Звезда (Братск)" group-title="Иркутск",Звезда (Братск)
 https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_ZVEZDA_BRATSK/variant.m3u8
 
-#EXTINF:-1 tvg-name="Аист ТВ (Иркутск)" group-title="Иркутск",Аист ТВ (Иркутск)
-https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_AIST/variant.m3u8
-
-#EXTINF:-1 tvg-name="НТС (Иркутск)" group-title="Иркутск",НТС (Иркутск)
-https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_RENTVIRK/variant.m3u8
-
 #EXTINF:-1 tvg-name="ТСТ (Черемхово)" group-title="Иркутск",ТСТ (Черемхово)
 https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_TST/variant.m3u8
+
+#EXTINF:-1 tvg-name="ОТР (Иркутск)" group-title="Иркутск",ОТР (Иркутск)
+https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTR/variant.m3u8
+
+#EXTINF:-1 tvg-name="Пятый (Иркутск)" group-title="Иркутск",Пятый (Иркутск)
+https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R02_5TV_IRKUTSK/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ Центр (Иркутск)" group-title="Иркутск",ТВ Центр (Иркутск)
+https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_TVC_IRKUTSK/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ-3 (Иркутск)" group-title="Иркутск",ТВ-3 (Иркутск)
+https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_TV3_IRKUTSK/variant.m3u8
+
+#EXTINF:-1 tvg-name="Пятница! (Иркутск)" group-title="Иркутск",Пятница! (Иркутск)
+https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_IRKUTSK/variant.m3u8
+
+#EXTINF:-1 tvg-name="Пятый (Иркутская ОБЛ)" group-title="Иркутск",Пятый (Иркутская ОБЛ)
+https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_5KANAL_IRKOBL/variant.m3u8
+
+#EXTINF:-1 tvg-name="ОТР (Иркутская ОБЛ)" group-title="Иркутск",ОТР (Иркутская ОБЛ)
+https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTR_IRKOBL/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ Центр (Иркутская ОБЛ)" group-title="Иркутск",ТВ Центр (Иркутская ОБЛ)
+https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_TVC_IRKOBL/variant.m3u8
+
+#EXTINF:-1 tvg-name="Пятница! (Иркутская ОБЛ)" group-title="Иркутск",Пятница! (Иркутская ОБЛ)
+https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_IRKOBL/variant.m3u8
+
+#EXTINF:-1 tvg-name="МУЗ-ТВ (Иркутская ОБЛ)" group-title="Иркутск",МУЗ-ТВ (Иркутская ОБЛ)
+https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_MUZTV_IRKOBL/variant.m3u8
 
 #EXTINF:-1 tvg-name="Пятый (Братск)" group-title="Иркутск",Пятый (Братск)
 https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_5TV_BRATSK/variant.m3u8
 
+#EXTINF:-1 tvg-name="Аист ТВ (Иркутск)" group-title="Иркутск",Аист ТВ (Иркутск)
+https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_AIST/variant.m3u8
+
 #EXTINF:-1 tvg-name="Актис (Ангарск)" group-title="Иркутск",Актис (Ангарск)
 https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_AKTIS/variant.m3u8
+
+#EXTINF:-1 tvg-name="НТС (Иркутск)" group-title="Иркутск",НТС (Иркутск)
+https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_RENTVIRK/variant.m3u8
 
 #EXTINF:-1 tvg-name="БСТ 24 (Братск)" group-title="Иркутск",БСТ 24 (Братск)
 https://secure-272717.tatnet.app/rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_TNT_BR/variant.m3u8

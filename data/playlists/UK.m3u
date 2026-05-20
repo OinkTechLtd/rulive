@@ -1,40 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: UK
 # Каналов: 57
-# Обновлено: 2026-05-20 08:29:14
-
-#EXTINF:-1 tvg-name="Film4 Ⓢ" group-title="UK",Film4 Ⓢ
-https://secure-272717.tatnet.app/176.65.146.105:8011/play/FILM4SD/index.m3u8
-
-#EXTINF:-1 tvg-name="Sky News" group-title="UK",Sky News
-https://secure-272717.tatnet.app/linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynews)/index_mob.m3u8
-
-#EXTINF:-1 tvg-name="GB News" group-title="UK",GB News
-https://secure-272717.tatnet.app/live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
-
-#EXTINF:-1 tvg-name="Arise News" group-title="UK",Arise News
-https://secure-272717.tatnet.app/liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_web/master.m3u8
-
-#EXTINF:-1 tvg-name="SportyStuff TV" group-title="UK",SportyStuff TV
-https://secure-272717.tatnet.app/cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8
-
-#EXTINF:-1 tvg-name="4Music Ⓖ" group-title="UK",4Music Ⓖ
-https://secure-272717.tatnet.app/csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/
-
-#EXTINF:-1 tvg-name="BBC World News Ⓢ" group-title="UK",BBC World News Ⓢ
-https://secure-272717.tatnet.app/ott-cdn.ucom.am/s24/index.m3u8
-
-#EXTINF:-1 tvg-name="BBC Radio 6 Music" group-title="UK",BBC Radio 6 Music
-https://secure-272717.tatnet.app/as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1 tvg-name="BBC Radio 5 Sports Extra" group-title="UK",BBC Radio 5 Sports Extra
-https://secure-272717.tatnet.app/as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_radio_five_live_sports_extra/bbc_radio_five_live_sports_extra.isml/bbc_radio_five_live_sports_extra-audio%3d96000.norewind.m3u8
+# Обновлено: 2026-05-20 09:25:56
 
 #EXTINF:-1 tvg-name="BBC One Ⓖ" group-title="UK",BBC One Ⓖ
 https://secure-272717.tatnet.app/vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/iptv_hd_abr_v1.m3u8
@@ -45,9 +18,6 @@ https://secure-272717.tatnet.app/vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc
 #EXTINF:-1 tvg-name="Channel 4 Ⓢ" group-title="UK",Channel 4 Ⓢ
 https://secure-272717.tatnet.app/176.65.146.105:8011/play/a07w/index.m3u8
 
-#EXTINF:-1 tvg-name="S4C Ⓖ" group-title="UK",S4C Ⓖ
-https://secure-272717.tatnet.app/live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
-
 #EXTINF:-1 tvg-name="BBC Alba Ⓖ" group-title="UK",BBC Alba Ⓖ
 https://secure-272717.tatnet.app/vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.m3u8
 
@@ -57,6 +27,78 @@ https://secure-272717.tatnet.app/vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bb
 #EXTINF:-1 tvg-name="BBC Scotland Ⓢ Ⓖ" group-title="UK",BBC Scotland Ⓢ Ⓖ
 https://secure-272717.tatnet.app/vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/pc_hd_abr_v2.m3u8
 
+#EXTINF:-1 tvg-name="Film4 Ⓢ" group-title="UK",Film4 Ⓢ
+https://secure-272717.tatnet.app/176.65.146.105:8011/play/FILM4SD/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC Three Ⓖ" group-title="UK",BBC Three Ⓖ
+https://secure-272717.tatnet.app/vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.m3u8
+
+#EXTINF:-1 tvg-name="CBBC Ⓖ" group-title="UK",CBBC Ⓖ
+https://secure-272717.tatnet.app/vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-name="CBeebies Ⓖ" group-title="UK",CBeebies Ⓖ
+https://secure-272717.tatnet.app/vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-name="BBC Parliament Ⓢ Ⓖ" group-title="UK",BBC Parliament Ⓢ Ⓖ
+https://secure-272717.tatnet.app/vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/pc_hd_abr_v2.m3u8
+
+#EXTINF:-1 tvg-name="Sky News" group-title="UK",Sky News
+https://secure-272717.tatnet.app/linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynews)/index_mob.m3u8
+
+#EXTINF:-1 tvg-name="GB News" group-title="UK",GB News
+https://secure-272717.tatnet.app/live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+
+#EXTINF:-1 tvg-name="Arise News" group-title="UK",Arise News
+https://secure-272717.tatnet.app/liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_web/master.m3u8
+
+#EXTINF:-1 tvg-name="Bloomberg TV" group-title="UK",Bloomberg TV
+https://secure-272717.tatnet.app/bloomberg.com/media-manifest/streams/eu.m3u8
+
+#EXTINF:-1 tvg-name="SportyStuff TV" group-title="UK",SportyStuff TV
+https://secure-272717.tatnet.app/cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8
+
+#EXTINF:-1 tvg-name="4Music Ⓖ" group-title="UK",4Music Ⓖ
+https://secure-272717.tatnet.app/csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/
+
+#EXTINF:-1 tvg-name="BBC World News Ⓢ" group-title="UK",BBC World News Ⓢ
+https://secure-272717.tatnet.app/ott-cdn.ucom.am/s24/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC Radio 1" group-title="UK",BBC Radio 1
+https://secure-272717.tatnet.app/as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1 tvg-name="BBC Radio 2" group-title="UK",BBC Radio 2
+https://secure-272717.tatnet.app/as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1 tvg-name="BBC Radio 3" group-title="UK",BBC Radio 3
+https://secure-272717.tatnet.app/as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1 tvg-name="BBC Radio 4" group-title="UK",BBC Radio 4
+https://secure-272717.tatnet.app/as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1 tvg-name="BBC Radio 5 Live" group-title="UK",BBC Radio 5 Live
+https://secure-272717.tatnet.app/as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1 tvg-name="BBC Radio 6 Music" group-title="UK",BBC Radio 6 Music
+https://secure-272717.tatnet.app/as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1 tvg-name="BBC Radio 1Xtra" group-title="UK",BBC Radio 1Xtra
+https://secure-272717.tatnet.app/as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1 tvg-name="BBC Radio 4 Extra" group-title="UK",BBC Radio 4 Extra
+https://secure-272717.tatnet.app/as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1 tvg-name="BBC Radio 5 Sports Extra" group-title="UK",BBC Radio 5 Sports Extra
+https://secure-272717.tatnet.app/as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_radio_five_live_sports_extra/bbc_radio_five_live_sports_extra.isml/bbc_radio_five_live_sports_extra-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1 tvg-name="BBC Asian Network" group-title="UK",BBC Asian Network
+https://secure-272717.tatnet.app/as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1 tvg-name="BBC World Service" group-title="UK",BBC World Service
+https://secure-272717.tatnet.app/a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
+
+#EXTINF:-1 tvg-name="S4C Ⓖ" group-title="UK",S4C Ⓖ
+https://secure-272717.tatnet.app/live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
+
 #EXTINF:-1 tvg-name="E4 Ⓢ" group-title="UK",E4 Ⓢ
 https://secure-272717.tatnet.app/176.65.146.105:8011/play/E4HD/index.m3u8
 
@@ -65,9 +107,6 @@ https://secure-272717.tatnet.app/qvcuk-live.akamaized.net/hls/live/2097112/qvc/3
 
 #EXTINF:-1 tvg-name="TJC" group-title="UK",TJC
 https://secure-272717.tatnet.app/cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
-
-#EXTINF:-1 tvg-name="BBC Three Ⓖ" group-title="UK",BBC Three Ⓖ
-https://secure-272717.tatnet.app/vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.m3u8
 
 #EXTINF:-1 tvg-name="GemsTV Ⓢ" group-title="UK",GemsTV Ⓢ
 https://secure-272717.tatnet.app/57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
@@ -96,23 +135,11 @@ https://secure-272717.tatnet.app/pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Create & Craft" group-title="UK",Create & Craft
 https://secure-272717.tatnet.app/live-hochanda.simplestreamcdn.com/live2/hochanda/bitrate1.isml/live.m3u8
 
-#EXTINF:-1 tvg-name="CBBC Ⓖ" group-title="UK",CBBC Ⓖ
-https://secure-272717.tatnet.app/vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
-
-#EXTINF:-1 tvg-name="CBeebies Ⓖ" group-title="UK",CBeebies Ⓖ
-https://secure-272717.tatnet.app/vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
-
-#EXTINF:-1 tvg-name="BBC Parliament Ⓢ Ⓖ" group-title="UK",BBC Parliament Ⓢ Ⓖ
-https://secure-272717.tatnet.app/vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/pc_hd_abr_v2.m3u8
-
 #EXTINF:-1 tvg-name="TalkTV" group-title="UK",TalkTV
 https://secure-272717.tatnet.app/live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8
 
 #EXTINF:-1 tvg-name="France 24" group-title="UK",France 24
 https://secure-272717.tatnet.app/ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
-
-#EXTINF:-1 tvg-name="Bloomberg TV" group-title="UK",Bloomberg TV
-https://secure-272717.tatnet.app/bloomberg.com/media-manifest/streams/eu.m3u8
 
 #EXTINF:-1 tvg-name="NHK World Japan" group-title="UK",NHK World Japan
 https://secure-272717.tatnet.app/nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
@@ -152,31 +179,4 @@ https://secure-272717.tatnet.app/lightning-now80s-samsunguk.amagi.tv/playlist.m3
 
 #EXTINF:-1 tvg-name="Now Rock" group-title="UK",Now Rock
 https://secure-272717.tatnet.app/lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="BBC Radio 1" group-title="UK",BBC Radio 1
-https://secure-272717.tatnet.app/as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1 tvg-name="BBC Radio 2" group-title="UK",BBC Radio 2
-https://secure-272717.tatnet.app/as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1 tvg-name="BBC Radio 3" group-title="UK",BBC Radio 3
-https://secure-272717.tatnet.app/as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1 tvg-name="BBC Radio 4" group-title="UK",BBC Radio 4
-https://secure-272717.tatnet.app/as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1 tvg-name="BBC Radio 5 Live" group-title="UK",BBC Radio 5 Live
-https://secure-272717.tatnet.app/as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1 tvg-name="BBC Radio 1Xtra" group-title="UK",BBC Radio 1Xtra
-https://secure-272717.tatnet.app/as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1 tvg-name="BBC Radio 4 Extra" group-title="UK",BBC Radio 4 Extra
-https://secure-272717.tatnet.app/as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1 tvg-name="BBC Asian Network" group-title="UK",BBC Asian Network
-https://secure-272717.tatnet.app/as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1 tvg-name="BBC World Service" group-title="UK",BBC World Service
-https://secure-272717.tatnet.app/a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
 

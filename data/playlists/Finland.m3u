@@ -1,13 +1,19 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Finland
 # Каналов: 29
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
+
+#EXTINF:-1 tvg-name="National Geographic Finland Ⓖ" group-title="Finland",National Geographic Finland Ⓖ
+https://secure-272717.tatnet.app/live-fi.tvkaista.net/national-geographic/live.m3u8?src=freetv
+
+#EXTINF:-1 tvg-name="OnniTV" group-title="Finland",OnniTV
+https://secure-272717.tatnet.app/onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8?organizationId=83459409&suiteItemId=83459780
 
 #EXTINF:-1 tvg-name="Nopola News" group-title="Finland",Nopola News
 https://secure-272717.tatnet.app/virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8
@@ -63,14 +69,8 @@ https://secure-272717.tatnet.app/irrtv2.digitacdn.net/live/ott/irrtv/playlist.m3
 #EXTINF:-1 tvg-name="TapahtumaTV Eveo" group-title="Finland",TapahtumaTV Eveo
 https://secure-272717.tatnet.app/live-fi.tvkaista.net/tapahtumatv-eveo/live.m3u8?src=freetv
 
-#EXTINF:-1 tvg-name="National Geographic Finland Ⓖ" group-title="Finland",National Geographic Finland Ⓖ
-https://secure-272717.tatnet.app/live-fi.tvkaista.net/national-geographic/live.m3u8?src=freetv
-
 #EXTINF:-1 tvg-name="Viaplay TV" group-title="Finland",Viaplay TV
 https://secure-272717.tatnet.app/live-fi.tvkaista.net/viaplay-tv/live.m3u8?src=freetv
-
-#EXTINF:-1 tvg-name="OnniTV" group-title="Finland",OnniTV
-https://secure-272717.tatnet.app/onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8?organizationId=83459409&suiteItemId=83459780
 
 #EXTINF:-1 tvg-name="Taivas TV7" group-title="Finland",Taivas TV7
 https://secure-272717.tatnet.app/vod.tv7.fi/tv7-fi/_definst_/smil:tv7-fi.smil/playlist.m3u8

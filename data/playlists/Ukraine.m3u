@@ -1,13 +1,16 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Ukraine
 # Каналов: 52
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
+
+#EXTINF:-1 tvg-name="1+1 Ukraina Ⓢ" group-title="Ukraine",1+1 Ukraina Ⓢ
+https://secure-272717.tatnet.app/212.79.122.11:5014/udp/239.255.6.49:1234
 
 #EXTINF:-1 tvg-name="Suspilne Sport" group-title="Ukraine",Suspilne Sport
 https://secure-272717.tatnet.app/cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8
@@ -18,23 +21,32 @@ https://secure-272717.tatnet.app/cdnua05.hls.tv/946/hls/8743361621b245838bee193c
 #EXTINF:-1 tvg-name="Enter-Film" group-title="Ukraine",Enter-Film
 https://secure-272717.tatnet.app/212.79.122.11:5014/udp/239.255.6.31:1234
 
+#EXTINF:-1 tvg-name="5 Kanal" group-title="Ukraine",5 Kanal
+https://secure-272717.tatnet.app/776067.live.tvstitch.com/stream.m3u8?m=aHR0cHM6Ly9jZG4uZHl2eWFwcC5jb20vNS1jaGFubmVsL3ZpZGVvLm0zdTg%2FdG9rZW49ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBjQ0k2SWpKaE1EWTZOVGt3TWpveE0yTXdPakE2WlRobFlqbzJNRGM0T2pSa01qcG1OV01pTENKMWMyVnlYMkZuWlc1MElqb2lUVzk2YVd4c1lWd3ZOUzR3SUNoWGFXNWtiM2R6SUU1VUlERXdMakE3SUZkcGJqWTBPeUI0TmpRN0lISjJPakV6Tmk0d0tTQkhaV05yYjF3dk1qQXhNREF4TURFZ1JtbHlaV1p2ZUZ3dk1UTTJMakFpTENKbGVIQWlPakUzTkRFNE1UUTVPVEI5Lkllb2JDR0NtVDVOd1pKSjdzNEhLaVIzb01IZVhpQ2dnZVp5WjZ6YWxodGM%3D&channel=1&u=b048004d-9363-4406-9b23-cb12b731d6e4&gdpr_consent=%7Bgdpr_consent%7D&givn=%7Bgivn%7D
+
 #EXTINF:-1 tvg-name="Суспільне Житомир Ⓢ" group-title="Ukraine",Суспільне Житомир Ⓢ
 https://secure-272717.tatnet.app/cdnua05.hls.tv/647/hls/f62d71219200da4130d13b21d23fb23c/4787/stream.m3u8
-
-#EXTINF:-1 tvg-name="24 Kanal" group-title="Ukraine",24 Kanal
-https://secure-272717.tatnet.app/streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Суспільне Чернівці Ⓢ" group-title="Ukraine",Суспільне Чернівці Ⓢ
 https://secure-272717.tatnet.app/cdnua05.hls.tv/643/hls/f62d71219200da4130d13b21d23fb23c/4790/stream.m3u8
 
+#EXTINF:-1 tvg-name="Суспільне Kropyvnytskyi" group-title="Ukraine",Суспільне Kropyvnytskyi
+https://secure-272717.tatnet.app/cdnua05.hls.tv/650/hls/f62d71219200da4130d13b21d23fb23c/4788/stream.m3u8
+
 #EXTINF:-1 tvg-name="Суспільне Чернігів" group-title="Ukraine",Суспільне Чернігів
 https://secure-272717.tatnet.app/cdnua05.hls.tv/645/hls/f62d71219200da4130d13b21d23fb23c/4791/stream.m3u8
 
+#EXTINF:-1 tvg-name="24 Kanal" group-title="Ukraine",24 Kanal
+https://secure-272717.tatnet.app/streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Telekanal RAI" group-title="Ukraine",Telekanal RAI
+https://secure-272717.tatnet.app/stream.rai.ua/rai/stream.m3u8
+
+#EXTINF:-1 tvg-name="ITV" group-title="Ukraine",ITV
+https://secure-272717.tatnet.app/cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Pershyi" group-title="Ukraine",Pershyi
 https://secure-272717.tatnet.app/ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
-
-#EXTINF:-1 tvg-name="1+1 Ukraina Ⓢ" group-title="Ukraine",1+1 Ukraina Ⓢ
-https://secure-272717.tatnet.app/212.79.122.11:5014/udp/239.255.6.49:1234
 
 #EXTINF:-1 tvg-name="1+1 Marafon" group-title="Ukraine",1+1 Marafon
 https://secure-272717.tatnet.app/m3u8.ott.blue/watch/45/index.m3u8?geo=auto&token=94450098895765784220366841698509
@@ -96,9 +108,6 @@ https://secure-272717.tatnet.app/212.79.122.11:5014/udp/239.255.6.41:1234
 #EXTINF:-1 tvg-name="Піксель TV" group-title="Ukraine",Піксель TV
 https://secure-272717.tatnet.app/212.79.122.11:5014/udp/239.255.6.30:1234
 
-#EXTINF:-1 tvg-name="5 Kanal" group-title="Ukraine",5 Kanal
-https://secure-272717.tatnet.app/776067.live.tvstitch.com/stream.m3u8?m=aHR0cHM6Ly9jZG4uZHl2eWFwcC5jb20vNS1jaGFubmVsL3ZpZGVvLm0zdTg%2FdG9rZW49ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBjQ0k2SWpKaE1EWTZOVGt3TWpveE0yTXdPakE2WlRobFlqbzJNRGM0T2pSa01qcG1OV01pTENKMWMyVnlYMkZuWlc1MElqb2lUVzk2YVd4c1lWd3ZOUzR3SUNoWGFXNWtiM2R6SUU1VUlERXdMakE3SUZkcGJqWTBPeUI0TmpRN0lISjJPakV6Tmk0d0tTQkhaV05yYjF3dk1qQXhNREF4TURFZ1JtbHlaV1p2ZUZ3dk1UTTJMakFpTENKbGVIQWlPakUzTkRFNE1UUTVPVEI5Lkllb2JDR0NtVDVOd1pKSjdzNEhLaVIzb01IZVhpQ2dnZVp5WjZ6YWxodGM%3D&channel=1&u=b048004d-9363-4406-9b23-cb12b731d6e4&gdpr_consent=%7Bgdpr_consent%7D&givn=%7Bgivn%7D
-
 #EXTINF:-1 tvg-name="Суспільне Київ" group-title="Ukraine",Суспільне Київ
 https://secure-272717.tatnet.app/ext.cdn.nashnet.tv/228.0.0.41/index.m3u8
 
@@ -113,9 +122,6 @@ https://secure-272717.tatnet.app/cdnua05.hls.tv/630/hls/f62d71219200da4130d13b21
 
 #EXTINF:-1 tvg-name="Суспільне Хмельницький Ⓢ" group-title="Ukraine",Суспільне Хмельницький Ⓢ
 https://secure-272717.tatnet.app/cdnua05.hls.tv/632/hls/f62d71219200da4130d13b21d23fb23c/4800/stream.m3u8
-
-#EXTINF:-1 tvg-name="Суспільне Kropyvnytskyi" group-title="Ukraine",Суспільне Kropyvnytskyi
-https://secure-272717.tatnet.app/cdnua05.hls.tv/650/hls/f62d71219200da4130d13b21d23fb23c/4788/stream.m3u8
 
 #EXTINF:-1 tvg-name="Суспільне Луцьк" group-title="Ukraine",Суспільне Луцьк
 https://secure-272717.tatnet.app/193.107.168.98:7006/play/508/index.m3u8
@@ -138,9 +144,6 @@ https://secure-272717.tatnet.app/vcdn1.produck.company:1935/out/dtv/playlist.m3u
 #EXTINF:-1 tvg-name="ГІТ" group-title="Ukraine",ГІТ
 https://secure-272717.tatnet.app/stream.uagit.tv/gittv.m3u8
 
-#EXTINF:-1 tvg-name="Telekanal RAI" group-title="Ukraine",Telekanal RAI
-https://secure-272717.tatnet.app/stream.rai.ua/rai/stream.m3u8
-
 #EXTINF:-1 tvg-name="Тернопіль 1" group-title="Ukraine",Тернопіль 1
 https://secure-272717.tatnet.app/ott.columbus.te.ua/ternopil1/index.m3u8
 
@@ -152,9 +155,6 @@ https://secure-272717.tatnet.app/live.1tv.od.ua/stream1/channel1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Київ 24" group-title="Ukraine",Київ 24
 https://secure-272717.tatnet.app/ext.cdn.nashnet.tv/228.0.0.15/index.m3u8
-
-#EXTINF:-1 tvg-name="ITV" group-title="Ukraine",ITV
-https://secure-272717.tatnet.app/cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NTK TV" group-title="Ukraine",NTK TV
 https://secure-272717.tatnet.app/stream.ntktv.ua/s/ntk/ntk.m3u8

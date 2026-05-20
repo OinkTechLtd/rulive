@@ -1,22 +1,22 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Weather
 # Каналов: 6
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
+
+#EXTINF:-1 tvg-name="Fox Weather" group-title="Weather",Fox Weather
+https://secure-272717.tatnet.app/lnc-fox-weather.tubi.video/index.m3u8
 
 #EXTINF:-1 tvg-name="Sky News Weather Ⓖ" group-title="Weather",Sky News Weather Ⓖ
 https://secure-272717.tatnet.app/distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 
 #EXTINF:-1 tvg-name="AccuWeather NOW" group-title="Weather",AccuWeather NOW
 https://secure-272717.tatnet.app/cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Fox Weather" group-title="Weather",Fox Weather
-https://secure-272717.tatnet.app/lnc-fox-weather.tubi.video/index.m3u8
 
 #EXTINF:-1 tvg-name="KTCA-DT5" group-title="Weather",KTCA-DT5
 https://secure-272717.tatnet.app/api.new.livestream.com/accounts/12638076/events/8488790/live.m3u8

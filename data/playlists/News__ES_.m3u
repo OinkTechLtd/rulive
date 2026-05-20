@@ -1,19 +1,16 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News (ES)
 # Каналов: 6
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
 
 #EXTINF:-1 tvg-name="Euronews Español Ⓨ" group-title="News (ES)",Euronews Español Ⓨ
 https://secure-272717.tatnet.app/www.youtube.com/euronewses/live
-
-#EXTINF:-1 tvg-name="CGTN Español" group-title="News (ES)",CGTN Español
-https://secure-272717.tatnet.app/news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
 #EXTINF:-1 tvg-name="France 24 Español Ⓨ" group-title="News (ES)",France 24 Español Ⓨ
 https://secure-272717.tatnet.app/www.youtube.com/c/FRANCE24Espanol/live
@@ -21,9 +18,12 @@ https://secure-272717.tatnet.app/www.youtube.com/c/FRANCE24Espanol/live
 #EXTINF:-1 tvg-name="DW Español Ⓢ" group-title="News (ES)",DW Español Ⓢ
 https://secure-272717.tatnet.app/dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-name="RT Español Ⓖ" group-title="News (ES)",RT Español Ⓖ
-https://secure-272717.tatnet.app/rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-name="CGTN Español" group-title="News (ES)",CGTN Español
+https://secure-272717.tatnet.app/news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
 #EXTINF:-1 tvg-name="RTVE 24H" group-title="News (ES)",RTVE 24H
 https://secure-272717.tatnet.app/ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:-1 tvg-name="RT Español Ⓖ" group-title="News (ES)",RT Español Ⓖ
+https://secure-272717.tatnet.app/rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 

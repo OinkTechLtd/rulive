@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Курган
 # Каналов: 24
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
 
 #EXTINF:-1 tvg-name="Первый (Курган)" group-title="Курган",Первый (Курган)
 https://secure-272717.tatnet.app/rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_URAL_KUR/variant.m3u8
@@ -33,9 +33,6 @@ https://secure-272717.tatnet.app/rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R01_RO
 #EXTINF:-1 tvg-name="Карусель (Курган)" group-title="Курган",Карусель (Курган)
 https://secure-272717.tatnet.app/rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_KARUSEL_RTRS_KUR/variant.m3u8
 
-#EXTINF:-1 tvg-name="ТВ Центр (Курган)" group-title="Курган",ТВ Центр (Курган)
-https://secure-272717.tatnet.app/rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TVC_RTRS_KUR/variant.m3u8
-
 #EXTINF:-1 tvg-name="РЕН ТВ (Курган)" group-title="Курган",РЕН ТВ (Курган)
 https://secure-272717.tatnet.app/rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_RTRS_KUR/variant.m3u8
 
@@ -60,11 +57,11 @@ https://secure-272717.tatnet.app/rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R02_MI
 #EXTINF:-1 tvg-name="ТНТ (Курган)" group-title="Курган",ТНТ (Курган)
 https://secure-272717.tatnet.app/rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNT_RTRS_KUR/variant.m3u8
 
-#EXTINF:-1 tvg-name="Область 45 (Курган)" group-title="Курган",Область 45 (Курган)
-https://secure-272717.tatnet.app/rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
-
 #EXTINF:-1 tvg-name="Пятый (Курган)" group-title="Курган",Пятый (Курган)
 https://secure-272717.tatnet.app/rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R02_OTT_5TV_RTRS_KUR/variant.m3u8
+
+#EXTINF:-1 tvg-name="ТВ Центр (Курган)" group-title="Курган",ТВ Центр (Курган)
+https://secure-272717.tatnet.app/rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TVC_RTRS_KUR/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТВ-3 (Курган)" group-title="Курган",ТВ-3 (Курган)
 https://secure-272717.tatnet.app/rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TV3_RTRS_KUR/variant.m3u8
@@ -77,6 +74,9 @@ https://secure-272717.tatnet.app/rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R06_MU
 
 #EXTINF:-1 tvg-name="ОТР (Курган)" group-title="Курган",ОТР (Курган)
 https://secure-272717.tatnet.app/rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R01_OTR_RTRS_KURG/variant.m3u8
+
+#EXTINF:-1 tvg-name="Область 45 (Курган)" group-title="Курган",Область 45 (Курган)
+https://secure-272717.tatnet.app/rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
 
 #EXTINF:-1 tvg-name="Инфо24 (Шадринск)" group-title="Курган",Инфо24 (Шадринск)
 https://secure-272717.tatnet.app/rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8

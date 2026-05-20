@@ -1,13 +1,16 @@
 #EXTM3U
-# Обновлено: 2026-05-20 08:29:13
-# Всего каналов: 7646
+# Обновлено: 2026-05-20 09:25:56
+# Всего каналов: 4381
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: North Macedonia
 # Каналов: 25
-# Обновлено: 2026-05-20 08:29:14
+# Обновлено: 2026-05-20 09:25:56
+
+#EXTINF:-1 tvg-name="Телевизија Здравкин" group-title="North Macedonia",Телевизија Здравкин
+https://secure-272717.tatnet.app/zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
 
 #EXTINF:-1 tvg-name="M»Net Sport" group-title="North Macedonia",M»Net Sport
 https://secure-272717.tatnet.app/ares.mnet.mk/hls/mnet-sport.m3u8
@@ -15,11 +18,11 @@ https://secure-272717.tatnet.app/ares.mnet.mk/hls/mnet-sport.m3u8
 #EXTINF:-1 tvg-name="Стар Фолк" group-title="North Macedonia",Стар Фолк
 https://secure-272717.tatnet.app/live.muzickatv.mk/live/StarMusic.m3u8
 
+#EXTINF:-1 tvg-name="Sky Folk" group-title="North Macedonia",Sky Folk
+https://secure-272717.tatnet.app/skyfolk.mk/live.m3u8
+
 #EXTINF:-1 tvg-name="Стар Плус" group-title="North Macedonia",Стар Плус
 https://secure-272717.tatnet.app/live.muzickatv.mk/live/StarMusic2.m3u8
-
-#EXTINF:-1 tvg-name="Телевизија Здравкин" group-title="North Macedonia",Телевизија Здравкин
-https://secure-272717.tatnet.app/zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Орбис" group-title="North Macedonia",Орбис
 https://secure-272717.tatnet.app/tvorbis.hugo.mk:1935/live/orbistv/index.m3u8
@@ -65,9 +68,6 @@ https://secure-272717.tatnet.app/stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u
 
 #EXTINF:-1 tvg-name="Rock TV" group-title="North Macedonia",Rock TV
 https://secure-272717.tatnet.app/stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
-
-#EXTINF:-1 tvg-name="Sky Folk" group-title="North Macedonia",Sky Folk
-https://secure-272717.tatnet.app/skyfolk.mk/live.m3u8
 
 #EXTINF:-1 tvg-name="Хуго 2" group-title="North Macedonia",Хуго 2
 https://secure-272717.tatnet.app/fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8
