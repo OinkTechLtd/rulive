@@ -40,6 +40,19 @@ DIRECT_DOMAINS = [
     'zabava-hlive.ngenix.net',
 ]
 
+# Домены которые НЕ требуют прокси (прямые CDN и рабочие сайты)
+NO_PROXY_DOMAINS = [
+    'zabava-hlive.ngenix.net',
+    'iptv-org.github.io',
+    'raw.githubusercontent.com',
+    'cdn.jsdelivr.net',
+    'cdn.statically.io',
+    'raw.githack.com',
+    'github.com',
+    'render.com',
+    'onrender.com',
+]
+
 # Максимальное количество каналов - УЛЬТИМАТИВНЫЙ ЛИМИТ
 MAX_CHANNELS = 200000000
 
@@ -426,10 +439,14 @@ M3U_SOURCES = [
 # Поисковые запросы для поиска потоков на сайтах - МАКСИМАЛЬНО РАСШИРЕННЫЙ СПИСОК
 # Прямые URL сайтов для парсинга (вместо Google поиска который блокируется)
 DIRECT_SITES = [
-    # Российские IPTV сайты
+    # Российские IPTV сайты и плейлисты
     'https://iptv-ru.com/playlist.m3u',
     'https://raw.githubusercontent.com/AleksandrChtol/iptv/main/iptv.m3u',
     'https://iptv.dreamteam.digital/playlist.m3u',
+    'https://raw.githubusercontent.com/free-TV/iptv/master/playlist.m3u8',
+    'https://raw.githubusercontent.com/jnk0le/iptv-ru/main/playlist.m3u',
+    'https://raw.githubusercontent.com/Evmenkov/iptv/main/iptv.m3u',
+    'https://raw.githubusercontent.com/vasilyguk/iptv/main/playlist.m3u',
     
     # Зарубежные агрегаторы
     'https://iptv-org.github.io/iptv/countries/ru.m3u',
@@ -437,6 +454,32 @@ DIRECT_SITES = [
     'https://iptv-org.github.io/iptv/categories/news.m3u',
     'https://iptv-org.github.io/iptv/categories/movies.m3u',
     'https://iptv-org.github.io/iptv/categories/sports.m3u',
+    'https://iptv-org.github.io/iptv/index.m3u',
+    
+    # Дополнительные источники m3u плейлистов
+    'https://m3u.poledia.org/all.m3u',
+    'https://m3u.poledia.org/usa.m3u',
+    'https://m3u.poledia.org/uk.m3u',
+    'https://m3u.poledia.org/germany.m3u',
+    'https://m3u.poledia.org/france.m3u',
+    'https://m3u.poledia.org/spain.m3u',
+    'https://m3u.poledia.org/italy.m3u',
+    'https://m3u.poledia.org/world.m3u',
+    'https://m3u.poledia.org/europe.m3u',
+    
+    # CDN и зеркала iptv-org
+    'https://cdn.jsdelivr.net/gh/iptv-org/iptv@master/iptv.countries.ru.m3u',
+    'https://cdn.statically.io/gh/iptv-org/iptv@master/iptv.languages.rus.m3u',
+    'https://raw.githack.com/iptv-org/iptv/master/iptv.m3u',
+    
+    # Render и другие хостинги
+    'https://iptv-org-abroad.onrender.com/countries/all.m3u',
+    'https://iptv-org-abroad.onrender.com/categories/all.m3u',
+    'https://iptv-org-abroad.onrender.com/languages/all.m3u',
+    
+    # Тематические плейлисты
+    'https://raw.githubusercontent.com/FreeIPTV/channels/main/ru.m3u',
+    'https://raw.githubusercontent.com/tv-box/ec/main/live.m3u',
 ]
 
 SEARCH_QUERIES = [
@@ -653,8 +696,9 @@ class IPTVScanner:
     async def check_stream_availability(self, url: str) -> bool:
         """Проверка доступности потока с поддержкой прокси для GitHub Actions"""
         try:
-            # Используем глобальный список DIRECT_DOMAINS - только zabava-hlive.ngenix.net без прокси
-            use_proxy = not any(domain in url for domain in DIRECT_DOMAINS)
+            # Используем расширенную логику: DIRECT_DOMAINS и NO_PROXY_DOMAINS без прокси
+            use_proxy = not any(domain in url for domain in DIRECT_DOMAINS) and \
+                       not any(domain in url for domain in NO_PROXY_DOMAINS)
             
             headers = {
                 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
@@ -890,27 +934,34 @@ class IPTVScanner:
         int_streams = [(url, info) for url, info in self.found_streams.items() 
                       if info.get('country') != 'RU' and info.get('source') != 'priority']
 
-        # Приоритетные каналы идут первыми - ВСЕ С ПРОКСИ
+        # Приоритетные каналы идут первыми - с проверкой на прокси (GitHub CDN без прокси)
         for url, info in priority_streams:
             name = info.get('name', 'Channel')
             group = info.get('group', 'IPTV')
             
-            # ВСЕ каналы включая приоритетные идут через прокси
-            parsed = urllib.parse.urlparse(url)
-            stream_url = f"{PROXY_BASE}{parsed.netloc}{parsed.path}"
-            if parsed.query:
-                stream_url += '?' + parsed.query
+            # Проверяем нужен ли прокси для приоритетных каналов
+            use_proxy = not any(domain in url for domain in DIRECT_DOMAINS) and \
+                       not any(domain in url for domain in NO_PROXY_DOMAINS)
+            
+            if use_proxy:
+                parsed = urllib.parse.urlparse(url)
+                stream_url = f"{PROXY_BASE}{parsed.netloc}{parsed.path}"
+                if parsed.query:
+                    stream_url += '?' + parsed.query
+            else:
+                stream_url = url
             
             m3u_content += f'#EXTINF:-1 tvg-name="{name}" group-title="{group}",{name} ⭐\n'
             m3u_content += f'{stream_url}\n\n'
 
-        # Затем российские каналы - ВСЕ С ПРОКСИ кроме zabava-hlive.ngenix.net
+        # Затем российские каналы - ВСЕ С ПРОКСИ кроме zabava-hlive.ngenix.net и GitHub CDN
         for url, info in ru_streams:
             name = info.get('name', 'Channel')
             group = info.get('group', 'IPTV')
             
-            # Определяем нужен ли прокси - только zabava-hlive.ngenix.net без прокси
-            use_proxy = not any(domain in url for domain in DIRECT_DOMAINS)
+            # Определяем нужен ли прокси - только zabava-hlive.ngenix.net и GitHub CDN без прокси
+            use_proxy = not any(domain in url for domain in DIRECT_DOMAINS) and \
+                       not any(domain in url for domain in NO_PROXY_DOMAINS)
             
             if use_proxy:
                 parsed = urllib.parse.urlparse(url)
@@ -923,13 +974,14 @@ class IPTVScanner:
             m3u_content += f'#EXTINF:-1 tvg-name="{name}" group-title="{group}",{name}\n'
             m3u_content += f'{stream_url}\n\n'
 
-        # Затем международные каналы - ВСЕ С ПРОКСИ кроме zabava-hlive.ngenix.net
+        # Затем международные каналы - ВСЕ С ПРОКСИ кроме zabava-hlive.ngenix.net и GitHub CDN
         for url, info in int_streams:
             name = info.get('name', 'Channel')
             group = info.get('group', 'IPTV')
             
-            # Определяем нужен ли прокси - только zabava-hlive.ngenix.net без прокси
-            use_proxy = not any(domain in url for domain in DIRECT_DOMAINS)
+            # Определяем нужен ли прокси - только zabava-hlive.ngenix.net и GitHub CDN без прокси
+            use_proxy = not any(domain in url for domain in DIRECT_DOMAINS) and \
+                       not any(domain in url for domain in NO_PROXY_DOMAINS)
             
             if use_proxy:
                 parsed = urllib.parse.urlparse(url)
@@ -1035,8 +1087,9 @@ class IPTVScanner:
                         name = name_match.group(1) if name_match else "Channel"
                         grp = group_match.group(1) if group_match else "IPTV"
                         
-                        # Применяем прокси кроме для zabava-hlive.ngenix.net
-                        use_proxy = not any(domain in url for domain in DIRECT_DOMAINS)
+                        # Применяем прокси кроме для zabava-hlive.ngenix.net и GitHub CDN
+                        use_proxy = not any(domain in url for domain in DIRECT_DOMAINS) and \
+                                   not any(domain in url for domain in NO_PROXY_DOMAINS)
                         
                         if use_proxy:
                             parsed = urllib.parse.urlparse(url)
