@@ -230,6 +230,21 @@ M3U_SOURCES = [
 ]
 
 # Поисковые запросы для поиска потоков на сайтах - МАКСИМАЛЬНО РАСШИРЕННЫЙ СПИСОК
+# Прямые URL сайтов для парсинга (вместо Google поиска который блокируется)
+DIRECT_SITES = [
+    # Российские IPTV сайты
+    'https://iptv-ru.com/playlist.m3u',
+    'https://raw.githubusercontent.com/AleksandrChtol/iptv/main/iptv.m3u',
+    'https://iptv.dreamteam.digital/playlist.m3u',
+    
+    # Зарубежные агрегаторы
+    'https://iptv-org.github.io/iptv/countries/ru.m3u',
+    'https://iptv-org.github.io/iptv/languages/rus.m3u',
+    'https://iptv-org.github.io/iptv/categories/news.m3u',
+    'https://iptv-org.github.io/iptv/categories/movies.m3u',
+    'https://iptv-org.github.io/iptv/categories/sports.m3u',
+]
+
 SEARCH_QUERIES = [
     # === ЗАПРОСЫ ДЛЯ КАНАЛА ДОЖДЬ (ПРИОРИТЕТ) ===
     'дождь тв прямой эфир поток m3u8',
@@ -590,20 +605,21 @@ class IPTVScanner:
                                            name=channel['name'], group=channel['group'])
 
     async def search_web(self):
-        """Поиск IPTV потоков через поисковые системы"""
-        self.log("🔍 Поиск по сайтам через поисковые системы...")
-        
-        # Расширенный поиск - используем все запросы для лучшего покрытия
-        for query in SEARCH_QUERIES:  # Все запросы для максимального охвата
+        """Поиск IPTV потоков через прямые сайты и поисковые системы"""
+        self.log("🔍 Поиск по прямым сайтам и поисковым системам...")
+
+        # 1. Сначала проверяем прямые URL сайтов (быстро и эффективно)
+        self.log("📡 Проверка прямых источников...")
+        for site_url in DIRECT_SITES:
             try:
-                search_url = f"https://www.google.com/search?q={query.replace(' ', '+')}&num=10"
                 headers = {
                     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
-                    'Accept': 'text/html,application/xhtml+xml',
+                    'Accept': '*/*',
                 }
                 
-                async with self.session.get(search_url, headers=headers, 
-                                          timeout=aiohttp.ClientTimeout(total=10)) as response:
+                async with self.session.get(site_url, headers=headers,
+                                          timeout=aiohttp.ClientTimeout(total=10),
+                                          allow_redirects=True) as response:
                     if response.status == 200:
                         text = await response.text()
                         
@@ -611,14 +627,45 @@ class IPTVScanner:
                         m3u_pattern = r'https?[^\s"\'<>]+\.m3u8?[^\s"\'<>]*'
                         matches = re.findall(m3u_pattern, text, re.IGNORECASE)
                         
+                        for match in matches[:50]:  # Максимум 50 URL из каждого источника
+                            clean_url = match.replace('&amp;', '&').replace('"', '')
+                            if clean_url.startswith('http') and EXCLUDED_DOMAIN not in clean_url:
+                                await self.check_and_add(clean_url, source="direct_site")
+                        
+                        self.log(f"✅ Найдено {len(matches)} потоков в {site_url[:50]}")
+                        
+            except Exception as e:
+                self.log(f"⚠️ Ошибка доступа к {site_url[:50]}: {e}")
+            
+            await asyncio.sleep(0.5)  # Пауза между запросами
+
+        # 2. Расширенный поиск через Google - используем все запросы для лучшего покрытия
+        self.log("🔎 Поиск через поисковые системы...")
+        for query in SEARCH_QUERIES:  # Все запросы для максимального охвата
+            try:
+                search_url = f"https://www.google.com/search?q={query.replace(' ', '+')}&num=10"
+                headers = {
+                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+                    'Accept': 'text/html,application/xhtml+xml',
+                }
+
+                async with self.session.get(search_url, headers=headers,
+                                          timeout=aiohttp.ClientTimeout(total=10)) as response:
+                    if response.status == 200:
+                        text = await response.text()
+
+                        # Извлекаем m3u8/m3u URL
+                        m3u_pattern = r'https?[^\s"\'<>]+\.m3u8?[^\s"\'<>]*'
+                        matches = re.findall(m3u_pattern, text, re.IGNORECASE)
+
                         for match in matches[:20]:  # Максимум 20 URL из каждого запроса
                             clean_url = match.replace('&amp;', '&').replace('"', '')
                             if clean_url.startswith('http') and EXCLUDED_DOMAIN not in clean_url:
                                 await self.check_and_add(clean_url, source="web_search")
-                                
+
             except Exception as e:
                 self.log(f"⚠️ Ошибка поиска: {e}")
-            
+
             await asyncio.sleep(1)  # Пауза между запросами
 
     def clean_channel_name(self, name: str) -> str:
