@@ -33,7 +33,12 @@ PROXY_PORT = os.environ.get("PROXY_PORT", "8080")
 PROXY_BASE = f"https://{PROXY_HOST}/"
 
 # Исключаем этот домен из плейлистов
-EXCLUDED_DOMAIN = "zabava-hlive.nginx.net"
+EXCLUDED_DOMAIN = "zabava-hlive.ngenix.net"
+
+# Домены которые работают без прокси (только zabava-hlive.ngenix.net)
+DIRECT_DOMAINS = [
+    'zabava-hlive.ngenix.net',
+]
 
 # Максимальное количество каналов - УЛЬТИМАТИВНЫЙ ЛИМИТ
 MAX_CHANNELS = 200000000
@@ -648,15 +653,8 @@ class IPTVScanner:
     async def check_stream_availability(self, url: str) -> bool:
         """Проверка доступности потока с поддержкой прокси для GitHub Actions"""
         try:
-            # Определяем доверенные CDN которые работают без прокси
-            direct_domains = [
-                'zabava-htlive.cdn.ngenix.net',
-                'tvrain.tv', 'tvrain.akamaized.net',
-                'd1vrcsh6f4z3z8.cloudfront.net',
-                'cdn.tvrain.tv', 'hls.tvrain.tv'
-            ]
-            
-            use_proxy = not any(domain in url for domain in direct_domains)
+            # Используем глобальный список DIRECT_DOMAINS - только zabava-hlive.ngenix.net без прокси
+            use_proxy = not any(domain in url for domain in DIRECT_DOMAINS)
             
             headers = {
                 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
@@ -906,15 +904,13 @@ class IPTVScanner:
             m3u_content += f'#EXTINF:-1 tvg-name="{name}" group-title="{group}",{name} ⭐\n'
             m3u_content += f'{stream_url}\n\n'
 
-        # Затем российские каналы
+        # Затем российские каналы - ВСЕ С ПРОКСИ кроме zabava-hlive.ngenix.net
         for url, info in ru_streams:
             name = info.get('name', 'Channel')
             group = info.get('group', 'IPTV')
             
-            # Определяем нужен ли прокси
-            direct_domains = ['zabava-htlive.cdn.ngenix.net', 'tvrain.tv', 
-                            'tvrain.akamaized.net', 'cloudfront.net']
-            use_proxy = not any(domain in url for domain in direct_domains)
+            # Определяем нужен ли прокси - только zabava-hlive.ngenix.net без прокси
+            use_proxy = not any(domain in url for domain in DIRECT_DOMAINS)
             
             if use_proxy:
                 parsed = urllib.parse.urlparse(url)
@@ -927,15 +923,13 @@ class IPTVScanner:
             m3u_content += f'#EXTINF:-1 tvg-name="{name}" group-title="{group}",{name}\n'
             m3u_content += f'{stream_url}\n\n'
 
-        # Затем международные каналы
+        # Затем международные каналы - ВСЕ С ПРОКСИ кроме zabava-hlive.ngenix.net
         for url, info in int_streams:
             name = info.get('name', 'Channel')
             group = info.get('group', 'IPTV')
             
-            # Определяем нужен ли прокси
-            direct_domains = ['zabava-htlive.cdn.ngenix.net', 'tvrain.tv', 
-                            'tvrain.akamaized.net', 'cloudfront.net']
-            use_proxy = not any(domain in url for domain in direct_domains)
+            # Определяем нужен ли прокси - только zabava-hlive.ngenix.net без прокси
+            use_proxy = not any(domain in url for domain in DIRECT_DOMAINS)
             
             if use_proxy:
                 parsed = urllib.parse.urlparse(url)
@@ -974,7 +968,7 @@ class IPTVScanner:
         self.log(f"💾 Сохранено {len(self.found_streams)} потоков")
 
     async def split_into_thematic_playlists(self):
-        """Разделяет плейлист на тематические категории"""
+        """Разделяет плейлист на тематические категории с прокси (кроме zabava-hlive.ngenix.net)"""
         try:
             playlist_path = PLAYLIST_FILE
             if not playlist_path.exists():
@@ -1017,15 +1011,48 @@ class IPTVScanner:
                 filename = f"{safe_name}.m3u"
                 filepath = output_dir / filename
                 
+                # Генерируем контент с прокси для каждого канала
+                group_content = header
+                group_content += f"# Категория: {group_name}\n"
+                group_content += f"# Каналов: {len(channels)}\n"
+                group_content += f"# Обновлено: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n"
+                group_content += "# ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net\n\n"
+                
+                for channel in channels:
+                    # Извлекаем URL из канала - ищем строку начинающуюся с http после #EXTINF
+                    lines = channel.strip().split('\n')
+                    url = None
+                    for line in lines:
+                        line = line.strip()
+                        if line.startswith('http'):
+                            url = line
+                            break
+                    
+                    if url:
+                        name_match = re.search(r'tvg-name="([^"]*)"', channel)
+                        group_match = re.search(r'group-title="([^"]*)"', channel)
+                        
+                        name = name_match.group(1) if name_match else "Channel"
+                        grp = group_match.group(1) if group_match else "IPTV"
+                        
+                        # Применяем прокси кроме для zabava-hlive.ngenix.net
+                        use_proxy = not any(domain in url for domain in DIRECT_DOMAINS)
+                        
+                        if use_proxy:
+                            parsed = urllib.parse.urlparse(url)
+                            stream_url = f"{PROXY_BASE}{parsed.netloc}{parsed.path}"
+                            if parsed.query:
+                                stream_url += '?' + parsed.query
+                        else:
+                            stream_url = url
+                        
+                        group_content += f'#EXTINF:-1 tvg-name="{name}" group-title="{grp}",{name}\n'
+                        group_content += f'{stream_url}\n\n'
+                
                 with open(filepath, 'w', encoding='utf-8') as f:
-                    f.write(header)
-                    f.write(f"# Категория: {group_name}\n")
-                    f.write(f"# Каналов: {len(channels)}\n")
-                    f.write(f"# Обновлено: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
-                    for channel in channels:
-                        f.write(channel)
+                    f.write(group_content)
 
-            self.log(f"✅ Создано {len(groups)} тематических плейлистов")
+            self.log(f"✅ Создано {len(groups)} тематических плейлистов с прокси")
 
         except Exception as e:
             self.log(f"❌ Ошибка создания тематических плейлистов: {e}")
@@ -1090,7 +1117,7 @@ class IPTVScanner:
 
 
 async def main():
-    """Точка входа"""
+    """Точка входа - сканирование с автообновлением каждые 30 минут"""
     DATA_DIR.mkdir(exist_ok=True)
     
     scanner = IPTVScanner()
@@ -1101,5 +1128,36 @@ async def main():
     print("="*60)
 
 
+async def continuous_scan():
+    """Непрерывное сканирование с обновлением каждые 30 минут"""
+    DATA_DIR.mkdir(exist_ok=True)
+    
+    scan_count = 0
+    while True:
+        scan_count += 1
+        print(f"\n{'='*60}")
+        print(f"🔄 Запуск сканирования #{scan_count}")
+        print(f"{'='*60}\n")
+        
+        scanner = IPTVScanner()
+        await scanner.run_scan()
+        
+        print(f"\n{'='*60}")
+        print(f"✅ Сканирование #{scan_count} завершено!")
+        print(f"⏳ Следующее сканирование через 30 минут...")
+        print(f"{'='*60}\n")
+        
+        # Ждем 30 минут (1800 секунд) перед следующим сканированием
+        await asyncio.sleep(1800)
+
+
 if __name__ == "__main__":
-    asyncio.run(main())
+    import sys
+    
+    if len(sys.argv) > 1 and sys.argv[1] == "--continuous":
+        # Режим непрерывного сканирования каждые 30 минут
+        print("🚀 Запуск в режиме непрерывного сканирования (каждые 30 минут)...")
+        asyncio.run(continuous_scan())
+    else:
+        # Одиночное сканирование (для GitHub Actions)
+        asyncio.run(main())
