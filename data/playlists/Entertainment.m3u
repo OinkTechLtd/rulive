@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-20 23:52:19
-# Всего каналов: 16275
-# Новых за сессию: 0
+# Обновлено: 2026-05-21 04:11:09
+# Всего каналов: 16282
+# Новых за сессию: 7
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment
-# Каналов: 552
-# Обновлено: 2026-05-20 23:52:19
+# Каналов: 554
+# Обновлено: 2026-05-21 04:11:09
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="NSC+" group-title="Entertainment",NSC+
@@ -1590,6 +1590,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.westream.cloud/Vozd
 
 #EXTINF:-1 tvg-name="YourTime TV" group-title="Entertainment",YourTime TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls.yourtime.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="RSV Honduras" group-title="Entertainment",RSV Honduras
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stmv2.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Kurdsat" group-title="Entertainment",Kurdsat
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
 
 #EXTINF:-1 tvg-name="AB1 [Geo-Blocked]" group-title="Entertainment",AB1 [Geo-Blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/viamotionhsi.netplus.ch/live/eds/ab1/browser-dash/ab1.mpd

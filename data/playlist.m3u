@@ -1,7 +1,7 @@
 #EXTM3U
-# Обновлено: 2026-05-20 23:52:19
-# Всего каналов: 16275
-# Новых за сессию: 0
+# Обновлено: 2026-05-21 04:11:09
+# Всего каналов: 16282
+# Новых за сессию: 7
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
@@ -40711,6 +40711,27 @@ https://secure-272717.tatnet.app/183.207.248.71/cntv/live1/HD-2500k-1080P-heilon
 
 #EXTINF:-1 tvg-name="Allegro" group-title="General",Allegro
 https://secure-272717.tatnet.app/vodcdn.bamboo-cloud.com/livehls/68c525e1063044539b09c253/master.m3u8
+
+#EXTINF:-1 tvg-name="Whiplash" group-title="General",Whiplash
+https://secure-272717.tatnet.app/cdn.whiplash.cc/whiplash/index.m3u8
+
+#EXTINF:-1 tvg-name="Whiplash Cinema (480p)" group-title="Movies",Whiplash Cinema (480p)
+https://secure-272717.tatnet.app/cdn.whiplash.cc/whiplash-cinema/index.m3u8
+
+#EXTINF:-1 tvg-name="Whiplash II (480p)" group-title="General",Whiplash II (480p)
+https://secure-272717.tatnet.app/cdn.whiplash.cc/whiplash-2/index.m3u8
+
+#EXTINF:-1 tvg-name="Window TV" group-title="Undefined",Window TV
+https://secure-272717.tatnet.app/cdn.whiplash.cc/whiplash-windowtv/index.m3u8
+
+#EXTINF:-1 tvg-name="HCH" group-title="News",HCH
+https://secure-272717.tatnet.app/live.streamhch.com/live/streams/hch1.m3u8
+
+#EXTINF:-1 tvg-name="RSV Honduras" group-title="Entertainment",RSV Honduras
+https://secure-272717.tatnet.app/stmv2.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Kurdsat" group-title="Entertainment",Kurdsat
+https://secure-272717.tatnet.app/hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
 
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="Albania",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8
