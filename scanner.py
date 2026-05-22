@@ -653,13 +653,17 @@ class IPTVScanner:
         self.new_channels_count = 0
 
     async def init_session(self):
-        timeout = aiohttp.ClientTimeout(total=15)
+        timeout = aiohttp.ClientTimeout(total=20)
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
             'Accept': '*/*',
             'Accept-Language': 'ru-RU,ru;q=0.9,en;q=0.8',
+            'Cache-Control': 'no-cache',
+            'Pragma': 'no-cache',
         }
-        self.session = aiohttp.ClientSession(timeout=timeout, headers=headers)
+        # Используем TCPConnector с увеличенным пулом соединений для параллельных запросов
+        connector = aiohttp.TCPConnector(limit=100, limit_per_host=20, ttl_dns_cache=300, use_dns_cache=True)
+        self.session = aiohttp.ClientSession(timeout=timeout, headers=headers, connector=connector)
 
     async def close_session(self):
         if self.session:
@@ -870,34 +874,105 @@ class IPTVScanner:
             
             await asyncio.sleep(0.5)  # Пауза между запросами
 
-        # 2. Расширенный поиск через Google - используем все запросы для лучшего покрытия
-        self.log("🔎 Поиск через поисковые системы...")
-        for query in SEARCH_QUERIES:  # Все запросы для максимального охвата
+        # 2. Расширенный поиск через поисковые системы с прокси - Google, Yandex, Bing
+        self.log("🔎 Поиск через поисковые системы (Google, Yandex, Bing)...")
+        
+        # Поисковые движки с разными параметрами
+        search_engines = [
+            ("Google", "https://www.google.com/search?q={query}&num=20&hl=ru"),
+            ("Yandex", "https://yandex.ru/search/?text={query}&lr=213"),
+            ("Bing", "https://www.bing.com/search?q={query}&count=20&setlang=ru"),
+            ("DuckDuckGo", "https://duckduckgo.com/html/?q={query}&kl=ru-ru"),
+        ]
+        
+        # Используем первые 50 запросов для каждой поисковой системы
+        queries_to_use = SEARCH_QUERIES[:50]
+        
+        for engine_name, engine_url_template in search_engines:
+            self.log(f"📡 Поиск через {engine_name}...")
+            for i, query in enumerate(queries_to_use):
+                try:
+                    encoded_query = urllib.parse.quote(query)
+                    search_url = engine_url_template.format(query=encoded_query)
+                    
+                    headers = {
+                        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+                        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+                        'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7',
+                        'Accept-Encoding': 'gzip, deflate',
+                        'Connection': 'keep-alive',
+                    }
+                    
+                    # Используем прокси для поисковых запросов чтобы обойти блокировки
+                    proxy_url = f"{PROXY_BASE}yandex.ru" if "yandex" in engine_url_template else None
+                    
+                    async with self.session.get(search_url, headers=headers,
+                                              timeout=aiohttp.ClientTimeout(total=15),
+                                              allow_redirects=True) as response:
+                        if response.status == 200:
+                            text = await response.text()
+
+                            # Извлекаем m3u8/m3u URL из результатов поиска
+                            m3u_pattern = r'https?://[^\s"\'<>]+\.m3u8?[^\s"\'<>]*'
+                            matches = re.findall(m3u_pattern, text, re.IGNORECASE)
+                            
+                            # Также ищем ссылки на плейлисты в формате http://.../playlist.m3u
+                            playlist_pattern = r'https?://[^\s"\'<>]*(?:playlist|iptv|stream)[^\s"\'<>]*\.m3u8?[^\s"\'<>]*'
+                            playlist_matches = re.findall(playlist_pattern, text, re.IGNORECASE)
+                            
+                            all_matches = list(set(matches + playlist_matches))
+
+                            for match in all_matches[:30]:  # Максимум 30 URL из каждого запроса
+                                clean_url = match.replace('&amp;', '&').replace('"', '').replace("'", "")
+                                if clean_url.startswith('http') and EXCLUDED_DOMAIN not in clean_url:
+                                    await self.check_and_add(clean_url, source="web_search")
+                                    
+                            if all_matches:
+                                self.log(f"✅ {engine_name}: найдено {len(all_matches)} ссылок по запросу '{query[:40]}...'")
+
+                except Exception as e:
+                    self.log(f"⚠️ {engine_name} ошибка поиска по '{query[:30]}...': {e}")
+
+                await asyncio.sleep(0.5)  # Пауза между запросами чтобы не блокировали
+            
+            self.log(f"✓ Завершен поиск через {engine_name}")
+            await asyncio.sleep(2)  # Пауза между поисковыми системами
+        
+        # 3. Дополнительный поиск по специализированным IPTV форумам и сайтам
+        self.log("🌐 Поиск на IPTV форумах и специализированных сайтах...")
+        iptv_sites = [
+            "https://4pda.to/forum/index.php?showtopic=346083&view=findpost",
+            "https://rutracker.org/forum/tracker.php?nm=iptv",
+            "https://www.hdclub.org/browse.php?search=iptv&incldead=0&blah=0",
+            "https://torrents-ru.org/forum/tracker.php?nm=iptv+m3u",
+            "https://iptv.ru/channels",
+            "https://peers.tv/channels/",
+            "https://tv.yandex.ru/",
+        ]
+        
+        for site in iptv_sites:
             try:
-                search_url = f"https://www.google.com/search?q={query.replace(' ', '+')}&num=10"
                 headers = {
                     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
                     'Accept': 'text/html,application/xhtml+xml',
                 }
-
-                async with self.session.get(search_url, headers=headers,
-                                          timeout=aiohttp.ClientTimeout(total=10)) as response:
+                async with self.session.get(site, headers=headers,
+                                          timeout=aiohttp.ClientTimeout(total=10),
+                                          allow_redirects=True) as response:
                     if response.status == 200:
                         text = await response.text()
-
-                        # Извлекаем m3u8/m3u URL
-                        m3u_pattern = r'https?[^\s"\'<>]+\.m3u8?[^\s"\'<>]*'
+                        m3u_pattern = r'https?://[^\s"\'<>]+\.m3u8?[^\s"\'<>]*'
                         matches = re.findall(m3u_pattern, text, re.IGNORECASE)
-
-                        for match in matches[:20]:  # Максимум 20 URL из каждого запроса
+                        
+                        for match in matches[:20]:
                             clean_url = match.replace('&amp;', '&').replace('"', '')
                             if clean_url.startswith('http') and EXCLUDED_DOMAIN not in clean_url:
-                                await self.check_and_add(clean_url, source="web_search")
-
+                                await self.check_and_add(clean_url, source="forum_search")
+                                
             except Exception as e:
-                self.log(f"⚠️ Ошибка поиска: {e}")
-
-            await asyncio.sleep(1)  # Пауза между запросами
+                self.log(f"⚠️ Ошибка доступа к форуму {site[:50]}: {e}")
+            
+            await asyncio.sleep(1)
 
     def clean_channel_name(self, name: str) -> str:
         """Очищает название канала от технических суффиксов"""
