@@ -18,6 +18,7 @@ from typing import List, Dict, Set, Optional
 import hashlib
 import os
 import random
+from collections import defaultdict
 
 # Конфигурация
 DATA_DIR = Path("data")
@@ -651,6 +652,7 @@ class IPTVScanner:
         self.semaphore = asyncio.Semaphore(50)
         self.channel_history: Dict[str, Dict] = {}
         self.new_channels_count = 0
+        self.name_to_urls: Dict[str, Set[str]] = defaultdict(set)
 
     async def init_session(self):
         timeout = aiohttp.ClientTimeout(total=20)
@@ -772,6 +774,7 @@ class IPTVScanner:
                         'source': source,
                         'hash': stream_hash
                     }
+                    self.name_to_urls[channel_name.lower()].add(url)
                     
                     self.channel_history[stream_hash] = {
                         'url': url,
@@ -790,6 +793,13 @@ class IPTVScanner:
             except Exception as e:
                 self.log(f"⚠️ Ошибка при проверке канала: {e}")
                 return False
+
+    def build_name_index(self):
+        """Строит индекс каналов по имени."""
+        self.name_to_urls = defaultdict(set)
+        for url, info in self.found_streams.items():
+            name = self.clean_channel_name(info.get('name', 'Unknown')).lower()
+            self.name_to_urls[name].add(url)
 
     async def fetch_m3u_from_source(self, url: str) -> List[Dict]:
         """Загружает каналы из m3u плейлиста"""
@@ -838,6 +848,54 @@ class IPTVScanner:
                 for channel in result:
                     await self.check_and_add(channel['url'], source="m3u_source", 
                                            name=channel['name'], group=channel['group'])
+
+    async def search_github_sources(self):
+        """Ищет дополнительные m3u-источники через GitHub API."""
+        self.log("🐙 Поиск новых источников через GitHub API...")
+        headers = {
+            "Accept": "application/vnd.github+json",
+            "User-Agent": "LiveM3U-Scanner/2026",
+        }
+        queries = [
+            "iptv playlist extension:m3u",
+            "live tv extension:m3u8",
+            "russia iptv extension:m3u",
+            "sports iptv extension:m3u",
+        ]
+        dynamic_sources: Set[str] = set()
+
+        for query in queries:
+            search_url = (
+                f"https://api.github.com/search/code?"
+                f"q={urllib.parse.quote(query)}&sort=indexed&order=desc&per_page=25"
+            )
+            try:
+                async with self.session.get(search_url, headers=headers, timeout=aiohttp.ClientTimeout(total=20)) as response:
+                    if response.status != 200:
+                        self.log(f"⚠️ GitHub API {response.status} для запроса '{query}'")
+                        continue
+                    payload = await response.json()
+                    for item in payload.get("items", []):
+                        html_url = item.get("html_url", "")
+                        if "/blob/" in html_url:
+                            raw_url = html_url.replace("https://github.com/", "https://raw.githubusercontent.com/").replace("/blob/", "/")
+                            if raw_url.endswith((".m3u", ".m3u8", ".txt")):
+                                dynamic_sources.add(raw_url)
+            except Exception as e:
+                self.log(f"⚠️ GitHub API ошибка '{query}': {e}")
+            await asyncio.sleep(0.25)
+
+        self.log(f"📦 Найдено {len(dynamic_sources)} новых GitHub-источников")
+        for source_url in list(dynamic_sources)[:200]:
+            channels = await self.fetch_m3u_from_source(source_url)
+            for channel in channels[:300]:
+                await self.check_and_add(
+                    channel["url"],
+                    source="github_dynamic",
+                    name=channel["name"],
+                    group=channel["group"],
+                )
+            await asyncio.sleep(0.1)
 
     async def search_web(self):
         """Поиск IPTV потоков через прямые сайты и поисковые системы"""
@@ -1083,6 +1141,7 @@ class IPTVScanner:
                     if 'name' in info:
                         info['name'] = self.clean_channel_name(info['name'])
                     self.found_streams[url] = info
+                    self.name_to_urls[info.get('name', 'Unknown').lower()].add(url)
                 
                 self.log(f"📂 Загружено {len(self.found_streams)} ранее найденных потоков")
             except Exception as e:
@@ -1209,6 +1268,7 @@ class IPTVScanner:
         # Загружаем историю и существующие потоки
         await self.load_channel_history()
         await self.load_existing_streams()
+        self.build_name_index()
         
         old_count = len(self.found_streams)
         self.new_channels_count = 0
@@ -1218,6 +1278,7 @@ class IPTVScanner:
 
         # 1. Сканирование m3u источников
         await self.scan_m3u_sources()
+        await self.search_github_sources()
 
         # 2. Поиск по сайтам
         await self.search_web()
