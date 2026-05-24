@@ -56,7 +56,7 @@
     <div id="map"></div>
     <div class="legend">
         <h3>📡 Как использовать</h3>
-        <p>1. Кликните на страну на карте<br>2. Выберите канал из списка<br>3. Нажмите "Смотреть"<br>4. Если плеер не работает, переключитесь на другой</p>
+        <p>1. Кликните на страну на карте<br>2. Выберите канал из списка<br>3. Нажмите "Смотреть"<br>4. Если плеер не работает, нажмите "Переключить плеер"</p>
     </div>
     <div class="player-modal" id="playerModal">
         <div class="player-container" id="playerContainer"></div>
@@ -149,6 +149,13 @@
         let currentCountry = null;
         let currentChannel = null;
         let currentPlayerIndex = 0;
+        
+        // Массив провайдеров PlayerJS для переключения при ошибках
+        const playerProviders = [
+            { name: "OinkTechLLC", loaded: false },
+            { name: "OinkTechLtd", loaded: false },
+            { name: "twixoffltdco", loaded: false }
+        ];
 
         const map = L.map('map', { center: [20, 0], zoom: 2, minZoom: 2, maxZoom: 8 });
         L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
@@ -188,27 +195,91 @@
             const container = document.getElementById('playerContainer');
             const status = document.getElementById('statusMessage');
             container.innerHTML = '';
-            const playerUrl = getPlayerUrl(url, currentPlayerIndex);
-            const iframe = document.createElement('iframe');
-            iframe.src = playerUrl;
-            iframe.allowFullscreen = true;
-            iframe.allow = 'autoplay; fullscreen; encrypted-media';
-            iframe.onload = () => { status.textContent = '✓ Воспроизводится'; status.style.color = '#00f5ff'; };
-            iframe.onerror = () => { status.textContent = '⚠ Ошибка, переключите плеер'; status.style.color = '#ff6b6b'; };
-            container.appendChild(iframe);
-            setTimeout(() => { if (status.textContent.includes('Ошибка')) switchPlayer(); }, 5000);
+            
+            // Проверяем доступность PlayerJS и пробуем разные провайдеры
+            if (typeof Playerjs !== 'undefined') {
+                const playerDiv = document.createElement('div');
+                playerDiv.id = 'playerjs-player';
+                playerDiv.style.width = '100%';
+                playerDiv.style.height = '100%';
+                container.appendChild(playerDiv);
+                
+                // Инициализируем плеер через PlayerJS
+                window.playerInstance = new Playerjs({
+                    id: "playerjs-player",
+                    file: url,
+                    autostart: true,
+                    success: function() {
+                        status.textContent = '✓ Воспроизводится (PlayerJS - провайдер ' + playerProviders[currentPlayerIndex]?.name || 'основной' + ')';
+                        status.style.color = '#00f5ff';
+                        playerProviders[currentPlayerIndex].loaded = true;
+                    },
+                    error: function() {
+                        status.textContent = '⚠ Ошибка, пробуем другой провайдер...';
+                        status.style.color = '#ff6b6b';
+                        // Автоматическое переключение на следующий провайдер при ошибке
+                        tryNextProvider();
+                    }
+                });
+            } else {
+                // Fallback на iframe если ни один PlayerJS не загрузился
+                const iframe = document.createElement('iframe');
+                iframe.src = url;
+                iframe.allowFullscreen = true;
+                iframe.allow = 'autoplay; fullscreen; encrypted-media';
+                iframe.onload = () => { 
+                    status.textContent = '✓ Воспроизводится (прямой режим)'; 
+                    status.style.color = '#00f5ff'; 
+                };
+                iframe.onerror = () => { 
+                    status.textContent = '⚠ Ошибка, попробуйте другой канал'; 
+                    status.style.color = '#ff6b6b'; 
+                };
+                container.innerHTML = '';
+                container.appendChild(iframe);
+            }
         }
-
-        function getPlayerUrl(url, index) {
-            const players = [url, 'https://vidstack.io/player?url=' + encodeURIComponent(url), 'https://videojs.com/?url=' + encodeURIComponent(url)];
-            return players[index % players.length];
+        
+        function tryNextProvider() {
+            // Пытаемся следующий провайдер если текущий не сработал
+            if (currentPlayerIndex < playerProviders.length - 1) {
+                currentPlayerIndex++;
+                setTimeout(() => {
+                    loadPlayer(currentChannel.url);
+                }, 500);
+            } else {
+                // Если все провайдеры исчерпаны, переключаемся на iframe
+                currentPlayerIndex = 0;
+                const container = document.getElementById('playerContainer');
+                const status = document.getElementById('statusMessage');
+                container.innerHTML = '';
+                const iframe = document.createElement('iframe');
+                iframe.src = currentChannel.url;
+                iframe.allowFullscreen = true;
+                iframe.allow = 'autoplay; fullscreen; encrypted-media';
+                container.appendChild(iframe);
+                status.textContent = '✓ Прямой режим (все провайдеры испробованы)';
+                status.style.color = '#bd00ff';
+            }
         }
 
         function switchPlayer() {
-            currentPlayerIndex = (currentPlayerIndex + 1) % 3;
-            document.getElementById('statusMessage').textContent = 'Переключение на плеер ' + (currentPlayerIndex + 1) + '...';
-            document.getElementById('statusMessage').style.color = '#bd00ff';
-            loadPlayer(currentChannel.url);
+            // Ручное переключение между провайдерами PlayerJS и fallback режимом
+            const status = document.getElementById('statusMessage');
+            
+            if (currentPlayerIndex < playerProviders.length - 1) {
+                // Переключаемся на следующий провайдер PlayerJS
+                currentPlayerIndex++;
+                status.textContent = 'Переключение на провайдер: ' + playerProviders[currentPlayerIndex].name + '...';
+                status.style.color = '#bd00ff';
+                loadPlayer(currentChannel.url);
+            } else {
+                // Если все провайдеры PlayerJS исчерпаны, переключаемся на iframe или начинаем сначала
+                currentPlayerIndex = 0;
+                status.textContent = 'Возврат к основному провайдеру...';
+                status.style.color = '#bd00ff';
+                loadPlayer(currentChannel.url);
+            }
         }
 
         function closePlayer() {
