@@ -1606,5 +1606,3 @@ if __name__ == "__main__":
     else:
         # Одиночное сканирование (для GitHub Actions)
         asyncio.run(main())
-        if self.search_query_limit:
-            queries_to_use = queries_to_use[:self.search_query_limit]

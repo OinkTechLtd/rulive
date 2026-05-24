@@ -15,13 +15,15 @@ jobs:
       group: livem3u-auto-update
       cancel-in-progress: true
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
     
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4  # Стабильная версия
+        uses: actions/checkout@v5  # Стабильная версия
         
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.11'
           
