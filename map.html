@@ -43,6 +43,14 @@
         .switch-player-btn:hover { background: var(--neon-purple); }
         .close-player-btn { background: var(--primary-gradient); border: none; color: #fff; padding: 10px 25px; border-radius: 25px; cursor: pointer; font-weight: 600; }
         .status-message { color: rgba(255, 255, 255, 0.7); font-size: 0.9em; margin-top: 10px; }
+        .embed-modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.9); z-index: 3000; justify-content: center; align-items: center; }
+        .embed-modal.active { display: flex; }
+        .embed-container { background: var(--glass-bg); backdrop-filter: blur(20px); border: 1px solid var(--glass-border); border-radius: 16px; padding: 30px; max-width: 600px; width: 90%; }
+        .embed-container h3 { font-size: 1.3em; margin-bottom: 15px; background: var(--primary-gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+        .embed-code { width: 100%; padding: 15px; border-radius: 10px; border: 1px solid var(--glass-border); background: rgba(0, 0, 0, 0.4); color: #fff; font-family: monospace; font-size: 0.9em; resize: vertical; margin-bottom: 15px; }
+        .embed-buttons { display: flex; gap: 10px; flex-wrap: wrap; }
+        .copy-btn { background: var(--primary-gradient); border: none; color: #fff; padding: 10px 20px; border-radius: 25px; cursor: pointer; font-weight: 600; transition: all 0.3s ease; }
+        .copy-btn:hover { transform: scale(1.05); box-shadow: 0 0 30px rgba(102, 126, 234, 0.5); }
         .legend { position: absolute; bottom: 30px; right: 30px; z-index: 1000; background: var(--glass-bg); backdrop-filter: blur(20px); border: 1px solid var(--glass-border); border-radius: 16px; padding: 20px; max-width: 300px; }
         .legend h3 { font-size: 1em; margin-bottom: 10px; color: var(--neon-blue); }
         .legend p { font-size: 0.85em; color: rgba(255, 255, 255, 0.7); line-height: 1.6; }
@@ -64,21 +72,73 @@
             <span class="player-title" id="playerTitle"></span>
             <button class="switch-player-btn" onclick="switchPlayer()">🔄 Переключить плеер</button>
             <button class="close-player-btn" onclick="closePlayer()">✕ Закрыть</button>
+            <button class="switch-player-btn" onclick="showEmbedModal()">📤 Встроить</button>
         </div>
         <div class="status-message" id="statusMessage"></div>
+    <div class="embed-modal" id="embedModal">
+        <div class="embed-container">
+            <h3>📤 Встроить плеер на сайт</h3>
+            <p style="color: rgba(255,255,255,0.7); margin-bottom: 15px; font-size: 0.9em;">Скопируйте код ниже и вставьте его на свой сайт:</p>
+            <textarea class="embed-code" id="embedCode" readonly></textarea>
+            <div class="embed-buttons">
+                <button class="copy-btn" onclick="copyEmbedCode()">📋 Копировать код</button>
+                <button class="close-player-btn" onclick="closeEmbedModal()">✕ Закрыть</button>
+            </div>
+        </div>
+    </div>
+
     </div>
     <script>
         let countriesData = {};
         let allChannels = [];
 
-        // Загрузка плейлиста из data/playlist.m3u
+        // Список стран (только государства, без жанров и категорий)
+        const countryList = [
+            'Россия', 'Украина', 'Беларусь', 'Казахстан', 'Германия', 'Великобритания', 'UK', 
+            'Франция', 'Италия', 'Испания', 'США', 'USA', 'Китай', 'Япония', 'Турция', 'Индия', 
+            'Бразилия', 'Австралия', 'Албания', 'Albania', 'Argentina', 'Austria', 'Azerbaijan', 
+            'Belgium', 'Bosnia and Herzegovina', 'Bulgaria', 'Canada', 'Chad', 'Chile', 
+            'Costa Rica', 'Croatia', 'Cyprus', 'Czech Republic', 'Denmark', 'Egypt', 'Estonia', 
+            'Faroe Islands', 'Finland', 'Georgia', 'Greece', 'Greenland', 'Hong Kong', 'Hungary', 
+            'Iceland', 'Indonesia', 'Iran', 'Iraq', 'Ireland', 'Israel', 'Korea', 'Kosovo', 
+            'Latvia', 'Lithuania', 'Luxembourg', 'Macau', 'Malta', 'Mexico', 'Moldova', 'Monaco', 
+            'Montenegro', 'Netherlands', 'North Korea', 'North Macedonia', 'Norway', 'Paraguay', 
+            'Peru', 'Poland', 'Portugal', 'Qatar', 'Romania', 'San Marino', 'Saudi Arabia', 
+            'Serbia', 'Slovakia', 'Slovenia', 'Somalia', 'Sweden', 'Switzerland', 'Taiwan', 
+            'Trinidad', 'United Arab Emirates', 'Venezuela', '日本 / Japan',
+            'Москва', 'Санкт-Петербург', 'Екатеринбург', 'Казань', 'Нижний Новгород', 
+            'Новосибирск', 'Краснодар', 'Ростов-на-Дону', 'Уфа', 'Челябинск', 'Самара', 
+            'Омск', 'Волгоград', 'Пермь', 'Красноярск', 'Воронеж', 'Саратов', 'Тюмень', 
+            'Тольятти', 'Ижевск', 'Барнаул', 'Ульяновск', 'Иркутск', 'Хабаровск', 'Ярославль', 
+            'Владивосток', 'Махачкала', 'Томск', 'Оренбург', 'Кемерово', 'Рязань', 
+            'Набережные Челны', 'Пенза', 'Липецк', 'Киров', 'Чебоксары', 'Тула', 
+            'Калининград', 'Курск', 'Севастополь', 'Улан-Удэ', 'Ставрополь', 'Тверь', 
+            'Магнитогорск', 'Иваново', 'Брянск', 'Сочи', 'Белгород', 'Владимир', 
+            'Архангельск', 'Сургут', 'Калуга', 'Смоленск', 'Вологда', 'Саранск', 'Курган', 
+            'Орёл', 'Черкесск', 'Грозный', 'Якутск', 'Петрозаводск', 'Майкоп', 'Йошкар-Ола', 
+            'Комсомольск-на-Амуре', 'Нальчик', 'Мурманск', 'Нижний Тагил', 'Нижневартовск', 
+            'Новороссийск', 'Дзержинск', 'Элиста', 'Ноябрьск', 'Нефтеюганск', 'Новокузнецк', 
+            'Чита', 'Сахалин', 'Камчатка', 'Республика Крым', 'Республика Коми',
+            'Абакан', 'Астрахань', 'Благовещенск', 'Великий Новгород', 'Владикавказ', 
+            'Горно-Алтайск', 'Кострома', 'Кызыл', 'Магадан', 'Псков', 'Тамбов'
+        ];
+
+        // Загрузка плейлистов из data/playlist.m3u и zabava-full.m3u
         async function loadPlaylist() {
             try {
-                const response = await fetch('data/playlist.m3u');
-                const text = await response.text();
-                parseM3U(text);
+                // Загружаем оба плейлиста параллельно
+                const [response1, response2] = await Promise.all([
+                    fetch('data/playlist.m3u'),
+                    fetch('zabava-full.m3u')
+                ]);
+                
+                const text1 = await response1.text();
+                const text2 = await response2.text();
+                
+                parseM3U(text1);
+                parseM3U(text2);
             } catch (error) {
-                console.error('Ошибка загрузки плейлиста:', error);
+                console.error('Ошибка загрузки плейлистов:', error);
                 alert('Не удалось загрузить плейлист каналов');
             }
         }
@@ -109,6 +169,12 @@
                     // Определяем страну из группы или названия - используем оригинальное название группы
                     let country = currentChannel.group;
                     
+                    // Фильтруем: оставляем только страны из списка (государства и регионы)
+                    if (!countryList.includes(country)) {
+                        currentChannel = null;
+                        continue;
+                    }
+
                     // Добавляем канал в список для страны
                     if (!countriesData[country]) {
                         countriesData[country] = { coords: getCountryCoords(country), channels: [] };
@@ -480,7 +546,26 @@
             loadPlayer(channel.url);
         }
 
+        // Функция для отключения прокси для источников от zabava-hlive.ngenix.net
+        function processUrl(url) {
+            // Для источников zabava-hlive.ngenix.net убираем прокси и используем напрямую
+            if (url.includes('zabava-hlive.ngenix.net')) {
+                // Если URL содержит прокси, извлекаем оригинальный URL
+                if (url.includes('secure-272717.tatnet.app')) {
+                    // Извлекаем оригинальный URL после прокси
+                    const match = url.match(/https?:\/\/[^?]+/g);
+                    if (match && match.length > 1) {
+                        return match[1]; // Возвращаем второй URL (оригинальный)
+                    }
+                }
+            }
+            return url;
+        }
+
         function loadPlayer(url) {
+            // Обрабатываем URL для отключения прокси для определенных источников
+            const processedUrl = processUrl(url);
+            
             const container = document.getElementById('playerContainer');
             const status = document.getElementById('statusMessage');
             container.innerHTML = '';
@@ -513,7 +598,7 @@
             } else {
                 // Fallback на iframe если ни один PlayerJS не загрузился
                 const iframe = document.createElement('iframe');
-                iframe.src = url;
+                iframe.src = processedUrl;
                 iframe.allowFullscreen = true;
                 iframe.allow = 'autoplay; fullscreen; encrypted-media';
                 iframe.onload = () => { 
@@ -569,6 +654,29 @@
                 status.style.color = '#bd00ff';
                 loadPlayer(currentChannel.url);
             }
+        }
+
+
+        function showEmbedModal() {
+            if (!currentChannel) {
+                alert('Сначала выберите канал для воспроизведения');
+                return;
+            }
+            const embedUrl = window.location.origin + '/map.html?embed=true&channel=' + encodeURIComponent(currentChannel.name) + '&url=' + encodeURIComponent(currentChannel.url);
+            const embedCode = '<iframe src="' + embedUrl + '" width="640" height="360" frameborder="0" allowfullscreen allow="autoplay; fullscreen; encrypted-media"></iframe>';
+            document.getElementById('embedCode').value = embedCode;
+            document.getElementById('embedModal').classList.add('active');
+        }
+
+        function copyEmbedCode() {
+            const textarea = document.getElementById('embedCode');
+            textarea.select();
+            document.execCommand('copy');
+            alert('Код скопирован в буфер обмена!');
+        }
+
+        function closeEmbedModal() {
+            document.getElementById('embedModal').classList.remove('active');
         }
 
         function closePlayer() {

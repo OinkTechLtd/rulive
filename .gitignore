@@ -1,1 +1,41 @@
+```gitignore
+# Compiled and build artifacts
+*.pyc
+__pycache__/
+*.o
+*.obj
+*.class
+*.exe
+*.dll
+*.so
+*.a
+*.out
+
+# Dependencies
+node_modules/
+venv/
+.venv/
+.env
+.env.local
+.env.*
+
+# Build directories
+dist/
+build/
+target/
+*.log
+*.tmp
+*.swp
+
+# Editors
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+```
+
+Wait, I need to reconsider. The only modified file is `map.html`, which is a source file. There are no build artifacts, dependency directories, or temporary files in the change list that would require adding to `.gitignore`.
+
 (empty)
