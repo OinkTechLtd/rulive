@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LiveM3U Player</title>
+    <script src="https://cdn.jsdelivr.net/gh/OinkTechLLC/cdnplayerjs@main/playerjs.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/OinkTechLtd/cdnplayerjs@main/playerjs.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/twixoffltdco/cdnplayerjs@main/playerjs.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { 
+            font-family: 'Segoe UI', sans-serif; 
+            background: #0a0a0f; 
+            color: #fff; 
+            min-height: 100vh; 
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        .player-container { 
+            width: 100%; 
+            max-width: 1200px; 
+            aspect-ratio: 16/9; 
+            background: #000; 
+            border-radius: 16px; 
+            overflow: hidden; 
+            box-shadow: 0 0 60px rgba(102, 126, 234, 0.3); 
+        }
+        .player-title {
+            text-align: center;
+            font-size: 1.3em;
+            color: #fff;
+            margin-top: 20px;
+            padding: 0 20px;
+        }
+        .status-message {
+            color: rgba(255, 255, 255, 0.7);
+            font-size: 0.9em;
+            margin-top: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="player-title" id="playerTitle">Загрузка...</div>
+    <div class="player-container" id="playerContainer"></div>
+    <div class="status-message" id="statusMessage"></div>
+
+    <script>
+        // Получаем параметры из URL
+        const urlParams = new URLSearchParams(window.location.search);
+        const channelName = urlParams.get('channel');
+        const channelUrl = urlParams.get('url');
+
+        // Массив провайдеров PlayerJS для переключения при ошибках
+        const playerProviders = [
+            { name: "OinkTechLLC", loaded: false },
+            { name: "OinkTechLtd", loaded: false },
+            { name: "twixoffltdco", loaded: false }
+        ];
+        
+        let currentPlayerIndex = 0;
+
+        function processUrl(url) {
+            // Для источников zabava-hlive.ngenix.net убираем прокси и используем напрямую
+            if (url.includes('zabava-hlive.ngenix.net')) {
+                // Если URL содержит прокси, извлекаем оригинальный URL
+                if (url.includes('secure-272717.tatnet.app')) {
+                    // Извлекаем оригинальный URL после прокси
+                    const match = url.match(/https?:\/\/[^?]+/g);
+                    if (match && match.length > 1) {
+                        return match[1]; // Возвращаем второй URL (оригинальный)
+                    }
+                }
+            }
+            return url;
+        }
+
+        function loadPlayer(url) {
+            // Обрабатываем URL для отключения прокси для определенных источников
+            const processedUrl = processUrl(url);
+            
+            const container = document.getElementById('playerContainer');
+            const status = document.getElementById('statusMessage');
+            container.innerHTML = '';
+            
+            // Проверяем доступность PlayerJS и пробуем разные провайдеры
+            if (typeof Playerjs !== 'undefined') {
+                const playerDiv = document.createElement('div');
+                playerDiv.id = 'playerjs-player';
+                playerDiv.style.width = '100%';
+                playerDiv.style.height = '100%';
+                container.appendChild(playerDiv);
+                
+                // Инициализируем плеер через PlayerJS
+                window.playerInstance = new Playerjs({
+                    id: "playerjs-player",
+                    file: url,
+                    autostart: true,
+                    success: function() {
+                        status.textContent = '✓ Воспроизводится (PlayerJS - провайдер ' + (playerProviders[currentPlayerIndex]?.name || 'основной') + ')';
+                        status.style.color = '#00f5ff';
+                        playerProviders[currentPlayerIndex].loaded = true;
+                    },
+                    error: function() {
+                        status.textContent = '⚠ Ошибка, пробуем другой провайдер...';
+                        status.style.color = '#ff6b6b';
+                        // Автоматическое переключение на следующий провайдер при ошибке
+                        tryNextProvider();
+                    }
+                });
+            } else {
+                // Fallback на iframe если ни один PlayerJS не загрузился
+                const iframe = document.createElement('iframe');
+                iframe.src = processedUrl;
+                iframe.allowFullscreen = true;
+                iframe.allow = 'autoplay; fullscreen; encrypted-media';
+                iframe.onload = () => { 
+                    status.textContent = '✓ Воспроизводится (прямой режим)'; 
+                    status.style.color = '#00f5ff'; 
+                };
+                iframe.onerror = () => { 
+                    status.textContent = '⚠ Ошибка, попробуйте обновить страницу'; 
+                    status.style.color = '#ff6b6b'; 
+                };
+                container.innerHTML = '';
+                container.appendChild(iframe);
+            }
+        }
+        
+        function tryNextProvider() {
+            // Пытаемся следующий провайдер если текущий не сработал
+            if (currentPlayerIndex < playerProviders.length - 1) {
+                currentPlayerIndex++;
+                setTimeout(() => {
+                    loadPlayer(channelUrl);
+                }, 500);
+            } else {
+                // Если все провайдеры исчерпаны, переключаемся на iframe
+                currentPlayerIndex = 0;
+                const container = document.getElementById('playerContainer');
+                const status = document.getElementById('statusMessage');
+                container.innerHTML = '';
+                const iframe = document.createElement('iframe');
+                iframe.src = channelUrl;
+                iframe.allowFullscreen = true;
+                iframe.allow = 'autoplay; fullscreen; encrypted-media';
+                container.appendChild(iframe);
+                status.textContent = '✓ Прямой режим (все провайдеры испробованы)';
+                status.style.color = '#bd00ff';
+            }
+        }
+
+        // Запускаем плеер при загрузке страницы
+        if (channelName && channelUrl) {
+            document.getElementById('playerTitle').textContent = channelName;
+            loadPlayer(channelUrl);
+        } else {
+            document.getElementById('playerTitle').textContent = 'Ошибка: нет параметров канала';
+            document.getElementById('statusMessage').textContent = 'Пожалуйста, укажите параметры channel и url в URL';
+        }
+    </script>
+</body>
+</html>
