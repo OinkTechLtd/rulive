@@ -674,6 +674,14 @@ class IPTVScanner:
         self.new_channels_count = 0
         self.name_to_urls: Dict[str, Set[str]] = defaultdict(set)
         self.replaced_dead_count = 0
+        self.fast_scan = os.environ.get("FAST_SCAN", "0") == "1"
+        # Быстрый режим для GitHub Actions: без пропуска этапов, только с урезанием объема
+        self.m3u_source_limit = 35 if self.fast_scan else len(M3U_SOURCES)
+        self.dynamic_source_limit = 30 if self.fast_scan else 200
+        self.search_query_limit = 10 if self.fast_scan else None
+        self.validate_sample_limit = 1200 if self.fast_scan else 15000
+        self.direct_sites_limit = 8 if self.fast_scan else None
+        self.iptv_sites_limit = 4 if self.fast_scan else None
 
     async def init_session(self):
         timeout = aiohttp.ClientTimeout(
@@ -1028,12 +1036,13 @@ class IPTVScanner:
     async def scan_m3u_sources(self):
         """Сканирует публичные m3u плейлисты"""
         self.log("🌐 Сканирование публичных IPTV плейлистов...")
-        total_sources = len(M3U_SOURCES)
+        sources = M3U_SOURCES[:self.m3u_source_limit]
+        total_sources = len(sources)
         batch_size = 20
         processed_sources = 0
         added_channels = 0
         for start in range(0, total_sources, batch_size):
-            batch = M3U_SOURCES[start:start + batch_size]
+            batch = sources[start:start + batch_size]
             tasks = [self.fetch_m3u_from_source(source) for source in batch]
             results = await asyncio.gather(*tasks, return_exceptions=True)
             processed_sources += len(batch)
@@ -1094,7 +1103,7 @@ class IPTVScanner:
             await asyncio.sleep(0.25)
 
         self.log(f"📦 Найдено {len(dynamic_sources)} новых GitHub-источников")
-        for idx, source_url in enumerate(list(dynamic_sources)[:200], start=1):
+        for idx, source_url in enumerate(list(dynamic_sources)[:self.dynamic_source_limit], start=1):
             channels = await self.fetch_m3u_from_source(source_url)
             for channel in channels[:300]:
                 await self.check_and_add(
@@ -1104,7 +1113,7 @@ class IPTVScanner:
                     group=channel["group"],
                 )
             if idx % SOURCE_PROGRESS_EVERY == 0:
-                self.log(f"⏱️ GitHub источники: {idx}/{min(len(dynamic_sources), 200)}")
+                self.log(f"⏱️ GitHub источники: {idx}/{min(len(dynamic_sources), self.dynamic_source_limit)}")
             await asyncio.sleep(0.1)
 
     async def search_web(self):
@@ -1113,7 +1122,8 @@ class IPTVScanner:
 
         # 1. Сначала проверяем прямые URL сайтов (быстро и эффективно)
         self.log("📡 Проверка прямых источников...")
-        for idx, site_url in enumerate(DIRECT_SITES, start=1):
+        direct_sites = DIRECT_SITES[:self.direct_sites_limit] if self.direct_sites_limit else DIRECT_SITES
+        for idx, site_url in enumerate(direct_sites, start=1):
             try:
                 headers = {
                     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
@@ -1140,8 +1150,8 @@ class IPTVScanner:
             except Exception as e:
                 self.log(f"⚠️ Ошибка доступа к {site_url[:50]}: {e}")
             
-            if idx % SOURCE_PROGRESS_EVERY == 0 or idx == len(DIRECT_SITES):
-                self.log(f"⏱️ Прямые источники: {idx}/{len(DIRECT_SITES)}")
+            if idx % SOURCE_PROGRESS_EVERY == 0 or idx == len(direct_sites):
+                self.log(f"⏱️ Прямые источники: {idx}/{len(direct_sites)}")
             await asyncio.sleep(0.5)  # Пауза между запросами
 
         # 2. Расширенный поиск через поисковые системы с прокси - Google, Yandex, Bing
@@ -1171,6 +1181,8 @@ class IPTVScanner:
         ])
         # Дедупликация с сохранением порядка
         queries_to_use = list(dict.fromkeys(queries_to_use))
+        if self.search_query_limit:
+            queries_to_use = queries_to_use[:self.search_query_limit]
         
         for engine_name, engine_url_template in search_engines:
             self.log(f"📡 Поиск через {engine_name}...")
@@ -1240,6 +1252,8 @@ class IPTVScanner:
             "https://peers.tv/channels/",
             "https://tv.yandex.ru/",
         ]
+        if self.iptv_sites_limit:
+            iptv_sites = iptv_sites[:self.iptv_sites_limit]
         
         for site in iptv_sites:
             try:
@@ -1502,7 +1516,9 @@ class IPTVScanner:
         await self.load_channel_history()
         await self.load_existing_streams()
         self.build_name_index()
-        await self.validate_existing_streams()
+        if self.fast_scan:
+            self.log(f"⚡ FAST_SCAN=1: ускоренная проверка существующих потоков (limit={self.validate_sample_limit})")
+        await self.validate_existing_streams(sample_limit=self.validate_sample_limit)
         
         old_count = len(self.found_streams)
         self.new_channels_count = 0
@@ -1515,6 +1531,8 @@ class IPTVScanner:
         await self.search_github_sources()
 
         # 2. Поиск по сайтам
+        if self.fast_scan:
+            self.log("⚡ FAST_SCAN=1: web-поиск включен с уменьшенным объемом запросов")
         await self.search_web()
 
         self.log(f"✅ Найдено потоков: {len(self.found_streams)}")
@@ -1588,3 +1606,5 @@ if __name__ == "__main__":
     else:
         # Одиночное сканирование (для GitHub Actions)
         asyncio.run(main())
+        if self.search_query_limit:
+            queries_to_use = queries_to_use[:self.search_query_limit]
