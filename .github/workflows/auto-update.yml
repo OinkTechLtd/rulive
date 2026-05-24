@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   scan-and-commit:
-    timeout-minutes: 25
+    timeout-minutes: 6
     concurrency:
       group: livem3u-auto-update
       cancel-in-progress: true
@@ -31,11 +31,12 @@ jobs:
           pip install aiohttp
           
       - name: Run IPTV Scanner
-        timeout-minutes: 20
+        timeout-minutes: 5
         run: python scanner.py
         env:
           PROXY_HOST: "secure-272717.tatnet.app"
           PROXY_PORT: "8080"
+          FAST_SCAN: "1"
           PYTHONUNBUFFERED: "1"
           
       - name: Commit and Push Changes
