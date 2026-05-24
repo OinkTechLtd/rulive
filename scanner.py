@@ -644,6 +644,15 @@ SEARCH_QUERIES = [
     'hls ts segments tv channels',
 ]
 
+# Популярные бренды/каналы для приоритетного интернет-поиска
+POPULAR_CHANNEL_QUERIES = [
+    "Первый канал", "Россия 1", "Россия 24", "НТВ", "ТНТ", "СТС",
+    "Матч ТВ", "РЕН ТВ", "Пятый канал", "ТВ Центр", "Карусель",
+    "МИР 24", "ОТР", "RTVI", "Евроньюс", "BBC News", "CNN", "Sky News",
+    "Discovery", "National Geographic", "History Channel",
+    "Eurosport 1", "Eurosport 2", "beIN Sports", "ESPN", "DAZN",
+]
+
 
 class IPTVScanner:
     def __init__(self):
@@ -847,8 +856,15 @@ class IPTVScanner:
                 if EXCLUDED_DOMAIN in url.lower():
                     return False
                 
-                # Если канал уже есть - не добавляем повторно
+                # Если канал уже есть - не дублируем, но ОБНОВЛЯЕМ метаданные времени
                 if url in self.found_streams:
+                    existing = self.found_streams[url]
+                    existing["found_at"] = datetime.now().isoformat()
+                    existing["source"] = source or existing.get("source", "scan")
+                    if name:
+                        existing["name"] = self.clean_channel_name(name)
+                    if group:
+                        existing["group"] = group
                     return False
                 
                 channel_name = self.clean_channel_name(name or "Unknown")
@@ -1099,8 +1115,22 @@ class IPTVScanner:
             ("DuckDuckGo", "https://duckduckgo.com/html/?q={query}&kl=ru-ru"),
         ]
         
-        # Используем первые 50 запросов для каждой поисковой системы
-        queries_to_use = SEARCH_QUERIES[:50]
+        # Используем расширенный пул запросов: базовые + популярные каналы + GitHub dorks
+        queries_to_use = list(SEARCH_QUERIES)
+        for channel in POPULAR_CHANNEL_QUERIES:
+            queries_to_use.extend([
+                f"{channel} прямой эфир m3u8",
+                f"{channel} live stream hls",
+                f"{channel} iptv playlist m3u",
+            ])
+        queries_to_use.extend([
+            "site:github.com iptv extension:m3u",
+            "site:github.com inurl:raw m3u8 live tv",
+            "site:raw.githubusercontent.com playlist.m3u",
+            "site:gitlab.com iptv m3u8",
+        ])
+        # Дедупликация с сохранением порядка
+        queries_to_use = list(dict.fromkeys(queries_to_use))
         
         for engine_name, engine_url_template in search_engines:
             self.log(f"📡 Поиск через {engine_name}...")
@@ -1116,9 +1146,6 @@ class IPTVScanner:
                         'Accept-Encoding': 'gzip, deflate',
                         'Connection': 'keep-alive',
                     }
-                    
-                    # Используем прокси для поисковых запросов чтобы обойти блокировки
-                    proxy_url = f"{PROXY_BASE}yandex.ru" if "yandex" in engine_url_template else None
                     
                     async with self.session.get(search_url, headers=headers,
                                               timeout=aiohttp.ClientTimeout(total=15),
