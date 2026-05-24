@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-23 23:36:52
-# Всего каналов: 16389
-# Новых за сессию: 1
+# Обновлено: 2026-05-24 04:05:31
+# Всего каналов: 16403
+# Новых за сессию: 14
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General
-# Каналов: 2183
-# Обновлено: 2026-05-23 23:36:52
+# Каналов: 2184
+# Обновлено: 2026-05-24 04:05:32
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="NTV" group-title="General",NTV
@@ -6465,6 +6465,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/videostream.shockmedia
 
 #EXTINF:-1 tvg-name="Ecos Canal 57" group-title="General",Ecos Canal 57
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/2-fss-2.streamhoster.com/pl_138/206532-6829872-1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BCN Gospel TV" group-title="General",BCN Gospel TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8
 
 #EXTINF:-1 tvg-name="Телерадиокомпания 555 (Алушта)" group-title="General",Телерадиокомпания 555 (Алушта)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/trk555.tv:8888/live

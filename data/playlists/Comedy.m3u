@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-23 23:36:52
-# Всего каналов: 16389
-# Новых за сессию: 1
+# Обновлено: 2026-05-24 04:05:31
+# Всего каналов: 16403
+# Новых за сессию: 14
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy
-# Каналов: 52
-# Обновлено: 2026-05-23 23:36:52
+# Каналов: 53
+# Обновлено: 2026-05-24 04:05:32
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Kinokomedija (576p)" group-title="Comedy",Kinokomedija (576p)
@@ -162,6 +162,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/ca-rt.onetv.app/gemcom
 
 #EXTINF:-1 tvg-name="Persiana Comedy" group-title="Comedy",Persiana Comedy
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/comedyhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="Just for Laughs Gags" group-title="Comedy",Just for Laughs Gags
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
 
 #EXTINF:-1 tvg-name="Laughter Theater" group-title="Comedy",Laughter Theater
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/49.113.179.174:4022/udp/238.125.2.159:5140

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-23 23:36:52
-# Всего каналов: 16389
-# Новых за сессию: 1
+# Обновлено: 2026-05-24 04:05:31
+# Всего каналов: 16403
+# Новых за сессию: 14
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment
-# Каналов: 554
-# Обновлено: 2026-05-23 23:36:52
+# Каналов: 555
+# Обновлено: 2026-05-24 04:05:32
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="NSC+" group-title="Entertainment",NSC+
@@ -1596,6 +1596,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stmv2.srvif.com/rsvhon
 
 #EXTINF:-1 tvg-name="Kurdsat" group-title="Entertainment",Kurdsat
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
+
+#EXTINF:-1 tvg-name="DreamTV" group-title="Entertainment",DreamTV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/xykt-fix.github.io/play/a02j/index.m3u8
 
 #EXTINF:-1 tvg-name="AB1 [Geo-Blocked]" group-title="Entertainment",AB1 [Geo-Blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/viamotionhsi.netplus.ch/live/eds/ab1/browser-dash/ab1.mpd

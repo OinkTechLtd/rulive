@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-23 23:36:52
-# Всего каналов: 16389
-# Новых за сессию: 1
+# Обновлено: 2026-05-24 04:05:31
+# Всего каналов: 16403
+# Новых за сессию: 14
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Religious
-# Каналов: 667
-# Обновлено: 2026-05-23 23:36:52
+# Каналов: 669
+# Обновлено: 2026-05-24 04:05:32
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Tsargrad TV [Geo-blocked]" group-title="Religious",Tsargrad TV [Geo-blocked]
@@ -1992,6 +1992,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/157.245.196.186/live/l
 
 #EXTINF:-1 tvg-name="WiseHumanTv" group-title="Religious",WiseHumanTv
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/avr.host247.net/live/WiseHumanTv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="GOD TV (396p)" group-title="Religious",GOD TV (396p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Al Quran Al Kareem TV" group-title="Religious",Al Quran Al Kareem TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/aloula-redirect.vercel.app/7/playlist.m3u8
 
 #EXTINF:-1 tvg-name="KTO [Geo-Blocked]" group-title="Religious",KTO [Geo-Blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/viamotionhsi.netplus.ch/live/eds/kto/browser-dash/kto.mpd

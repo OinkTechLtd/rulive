@@ -1,7 +1,7 @@
 #EXTM3U
-# Обновлено: 2026-05-23 23:36:52
-# Всего каналов: 16389
-# Новых за сессию: 1
+# Обновлено: 2026-05-24 04:05:31
+# Всего каналов: 16403
+# Новых за сессию: 14
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
@@ -41041,6 +41041,48 @@ https://secure-272717.tatnet.app/stream.kaztrk.kz/regional/petropavltv/index.m3u
 
 #EXTINF:-1 tvg-name="NASA TV" group-title="IPTV",NASA TV
 https://secure-272717.tatnet.app/example.com/live/nasa.m3u8
+
+#EXTINF:-1 tvg-name="Atlas (480p)" group-title="Documentary",Atlas (480p)
+https://secure-272717.tatnet.app/cdn.whiplash.cc/whiplash-atlas/index.m3u8
+
+#EXTINF:-1 tvg-name="Brat TV" group-title="Kids",Brat TV
+https://secure-272717.tatnet.app/streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Just for Laughs Gags" group-title="Comedy",Just for Laughs Gags
+https://secure-272717.tatnet.app/streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
+
+#EXTINF:-1 tvg-name="BCN Gospel TV" group-title="General",BCN Gospel TV
+https://secure-272717.tatnet.app/live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8
+
+#EXTINF:-1 tvg-name="India Today" group-title="News",India Today
+https://secure-272717.tatnet.app/d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8
+
+#EXTINF:-1 tvg-name="NDTV 24x7" group-title="News",NDTV 24x7
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTV24x7.m3u8
+
+#EXTINF:-1 tvg-name="News 1 India (396p)" group-title="News",News 1 India (396p)
+https://secure-272717.tatnet.app/d1msejlow1t3l4.cloudfront.net/fta/news1india/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Republic Bharat" group-title="News",Republic Bharat
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicBharat.m3u8
+
+#EXTINF:-1 tvg-name="Times Now Navbharat" group-title="News",Times Now Navbharat
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/TimesNowNavbharat.m3u8
+
+#EXTINF:-1 tvg-name="Cricket Gold" group-title="Sports",Cricket Gold
+https://secure-272717.tatnet.app/streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
+
+#EXTINF:-1 tvg-name="GOD TV (396p)" group-title="Religious",GOD TV (396p)
+https://secure-272717.tatnet.app/d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Al Quran Al Kareem TV" group-title="Religious",Al Quran Al Kareem TV
+https://secure-272717.tatnet.app/aloula-redirect.vercel.app/7/playlist.m3u8
+
+#EXTINF:-1 tvg-name="DreamTV" group-title="Entertainment",DreamTV
+https://secure-272717.tatnet.app/xykt-fix.github.io/play/a02j/index.m3u8
+
+#EXTINF:-1 tvg-name="HTV2" group-title="Entertainment;General",HTV2
+https://secure-272717.tatnet.app/liveh12.vtvprime.vn/hls/HTV2/03.m3u8
 
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="Albania",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-23 23:36:52
-# Всего каналов: 16389
-# Новых за сессию: 1
+# Обновлено: 2026-05-24 04:05:31
+# Всего каналов: 16403
+# Новых за сессию: 14
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary
-# Каналов: 105
-# Обновлено: 2026-05-23 23:36:52
+# Каналов: 106
+# Обновлено: 2026-05-24 04:05:32
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RT Documentary Russian" group-title="Documentary",RT Documentary Russian
@@ -321,6 +321,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/scihls.persiana.live/h
 
 #EXTINF:-1 tvg-name="Persiana Travel" group-title="Documentary",Persiana Travel
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ptravelhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="Atlas (480p)" group-title="Documentary",Atlas (480p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.whiplash.cc/whiplash-atlas/index.m3u8
 
 #EXTINF:-1 tvg-name="CETV-4" group-title="Documentary",CETV-4
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/49.113.179.174:4022/udp/238.125.3.92:5140

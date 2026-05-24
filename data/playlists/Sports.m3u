@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-23 23:36:52
-# Всего каналов: 16389
-# Новых за сессию: 1
+# Обновлено: 2026-05-24 04:05:31
+# Всего каналов: 16403
+# Новых за сессию: 14
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Sports
-# Каналов: 256
-# Обновлено: 2026-05-23 23:36:52
+# Каналов: 257
+# Обновлено: 2026-05-24 04:05:32
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="KHL Prime" group-title="Sports",KHL Prime
@@ -762,6 +762,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/mainstreammedia-worldo
 
 #EXTINF:-1 tvg-name="ESPN" group-title="Sports",ESPN
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-server.com:8080/live/username/password/12345.ts
+
+#EXTINF:-1 tvg-name="Cricket Gold" group-title="Sports",Cricket Gold
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
 
 #EXTINF:-1 tvg-name="Teledeporte" group-title="Sports",Teledeporte
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/92.176.119.180:2095/play/a16t
