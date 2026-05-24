@@ -653,6 +653,7 @@ class IPTVScanner:
         self.channel_history: Dict[str, Dict] = {}
         self.new_channels_count = 0
         self.name_to_urls: Dict[str, Set[str]] = defaultdict(set)
+        self.replaced_dead_count = 0
 
     async def init_session(self):
         timeout = aiohttp.ClientTimeout(total=20)
@@ -727,6 +728,116 @@ class IPTVScanner:
                     
         except Exception:
             return True  # По умолчанию разрешаем - ГЛАВНЫЙ ПРИНЦИП: НЕ ТЕРЯТЬ КАНАЛЫ!
+
+    async def validate_existing_streams(self, sample_limit: int = 15000):
+        """Проверяет существующие потоки и помечает недоступные как dead (без удаления)."""
+        self.log("🩺 Проверка актуальности существующих потоков...")
+        urls = list(self.found_streams.keys())[:sample_limit]
+        checked = 0
+        dead = 0
+        for url in urls:
+            checked += 1
+            is_ok = await self.check_stream_availability(url)
+            info = self.found_streams.get(url, {})
+            stream_hash = info.get("hash") or self.get_stream_hash(url)
+            hist = self.channel_history.get(stream_hash, {})
+            hist["url"] = url
+            hist["name"] = info.get("name", "Unknown")
+            hist["last_seen"] = datetime.now().isoformat()
+            hist["country"] = info.get("country", "INT")
+            hist["first_seen"] = hist.get("first_seen", datetime.now().isoformat())
+            if is_ok:
+                hist["status"] = "alive"
+            else:
+                hist["status"] = "dead"
+                dead += 1
+            self.channel_history[stream_hash] = hist
+            await asyncio.sleep(0.005)
+        self.log(f"🧪 Проверено: {checked}, помечено dead: {dead}")
+
+    def _pick_replacement_url_for_name(self, name: str, bad_url: str = "") -> Optional[str]:
+        """Выбирает лучший URL для названия канала из найденных потоков."""
+        key = self.clean_channel_name(name).lower()
+        candidates = list(self.name_to_urls.get(key, set()))
+        if bad_url in candidates:
+            candidates.remove(bad_url)
+        if not candidates:
+            return None
+
+        def score(u: str) -> int:
+            s = 0
+            lower = u.lower()
+            if ".m3u8" in lower:
+                s += 5
+            if "https://" in lower:
+                s += 2
+            if "zabava-hlive.ngenix.net" in lower or "iptv-org.github.io" in lower:
+                s += 3
+            return s
+
+        candidates.sort(key=score, reverse=True)
+        return candidates[0]
+
+    async def refresh_repo_playlists(self):
+        """Обновляет ВСЕ плейлисты в data/playlists: заменяет dead URL и добавляет новые каналы по категориям."""
+        playlist_dir = DATA_DIR / "playlists"
+        if not playlist_dir.exists():
+            return
+
+        self.log("🛠️ Тотальное обновление плейлистов репозитория...")
+        for pl_file in playlist_dir.glob("*.m3u"):
+            try:
+                content = pl_file.read_text(encoding="utf-8")
+            except Exception:
+                continue
+
+            lines = content.splitlines()
+            out: List[str] = []
+            existing_names: Set[str] = set()
+            last_extinf = ""
+            group_name = pl_file.stem.replace("_", " ")
+            for i, line in enumerate(lines):
+                if line.startswith("#EXTINF"):
+                    last_extinf = line
+                    m = re.search(r",\s*(.+)$", line)
+                    if m:
+                        existing_names.add(self.clean_channel_name(m.group(1)).lower())
+                    out.append(line)
+                    continue
+
+                if line.startswith("http://") or line.startswith("https://"):
+                    channel_name = "Unknown"
+                    m = re.search(r",\s*(.+)$", last_extinf)
+                    if m:
+                        channel_name = m.group(1).strip()
+                    repl = self._pick_replacement_url_for_name(channel_name, bad_url=line)
+                    stream_hash = self.get_stream_hash(line)
+                    status = self.channel_history.get(stream_hash, {}).get("status", "alive")
+                    if status == "dead" and repl:
+                        out.append(repl)
+                        self.replaced_dead_count += 1
+                    else:
+                        out.append(line)
+                    continue
+
+                out.append(line)
+
+            # Добавляем новые каналы в плейлист по соответствующей group-title / имени файла
+            added_here = 0
+            normalized_group = group_name.lower()
+            for url, info in self.found_streams.items():
+                name = self.clean_channel_name(info.get("name", "Unknown"))
+                if name.lower() in existing_names:
+                    continue
+                grp = str(info.get("group", "")).lower()
+                if normalized_group in grp or grp in normalized_group:
+                    out.append(f'#EXTINF:-1 tvg-name="{name}" group-title="{info.get("group", group_name)}",{name}')
+                    out.append(url)
+                    existing_names.add(name.lower())
+                    added_here += 1
+
+            pl_file.write_text("\n".join(out) + "\n", encoding="utf-8")
+            self.log(f"🧩 {pl_file.name}: замен dead={self.replaced_dead_count}, добавлено={added_here}")
 
     async def check_and_add(self, url: str, source: str = "scan", name: str = None, group: str = "IPTV") -> bool:
         """Проверяет и добавляет канал, НЕ удаляя старые"""
@@ -1322,6 +1433,7 @@ class IPTVScanner:
         await self.load_channel_history()
         await self.load_existing_streams()
         self.build_name_index()
+        await self.validate_existing_streams()
         
         old_count = len(self.found_streams)
         self.new_channels_count = 0
@@ -1354,6 +1466,10 @@ class IPTVScanner:
         
         # Создаем тематические плейлисты
         await self.split_into_thematic_playlists()
+        # Обновляем все существующие плейлисты репозитория: замена dead + добавление новых каналов
+        await self.refresh_repo_playlists()
+
+        self.log(f"♻️ Всего заменено нерабочих ссылок: {self.replaced_dead_count}")
 
         await self.close_session()
 
