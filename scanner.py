@@ -857,14 +857,26 @@ class IPTVScanner:
 
             # Добавляем новые каналы в плейлист по соответствующей group-title / имени файла
             added_here = 0
-            normalized_group = group_name.lower()
+            normalized_group = re.sub(r"[^\w\s]", " ", group_name.lower()).strip()
+            normalized_group_tokens = set(normalized_group.split())
             for url, info in self.found_streams.items():
                 name = self.clean_channel_name(info.get("name", "Unknown"))
                 if name.lower() in existing_names:
                     continue
-                grp = str(info.get("group", "")).lower()
-                if normalized_group in grp or grp in normalized_group:
-                    out.append(f'#EXTINF:-1 tvg-name="{name}" group-title="{info.get("group", group_name)}",{name}')
+
+                raw_group = str(info.get("group", "")).strip()
+                grp = re.sub(r"[^\w\s]", " ", raw_group.lower()).strip()
+                grp_tokens = set(grp.split())
+
+                # Совпадение группы по подстроке и по пересечению токенов,
+                # чтобы группы вида "News_Weather" / "News" не терялись.
+                group_match = (
+                    (normalized_group and grp and (normalized_group in grp or grp in normalized_group))
+                    or (normalized_group_tokens and grp_tokens and bool(normalized_group_tokens & grp_tokens))
+                )
+
+                if group_match:
+                    out.append(f'#EXTINF:-1 tvg-name="{name}" group-title="{raw_group or group_name}",{name}')
                     out.append(url)
                     existing_names.add(name.lower())
                     added_here += 1
