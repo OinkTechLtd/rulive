@@ -804,7 +804,7 @@ class IPTVScanner:
                 s += 5
             if "https://" in lower:
                 s += 2
-            if "zabava-hlive.ngenix.net" in lower or "iptv-org.github.io" in lower:
+            if "zabava-hlive.ngenix.net" in lower:
                 s += 3
             return s
 
@@ -878,6 +878,9 @@ class IPTVScanner:
             try:
                 # Пропускаем исключенный домен
                 if EXCLUDED_DOMAIN in url.lower():
+                    return False
+                lower_url = url.lower()
+                if not any(token in lower_url for token in [".m3u8", ".m3u", ".ts", ".mpd", ".mp4", ".mkv", "manifest"]):
                     return False
                 
                 # Если канал уже есть - не дублируем, но ОБНОВЛЯЕМ метаданные времени
@@ -1503,6 +1506,41 @@ class IPTVScanner:
             )
         self.log(f"✅ Добавлено {len(PRIORITY_CHANNELS)} приоритетных каналов")
 
+    async def restore_channels_from_history(self):
+        """Возвращает каналы из истории в общий пул, чтобы они снова попали в обычный и тематические плейлисты."""
+        restored = 0
+        for _, hist in self.channel_history.items():
+            url = str(hist.get("url", "")).strip()
+            if not url or url in self.found_streams:
+                continue
+            lower_url = url.lower()
+            if EXCLUDED_DOMAIN in lower_url:
+                continue
+            if not any(token in lower_url for token in [".m3u8", ".m3u", ".ts", ".mpd", ".mp4", ".mkv", "manifest"]):
+                continue
+
+            channel_name = self.clean_channel_name(hist.get("name", "Unknown"))
+            is_ru = any(kw in lower_url for kw in RU_KEYWORDS) or any(kw in channel_name.lower() for kw in RU_KEYWORDS)
+            group = hist.get("group") or ("RU" if is_ru else "IPTV")
+            stream_hash = hist.get("hash") or self.get_stream_hash(url)
+
+            self.found_streams[url] = {
+                "name": channel_name,
+                "url": url,
+                "found_at": datetime.now().isoformat(),
+                "country": hist.get("country", "RU" if is_ru else "INT"),
+                "group": group,
+                "source": "history_restore",
+                "hash": stream_hash,
+            }
+            self.name_to_urls[channel_name.lower()].add(url)
+            restored += 1
+
+        if restored:
+            self.log(f"♻️ Восстановлено из истории: {restored} каналов")
+        else:
+            self.log("♻️ Восстановление из истории: нечего возвращать")
+
     async def run_scan(self):
         """Основной метод сканирования"""
         await self.init_session()
@@ -1534,6 +1572,7 @@ class IPTVScanner:
         if self.fast_scan:
             self.log("⚡ FAST_SCAN=1: web-поиск включен с уменьшенным объемом запросов")
         await self.search_web()
+        await self.restore_channels_from_history()
 
         self.log(f"✅ Найдено потоков: {len(self.found_streams)}")
         self.log(f"🆕 Добавлено новых каналов: {self.new_channels_count}")
