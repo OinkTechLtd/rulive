@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>Embed Player</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { background: #000; overflow: hidden; font-family: system-ui, sans-serif; }
+        #player-container { width: 100%; height: 100vh; background: #000; }
+        .error-overlay {
+            position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            background: rgba(0,0,0,0.9); display: flex; align-items: center;
+            justify-content: center; color: white; z-index: 10; flex-direction: column;
+        }
+    </style>
+</head>
+<body>
+    <div id="player-container"></div>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <script src="playerjs.js"></script>
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const videoUrl = decodeURIComponent(urlParams.get('url') || '');
+        const title = decodeURIComponent(urlParams.get('title') || 'Live Channel');
+
+        if (videoUrl) {
+            const player = new Playerjs({
+                id: "player-container",
+                file: videoUrl,
+                autoplay: true,
+                hls: 1,
+                width: "100%",
+                height: "100%",
+                title: title
+            });
+        } else {
+            document.body.innerHTML = '<div class="error-overlay"><h3>Invalid stream URL</h3><p>No content provided</p></div>';
+        }
+    </script>
+</body>
+</html>
