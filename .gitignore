@@ -1,18 +1,51 @@
 ```
-# Python
-__pycache__/
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Compiled and build artifacts
 *.pyc
-*.pyo
-*.pyd
-
-# Database
-films.db
-
-# Build artifacts
-*.m3u8
+__pycache__/
 
 # Environment
 .env
 .env.local
 *.env.*
+
+# Editors
+.vscode/
+.idea/
+
+# Coverage reports
+coverage/
+htmlcov/
+.coverage
+
+# Python specific
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Temporary files
+*.tmp
+*~
+.DS_Store
+Thumbs.db
 ```
