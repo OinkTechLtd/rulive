@@ -16,6 +16,8 @@ https://secure-272717.tatnet.app/currenttime.akamaized.net/hls/live/currenttime/
 #EXTINF:-1 group-title="Международные" tvg-id="BBCNewsРусскаяСлужба",BBC News Русская служба
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://secure-272717.tatnet.app/bbc-news-russian.akamaized.net/hls/live/bbcrussian/playlist.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="rossia1-pl1",ИнфоКанал HD
+https://raw.githubusercontent.com/OinktechLLC/livem3u/refs/heads/main/tv/live_stream.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="rossia1-pl1",Россия 1 HD (+1)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="rossia1-pl2",Россия 1 HD (+2)
