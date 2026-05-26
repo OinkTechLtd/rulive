@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-25 23:11:04
-# Всего каналов: 16413
-# Новых за сессию: 0
+# Обновлено: 2026-05-26 01:27:02
+# Всего каналов: 16418
+# Новых за сессию: 5
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Kids
 # Каналов: 1
-# Обновлено: 2026-05-25 23:11:05
+# Обновлено: 2026-05-26 01:27:02
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ETV2" group-title="Culture;Kids",ETV2
@@ -781,3 +781,5 @@ https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8
 https://dash3.antik.sk/live/test_vita/playlist.m3u8
 #EXTINF:-1 tvg-name="TVR Cultural" group-title="Culture",TVR Cultural
 https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 tvg-name="Spacetoon Arabic (576p)" group-title="Animation;Kids",Spacetoon Arabic (576p)
+https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8

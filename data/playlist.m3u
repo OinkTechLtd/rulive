@@ -1,7 +1,7 @@
 #EXTM3U
-# Обновлено: 2026-05-25 23:11:04
-# Всего каналов: 16413
-# Новых за сессию: 0
+# Обновлено: 2026-05-26 01:27:02
+# Всего каналов: 16418
+# Новых за сессию: 5
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
@@ -7691,7 +7691,7 @@ https://secure-272717.tatnet.app/amg00353-lionsgatestudio-angermgmt-samsungau-o9
 #EXTINF:-1 tvg-name="Animation+ [Geo-blocked]" group-title="Animation",Animation+ [Geo-blocked]
 https://secure-272717.tatnet.app/pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ANIME x HIDIVE" group-title="Animation",ANIME x HIDIVE
+#EXTINF:-1 tvg-name="ANIME x HIDIVE [Geo-blocked]" group-title="Animation",ANIME x HIDIVE [Geo-blocked]
 https://secure-272717.tatnet.app/d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Antiques Roadshow PBS" group-title="Series",Antiques Roadshow PBS
@@ -41113,6 +41113,21 @@ https://iptv-org.github.io/iptv/categories/music.m3u
 
 #EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
 https://iptv-org.github.io/iptv/index.country.m3u
+
+#EXTINF:-1 tvg-name="Monroe Community Media Education Channel" group-title="Education",Monroe Community Media Education Channel
+https://secure-272717.tatnet.app/reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8
+
+#EXTINF:-1 tvg-name="Monroe Community Media Public Access Channel" group-title="General",Monroe Community Media Public Access Channel
+https://secure-272717.tatnet.app/reflect-monroe-public-access.cablecast.tv/live-3/live/live.m3u8
+
+#EXTINF:-1 tvg-name="Colors Cineplex" group-title="Movies",Colors Cineplex
+https://secure-272717.tatnet.app/149.71.34.166:8000/play/a00b/index.m3u8
+
+#EXTINF:-1 tvg-name="Movies Thriller" group-title="Movies",Movies Thriller
+https://secure-272717.tatnet.app/shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Spacetoon Arabic (576p)" group-title="Animation;Kids",Spacetoon Arabic (576p)
+https://secure-272717.tatnet.app/live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8
 
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="IPTV",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8

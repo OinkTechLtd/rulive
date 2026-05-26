@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-25 23:11:04
-# Всего каналов: 16413
-# Новых за сессию: 0
+# Обновлено: 2026-05-26 01:27:02
+# Всего каналов: 16418
+# Новых за сессию: 5
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Lifestyle;Music;News
 # Каналов: 1
-# Обновлено: 2026-05-25 23:11:05
+# Обновлено: 2026-05-26 01:27:02
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CEACOM TV" group-title="General;Lifestyle;Music;News",CEACOM TV
@@ -7911,3 +7911,5 @@ http://liveh12.vtvprime.vn/hls/HTV2/03.m3u8
 https://cdn.vegasplus.us/vegas/lasvegastonight/playlist.m3u8
 #EXTINF:-1 tvg-name="mfm" group-title="Music",mfm
 https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8
+#EXTINF:-1 tvg-name="Monroe Community Media Public Access Channel" group-title="General",Monroe Community Media Public Access Channel
+https://reflect-monroe-public-access.cablecast.tv/live-3/live/live.m3u8

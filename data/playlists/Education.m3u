@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-25 23:11:04
-# Всего каналов: 16413
-# Новых за сессию: 0
+# Обновлено: 2026-05-26 01:27:02
+# Всего каналов: 16418
+# Новых за сессию: 5
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education
-# Каналов: 186
-# Обновлено: 2026-05-25 23:11:05
+# Каналов: 187
+# Обновлено: 2026-05-26 01:27:02
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Кто есть Кто (576p)" group-title="Education",Кто есть Кто (576p)
@@ -537,6 +537,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.wikitv.asia/liv
 
 #EXTINF:-1 tvg-name="Ýaşlyk (406p)" group-title="Education",Ýaşlyk (406p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/alpha.tv.online.tm/hls/ch002.m3u8
+
+#EXTINF:-1 tvg-name="Monroe Community Media Education Channel" group-title="Education",Monroe Community Media Education Channel
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8
 
 #EXTINF:-1 tvg-name="Canal Savoir (360p)" group-title="Education",Canal Savoir (360p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls.savoir.media/live/stream.m3u8

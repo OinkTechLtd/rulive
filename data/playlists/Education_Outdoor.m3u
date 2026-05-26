@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-25 23:11:04
-# Всего каналов: 16413
-# Новых за сессию: 0
+# Обновлено: 2026-05-26 01:27:02
+# Всего каналов: 16418
+# Новых за сессию: 5
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Outdoor
 # Каналов: 2
-# Обновлено: 2026-05-25 23:11:05
+# Обновлено: 2026-05-26 01:27:02
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CCTV-17" group-title="Education;Outdoor",CCTV-17
@@ -566,3 +566,5 @@ https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
 https://alpha.tv.online.tm/hls/ch002.m3u8
 #EXTINF:-1 tvg-name="MediBizTV" group-title="Education;News;Science",MediBizTV
 https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8
+#EXTINF:-1 tvg-name="Monroe Community Media Education Channel" group-title="Education",Monroe Community Media Education Channel
+https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8
