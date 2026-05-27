@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-27 00:03:24
-# Всего каналов: 16418
-# Новых за сессию: 0
+# Обновлено: 2026-05-27 04:56:21
+# Всего каналов: 16438
+# Новых за сессию: 20
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies
-# Каналов: 374
-# Обновлено: 2026-05-27 00:03:25
+# Каналов: 376
+# Обновлено: 2026-05-27 04:56:21
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="312 Кино (406p)" group-title="Movies",312 Кино (406p)
@@ -982,6 +982,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/149.71.34.166:8000/pla
 #EXTINF:-1 tvg-name="Movies Thriller" group-title="Movies",Movies Thriller
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
 
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/103.175.73.12:8080/live/271/271_0.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/103.175.73.12:8080/live/257/257_0.m3u8
+
 #EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Movies",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi
 
@@ -1234,3 +1240,7 @@ https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd
 https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd
 #EXTINF:-1 tvg-name="like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Movies",MN+" group-title="Movies",like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Movies",MN+
 https://cdn4.skygo.mn/live/disk1/MNplus91/HLSv3-FTA/MNplus91.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Anmol Cinema (576p)" group-title="Movies",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Anmol Cinema (576p)
+http://103.175.73.12:8080/live/271/271_0.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Anmol Cinema 2 (576p)" group-title="Movies",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Anmol Cinema 2 (576p)
+http://103.175.73.12:8080/live/257/257_0.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-27 00:03:24
-# Всего каналов: 16418
-# Новых за сессию: 0
+# Обновлено: 2026-05-27 04:56:21
+# Всего каналов: 16438
+# Новых за сессию: 20
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Entertainment
 # Каналов: 2
-# Обновлено: 2026-05-27 00:03:25
+# Обновлено: 2026-05-27 04:56:21
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Charana TV (360p)" group-title="Education;Entertainment",Charana TV (360p)
@@ -1672,3 +1672,7 @@ https://xykt-fix.github.io/play/a02j/index.m3u8
 http://liveh12.vtvprime.vn/hls/HTV2/03.m3u8
 #EXTINF:-1 tvg-name="Monroe Community Media Education Channel" group-title="Education",Monroe Community Media Education Channel
 https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8
+#EXTINF:-1 tvg-name="Anjan TV" group-title="Entertainment",Anjan TV
+https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Entertainment",Anmol TV (576p)" group-title="Entertainment",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Entertainment",Anmol TV (576p)
+http://103.175.73.12:8080/live/256/256_0.m3u8

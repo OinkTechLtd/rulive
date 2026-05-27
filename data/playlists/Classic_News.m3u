@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-27 00:03:24
-# Всего каналов: 16418
-# Новых за сессию: 0
+# Обновлено: 2026-05-27 04:56:21
+# Всего каналов: 16438
+# Новых за сессию: 20
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;News
 # Каналов: 1
-# Обновлено: 2026-05-27 00:03:25
+# Обновлено: 2026-05-27 04:56:21
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ZillarBarta News" group-title="Classic;News",ZillarBarta News
@@ -2047,3 +2047,7 @@ https://d1msejlow1t3l4.cloudfront.net/fta/news1india/playlist.m3u8
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicBharat.m3u8
 #EXTINF:-1 tvg-name="Times Now Navbharat" group-title="News",Times Now Navbharat
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/TimesNowNavbharat.m3u8
+#EXTINF:-1 tvg-name="10 TV" group-title="News",10 TV
+https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
+#EXTINF:-1 tvg-name="ANB News" group-title="News",ANB News
+https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8

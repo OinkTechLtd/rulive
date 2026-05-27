@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-27 00:03:24
-# Всего каналов: 16418
-# Новых за сессию: 0
+# Обновлено: 2026-05-27 04:56:21
+# Всего каналов: 16438
+# Новых за сессию: 20
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Documentary
 # Каналов: 5
-# Обновлено: 2026-05-27 00:03:25
+# Обновлено: 2026-05-27 04:56:21
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="BBC Four [Geo-blocked]" group-title="Culture;Documentary",BBC Four [Geo-blocked]
@@ -565,3 +565,5 @@ https://dash3.antik.sk/live/test_vita/playlist.m3u8
 https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-name="Atlas (480p)" group-title="Documentary",Atlas (480p)
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
+#EXTINF:-1 tvg-name="Andy Haryana (576p)" group-title="Culture;Music",Andy Haryana (576p)
+https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8

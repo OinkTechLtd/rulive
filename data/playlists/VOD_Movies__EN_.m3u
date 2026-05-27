@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-27 00:03:24
-# Всего каналов: 16418
-# Новых за сессию: 0
+# Обновлено: 2026-05-27 04:56:21
+# Всего каналов: 16438
+# Новых за сессию: 20
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: VOD Movies (EN)
 # Каналов: 25
-# Обновлено: 2026-05-27 00:03:25
+# Обновлено: 2026-05-27 04:56:21
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="FilmRise Movies" group-title="VOD Movies (EN)",FilmRise Movies
@@ -1235,3 +1235,7 @@ https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m
 https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Movies",MN+" group-title="Movies",like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Movies",MN+
 https://cdn4.skygo.mn/live/disk1/MNplus91/HLSv3-FTA/MNplus91.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Anmol Cinema (576p)" group-title="Movies",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Anmol Cinema (576p)
+http://103.175.73.12:8080/live/271/271_0.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Anmol Cinema 2 (576p)" group-title="Movies",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Anmol Cinema 2 (576p)
+http://103.175.73.12:8080/live/257/257_0.m3u8

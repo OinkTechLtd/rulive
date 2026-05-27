@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-27 00:03:24
-# Всего каналов: 16418
-# Новых за сессию: 0
+# Обновлено: 2026-05-27 04:56:21
+# Всего каналов: 16438
+# Новых за сессию: 20
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Religious
 # Каналов: 5
-# Обновлено: 2026-05-27 00:03:25
+# Обновлено: 2026-05-27 04:56:21
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Сити Эдем ТВ Христианский" group-title="General;Religious",Сити Эдем ТВ Христианский
@@ -6013,3 +6013,9 @@ http://liveh12.vtvprime.vn/hls/HTV2/03.m3u8
 https://cdn.vegasplus.us/vegas/lasvegastonight/playlist.m3u8
 #EXTINF:-1 tvg-name="Monroe Community Media Public Access Channel" group-title="General",Monroe Community Media Public Access Channel
 https://reflect-monroe-public-access.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 tvg-name="JOEX-DTV" group-title="General",JOEX-DTV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06
+#EXTINF:-1 tvg-name="Aastha Bhajan (576p)" group-title="Religious",Aastha Bhajan (576p)
+https://mumt05.tangotv.in/87NeALx2AASTHABHAJAN/index.m3u8
+#EXTINF:-1 tvg-name="Aastha Gujarati (576p)" group-title="Religious",Aastha Gujarati (576p)
+https://mumt04.tangotv.in/m18aqlK4AASTHAGUJARATI/index.m3u8
