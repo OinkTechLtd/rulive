@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-28 00:03:27
-# Всего каналов: 16439
-# Новых за сессию: 0
+# Обновлено: 2026-05-28 04:51:14
+# Всего каналов: 16461
+# Новых за сессию: 22
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Family;Movies
 # Каналов: 7
-# Обновлено: 2026-05-28 00:03:27
+# Обновлено: 2026-05-28 04:51:14
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Rakuten TV Family Movies Germany" group-title="Family;Movies",Rakuten TV Family Movies Germany
@@ -899,3 +899,9 @@ https://cdn4.skygo.mn/live/disk1/MNplus91/HLSv3-FTA/MNplus91.m3u8
 http://103.175.73.12:8080/live/271/271_0.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Anmol Cinema 2 (576p)" group-title="Movies",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Anmol Cinema 2 (576p)
 http://103.175.73.12:8080/live/257/257_0.m3u8
+#EXTINF:-1 tvg-name="CCTV-6" group-title="Movies",CCTV-6
+http://198.204.240.250:82/live/cctv6.m3u8
+#EXTINF:-1 tvg-name="CCTV-Storm Theater" group-title="Movies",CCTV-Storm Theater
+http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV-The First Theater" group-title="Movies",CCTV-The First Theater
+http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub

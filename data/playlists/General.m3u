@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-28 00:03:27
-# Всего каналов: 16439
-# Новых за сессию: 0
+# Обновлено: 2026-05-28 04:51:14
+# Всего каналов: 16461
+# Новых за сессию: 22
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General
-# Каналов: 2273
-# Обновлено: 2026-05-28 00:03:27
+# Каналов: 2278
+# Обновлено: 2026-05-28 04:51:14
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="БелРос (576p)" group-title="General",БелРос (576p)
@@ -5098,6 +5098,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.thingnet.vn/liv
 #EXTINF:-1 tvg-name="Capital TV" group-title="General",Capital TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
 
+#EXTINF:-1 tvg-name="CCTV-4 Asia" group-title="General",CCTV-4 Asia
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/74.91.26.218:82/live/cctv4hd.m3u8
+
 #EXTINF:-1 tvg-name="Celebes TV" group-title="General",Celebes TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
 
@@ -5983,6 +5986,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.castr.com/6358a
 #EXTINF:-1 tvg-name="RTL Radio Web TV" group-title="General",RTL Radio Web TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
 
+#EXTINF:-1 tvg-name="RTP Mundo [Geo-Blocked]" group-title="General",RTP Mundo [Geo-Blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/viamotionhsi.netplus.ch/live/eds/rtpi/browser-HLS8/rtpi.m3u8
+
 #EXTINF:-1 tvg-name="RTSH 1" group-title="General",RTSH 1
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
 
@@ -6513,6 +6519,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/reflect-monroe-public-
 
 #EXTINF:-1 tvg-name="JOEX-DTV" group-title="General",JOEX-DTV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06
+
+#EXTINF:-1 tvg-name="CCTV-1" group-title="General",CCTV-1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/69.30.245.50/live/cctv1.m3u8
+
+#EXTINF:-1 tvg-name="Hebei TV (2160p)" group-title="General",Hebei TV (2160p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/event.pull.hebtv.com:443/live/live101.m3u8
+
+#EXTINF:-1 tvg-name="GTV (540p)" group-title="General",GTV (540p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/g2qd3exjy7an-hls-live.5centscdn.com/gtvghana/ghanaweb.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ОНТ (576p)" group-title="General",ОНТ (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.dc.beltelecom.by/ont/ont/playlist.m3u8

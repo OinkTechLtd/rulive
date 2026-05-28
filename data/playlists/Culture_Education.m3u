@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-28 00:03:27
-# Всего каналов: 16439
-# Новых за сессию: 0
+# Обновлено: 2026-05-28 04:51:14
+# Всего каналов: 16461
+# Новых за сессию: 22
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Education
 # Каналов: 8
-# Обновлено: 2026-05-28 00:03:27
+# Обновлено: 2026-05-28 04:51:14
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Ayeneh TV" group-title="Culture;Education",Ayeneh TV
@@ -780,3 +780,5 @@ https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlis
 https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8
 #EXTINF:-1 tvg-name="Andy Haryana (576p)" group-title="Culture;Music",Andy Haryana (576p)
 https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-World Geography" group-title="Education",CCTV-World Geography
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub

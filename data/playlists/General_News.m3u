@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-28 00:03:27
-# Всего каналов: 16439
-# Новых за сессию: 0
+# Обновлено: 2026-05-28 04:51:14
+# Всего каналов: 16461
+# Новых за сессию: 22
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;News
 # Каналов: 17
-# Обновлено: 2026-05-28 00:03:27
+# Обновлено: 2026-05-28 04:51:14
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Сочи 24" group-title="General;News",Сочи 24
@@ -5567,6 +5567,8 @@ https://live.canthotv.vn/live/tv/chunklist.m3u8
 https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="Capital TV" group-title="General",Capital TV
 https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
+#EXTINF:-1 tvg-name="CCTV-4 Asia" group-title="General",CCTV-4 Asia
+http://74.91.26.218:82/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-name="Celebes TV" group-title="General",Celebes TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Central TV" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Central TV
@@ -6151,6 +6153,8 @@ https://dvrfl06.bozztv.com/astv-djibouti/index.m3u8
 https://stream.castr.com/6358a30fa50e3ae11b6d0424/live_cbde16509c3611ed91f289dac03ffaaf/index.m3u8
 #EXTINF:-1 tvg-name="RTL Radio Web TV" group-title="General",RTL Radio Web TV
 https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
+#EXTINF:-1 tvg-name="RTP Mundo [Geo-Blocked]" group-title="General",RTP Mundo [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-HLS8/rtpi.m3u8
 #EXTINF:-1 tvg-name="RTSH 1" group-title="General",RTSH 1
 http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
 #EXTINF:-1 tvg-name="RTSH 2" group-title="General",RTSH 2
@@ -6525,3 +6529,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06
 https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
 #EXTINF:-1 tvg-name="ANB News" group-title="News",ANB News
 https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8
+#EXTINF:-1 tvg-name="Hebei TV (2160p)" group-title="General",Hebei TV (2160p)
+https://event.pull.hebtv.com:443/live/live101.m3u8
+#EXTINF:-1 tvg-name="GTV (540p)" group-title="General",GTV (540p)
+https://g2qd3exjy7an-hls-live.5centscdn.com/gtvghana/ghanaweb.stream/playlist.m3u8

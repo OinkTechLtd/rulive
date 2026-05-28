@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-28 00:03:27
-# Всего каналов: 16439
-# Новых за сессию: 0
+# Обновлено: 2026-05-28 04:51:14
+# Всего каналов: 16461
+# Новых за сессию: 22
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music
-# Каналов: 612
-# Обновлено: 2026-05-28 00:03:27
+# Каналов: 615
+# Обновлено: 2026-05-28 04:51:14
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Deluxe Music" group-title="Music",Deluxe Music
@@ -1761,6 +1761,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/view.rcserver.in/tmp_h
 
 #EXTINF:-1 tvg-name="Tabbar Hits" group-title="Music",Tabbar Hits
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8
+
+#EXTINF:-1 tvg-name="CCTV-Storm Music" group-title="Music",CCTV-Storm Music
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+
+#EXTINF:-1 tvg-name="Fairuz" group-title="Music",Fairuz
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Majid Al Mohandis" group-title="Music",Majid Al Mohandis
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/shd-amg-fast.edgenextcdn.net/tx019/playlist.m3u8
 
 #EXTINF:-1 tvg-name="City TV (576p)" group-title="Music",City TV (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.city.bg/play/tshls/citytv/index.m3u8
