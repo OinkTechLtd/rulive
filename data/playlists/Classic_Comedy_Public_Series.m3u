@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-28 23:15:52
-# Всего каналов: 16461
-# Новых за сессию: 0
+# Обновлено: 2026-05-29 01:32:32
+# Всего каналов: 16466
+# Новых за сессию: 5
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;Comedy;Public;Series
 # Каналов: 1
-# Обновлено: 2026-05-28 23:15:53
+# Обновлено: 2026-05-29 01:32:32
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="3Cat Plats bruts" group-title="Classic;Comedy;Public;Series",3Cat Plats bruts
@@ -643,3 +643,5 @@ https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202
 https://comedyhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="CCTV-Nostalgia Theater" group-title="Classic",CCTV-Nostalgia Theater
 http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="Thikrayat TV" group-title="Classic",Thikrayat TV
+https://aloula-redirect.vercel.app/3/playlist.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-28 23:15:52
-# Всего каналов: 16461
-# Новых за сессию: 0
+# Обновлено: 2026-05-29 01:32:32
+# Всего каналов: 16466
+# Новых за сессию: 5
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Classic;Entertainment;Family;Movies
 # Каналов: 1
-# Обновлено: 2026-05-28 23:15:53
+# Обновлено: 2026-05-29 01:32:32
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pro100TV (576p)" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV (576p)
@@ -2307,3 +2307,5 @@ http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV-The First Theater" group-title="Movies",CCTV-The First Theater
 http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="Thikrayat TV" group-title="Classic",Thikrayat TV
+https://aloula-redirect.vercel.app/3/playlist.m3u8

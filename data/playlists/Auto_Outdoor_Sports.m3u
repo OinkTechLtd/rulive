@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-28 23:15:52
-# Всего каналов: 16461
-# Новых за сессию: 0
+# Обновлено: 2026-05-29 01:32:32
+# Всего каналов: 16466
+# Новых за сессию: 5
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Auto;Outdoor;Sports
 # Каналов: 1
-# Обновлено: 2026-05-28 23:15:53
+# Обновлено: 2026-05-29 01:32:32
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="INTROUBLE" group-title="Auto;Outdoor;Sports",INTROUBLE
@@ -775,3 +775,9 @@ http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV-Storm Football" group-title="Sports",CCTV-Storm Football
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="KSA Sports 1" group-title="Sports",KSA Sports 1
+https://aloula-redirect.vercel.app/9/playlist.m3u8
+#EXTINF:-1 tvg-name="KSA Sports 2" group-title="Sports",KSA Sports 2
+https://aloula-redirect.vercel.app/10/playlist.m3u8
+#EXTINF:-1 tvg-name="KSA Sports 3" group-title="Sports",KSA Sports 3
+https://aloula-redirect.vercel.app/16/playlist.m3u8
