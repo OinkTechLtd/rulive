@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-29 23:50:26
-# Всего каналов: 16466
-# Новых за сессию: 0
+# Обновлено: 2026-05-30 02:53:53
+# Всего каналов: 16481
+# Новых за сессию: 15
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General
-# Каналов: 2278
-# Обновлено: 2026-05-29 23:50:27
+# Каналов: 2279
+# Обновлено: 2026-05-30 02:53:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="БелРос (576p)" group-title="General",БелРос (576p)
@@ -45,9 +45,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-spb-htlive.cdn.n
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
-
-#EXTINF:-1 tvg-name="NTV" group-title="General",NTV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=HSWg81JrQ3OqmwuWkEIDAQ&e=2077050299&scheme=https
 
 #EXTINF:-1 tvg-name="OTR (576p)" group-title="General",OTR (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tmptv.sunduk.tv/CH317/index.m3u8
@@ -6528,6 +6525,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/event.pull.hebtv.com:4
 
 #EXTINF:-1 tvg-name="GTV (540p)" group-title="General",GTV (540p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/g2qd3exjy7an-hls-live.5centscdn.com/gtvghana/ghanaweb.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ОТР (576p)" group-title="General",ОТР (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/OTR/index.m3u8
+
+#EXTINF:-1 tvg-name="Al Iraqia" group-title="General",Al Iraqia
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/imn-live.esite-lab.com/hls/iraqia-general.m3u8
 
 #EXTINF:-1 tvg-name="ОНТ (576p)" group-title="General",ОНТ (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.dc.beltelecom.by/ont/ont/playlist.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-29 23:50:26
-# Всего каналов: 16466
-# Новых за сессию: 0
+# Обновлено: 2026-05-30 02:53:53
+# Всего каналов: 16481
+# Новых за сессию: 15
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;General;Kids
 # Каналов: 1
-# Обновлено: 2026-05-29 23:50:27
+# Обновлено: 2026-05-30 02:53:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="BBC Four/CBeebies [Geo-Blocked]" group-title="Animation;General;Kids",BBC Four/CBeebies [Geo-Blocked]
@@ -215,8 +215,6 @@ https://tv.alterna.ar/stream/hls/live.m3u8
 https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
 #EXTINF:-1 tvg-name="Mama (576p)" group-title="Kids",Mama (576p)
 http://tmptv.sunduk.tv/CH155/index.m3u8
-#EXTINF:-1 tvg-name="NTV" group-title="General",NTV
-https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=HSWg81JrQ3OqmwuWkEIDAQ&e=2077050299&scheme=https
 #EXTINF:-1 tvg-name="OTR (576p)" group-title="General",OTR (576p)
 http://tmptv.sunduk.tv/CH317/index.m3u8
 #EXTINF:-1 tvg-name="Pro100TV (576p)" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV (576p)
@@ -1781,6 +1779,8 @@ https://tgn.bozztv.com/dvrfl05/gin-minikacocuk/index.m3u8
 https://tgn.bozztv.com/dvrfl05/gin-minikago/index.m3u8
 #EXTINF:-1 tvg-name="MTürk TV" group-title="General",MTürk TV
 https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="NTV" group-title="General",NTV
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 #EXTINF:-1 tvg-name="On4 TV" group-title="General",On4 TV
 https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="Öncü TV (1024p)" group-title="General",Öncü TV (1024p)
@@ -5139,3 +5139,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06
 https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 tvg-name="GTV (540p)" group-title="General",GTV (540p)
 https://g2qd3exjy7an-hls-live.5centscdn.com/gtvghana/ghanaweb.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Мама (576p)" group-title="Kids",Мама (576p)
+http://31.148.48.15/Mama/index.m3u8
+#EXTINF:-1 tvg-name="ОТР (576p)" group-title="General",ОТР (576p)
+http://31.148.48.15/OTR/index.m3u8
+#EXTINF:-1 tvg-name="Al Iraqia" group-title="General",Al Iraqia
+https://imn-live.esite-lab.com/hls/iraqia-general.m3u8

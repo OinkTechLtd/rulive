@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-29 23:50:26
-# Всего каналов: 16466
-# Новых за сессию: 0
+# Обновлено: 2026-05-30 02:53:53
+# Всего каналов: 16481
+# Новых за сессию: 15
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Movies;Series;Sports
 # Каналов: 1
-# Обновлено: 2026-05-29 23:50:27
+# Обновлено: 2026-05-30 02:53:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="USA Network East" group-title="Comedy;Movies;Series;Sports",USA Network East
@@ -265,10 +265,6 @@ https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 #EXTINF:-1 tvg-name="ESPN8 The Ocho" group-title="Sports",ESPN8 The Ocho
 https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
-#EXTINF:-1 tvg-name="KHL Prime" group-title="Sports",KHL Prime
-http://31.148.48.15/KHL_TV_HD/index.m3u8
-#EXTINF:-1 tvg-name="Kino 24" group-title="Movies",Kino 24
-http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 tvg-name="KinoHit (576p)" group-title="Movies",KinoHit (576p)
 http://tmptv.sunduk.tv/CH57/index.m3u8
 #EXTINF:-1 tvg-name="Kinokomedija (576p)" group-title="Comedy",Kinokomedija (576p)
@@ -279,10 +275,6 @@ http://tmptv.sunduk.tv/CH25/index.m3u8
 http://tmptv.sunduk.tv/CH21/index.m3u8
 #EXTINF:-1 tvg-name="Match! Boets (576p)" group-title="Sports",Match! Boets (576p)
 http://tmptv.sunduk.tv/CH51/index.m3u8
-#EXTINF:-1 tvg-name="Match! Strana" group-title="Sports",Match! Strana
-http://31.148.48.15/Match_Strana/index.m3u8
-#EXTINF:-1 tvg-name="MMA TV.com" group-title="Sports",MMA TV.com
-https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1 tvg-name="Pro100TV (576p)" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV (576p)
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-name="Rodnoe Kino (576p)" group-title="Movies",Rodnoe Kino (576p)
@@ -1911,3 +1903,15 @@ https://aloula-redirect.vercel.app/9/playlist.m3u8
 https://aloula-redirect.vercel.app/10/playlist.m3u8
 #EXTINF:-1 tvg-name="KSA Sports 3" group-title="Sports",KSA Sports 3
 https://aloula-redirect.vercel.app/16/playlist.m3u8
+#EXTINF:-1 tvg-name="viju TV1000 Русское" group-title="Movies",viju TV1000 Русское
+http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8
+#EXTINF:-1 tvg-name="Еврокино (576p)" group-title="Movies",Еврокино (576p)
+http://31.148.48.15/Evrokino/index.m3u8
+#EXTINF:-1 tvg-name="МАТЧ! Боец (576p)" group-title="Sports",МАТЧ! Боец (576p)
+http://31.148.48.15/Match_Boec/index.m3u8
+#EXTINF:-1 tvg-name="Родное Кино (576p)" group-title="Movies",Родное Кино (576p)
+http://31.148.48.15/Rodnoe_kino/index.m3u8
+#EXTINF:-1 tvg-name="Русский Экстрим (576p)" group-title="Sports",Русский Экстрим (576p)
+http://31.148.48.15/Russkiy_Ekstrim/index.m3u8
+#EXTINF:-1 tvg-name="Al Iraqia Sport" group-title="Sports",Al Iraqia Sport
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-29 23:50:26
-# Всего каналов: 16466
-# Новых за сессию: 0
+# Обновлено: 2026-05-30 02:53:53
+# Всего каналов: 16481
+# Новых за сессию: 15
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;News;Religious
 # Каналов: 1
-# Обновлено: 2026-05-29 23:50:27
+# Обновлено: 2026-05-30 02:53:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Lingkar TV" group-title="Music;News;Religious",Lingkar TV
@@ -4605,3 +4605,5 @@ http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 https://arputharyesutv.arputharyesutv.com/live/md/index.m3u8
 #EXTINF:-1 tvg-name="Joy TV" group-title="Religious",Joy TV
 https://ktismaservers.in:3412/live/joytvlive.m3u8
+#EXTINF:-1 tvg-name="Al Iraqia News" group-title="News",Al Iraqia News
+https://imn-live.esite-lab.com/hls/iraqia-news.m3u8

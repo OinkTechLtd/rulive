@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-29 23:50:26
-# Всего каналов: 16466
-# Новых за сессию: 0
+# Обновлено: 2026-05-30 02:53:53
+# Всего каналов: 16481
+# Новых за сессию: 15
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;News
 # Каналов: 17
-# Обновлено: 2026-05-29 23:50:27
+# Обновлено: 2026-05-30 02:53:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Сочи 24" group-title="General;News",Сочи 24
@@ -517,8 +517,6 @@ https://abcnews-streams.akamaized.net/hls/live/2023566/abcnewshudson7/master_400
 https://tv.alterna.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-name="Africa 24 Sport" group-title="News;Sports",Africa 24 Sport
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
-#EXTINF:-1 tvg-name="NTV" group-title="General",NTV
-https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=HSWg81JrQ3OqmwuWkEIDAQ&e=2077050299&scheme=https
 #EXTINF:-1 tvg-name="OTR (576p)" group-title="General",OTR (576p)
 http://tmptv.sunduk.tv/CH317/index.m3u8
 #EXTINF:-1 tvg-name="REN TV" group-title="General",REN TV
@@ -2639,6 +2637,8 @@ https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 #EXTINF:-1 tvg-name="MTürk TV" group-title="General",MTürk TV
 https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="NTV" group-title="General",NTV
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 #EXTINF:-1 tvg-name="Olay Türk TV Kayseri [Geo-blocked]" group-title="News",Olay Türk TV Kayseri [Geo-blocked]
 https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
 #EXTINF:-1 tvg-name="On4 TV" group-title="General",On4 TV
@@ -6533,3 +6533,9 @@ https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8
 https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 tvg-name="GTV (540p)" group-title="General",GTV (540p)
 https://g2qd3exjy7an-hls-live.5centscdn.com/gtvghana/ghanaweb.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="ОТР (576p)" group-title="General",ОТР (576p)
+http://31.148.48.15/OTR/index.m3u8
+#EXTINF:-1 tvg-name="Al Iraqia" group-title="General",Al Iraqia
+https://imn-live.esite-lab.com/hls/iraqia-general.m3u8
+#EXTINF:-1 tvg-name="Al Iraqia News" group-title="News",Al Iraqia News
+https://imn-live.esite-lab.com/hls/iraqia-news.m3u8

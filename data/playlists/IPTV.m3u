@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-29 23:50:26
-# Всего каналов: 16466
-# Новых за сессию: 0
+# Обновлено: 2026-05-30 02:53:53
+# Всего каналов: 16481
+# Новых за сессию: 15
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: IPTV
-# Каналов: 115
-# Обновлено: 2026-05-29 23:50:27
+# Каналов: 125
+# Обновлено: 2026-05-30 02:53:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="A2 CNN Albania" group-title="IPTV",A2 CNN Albania
@@ -79,11 +79,35 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/kino-stream.online/hls
 #EXTINF:-1 tvg-name="FON Music" group-title="IPTV",FON Music
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
 
+#EXTINF:-1 tvg-name="KHL Prime" group-title="IPTV",KHL Prime
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/KHL_TV_HD/index.m3u8
+
+#EXTINF:-1 tvg-name="Kino 24" group-title="IPTV",Kino 24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/sirius.greenhosting.ru/Kino24Ru/video.m3u8
+
+#EXTINF:-1 tvg-name="Leomax 24" group-title="IPTV",Leomax 24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Match! Strana" group-title="IPTV",Match! Strana
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Match_Strana/index.m3u8
+
+#EXTINF:-1 tvg-name="MMA TV.com" group-title="IPTV",MMA TV.com
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NSC+" group-title="IPTV",NSC+
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8
+
+#EXTINF:-1 tvg-name="NTV" group-title="IPTV",NTV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=HSWg81JrQ3OqmwuWkEIDAQ&e=2077050299&scheme=https
+
 #EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 
 #EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/api.peers.tv/timeshift/mosfilm_zolotaya_kollektsiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Nzg4NzEwNDQsImlhdCI6MTc3ODc4NDY0NCwiY2lkIjo2LCJ1aWQiOjEwNDQwMDQ3OTMsInJlZyI6ZmFsc2UsImlwIjozMjYwNTA5MTY3LCJhZHVsdCI6ZmFsc2V9.iA8H6oCPNr-XvMLz8dplNEvFrqcGOPxw5TjCA_4FQwc&offset=10
+
+#EXTINF:-1 tvg-name="BRIDGE Deluxe" group-title="IPTV",BRIDGE Deluxe
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Bridge_TV_HD/index.m3u8
 
 #EXTINF:-1 tvg-name="NASA TV" group-title="IPTV",NASA TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/example.com/live/nasa.m3u8
@@ -114,6 +138,12 @@ https://iptv-org.github.io/iptv/index.country.m3u
 
 #EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
 https://github.com/hujingguang/ChinaIPTV/blob/main/Russia.m3u8
+
+#EXTINF:-1 tvg-name=".sci-fi (576p)" group-title="IPTV",.sci-fi (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/SONY_SCI_FI/index.m3u8
+
+#EXTINF:-1 tvg-name="Amedia Premium" group-title="IPTV",Amedia Premium
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Amedia_Premium_HD/index.m3u8
 
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="IPTV",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8

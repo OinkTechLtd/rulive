@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-05-29 23:50:26
-# Всего каналов: 16466
-# Новых за сессию: 0
+# Обновлено: 2026-05-30 02:53:53
+# Всего каналов: 16481
+# Новых за сессию: 15
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Sports
 # Каналов: 316
-# Обновлено: 2026-05-29 23:50:27
+# Обновлено: 2026-05-30 02:53:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CBC Sport [Geo-blocked]" group-title="Sports",CBC Sport [Geo-blocked]
@@ -61,17 +61,8 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/dazn-combat-rakuten.am
 #EXTINF:-1 tvg-name="ESPN8 The Ocho" group-title="Sports",ESPN8 The Ocho
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
 
-#EXTINF:-1 tvg-name="KHL Prime" group-title="Sports",KHL Prime
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/KHL_TV_HD/index.m3u8
-
 #EXTINF:-1 tvg-name="Match! Boets (576p)" group-title="Sports",Match! Boets (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tmptv.sunduk.tv/CH51/index.m3u8
-
-#EXTINF:-1 tvg-name="Match! Strana" group-title="Sports",Match! Strana
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Match_Strana/index.m3u8
-
-#EXTINF:-1 tvg-name="MMA TV.com" group-title="Sports",MMA TV.com
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Russian Extreme (576p)" group-title="Sports",Russian Extreme (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tmptv.sunduk.tv/CH67/index.m3u8
@@ -834,6 +825,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/aloula-redirect.vercel
 
 #EXTINF:-1 tvg-name="KSA Sports 3" group-title="Sports",KSA Sports 3
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/aloula-redirect.vercel.app/16/playlist.m3u8
+
+#EXTINF:-1 tvg-name="МАТЧ! Боец (576p)" group-title="Sports",МАТЧ! Боец (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Match_Boec/index.m3u8
+
+#EXTINF:-1 tvg-name="Русский Экстрим (576p)" group-title="Sports",Русский Экстрим (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Russkiy_Ekstrim/index.m3u8
+
+#EXTINF:-1 tvg-name="Al Iraqia Sport" group-title="Sports",Al Iraqia Sport
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
 
 #EXTINF:-1 tvg-name="Беларусь 5" group-title="Sports",Беларусь 5
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8

@@ -1,20 +1,17 @@
 #EXTM3U
-# Обновлено: 2026-05-29 23:50:26
-# Всего каналов: 16466
-# Новых за сессию: 0
+# Обновлено: 2026-05-30 02:53:53
+# Всего каналов: 16481
+# Новых за сессию: 15
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies
-# Каналов: 379
-# Обновлено: 2026-05-29 23:50:27
+# Каналов: 381
+# Обновлено: 2026-05-30 02:53:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="312 Кино (406p)" group-title="Movies",312 Кино (406p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/176.126.166.43:1935/live/312kino/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Kino 24" group-title="Movies",Kino 24
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/sirius.greenhosting.ru/Kino24Ru/video.m3u8
 
 #EXTINF:-1 tvg-name="KinoHit (576p)" group-title="Movies",KinoHit (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tmptv.sunduk.tv/CH57/index.m3u8
@@ -996,6 +993,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/38.75.136.137:98/gslb/
 
 #EXTINF:-1 tvg-name="CCTV-The First Theater" group-title="Movies",CCTV-The First Theater
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+
+#EXTINF:-1 tvg-name="viju TV1000 Русское" group-title="Movies",viju TV1000 Русское
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/TV1000_Russkoe_kino/index.m3u8
+
+#EXTINF:-1 tvg-name="Еврокино (576p)" group-title="Movies",Еврокино (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Evrokino/index.m3u8
+
+#EXTINF:-1 tvg-name="Родное Кино (576p)" group-title="Movies",Родное Кино (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Rodnoe_kino/index.m3u8
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Movies",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi

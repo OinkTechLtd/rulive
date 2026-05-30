@@ -1,20 +1,17 @@
 #EXTM3U
-# Обновлено: 2026-05-29 23:50:26
-# Всего каналов: 16466
-# Новых за сессию: 0
+# Обновлено: 2026-05-30 02:53:53
+# Всего каналов: 16481
+# Новых за сессию: 15
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment
 # Каналов: 572
-# Обновлено: 2026-05-29 23:50:27
+# Обновлено: 2026-05-30 02:53:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Arte [Geo-blocked]" group-title="Entertainment",Arte [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-
-#EXTINF:-1 tvg-name="NSC+" group-title="Entertainment",NSC+
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8
 
 #EXTINF:-1 tvg-name="U" group-title="Entertainment",U
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=9cPc1rCGu6M932eqrifRhQ&e=2066519758&scheme=https
@@ -1611,6 +1608,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/anjan.vstream.online/a
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Entertainment",like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/103.175.73.12:8080/live/256/256_0.m3u8
+
+#EXTINF:-1 tvg-name="Kasterwey Media" group-title="Entertainment",Kasterwey Media
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.fansplay.tv/livestreams/45.b0JPENQx19PG2pxg.m3u8
 
 #EXTINF:-1 tvg-name="Беларусь 2" group-title="Entertainment",Беларусь 2
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
