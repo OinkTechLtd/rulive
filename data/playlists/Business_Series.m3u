@@ -1,5 +1,5 @@
 #EXTM3U
-# Обновлено: 2026-05-31 18:45:42
+# Обновлено: 2026-05-31 20:09:02
 # Всего каналов: 16483
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
@@ -7,7 +7,7 @@
 
 # Категория: Business;Series
 # Каналов: 1
-# Обновлено: 2026-05-31 18:45:43
+# Обновлено: 2026-05-31 20:09:02
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CNBC-e" group-title="Business;Series",CNBC-e
@@ -461,6 +461,8 @@ https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
 https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
 #EXTINF:-1 tvg-name="CBC Drama (576p)" group-title="Series",CBC Drama (576p)
 https://flu.systemnet.tv/CBCDrama/index.m3u8
+#EXTINF:-1 tvg-name="CNBC Arabiya" group-title="Business",CNBC Arabiya
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
 #EXTINF:-1 tvg-name="Maraya" group-title="Series",Maraya
 https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
 #EXTINF:-1 tvg-name="MBC Masr Drama" group-title="Series",MBC Masr Drama
