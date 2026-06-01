@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-01 00:14:12
-# Всего каналов: 16483
-# Новых за сессию: 0
+# Обновлено: 2026-06-01 05:26:30
+# Всего каналов: 16494
+# Новых за сессию: 11
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;Religious
 # Каналов: 6
-# Обновлено: 2026-06-01 00:14:13
+# Обновлено: 2026-06-01 05:26:30
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Муз союз (576p)" group-title="Music;Religious",Муз союз (576p)
@@ -2684,3 +2684,5 @@ http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 https://arputharyesutv.arputharyesutv.com/live/md/index.m3u8
 #EXTINF:-1 tvg-name="Joy TV" group-title="Religious",Joy TV
 https://ktismaservers.in:3412/live/joytvlive.m3u8
+#EXTINF:-1 tvg-name="Ch4Teen Documentary" group-title="Religious",Ch4Teen Documentary
+https://ch14.tv/live/ch4teendoc/playlist.m3u8

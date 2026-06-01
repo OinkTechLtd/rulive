@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-01 00:14:12
-# Всего каналов: 16483
-# Новых за сессию: 0
+# Обновлено: 2026-06-01 05:26:30
+# Всего каналов: 16494
+# Новых за сессию: 11
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;Series
 # Каналов: 10
-# Обновлено: 2026-06-01 00:14:13
+# Обновлено: 2026-06-01 05:26:30
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Ebony TV by Lionsgate" group-title="Movies;Series",Ebony TV by Lionsgate
@@ -1172,3 +1172,7 @@ http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8
 http://31.148.48.15/Evrokino/index.m3u8
 #EXTINF:-1 tvg-name="Родное Кино (576p)" group-title="Movies",Родное Кино (576p)
 http://31.148.48.15/Rodnoe_kino/index.m3u8
+#EXTINF:-1 tvg-name="All Reality We TV [Geo-blocked]" group-title="Series",All Reality We TV [Geo-blocked]
+https://pb-6pmy4e08w6rny.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-name="The Walking Dead Universe [Geo-blocked]" group-title="Series",The Walking Dead Universe [Geo-blocked]
+https://pb-7ien6yaxy2am1.akamaized.net/playlist.m3u8

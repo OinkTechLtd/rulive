@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-01 00:14:12
-# Всего каналов: 16483
-# Новых за сессию: 0
+# Обновлено: 2026-06-01 05:26:30
+# Всего каналов: 16494
+# Новых за сессию: 11
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;News;Shop
 # Каналов: 1
-# Обновлено: 2026-06-01 00:14:13
+# Обновлено: 2026-06-01 05:26:30
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Extra ProNews (576p)" group-title="Entertainment;News;Shop",Extra ProNews (576p)
@@ -3295,3 +3295,5 @@ http://103.175.73.12:8080/live/256/256_0.m3u8
 https://live.fansplay.tv/livestreams/45.b0JPENQx19PG2pxg.m3u8
 #EXTINF:-1 tvg-name="Al Iraqia News" group-title="News",Al Iraqia News
 https://imn-live.esite-lab.com/hls/iraqia-news.m3u8
+#EXTINF:-1 tvg-name="Euronews German" group-title="News",Euronews German
+https://575b7833.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0RldXRzY2hfSExT/playlist.m3u8
