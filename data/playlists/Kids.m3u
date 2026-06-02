@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-01 23:03:00
-# Всего каналов: 16494
-# Новых за сессию: 0
+# Обновлено: 2026-06-02 01:59:12
+# Всего каналов: 16545
+# Новых за сессию: 51
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids
-# Каналов: 174
-# Обновлено: 2026-06-01 23:03:01
+# Каналов: 176
+# Обновлено: 2026-06-02 01:59:13
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Mama (576p)" group-title="Kids",Mama (576p)
@@ -471,6 +471,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/streams2.sofast.tv/v1/
 
 #EXTINF:-1 tvg-name="Мама (576p)" group-title="Kids",Мама (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Mama/index.m3u8
+
+#EXTINF:-1 tvg-name="CBBC [Geo-blocked]" group-title="Kids",CBBC [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/hevc_iptv_mse_v0.mpd
+
+#EXTINF:-1 tvg-name="CBeebies [Geo-blocked]" group-title="Kids",CBeebies [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/hevc_iptv_mse_v0.mpd
 
 #EXTINF:-1 tvg-name="TNT Kids (288p)" group-title="Kids",TNT Kids (288p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/restreamer1.tnt.ba/hls/tntkids.m3u8

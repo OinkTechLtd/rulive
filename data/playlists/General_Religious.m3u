@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-01 23:03:00
-# Всего каналов: 16494
-# Новых за сессию: 0
+# Обновлено: 2026-06-02 01:59:12
+# Всего каналов: 16545
+# Новых за сессию: 51
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Religious
 # Каналов: 5
-# Обновлено: 2026-06-01 23:03:01
+# Обновлено: 2026-06-02 01:59:13
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Сити Эдем ТВ Христианский" group-title="General;Religious",Сити Эдем ТВ Христианский
@@ -6037,3 +6037,5 @@ http://31.148.48.15/OTR/index.m3u8
 https://imn-live.esite-lab.com/hls/iraqia-general.m3u8
 #EXTINF:-1 tvg-name="Ch4Teen Documentary" group-title="Religious",Ch4Teen Documentary
 https://ch14.tv/live/ch4teendoc/playlist.m3u8
+#EXTINF:-1 tvg-name="Simon [Geo-blocked]" group-title="General",Simon [Geo-blocked]
+https://hls.simon.ua/live-HD/live/playlist.m3u8
