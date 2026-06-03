@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-03 00:12:07
-# Всего каналов: 16545
-# Новых за сессию: 0
+# Обновлено: 2026-06-03 05:27:17
+# Всего каналов: 16562
+# Новых за сессию: 17
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment
-# Каналов: 574
-# Обновлено: 2026-06-03 00:12:07
+# Каналов: 577
+# Обновлено: 2026-06-03 05:27:18
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Arte [Geo-blocked]" group-title="Entertainment",Arte [Geo-blocked]
@@ -1617,6 +1617,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/aegis-cloudfront-1.tub
 
 #EXTINF:-1 tvg-name="Stories by AMC" group-title="Entertainment",Stories by AMC
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Svarozhychy" group-title="Entertainment",Svarozhychy
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/iptv.prosto.tv/ch168/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=178.136.40.86&id=742347&secret=vu2y5m72&e=1783001230&st=qEu2rz6Y32Q9vvupQDSuvA
+
+#EXTINF:-1 tvg-name="ROCK Action" group-title="Entertainment",ROCK Action
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/indihuy.streamized.net/atm/DASH/ROCK_ACTION/manifest.mpd
+
+#EXTINF:-1 tvg-name="ROCK Entertainment" group-title="Entertainment",ROCK Entertainment
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/indihuy.streamized.net/atm/DASH/rock_entertainment/manifest.mpd
 
 #EXTINF:-1 tvg-name="Беларусь 2" group-title="Entertainment",Беларусь 2
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-03 00:12:07
-# Всего каналов: 16545
-# Новых за сессию: 0
+# Обновлено: 2026-06-03 05:27:17
+# Всего каналов: 16562
+# Новых за сессию: 17
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Science
 # Каналов: 1
-# Обновлено: 2026-06-03 00:12:07
+# Обновлено: 2026-06-03 05:27:18
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ЭлТР Билим Илим (480p)" group-title="Kids;Science",ЭлТР Билим Илим (480p)
@@ -495,3 +495,5 @@ https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlis
 https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8
 #EXTINF:-1 tvg-name="Мама (576p)" group-title="Kids",Мама (576p)
 http://31.148.48.15/Mama/index.m3u8
+#EXTINF:-1 tvg-name="MAX Kids" group-title="Kids",MAX Kids
+https://indihuy.streamized.net/atm/DASH/indikids/manifest.mpd

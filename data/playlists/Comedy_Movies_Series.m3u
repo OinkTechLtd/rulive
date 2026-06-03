@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-03 00:12:07
-# Всего каналов: 16545
-# Новых за сессию: 0
+# Обновлено: 2026-06-03 05:27:17
+# Всего каналов: 16562
+# Новых за сессию: 17
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Movies;Series
 # Каналов: 1
-# Обновлено: 2026-06-03 00:12:07
+# Обновлено: 2026-06-03 05:27:18
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Universal Comedy (480p)" group-title="Comedy;Movies;Series",Universal Comedy (480p)
@@ -1269,3 +1269,5 @@ http://31.148.48.15/Rodnoe_kino/index.m3u8
 https://pb-6pmy4e08w6rny.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-name="The Walking Dead Universe [Geo-blocked]" group-title="Series",The Walking Dead Universe [Geo-blocked]
 https://pb-7ien6yaxy2am1.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-name="Europa Europa" group-title="Series",Europa Europa
+http://181.119.93.83:8000/play/a1sr/index.m3u8

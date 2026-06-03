@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-03 00:12:07
-# Всего каналов: 16545
-# Новых за сессию: 0
+# Обновлено: 2026-06-03 05:27:17
+# Всего каналов: 16562
+# Новых за сессию: 17
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;Music
 # Каналов: 3
-# Обновлено: 2026-06-03 00:12:07
+# Обновлено: 2026-06-03 05:27:18
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Shemaroo Filmi Gaane" group-title="Movies;Music",Shemaroo Filmi Gaane
@@ -2093,3 +2093,7 @@ http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8
 http://31.148.48.15/Evrokino/index.m3u8
 #EXTINF:-1 tvg-name="Родное Кино (576p)" group-title="Movies",Родное Кино (576p)
 http://31.148.48.15/Rodnoe_kino/index.m3u8
+#EXTINF:-1 tvg-name="Muzvar" group-title="Music",Muzvar
+https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Prambors" group-title="Music",Prambors
+https://indihuy.streamized.net/atm/DASH/pramborstv/manifest.mpd
