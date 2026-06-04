@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-04 00:14:27
-# Всего каналов: 16562
-# Новых за сессию: 0
+# Обновлено: 2026-06-04 05:22:34
+# Всего каналов: 16588
+# Новых за сессию: 26
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Lifestyle
 # Каналов: 2
-# Обновлено: 2026-06-04 00:14:27
+# Обновлено: 2026-06-04 05:22:34
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Доктор" group-title="Education;Lifestyle",Доктор
@@ -654,3 +654,5 @@ http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV-World Geography" group-title="Education",CCTV-World Geography
 http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="UA Fashion TV" group-title="Lifestyle",UA Fashion TV
+https://iptv.prosto.tv/ch216/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=178.136.40.86&id=742347&secret=vu2y5m72&e=1783109682&st=xTgqNzpx4NJPo6cfuf5oLA

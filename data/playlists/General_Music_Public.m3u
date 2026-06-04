@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-04 00:14:27
-# Всего каналов: 16562
-# Новых за сессию: 0
+# Обновлено: 2026-06-04 05:22:34
+# Всего каналов: 16588
+# Новых за сессию: 26
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Music;Public
 # Каналов: 1
-# Обновлено: 2026-06-04 00:14:27
+# Обновлено: 2026-06-04 05:22:34
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="FomixTV" group-title="General;Music;Public",FomixTV
@@ -4581,7 +4581,7 @@ https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.m3u8
 https://shd-amg-fast-btpls.shahid.net/tx002/playlist.m3u8
 #EXTINF:-1 tvg-name="Tele Liban" group-title="General",Tele Liban
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
-#EXTINF:-1 tvg-name="Wanasah" group-title="Music",Wanasah
+#EXTINF:-1 tvg-name="MBC Mood" group-title="Music",MBC Mood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
 #EXTINF:-1 tvg-name="Wasat TV" group-title="General",Wasat TV
 https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/playlist.m3u8
@@ -5937,3 +5937,13 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8
 https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
 #EXTINF:-1 tvg-name="Prambors" group-title="Music",Prambors
 https://indihuy.streamized.net/atm/DASH/pramborstv/manifest.mpd
+#EXTINF:-1 tvg-name="RTVi (450p)" group-title="General",RTVi (450p)
+https://s70378.cdn.ngenix.net/rtvi/index.m3u8
+#EXTINF:-1 tvg-name="EU Music" group-title="Music",EU Music
+https://iptv.prosto.tv/ch134/tracks-v2a1/1.m3u8?21yo=1&live=1&ip=104.28.156.59&id=742347&secret=vu2y5m72&ses=ca0cfbf5db9d8003&uid=vu2y5m72&cs_track=false&e=1782900912&st=j-Ja2visdxrjH_8haQZjNg
+#EXTINF:-1 tvg-name="Suspilne. Zaporizhzhya" group-title="General",Suspilne. Zaporizhzhya
+https://iptv.prosto.tv/ch187/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=5.63.189.224&id=921239&secret=z6vxuhnm&e=1783094937&st=EzFtzQG2T03aIIo4Sdn-OQ
+#EXTINF:-1 tvg-name="Suspilne. Zhytomyr" group-title="General",Suspilne. Zhytomyr
+https://iptv.prosto.tv/ch183/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=5.63.189.224&id=921239&secret=z6vxuhnm&e=1783094567&st=eSKzulrNBzvGLO-irrW1Fg
+#EXTINF:-1 tvg-name="Music Box Polska [Geo-blocked]" group-title="Music",Music Box Polska [Geo-blocked]
+https://vs2133.vcdn.biz/0f0f85e2ea3607b5c396ef68d55c3168_megogo/live/hls/b/4000/u_sid/0/o/156751011/rsid/062147ff-ed0c-4d9c-a131-2bf42026e640/u_uid/0/u_vod/1/u_device/embed_all/u_devicekey/_embed_web/lip/57.128.235.172*asn/type.live/playlist.m3u8

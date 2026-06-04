@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-04 00:14:27
-# Всего каналов: 16562
-# Новых за сессию: 0
+# Обновлено: 2026-06-04 05:22:34
+# Всего каналов: 16588
+# Новых за сессию: 26
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;Comedy;Public;Series
 # Каналов: 1
-# Обновлено: 2026-06-04 00:14:27
+# Обновлено: 2026-06-04 05:22:34
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="3Cat Plats bruts" group-title="Classic;Comedy;Public;Series",3Cat Plats bruts
@@ -651,3 +651,9 @@ https://pb-6pmy4e08w6rny.akamaized.net/playlist.m3u8
 https://pb-7ien6yaxy2am1.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-name="Europa Europa" group-title="Series",Europa Europa
 http://181.119.93.83:8000/play/a1sr/index.m3u8
+#EXTINF:-1 tvg-name="New TV Comprehensive" group-title="Entertainment;Series",New TV Comprehensive
+https://indihuy.streamized.net/atm/DASH/newtvcomprehensive/manifest.mpd
+#EXTINF:-1 tvg-name="New TV Finance" group-title="Entertainment;Series",New TV Finance
+https://indihuy.streamized.net/atm/DASH/newtvfinance/manifest.mpd
+#EXTINF:-1 tvg-name="New TV Variety" group-title="Entertainment;Series",New TV Variety
+https://indihuy.streamized.net/atm/DASH/newtvvariety/manifest.mpd

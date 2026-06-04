@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-04 00:14:27
-# Всего каналов: 16562
-# Новых за сессию: 0
+# Обновлено: 2026-06-04 05:22:34
+# Всего каналов: 16588
+# Новых за сессию: 26
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Travel
 # Каналов: 1
-# Обновлено: 2026-06-04 00:14:27
+# Обновлено: 2026-06-04 05:22:34
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Chile Channel" group-title="Entertainment;Travel",Chile Channel
@@ -1315,3 +1315,9 @@ http://103.175.73.12:8080/live/256/256_0.m3u8
 https://live.fansplay.tv/livestreams/45.b0JPENQx19PG2pxg.m3u8
 #EXTINF:-1 tvg-name="Svarozhychy" group-title="Entertainment",Svarozhychy
 https://iptv.prosto.tv/ch168/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=178.136.40.86&id=742347&secret=vu2y5m72&e=1783001230&st=qEu2rz6Y32Q9vvupQDSuvA
+#EXTINF:-1 tvg-name="New TV Comprehensive" group-title="Entertainment;Series",New TV Comprehensive
+https://indihuy.streamized.net/atm/DASH/newtvcomprehensive/manifest.mpd
+#EXTINF:-1 tvg-name="New TV Finance" group-title="Entertainment;Series",New TV Finance
+https://indihuy.streamized.net/atm/DASH/newtvfinance/manifest.mpd
+#EXTINF:-1 tvg-name="New TV Variety" group-title="Entertainment;Series",New TV Variety
+https://indihuy.streamized.net/atm/DASH/newtvvariety/manifest.mpd

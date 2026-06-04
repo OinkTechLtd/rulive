@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-04 00:14:27
-# Всего каналов: 16562
-# Новых за сессию: 0
+# Обновлено: 2026-06-04 05:22:34
+# Всего каналов: 16588
+# Новых за сессию: 26
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment
 # Каналов: 577
-# Обновлено: 2026-06-04 00:14:27
+# Обновлено: 2026-06-04 05:22:34
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Arte [Geo-blocked]" group-title="Entertainment",Arte [Geo-blocked]
@@ -1867,3 +1867,9 @@ https://backend-server-dot-telearuba-app.appspot.com/media/livestream23/playlist
 http://liveh12.vtvprime.vn/hls/HTV2/03.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Entertainment",Anmol TV (576p)" group-title="Entertainment",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Entertainment",Anmol TV (576p)
 http://103.175.73.12:8080/live/256/256_0.m3u8
+#EXTINF:-1 tvg-name="New TV Comprehensive" group-title="Entertainment;Series",New TV Comprehensive
+https://indihuy.streamized.net/atm/DASH/newtvcomprehensive/manifest.mpd
+#EXTINF:-1 tvg-name="New TV Finance" group-title="Entertainment;Series",New TV Finance
+https://indihuy.streamized.net/atm/DASH/newtvfinance/manifest.mpd
+#EXTINF:-1 tvg-name="New TV Variety" group-title="Entertainment;Series",New TV Variety
+https://indihuy.streamized.net/atm/DASH/newtvvariety/manifest.mpd

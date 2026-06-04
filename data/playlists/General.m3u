@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-04 00:14:27
-# Всего каналов: 16562
-# Новых за сессию: 0
+# Обновлено: 2026-06-04 05:22:34
+# Всего каналов: 16588
+# Новых за сессию: 26
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General
-# Каналов: 2301
-# Обновлено: 2026-06-04 00:14:27
+# Каналов: 2304
+# Обновлено: 2026-06-04 05:22:34
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="БелРос (576p)" group-title="General",БелРос (576p)
@@ -6597,6 +6597,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn15.live-tv.cloud/ua
 
 #EXTINF:-1 tvg-name="MNCTV" group-title="General",MNCTV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/indihuy.streamized.net/atm/DASH/mnctv/manifest.mpd
+
+#EXTINF:-1 tvg-name="RTVi (450p)" group-title="General",RTVi (450p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s70378.cdn.ngenix.net/rtvi/index.m3u8
+
+#EXTINF:-1 tvg-name="Suspilne. Zaporizhzhya" group-title="General",Suspilne. Zaporizhzhya
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/iptv.prosto.tv/ch187/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=5.63.189.224&id=921239&secret=z6vxuhnm&e=1783094937&st=EzFtzQG2T03aIIo4Sdn-OQ
+
+#EXTINF:-1 tvg-name="Suspilne. Zhytomyr" group-title="General",Suspilne. Zhytomyr
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/iptv.prosto.tv/ch183/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=5.63.189.224&id=921239&secret=z6vxuhnm&e=1783094567&st=eSKzulrNBzvGLO-irrW1Fg
 
 #EXTINF:-1 tvg-name="ОНТ (576p)" group-title="General",ОНТ (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.dc.beltelecom.by/ont/ont/playlist.m3u8

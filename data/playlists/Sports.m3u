@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-04 00:14:27
-# Всего каналов: 16562
-# Новых за сессию: 0
+# Обновлено: 2026-06-04 05:22:34
+# Всего каналов: 16588
+# Новых за сессию: 26
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Sports
-# Каналов: 321
-# Обновлено: 2026-06-04 00:14:27
+# Каналов: 326
+# Обновлено: 2026-06-04 05:22:34
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CBC Sport [Geo-blocked]" group-title="Sports",CBC Sport [Geo-blocked]
@@ -846,6 +846,21 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/svs.itworkscdn.net/smc
 
 #EXTINF:-1 tvg-name="Sportitalia" group-title="Sports",Sportitalia
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS XTRA" group-title="Sports",beIN SPORTS XTRA
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/bein-xtra-bein.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Real Madrid TV (404p)" group-title="Sports",Real Madrid TV (404p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 tvg-name="TAP Edge (480p) [Geo-blocked]" group-title="Sports",TAP Edge (480p) [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cignalplaymaxphcorner.vwgsalvador.workers.dev/conv_local_tap_edge/cplaymax/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MAX Sports" group-title="Sports",MAX Sports
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/indihuy.streamized.net/atm/DASH/useesport/manifest.mpd
+
+#EXTINF:-1 tvg-name="T Sports" group-title="Sports",T Sports
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvsen7.aynaott.com/tsportsfhd/index.m3u8
 
 #EXTINF:-1 tvg-name="Беларусь 5" group-title="Sports",Беларусь 5
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8

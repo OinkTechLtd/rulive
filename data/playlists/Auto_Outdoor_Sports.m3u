@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-04 00:14:27
-# Всего каналов: 16562
-# Новых за сессию: 0
+# Обновлено: 2026-06-04 05:22:34
+# Всего каналов: 16588
+# Новых за сессию: 26
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Auto;Outdoor;Sports
 # Каналов: 1
-# Обновлено: 2026-06-04 00:14:27
+# Обновлено: 2026-06-04 05:22:34
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="INTROUBLE" group-title="Auto;Outdoor;Sports",INTROUBLE
@@ -791,3 +791,11 @@ https://aegis-cloudfront-1.tubi.video/6009b36d-1660-4a24-b1b9-f4d3371b352e/playl
 https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
 #EXTINF:-1 tvg-name="Sin Po TV" group-title="News;Sports",Sin Po TV
 https://indihuy.streamized.net/atm/DASH/sinpotv/manifest.mpd
+#EXTINF:-1 tvg-name="beIN SPORTS XTRA" group-title="Sports",beIN SPORTS XTRA
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Real Madrid TV (404p)" group-title="Sports",Real Madrid TV (404p)
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-name="TAP Edge (480p) [Geo-blocked]" group-title="Sports",TAP Edge (480p) [Geo-blocked]
+https://cignalplaymaxphcorner.vwgsalvador.workers.dev/conv_local_tap_edge/cplaymax/playlist.m3u8
+#EXTINF:-1 tvg-name="MAX Sports" group-title="Sports",MAX Sports
+https://indihuy.streamized.net/atm/DASH/useesport/manifest.mpd
