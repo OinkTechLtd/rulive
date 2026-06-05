@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-04 23:46:37
-# Всего каналов: 16588
-# Новых за сессию: 0
+# Обновлено: 2026-06-05 03:36:16
+# Всего каналов: 16592
+# Новых за сессию: 4
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;Religious
 # Каналов: 1
-# Обновлено: 2026-06-04 23:46:37
+# Обновлено: 2026-06-05 03:36:17
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ABN Bible Movies" group-title="Movies;Religious",ABN Bible Movies
@@ -2247,3 +2247,5 @@ http://202.70.146.135:8000/play/a008/index.m3u8
 http://181.119.93.83:8000/play/a1jw/index.m3u8
 #EXTINF:-1 tvg-name="MAX Reels" group-title="Movies",MAX Reels
 https://indihuy.streamized.net/atm/DASH/useeprime/manifest.mpd
+#EXTINF:-1 tvg-name="BCN TV" group-title="Religious",BCN TV
+https://live.bcntv.org/live/bcn_16_9.m3u8

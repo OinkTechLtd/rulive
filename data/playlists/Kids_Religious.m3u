@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-04 23:46:37
-# Всего каналов: 16588
-# Новых за сессию: 0
+# Обновлено: 2026-06-05 03:36:16
+# Всего каналов: 16592
+# Новых за сессию: 4
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Religious
 # Каналов: 5
-# Обновлено: 2026-06-04 23:46:37
+# Обновлено: 2026-06-05 03:36:17
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Christian Youth Channel (CYC)" group-title="Kids;Religious",Christian Youth Channel (CYC)
@@ -1867,3 +1867,5 @@ https://ch14.tv/live/ch4teendoc/playlist.m3u8
 https://indihuy.streamized.net/atm/DASH/indikids/manifest.mpd
 #EXTINF:-1 tvg-name="Lale" group-title="Kids",Lale
 https://iptv.prosto.tv/ch77/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=178.136.40.86&id=742347&secret=vu2y5m72&e=1783084689&st=rPsumttSTQSUM-5DQx9lzw
+#EXTINF:-1 tvg-name="BCN TV" group-title="Religious",BCN TV
+https://live.bcntv.org/live/bcn_16_9.m3u8
