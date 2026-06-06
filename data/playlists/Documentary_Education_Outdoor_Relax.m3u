@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-06 00:07:17
-# Всего каналов: 16592
-# Новых за сессию: 0
+# Обновлено: 2026-06-06 04:37:41
+# Всего каналов: 16675
+# Новых за сессию: 83
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Education;Outdoor;Relax
 # Каналов: 1
-# Обновлено: 2026-06-06 00:07:17
+# Обновлено: 2026-06-06 04:37:41
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="WildEarth" group-title="Documentary;Education;Outdoor;Relax",WildEarth
@@ -807,3 +807,7 @@ https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV-World Geography" group-title="Education",CCTV-World Geography
 http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="Rybalka" group-title="Outdoor",Rybalka
+https://iptv.prosto.tv/ch88/tracks-v1a1/0.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&ses=022341aa72e7f9f5&uid=9szoe89y&cs_track=false&e=1783162403&st=BO0a5dZP4ZX9tKTz6QEbOw
+#EXTINF:-1 tvg-name="TV8" group-title="Documentary;News",TV8
+http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/2454/index.m3u8

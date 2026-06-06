@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-06 00:07:17
-# Всего каналов: 16592
-# Новых за сессию: 0
+# Обновлено: 2026-06-06 04:37:41
+# Всего каналов: 16675
+# Новых за сессию: 83
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General
-# Каналов: 2305
-# Обновлено: 2026-06-06 00:07:17
+# Каналов: 2329
+# Обновлено: 2026-06-06 04:37:41
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="БелРос (576p)" group-title="General",БелРос (576p)
@@ -45,6 +45,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-nw-spb-htlive.cdn.n
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
+
+#EXTINF:-1 tvg-name="NTV" group-title="General",NTV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=HSWg81JrQ3OqmwuWkEIDAQ&e=2077050299&scheme=https
 
 #EXTINF:-1 tvg-name="OTR (576p)" group-title="General",OTR (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tmptv.sunduk.tv/CH317/index.m3u8
@@ -6541,7 +6544,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/vs-cmaf-pushb-uk-live.
 #EXTINF:-1 tvg-name="BBC One East [Geo-blocked]" group-title="General",BBC One East [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/hevc_iptv_mse_v0.mpd
 
-#EXTINF:-1 tvg-name="BBC One East Midlands [Geo-blocked]" group-title="General",BBC One East Midlands [Geo-blocked]
+#EXTINF:-1 tvg-name="BBC One East Midlands (HEVC) [Geo-blocked]" group-title="General",BBC One East Midlands (HEVC) [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/hevc_iptv_mse_v0.mpd
 
 #EXTINF:-1 tvg-name="BBC One East Yorkshire [Geo-blocked]" group-title="General",BBC One East Yorkshire [Geo-blocked]
@@ -6550,13 +6553,13 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/vs-cmaf-pushb-uk-live.
 #EXTINF:-1 tvg-name="BBC One London [Geo-blocked]" group-title="General",BBC One London [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/hevc_iptv_mse_v0.mpd
 
-#EXTINF:-1 tvg-name="BBC One North East [Geo-blocked]" group-title="General",BBC One North East [Geo-blocked]
+#EXTINF:-1 tvg-name="BBC One North East (HEVC) [Geo-blocked]" group-title="General",BBC One North East (HEVC) [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/hevc_iptv_mse_v0.mpd
 
-#EXTINF:-1 tvg-name="BBC One North West [Geo-blocked]" group-title="General",BBC One North West [Geo-blocked]
+#EXTINF:-1 tvg-name="BBC One North West (HEVC) [Geo-blocked]" group-title="General",BBC One North West (HEVC) [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/hevc_iptv_mse_v0.mpd
 
-#EXTINF:-1 tvg-name="BBC One Northern Ireland [Geo-blocked]" group-title="General",BBC One Northern Ireland [Geo-blocked]
+#EXTINF:-1 tvg-name="BBC One Northern Ireland (HEVC) [Geo-blocked]" group-title="General",BBC One Northern Ireland (HEVC) [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/hevc_iptv_mse_v0.mpd
 
 #EXTINF:-1 tvg-name="BBC One Scotland [Geo-blocked]" group-title="General",BBC One Scotland [Geo-blocked]
@@ -6609,6 +6612,75 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/iptv.prosto.tv/ch183/t
 
 #EXTINF:-1 tvg-name="Antena 3 Internacional" group-title="General",Antena 3 Internacional
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/177.10.184.193:8000/play/a06a/index.m3u8
+
+#EXTINF:-1 tvg-name="Suspilne. Mykolaiv" group-title="General",Suspilne. Mykolaiv
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/iptv.prosto.tv/ch211/tracks-v1a1/mono.m3u8?live=1&ip=5.63.189.224&id=921239&secret=f8z1l7gk&21yo=0&e=1783194414&st=Lz1QtjfblUmkawUbk1Mx6w
+
+#EXTINF:-1 tvg-name="Suspilne. Rivne" group-title="General",Suspilne. Rivne
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/iptv.prosto.tv/ch229/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=5.63.189.224&id=921239&secret=f8z1l7gk&e=1783195240&st=4RqJ6hzZ9REJQe0f8U3fTw
+
+#EXTINF:-1 tvg-name="Suspilne. Vinnytsia" group-title="General",Suspilne. Vinnytsia
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/iptv.prosto.tv/ch188/tracks-v1a1/mono.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&21yo=0&e=1783247585&st=u4uN-dkUOQb4cDe7lNCaeg
+
+#EXTINF:-1 tvg-name="Belarus-1" group-title="General",Belarus-1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/edge51.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w1701491008_b5160000_sleng.m3u8
+
+#EXTINF:-1 tvg-name="JORX-DTV" group-title="General",JORX-DTV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tbs5.mov3.co/hls/tbs.m3u8
+
+#EXTINF:-1 tvg-name="Nippon TV (540p)" group-title="General",Nippon TV (540p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ntv4.mov3.co/hls/ntv.m3u8
+
+#EXTINF:-1 tvg-name="BBC One" group-title="General",BBC One
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8
+
+#EXTINF:-1 tvg-name="BBC One Channel Islands [Geo-blocked]" group-title="General",BBC One Channel Islands [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/pc_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-name="BBC One East [Geo-blocked]" group-title="General",BBC One East [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/pc_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-name="BBC One East [Geo-blocked]" group-title="General",BBC One East [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/pc_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-name="BBC One Scotland [Geo-blocked]" group-title="General",BBC One Scotland [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/pc_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-name="BBC One South [Geo-blocked]" group-title="General",BBC One South [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south/pc_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-name="BBC One South East [Geo-blocked]" group-title="General",BBC One South East [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_east/pc_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-name="BBC One South West [Geo-blocked]" group-title="General",BBC One South West [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_west/pc_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-name="BBC One Wales [Geo-blocked]" group-title="General",BBC One Wales [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/pc_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-name="BBC One West [Geo-blocked]" group-title="General",BBC One West [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west/pc_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-name="BBC One West Midlands [Geo-blocked]" group-title="General",BBC One West Midlands [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west_midlands/pc_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-name="BBC Three [Geo-blocked]" group-title="General",BBC Three [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
+
+#EXTINF:-1 tvg-name="BBC Two Northern Ireland [Geo-blocked]" group-title="General",BBC Two Northern Ireland [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/iptv_hd_abr_v1.mpd
+
+#EXTINF:-1 tvg-name="BBC Two Wales [Geo-blocked]" group-title="General",BBC Two Wales [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/iptv_hd_abr_v1.mpd
+
+#EXTINF:-1 tvg-name="Al Aoula" group-title="General",Al Aoula
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-lb.livemediama.com/alaoula-tnt/hls/master.m3u8
+
+#EXTINF:-1 tvg-name="Al Aoula Inter" group-title="General",Al Aoula Inter
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-lb.livemediama.com/alaoula/hls/master.m3u8
+
+#EXTINF:-1 tvg-name="2M Monde" group-title="General",2M Monde
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-lb.livemediama.com/2m/hls/master.m3u8
 
 #EXTINF:-1 tvg-name="ОНТ (576p)" group-title="General",ОНТ (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.dc.beltelecom.by/ont/ont/playlist.m3u8
@@ -7205,3 +7277,5 @@ https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd
 https://cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/DASH-FTA/SoyonGegeeruulegch.mpd
 #EXTINF:-1 tvg-name="HTV2" group-title="Entertainment;General",HTV2
 http://liveh12.vtvprime.vn/hls/HTV2/03.m3u8
+#EXTINF:-1 tvg-name="Super+" group-title="Entertainment;General",Super+
+https://iptv.prosto.tv/ch382/tracks-v1a1/1.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&ses=365ec247746bd22d&uid=9szoe89y&cs_track=false&e=1783162263&st=9GLxg7DNUXR_MCB9X30Qew

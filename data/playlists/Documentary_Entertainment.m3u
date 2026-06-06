@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-06 00:07:17
-# Всего каналов: 16592
-# Новых за сессию: 0
+# Обновлено: 2026-06-06 04:37:41
+# Всего каналов: 16675
+# Новых за сессию: 83
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Entertainment
 # Каналов: 1
-# Обновлено: 2026-06-06 00:07:17
+# Обновлено: 2026-06-06 04:37:41
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="The Nest" group-title="Documentary;Entertainment",The Nest
@@ -55,6 +55,8 @@ https://30a-tv.com/loomer.m3u8
 https://tv.alterna.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-name="Đồng Nai 2 (480p)" group-title="Entertainment;Sports",Đồng Nai 2 (480p)
 http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="NSC+" group-title="Entertainment",NSC+
+https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8
 #EXTINF:-1 tvg-name="Pro100TV (576p)" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV (576p)
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-name="RT Documentary Russian" group-title="Documentary",RT Documentary Russian
@@ -1465,3 +1467,11 @@ https://indihuy.streamized.net/atm/DASH/newtvcomprehensive/manifest.mpd
 https://indihuy.streamized.net/atm/DASH/newtvfinance/manifest.mpd
 #EXTINF:-1 tvg-name="New TV Variety" group-title="Entertainment;Series",New TV Variety
 https://indihuy.streamized.net/atm/DASH/newtvvariety/manifest.mpd
+#EXTINF:-1 tvg-name="Super+" group-title="Entertainment;General",Super+
+https://iptv.prosto.tv/ch382/tracks-v1a1/1.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&ses=365ec247746bd22d&uid=9szoe89y&cs_track=false&e=1783162263&st=9GLxg7DNUXR_MCB9X30Qew
+#EXTINF:-1 tvg-name="ETB2 On" group-title="Entertainment",ETB2 On
+https://cdn1.etbon.eus/etb2on/index.m3u8
+#EXTINF:-1 tvg-name="TV8" group-title="Documentary;News",TV8
+http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/2454/index.m3u8
+#EXTINF:-1 tvg-name="Global TV" group-title="Entertainment;Music",Global TV
+https://tvsen6.aynaott.com/globaltvhd/index.m3u8

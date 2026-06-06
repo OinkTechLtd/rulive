@@ -5,14 +5,68 @@
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
-# Категория: Public;Weather
+# Категория: Public
 # Каналов: 1
 # Обновлено: 2026-06-06 04:37:41
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
-#EXTINF:-1 tvg-name="3Cat Càmeres del temps" group-title="Public;Weather",3Cat Càmeres del temps
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
+#EXTINF:-1 tvg-name="ETB1 On" group-title="Public",ETB1 On
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn1.etbon.eus/etb1on/index.m3u8
 
+#EXTINF:-1 tvg-name="ČT1 Ⓖ" group-title="Czech Republic",ČT1 Ⓖ
+https://sktv.plainrock127.xyz/get.php?x=CT1
+#EXTINF:-1 tvg-name="ČT2 Ⓖ" group-title="Czech Republic",ČT2 Ⓖ
+https://sktv.plainrock127.xyz/get.php?x=CT2
+#EXTINF:-1 tvg-name="ČT24" group-title="Czech Republic",ČT24
+https://sktv.plainrock127.xyz/get.php?x=CT24
+#EXTINF:-1 tvg-name="ČT sport Ⓖ" group-title="Czech Republic",ČT sport Ⓖ
+https://sktv.plainrock127.xyz/get.php?x=CTsport
+#EXTINF:-1 tvg-name="ČT :D" group-title="Czech Republic",ČT :D
+https://sktv.plainrock127.xyz/get.php?x=CT_D
+#EXTINF:-1 tvg-name="ČT art" group-title="Czech Republic",ČT art
+https://sktv.plainrock127.xyz/get.php?x=CTart
+#EXTINF:-1 tvg-name="ČT sport Plus Ⓖ" group-title="Czech Republic",ČT sport Plus Ⓖ
+https://sktv.plainrock127.xyz/get.php?x=CTsportPlus
+#EXTINF:-1 tvg-name="JOJ Family Ⓢ" group-title="Czech Republic",JOJ Family Ⓢ
+https://live.cdn.joj.sk/live/hls/family-540.m3u8
+#EXTINF:-1 tvg-name="Šlágr Originál Ⓢ" group-title="Czech Republic",Šlágr Originál Ⓢ
+https://stream-6.mazana.tv/slagr.m3u
+#EXTINF:-1 tvg-name="Šlágr Muzika Ⓢ" group-title="Czech Republic",Šlágr Muzika Ⓢ
+https://stream-33.mazana.tv/slagr2.m3u
+#EXTINF:-1 tvg-name="Šlágr Premium Ⓢ" group-title="Czech Republic",Šlágr Premium Ⓢ
+https://stream-15.mazana.tv/slagrpremium.m3u
+#EXTINF:-1 tvg-name="Prima Ⓖ" group-title="Czech Republic",Prima Ⓖ
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_family/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-name="CNN Prima News" group-title="Czech Republic",CNN Prima News
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cnn/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-name="Prima Zoom Ⓖ" group-title="Czech Republic",Prima Zoom Ⓖ
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_zoom/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-name="Prima Love Ⓖ" group-title="Czech Republic",Prima Love Ⓖ
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_love/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-name="Prima STAR Ⓖ" group-title="Czech Republic",Prima STAR Ⓖ
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_star/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-name="Prima Krimi Ⓖ" group-title="Czech Republic",Prima Krimi Ⓖ
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_krimi/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-name="Prima MAX Ⓖ" group-title="Czech Republic",Prima MAX Ⓖ
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_max/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-name="Prima Cool Ⓖ" group-title="Czech Republic",Prima Cool Ⓖ
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cool/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-name="Prima Show Ⓖ" group-title="Czech Republic",Prima Show Ⓖ
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_show/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-name="Óčko Ⓢ" group-title="Czech Republic",Óčko Ⓢ
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+#EXTINF:-1 tvg-name="Retro Music Television Ⓢ" group-title="Czech Republic",Retro Music Television Ⓢ
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TN Live" group-title="Czech Republic",TN Live
+https://sktv.plainrock127.xyz/get.php?x=NovaTNLive
+#EXTINF:-1 tvg-name="Praha TV" group-title="Czech Republic",Praha TV
+https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Nova Ⓢ" group-title="Czech Republic",TV Nova Ⓢ
+https://sktv.plainrock127.xyz/get.php?x=Nova
+#EXTINF:-1 tvg-name="Východoceská TV" group-title="Czech Republic",Východoceská TV
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
+#EXTINF:-1 tvg-name="UTV (Czech Republic)" group-title="Czech Republic",UTV (Czech Republic)
+https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
 #EXTINF:-1 tvg-name="Aragon TV Internacional" group-title="General;Public",Aragon TV Internacional
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-name="3CatInfo" group-title="News;Public",3CatInfo
@@ -23,18 +77,6 @@ https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
 https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
 #EXTINF:-1 tvg-name="La 2 Canarias" group-title="General;Public",La 2 Canarias
 https://ztnr.rtve.es/ztnr/5468585.m3u8
-#EXTINF:-1 tvg-name="AccuWeather Now" group-title="Weather",AccuWeather Now
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
-#EXTINF:-1 tvg-name="Fox Weather" group-title="Weather",Fox Weather
-https://lnc-fox-weather.tubi.video/index.m3u8
-#EXTINF:-1 tvg-name="KTCA-DT5" group-title="Weather",KTCA-DT5
-https://api.new.livestream.com/accounts/12638076/events/8488790/live.m3u8
-#EXTINF:-1 tvg-name="WeatherNation" group-title="Weather",WeatherNation
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d2cb7ac552e3773bc48982e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1028-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcca8395-396e-4be0-9049-564f29c5ac9b
-#EXTINF:-1 tvg-name="The Weather Network" group-title="Weather",The Weather Network
-https://d3f6rv2ihfj09x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4l4ssesb90374-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-name="Sky News Weather" group-title="Weather",Sky News Weather
-https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 24 Horas" group-title="News;Public",Canal 24 Horas
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-name="3Cat Exclusiu 1 [Geo-blocked]" group-title="News;Public",3Cat Exclusiu 1 [Geo-blocked]
@@ -43,12 +85,8 @@ https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8
 https://directes-tv-cat.3catdirectes.cat/live-content/oca2-hls/master.m3u8
 #EXTINF:-1 tvg-name="3Cat Exclusiu 3 [Geo-blocked]" group-title="News;Public",3Cat Exclusiu 3 [Geo-blocked]
 https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8
-#EXTINF:-1 tvg-name="ABC 9 Manchester NH (WMUR-TV)" group-title="News;Weather",ABC 9 Manchester NH (WMUR-TV)
-https://aegis-cloudfront-1.tubi.video/b77ffe96-c5d1-43a7-8687-306ff244d725/playlist.m3u8
-#EXTINF:-1 tvg-name="WBRZ Weather Channel Baton Rouge LA (480p)" group-title="News;Weather",WBRZ Weather Channel Baton Rouge LA (480p)
-https://d2a6g6zgxepbwi.cloudfront.net/wbrz-edge/weather.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-name="WeatherSpy" group-title="Weather",WeatherSpy
-https://d12gab6t5iutxf.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-name="3Cat Càmeres del temps" group-title="Public;Weather",3Cat Càmeres del temps
+https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
 #EXTINF:-1 tvg-name="3Cat El búnquer" group-title="Comedy;Public",3Cat El búnquer
 https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8
 #EXTINF:-1 tvg-name="3Cat Plats bruts" group-title="Classic;Comedy;Public;Series",3Cat Plats bruts
@@ -99,23 +137,11 @@ http://92.176.119.180:2095/play/a16x
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-name="La 2 Catalunya" group-title="General;Public",La 2 Catalunya
 https://ztnr.rtve.es/ztnr/3987218.m3u8
-#EXTINF:-1 tvg-name="NHK Kishou Saigai (360p)" group-title="Weather",NHK Kishou Saigai (360p)
-https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
-#EXTINF:-1 tvg-name="Weathernews" group-title="Weather",Weathernews
-https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
-#EXTINF:-1 tvg-name="中国气象 (576p)" group-title="Weather",中国气象 (576p)
-http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 tvg-name="TV UFOP" group-title="Culture;Education;Public",TV UFOP
 https://app.tvufop.com.br/hls/tvufop.m3u8
 #EXTINF:-1 tvg-name="Canal Extremadura Satelite" group-title="General;Public",Canal Extremadura Satelite
 https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Clan Internacional Americas [Geo-blocked]" group-title="Kids;Public",Clan Internacional Americas [Geo-blocked]
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
-#EXTINF:-1 tvg-name="Meteonews" group-title="Weather",Meteonews
-https://streaming.meteonews.net/hls/stream.m3u8
 #EXTINF:-1 tvg-name="FomixTV" group-title="General;Music;Public",FomixTV
 https://stream.fomixmedia.nl/FomixTV/video.m3u8
-#EXTINF:-1 tvg-name="Weather Spy" group-title="Weather",Weather Spy
-https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8
-#EXTINF:-1 tvg-name="ETB1 On" group-title="Public",ETB1 On
-https://cdn1.etbon.eus/etb1on/index.m3u8

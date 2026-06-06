@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-06 00:07:17
-# Всего каналов: 16592
-# Новых за сессию: 0
+# Обновлено: 2026-06-06 04:37:41
+# Всего каналов: 16675
+# Новых за сессию: 83
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Documentary
-# Каналов: 6
-# Обновлено: 2026-06-06 00:07:17
+# Каналов: 7
+# Обновлено: 2026-06-06 04:37:41
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="BBC Four [Geo-blocked]" group-title="Culture;Documentary",BBC Four [Geo-blocked]
@@ -24,6 +24,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/webtvstream.bhtelecom.
 
 #EXTINF:-1 tvg-name="BBC Four [Geo-blocked]" group-title="Culture;Documentary",BBC Four [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/hevc_iptv_mse_v0.mpd
+
+#EXTINF:-1 tvg-name="BBC Four [Geo-blocked]" group-title="Culture;Documentary",BBC Four [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/matchmaker.live.bidi.net.uk/vs-cmaf-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.fmp4.m3u8
 
 #EXTINF:-1 tvg-name="HRT 3 [Geo-blocked]" group-title="Culture;Documentary",HRT 3 [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
@@ -572,3 +575,5 @@ https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-Weapon & Technology" group-title="Documentary",CCTV-Weapon & Technology
 http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="TV8" group-title="Documentary;News",TV8
+http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/2454/index.m3u8

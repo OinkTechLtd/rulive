@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-06 00:07:17
-# Всего каналов: 16592
-# Новых за сессию: 0
+# Обновлено: 2026-06-06 04:37:41
+# Всего каналов: 16675
+# Новых за сессию: 83
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Public
 # Каналов: 3
-# Обновлено: 2026-06-06 00:07:17
+# Обновлено: 2026-06-06 04:37:41
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="El 33 [Geo-blocked]" group-title="Culture;Public",El 33 [Geo-blocked]
@@ -413,3 +413,5 @@ https://dash3.antik.sk/live/test_vita/playlist.m3u8
 https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-name="Andy Haryana (576p)" group-title="Culture;Music",Andy Haryana (576p)
 https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8
+#EXTINF:-1 tvg-name="ETB1 On" group-title="Public",ETB1 On
+https://cdn1.etbon.eus/etb1on/index.m3u8

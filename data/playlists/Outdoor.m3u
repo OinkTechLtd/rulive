@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-06 00:07:17
-# Всего каналов: 16592
-# Новых за сессию: 0
+# Обновлено: 2026-06-06 04:37:41
+# Всего каналов: 16675
+# Новых за сессию: 83
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Outdoor
-# Каналов: 38
-# Обновлено: 2026-06-06 00:07:17
+# Каналов: 39
+# Обновлено: 2026-06-06 04:37:41
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Ohotnik i rybolov (576i)" group-title="Outdoor",Ohotnik i rybolov (576i)
@@ -120,6 +120,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/agrotv.streamnet.ro/mo
 
 #EXTINF:-1 tvg-name="ARDB TV" group-title="Outdoor",ARDB TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8
+
+#EXTINF:-1 tvg-name="Rybalka" group-title="Outdoor",Rybalka
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/iptv.prosto.tv/ch88/tracks-v1a1/0.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&ses=022341aa72e7f9f5&uid=9szoe89y&cs_track=false&e=1783162403&st=BO0a5dZP4ZX9tKTz6QEbOw
 
 #EXTINF:-1 tvg-name="Sihai Fishing Channel" group-title="Outdoor",Sihai Fishing Channel
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/49.113.179.174:4022/udp/238.125.2.172:5140

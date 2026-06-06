@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-06 00:07:17
-# Всего каналов: 16592
-# Новых за сессию: 0
+# Обновлено: 2026-06-06 04:37:41
+# Всего каналов: 16675
+# Новых за сессию: 83
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;General
-# Каналов: 3
-# Обновлено: 2026-06-06 00:07:17
+# Каналов: 4
+# Обновлено: 2026-06-06 04:37:41
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="MCN6" group-title="Entertainment;General",MCN6
@@ -18,6 +18,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.gideo.video/ameri
 
 #EXTINF:-1 tvg-name="HTV2" group-title="Entertainment;General",HTV2
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/liveh12.vtvprime.vn/hls/HTV2/03.m3u8
+
+#EXTINF:-1 tvg-name="Super+" group-title="Entertainment;General",Super+
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/iptv.prosto.tv/ch382/tracks-v1a1/1.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&ses=365ec247746bd22d&uid=9szoe89y&cs_track=false&e=1783162263&st=9GLxg7DNUXR_MCB9X30Qew
 
 #EXTINF:-1 tvg-name="Беларусь 2" group-title="Entertainment",Беларусь 2
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
@@ -235,6 +238,10 @@ https://30a-tv.com/gh.m3u8
 https://tv.alterna.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-name="Đồng Nai 2 (480p)" group-title="Entertainment;Sports",Đồng Nai 2 (480p)
 http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="NSC+" group-title="Entertainment",NSC+
+https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8
+#EXTINF:-1 tvg-name="NTV" group-title="General",NTV
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=HSWg81JrQ3OqmwuWkEIDAQ&e=2077050299&scheme=https
 #EXTINF:-1 tvg-name="OTR (576p)" group-title="General",OTR (576p)
 http://tmptv.sunduk.tv/CH317/index.m3u8
 #EXTINF:-1 tvg-name="Pro100TV (576p)" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV (576p)
@@ -2097,8 +2104,6 @@ https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="NOW TV" group-title="Entertainment",NOW TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1 tvg-name="NTV" group-title="General",NTV
-https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 #EXTINF:-1 tvg-name="On4 TV" group-title="General",On4 TV
 https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="Öncü TV (1024p)" group-title="General",Öncü TV (1024p)
@@ -5821,6 +5826,14 @@ https://live.fansplay.tv/livestreams/45.b0JPENQx19PG2pxg.m3u8
 https://imn-live.esite-lab.com/hls/iraqia-general.m3u8
 #EXTINF:-1 tvg-name="Simon [Geo-blocked]" group-title="General",Simon [Geo-blocked]
 https://hls.simon.ua/live-HD/live/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC One East Midlands (HEVC) [Geo-blocked]" group-title="General",BBC One East Midlands (HEVC) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-name="BBC One North East (HEVC) [Geo-blocked]" group-title="General",BBC One North East (HEVC) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-name="BBC One North West (HEVC) [Geo-blocked]" group-title="General",BBC One North West (HEVC) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-name="BBC One Northern Ireland (HEVC) [Geo-blocked]" group-title="General",BBC One Northern Ireland (HEVC) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-name="Inter+" group-title="General",Inter+
 https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
 #EXTINF:-1 tvg-name="NTN (1080i)" group-title="General",NTN (1080i)
@@ -5839,3 +5852,25 @@ https://indihuy.streamized.net/atm/DASH/newtvcomprehensive/manifest.mpd
 https://indihuy.streamized.net/atm/DASH/newtvfinance/manifest.mpd
 #EXTINF:-1 tvg-name="New TV Variety" group-title="Entertainment;Series",New TV Variety
 https://indihuy.streamized.net/atm/DASH/newtvvariety/manifest.mpd
+#EXTINF:-1 tvg-name="Suspilne. Mykolaiv" group-title="General",Suspilne. Mykolaiv
+https://iptv.prosto.tv/ch211/tracks-v1a1/mono.m3u8?live=1&ip=5.63.189.224&id=921239&secret=f8z1l7gk&21yo=0&e=1783194414&st=Lz1QtjfblUmkawUbk1Mx6w
+#EXTINF:-1 tvg-name="Suspilne. Rivne" group-title="General",Suspilne. Rivne
+https://iptv.prosto.tv/ch229/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=5.63.189.224&id=921239&secret=f8z1l7gk&e=1783195240&st=4RqJ6hzZ9REJQe0f8U3fTw
+#EXTINF:-1 tvg-name="Suspilne. Vinnytsia" group-title="General",Suspilne. Vinnytsia
+https://iptv.prosto.tv/ch188/tracks-v1a1/mono.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&21yo=0&e=1783247585&st=u4uN-dkUOQb4cDe7lNCaeg
+#EXTINF:-1 tvg-name="Belarus-1" group-title="General",Belarus-1
+https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w1701491008_b5160000_sleng.m3u8
+#EXTINF:-1 tvg-name="ETB2 On" group-title="Entertainment",ETB2 On
+https://cdn1.etbon.eus/etb2on/index.m3u8
+#EXTINF:-1 tvg-name="JORX-DTV" group-title="General",JORX-DTV
+https://tbs5.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 tvg-name="Nippon TV (540p)" group-title="General",Nippon TV (540p)
+https://ntv4.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 tvg-name="BBC One" group-title="General",BBC One
+https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8
+#EXTINF:-1 tvg-name="Al Aoula" group-title="General",Al Aoula
+https://stream-lb.livemediama.com/alaoula-tnt/hls/master.m3u8
+#EXTINF:-1 tvg-name="Al Aoula Inter" group-title="General",Al Aoula Inter
+https://stream-lb.livemediama.com/alaoula/hls/master.m3u8
+#EXTINF:-1 tvg-name="2M Monde" group-title="General",2M Monde
+https://stream-lb.livemediama.com/2m/hls/master.m3u8

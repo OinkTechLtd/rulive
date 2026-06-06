@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-06 00:07:17
-# Всего каналов: 16592
-# Новых за сессию: 0
+# Обновлено: 2026-06-06 04:37:41
+# Всего каналов: 16675
+# Новых за сессию: 83
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Czech Republic
 # Каналов: 27
-# Обновлено: 2026-06-06 00:07:17
+# Обновлено: 2026-06-06 04:37:41
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ČT sport Ⓖ" group-title="Czech Republic",ČT sport Ⓖ
@@ -91,3 +91,5 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.polar.cz/vctv/v
 #EXTINF:-1 tvg-name="UTV (Czech Republic)" group-title="Czech Republic",UTV (Czech Republic)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
 
+#EXTINF:-1 tvg-name="ETB1 On" group-title="Public",ETB1 On
+https://cdn1.etbon.eus/etb1on/index.m3u8

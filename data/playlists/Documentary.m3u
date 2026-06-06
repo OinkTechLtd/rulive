@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-06 00:07:17
-# Всего каналов: 16592
-# Новых за сессию: 0
+# Обновлено: 2026-06-06 04:37:41
+# Всего каналов: 16675
+# Новых за сессию: 83
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary
 # Каналов: 109
-# Обновлено: 2026-06-06 00:07:17
+# Обновлено: 2026-06-06 04:37:41
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RT Documentary Russian" group-title="Documentary",RT Documentary Russian
@@ -377,3 +377,5 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 https://webtvstream.bhtelecom.ba/hrt3.m3u8
 #EXTINF:-1 tvg-name="HRT 3 [Geo-blocked]" group-title="Culture;Documentary",HRT 3 [Geo-blocked]
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
+#EXTINF:-1 tvg-name="TV8" group-title="Documentary;News",TV8
+http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/2454/index.m3u8

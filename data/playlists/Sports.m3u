@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-06 00:07:17
-# Всего каналов: 16592
-# Новых за сессию: 0
+# Обновлено: 2026-06-06 04:37:41
+# Всего каналов: 16675
+# Новых за сессию: 83
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Sports
-# Каналов: 327
-# Обновлено: 2026-06-06 00:07:17
+# Каналов: 335
+# Обновлено: 2026-06-06 04:37:41
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CBC Sport [Geo-blocked]" group-title="Sports",CBC Sport [Geo-blocked]
@@ -864,6 +864,30 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvsen7.aynaott.com/tsp
 
 #EXTINF:-1 tvg-name="CCTV-5" group-title="Sports",CCTV-5
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/192.151.150.154/live/cctv5hd.m3u8
+
+#EXTINF:-1 tvg-name="Suspilne. Sport" group-title="Sports",Suspilne. Sport
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/iptv.prosto.tv/ch112/tracks-v2a1/mono.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&21yo=0&e=1783247457&st=jPS6nYqNZLDECF8uSDa74g
+
+#EXTINF:-1 tvg-name="Golf Network (540p)" group-title="Sports",Golf Network (540p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/202.60.106.14:8080/1335/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Arryadia" group-title="Sports",Arryadia
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-lb.livemediama.com/arryadia/hls/master.m3u8
+
+#EXTINF:-1 tvg-name="Arryadia 1" group-title="Sports",Arryadia 1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-lb.livemediama.com/arryadia-hd-01/hls/master.m3u8
+
+#EXTINF:-1 tvg-name="Arryadia 2" group-title="Sports",Arryadia 2
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-lb.livemediama.com/arryadia-hd-02/hls/master.m3u8
+
+#EXTINF:-1 tvg-name="Arryadia 3" group-title="Sports",Arryadia 3
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-lb.livemediama.com/arryadia-hd-03/hls/master.m3u8
+
+#EXTINF:-1 tvg-name="T Sports" group-title="Sports",T Sports
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvsen7.aynaott.com/tsports-hd/index.m3u8
+
+#EXTINF:-1 tvg-name="Willow Sports" group-title="Sports",Willow Sports
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8
 
 #EXTINF:-1 tvg-name="Беларусь 5" group-title="Sports",Беларусь 5
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8

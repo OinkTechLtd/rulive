@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-06 00:07:17
-# Всего каналов: 16592
-# Новых за сессию: 0
+# Обновлено: 2026-06-06 04:37:41
+# Всего каналов: 16675
+# Новых за сессию: 83
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Music
 # Каналов: 4
-# Обновлено: 2026-06-06 00:07:17
+# Обновлено: 2026-06-06 04:37:41
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pamir TV" group-title="Culture;Music",Pamir TV
@@ -1606,3 +1606,11 @@ https://indihuy.streamized.net/atm/DASH/pramborstv/manifest.mpd
 https://iptv.prosto.tv/ch134/tracks-v2a1/1.m3u8?21yo=1&live=1&ip=104.28.156.59&id=742347&secret=vu2y5m72&ses=ca0cfbf5db9d8003&uid=vu2y5m72&cs_track=false&e=1782900912&st=j-Ja2visdxrjH_8haQZjNg
 #EXTINF:-1 tvg-name="Music Box Polska [Geo-blocked]" group-title="Music",Music Box Polska [Geo-blocked]
 https://vs2133.vcdn.biz/0f0f85e2ea3607b5c396ef68d55c3168_megogo/live/hls/b/4000/u_sid/0/o/156751011/rsid/062147ff-ed0c-4d9c-a131-2bf42026e640/u_uid/0/u_vod/1/u_device/embed_all/u_devicekey/_embed_web/lip/57.128.235.172*asn/type.live/playlist.m3u8
+#EXTINF:-1 tvg-name="4ever Music" group-title="Music",4ever Music
+https://iptv.prosto.tv/ch132/tracks-v2a1/1.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&ses=41545bc9645b3681&uid=9szoe89y&cs_track=false&e=1783162962&st=bprjJC1msNDEIjna-uUQjw
+#EXTINF:-1 tvg-name="¡Viva Latino!" group-title="Music",¡Viva Latino!
+https://iptv.prosto.tv/ch138/tracks-v2a1/1.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&ses=8a9f3acf84249fbe&uid=9szoe89y&cs_track=false&e=1783163037&st=907ywHdZsxDhbfHEV52usw
+#EXTINF:-1 tvg-name="UA Music" group-title="Music",UA Music
+https://iptv.prosto.tv/ch133/tracks-v2a1/1.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&ses=222194235acf2898&uid=9szoe89y&cs_track=false&e=1783247230&st=uVQZwetlK44ZjJhTBpFGiQ
+#EXTINF:-1 tvg-name="Global TV" group-title="Entertainment;Music",Global TV
+https://tvsen6.aynaott.com/globaltvhd/index.m3u8
