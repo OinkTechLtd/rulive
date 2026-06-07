@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-07 00:04:25
-# Всего каналов: 16675
-# Новых за сессию: 0
+# Обновлено: 2026-06-07 03:42:54
+# Всего каналов: 16683
+# Новых за сессию: 8
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Movies;Series;Sports
 # Каналов: 1
-# Обновлено: 2026-06-07 00:04:25
+# Обновлено: 2026-06-07 03:42:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="USA Network East" group-title="Comedy;Movies;Series;Sports",USA Network East
@@ -1965,3 +1965,5 @@ https://stream-lb.livemediama.com/arryadia-hd-01/hls/master.m3u8
 https://stream-lb.livemediama.com/arryadia-hd-02/hls/master.m3u8
 #EXTINF:-1 tvg-name="Arryadia 3" group-title="Sports",Arryadia 3
 https://stream-lb.livemediama.com/arryadia-hd-03/hls/master.m3u8
+#EXTINF:-1 tvg-name="My Cinema Europe" group-title="Movies",My Cinema Europe
+https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8

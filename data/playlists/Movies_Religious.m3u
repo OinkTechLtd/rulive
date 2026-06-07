@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-07 00:04:25
-# Всего каналов: 16675
-# Новых за сессию: 0
+# Обновлено: 2026-06-07 03:42:54
+# Всего каналов: 16683
+# Новых за сессию: 8
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;Religious
 # Каналов: 1
-# Обновлено: 2026-06-07 00:04:25
+# Обновлено: 2026-06-07 03:42:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ABN Bible Movies" group-title="Movies;Religious",ABN Bible Movies
@@ -1909,6 +1909,8 @@ https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
 https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="NourSAT (576p)" group-title="Religious",NourSAT (576p)
 https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="Quran Radio" group-title="General;Religious",Quran Radio
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
 #EXTINF:-1 tvg-name="Rotana Cinema Egypt [Geo-blocked]" group-title="Movies",Rotana Cinema Egypt [Geo-blocked]
 https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-name="Rotana Cinema KSA [Geo-blocked]" group-title="Movies",Rotana Cinema KSA [Geo-blocked]
@@ -2253,3 +2255,5 @@ https://live.bcntv.org/live/bcn_16_9.m3u8
 https://iptv.prosto.tv/ch63/tracks-v1a1/mono.m3u8?live=1&ip=104.28.156.59&id=921233&secret=9szoe89y&21yo=0&e=1783193843&st=TtdsKDYQcxuuOa_50TuApw
 #EXTINF:-1 tvg-name="FilmBox Baltics" group-title="Movies",FilmBox Baltics
 https://iptv.prosto.tv/ch64/tracks-v1a1/mono.m3u8?live=1&ip=104.28.156.59&id=921233&secret=9szoe89y&21yo=0&e=1783193705&st=MZPvPD4AwsRPTggeYFQLrA
+#EXTINF:-1 tvg-name="My Cinema Europe" group-title="Movies",My Cinema Europe
+https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8

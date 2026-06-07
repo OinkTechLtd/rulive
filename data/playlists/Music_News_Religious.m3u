@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-07 00:04:25
-# Всего каналов: 16675
-# Новых за сессию: 0
+# Обновлено: 2026-06-07 03:42:54
+# Всего каналов: 16683
+# Новых за сессию: 8
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;News;Religious
 # Каналов: 1
-# Обновлено: 2026-06-07 00:04:25
+# Обновлено: 2026-06-07 03:42:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Lingkar TV" group-title="Music;News;Religious",Lingkar TV
@@ -3865,6 +3865,8 @@ https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8
 https://live.paltodaytv.com/paltv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Panorama FM" group-title="Music",Panorama FM
 https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8
+#EXTINF:-1 tvg-name="Quran Radio" group-title="General;Religious",Quran Radio
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
 #EXTINF:-1 tvg-name="Rabeh Saqer" group-title="Music",Rabeh Saqer
 https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8
 #EXTINF:-1 tvg-name="Rashid AlMajed" group-title="Music",Rashid AlMajed
@@ -4643,3 +4645,7 @@ https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8
 https://tvsen6.aynaott.com/etv/index.m3u8
 #EXTINF:-1 tvg-name="Global TV" group-title="Entertainment;Music",Global TV
 https://tvsen6.aynaott.com/globaltvhd/index.m3u8
+#EXTINF:-1 tvg-name="Fox News Channel (480p)" group-title="News",Fox News Channel (480p)
+http://41.205.93.154/FOX-NEWS/index.m3u8
+#EXTINF:-1 tvg-name="360TuneBox" group-title="Music",360TuneBox
+https://iptv.prosto.tv/ch141/tracks-v1a1/mono.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&21yo=0&e=1783319761&st=iVNWplSFICoBBURsjIVTwQ

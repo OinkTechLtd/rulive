@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-07 00:04:25
-# Всего каналов: 16675
-# Новых за сессию: 0
+# Обновлено: 2026-06-07 03:42:54
+# Всего каналов: 16683
+# Новых за сессию: 8
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;General;Kids
 # Каналов: 1
-# Обновлено: 2026-06-07 00:04:25
+# Обновлено: 2026-06-07 03:42:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="BBC Four/CBeebies [Geo-Blocked]" group-title="Animation;General;Kids",BBC Four/CBeebies [Geo-Blocked]
@@ -3931,6 +3931,8 @@ https://pbc.furrera.ps/palestinehd/index.m3u8
 https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Qatar Television 2" group-title="General",Qatar Television 2
 https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Quran Radio" group-title="General;Religious",Quran Radio
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Albalad TV" group-title="General",Radio Albalad TV
 http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
 #EXTINF:-1 tvg-name="Rojava TV" group-title="General",Rojava TV
@@ -5195,3 +5197,9 @@ https://stream-lb.livemediama.com/alaoula/hls/master.m3u8
 https://stream-lb.livemediama.com/2m/hls/master.m3u8
 #EXTINF:-1 tvg-name="Duronto TV" group-title="Kids",Duronto TV
 https://tvsen5.aynaott.com/durontotv/index.m3u8
+#EXTINF:-1 tvg-name="PLUSPLUS" group-title="Kids",PLUSPLUS
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6379/index.m3u8
+#EXTINF:-1 tvg-name="Slime (576p)" group-title="Animation;Kids",Slime (576p)
+https://slime.x1co.com.br/hls/stream.m3u8
+#EXTINF:-1 tvg-name="TN8" group-title="General",TN8
+https://streamingcws30.com/tn8/videotn8/chunks.m3u8

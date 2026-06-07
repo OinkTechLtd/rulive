@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-07 00:04:25
-# Всего каналов: 16675
-# Новых за сессию: 0
+# Обновлено: 2026-06-07 03:42:54
+# Всего каналов: 16683
+# Новых за сессию: 8
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Religious
 # Каналов: 690
-# Обновлено: 2026-06-07 00:04:25
+# Обновлено: 2026-06-07 03:42:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Спас (450p) [Geo-blocked]" group-title="Religious",Спас (450p) [Geo-blocked]
@@ -2132,6 +2132,8 @@ https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
 https://liveingesta118.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Famille" group-title="Family;Religious",TV Famille
 https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
+#EXTINF:-1 tvg-name="Quran Radio" group-title="General;Religious",Quran Radio
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
 #EXTINF:-1 tvg-name="Sat 7 Kids" group-title="Kids;Religious",Sat 7 Kids
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="Lingkar TV" group-title="Music;News;Religious",Lingkar TV

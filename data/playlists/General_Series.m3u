@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-07 00:04:25
-# Всего каналов: 16675
-# Новых за сессию: 0
+# Обновлено: 2026-06-07 03:42:54
+# Всего каналов: 16683
+# Новых за сессию: 8
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Series
 # Каналов: 1
-# Обновлено: 2026-06-07 00:04:25
+# Обновлено: 2026-06-07 03:42:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Super TV" group-title="General;Series",Super TV
@@ -3833,6 +3833,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Qatar Television 2" group-title="General",Qatar Television 2
 https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Quran Radio" group-title="General;Religious",Quran Radio
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Albalad TV" group-title="General",Radio Albalad TV
 http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
 #EXTINF:-1 tvg-name="Rojava TV" group-title="General",Rojava TV
@@ -5043,3 +5045,5 @@ https://stream-lb.livemediama.com/alaoula-tnt/hls/master.m3u8
 https://stream-lb.livemediama.com/alaoula/hls/master.m3u8
 #EXTINF:-1 tvg-name="2M Monde" group-title="General",2M Monde
 https://stream-lb.livemediama.com/2m/hls/master.m3u8
+#EXTINF:-1 tvg-name="TN8" group-title="General",TN8
+https://streamingcws30.com/tn8/videotn8/chunks.m3u8

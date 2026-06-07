@@ -1,7 +1,7 @@
 #EXTM3U
-# Обновлено: 2026-06-07 00:04:25
-# Всего каналов: 16675
-# Новых за сессию: 0
+# Обновлено: 2026-06-07 03:42:54
+# Всего каналов: 16683
+# Новых за сессию: 8
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
@@ -25814,7 +25814,7 @@ https://secure-272717.tatnet.app/live.kwikmotion.com/qtv1live/qtv1.smil/playlist
 #EXTINF:-1 tvg-name="Qatar Television 2" group-title="General",Qatar Television 2
 https://secure-272717.tatnet.app/live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Quran Radio" group-title="Undefined",Quran Radio
+#EXTINF:-1 tvg-name="Quran Radio" group-title="General;Religious",Quran Radio
 https://secure-272717.tatnet.app/live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Rabeh Saqer" group-title="Music",Rabeh Saqer
@@ -41899,6 +41899,30 @@ https://secure-272717.tatnet.app/tvsen5.aynaott.com/durontotv/index.m3u8
 
 #EXTINF:-1 tvg-name="Global TV" group-title="Entertainment;Music",Global TV
 https://secure-272717.tatnet.app/tvsen6.aynaott.com/globaltvhd/index.m3u8
+
+#EXTINF:-1 tvg-name="PLUSPLUS" group-title="Kids",PLUSPLUS
+https://secure-272717.tatnet.app/315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6379/index.m3u8
+
+#EXTINF:-1 tvg-name="TV-4 [Geo-blocked]" group-title="Undefined",TV-4 [Geo-blocked]
+https://secure-272717.tatnet.app/vs2126.vcdn.biz/c27a63fda28be51f87a7d0046de1f4b8_megogo/live/hls/b/700_2490/u_sid/0/o/71044361/rsid/393818da-edd4-44bd-b2db-4ebf226abd3d/u_uid/0/u_vod/1/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/5.63.189.224*asn/u_did/web_0voqy4czLIxD4iwJZ0z0GctEMa9GIH7A/type.live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Fox News Channel (480p)" group-title="News",Fox News Channel (480p)
+https://secure-272717.tatnet.app/41.205.93.154/FOX-NEWS/index.m3u8
+
+#EXTINF:-1 tvg-name="WNJU-DT1" group-title="Undefined",WNJU-DT1
+https://secure-272717.tatnet.app/104.238.205.28:9090/278678_.m3u8
+
+#EXTINF:-1 tvg-name="Slime (576p)" group-title="Animation;Kids",Slime (576p)
+https://secure-272717.tatnet.app/slime.x1co.com.br/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="360TuneBox" group-title="Music",360TuneBox
+https://secure-272717.tatnet.app/iptv.prosto.tv/ch141/tracks-v1a1/mono.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&21yo=0&e=1783319761&st=iVNWplSFICoBBURsjIVTwQ
+
+#EXTINF:-1 tvg-name="My Cinema Europe" group-title="Movies",My Cinema Europe
+https://secure-272717.tatnet.app/op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
+
+#EXTINF:-1 tvg-name="TN8" group-title="General",TN8
+https://secure-272717.tatnet.app/streamingcws30.com/tn8/videotn8/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="IPTV",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8
