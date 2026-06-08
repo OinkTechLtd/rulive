@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-08 00:08:29
-# Всего каналов: 16683
-# Новых за сессию: 0
+# Обновлено: 2026-06-08 01:40:52
+# Всего каналов: 16700
+# Новых за сессию: 17
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Public;Sports
 # Каналов: 2
-# Обновлено: 2026-06-08 00:08:30
+# Обновлено: 2026-06-08 01:40:53
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Esport3" group-title="Public;Sports",Esport3
@@ -768,3 +768,9 @@ https://stream-lb.livemediama.com/arryadia-hd-01/hls/master.m3u8
 https://stream-lb.livemediama.com/arryadia-hd-02/hls/master.m3u8
 #EXTINF:-1 tvg-name="Arryadia 3" group-title="Sports",Arryadia 3
 https://stream-lb.livemediama.com/arryadia-hd-03/hls/master.m3u8
+#EXTINF:-1 tvg-name="ETB 1 [Geo-blocked]" group-title="General;Public",ETB 1 [Geo-blocked]
+https://cdn1.etbon.eus/etb1/index.m3u8
+#EXTINF:-1 tvg-name="ETB 2 [Geo-blocked]" group-title="General;Public",ETB 2 [Geo-blocked]
+https://cdn1.etbon.eus/etb2/index.m3u8
+#EXTINF:-1 tvg-name="Sport" group-title="Sports",Sport
+https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8

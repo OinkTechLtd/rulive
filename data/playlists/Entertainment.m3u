@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-08 00:08:29
-# Всего каналов: 16683
-# Новых за сессию: 0
+# Обновлено: 2026-06-08 01:40:52
+# Всего каналов: 16700
+# Новых за сессию: 17
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment
-# Каналов: 579
-# Обновлено: 2026-06-08 00:08:30
+# Каналов: 580
+# Обновлено: 2026-06-08 01:40:53
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Arte [Geo-blocked]" group-title="Entertainment",Arte [Geo-blocked]
@@ -1632,6 +1632,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/indihuy.streamized.net
 
 #EXTINF:-1 tvg-name="ETB2 On" group-title="Entertainment",ETB2 On
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn1.etbon.eus/etb2on/index.m3u8
+
+#EXTINF:-1 tvg-name="ICTV" group-title="Entertainment",ICTV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/iptv.prosto.tv/ch2/tracks-v2a1/mono.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&21yo=0&e=1783247829&st=byV6tMWpzsojzIhKV89Ndw
 
 #EXTINF:-1 tvg-name="Беларусь 2" group-title="Entertainment",Беларусь 2
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8

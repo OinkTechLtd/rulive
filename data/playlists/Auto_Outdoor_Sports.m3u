@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-08 00:08:29
-# Всего каналов: 16683
-# Новых за сессию: 0
+# Обновлено: 2026-06-08 01:40:52
+# Всего каналов: 16700
+# Новых за сессию: 17
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Auto;Outdoor;Sports
 # Каналов: 1
-# Обновлено: 2026-06-08 00:08:30
+# Обновлено: 2026-06-08 01:40:53
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="INTROUBLE" group-title="Auto;Outdoor;Sports",INTROUBLE
@@ -813,3 +813,9 @@ https://stream-lb.livemediama.com/arryadia-hd-01/hls/master.m3u8
 https://stream-lb.livemediama.com/arryadia-hd-02/hls/master.m3u8
 #EXTINF:-1 tvg-name="Arryadia 3" group-title="Sports",Arryadia 3
 https://stream-lb.livemediama.com/arryadia-hd-03/hls/master.m3u8
+#EXTINF:-1 tvg-name="Avtoradio Ukraine" group-title="Auto",Avtoradio Ukraine
+https://iptv.prosto.tv/ch392/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=178.136.40.86&e=1783348400&st=frMNmWZJOWD8OrGKGpkBtAy5m72&e=1783344968&st=YdMJezIhdvuNSYNS6Hva_Q
+#EXTINF:-1 tvg-name="Cars & Stars TV" group-title="Auto",Cars & Stars TV
+https://iptv.prosto.tv/ch111/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=178.136.40.86&id=742347&secret=vu2y5m72&e=1783344968&st=YdMJezIhdvuNSYNS6Hva_Q
+#EXTINF:-1 tvg-name="Sport" group-title="Sports",Sport
+https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8

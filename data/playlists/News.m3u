@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-08 00:08:29
-# Всего каналов: 16683
-# Новых за сессию: 0
+# Обновлено: 2026-06-08 01:40:52
+# Всего каналов: 16700
+# Новых за сессию: 17
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News
-# Каналов: 924
-# Обновлено: 2026-06-08 00:08:30
+# Каналов: 926
+# Обновлено: 2026-06-08 01:40:53
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Дождь (альтернативный)" group-title="News",Дождь (альтернативный)
@@ -2565,6 +2565,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvsen6.aynaott.com/etv
 
 #EXTINF:-1 tvg-name="Fox News Channel (480p)" group-title="News",Fox News Channel (480p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/41.205.93.154/FOX-NEWS/index.m3u8
+
+#EXTINF:-1 tvg-name="DBC News" group-title="News",DBC News
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+
+#EXTINF:-1 tvg-name="Ekattor TV" group-title="News",Ekattor TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705.m3u8
 
 #EXTINF:-1 tvg-name="Беларусь 24" group-title="News",Беларусь 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8

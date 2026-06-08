@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-08 00:08:29
-# Всего каналов: 16683
-# Новых за сессию: 0
+# Обновлено: 2026-06-08 01:40:52
+# Всего каналов: 16700
+# Новых за сессию: 17
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Series
 # Каналов: 3
-# Обновлено: 2026-06-08 00:08:30
+# Обновлено: 2026-06-08 01:40:53
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Anger Management Channel" group-title="Comedy;Series",Anger Management Channel
@@ -489,3 +489,5 @@ https://indihuy.streamized.net/atm/DASH/newtvcomprehensive/manifest.mpd
 https://indihuy.streamized.net/atm/DASH/newtvfinance/manifest.mpd
 #EXTINF:-1 tvg-name="New TV Variety" group-title="Entertainment;Series",New TV Variety
 https://indihuy.streamized.net/atm/DASH/newtvvariety/manifest.mpd
+#EXTINF:-1 tvg-name="Comedy Central Latin America" group-title="Comedy",Comedy Central Latin America
+http://181.119.93.83:8000/play/a1di/index.m3u8
