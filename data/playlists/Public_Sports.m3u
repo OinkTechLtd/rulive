@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-08 06:47:28
+# Обновлено: 2026-06-08 10:03:59
 # Всего каналов: 16704
-# Новых за сессию: 4
+# Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Public;Sports
 # Каналов: 2
-# Обновлено: 2026-06-08 06:47:28
+# Обновлено: 2026-06-08 10:04:00
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Esport3" group-title="Public;Sports",Esport3
@@ -160,6 +160,8 @@ https://autopilot.catcast.tv/content/37909/index.m3u8
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 tvg-name="Бокс ТВ" group-title="Sports",Бокс ТВ
 http://31.148.48.15/Boks_TV/index.m3u8
+#EXTINF:-1 tvg-name="МАТЧ! Арена" group-title="Sports",МАТЧ! Арена
+http://31.148.48.15/Match_Arena_HD/index.m3u8
 #EXTINF:-1 tvg-name="МАТЧ! Игра" group-title="Sports",МАТЧ! Игра
 http://31.148.48.15/Match_Igra_HD/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Sports",Матч! Планета" group-title="Sports",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Sports",Матч! Планета
