@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-10 00:21:15
-# Всего каналов: 16704
-# Новых за сессию: 0
+# Обновлено: 2026-06-10 04:58:33
+# Всего каналов: 16771
+# Новых за сессию: 67
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Family;Religious
 # Каналов: 1
-# Обновлено: 2026-06-10 00:21:16
+# Обновлено: 2026-06-10 04:58:33
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="TV Famille" group-title="Family;Religious",TV Famille
@@ -1519,3 +1519,5 @@ https://ktismaservers.in:3412/live/joytvlive.m3u8
 https://ch14.tv/live/ch4teendoc/playlist.m3u8
 #EXTINF:-1 tvg-name="BCN TV" group-title="Religious",BCN TV
 https://live.bcntv.org/live/bcn_16_9.m3u8
+#EXTINF:-1 tvg-name="KTO (404p)" group-title="Religious",KTO (404p)
+https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-10 00:21:15
-# Всего каналов: 16704
-# Новых за сессию: 0
+# Обновлено: 2026-06-10 04:58:33
+# Всего каналов: 16771
+# Новых за сессию: 67
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;News
 # Каналов: 5
-# Обновлено: 2026-06-10 00:21:16
+# Обновлено: 2026-06-10 04:58:33
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="India TV Aap Ki Adalat [Geo-blocked]" group-title="Documentary;News",India TV Aap Ki Adalat [Geo-blocked]
@@ -2207,3 +2207,15 @@ https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8
 https://tvsen6.aynaott.com/etv/index.m3u8
 #EXTINF:-1 tvg-name="Fox News Channel (480p)" group-title="News",Fox News Channel (480p)
 http://41.205.93.154/FOX-NEWS/index.m3u8
+#EXTINF:-1 tvg-name="Ost West" group-title="Culture;News",Ost West
+http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/14021/index.m3u8
+#EXTINF:-1 tvg-name="WELT (576p)" group-title="News",WELT (576p)
+https://s6.hopslan.com/n24X/index.m3u8
+#EXTINF:-1 tvg-name="Franceinfo" group-title="News",Franceinfo
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinfotv.m3u8
+#EXTINF:-1 tvg-name="DocuBox" group-title="Documentary",DocuBox
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7049/index.m3u8
+#EXTINF:-1 tvg-name="Viasat History" group-title="Documentary",Viasat History
+http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12101/index.m3u8
+#EXTINF:-1 tvg-name="Viasat Nature" group-title="Documentary",Viasat Nature
+http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12084/index.m3u8

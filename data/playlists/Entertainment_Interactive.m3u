@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-10 00:21:15
-# Всего каналов: 16704
-# Новых за сессию: 0
+# Обновлено: 2026-06-10 04:58:33
+# Всего каналов: 16771
+# Новых за сессию: 67
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Interactive
 # Каналов: 1
-# Обновлено: 2026-06-10 00:21:16
+# Обновлено: 2026-06-10 04:58:33
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RMC Life [Geo-Blocked]" group-title="Entertainment;Interactive",RMC Life [Geo-Blocked]
@@ -1243,3 +1243,11 @@ https://cdn1.etbon.eus/etb2on/index.m3u8
 https://tvsen6.aynaott.com/globaltvhd/index.m3u8
 #EXTINF:-1 tvg-name="ICTV" group-title="Entertainment",ICTV
 https://iptv.prosto.tv/ch2/tracks-v2a1/mono.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&21yo=0&e=1783247829&st=byV6tMWpzsojzIhKV89Ndw
+#EXTINF:-1 tvg-name="ICTV2" group-title="Entertainment",ICTV2
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/15235/index.m3u8
+#EXTINF:-1 tvg-name="AXN White" group-title="Entertainment",AXN White
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6950/index.m3u8
+#EXTINF:-1 tvg-name="Fox" group-title="Entertainment",Fox
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6108/index.m3u8
+#EXTINF:-1 tvg-name="NHK World Premium" group-title="Entertainment",NHK World Premium
+https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8

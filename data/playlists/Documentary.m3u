@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-10 00:21:15
-# Всего каналов: 16704
-# Новых за сессию: 0
+# Обновлено: 2026-06-10 04:58:33
+# Всего каналов: 16771
+# Новых за сессию: 67
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary
-# Каналов: 109
-# Обновлено: 2026-06-10 00:21:16
+# Каналов: 113
+# Обновлено: 2026-06-10 04:58:33
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RT Documentary Russian" group-title="Documentary",RT Documentary Russian
@@ -327,6 +327,18 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.whiplash.cc/whipla
 
 #EXTINF:-1 tvg-name="CCTV-Weapon & Technology" group-title="Documentary",CCTV-Weapon & Technology
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+
+#EXTINF:-1 tvg-name="DocuBox" group-title="Documentary",DocuBox
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7049/index.m3u8
+
+#EXTINF:-1 tvg-name="Viasat Explore" group-title="Documentary",Viasat Explore
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12085/index.m3u8
+
+#EXTINF:-1 tvg-name="Viasat History" group-title="Documentary",Viasat History
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12101/index.m3u8
+
+#EXTINF:-1 tvg-name="Viasat Nature" group-title="Documentary",Viasat Nature
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12084/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT Belgesel" group-title="Documentary",TRT Belgesel
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv-trtbelgesel.medya.trt.com.tr/master.m3u8

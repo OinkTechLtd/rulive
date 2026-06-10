@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-10 00:21:15
-# Всего каналов: 16704
-# Новых за сессию: 0
+# Обновлено: 2026-06-10 04:58:33
+# Всего каналов: 16771
+# Новых за сессию: 67
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General
-# Каналов: 2334
-# Обновлено: 2026-06-10 00:21:16
+# Каналов: 2341
+# Обновлено: 2026-06-10 04:58:33
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="БелРос (576p)" group-title="General",БелРос (576p)
@@ -6696,6 +6696,27 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/amg17233-amg17233c1-wi
 
 #EXTINF:-1 tvg-name="Channel 8 International (576p)" group-title="General",Channel 8 International (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/v4.proofix.ru/8tv-europe/index.m3u8
+
+#EXTINF:-1 tvg-name="2+2" group-title="General",2+2
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6378/index.m3u8
+
+#EXTINF:-1 tvg-name="WDR Fernsehen" group-title="General",WDR Fernsehen
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
+
+#EXTINF:-1 tvg-name="Euro D" group-title="General",Euro D
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RecordTV" group-title="General",RecordTV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Canal 5 [Geo-blocked]" group-title="General",Canal 5 [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.5.119.43:4000/play/a05o/index.m3u8
+
+#EXTINF:-1 tvg-name="Taraqqiyot TV" group-title="General",Taraqqiyot TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="BBC Two" group-title="General",BBC Two
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
 
 #EXTINF:-1 tvg-name="ОНТ (576p)" group-title="General",ОНТ (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.dc.beltelecom.by/ont/ont/playlist.m3u8
