@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-10 23:26:29
-# Всего каналов: 16771
-# Новых за сессию: 0
+# Обновлено: 2026-06-11 02:01:23
+# Всего каналов: 16818
+# Новых за сессию: 47
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Religious
 # Каналов: 2
-# Обновлено: 2026-06-10 23:26:29
+# Обновлено: 2026-06-11 02:01:23
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Paighan TV" group-title="Education;Religious",Paighan TV
@@ -1830,6 +1830,10 @@ https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
 https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
 #EXTINF:-1 tvg-name="Plovdivska Pravoslavna TV" group-title="Religious",Plovdivska Pravoslavna TV
 http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Kids" group-title="Education;Kids",Pluto TV Kids
+https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8
+#EXTINF:-1 tvg-name="Pronto-socorro: Histórias De Emergência" group-title="Education",Pronto-socorro: Histórias De Emergência
+https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
 #EXTINF:-1 tvg-name="Quran" group-title="Religious",Quran
 https://ncdn.telewebion.ir/quran/live/playlist.m3u8
 #EXTINF:-1 tvg-name="RasoulallahTv" group-title="Religious",RasoulallahTv

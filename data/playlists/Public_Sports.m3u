@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-10 23:26:29
-# Всего каналов: 16771
-# Новых за сессию: 0
+# Обновлено: 2026-06-11 02:01:23
+# Всего каналов: 16818
+# Новых за сессию: 47
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Public;Sports
 # Каналов: 2
-# Обновлено: 2026-06-10 23:26:29
+# Обновлено: 2026-06-11 02:01:23
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Esport3" group-title="Public;Sports",Esport3
@@ -720,6 +720,12 @@ https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
 https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true
 #EXTINF:-1 tvg-name="FomixTV" group-title="General;Music;Public",FomixTV
 https://stream.fomixmedia.nl/FomixTV/video.m3u8
+#EXTINF:-1 tvg-name="FOX Sports" group-title="Sports",FOX Sports
+https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Deportes" group-title="Sports",Pluto TV Deportes
+https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Sport" group-title="Sports",Pluto TV Sport
+https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8
 #EXTINF:-1 tvg-name="El-Heddaf TV (1080i)" group-title="Sports",El-Heddaf TV (1080i)
 https://live.elheddaftv.com:8081/elheddaf/index.mpd
 #EXTINF:-1 tvg-name="ESPN" group-title="Sports",ESPN
@@ -780,3 +786,7 @@ https://cdn1.etbon.eus/etb2/index.m3u8
 https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="V Sport Golf" group-title="Sports",V Sport Golf
 http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 2 (480p)" group-title="Sports",Fox Sports 2 (480p)
+https://tvsen7.aynaott.com/foxsports2/index.m3u8
+#EXTINF:-1 tvg-name="Willow" group-title="Sports",Willow
+https://tvsen5.aynaott.com/willowhd/index.m3u8

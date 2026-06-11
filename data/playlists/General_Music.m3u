@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-10 23:26:29
-# Всего каналов: 16771
-# Новых за сессию: 0
+# Обновлено: 2026-06-11 02:01:23
+# Всего каналов: 16818
+# Новых за сессию: 47
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Music
 # Каналов: 3
-# Обновлено: 2026-06-10 23:26:29
+# Обновлено: 2026-06-11 02:01:23
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ACW UG TV (480p)" group-title="General;Music",ACW UG TV (480p)
@@ -4939,6 +4939,8 @@ https://stream.theyraonline.com/live/channel13@live/index.m3u8
 http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8
 #EXTINF:-1 tvg-name="City One Television" group-title="General",City One Television
 http://maxotts.maxdigitaltv.com/x-media/C209/master.m3u8
+#EXTINF:-1 tvg-name="Concert Channel" group-title="Music",Concert Channel
+https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
 #EXTINF:-1 tvg-name="Csurgó TV" group-title="General",Csurgó TV
 http://79.120.178.90:1935/csurgotv/csurgolive/playlist.m3u8
 #EXTINF:-1 tvg-name="ČT 1" group-title="General",ČT 1
@@ -5115,6 +5117,8 @@ https://live.itv.az/itv.m3u8
 https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Ilam" group-title="General",Ilam
 https://ncdn.telewebion.ir/ilam/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Imagen TV+" group-title="General",Imagen TV+
+https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8
 #EXTINF:-1 tvg-name="Indigenous Television" group-title="General",Indigenous Television
 https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="General",Indosiar [Geo-blocked]" group-title="General",like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="General",Indosiar [Geo-blocked]
@@ -5349,6 +5353,10 @@ https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
 https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
 #EXTINF:-1 tvg-name="MTV3" group-title="General",MTV3
 https://live-fi.tvkaista.net/mtv3/live.m3u8
+#EXTINF:-1 tvg-name="MTV Classic" group-title="Music",MTV Classic
+https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
+#EXTINF:-1 tvg-name="MTV Spankin’ New" group-title="Music",MTV Spankin’ New
+https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8
 #EXTINF:-1 tvg-name="Muscel TV" group-title="General",Muscel TV
 https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Nama TV" group-title="General",Nama TV
@@ -5811,6 +5819,8 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",UBS" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",UBS
 https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd
+#EXTINF:-1 tvg-name="Vevo True School Hip-Hop" group-title="Music",Vevo True School Hip-Hop
+https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
 #EXTINF:-1 tvg-name="Vizion Plus" group-title="General",Vizion Plus
 https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
 #EXTINF:-1 tvg-name="Vokta TV" group-title="General",Vokta TV
@@ -5991,3 +6001,25 @@ http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/19172/index.m3u8
 http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/19174/index.m3u8
 #EXTINF:-1 tvg-name="Eska TV Extra" group-title="Music",Eska TV Extra
 http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/19173/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Music",MCM Top (576p)" group-title="Music",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Music",MCM Top (576p)
+https://iptv.prosto.tv/ch137/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Music",4ever Music" group-title="Music",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Music",4ever Music
+https://iptv.prosto.tv/ch132/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Music",¡Viva Latino!" group-title="Music",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Music",¡Viva Latino!
+https://iptv.prosto.tv/ch138/index.m3u8
+#EXTINF:-1 tvg-name="M1" group-title="Music",M1
+https://iptv.prosto.tv/ch122/index.m3u8
+#EXTINF:-1 tvg-name="M2" group-title="Music",M2
+https://iptv.prosto.tv/ch123/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Music",UA Music" group-title="Music",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Music",UA Music
+https://iptv.prosto.tv/ch133/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="General",Belsat TV (576p)" group-title="General",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="General",Belsat TV (576p)
+https://iptv.prosto.tv/ch171/index.m3u8
+#EXTINF:-1 tvg-name="JOCX-DTV" group-title="General",JOCX-DTV
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Music",360TuneBox (576p)" group-title="Music",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Music",360TuneBox (576p)
+https://iptv.prosto.tv/ch141/index.m3u8
+#EXTINF:-1 tvg-name="That's 70s" group-title="Music",That's 70s
+https://jmp2.uk/plu-69ef53e12f4d2b4f9c582e76.m3u8
+#EXTINF:-1 tvg-name="That's 80s" group-title="Music",That's 80s
+https://jmp2.uk/plu-69ef54f3c700cf0140272def.m3u8

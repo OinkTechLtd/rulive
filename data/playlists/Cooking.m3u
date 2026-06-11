@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-10 23:26:29
-# Всего каналов: 16771
-# Новых за сессию: 0
+# Обновлено: 2026-06-11 02:01:23
+# Всего каналов: 16818
+# Новых за сессию: 47
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Cooking
-# Каналов: 30
-# Обновлено: 2026-06-10 23:26:29
+# Каналов: 31
+# Обновлено: 2026-06-11 02:01:23
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Кухня ТВ (576p)" group-title="Cooking",Кухня ТВ (576p)
@@ -97,6 +97,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream1.antenaplay.ro/
 #EXTINF:-1 tvg-name="Masala TV (576p)" group-title="Cooking",Masala TV (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/103.250.28.74:8000/play/a02x/index.m3u8
 
+#EXTINF:-1 tvg-name="Pluto TV Cocina" group-title="Cooking",Pluto TV Cocina
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
+
 #EXTINF:-1 tvg-name="Tastemade" group-title="Cooking",Tastemade
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tastemade-aus-tmina-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-tm-intl-aus-rakuten-eu/CDN/master.m3u8
 
@@ -108,3 +111,7 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
 https://mumt03.tangotv.in/FOODFOOD/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Cooking",Dens Food Channel [Geo-blocked]" group-title="Cooking",like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Cooking",Dens Food Channel [Geo-blocked]
 https://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8
+#EXTINF:-1 tvg-name="Gambero Rosso" group-title="Cooking;Lifestyle",Gambero Rosso
+https://jmp2.uk/plu-6971fc07c945e6e4e5bc46bf.m3u8
+#EXTINF:-1 tvg-name="TV5MONDE Chefs" group-title="Cooking;Lifestyle",TV5MONDE Chefs
+https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8

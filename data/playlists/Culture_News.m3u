@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-10 23:26:29
-# Всего каналов: 16771
-# Новых за сессию: 0
+# Обновлено: 2026-06-11 02:01:23
+# Всего каналов: 16818
+# Новых за сессию: 47
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;News
-# Каналов: 10
-# Обновлено: 2026-06-10 23:26:29
+# Каналов: 11
+# Обновлено: 2026-06-11 02:01:23
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Channel One" group-title="Culture;News",Channel One
@@ -39,6 +39,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/c3921155.edmonst.net/i
 
 #EXTINF:-1 tvg-name="NHK World-Japan" group-title="Culture;News",NHK World-Japan
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+
+#EXTINF:-1 tvg-name="Ost West 24" group-title="Culture;News",Ost West 24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/iptv.prosto.tv/ch237/index.m3u8
 
 #EXTINF:-1 tvg-name="Дождь (альтернативный)" group-title="News",Дождь (альтернативный)
 https://stream.tvrain.tv/live/tvrain.m3u8
@@ -2258,6 +2261,10 @@ https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8
 https://dash3.antik.sk/live/test_vita/playlist.m3u8
 #EXTINF:-1 tvg-name="TVR Cultural" group-title="Culture",TVR Cultural
 https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 tvg-name="Miracle TV" group-title="News",Miracle TV
+https://live.miracleonline.org/hls/miracle1.m3u8
+#EXTINF:-1 tvg-name="RCN Noticias" group-title="News",RCN Noticias
+https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
 #EXTINF:-1 tvg-name="MediBizTV" group-title="Education;News;Science",MediBizTV
 https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8
 #EXTINF:-1 tvg-name="NowMedia Television" group-title="Lifestyle;News",NowMedia Television
@@ -2300,3 +2307,7 @@ http://41.205.93.154/FOX-NEWS/index.m3u8
 https://s6.hopslan.com/n24X/index.m3u8
 #EXTINF:-1 tvg-name="Franceinfo" group-title="News",Franceinfo
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinfotv.m3u8
+#EXTINF:-1 tvg-name="Sky News" group-title="News",Sky News
+https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
+#EXTINF:-1 tvg-name="RTS Info" group-title="News",RTS Info
+https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
