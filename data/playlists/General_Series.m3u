@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-11 23:22:55
-# Всего каналов: 16818
-# Новых за сессию: 0
+# Обновлено: 2026-06-12 01:57:55
+# Всего каналов: 16922
+# Новых за сессию: 104
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Series
 # Каналов: 1
-# Обновлено: 2026-06-11 23:22:55
+# Обновлено: 2026-06-12 01:57:55
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Super TV" group-title="General;Series",Super TV
@@ -3883,6 +3883,8 @@ https://stream.fomixmedia.nl/FomixTV/video.m3u8
 https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="HTV3" group-title="Entertainment;General;Series",HTV3
 https://vc.101vn.com/htv/htvcmb.php?id=2535
+#EXTINF:-1 tvg-name="48 Hours GB" group-title="Series",48 Hours GB
+https://jmp2.uk/plu-6299e5afdd5833000727e795.m3u8
 #EXTINF:-1 tvg-name="Afra Series" group-title="Series",Afra Series
 https://afrashls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="AVA Series" group-title="Series",AVA Series
@@ -3947,6 +3949,8 @@ https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
 https://stream8.cinerama.uz/1457/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Andorra TV" group-title="General",Andorra TV
 https://livesg1.rtva.hiway.media/65cea6ac-6944-4e45-b661-9dd47ea45c48/manifest.m3u8
+#EXTINF:-1 tvg-name="Andromeda Italy" group-title="Series",Andromeda Italy
+https://jmp2.uk/plu-60802d37ee238e0007c94e64.m3u8
 #EXTINF:-1 tvg-name="Antena 1" group-title="General",Antena 1
 https://hls.rundletv.eu.org/LIVE$Antena1/6.m3u8/Level/300720051?end=END&start=LIVE
 #EXTINF:-1 tvg-name="Anthony Bourdain: Parts Unknown" group-title="Series",Anthony Bourdain: Parts Unknown
@@ -5195,3 +5199,23 @@ https://iptv.prosto.tv/ch171/index.m3u8
 https://fujitv4.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-name="Married... with Children" group-title="Series",Married... with Children
 https://jmp2.uk/plu-66bb3212fe11e5000883ea6b.m3u8
+#EXTINF:-1 tvg-name="Bragado TV" group-title="General",Bragado TV
+https://mp.panelchs.com:1936/8028/ngrp:8028_all/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 2 Gualeguay" group-title="General",Canal 2 Gualeguay
+https://stream.arcast.net:4443/gualeguay/gualeguay/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 2 Mar del Plata" group-title="General",Canal 2 Mar del Plata
+https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
+#EXTINF:-1 tvg-name="Canal 3 Tacural" group-title="General",Canal 3 Tacural
+http://vivo.canal3tacural.com.ar:8081/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Canal 4 Teleaire" group-title="General",Canal 4 Teleaire
+https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
+#EXTINF:-1 tvg-name="HauntTV CA" group-title="Series",HauntTV CA
+https://jmp2.uk/plu-63934c218ef524000757b122.m3u8
+#EXTINF:-1 tvg-name="Naxcivan TV" group-title="General",Naxcivan TV
+https://str2.yodacdn.net/ntv/video.m3u8
+#EXTINF:-1 tvg-name="Nex TV Canal 21" group-title="General",Nex TV Canal 21
+https://movil.ejeserver.com/live/nextv.m3u8
+#EXTINF:-1 tvg-name="Tele Sahel" group-title="General",Tele Sahel
+https://mediaserver1.castpin.com/hls/telesahel/index.m3u8
+#EXTINF:-1 tvg-name="Holy Quran Radio" group-title="General;Religious",Holy Quran Radio
+https://aloula-redirect.vercel.app/13/playlist.m3u8

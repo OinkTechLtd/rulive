@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-11 23:22:55
-# Всего каналов: 16818
-# Новых за сессию: 0
+# Обновлено: 2026-06-12 01:57:55
+# Всего каналов: 16922
+# Новых за сессию: 104
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;News
 # Каналов: 1
-# Обновлено: 2026-06-11 23:22:55
+# Обновлено: 2026-06-12 01:57:55
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Dabanga TV" group-title="Education;News",Dabanga TV
@@ -2385,8 +2385,6 @@ https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
 https://alpha.tv.online.tm/hls/ch002.m3u8
 #EXTINF:-1 tvg-name="Miracle TV" group-title="News",Miracle TV
 https://live.miracleonline.org/hls/miracle1.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Kids" group-title="Education;Kids",Pluto TV Kids
-https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8
 #EXTINF:-1 tvg-name="Pronto-socorro: Histórias De Emergência" group-title="Education",Pronto-socorro: Histórias De Emergência
 https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
 #EXTINF:-1 tvg-name="RCN Noticias" group-title="News",RCN Noticias
@@ -2415,6 +2413,8 @@ http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 https://imn-live.esite-lab.com/hls/iraqia-news.m3u8
 #EXTINF:-1 tvg-name="Euronews German" group-title="News",Euronews German
 https://575b7833.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0RldXRzY2hfSExT/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC News (HEVC)" group-title="News",BBC News (HEVC)
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-name="Antara TV" group-title="News",Antara TV
 https://indihuy.streamized.net/atm/DASH/antara/manifest.mpd
 #EXTINF:-1 tvg-name="Sin Po TV" group-title="News;Sports",Sin Po TV
@@ -2443,3 +2443,9 @@ https://iptv.prosto.tv/ch237/index.m3u8
 https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
 #EXTINF:-1 tvg-name="RTS Info" group-title="News",RTS Info
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
+#EXTINF:-1 tvg-name="Quantica TV" group-title="News",Quantica TV
+https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
+#EXTINF:-1 tvg-name="TV Cuatro 4.4" group-title="Education",TV Cuatro 4.4
+https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8
+#EXTINF:-1 tvg-name="BBC Persian (HEVC)" group-title="News",BBC Persian (HEVC)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/hevc_iptv_mse_v0.mpd

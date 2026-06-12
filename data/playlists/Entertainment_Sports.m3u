@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-11 23:22:55
-# Всего каналов: 16818
-# Новых за сессию: 0
+# Обновлено: 2026-06-12 01:57:55
+# Всего каналов: 16922
+# Новых за сессию: 104
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Sports
 # Каналов: 3
-# Обновлено: 2026-06-11 23:22:55
+# Обновлено: 2026-06-12 01:57:55
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Entertainment;Sports",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -1417,7 +1417,7 @@ https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
 https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 #EXTINF:-1 tvg-name="Nitida TV" group-title="Entertainment",Nitida TV
 https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8
-#EXTINF:-1 tvg-name="Norteña TV" group-title="Entertainment",Norteña TV
+#EXTINF:-1 tvg-name="Norteña TV (576p)" group-title="Entertainment",Norteña TV (576p)
 https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8
 #EXTINF:-1 tvg-name="Oasis TV" group-title="Entertainment",Oasis TV
 https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
@@ -1853,6 +1853,8 @@ https://hls.yourtime.live/hls/stream.m3u8
 https://jmp2.uk/plu-666815f24b9fb400083f7e31.m3u8
 #EXTINF:-1 tvg-name="Best of The Drew Barrymore Show" group-title="Entertainment",Best of The Drew Barrymore Show
 https://jmp2.uk/plu-6310cbee5a8ad300070fdb7c.m3u8
+#EXTINF:-1 tvg-name="DAZN Combat (684p)" group-title="Sports",DAZN Combat (684p)
+https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
 #EXTINF:-1 tvg-name="En el punto de mira" group-title="Entertainment",En el punto de mira
 https://jmp2.uk/plu-61922be835f3910007fc58f6.m3u8
 #EXTINF:-1 tvg-name="Ex On The Beach" group-title="Entertainment",Ex On The Beach
@@ -1977,3 +1979,7 @@ https://tvsen5.aynaott.com/willowhd/index.m3u8
 https://iptv.prosto.tv/ch256/index.m3u8
 #EXTINF:-1 tvg-name="MTV Global" group-title="Entertainment",MTV Global
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/12055/index.m3u8
+#EXTINF:-1 tvg-name="MEGOGO Sport [Geo-blocked]" group-title="Sports",MEGOGO Sport [Geo-blocked]
+http://471ccec7.tvclub.xyz/iptv/BUYS9YTNABMC25/31612/index.m3u8
+#EXTINF:-1 tvg-name="TV Cuatro 4.3" group-title="Sports",TV Cuatro 4.3
+https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8

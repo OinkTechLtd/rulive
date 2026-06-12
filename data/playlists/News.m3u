@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-11 23:22:55
-# Всего каналов: 16818
-# Новых за сессию: 0
+# Обновлено: 2026-06-12 01:57:55
+# Всего каналов: 16922
+# Новых за сессию: 104
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News
-# Каналов: 934
-# Обновлено: 2026-06-11 23:22:55
+# Каналов: 945
+# Обновлено: 2026-06-12 01:57:55
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Дождь (альтернативный)" group-title="News",Дождь (альтернативный)
@@ -2539,7 +2539,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cbsn-us-vtt.cbsnstream
 #EXTINF:-1 tvg-name="Euronews German" group-title="News",Euronews German
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/575b7833.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0RldXRzY2hfSExT/playlist.m3u8
 
-#EXTINF:-1 tvg-name="BBC News" group-title="News",BBC News
+#EXTINF:-1 tvg-name="BBC News (HEVC)" group-title="News",BBC News (HEVC)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd
 
 #EXTINF:-1 tvg-name="Antara TV" group-title="News",Antara TV
@@ -2595,6 +2595,39 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-55b285cd26
 
 #EXTINF:-1 tvg-name="RTS Info" group-title="News",RTS Info
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
+
+#EXTINF:-1 tvg-name="ABP News" group-title="News",ABP News
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8
+
+#EXTINF:-1 tvg-name="Republic TV" group-title="News",Republic TV
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicTV.m3u8
+
+#EXTINF:-1 tvg-name="Zee Bihar Jharkhand" group-title="News",Zee Bihar Jharkhand
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBiharJharkhand.m3u8
+
+#EXTINF:-1 tvg-name="Quantica TV" group-title="News",Quantica TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
+
+#EXTINF:-1 tvg-name="DW English" group-title="News",DW English
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8
+
+#EXTINF:-1 tvg-name="WION" group-title="News",WION
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20c3c0d9-0256-43fe-bca6-70fdd490b957/main.m3u8
+
+#EXTINF:-1 tvg-name="Nanduti" group-title="News",Nanduti
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/copacogen.desdeparaguay.net/nandutitv/nandutitv_baja/index.m3u8
+
+#EXTINF:-1 tvg-name="Al Ekhbariya" group-title="News",Al Ekhbariya
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/aloula-redirect.vercel.app/4/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BBC Persian (HEVC)" group-title="News",BBC Persian (HEVC)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/hevc_iptv_mse_v0.mpd
+
+#EXTINF:-1 tvg-name="Polsat News [Geo-blocked]" group-title="News",Polsat News [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8
+
+#EXTINF:-1 tvg-name="Polsat News Polityka [Geo-blocked]" group-title="News",Polsat News Polityka [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-s-lb2.pluscdn.pl/lv/1511888/322/hls/bd3b0bfe/masterlist.m3u8
 
 #EXTINF:-1 tvg-name="Беларусь 24" group-title="News",Беларусь 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8

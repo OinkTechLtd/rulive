@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-11 23:22:55
-# Всего каналов: 16818
-# Новых за сессию: 0
+# Обновлено: 2026-06-12 01:57:55
+# Всего каналов: 16922
+# Новых за сессию: 104
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Religious
-# Каналов: 691
-# Обновлено: 2026-06-11 23:22:55
+# Каналов: 694
+# Обновлено: 2026-06-12 01:57:55
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Спас (450p) [Geo-blocked]" group-title="Religious",Спас (450p) [Geo-blocked]
@@ -2029,6 +2029,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.bcntv.org/live/bc
 #EXTINF:-1 tvg-name="KTO (404p)" group-title="Religious",KTO (404p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
+#EXTINF:-1 tvg-name="Aastha" group-title="Religious",Aastha
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/103.213.31.109:90/AasthaSD/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CNA (360p)" group-title="Religious",CNA (360p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.creacast.com/cna/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ch4Teen" group-title="Religious",Ch4Teen
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ch14.tv/live/ch4teen1/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Aghapy TV" group-title="Religious",Aghapy TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
 
@@ -2143,3 +2152,5 @@ https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 tvg-name="Paighan TV" group-title="Education;Religious",Paighan TV
 http://116.90.120.151:8000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-name="Holy Quran Radio" group-title="General;Religious",Holy Quran Radio
+https://aloula-redirect.vercel.app/13/playlist.m3u8
