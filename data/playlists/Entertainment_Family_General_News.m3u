@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-13 00:22:57
-# Всего каналов: 16922
-# Новых за сессию: 0
+# Обновлено: 2026-06-13 05:03:04
+# Всего каналов: 16972
+# Новых за сессию: 50
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Family;General;News
 # Каналов: 1
-# Обновлено: 2026-06-13 00:22:58
+# Обновлено: 2026-06-13 05:03:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="TV Paraense" group-title="Entertainment;Family;General;News",TV Paraense
@@ -6895,6 +6895,8 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
 https://ncdn.telewebion.ir/eshragh/live/playlist.m3u8
 #EXTINF:-1 tvg-name="ESTV (420p)" group-title="General",ESTV (420p)
 https://cloudfront44.lexanetwork.com:1344/relay01/HDE032.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Euronews Spanish" group-title="News",Euronews Spanish
+https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
 #EXTINF:-1 tvg-name="Eveo" group-title="General",Eveo
 https://live-fi.tvkaista.net/eveo/live.m3u8?hd=true
 #EXTINF:-1 tvg-name="Evrokom (360p)" group-title="General",Evrokom (360p)
@@ -7217,6 +7219,8 @@ https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
 https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
 #EXTINF:-1 tvg-name="MTV3" group-title="General",MTV3
 https://live-fi.tvkaista.net/mtv3/live.m3u8
+#EXTINF:-1 tvg-name="MTV Pluto TV LatAm" group-title="Entertainment",MTV Pluto TV LatAm
+https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
 #EXTINF:-1 tvg-name="Muscel TV" group-title="General",Muscel TV
 https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Nama TV" group-title="General",Nama TV
@@ -7915,6 +7919,8 @@ https://iptv.prosto.tv/ch171/index.m3u8
 https://iptv.prosto.tv/ch237/index.m3u8
 #EXTINF:-1 tvg-name="JOCX-DTV" group-title="General",JOCX-DTV
 https://fujitv4.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-name="JOEX-DTV (540p)" group-title="General",JOEX-DTV (540p)
+https://tvasahi.mov3.co/hls/tvasahi.m3u8
 #EXTINF:-1 tvg-name="Gametoon" group-title="Entertainment",Gametoon
 https://iptv.prosto.tv/ch256/index.m3u8
 #EXTINF:-1 tvg-name="MTV Global" group-title="Entertainment",MTV Global
@@ -7945,3 +7951,25 @@ https://mediaserver1.castpin.com/hls/telesahel/index.m3u8
 https://aloula-redirect.vercel.app/13/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC Persian (HEVC)" group-title="News",BBC Persian (HEVC)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-name="IRT" group-title="General",IRT
+https://stream.irt.ua/memfs/8fac7cbb-3356-4a03-bb77-4439b727ebd2.m3u8
+#EXTINF:-1 tvg-name="ABTV Bariloche" group-title="General",ABTV Bariloche
+https://videostream.shockmedia.com.ar/hls/abtvbariloche/abtvbariloche.m3u8
+#EXTINF:-1 tvg-name="Radio UP" group-title="General",Radio UP
+https://iptv.ixfo.com.ar:30443/live/RadioUpTvStreaming/playlist.m3u8
+#EXTINF:-1 tvg-name="entelevision" group-title="General",entelevision
+https://stream.haislin.com/entelevision/index.m3u8
+#EXTINF:-1 tvg-name="Guayape TV" group-title="General",Guayape TV
+https://tv.bitstreaming.net:8443/live/guayapetv.m3u8
+#EXTINF:-1 tvg-name="ICN Digital" group-title="News",ICN Digital
+https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8
+#EXTINF:-1 tvg-name="Puringla TV" group-title="General",Puringla TV
+https://stmv2.srvif.com/puringla/puringla/playlist.m3u8
+#EXTINF:-1 tvg-name="Vega Teve" group-title="General",Vega Teve
+https://cloud5.livescast.com:19360/canalvegateve/canalvegateve.m3u8
+#EXTINF:-1 tvg-name="Filinfo TV" group-title="News",Filinfo TV
+https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8
+#EXTINF:-1 tvg-name="Ritmu TV" group-title="Entertainment",Ritmu TV
+https://659605a54e9a6.streamlock.net:8443/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="APA Tv" group-title="News",APA Tv
+http://stream.apa.tv/apastream/index.m3u8

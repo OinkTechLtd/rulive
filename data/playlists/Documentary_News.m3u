@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-13 00:22:57
-# Всего каналов: 16922
-# Новых за сессию: 0
+# Обновлено: 2026-06-13 05:03:04
+# Всего каналов: 16972
+# Новых за сессию: 50
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;News
 # Каналов: 5
-# Обновлено: 2026-06-13 00:22:58
+# Обновлено: 2026-06-13 05:03:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="India TV Aap Ki Adalat [Geo-blocked]" group-title="Documentary;News",India TV Aap Ki Adalat [Geo-blocked]
@@ -2179,6 +2179,8 @@ https://jmp2.uk/plu-60ed5fb9c4716d0007d180c5.m3u8
 https://jmp2.uk/plu-64e87c6b28cec700088ceb55.m3u8
 #EXTINF:-1 tvg-name="Dossiers FBI" group-title="Documentary",Dossiers FBI
 https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8
+#EXTINF:-1 tvg-name="Euronews Spanish" group-title="News",Euronews Spanish
+https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
 #EXTINF:-1 tvg-name="Historia y Vida" group-title="Documentary",Historia y Vida
 https://jmp2.uk/plu-67517f923a61d40008c451f0.m3u8
 #EXTINF:-1 tvg-name="Miracle TV" group-title="News",Miracle TV
@@ -2255,3 +2257,9 @@ https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 #EXTINF:-1 tvg-name="BBC Persian (HEVC)" group-title="News",BBC Persian (HEVC)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-name="ICN Digital" group-title="News",ICN Digital
+https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8
+#EXTINF:-1 tvg-name="Filinfo TV" group-title="News",Filinfo TV
+https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8
+#EXTINF:-1 tvg-name="APA Tv" group-title="News",APA Tv
+http://stream.apa.tv/apastream/index.m3u8

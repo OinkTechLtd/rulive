@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-13 00:22:57
-# Всего каналов: 16922
-# Новых за сессию: 0
+# Обновлено: 2026-06-13 05:03:04
+# Всего каналов: 16972
+# Новых за сессию: 50
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;News
 # Каналов: 1
-# Обновлено: 2026-06-13 00:22:58
+# Обновлено: 2026-06-13 05:03:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Indywood TV" group-title="Movies;News",Indywood TV
@@ -2739,6 +2739,8 @@ https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m
 https://jmp2.uk/plu-5f5136317aedfb0007016f93.m3u8
 #EXTINF:-1 tvg-name="Estrellas de Acción" group-title="Movies",Estrellas de Acción
 https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
+#EXTINF:-1 tvg-name="Euronews Spanish" group-title="News",Euronews Spanish
+https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
 #EXTINF:-1 tvg-name="Miracle TV" group-title="News",Miracle TV
 https://live.miracleonline.org/hls/miracle1.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Cine Acción" group-title="Movies",Pluto TV Cine Acción
@@ -2771,6 +2773,8 @@ https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
 https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
 #EXTINF:-1 tvg-name="Runtime" group-title="Movies",Runtime
 https://jmp2.uk/plu-6086d3f420fc8500075f8dbf.m3u8
+#EXTINF:-1 tvg-name="Wild Side TV" group-title="Movies",Wild Side TV
+https://jmp2.uk/plu-60b4d6c806ad2a00073b3108.m3u8
 #EXTINF:-1 tvg-name="Whiplash Cinema (480p)" group-title="Movies",Whiplash Cinema (480p)
 https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
 #EXTINF:-1 tvg-name="MediBizTV" group-title="Education;News;Science",MediBizTV
@@ -2905,3 +2909,9 @@ https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8
 #EXTINF:-1 tvg-name="BBC Persian (HEVC)" group-title="News",BBC Persian (HEVC)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-name="ICN Digital" group-title="News",ICN Digital
+https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8
+#EXTINF:-1 tvg-name="Filinfo TV" group-title="News",Filinfo TV
+https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8
+#EXTINF:-1 tvg-name="APA Tv" group-title="News",APA Tv
+http://stream.apa.tv/apastream/index.m3u8

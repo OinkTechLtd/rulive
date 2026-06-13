@@ -1,7 +1,7 @@
 #EXTM3U
-# Обновлено: 2026-06-13 00:22:57
-# Всего каналов: 16922
-# Новых за сессию: 0
+# Обновлено: 2026-06-13 05:03:04
+# Всего каналов: 16972
+# Новых за сессию: 50
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
@@ -30689,13 +30689,13 @@ https://secure-272717.tatnet.app/cloudfront44.lexanetwork.com:1344/relay01/HDE03
 #EXTINF:-1 tvg-name="ETV" group-title="General",ETV
 https://secure-272717.tatnet.app/sb.err.ee/live/etv.m3u8
 
-#EXTINF:-1 tvg-name="Euronews" group-title="Undefined",Euronews
+#EXTINF:-1 tvg-name="Euronews English" group-title="News",Euronews English
 https://secure-272717.tatnet.app/jmp2.uk/plu-61de96114757070008d33cae.m3u8
 
 #EXTINF:-1 tvg-name="Euronews" group-title="Undefined",Euronews
 https://secure-272717.tatnet.app/jmp2.uk/plu-60d35bcaf1ff4a00078af0a6.m3u8
 
-#EXTINF:-1 tvg-name="Euronews" group-title="Undefined",Euronews
+#EXTINF:-1 tvg-name="Euronews Spanish" group-title="News",Euronews Spanish
 https://secure-272717.tatnet.app/jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
 
 #EXTINF:-1 tvg-name="Euronews" group-title="Undefined",Euronews
@@ -30713,7 +30713,7 @@ https://secure-272717.tatnet.app/fd455e302ce44beb82997b99d4d215fc.mediatailor.us
 #EXTINF:-1 tvg-name="Euronews Español" group-title="Undefined",Euronews Español
 https://secure-272717.tatnet.app/jmp2.uk/plu-619d59b7cbef25000728221c.m3u8
 
-#EXTINF:-1 tvg-name="Euronews Português" group-title="Undefined",Euronews Português
+#EXTINF:-1 tvg-name="Euronews Portuguese" group-title="News",Euronews Portuguese
 https://secure-272717.tatnet.app/jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
 
 #EXTINF:-1 tvg-name="Eventyrlig Oppussing" group-title="Undefined",Eventyrlig Oppussing
@@ -33851,7 +33851,7 @@ https://secure-272717.tatnet.app/jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8
 #EXTINF:-1 tvg-name="MTV Pluto TV" group-title="Entertainment",MTV Pluto TV
 https://secure-272717.tatnet.app/jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
 
-#EXTINF:-1 tvg-name="MTV Pluto TV" group-title="Entertainment",MTV Pluto TV
+#EXTINF:-1 tvg-name="MTV Pluto TV LatAm" group-title="Entertainment",MTV Pluto TV LatAm
 https://secure-272717.tatnet.app/jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
 
 #EXTINF:-1 tvg-name="MTV Reality" group-title="Undefined",MTV Reality
@@ -39605,7 +39605,7 @@ https://secure-272717.tatnet.app/dhiy0zcig7ty1.cloudfront.net/scheduler/schedule
 #EXTINF:-1 tvg-name="Wild Planet" group-title="Undefined",Wild Planet
 https://secure-272717.tatnet.app/d1h8whhtg5u7om.cloudfront.net/WildPlanet_GB.m3u8
 
-#EXTINF:-1 tvg-name="Wild Side TV" group-title="Undefined",Wild Side TV
+#EXTINF:-1 tvg-name="Wild Side TV" group-title="Movies",Wild Side TV
 https://secure-272717.tatnet.app/jmp2.uk/plu-60b4d6c806ad2a00073b3108.m3u8
 
 #EXTINF:-1 tvg-name="Wild West TV" group-title="Undefined",Wild West TV
@@ -42278,7 +42278,7 @@ https://secure-272717.tatnet.app/jmp2.uk/plu-6971fc07c945e6e4e5bc46bf.m3u8
 #EXTINF:-1 tvg-name="JOCX-DTV" group-title="General",JOCX-DTV
 https://secure-272717.tatnet.app/fujitv4.mov3.co/hls/fujitv.m3u8
 
-#EXTINF:-1 tvg-name="TV Asahi Channel 1" group-title="Undefined",TV Asahi Channel 1
+#EXTINF:-1 tvg-name="JOEX-DTV (540p)" group-title="General",JOEX-DTV (540p)
 https://secure-272717.tatnet.app/tvasahi.mov3.co/hls/tvasahi.m3u8
 
 #EXTINF:-1 tvg-name="CreaLaTV" group-title="General",CreaLaTV
@@ -42640,6 +42640,156 @@ https://secure-272717.tatnet.app/cdn-s-lb2.pluscdn.pl/lv/1511888/322/hls/bd3b0bf
 
 #EXTINF:-1 tvg-name="4 Fun TV (576p)" group-title="Music",4 Fun TV (576p)
 https://secure-272717.tatnet.app/srv1.adriatelekom.com/4FunTV/index.m3u8
+
+#EXTINF:-1 tvg-name="IRT" group-title="General",IRT
+https://secure-272717.tatnet.app/stream.irt.ua/memfs/8fac7cbb-3356-4a03-bb77-4439b727ebd2.m3u8
+
+#EXTINF:-1 tvg-name="GSTV" group-title="Shop",GSTV
+https://secure-272717.tatnet.app/japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
+
+#EXTINF:-1 tvg-name="ABTV Bariloche" group-title="General",ABTV Bariloche
+https://secure-272717.tatnet.app/videostream.shockmedia.com.ar/hls/abtvbariloche/abtvbariloche.m3u8
+
+#EXTINF:-1 tvg-name="Radio UP" group-title="General",Radio UP
+https://secure-272717.tatnet.app/iptv.ixfo.com.ar:30443/live/RadioUpTvStreaming/playlist.m3u8
+
+#EXTINF:-1 tvg-name="DocuBox" group-title="Documentary",DocuBox
+https://secure-272717.tatnet.app/iptv.prosto.tv/ch93/index.m3u8
+
+#EXTINF:-1 tvg-name="FightBox" group-title="Sports",FightBox
+https://secure-272717.tatnet.app/iptv.prosto.tv/ch118/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Relax",FunBox U" group-title="Relax",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Relax",FunBox U
+https://secure-272717.tatnet.app/webtvstream.bhtelecom.ba/hls15/funbox.m3u8
+
+#EXTINF:-1 tvg-name="The Indonesia Channel" group-title="Culture;Education",The Indonesia Channel
+https://secure-272717.tatnet.app/restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
+
+#EXTINF:-1 tvg-name="Ahora TV" group-title="General",Ahora TV
+https://secure-272717.tatnet.app/stream.haislin.com/ahoratv/index.m3u8
+
+#EXTINF:-1 tvg-name="Azteca Honduras" group-title="General",Azteca Honduras
+https://secure-272717.tatnet.app/mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
+
+#EXTINF:-1 tvg-name="Canal Catorce" group-title="General",Canal Catorce
+https://secure-272717.tatnet.app/stream.haislin.com/14tv/index.m3u8
+
+#EXTINF:-1 tvg-name="entelevision" group-title="General",entelevision
+https://secure-272717.tatnet.app/stream.haislin.com/entelevision/index.m3u8
+
+#EXTINF:-1 tvg-name="Guayape TV" group-title="General",Guayape TV
+https://secure-272717.tatnet.app/tv.bitstreaming.net:8443/live/guayapetv.m3u8
+
+#EXTINF:-1 tvg-name="ICN Digital" group-title="News",ICN Digital
+https://secure-272717.tatnet.app/streaming.icndigital.com/live_output/icn_live_stream_1.m3u8
+
+#EXTINF:-1 tvg-name="Jehova TV" group-title="Religious",Jehova TV
+https://secure-272717.tatnet.app/mp.panelchs.com:1936/8038/8038/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Puringla TV" group-title="General",Puringla TV
+https://secure-272717.tatnet.app/stmv2.srvif.com/puringla/puringla/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Radio Fiesta de Milagros TV" group-title="Religious",Radio Fiesta de Milagros TV
+https://secure-272717.tatnet.app/tv.webmedialive.com/fiestatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="STVE Telebasica" group-title="Education",STVE Telebasica
+https://secure-272717.tatnet.app/streamingcws30.com/suyapa/videosuyapa/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Vega Teve" group-title="General",Vega Teve
+https://secure-272717.tatnet.app/cloud5.livescast.com:19360/canalvegateve/canalvegateve.m3u8
+
+#EXTINF:-1 tvg-name="Filinfo TV" group-title="News",Filinfo TV
+https://secure-272717.tatnet.app/d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8
+
+#EXTINF:-1 tvg-name="Ritmu TV" group-title="Entertainment",Ritmu TV
+https://secure-272717.tatnet.app/659605a54e9a6.streamlock.net:8443/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="APA Tv" group-title="News",APA Tv
+https://secure-272717.tatnet.app/stream.apa.tv/apastream/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 1" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 1
+https://secure-272717.tatnet.app/nl1.nghk.ai/AS1HRHD/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 1" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 1
+https://secure-272717.tatnet.app/nl1.nghk.ai/ArenaSport1HD/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 1 Premium" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 1 Premium
+https://secure-272717.tatnet.app/nl1.nghk.ai/ArenaPremium1HD/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 2" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 2
+https://secure-272717.tatnet.app/nl1.nghk.ai/AS2HRHD/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 2" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 2
+https://secure-272717.tatnet.app/nl1.nghk.ai/ArenaSport2HD/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 2 Premium" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 2 Premium
+https://secure-272717.tatnet.app/nl1.nghk.ai/ArenaPremium2HD/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 3" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 3
+https://secure-272717.tatnet.app/nl1.nghk.ai/AS3HRHD/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 3" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 3
+https://secure-272717.tatnet.app/nl1.nghk.ai/ArenaSport3HD/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 3 Premium" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 3 Premium
+https://secure-272717.tatnet.app/nl1.nghk.ai/ArenaPremium3HD/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 4" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 4
+https://secure-272717.tatnet.app/nl1.nghk.ai/AS4HRHD/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 4" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 4
+https://secure-272717.tatnet.app/nl1.nghk.ai/ArenaSport4HD/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 4 Premium" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 4 Premium
+https://secure-272717.tatnet.app/nl1.nghk.ai/SK1SRHD/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 5" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 5
+https://secure-272717.tatnet.app/nl1.nghk.ai/AS5HRHD/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 5" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 5
+https://secure-272717.tatnet.app/nl1.nghk.ai/ArenaSport5HD/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 6" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 6
+https://secure-272717.tatnet.app/nl1.nghk.ai/AS6HRHD/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 6" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 6
+https://secure-272717.tatnet.app/nl1.nghk.ai/ArenaSport6HD/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 7" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 7
+https://secure-272717.tatnet.app/nl1.nghk.ai/AS7HRHD/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 7" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 7
+https://secure-272717.tatnet.app/nl1.nghk.ai/ArenaSport7HD/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 8" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 8
+https://secure-272717.tatnet.app/nl1.nghk.ai/AS8HRHD/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 8" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 8
+https://secure-272717.tatnet.app/nl1.nghk.ai/ArenaSport8HD/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 9" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 9
+https://secure-272717.tatnet.app/nl1.nghk.ai/AS9HRHD/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 9" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 9
+https://secure-272717.tatnet.app/nl1.nghk.ai/ArenaSport9HD/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 10" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 10
+https://secure-272717.tatnet.app/nl1.nghk.ai/AS10HRHD/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 10" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 10
+https://secure-272717.tatnet.app/nl1.nghk.ai/ArenaSport10HD/index.m3u8
+
+#EXTINF:-1 tvg-name="Digi Sport 1" group-title="Sports",Digi Sport 1
+https://secure-272717.tatnet.app/315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2523/index.m3u8
+
+#EXTINF:-1 tvg-name="Digi Sport 2" group-title="Sports",Digi Sport 2
+https://secure-272717.tatnet.app/315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2522/index.m3u8
+
+#EXTINF:-1 tvg-name="Digi Sport 3" group-title="Sports",Digi Sport 3
+https://secure-272717.tatnet.app/315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/2524/index.m3u8
+
+#EXTINF:-1 tvg-name="Digi Sport 4" group-title="Sports",Digi Sport 4
+https://secure-272717.tatnet.app/315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/2538/index.m3u8
 
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="IPTV",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8

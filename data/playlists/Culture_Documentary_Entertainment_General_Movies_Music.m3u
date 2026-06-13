@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-13 00:22:57
-# Всего каналов: 16922
-# Новых за сессию: 0
+# Обновлено: 2026-06-13 05:03:04
+# Всего каналов: 16972
+# Новых за сессию: 50
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Documentary;Entertainment;General;Movies;Music
 # Каналов: 1
-# Обновлено: 2026-06-13 00:22:58
+# Обновлено: 2026-06-13 05:03:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Alterna TV" group-title="Culture;Documentary;Entertainment;General;Movies;Music",Alterna TV
@@ -7835,6 +7835,8 @@ https://live-fi.tvkaista.net/mtv3/live.m3u8
 https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
 #EXTINF:-1 tvg-name="Pluto TV MTV Classic" group-title="Music",Pluto TV MTV Classic
 https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
+#EXTINF:-1 tvg-name="MTV Pluto TV LatAm" group-title="Entertainment",MTV Pluto TV LatAm
+https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
 #EXTINF:-1 tvg-name="MTV Spankin’ New" group-title="Music",MTV Spankin’ New
 https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8
 #EXTINF:-1 tvg-name="Muscel TV" group-title="General",Muscel TV
@@ -8363,6 +8365,8 @@ https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8
 https://takeoff.jetstre.am/?account=weeff&file=weeffradio&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-name="WeertFM TV" group-title="General",WeertFM TV
 https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Wild Side TV" group-title="Movies",Wild Side TV
+https://jmp2.uk/plu-60b4d6c806ad2a00073b3108.m3u8
 #EXTINF:-1 tvg-name="Williams TV (480p)" group-title="General",Williams TV (480p)
 http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 #EXTINF:-1 tvg-name="Xezer TV" group-title="General",Xezer TV
@@ -8661,6 +8665,8 @@ https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8
 https://iptv.prosto.tv/ch237/index.m3u8
 #EXTINF:-1 tvg-name="JOCX-DTV" group-title="General",JOCX-DTV
 https://fujitv4.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-name="JOEX-DTV (540p)" group-title="General",JOEX-DTV (540p)
+https://tvasahi.mov3.co/hls/tvasahi.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Music",360TuneBox (576p)" group-title="Music",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Music",360TuneBox (576p)
 https://iptv.prosto.tv/ch141/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox Arthouse (576p)" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox Arthouse (576p)
@@ -8705,3 +8711,21 @@ https://mediaserver1.castpin.com/hls/telesahel/index.m3u8
 https://aloula-redirect.vercel.app/13/playlist.m3u8
 #EXTINF:-1 tvg-name="4 Fun TV (576p)" group-title="Music",4 Fun TV (576p)
 https://srv1.adriatelekom.com/4FunTV/index.m3u8
+#EXTINF:-1 tvg-name="IRT" group-title="General",IRT
+https://stream.irt.ua/memfs/8fac7cbb-3356-4a03-bb77-4439b727ebd2.m3u8
+#EXTINF:-1 tvg-name="ABTV Bariloche" group-title="General",ABTV Bariloche
+https://videostream.shockmedia.com.ar/hls/abtvbariloche/abtvbariloche.m3u8
+#EXTINF:-1 tvg-name="Radio UP" group-title="General",Radio UP
+https://iptv.ixfo.com.ar:30443/live/RadioUpTvStreaming/playlist.m3u8
+#EXTINF:-1 tvg-name="The Indonesia Channel" group-title="Culture;Education",The Indonesia Channel
+https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
+#EXTINF:-1 tvg-name="entelevision" group-title="General",entelevision
+https://stream.haislin.com/entelevision/index.m3u8
+#EXTINF:-1 tvg-name="Guayape TV" group-title="General",Guayape TV
+https://tv.bitstreaming.net:8443/live/guayapetv.m3u8
+#EXTINF:-1 tvg-name="Puringla TV" group-title="General",Puringla TV
+https://stmv2.srvif.com/puringla/puringla/playlist.m3u8
+#EXTINF:-1 tvg-name="Vega Teve" group-title="General",Vega Teve
+https://cloud5.livescast.com:19360/canalvegateve/canalvegateve.m3u8
+#EXTINF:-1 tvg-name="Ritmu TV" group-title="Entertainment",Ritmu TV
+https://659605a54e9a6.streamlock.net:8443/live/livestream/playlist.m3u8

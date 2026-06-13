@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-13 00:22:57
-# Всего каналов: 16922
-# Новых за сессию: 0
+# Обновлено: 2026-06-13 05:03:04
+# Всего каналов: 16972
+# Новых за сессию: 50
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;News;Religious
 # Каналов: 1
-# Обновлено: 2026-06-13 00:22:58
+# Обновлено: 2026-06-13 05:03:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Lingkar TV" group-title="Music;News;Religious",Lingkar TV
@@ -4439,6 +4439,8 @@ https://tvstreamcast.com/tawaftv.m3u8
 https://stream.sstv.ge/live/sstv/playlist.m3u8
 #EXTINF:-1 tvg-name="Eslah TV" group-title="Religious",Eslah TV
 https://eslahtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Euronews Spanish" group-title="News",Euronews Spanish
+https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
 #EXTINF:-1 tvg-name="EWTN Poland" group-title="Religious",EWTN Poland
 https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Exodus TV" group-title="Religious",Exodus TV
@@ -4723,3 +4725,13 @@ https://aloula-redirect.vercel.app/13/playlist.m3u8
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-name="4 Fun TV (576p)" group-title="Music",4 Fun TV (576p)
 https://srv1.adriatelekom.com/4FunTV/index.m3u8
+#EXTINF:-1 tvg-name="ICN Digital" group-title="News",ICN Digital
+https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8
+#EXTINF:-1 tvg-name="Jehova TV" group-title="Religious",Jehova TV
+https://mp.panelchs.com:1936/8038/8038/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Fiesta de Milagros TV" group-title="Religious",Radio Fiesta de Milagros TV
+https://tv.webmedialive.com/fiestatv/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Filinfo TV" group-title="News",Filinfo TV
+https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8
+#EXTINF:-1 tvg-name="APA Tv" group-title="News",APA Tv
+http://stream.apa.tv/apastream/index.m3u8

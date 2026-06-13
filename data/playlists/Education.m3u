@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-13 00:22:57
-# Всего каналов: 16922
-# Новых за сессию: 0
+# Обновлено: 2026-06-13 05:03:04
+# Всего каналов: 16972
+# Новых за сессию: 50
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education
-# Каналов: 190
-# Обновлено: 2026-06-13 00:22:58
+# Каналов: 191
+# Обновлено: 2026-06-13 05:03:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Кто есть Кто (576p)" group-title="Education",Кто есть Кто (576p)
@@ -550,6 +550,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/38.75.136.137:98/gslb/
 #EXTINF:-1 tvg-name="TV Cuatro 4.4" group-title="Education",TV Cuatro 4.4
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8
 
+#EXTINF:-1 tvg-name="STVE Telebasica" group-title="Education",STVE Telebasica
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streamingcws30.com/suyapa/videosuyapa/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Canal Savoir (360p)" group-title="Education",Canal Savoir (360p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls.savoir.media/live/stream.m3u8
 
@@ -662,3 +665,5 @@ https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8
 http://116.90.120.151:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-name="MediBizTV" group-title="Education;News;Science",MediBizTV
 https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8
+#EXTINF:-1 tvg-name="The Indonesia Channel" group-title="Culture;Education",The Indonesia Channel
+https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-13 00:22:57
-# Всего каналов: 16922
-# Новых за сессию: 0
+# Обновлено: 2026-06-13 05:03:04
+# Всего каналов: 16972
+# Новых за сессию: 50
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;News
 # Каналов: 1
-# Обновлено: 2026-06-13 00:22:58
+# Обновлено: 2026-06-13 05:03:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Dabanga TV" group-title="Education;News",Dabanga TV
@@ -2383,6 +2383,8 @@ https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Ýaşlyk (406p)" group-title="Education",Ýaşlyk (406p)
 https://alpha.tv.online.tm/hls/ch002.m3u8
+#EXTINF:-1 tvg-name="Euronews Spanish" group-title="News",Euronews Spanish
+https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
 #EXTINF:-1 tvg-name="Miracle TV" group-title="News",Miracle TV
 https://live.miracleonline.org/hls/miracle1.m3u8
 #EXTINF:-1 tvg-name="Pronto-socorro: Histórias De Emergência" group-title="Education",Pronto-socorro: Histórias De Emergência
@@ -2449,3 +2451,13 @@ https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8
 #EXTINF:-1 tvg-name="BBC Persian (HEVC)" group-title="News",BBC Persian (HEVC)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-name="The Indonesia Channel" group-title="Culture;Education",The Indonesia Channel
+https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
+#EXTINF:-1 tvg-name="ICN Digital" group-title="News",ICN Digital
+https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8
+#EXTINF:-1 tvg-name="STVE Telebasica" group-title="Education",STVE Telebasica
+https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8
+#EXTINF:-1 tvg-name="Filinfo TV" group-title="News",Filinfo TV
+https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8
+#EXTINF:-1 tvg-name="APA Tv" group-title="News",APA Tv
+http://stream.apa.tv/apastream/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-13 00:22:57
-# Всего каналов: 16922
-# Новых за сессию: 0
+# Обновлено: 2026-06-13 05:03:04
+# Всего каналов: 16972
+# Новых за сессию: 50
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Religious
 # Каналов: 5
-# Обновлено: 2026-06-13 00:22:58
+# Обновлено: 2026-06-13 05:03:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Christian Youth Channel (CYC)" group-title="Kids;Religious",Christian Youth Channel (CYC)
@@ -1929,3 +1929,7 @@ https://iptv.prosto.tv/ch71/index.m3u8
 https://live.creacast.com/cna/stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Holy Quran Radio" group-title="General;Religious",Holy Quran Radio
 https://aloula-redirect.vercel.app/13/playlist.m3u8
+#EXTINF:-1 tvg-name="Jehova TV" group-title="Religious",Jehova TV
+https://mp.panelchs.com:1936/8038/8038/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Fiesta de Milagros TV" group-title="Religious",Radio Fiesta de Milagros TV
+https://tv.webmedialive.com/fiestatv/live/playlist.m3u8
