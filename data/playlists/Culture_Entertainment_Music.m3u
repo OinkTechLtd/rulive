@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-13 23:05:28
-# Всего каналов: 16972
-# Новых за сессию: 0
+# Обновлено: 2026-06-14 01:44:23
+# Всего каналов: 17046
+# Новых за сессию: 74
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Entertainment;Music
 # Каналов: 1
-# Обновлено: 2026-06-13 23:05:29
+# Обновлено: 2026-06-14 01:44:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="MBC America" group-title="Culture;Entertainment;Music",MBC America
@@ -2905,3 +2905,25 @@ https://srv1.adriatelekom.com/4FunTV/index.m3u8
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
 #EXTINF:-1 tvg-name="Ritmu TV" group-title="Entertainment",Ritmu TV
 https://659605a54e9a6.streamlock.net:8443/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 10 Mar del Plata" group-title="Entertainment",Canal 10 Mar del Plata
+https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-name="Caras TV" group-title="Entertainment",Caras TV
+https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Chamame TV" group-title="Music",Chamame TV
+https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8
+#EXTINF:-1 tvg-name="LAMIL35 TV" group-title="Animation;Classic;Entertainment",LAMIL35 TV
+https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8
+#EXTINF:-1 tvg-name="Senal U" group-title="Culture",Senal U
+https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
+#EXTINF:-1 tvg-name="La Potente Radio TV" group-title="Entertainment",La Potente Radio TV
+https://latamvdo.com:3626/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="Makao TV (1080i)" group-title="Music",Makao TV (1080i)
+https://live.obslivestream.com/makaomux/index.m3u8
+#EXTINF:-1 tvg-name="Pindin TV" group-title="Music",Pindin TV
+https://sistemastr.tropicalmoonmedia.com/live/7C452409423F57ADC960F6405635267F/7.m3u8
+#EXTINF:-1 tvg-name="BAM-TV" group-title="Culture",BAM-TV
+https://belafrikamediatv.vedge.infomaniak.com/livecast/ik:belafrikamediatv/manifest.m3u8
+#EXTINF:-1 tvg-name="Disco Polo Music" group-title="Music",Disco Polo Music
+http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/19169/index.m3u8
+#EXTINF:-1 tvg-name="VOX Music TV" group-title="Music",VOX Music TV
+http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/19171/index.m3u8

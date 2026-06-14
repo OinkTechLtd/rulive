@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-13 23:05:28
-# Всего каналов: 16972
-# Новых за сессию: 0
+# Обновлено: 2026-06-14 01:44:23
+# Всего каналов: 17046
+# Новых за сессию: 74
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Auto;Entertainment
 # Каналов: 2
-# Обновлено: 2026-06-13 23:05:29
+# Обновлено: 2026-06-14 01:44:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Top Gear" group-title="Auto;Entertainment",Top Gear
@@ -1328,3 +1328,11 @@ https://iptv.prosto.tv/ch256/index.m3u8
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/12055/index.m3u8
 #EXTINF:-1 tvg-name="Ritmu TV" group-title="Entertainment",Ritmu TV
 https://659605a54e9a6.streamlock.net:8443/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 10 Mar del Plata" group-title="Entertainment",Canal 10 Mar del Plata
+https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-name="Caras TV" group-title="Entertainment",Caras TV
+https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="LAMIL35 TV" group-title="Animation;Classic;Entertainment",LAMIL35 TV
+https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8
+#EXTINF:-1 tvg-name="La Potente Radio TV" group-title="Entertainment",La Potente Radio TV
+https://latamvdo.com:3626/hybrid/play.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-13 23:05:28
-# Всего каналов: 16972
-# Новых за сессию: 0
+# Обновлено: 2026-06-14 01:44:23
+# Всего каналов: 17046
+# Новых за сессию: 74
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;News
 # Каналов: 17
-# Обновлено: 2026-06-13 23:05:29
+# Обновлено: 2026-06-14 01:44:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Сочи 24" group-title="General;News",Сочи 24
@@ -6673,6 +6673,8 @@ https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 https://str2.yodacdn.net/ntv/video.m3u8
 #EXTINF:-1 tvg-name="Nex TV Canal 21" group-title="General",Nex TV Canal 21
 https://movil.ejeserver.com/live/nextv.m3u8
+#EXTINF:-1 tvg-name="2M" group-title="General",2M
+https://stream-lb.livemediama.com/2m-tnt/hls/master.m3u8
 #EXTINF:-1 tvg-name="Tele Sahel" group-title="General",Tele Sahel
 https://mediaserver1.castpin.com/hls/telesahel/index.m3u8
 #EXTINF:-1 tvg-name="Holy Quran Radio" group-title="General;Religious",Holy Quran Radio
@@ -6699,3 +6701,47 @@ https://cloud5.livescast.com:19360/canalvegateve/canalvegateve.m3u8
 https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8
 #EXTINF:-1 tvg-name="APA Tv" group-title="News",APA Tv
 http://stream.apa.tv/apastream/index.m3u8
+#EXTINF:-1 tvg-name="Aratu On" group-title="News",Aratu On
+https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
+#EXTINF:-1 tvg-name="BR8 TV" group-title="News",BR8 TV
+https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 99 Miramar" group-title="General",Canal 99 Miramar
+https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
+#EXTINF:-1 tvg-name="Canal TDC" group-title="News",Canal TDC
+https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
+#EXTINF:-1 tvg-name="Correa Radiovision" group-title="General",Correa Radiovision
+https://stream.arcast.net:4443/correadigital/canal12/playlist.m3u8
+#EXTINF:-1 tvg-name="Corrientes TV" group-title="General",Corrientes TV
+https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
+#EXTINF:-1 tvg-name="Eco TV" group-title="General",Eco TV
+https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
+#EXTINF:-1 tvg-name="Itel TV Canal 2" group-title="General",Itel TV Canal 2
+https://proxystream.iteltv.com.ar/output/iteltv/playlist.m3u8
+#EXTINF:-1 tvg-name="Link TV" group-title="General",Link TV
+https://linktv.b-cdn.net/linktv.m3u8
+#EXTINF:-1 tvg-name="Mercurio Noticias" group-title="News",Mercurio Noticias
+https://videostream.shockmedia.com.ar/hls/mercuriotv/mercuriotv.m3u8
+#EXTINF:-1 tvg-name="Neo TV" group-title="General",Neo TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1 tvg-name="San Luis +" group-title="General",San Luis +
+https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
+#EXTINF:-1 tvg-name="TV Publica Marcos Paz" group-title="General",TV Publica Marcos Paz
+https://online.radiomelody.com.ar:2443/hls/mediospublicos.m3u8
+#EXTINF:-1 tvg-name="Pointe TV" group-title="General",Pointe TV
+https://tv.pointville.ag/hls/mystream.m3u8
+#EXTINF:-1 tvg-name="Canal 51" group-title="General",Canal 51
+https://live.cn51hn.com/live/cn51.m3u8
+#EXTINF:-1 tvg-name="Coral TV" group-title="General",Coral TV
+https://tv.mediacp.eu:8081/coraltv/index.m3u8
+#EXTINF:-1 tvg-name="Ozono TV" group-title="General",Ozono TV
+http://vps.chasquirouter.com/salida/ozono.m3u8
+#EXTINF:-1 tvg-name="Telemas" group-title="General",Telemas
+https://s.emisoras.tv:8081/telemas/index.m3u8
+#EXTINF:-1 tvg-name="Waldivision Internacional" group-title="General",Waldivision Internacional
+https://media.streambrothers.com:19360/8308/8308.m3u8
+#EXTINF:-1 tvg-name="MRTV News" group-title="News",MRTV News
+https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
+#EXTINF:-1 tvg-name="Panorama TV" group-title="News",Panorama TV
+https://159.69.221.56/panorama/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="Polsat News 2" group-title="News",Polsat News 2
+http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7297/index.m3u8

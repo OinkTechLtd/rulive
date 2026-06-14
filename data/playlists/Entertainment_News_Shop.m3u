@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-13 23:05:28
-# Всего каналов: 16972
-# Новых за сессию: 0
+# Обновлено: 2026-06-14 01:44:23
+# Всего каналов: 17046
+# Новых за сессию: 74
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;News;Shop
 # Каналов: 1
-# Обновлено: 2026-06-13 23:05:29
+# Обновлено: 2026-06-14 01:44:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Extra ProNews (576p)" group-title="Entertainment;News;Shop",Extra ProNews (576p)
@@ -3405,3 +3405,25 @@ https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/in
 https://659605a54e9a6.streamlock.net:8443/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="APA Tv" group-title="News",APA Tv
 http://stream.apa.tv/apastream/index.m3u8
+#EXTINF:-1 tvg-name="Aratu On" group-title="News",Aratu On
+https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
+#EXTINF:-1 tvg-name="BR8 TV" group-title="News",BR8 TV
+https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 10 Mar del Plata" group-title="Entertainment",Canal 10 Mar del Plata
+https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-name="Canal TDC" group-title="News",Canal TDC
+https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
+#EXTINF:-1 tvg-name="Caras TV" group-title="Entertainment",Caras TV
+https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="LAMIL35 TV" group-title="Animation;Classic;Entertainment",LAMIL35 TV
+https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8
+#EXTINF:-1 tvg-name="Mercurio Noticias" group-title="News",Mercurio Noticias
+https://videostream.shockmedia.com.ar/hls/mercuriotv/mercuriotv.m3u8
+#EXTINF:-1 tvg-name="La Potente Radio TV" group-title="Entertainment",La Potente Radio TV
+https://latamvdo.com:3626/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="MRTV News" group-title="News",MRTV News
+https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
+#EXTINF:-1 tvg-name="Panorama TV" group-title="News",Panorama TV
+https://159.69.221.56/panorama/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="Polsat News 2" group-title="News",Polsat News 2
+http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7297/index.m3u8

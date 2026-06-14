@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-13 23:05:28
-# Всего каналов: 16972
-# Новых за сессию: 0
+# Обновлено: 2026-06-14 01:44:23
+# Всего каналов: 17046
+# Новых за сессию: 74
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: VOD Movies (EN)
 # Каналов: 25
-# Обновлено: 2026-06-13 23:05:29
+# Обновлено: 2026-06-14 01:44:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="FilmRise Movies" group-title="VOD Movies (EN)",FilmRise Movies
@@ -1295,6 +1295,8 @@ https://iptv.prosto.tv/ch63/tracks-v1a1/mono.m3u8?live=1&ip=104.28.156.59&id=921
 https://iptv.prosto.tv/ch64/tracks-v1a1/mono.m3u8?live=1&ip=104.28.156.59&id=921233&secret=9szoe89y&21yo=0&e=1783193705&st=MZPvPD4AwsRPTggeYFQLrA
 #EXTINF:-1 tvg-name="My Cinema Europe" group-title="Movies",My Cinema Europe
 https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
+#EXTINF:-1 tvg-name="Kinosvidanie" group-title="Movies",Kinosvidanie
+https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Nashe Novoe Kino" group-title="Movies",Nashe Novoe Kino
 https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="viju TV1000 russkoe" group-title="Movies",viju TV1000 russkoe
@@ -1343,3 +1345,7 @@ http://103.157.248.140:8000/play/a00b/index.m3u8
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6948/index.m3u8
 #EXTINF:-1 tvg-name="Lollywood TV" group-title="Movies",Lollywood TV
 https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8
+#EXTINF:-1 tvg-name="Kino Polska" group-title="Movies",Kino Polska
+http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/6088/index.m3u8
+#EXTINF:-1 tvg-name="Polsat Film" group-title="Movies",Polsat Film
+http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/6086/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-13 23:05:28
-# Всего каналов: 16972
-# Новых за сессию: 0
+# Обновлено: 2026-06-14 01:44:23
+# Всего каналов: 17046
+# Новых за сессию: 74
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Education;News
 # Каналов: 1
-# Обновлено: 2026-06-13 23:05:29
+# Обновлено: 2026-06-14 01:44:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="UMSA TVU LP" group-title="Culture;Education;News",UMSA TVU LP
@@ -2749,3 +2749,23 @@ https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8
 https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8
 #EXTINF:-1 tvg-name="APA Tv" group-title="News",APA Tv
 http://stream.apa.tv/apastream/index.m3u8
+#EXTINF:-1 tvg-name="Aratu On" group-title="News",Aratu On
+https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
+#EXTINF:-1 tvg-name="BR8 TV" group-title="News",BR8 TV
+https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal TDC" group-title="News",Canal TDC
+https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
+#EXTINF:-1 tvg-name="Canal Universidad" group-title="Education",Canal Universidad
+https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8
+#EXTINF:-1 tvg-name="Mercurio Noticias" group-title="News",Mercurio Noticias
+https://videostream.shockmedia.com.ar/hls/mercuriotv/mercuriotv.m3u8
+#EXTINF:-1 tvg-name="Senal U" group-title="Culture",Senal U
+https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
+#EXTINF:-1 tvg-name="BAM-TV" group-title="Culture",BAM-TV
+https://belafrikamediatv.vedge.infomaniak.com/livecast/ik:belafrikamediatv/manifest.m3u8
+#EXTINF:-1 tvg-name="MRTV News" group-title="News",MRTV News
+https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
+#EXTINF:-1 tvg-name="Panorama TV" group-title="News",Panorama TV
+https://159.69.221.56/panorama/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="Polsat News 2" group-title="News",Polsat News 2
+http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7297/index.m3u8

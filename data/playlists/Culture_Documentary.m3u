@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-13 23:05:28
-# Всего каналов: 16972
-# Новых за сессию: 0
+# Обновлено: 2026-06-14 01:44:23
+# Всего каналов: 17046
+# Новых за сессию: 74
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Documentary
 # Каналов: 7
-# Обновлено: 2026-06-13 23:05:29
+# Обновлено: 2026-06-14 01:44:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="BBC Four [Geo-blocked]" group-title="Culture;Documentary",BBC Four [Geo-blocked]
@@ -611,3 +611,7 @@ https://iptv.prosto.tv/ch237/index.m3u8
 https://playtv4k.live/live/EVTELE/index.m3u8
 #EXTINF:-1 tvg-name="The Indonesia Channel" group-title="Culture;Education",The Indonesia Channel
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
+#EXTINF:-1 tvg-name="Senal U" group-title="Culture",Senal U
+https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
+#EXTINF:-1 tvg-name="BAM-TV" group-title="Culture",BAM-TV
+https://belafrikamediatv.vedge.infomaniak.com/livecast/ik:belafrikamediatv/manifest.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-13 23:05:28
-# Всего каналов: 16972
-# Новых за сессию: 0
+# Обновлено: 2026-06-14 01:44:23
+# Всего каналов: 17046
+# Новых за сессию: 74
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Movies
 # Каналов: 2
-# Обновлено: 2026-06-13 23:05:29
+# Обновлено: 2026-06-14 01:44:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="KidsFlix" group-title="Kids;Movies",KidsFlix
@@ -1370,6 +1370,8 @@ https://slime.x1co.com.br/hls/stream.m3u8
 https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
 #EXTINF:-1 tvg-name="Aqlvoy" group-title="Kids",Aqlvoy
 https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Kinosvidanie" group-title="Movies",Kinosvidanie
+https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Nashe Novoe Kino" group-title="Movies",Nashe Novoe Kino
 https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="viju TV1000 russkoe" group-title="Movies",viju TV1000 russkoe
@@ -1424,3 +1426,13 @@ http://103.157.248.140:8000/play/a00b/index.m3u8
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6948/index.m3u8
 #EXTINF:-1 tvg-name="Lollywood TV" group-title="Movies",Lollywood TV
 https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8
+#EXTINF:-1 tvg-name="France 4" group-title="Kids",France 4
+https://sv1.data-stream.top/8c0a287e56a6e1843143904778be3775b4d3edd4fba4ffcc3f72638c7a71d4d4/hls/francetv4.m3u8
+#EXTINF:-1 tvg-name="Polsat JimJam (576p)" group-title="Kids",Polsat JimJam (576p)
+http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7298/index.m3u8
+#EXTINF:-1 tvg-name="Kino Polska" group-title="Movies",Kino Polska
+http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/6088/index.m3u8
+#EXTINF:-1 tvg-name="Polsat Film" group-title="Movies",Polsat Film
+http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/6086/index.m3u8
+#EXTINF:-1 tvg-name="TVP ABC" group-title="Kids",TVP ABC
+http://91.246.72.88:8000/play/a00r/index.m3u8
