@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-15 00:09:40
-# Всего каналов: 17046
-# Новых за сессию: 0
+# Обновлено: 2026-06-15 05:37:58
+# Всего каналов: 17094
+# Новых за сессию: 48
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Education;Lifestyle
 # Каналов: 1
-# Обновлено: 2026-06-15 00:09:40
+# Обновлено: 2026-06-15 05:37:58
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Woman TV" group-title="Culture;Education;Lifestyle",Woman TV
@@ -993,3 +993,5 @@ https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmd
 https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
 #EXTINF:-1 tvg-name="BAM-TV" group-title="Culture",BAM-TV
 https://belafrikamediatv.vedge.infomaniak.com/livecast/ik:belafrikamediatv/manifest.m3u8
+#EXTINF:-1 tvg-name="Canal FDR" group-title="Education;General",Canal FDR
+https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8

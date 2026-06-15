@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-15 00:09:40
-# Всего каналов: 17046
-# Новых за сессию: 0
+# Обновлено: 2026-06-15 05:37:58
+# Всего каналов: 17094
+# Новых за сессию: 48
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General
-# Каналов: 2395
-# Обновлено: 2026-06-15 00:09:40
+# Каналов: 2406
+# Обновлено: 2026-06-15 05:37:58
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="БелРос (576p)" group-title="General",БелРос (576p)
@@ -6880,6 +6880,39 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.emisoras.tv:8081/tel
 #EXTINF:-1 tvg-name="Waldivision Internacional" group-title="General",Waldivision Internacional
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/media.streambrothers.com:19360/8308/8308.m3u8
 
+#EXTINF:-1 tvg-name="Value 24 TV" group-title="General",Value 24 TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TGRT Belgesel" group-title="General",TGRT Belgesel
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/463758a0.ucomist.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/6860/index.m3u8
+
+#EXTINF:-1 tvg-name="Araruna TV" group-title="General",Araruna TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canal Sete" group-title="General",Canal Sete
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
+
+#EXTINF:-1 tvg-name="DTV-8 [Geo-blocked]" group-title="General",DTV-8 [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/watch.davestv8.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="Delta TV" group-title="General",Delta TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-name="Red America TV" group-title="General",Red America TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/edge.enhdtv.com/redamerica/index.m3u8
+
+#EXTINF:-1 tvg-name="Sol TV" group-title="General",Sol TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/190.211.140.91:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Solo TV" group-title="General",Solo TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/sproxy.solotv.cl/hls/live/fhd.m3u8
+
+#EXTINF:-1 tvg-name="KassouaTV" group-title="General",KassouaTV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/playtv4k.live/live/kassouatv/index.m3u8
+
+#EXTINF:-1 tvg-name="Speedline TV" group-title="General",Speedline TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/index.m3u8
+
 #EXTINF:-1 tvg-name="ОНТ (576p)" group-title="General",ОНТ (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.dc.beltelecom.by/ont/ont/playlist.m3u8
 
@@ -7487,3 +7520,5 @@ https://cdn1.etbon.eus/etb2/index.m3u8
 https://iptv.prosto.tv/ch171/index.m3u8
 #EXTINF:-1 tvg-name="Holy Quran Radio" group-title="General;Religious",Holy Quran Radio
 https://aloula-redirect.vercel.app/13/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal FDR" group-title="Education;General",Canal FDR
+https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8

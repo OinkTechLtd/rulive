@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-15 00:09:40
-# Всего каналов: 17046
-# Новых за сессию: 0
+# Обновлено: 2026-06-15 05:37:58
+# Всего каналов: 17094
+# Новых за сессию: 48
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Kids;Religious
 # Каналов: 2
-# Обновлено: 2026-06-15 00:09:40
+# Обновлено: 2026-06-15 05:37:58
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="3ABN Kids Network" group-title="Animation;Kids;Religious",3ABN Kids Network
@@ -2020,3 +2020,9 @@ https://streamingcws30.com/suyapa2/videosuyapa2/playlist.m3u8
 https://s.emisoras.tv:8081/tve/index.m3u8
 #EXTINF:-1 tvg-name="TVP ABC" group-title="Kids",TVP ABC
 http://91.246.72.88:8000/play/a00r/index.m3u8
+#EXTINF:-1 tvg-name="Canal Luz" group-title="Religious",Canal Luz
+https://g4.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8
+#EXTINF:-1 tvg-name="15.1 BPB" group-title="Religious",15.1 BPB
+https://v2.tustreaming.cl/enlacebpbtv/index.m3u8
+#EXTINF:-1 tvg-name="JBN TV" group-title="Religious",JBN TV
+https://tv.webmedialive.com/jbn_live/enlace/playlist.m3u8

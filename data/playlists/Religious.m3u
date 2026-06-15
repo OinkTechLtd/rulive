@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-15 00:09:40
-# Всего каналов: 17046
-# Новых за сессию: 0
+# Обновлено: 2026-06-15 05:37:58
+# Всего каналов: 17094
+# Новых за сессию: 48
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Religious
-# Каналов: 702
-# Обновлено: 2026-06-15 00:09:40
+# Каналов: 706
+# Обновлено: 2026-06-15 05:37:58
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Спас (450p) [Geo-blocked]" group-title="Religious",Спас (450p) [Geo-blocked]
@@ -2061,6 +2061,18 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.emisoras.tv:8081/tve
 
 #EXTINF:-1 tvg-name="Esaie 45 Tele" group-title="Religious",Esaie 45 Tele
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.berosat.live/hls/esaie45-tv/esaie45-tv.m3u8
+
+#EXTINF:-1 tvg-name="Canal Luz" group-title="Religious",Canal Luz
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/g4.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8
+
+#EXTINF:-1 tvg-name="15.1 BPB" group-title="Religious",15.1 BPB
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/v2.tustreaming.cl/enlacebpbtv/index.m3u8
+
+#EXTINF:-1 tvg-name="JBN TV" group-title="Religious",JBN TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.webmedialive.com/jbn_live/enlace/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Presencia TV" group-title="Religious",Presencia TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.oursnetworktv.com/latin/remaPresencia/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Aghapy TV" group-title="Religious",Aghapy TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8

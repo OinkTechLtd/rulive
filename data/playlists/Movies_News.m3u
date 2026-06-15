@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-15 00:09:40
-# Всего каналов: 17046
-# Новых за сессию: 0
+# Обновлено: 2026-06-15 05:37:58
+# Всего каналов: 17094
+# Новых за сессию: 48
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;News
 # Каналов: 1
-# Обновлено: 2026-06-15 00:09:40
+# Обновлено: 2026-06-15 05:37:58
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Indywood TV" group-title="Movies;News",Indywood TV
@@ -2917,6 +2917,8 @@ https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8
 https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8
 #EXTINF:-1 tvg-name="APA Tv" group-title="News",APA Tv
 http://stream.apa.tv/apastream/index.m3u8
+#EXTINF:-1 tvg-name="Kinopremyera" group-title="Movies",Kinopremyera
+https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Aratu On" group-title="News",Aratu On
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 #EXTINF:-1 tvg-name="BR8 TV" group-title="News",BR8 TV
@@ -2935,3 +2937,25 @@ http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7297/index.m3u8
 http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/6088/index.m3u8
 #EXTINF:-1 tvg-name="Polsat Film" group-title="Movies",Polsat Film
 http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/6086/index.m3u8
+#EXTINF:-1 tvg-name="viju TV1000 action" group-title="Movies",viju TV1000 action
+https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Canal Metropolitano de Noticias" group-title="News",Canal Metropolitano de Noticias
+https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Black Romania" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Black Romania
+https://dokagents.site/live/axnb/mono.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN CEE Romania" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN CEE Romania
+https://dokagents.site/live/axnhd/mono.m3u8
+#EXTINF:-1 tvg-name="HC2 TV" group-title="News",HC2 TV
+https://stream.hc2tv.bj/2/live/stream.m3u8
+#EXTINF:-1 tvg-name="ICONE TV" group-title="News",ICONE TV
+https://lecteur.iconetv.bj/hls/stream.m3u8
+#EXTINF:-1 tvg-name="La Voix du Routier TV" group-title="News",La Voix du Routier TV
+https://webtv.lavoixduroutiertv.bj/hls/stream.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AMC Europe" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AMC Europe
+https://dokagents.site/live/amc/mono.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Classic;Movies",Bollywood Classic" group-title="Classic;Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Classic;Movies",Bollywood Classic
+https://dokagents.site/live/bollyc/mono.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox Premium Romania" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox Premium Romania
+https://dokagents.site/live/filmboxp/mono.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",TV1000" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",TV1000
+https://dokagents.site/live/viasatkino/mono.m3u8

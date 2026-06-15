@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-15 00:09:40
-# Всего каналов: 17046
-# Новых за сессию: 0
+# Обновлено: 2026-06-15 05:37:58
+# Всего каналов: 17094
+# Новых за сессию: 48
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Family;General;Movies
 # Каналов: 1
-# Обновлено: 2026-06-15 00:09:40
+# Обновлено: 2026-06-15 05:37:58
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="MCI Televisión" group-title="Family;General;Movies",MCI Televisión
@@ -5721,6 +5721,8 @@ https://tv.bitstreaming.net:8443/live/guayapetv.m3u8
 https://stmv2.srvif.com/puringla/puringla/playlist.m3u8
 #EXTINF:-1 tvg-name="Vega Teve" group-title="General",Vega Teve
 https://cloud5.livescast.com:19360/canalvegateve/canalvegateve.m3u8
+#EXTINF:-1 tvg-name="Kinopremyera" group-title="Movies",Kinopremyera
+https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Canal 99 Miramar" group-title="General",Canal 99 Miramar
 https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
 #EXTINF:-1 tvg-name="Correa Radiovision" group-title="General",Correa Radiovision
@@ -5755,3 +5757,37 @@ https://media.streambrothers.com:19360/8308/8308.m3u8
 http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/6088/index.m3u8
 #EXTINF:-1 tvg-name="Polsat Film" group-title="Movies",Polsat Film
 http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/6086/index.m3u8
+#EXTINF:-1 tvg-name="viju TV1000 action" group-title="Movies",viju TV1000 action
+https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Value 24 TV" group-title="General",Value 24 TV
+https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
+#EXTINF:-1 tvg-name="TGRT Belgesel" group-title="General",TGRT Belgesel
+http://463758a0.ucomist.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/6860/index.m3u8
+#EXTINF:-1 tvg-name="Araruna TV" group-title="General",Araruna TV
+https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal FDR" group-title="Education;General",Canal FDR
+https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
+#EXTINF:-1 tvg-name="Canal Sete" group-title="General",Canal Sete
+http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Black Romania" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Black Romania
+https://dokagents.site/live/axnb/mono.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN CEE Romania" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN CEE Romania
+https://dokagents.site/live/axnhd/mono.m3u8
+#EXTINF:-1 tvg-name="DTV-8 [Geo-blocked]" group-title="General",DTV-8 [Geo-blocked]
+https://watch.davestv8.com/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Red America TV" group-title="General",Red America TV
+https://edge.enhdtv.com/redamerica/index.m3u8
+#EXTINF:-1 tvg-name="Solo TV" group-title="General",Solo TV
+https://sproxy.solotv.cl/hls/live/fhd.m3u8
+#EXTINF:-1 tvg-name="KassouaTV" group-title="General",KassouaTV
+https://playtv4k.live/live/kassouatv/index.m3u8
+#EXTINF:-1 tvg-name="Speedline TV" group-title="General",Speedline TV
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AMC Europe" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AMC Europe
+https://dokagents.site/live/amc/mono.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Classic;Movies",Bollywood Classic" group-title="Classic;Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Classic;Movies",Bollywood Classic
+https://dokagents.site/live/bollyc/mono.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox Premium Romania" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox Premium Romania
+https://dokagents.site/live/filmboxp/mono.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",TV1000" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",TV1000
+https://dokagents.site/live/viasatkino/mono.m3u8
