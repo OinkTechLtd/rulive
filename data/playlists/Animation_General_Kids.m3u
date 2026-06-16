@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-16 02:08:01
-# Всего каналов: 17121
-# Новых за сессию: 27
+# Обновлено: 2026-06-16 08:27:55
+# Всего каналов: 17125
+# Новых за сессию: 4
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;General;Kids
 # Каналов: 1
-# Обновлено: 2026-06-16 02:08:02
+# Обновлено: 2026-06-16 08:27:55
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="BBC Four/CBeebies [Geo-Blocked]" group-title="Animation;General;Kids",BBC Four/CBeebies [Geo-Blocked]
@@ -5397,3 +5397,7 @@ https://5ff3d9babae13.streamlock.net/aufymdjpjf/aufymdjpjf/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/8176/8176/playlist.m3u8
 #EXTINF:-1 tvg-name="Ishtar TV" group-title="General",Ishtar TV
 https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
+#EXTINF:-1 tvg-name="JOAX-DTV" group-title="General",JOAX-DTV
+https://ntv5.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 tvg-name="Cable Sur TV" group-title="General",Cable Sur TV
+https://tvlatina.live:1936/8025/8025/playlist.m3u8

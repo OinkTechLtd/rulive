@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-16 02:08:01
-# Всего каналов: 17121
-# Новых за сессию: 27
+# Обновлено: 2026-06-16 08:27:55
+# Всего каналов: 17125
+# Новых за сессию: 4
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General
-# Каналов: 2415
-# Обновлено: 2026-06-16 02:08:02
+# Каналов: 2418
+# Обновлено: 2026-06-16 08:27:55
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="БелРос (576p)" group-title="General",БелРос (576p)
@@ -6939,6 +6939,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/5cf4a2c2512a2.streamlo
 
 #EXTINF:-1 tvg-name="Ishtar TV" group-title="General",Ishtar TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.ishtartv.com/live/iShtarHD/playlist.m3u8
+
+#EXTINF:-1 tvg-name="JOAX-DTV" group-title="General",JOAX-DTV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ntv5.mov3.co/hls/ntv.m3u8
+
+#EXTINF:-1 tvg-name="Cable Sur TV" group-title="General",Cable Sur TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvlatina.live:1936/8025/8025/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NCI" group-title="General",NCI
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cs2.push2stream.com/NCI-DVR/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ОНТ (576p)" group-title="General",ОНТ (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.dc.beltelecom.by/ont/ont/playlist.m3u8

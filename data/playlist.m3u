@@ -1,7 +1,7 @@
 #EXTM3U
-# Обновлено: 2026-06-16 02:08:01
-# Всего каналов: 17121
-# Новых за сессию: 27
+# Обновлено: 2026-06-16 08:27:55
+# Всего каналов: 17125
+# Новых за сессию: 4
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
@@ -43237,6 +43237,18 @@ https://secure-272717.tatnet.app/dokagents.site/live/procinema/mono.m3u8
 
 #EXTINF:-1 tvg-name="VTV6" group-title="Sports",VTV6
 https://secure-272717.tatnet.app/live.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8
+
+#EXTINF:-1 tvg-name="JOAX-DTV" group-title="General",JOAX-DTV
+https://secure-272717.tatnet.app/ntv5.mov3.co/hls/ntv.m3u8
+
+#EXTINF:-1 tvg-name="Sony Sports Ten 3 Hindi (576p)" group-title="Sports",Sony Sports Ten 3 Hindi (576p)
+https://secure-272717.tatnet.app/103.229.254.25:7001/play/a09q/index.m3u8
+
+#EXTINF:-1 tvg-name="Cable Sur TV" group-title="General",Cable Sur TV
+https://secure-272717.tatnet.app/tvlatina.live:1936/8025/8025/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NCI" group-title="General",NCI
+https://secure-272717.tatnet.app/cs2.push2stream.com/NCI-DVR/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="IPTV",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8

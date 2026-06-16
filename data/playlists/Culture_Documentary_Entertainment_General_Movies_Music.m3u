@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-16 02:08:01
-# Всего каналов: 17121
-# Новых за сессию: 27
+# Обновлено: 2026-06-16 08:27:55
+# Всего каналов: 17125
+# Новых за сессию: 4
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Documentary;Entertainment;General;Movies;Music
 # Каналов: 1
-# Обновлено: 2026-06-16 02:08:02
+# Обновлено: 2026-06-16 08:27:56
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Alterna TV" group-title="Culture;Documentary;Entertainment;General;Movies;Music",Alterna TV
@@ -8863,3 +8863,7 @@ https://dokagents.site/live/filmmania/mono.m3u8
 https://dokagents.site/live/filmnow/mono.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Pro Cinema" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Pro Cinema
 https://dokagents.site/live/procinema/mono.m3u8
+#EXTINF:-1 tvg-name="JOAX-DTV" group-title="General",JOAX-DTV
+https://ntv5.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 tvg-name="Cable Sur TV" group-title="General",Cable Sur TV
+https://tvlatina.live:1936/8025/8025/playlist.m3u8
