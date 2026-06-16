@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-16 18:16:50
-# Всего каналов: 17125
-# Новых за сессию: 0
+# Обновлено: 2026-06-16 21:27:06
+# Всего каналов: 17142
+# Новых за сессию: 17
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;Series
-# Каналов: 12
-# Обновлено: 2026-06-16 18:16:50
+# Каналов: 20
+# Обновлено: 2026-06-16 21:27:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Ebony TV by Lionsgate" group-title="Movies;Series",Ebony TV by Lionsgate
@@ -16,8 +16,32 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/aegis-cloudfront-1.tub
 #EXTINF:-1 tvg-name="OuterSphere" group-title="Movies;Series",OuterSphere
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
 
+#EXTINF:-1 tvg-name="Pluto TV Horror" group-title="Movies;Series",Pluto TV Horror
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-62f4f4b88157cf00075c22db.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Horror" group-title="Movies;Series",Pluto TV Horror
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Horror" group-title="Movies;Series",Pluto TV Horror
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Horror" group-title="Movies;Series",Pluto TV Horror
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Horror" group-title="Movies;Series",Pluto TV Horror
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-612cda102f5f18000705e0bf.m3u8
+
 #EXTINF:-1 tvg-name="Pantalla Clásica EC (512p)" group-title="Movies;Series",Pantalla Clásica EC (512p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Horror" group-title="Movies;Series",Pluto TV Horror
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-63a1c9790cc44a0007dc8857.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Romance" group-title="Movies;Series",Pluto TV Romance
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Sci-fi" group-title="Movies;Series",Pluto TV Sci-fi
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
 
 #EXTINF:-1 tvg-name="AXN Asia Indonesia" group-title="Movies;Series",AXN Asia Indonesia
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/indihuy.streamized.net/atm/DASH/axn/manifest.mpd
@@ -64,14 +88,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5b4e92e4694c027be6ecece1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Pluto TV Fantastic" group-title="VOD Movies (EN)",Pluto TV Fantastic
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=66&deviceId=5b64a245a202b3337f09e51d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Pluto TV Romance" group-title="VOD Movies (EN)",Pluto TV Romance
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=70&deviceId=5a66795ef91fef2c7031c599&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Pluto TV Crime Movies" group-title="VOD Movies (EN)",Pluto TV Crime Movies
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=73&deviceId=5f4d8594eb979c0007706de7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Pluto TV Thrillers" group-title="VOD Movies (EN)",Pluto TV Thrillers
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=74&deviceId=5b4e69e08291147bd04a9fd7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Pluto TV Horror" group-title="VOD Movies (EN)",Pluto TV Horror
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=75&deviceId=569546031a619b8f07ce6e25&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Pluto TV Terror" group-title="VOD Movies (EN)",Pluto TV Terror
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=76&deviceId=5c6dc88fcd232425a6e0f06e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Black Cinema" group-title="VOD Movies (EN)",Black Cinema
@@ -1268,8 +1288,6 @@ https://jmp2.uk/plu-6109ab25b84d6a0007504886.m3u8
 https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Real Life" group-title="Series",Pluto TV Real Life
 https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Sci-fi" group-title="Movies",Pluto TV Sci-fi
-https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Serie" group-title="Series",Pluto TV Serie
 https://jmp2.uk/plu-5dc190f7bfed110009d934c3.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Series" group-title="Series",Pluto TV Series
@@ -1428,3 +1446,5 @@ https://dokagents.site/live/filmmania/mono.m3u8
 https://dokagents.site/live/filmnow/mono.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Pro Cinema" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Pro Cinema
 https://dokagents.site/live/procinema/mono.m3u8
+#EXTINF:-1 tvg-name="Canal Cine Dios" group-title="Movies",Canal Cine Dios
+https://canal.mediaserver.com.co/live/cinedios.m3u8

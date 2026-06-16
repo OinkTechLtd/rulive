@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-16 18:16:50
-# Всего каналов: 17125
-# Новых за сессию: 0
+# Обновлено: 2026-06-16 21:27:06
+# Всего каналов: 17142
+# Новых за сессию: 17
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Religious
-# Каналов: 707
-# Обновлено: 2026-06-16 18:16:50
+# Каналов: 709
+# Обновлено: 2026-06-16 21:27:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Спас (450p) [Geo-blocked]" group-title="Religious",Спас (450p) [Geo-blocked]
@@ -2076,6 +2076,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.oursnetworktv.c
 
 #EXTINF:-1 tvg-name="Activa TV" group-title="Religious",Activa TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/videoserver.tmcreativos.com:19360/mbcrtzxnxd/mbcrtzxnxd.m3u8
+
+#EXTINF:-1 tvg-name="Santel TV" group-title="Religious",Santel TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv3.bitstreaming.net:3540/live/santeltvlive.m3u8
+
+#EXTINF:-1 tvg-name="TVGracia" group-title="Religious",TVGracia
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vs20.live.opencaster.com/diego_57244803/index.m3u8
 
 #EXTINF:-1 tvg-name="Aghapy TV" group-title="Religious",Aghapy TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8

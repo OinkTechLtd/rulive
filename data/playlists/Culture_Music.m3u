@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-16 18:16:50
-# Всего каналов: 17125
-# Новых за сессию: 0
+# Обновлено: 2026-06-16 21:27:06
+# Всего каналов: 17142
+# Новых за сессию: 17
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Music
 # Каналов: 4
-# Обновлено: 2026-06-16 18:16:50
+# Обновлено: 2026-06-16 21:27:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pamir TV" group-title="Culture;Music",Pamir TV
@@ -1692,3 +1692,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91
 https://us.streaminghd.cl/apocalipsistvd/video.m3u8
 #EXTINF:-1 tvg-name="Buenisima Radio TV" group-title="Music",Buenisima Radio TV
 https://canal.mediaserver.com.co/live/buenisimatv.m3u8
+#EXTINF:-1 tvg-name="Fiesta TV" group-title="Music",Fiesta TV
+https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
+#EXTINF:-1 tvg-name="Salsa Latina FM" group-title="Music",Salsa Latina FM
+https://panel.streamingmedia.com.co:3557/stream/play.m3u8

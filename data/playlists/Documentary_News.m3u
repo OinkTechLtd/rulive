@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-16 18:16:50
-# Всего каналов: 17125
-# Новых за сессию: 0
+# Обновлено: 2026-06-16 21:27:06
+# Всего каналов: 17142
+# Новых за сессию: 17
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;News
 # Каналов: 5
-# Обновлено: 2026-06-16 18:16:50
+# Обновлено: 2026-06-16 21:27:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="India TV Aap Ki Adalat [Geo-blocked]" group-title="Documentary;News",India TV Aap Ki Adalat [Geo-blocked]
@@ -2193,6 +2193,10 @@ https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8
 https://jmp2.uk/plu-617aad99b68ef100072608cd.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Natura" group-title="Documentary",Pluto TV Natura
 https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Science" group-title="Documentary;Science",Pluto TV Science
+https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8
+#EXTINF:-1 tvg-name="Pluto TV True Crime" group-title="Documentary;Series",Pluto TV True Crime
+https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8
 #EXTINF:-1 tvg-name="RCN Noticias" group-title="News",RCN Noticias
 https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
 #EXTINF:-1 tvg-name="MediBizTV" group-title="Education;News;Science",MediBizTV
@@ -2289,3 +2293,5 @@ https://lecteur.iconetv.bj/hls/stream.m3u8
 https://webtv.lavoixduroutiertv.bj/hls/stream.m3u8
 #EXTINF:-1 tvg-name="A Haber" group-title="News",A Haber
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
+#EXTINF:-1 tvg-name="Momento24" group-title="News",Momento24
+https://backupmaxmedia.hvmultiplay.com/hls/stream2/momento24.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-16 18:16:50
-# Всего каналов: 17125
-# Новых за сессию: 0
+# Обновлено: 2026-06-16 21:27:06
+# Всего каналов: 17142
+# Новых за сессию: 17
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Series
-# Каналов: 2
-# Обновлено: 2026-06-16 18:16:50
+# Каналов: 3
+# Обновлено: 2026-06-16 21:27:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Сити Эдем КиноДок" group-title="Documentary;Series",Сити Эдем КиноДок
@@ -15,6 +15,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cityeden.catcast.tv/co
 
 #EXTINF:-1 tvg-name="GZT" group-title="Documentary;Series",GZT
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV True Crime" group-title="Documentary;Series",Pluto TV True Crime
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8
 
 #EXTINF:-1 tvg-name="13 Teleseries" group-title="Series",13 Teleseries
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
@@ -232,8 +235,6 @@ https://jmp2.uk/plu-5bb3fea0f711fd76340eebff.m3u8
 https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Paranormal" group-title="Documentary",Pluto TV Paranormal
 https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8
-#EXTINF:-1 tvg-name="Pluto TV True Crime" group-title="Series",Pluto TV True Crime
-https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8
 #EXTINF:-1 tvg-name="Rakuten Viki" group-title="Entertainment;Series",Rakuten Viki
 https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="REELZ Famous & Infamous" group-title="Documentary",REELZ Famous & Infamous
@@ -334,6 +335,8 @@ https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8
 https://jmp2.uk/plu-5d767ae7b456c8cf265ce922.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Crime" group-title="Documentary",Pluto TV Crime
 https://jmp2.uk/plu-5e7b6c60fd20c50007910bf5.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Horror" group-title="Movies;Series",Pluto TV Horror
+https://jmp2.uk/plu-62f4f4b88157cf00075c22db.m3u8
 #EXTINF:-1 tvg-name="RTL Crime" group-title="Series",RTL Crime
 http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15178/index.m3u8
 #EXTINF:-1 tvg-name="Terra Mater WILD" group-title="Documentary",Terra Mater WILD
@@ -700,6 +703,12 @@ https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
 https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Real Life" group-title="Series",Pluto TV Real Life
 https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Romance" group-title="Movies;Series",Pluto TV Romance
+https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Sci-fi" group-title="Movies;Series",Pluto TV Sci-fi
+https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Science" group-title="Documentary;Science",Pluto TV Science
+https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Serie" group-title="Series",Pluto TV Serie
 https://jmp2.uk/plu-5dc190f7bfed110009d934c3.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Series" group-title="Series",Pluto TV Series

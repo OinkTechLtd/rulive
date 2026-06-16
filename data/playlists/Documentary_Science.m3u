@@ -5,30 +5,22 @@
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
-# Категория: Documentary;Outdoor
+# Категория: Documentary;Science
 # Каналов: 1
 # Обновлено: 2026-06-16 21:27:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
-#EXTINF:-1 tvg-name="WaterBear" group-title="Documentary;Outdoor",WaterBear
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Science" group-title="Documentary;Science",Pluto TV Science
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8
 
-#EXTINF:-1 tvg-name="Peer TV Alto Adige (1280p)" group-title="Outdoor;Travel",Peer TV Alto Adige (1280p)
-https://iptv.peer.biz/live/peertv-it.m3u8
-#EXTINF:-1 tvg-name="Peer TV Südtirol" group-title="Outdoor;Travel",Peer TV Südtirol
-https://iptv.peer.biz/live/peertv.m3u8
 #EXTINF:-1 tvg-name="TRT Belgesel" group-title="Documentary",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="RT Documentary English [Geo-blocked]" group-title="Documentary",RT Documentary English [Geo-blocked]
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-#EXTINF:-1 tvg-name="Peer TV South Tyrol (1280p)" group-title="Outdoor;Travel",Peer TV South Tyrol (1280p)
-https://iptv.peer.biz/live/peertv-en.m3u8
 #EXTINF:-1 tvg-name="30A Loomered TV" group-title="Documentary;News",30A Loomered TV
 https://30a-tv.com/loomer.m3u8
 #EXTINF:-1 tvg-name="Alterna TV" group-title="Culture;Documentary;Entertainment;General;Movies;Music",Alterna TV
 https://tv.alterna.ar/stream/hls/live.m3u8
-#EXTINF:-1 tvg-name="Ohotnik i rybolov (576i)" group-title="Outdoor",Ohotnik i rybolov (576i)
-https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="RT Documentary Russian" group-title="Documentary",RT Documentary Russian
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 #EXTINF:-1 tvg-name="Terra" group-title="Documentary",Terra
@@ -39,10 +31,6 @@ http://tmptv.sunduk.tv/CH133/index.m3u8
 http://tmptv.sunduk.tv/CH203/index.m3u8
 #EXTINF:-1 tvg-name="История (576p)" group-title="Documentary",История (576p)
 http://31.148.48.15/Istoriya/index.m3u8
-#EXTINF:-1 tvg-name="Конный Мир" group-title="Outdoor",Конный Мир
-https://cdn-01.bonus-tv.ru/kmir/playlist.m3u8
-#EXTINF:-1 tvg-name="Моя Планета" group-title="Outdoor",Моя Планета
-http://31.148.48.15/Moya_Planeta_HD/index.m3u8
 #EXTINF:-1 tvg-name="Нано ТВ (576p)" group-title="Documentary",Нано ТВ (576p)
 http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-name="НАУКА" group-title="Documentary",НАУКА
@@ -51,14 +39,8 @@ http://31.148.48.15/Nauka_2.0/index.m3u8
 https://cityeden.catcast.tv/content/38354/index.m3u8
 #EXTINF:-1 tvg-name="Смотрим 100% Факты" group-title="Documentary",Смотрим 100% Факты
 https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
-#EXTINF:-1 tvg-name="30A Darcizzle Offshore" group-title="Outdoor",30A Darcizzle Offshore
-https://30a-tv.com/darcizzle.m3u8
-#EXTINF:-1 tvg-name="AKC TV" group-title="Outdoor",AKC TV
-https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
-#EXTINF:-1 tvg-name="AKC TV Meet The Breeds" group-title="Outdoor",AKC TV Meet The Breeds
-https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
-#EXTINF:-1 tvg-name="AKC TV Puppies 24/7" group-title="Outdoor",AKC TV Puppies 24/7
-https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
+#EXTINF:-1 tvg-name="Eko TV" group-title="Science",Eko TV
+https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
 #EXTINF:-1 tvg-name="Autentic History" group-title="Documentary",Autentic History
 https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
 #EXTINF:-1 tvg-name="Backstage" group-title="Documentary",Backstage
@@ -85,8 +67,6 @@ https://jmp2.uk/plu-62bdaf9cf1bdc500073a8bcb.m3u8
 https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="Docurama" group-title="Documentary",Docurama
 https://docurama-plex-ingest.cinedigm.com/playlist.m3u8
-#EXTINF:-1 tvg-name="Duck Hunting TV" group-title="Outdoor",Duck Hunting TV
-https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
 #EXTINF:-1 tvg-name="Forensic Files" group-title="Documentary",Forensic Files
 https://jmp2.uk/plu-5bb1af6a268cae539bcedb0a.m3u8
 #EXTINF:-1 tvg-name="History Hit" group-title="Documentary",History Hit
@@ -111,50 +91,28 @@ https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playl
 https://tvpass.org/live/NationalGeographicEast/hd
 #EXTINF:-1 tvg-name="National Geographic Wild East" group-title="Documentary",National Geographic Wild East
 https://tvpass.org/live/NationalGeographicWildEast/hd
-#EXTINF:-1 tvg-name="Outdoor America" group-title="Outdoor",Outdoor America
-https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-name="Outdoor Channel" group-title="Outdoor",Outdoor Channel
-https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Outdoor",Outside" group-title="Outdoor",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Outdoor",Outside
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/outsidetv/playlist.m3u8?ads.vf=_zniV8aeQY4
-#EXTINF:-1 tvg-name="Pluto TV Backcountry" group-title="Outdoor",Pluto TV Backcountry
-https://jmp2.uk/plu-5cabdf1437b88b26947346b2.m3u8
 #EXTINF:-1 tvg-name="Pluto TV History" group-title="Documentary",Pluto TV History
 https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Paranormal" group-title="Documentary",Pluto TV Paranormal
 https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8
-#EXTINF:-1 tvg-name="Pursuit UP" group-title="Outdoor",Pursuit UP
-https://d1p1siomv3cm7b.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-name="Red Bull TV US" group-title="Outdoor;Sports",Red Bull TV US
-https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="REELZ Famous & Infamous" group-title="Documentary",REELZ Famous & Infamous
 https://d3serb1fmh623s.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-name="Spike Outdoors" group-title="Outdoor",Spike Outdoors
-https://jmp2.uk/plu-5c393cad2de254456f7ef8c2.m3u8
+#EXTINF:-1 tvg-name="Smithsonian Channel Pluto TV" group-title="Science",Smithsonian Channel Pluto TV
+https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
 #EXTINF:-1 tvg-name="Spike Pluto TV" group-title="Documentary",Spike Pluto TV
 https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8
-#EXTINF:-1 tvg-name="Swamiji TV American" group-title="Outdoor",Swamiji TV American
-https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Teen Mom" group-title="Documentary",Teen Mom
 https://jmp2.uk/plu-62d550d81054990007db7798.m3u8
 #EXTINF:-1 tvg-name="Terra Mater WILD English" group-title="Documentary",Terra Mater WILD English
 https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Outdoor",The Boat Show" group-title="Outdoor",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Outdoor",The Boat Show
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-boat-show/master.m3u8?ads.vf=kS8ONlN67Ay
 #EXTINF:-1 tvg-name="The Nest" group-title="Documentary;Entertainment",The Nest
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 #EXTINF:-1 tvg-name="Unidentified" group-title="Documentary",Unidentified
 https://d3ify425qsio2d.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-name="Waypoint TV" group-title="Outdoor",Waypoint TV
-https://waypoint-waypointtv-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Adventure Earth" group-title="Documentary",Adventure Earth
 https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
-#EXTINF:-1 tvg-name="ANIMAL KINGDOM" group-title="Outdoor",ANIMAL KINGDOM
-https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
 #EXTINF:-1 tvg-name="Dokusat" group-title="Documentary",Dokusat
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-#EXTINF:-1 tvg-name="Horse & Country TV" group-title="Outdoor",Horse & Country TV
-https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 #EXTINF:-1 tvg-name="kabel eins Doku (576p)" group-title="Documentary",kabel eins Doku (576p)
 http://79.232.88.203:9981/stream/channelid/81078517
 #EXTINF:-1 tvg-name="Love The Planet DE [Geo-blocked]" group-title="Documentary",Love The Planet DE [Geo-blocked]
@@ -165,12 +123,12 @@ https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8
 https://jmp2.uk/plu-5d767ae7b456c8cf265ce922.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Crime" group-title="Documentary",Pluto TV Crime
 https://jmp2.uk/plu-5e7b6c60fd20c50007910bf5.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Nature" group-title="Outdoor",Pluto TV Nature
-https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8
-#EXTINF:-1 tvg-name="Red Bull TV DE" group-title="Outdoor;Sports",Red Bull TV DE
-https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Space" group-title="Science",Pluto TV Space
+https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8
 #EXTINF:-1 tvg-name="Terra Mater WILD" group-title="Documentary",Terra Mater WILD
 https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="News;Science",BFM Tech & Co" group-title="News;Science",like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="News;Science",BFM Tech & Co
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-name="Francophonie24" group-title="Documentary",Francophonie24
 https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Nature Time France" group-title="Documentary",Nature Time France
@@ -187,40 +145,40 @@ https://amg01821-lovetv-amg01821c9-rlaxx-gb-10458.playouts.now.amagi.tv/playlist
 https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
 #EXTINF:-1 tvg-name="NatureTime Finland" group-title="Documentary",NatureTime Finland
 https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Red Bull TV ES" group-title="Outdoor;Sports",Red Bull TV ES
-https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="Italian Fishing TV" group-title="Outdoor",Italian Fishing TV
-https://fms.premio.link/fishingtv/playlist.m3u8
+#EXTINF:-1 tvg-name="WaterBear" group-title="Documentary;Outdoor",WaterBear
+https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-name="Love The Planet IT [Geo-blocked]" group-title="Documentary",Love The Planet IT [Geo-blocked]
 https://amg01821-amg01821c11-rlaxx-gb-10459.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Storie Criminali" group-title="Documentary",Storie Criminali
 https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8
-#EXTINF:-1 tvg-name="Fishing Vision (544p)" group-title="Outdoor",Fishing Vision (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
-#EXTINF:-1 tvg-name="Green Channel (544p)" group-title="Outdoor",Green Channel (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
 #EXTINF:-1 tvg-name="History Channel Japan (544p)" group-title="Documentary",History Channel Japan (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
 #EXTINF:-1 tvg-name="National Geographic Japan" group-title="Documentary",National Geographic Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
+#EXTINF:-1 tvg-name="BRTV Science & Education Channel" group-title="Education;Science",BRTV Science & Education Channel
+http://49.113.179.174:4022/udp/238.125.3.121:5140
 #EXTINF:-1 tvg-name="CCTV-9 (576i)" group-title="Documentary",CCTV-9 (576i)
 https://xykt-fix.github.io/Y77.m3u8
-#EXTINF:-1 tvg-name="CCTV-17" group-title="Education;Outdoor",CCTV-17
-http://74.91.26.218:82/live/cctv17hd.m3u8
 #EXTINF:-1 tvg-name="CETV-4" group-title="Documentary",CETV-4
 http://49.113.179.174:4022/udp/238.125.3.92:5140
-#EXTINF:-1 tvg-name="Sihai Fishing Channel" group-title="Outdoor",Sihai Fishing Channel
-http://49.113.179.174:4022/udp/238.125.2.172:5140
+#EXTINF:-1 tvg-name="Ecology & Environment TV" group-title="Education;Science",Ecology & Environment TV
+http://49.113.179.174:4022/udp/238.125.2.175:5140
+#EXTINF:-1 tvg-name="Jilin Rural Channel" group-title="Education;Lifestyle;Science",Jilin Rural Channel
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
 #EXTINF:-1 tvg-name="发现之旅 (576p)" group-title="Documentary",发现之旅 (576p)
 http://125.210.152.18:9090/live/FXZL_750.m3u8
-#EXTINF:-1 tvg-name="DD Kisan" group-title="Education;Outdoor",DD Kisan
-https://cdn-6.pishow.tv/live/9/master.m3u8
+#EXTINF:-1 tvg-name="山东农科 (406p) [Geo-blocked]" group-title="Science",山东农科 (406p) [Geo-blocked]
+http://livealone302.iqilu.com/iqilu/nkpd.m3u8
+#EXTINF:-1 tvg-name="滁州科教 (450p)" group-title="Education;Science",滁州科教 (450p)
+http://183.167.193.45:1935/live/cztvkj/playlist.m3u8
 #EXTINF:-1 tvg-name="History TV18 (576p)" group-title="Documentary",History TV18 (576p)
 http://103.72.101.252:8080/live/1471.m3u8
 #EXTINF:-1 tvg-name="History TV18" group-title="Documentary",History TV18
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8
 #EXTINF:-1 tvg-name="India TV Aap Ki Adalat [Geo-blocked]" group-title="Documentary;News",India TV Aap Ki Adalat [Geo-blocked]
 https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-name="InWonder" group-title="Science",InWonder
+https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-name="National Geographic (576p)" group-title="Documentary",National Geographic (576p)
 http://149.71.34.166:8002/play/a013/index.m3u8
 #EXTINF:-1 tvg-name="National Geographic Wild" group-title="Documentary",National Geographic Wild
@@ -237,24 +195,12 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 tvg-name="Viasat Explore" group-title="Documentary",Viasat Explore
 https://tv.arectv29.sbs/live/viasathistory.m3u8
-#EXTINF:-1 tvg-name="AgroBrasil TV" group-title="Outdoor",AgroBrasil TV
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal do Criador" group-title="Outdoor",Canal do Criador
-https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal Rural" group-title="Outdoor",Canal Rural
-https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Investigação" group-title="Documentary",Pluto TV Investigação
 https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
-#EXTINF:-1 tvg-name="Red Bull TV BR" group-title="Outdoor;Sports",Red Bull TV BR
-https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="Love Nature" group-title="Outdoor",Love Nature
-https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
-#EXTINF:-1 tvg-name="Love Nature 4K (2160p) [Geo-blocked]" group-title="Outdoor",Love Nature 4K (2160p) [Geo-blocked]
-https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #EXTINF:-1 tvg-name="Total Crime" group-title="Documentary",Total Crime
 https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
-#EXTINF:-1 tvg-name="Swamiji TV Australian" group-title="Outdoor",Swamiji TV Australian
-https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="ЭлТР Билим Илим (480p)" group-title="Kids;Science",ЭлТР Билим Илим (480p)
+http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8
 #EXTINF:-1 tvg-name="BBC Four [Geo-blocked]" group-title="Culture;Documentary",BBC Four [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-name="BBC Four UK" group-title="Culture;Documentary",BBC Four UK
@@ -277,36 +223,24 @@ https://jmp2.uk/plu-5cb6f6f9a461406ffe4022cf.m3u8
 https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8
 #EXTINF:-1 tvg-name="History Asia" group-title="Documentary",History Asia
 https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8
-#EXTINF:-1 tvg-name="INTROUBLE" group-title="Auto;Outdoor;Sports",INTROUBLE
-https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="On The Case" group-title="Documentary",On The Case
 https://jmp2.uk/plu-615af74dfe3d8e0007524511.m3u8
-#EXTINF:-1 tvg-name="Red Bull TV" group-title="Outdoor;Sports",Red Bull TV
-https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-name="Red Bull TV AU" group-title="Outdoor;Sports",Red Bull TV AU
-https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="Red Bull TV UK" group-title="Outdoor;Sports",Red Bull TV UK
-https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="Sensing Murder" group-title="Documentary",Sensing Murder
 https://jmp2.uk/plu-5e9ed47c26ebb000074af566.m3u8
-#EXTINF:-1 tvg-name="Swamiji TV European" group-title="Outdoor",Swamiji TV European
-https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="WildEarth" group-title="Documentary;Education;Outdoor;Relax",WildEarth
 https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
-#EXTINF:-1 tvg-name="Agrotendencia TV" group-title="Outdoor",Agrotendencia TV
-https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+#EXTINF:-1 tvg-name="Wonder" group-title="Science",Wonder
+https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Click TV (Coronel)" group-title="Documentary",Click TV (Coronel)
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
+#EXTINF:-1 tvg-name="Cosmos TV" group-title="Science",Cosmos TV
+https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 #EXTINF:-1 tvg-name="Ecovisión" group-title="Documentary",Ecovisión
 https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
-#EXTINF:-1 tvg-name="El Mundo del Campo" group-title="Outdoor",El Mundo del Campo
-https://movil.ejeserver.com/live/elmundodelcampo.m3u8
+#EXTINF:-1 tvg-name="Explosión Creativa" group-title="Science",Explosión Creativa
+https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
 #EXTINF:-1 tvg-name="NatureTime (684p)" group-title="Documentary",NatureTime (684p)
 https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
-#EXTINF:-1 tvg-name="Productiva TV" group-title="Outdoor",Productiva TV
-https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion
-#EXTINF:-1 tvg-name="UMC TV" group-title="Outdoor",UMC TV
-https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
 #EXTINF:-1 tvg-name="UMSA TVU Internacional" group-title="Documentary;Education;Science",UMSA TVU Internacional
 https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="RL PRO TV" group-title="Documentary",RL PRO TV
@@ -341,12 +275,10 @@ https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8
 https://scihls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Persiana Travel" group-title="Documentary",Persiana Travel
 https://ptravelhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Agro TV (480p)" group-title="Outdoor",Agro TV (480p)
-https://restr2.bgtv.bg/agro/hls/agro.m3u8
-#EXTINF:-1 tvg-name="Agro TV (360p)" group-title="Outdoor",Agro TV (360p)
-https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
-#EXTINF:-1 tvg-name="ARDB TV" group-title="Outdoor",ARDB TV
-https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8
+#EXTINF:-1 tvg-name="Cần Thơ TV2" group-title="Education;Science",Cần Thơ TV2
+https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8
+#EXTINF:-1 tvg-name="Ilm va Tabiat" group-title="Science",Ilm va Tabiat
+https://live.teleradiocom.tj/15/3m.m3u8
 #EXTINF:-1 tvg-name="Archivos Forenses" group-title="Documentary",Archivos Forenses
 https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
 #EXTINF:-1 tvg-name="Cazador de Homicidas" group-title="Documentary",Cazador de Homicidas
@@ -359,39 +291,27 @@ https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8
 https://jmp2.uk/plu-67517f923a61d40008c451f0.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Documentari" group-title="Documentary",Pluto TV Documentari
 https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Fishing" group-title="Outdoor",Pluto TV Fishing
-https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Inside" group-title="Documentary",Pluto TV Inside
 https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Mystery" group-title="Documentary",Pluto TV Mystery
 https://jmp2.uk/plu-617aad99b68ef100072608cd.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Natura" group-title="Documentary",Pluto TV Natura
 https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Naturaleza" group-title="Outdoor",Pluto TV Naturaleza
-https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Science" group-title="Documentary;Science",Pluto TV Science
-https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8
 #EXTINF:-1 tvg-name="Pluto TV True Crime" group-title="Documentary;Series",Pluto TV True Crime
 https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8
+#EXTINF:-1 tvg-name="MediBizTV" group-title="Education;News;Science",MediBizTV
+https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8
 #EXTINF:-1 tvg-name="Atlas (480p)" group-title="Documentary",Atlas (480p)
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-Weapon & Technology" group-title="Documentary",CCTV-Weapon & Technology
 http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="Rybalka" group-title="Outdoor",Rybalka
-https://iptv.prosto.tv/ch88/tracks-v1a1/0.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&ses=022341aa72e7f9f5&uid=9szoe89y&cs_track=false&e=1783162403&st=BO0a5dZP4ZX9tKTz6QEbOw
 #EXTINF:-1 tvg-name="TV8" group-title="Documentary;News",TV8
 http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/2454/index.m3u8
-#EXTINF:-1 tvg-name="Okhota i rybalka" group-title="Outdoor",Okhota i rybalka
-https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="DocuBox" group-title="Documentary",DocuBox
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7049/index.m3u8
 #EXTINF:-1 tvg-name="Viasat History" group-title="Documentary",Viasat History
 http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12101/index.m3u8
 #EXTINF:-1 tvg-name="Viasat Nature" group-title="Documentary",Viasat Nature
 http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12084/index.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Outdoor",Rybalka" group-title="Outdoor",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Outdoor",Rybalka
-https://iptv.prosto.tv/ch88/index.m3u8
-#EXTINF:-1 tvg-name="Chacra TV" group-title="Outdoor",Chacra TV
-https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8
 #EXTINF:-1 tvg-name="viju Nature" group-title="Documentary",viju Nature
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8

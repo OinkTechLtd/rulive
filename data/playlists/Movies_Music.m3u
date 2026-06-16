@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-16 18:16:50
-# Всего каналов: 17125
-# Новых за сессию: 0
+# Обновлено: 2026-06-16 21:27:06
+# Всего каналов: 17142
+# Новых за сессию: 17
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;Music
 # Каналов: 3
-# Обновлено: 2026-06-16 18:16:50
+# Обновлено: 2026-06-16 21:27:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Shemaroo Filmi Gaane" group-title="Movies;Music",Shemaroo Filmi Gaane
@@ -2099,7 +2099,7 @@ https://jmp2.uk/plu-608aa512d67fd900072323db.m3u8
 https://jmp2.uk/plu-608aa4a4cc92820007b663af.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Film Thriller" group-title="Movies",Pluto TV Film Thriller
 https://jmp2.uk/plu-608aa5e995132a00075f7005.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Sci-fi" group-title="Movies",Pluto TV Sci-fi
+#EXTINF:-1 tvg-name="Pluto TV Sci-fi" group-title="Movies;Series",Pluto TV Sci-fi
 https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
 #EXTINF:-1 tvg-name="Runtime" group-title="Movies",Runtime
 https://jmp2.uk/plu-6086d3f420fc8500075f8dbf.m3u8
@@ -2297,3 +2297,9 @@ https://dokagents.site/live/filmmania/mono.m3u8
 https://dokagents.site/live/filmnow/mono.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Pro Cinema" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Pro Cinema
 https://dokagents.site/live/procinema/mono.m3u8
+#EXTINF:-1 tvg-name="Canal Cine Dios" group-title="Movies",Canal Cine Dios
+https://canal.mediaserver.com.co/live/cinedios.m3u8
+#EXTINF:-1 tvg-name="Fiesta TV" group-title="Music",Fiesta TV
+https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
+#EXTINF:-1 tvg-name="Salsa Latina FM" group-title="Music",Salsa Latina FM
+https://panel.streamingmedia.com.co:3557/stream/play.m3u8

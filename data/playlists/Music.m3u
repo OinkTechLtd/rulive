@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-16 18:16:50
-# Всего каналов: 17125
-# Новых за сессию: 0
+# Обновлено: 2026-06-16 21:27:06
+# Всего каналов: 17142
+# Новых за сессию: 17
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music
-# Каналов: 666
-# Обновлено: 2026-06-16 18:16:50
+# Каналов: 668
+# Обновлено: 2026-06-16 21:27:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Deluxe Music" group-title="Music",Deluxe Music
@@ -1923,6 +1923,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/us.streaminghd.cl/apoc
 
 #EXTINF:-1 tvg-name="Buenisima Radio TV" group-title="Music",Buenisima Radio TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/canal.mediaserver.com.co/live/buenisimatv.m3u8
+
+#EXTINF:-1 tvg-name="Fiesta TV" group-title="Music",Fiesta TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
+
+#EXTINF:-1 tvg-name="Salsa Latina FM" group-title="Music",Salsa Latina FM
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/panel.streamingmedia.com.co:3557/stream/play.m3u8
 
 #EXTINF:-1 tvg-name="City TV (576p)" group-title="Music",City TV (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.city.bg/play/tshls/citytv/index.m3u8
