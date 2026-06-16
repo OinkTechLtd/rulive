@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-15 23:03:57
-# Всего каналов: 17094
-# Новых за сессию: 0
+# Обновлено: 2026-06-16 02:08:01
+# Всего каналов: 17121
+# Новых за сессию: 27
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Kids
 # Каналов: 9
-# Обновлено: 2026-06-15 23:03:57
+# Обновлено: 2026-06-16 02:08:02
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="NCM Educational & Kids Channel" group-title="Education;Kids",NCM Educational & Kids Channel
@@ -981,3 +981,7 @@ http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7298/index.m3u8
 http://91.246.72.88:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-name="Canal FDR" group-title="Education;General",Canal FDR
 https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
+#EXTINF:-1 tvg-name="Minika Cocuk" group-title="Kids",Minika Cocuk
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+#EXTINF:-1 tvg-name="Minika Go" group-title="Kids",Minika Go
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8

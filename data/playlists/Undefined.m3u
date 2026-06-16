@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-15 23:03:57
-# Всего каналов: 17094
-# Новых за сессию: 0
+# Обновлено: 2026-06-16 02:08:01
+# Всего каналов: 17121
+# Новых за сессию: 27
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Undefined
-# Каналов: 4603
-# Обновлено: 2026-06-15 23:03:57
+# Каналов: 4606
+# Обновлено: 2026-06-16 02:08:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Дождь [Geo-blocked]" group-title="Undefined",Дождь [Geo-blocked]
@@ -13404,6 +13404,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/live20.bozztv.com/giat
 
 #EXTINF:-1 tvg-name="Vos TV" group-title="Undefined",Vos TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RMC Story" group-title="Undefined",RMC Story
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
+
+#EXTINF:-1 tvg-name="VTV1" group-title="Undefined",VTV1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
+
+#EXTINF:-1 tvg-name="Campo Abierto TV" group-title="Undefined",Campo Abierto TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/v2.tustreaming.cl/catvlive/index.m3u8
 
 #EXTINF:-1 tvg-name="R9" group-title="Undefined",R9
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8

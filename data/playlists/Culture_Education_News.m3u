@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-15 23:03:57
-# Всего каналов: 17094
-# Новых за сессию: 0
+# Обновлено: 2026-06-16 02:08:01
+# Всего каналов: 17121
+# Новых за сессию: 27
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Education;News
 # Каналов: 1
-# Обновлено: 2026-06-15 23:03:57
+# Обновлено: 2026-06-16 02:08:02
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="UMSA TVU LP" group-title="Culture;Education;News",UMSA TVU LP
@@ -2779,3 +2779,7 @@ https://stream.hc2tv.bj/2/live/stream.m3u8
 https://lecteur.iconetv.bj/hls/stream.m3u8
 #EXTINF:-1 tvg-name="La Voix du Routier TV" group-title="News",La Voix du Routier TV
 https://webtv.lavoixduroutiertv.bj/hls/stream.m3u8
+#EXTINF:-1 tvg-name="A Haber" group-title="News",A Haber
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
+#EXTINF:-1 tvg-name="Luys TV" group-title="Culture",Luys TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8

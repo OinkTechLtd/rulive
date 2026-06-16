@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-15 23:03:57
-# Всего каналов: 17094
-# Новых за сессию: 0
+# Обновлено: 2026-06-16 02:08:01
+# Всего каналов: 17121
+# Новых за сессию: 27
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News
-# Каналов: 962
-# Обновлено: 2026-06-15 23:03:57
+# Каналов: 963
+# Обновлено: 2026-06-16 02:08:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Дождь (альтернативный)" group-title="News",Дождь (альтернативный)
@@ -2679,6 +2679,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/lecteur.iconetv.bj/hls
 
 #EXTINF:-1 tvg-name="La Voix du Routier TV" group-title="News",La Voix du Routier TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/webtv.lavoixduroutiertv.bj/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="A Haber" group-title="News",A Haber
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
 
 #EXTINF:-1 tvg-name="Беларусь 24" group-title="News",Беларусь 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8

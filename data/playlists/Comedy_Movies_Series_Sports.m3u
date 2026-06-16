@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-15 23:03:57
-# Всего каналов: 17094
-# Новых за сессию: 0
+# Обновлено: 2026-06-16 02:08:01
+# Всего каналов: 17121
+# Новых за сессию: 27
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Movies;Series;Sports
 # Каналов: 1
-# Обновлено: 2026-06-15 23:03:57
+# Обновлено: 2026-06-16 02:08:02
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="USA Network East" group-title="Comedy;Movies;Series;Sports",USA Network East
@@ -2307,3 +2307,15 @@ https://dokagents.site/live/digisport3/mono.m3u8
 https://dokagents.site/live/digisport4/mono.m3u8
 #EXTINF:-1 tvg-name="VTV6 [Geo-blocked]" group-title="Sports",VTV6 [Geo-blocked]
 https://live.fptplay53.net/fnxhd1/vtv6hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="A Spor" group-title="Sports",A Spor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",CineMaraton" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",CineMaraton
+https://dokagents.site/live/cinemaraton/mono.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Film Mania" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Film Mania
+https://dokagents.site/live/filmmania/mono.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Film Now" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Film Now
+https://dokagents.site/live/filmnow/mono.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Pro Cinema" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Pro Cinema
+https://dokagents.site/live/procinema/mono.m3u8
+#EXTINF:-1 tvg-name="VTV6" group-title="Sports",VTV6
+https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8

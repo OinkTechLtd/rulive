@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-15 23:03:57
-# Всего каналов: 17094
-# Новых за сессию: 0
+# Обновлено: 2026-06-16 02:08:01
+# Всего каналов: 17121
+# Новых за сессию: 27
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Music
 # Каналов: 6
-# Обновлено: 2026-06-15 23:03:57
+# Обновлено: 2026-06-16 02:08:02
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Radio Carnaval TV" group-title="Entertainment;Music",Radio Carnaval TV
@@ -2626,3 +2626,11 @@ https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
 https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
 #EXTINF:-1 tvg-name="Fun Vision" group-title="Music",Fun Vision
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
+#EXTINF:-1 tvg-name="M6 SD" group-title="Entertainment",M6 SD
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_q2hyb21h/index-hd720.m3u8
+#EXTINF:-1 tvg-name="W9" group-title="Entertainment",W9
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd720.m3u8
+#EXTINF:-1 tvg-name="Apocalipsis TVD" group-title="Music",Apocalipsis TVD
+https://us.streaminghd.cl/apocalipsistvd/video.m3u8
+#EXTINF:-1 tvg-name="Buenisima Radio TV" group-title="Music",Buenisima Radio TV
+https://canal.mediaserver.com.co/live/buenisimatv.m3u8

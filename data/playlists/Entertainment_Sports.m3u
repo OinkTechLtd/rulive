@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-15 23:03:57
-# Всего каналов: 17094
-# Новых за сессию: 0
+# Обновлено: 2026-06-16 02:08:01
+# Всего каналов: 17121
+# Новых за сессию: 27
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Sports
 # Каналов: 3
-# Обновлено: 2026-06-15 23:03:57
+# Обновлено: 2026-06-16 02:08:02
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Entertainment;Sports",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -2075,3 +2075,11 @@ https://dokagents.site/live/digisport3/mono.m3u8
 https://dokagents.site/live/digisport4/mono.m3u8
 #EXTINF:-1 tvg-name="VTV6 [Geo-blocked]" group-title="Sports",VTV6 [Geo-blocked]
 https://live.fptplay53.net/fnxhd1/vtv6hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="M6 SD" group-title="Entertainment",M6 SD
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_q2hyb21h/index-hd720.m3u8
+#EXTINF:-1 tvg-name="W9" group-title="Entertainment",W9
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd720.m3u8
+#EXTINF:-1 tvg-name="A Spor" group-title="Sports",A Spor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 tvg-name="VTV6" group-title="Sports",VTV6
+https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8
