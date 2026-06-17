@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-16 23:06:07
-# Всего каналов: 17142
-# Новых за сессию: 0
+# Обновлено: 2026-06-17 02:02:51
+# Всего каналов: 17207
+# Новых за сессию: 65
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment
-# Каналов: 627
-# Обновлено: 2026-06-16 23:06:07
+# Каналов: 639
+# Обновлено: 2026-06-17 02:02:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Arte [Geo-blocked]" group-title="Entertainment",Arte [Geo-blocked]
@@ -1776,6 +1776,42 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/origin-m6web.live.6clo
 
 #EXTINF:-1 tvg-name="TV Golfo Uraba" group-title="Entertainment",TV Golfo Uraba
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8
+
+#EXTINF:-1 tvg-name="A&E" group-title="Entertainment",A&E
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/23.239.31.26:8989/aande/index.m3u8
+
+#EXTINF:-1 tvg-name="Crime + Investigation" group-title="Entertainment",Crime + Investigation
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
+
+#EXTINF:-1 tvg-name="Fuse" group-title="Entertainment",Fuse
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/23.237.104.106:8080/USA_FUSE/index.m3u8
+
+#EXTINF:-1 tvg-name="FXX" group-title="Entertainment",FXX
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.telecloud.tv/CH3255/index.m3u8
+
+#EXTINF:-1 tvg-name="Lifetime" group-title="Entertainment",Lifetime
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rezofoot.tv/LIFETIME/index.m3u8
+
+#EXTINF:-1 tvg-name="MeTV" group-title="Entertainment",MeTV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
+
+#EXTINF:-1 tvg-name="MTV" group-title="Entertainment",MTV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/198.58.104.90:8989/mtv/index.m3u8
+
+#EXTINF:-1 tvg-name="MTV2" group-title="Entertainment",MTV2
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/198.58.104.90:8989/mtv2/index.m3u8
+
+#EXTINF:-1 tvg-name="Oxygen" group-title="Entertainment",Oxygen
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/198.58.104.90:8989/oxygen/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal Chilote" group-title="Entertainment",Canal Chilote
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/videostream.chileservidores.com:8081/chiloe2/index.m3u8
+
+#EXTINF:-1 tvg-name="El Canal Feliz" group-title="Entertainment",El Canal Feliz
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming.multicontenidos.cl:8081/live/canalfeliz/playlist.m3u8
+
+#EXTINF:-1 tvg-name="La Melinkana TV" group-title="Entertainment",La Melinkana TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/v1.tustreaming.cl/melinkana/index.m3u8
 
 #EXTINF:-1 tvg-name="Беларусь 2" group-title="Entertainment",Беларусь 2
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8

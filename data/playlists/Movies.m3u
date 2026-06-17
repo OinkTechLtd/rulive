@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-16 23:06:07
-# Всего каналов: 17142
-# Новых за сессию: 0
+# Обновлено: 2026-06-17 02:02:51
+# Всего каналов: 17207
+# Новых за сессию: 65
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies
-# Каналов: 446
-# Обновлено: 2026-06-16 23:06:07
+# Каналов: 448
+# Обновлено: 2026-06-17 02:02:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="312 Кино (406p)" group-title="Movies",312 Кино (406p)
@@ -1072,6 +1072,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/iptv.prosto.tv/ch64/tr
 #EXTINF:-1 tvg-name="My Cinema Europe" group-title="Movies",My Cinema Europe
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
 
+#EXTINF:-1 tvg-name="KinoHit" group-title="Movies",KinoHit
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="Kinosvidanie" group-title="Movies",Kinosvidanie
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 
@@ -1197,6 +1200,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/dokagents.site/live/pr
 
 #EXTINF:-1 tvg-name="Canal Cine Dios" group-title="Movies",Canal Cine Dios
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/canal.mediaserver.com.co/live/cinedios.m3u8
+
+#EXTINF:-1 tvg-name="AMC" group-title="Movies",AMC
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/23.239.31.26:8989/amc/index.m3u8
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Movies",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi
@@ -1492,3 +1498,5 @@ https://dokagents.site/live/filmmania/mono.m3u8
 https://dokagents.site/live/filmnow/mono.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Pro Cinema" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Pro Cinema
 https://dokagents.site/live/procinema/mono.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Movies;Series",Star Channel Latin America (1080i)" group-title="Movies;Series",like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Movies;Series",Star Channel Latin America (1080i)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8

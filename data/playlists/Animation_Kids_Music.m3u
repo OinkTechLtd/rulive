@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-16 23:06:07
-# Всего каналов: 17142
-# Новых за сессию: 0
+# Обновлено: 2026-06-17 02:02:51
+# Всего каналов: 17207
+# Новых за сессию: 65
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Kids;Music
 # Каналов: 1
-# Обновлено: 2026-06-16 23:06:07
+# Обновлено: 2026-06-17 02:02:52
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="MCN6 Music Channel" group-title="Animation;Kids;Music",MCN6 Music Channel
@@ -1951,3 +1951,17 @@ https://canal.mediaserver.com.co/live/buenisimatv.m3u8
 https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
 #EXTINF:-1 tvg-name="Salsa Latina FM" group-title="Music",Salsa Latina FM
 https://panel.streamingmedia.com.co:3557/stream/play.m3u8
+#EXTINF:-1 tvg-name="SuperGeroi" group-title="Kids",SuperGeroi
+http://31.148.48.15/Malish_TV/index.m3u8
+#EXTINF:-1 tvg-name="AXS TV" group-title="Music",AXS TV
+http://23.239.31.26:8989/axstv/index.m3u8
+#EXTINF:-1 tvg-name="CMT" group-title="Music",CMT
+http://23.237.104.106:8080/USA_CMT/index.m3u8
+#EXTINF:-1 tvg-name="VH1" group-title="Music",VH1
+http://rezofoot.tv/VH1/index.m3u8
+#EXTINF:-1 tvg-name="Interradio TV" group-title="Music",Interradio TV
+https://tv.arkeo.cl:1936/8002/8002/playlist.m3u8
+#EXTINF:-1 tvg-name="La Granja TV" group-title="Music",La Granja TV
+https://oracle.streaminghd.cl/8126/8126/playlist.m3u8
+#EXTINF:-1 tvg-name="RTS Muzika (576p)" group-title="Music",RTS Muzika (576p)
+https://de1.dstv.cx/RTSMuzika/index.m3u8

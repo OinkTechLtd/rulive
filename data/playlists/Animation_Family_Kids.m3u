@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-16 23:06:07
-# Всего каналов: 17142
-# Новых за сессию: 0
+# Обновлено: 2026-06-17 02:02:51
+# Всего каналов: 17207
+# Новых за сессию: 65
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Family;Kids
 # Каналов: 1
-# Обновлено: 2026-06-16 23:06:07
+# Обновлено: 2026-06-17 02:02:52
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="BBC Three/CBBC [Geo-Blocked]" group-title="Animation;Family;Kids",BBC Three/CBBC [Geo-Blocked]
@@ -685,3 +685,9 @@ http://91.246.72.88:8000/play/a00r/index.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 #EXTINF:-1 tvg-name="Minika Go" group-title="Kids",Minika Go
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+#EXTINF:-1 tvg-name="SuperGeroi" group-title="Kids",SuperGeroi
+http://31.148.48.15/Malish_TV/index.m3u8
+#EXTINF:-1 tvg-name="Hallmark Channel" group-title="Family",Hallmark Channel
+http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+#EXTINF:-1 tvg-name="Canal IPe (576p)" group-title="Family",Canal IPe (576p)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/ipe.stream/playlist.m3u8

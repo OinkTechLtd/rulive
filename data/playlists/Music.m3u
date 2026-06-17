@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-16 23:06:07
-# Всего каналов: 17142
-# Новых за сессию: 0
+# Обновлено: 2026-06-17 02:02:51
+# Всего каналов: 17207
+# Новых за сессию: 65
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music
-# Каналов: 668
-# Обновлено: 2026-06-16 23:06:07
+# Каналов: 674
+# Обновлено: 2026-06-17 02:02:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Deluxe Music" group-title="Music",Deluxe Music
@@ -1929,6 +1929,24 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/panelvideo1.intermedia
 
 #EXTINF:-1 tvg-name="Salsa Latina FM" group-title="Music",Salsa Latina FM
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/panel.streamingmedia.com.co:3557/stream/play.m3u8
+
+#EXTINF:-1 tvg-name="AXS TV" group-title="Music",AXS TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/23.239.31.26:8989/axstv/index.m3u8
+
+#EXTINF:-1 tvg-name="CMT" group-title="Music",CMT
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/23.237.104.106:8080/USA_CMT/index.m3u8
+
+#EXTINF:-1 tvg-name="VH1" group-title="Music",VH1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rezofoot.tv/VH1/index.m3u8
+
+#EXTINF:-1 tvg-name="Interradio TV" group-title="Music",Interradio TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.arkeo.cl:1936/8002/8002/playlist.m3u8
+
+#EXTINF:-1 tvg-name="La Granja TV" group-title="Music",La Granja TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/oracle.streaminghd.cl/8126/8126/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RTS Muzika (576p)" group-title="Music",RTS Muzika (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/de1.dstv.cx/RTSMuzika/index.m3u8
 
 #EXTINF:-1 tvg-name="City TV (576p)" group-title="Music",City TV (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.city.bg/play/tshls/citytv/index.m3u8

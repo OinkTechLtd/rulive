@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-16 23:06:07
-# Всего каналов: 17142
-# Новых за сессию: 0
+# Обновлено: 2026-06-17 02:02:51
+# Всего каналов: 17207
+# Новых за сессию: 65
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Kids
 # Каналов: 1
-# Обновлено: 2026-06-16 23:06:07
+# Обновлено: 2026-06-17 02:02:52
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Unique TV (576p)" group-title="Entertainment;Kids",Unique TV (576p)
@@ -1817,3 +1817,23 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 tvg-name="TV Golfo Uraba" group-title="Entertainment",TV Golfo Uraba
 https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8
+#EXTINF:-1 tvg-name="SuperGeroi" group-title="Kids",SuperGeroi
+http://31.148.48.15/Malish_TV/index.m3u8
+#EXTINF:-1 tvg-name="A&E" group-title="Entertainment",A&E
+http://23.239.31.26:8989/aande/index.m3u8
+#EXTINF:-1 tvg-name="Fuse" group-title="Entertainment",Fuse
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
+#EXTINF:-1 tvg-name="FXX" group-title="Entertainment",FXX
+https://cdn.telecloud.tv/CH3255/index.m3u8
+#EXTINF:-1 tvg-name="Lifetime" group-title="Entertainment",Lifetime
+http://rezofoot.tv/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-name="MTV2" group-title="Entertainment",MTV2
+http://198.58.104.90:8989/mtv2/index.m3u8
+#EXTINF:-1 tvg-name="Oxygen" group-title="Entertainment",Oxygen
+http://198.58.104.90:8989/oxygen/index.m3u8
+#EXTINF:-1 tvg-name="Canal Chilote" group-title="Entertainment",Canal Chilote
+https://videostream.chileservidores.com:8081/chiloe2/index.m3u8
+#EXTINF:-1 tvg-name="El Canal Feliz" group-title="Entertainment",El Canal Feliz
+http://streaming.multicontenidos.cl:8081/live/canalfeliz/playlist.m3u8
+#EXTINF:-1 tvg-name="La Melinkana TV" group-title="Entertainment",La Melinkana TV
+https://v1.tustreaming.cl/melinkana/index.m3u8

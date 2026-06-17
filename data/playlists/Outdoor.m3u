@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-16 23:06:07
-# Всего каналов: 17142
-# Новых за сессию: 0
+# Обновлено: 2026-06-17 02:02:51
+# Всего каналов: 17207
+# Новых за сессию: 65
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Outdoor
-# Каналов: 44
-# Обновлено: 2026-06-16 23:06:07
+# Каналов: 45
+# Обновлено: 2026-06-17 02:02:52
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Ohotnik i rybolov (576i)" group-title="Outdoor",Ohotnik i rybolov (576i)
@@ -138,6 +138,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/iptv.prosto.tv/ch88/in
 
 #EXTINF:-1 tvg-name="Chacra TV" group-title="Outdoor",Chacra TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Outdoor Channel" group-title="Outdoor",Outdoor Channel
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/23.237.104.106:8080/USA_OUTDOOR/index.m3u8
 
 #EXTINF:-1 tvg-name="Sihai Fishing Channel" group-title="Outdoor",Sihai Fishing Channel
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/49.113.179.174:4022/udp/238.125.2.172:5140

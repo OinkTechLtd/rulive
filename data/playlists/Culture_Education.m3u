@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-16 23:06:07
-# Всего каналов: 17142
-# Новых за сессию: 0
+# Обновлено: 2026-06-17 02:02:51
+# Всего каналов: 17207
+# Новых за сессию: 65
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Education
 # Каналов: 9
-# Обновлено: 2026-06-16 23:06:07
+# Обновлено: 2026-06-17 02:02:52
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Ayeneh TV" group-title="Culture;Education",Ayeneh TV
@@ -807,3 +807,7 @@ https://belafrikamediatv.vedge.infomaniak.com/livecast/ik:belafrikamediatv/manif
 https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 #EXTINF:-1 tvg-name="Luys TV" group-title="Culture",Luys TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Cultura Online" group-title="Culture",Cultura Online
+https://streaming.bitsur.cl:3399/live/vdo532live.m3u8
+#EXTINF:-1 tvg-name="GVision (288p)" group-title="Education",GVision (288p)
+https://videostream.chileservidores.com:8081/tome/index.m3u8
