@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-17 12:17:29
-# Всего каналов: 17207
-# Новых за сессию: 0
+# Обновлено: 2026-06-17 16:12:50
+# Всего каналов: 17246
+# Новых за сессию: 39
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Public
 # Каналов: 1
-# Обновлено: 2026-06-17 12:17:30
+# Обновлено: 2026-06-17 16:12:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="3Cat El búnquer" group-title="Comedy;Public",3Cat El búnquer
@@ -103,7 +103,7 @@ https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8
 https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8
 #EXTINF:-1 tvg-name="Nick/Comedy Central +1 [Geo-Blocked]" group-title="Comedy;Kids",Nick/Comedy Central +1 [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Sitcoms" group-title="Comedy",Pluto TV Sitcoms
+#EXTINF:-1 tvg-name="Pluto TV Sitcoms" group-title="Comedy;Series",Pluto TV Sitcoms
 https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
 #EXTINF:-1 tvg-name="Takeshi's Castle" group-title="Comedy",Takeshi's Castle
 https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
@@ -177,8 +177,8 @@ http://cdn.tvmatic.net/comedy.m3u8
 https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-name="Mr Bean Live Action" group-title="Comedy;Kids",Mr Bean Live Action
 https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Classic TV" group-title="Comedy",Pluto TV Classic TV
-https://jmp2.uk/plu-5d134a74ca91eedee1630faa.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Animation" group-title="Animation;Comedy",Pluto TV Animation
+https://jmp2.uk/plu-612f761008a9e50007984ba0.m3u8
 #EXTINF:-1 tvg-name="Top Million Dollar Agent" group-title="Comedy",Top Million Dollar Agent
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883107
 #EXTINF:-1 tvg-name="13 Humor" group-title="Comedy",13 Humor
@@ -195,6 +195,8 @@ https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8
 #EXTINF:-1 tvg-name="FomixTV" group-title="General;Music;Public",FomixTV
 https://stream.fomixmedia.nl/FomixTV/video.m3u8
+#EXTINF:-1 tvg-name="Comedia a lo bestia de Pluto TV" group-title="Comedy",Comedia a lo bestia de Pluto TV
+https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8
 #EXTINF:-1 tvg-name="Comedy Central Animation" group-title="Comedy",Comedy Central Animation
 https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
 #EXTINF:-1 tvg-name="Comedy Play" group-title="Comedy",Comedy Play
@@ -207,17 +209,33 @@ https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202
 https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8
 #EXTINF:-1 tvg-name="Persiana Comedy" group-title="Comedy",Persiana Comedy
 https://comedyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Adult Animation" group-title="Animation;Comedy",Pluto TV Adult Animation
+https://jmp2.uk/plu-67f68bd2135aeda9ddf0ef54.m3u8
 #EXTINF:-1 tvg-name="Pluto TV British Comedy" group-title="Comedy",Pluto TV British Comedy
 https://jmp2.uk/plu-638e11951177840007fdd6b2.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Comedia made in Spain" group-title="Comedy",Pluto TV Comedia made in Spain
 https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Comedias Románticas" group-title="Comedy;Movies",Pluto TV Comedias Románticas
+https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Comédie" group-title="Comedy",Pluto TV Comédie
 https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Comedy Movies" group-title="Comedy",Pluto TV Comedy Movies
+#EXTINF:-1 tvg-name="Pluto TV Comédies Cultes" group-title="Comedy;Movies",Pluto TV Comédies Cultes
+https://jmp2.uk/plu-67b4b2d976a934282e92d71c.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Comedy Movies" group-title="Comedy;Movies",Pluto TV Comedy Movies
 https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Deutsche Comedy" group-title="Comedy",Pluto TV Deutsche Comedy
+https://jmp2.uk/plu-6672f49f61a39900089db68e.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Humor" group-title="Comedy;Movies",Pluto TV Humor
+https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Komedi" group-title="Comedy;Movies",Pluto TV Komedi
+https://jmp2.uk/plu-61c0b36d18447e000717d686.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Komedie" group-title="Comedy;Movies",Pluto TV Komedie
+https://jmp2.uk/plu-61c1e3a679a4390007c78136.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Kult Comedies" group-title="Comedy;Movies",Pluto TV Kult Comedies
+https://jmp2.uk/plu-66337de656fc840008ff7a65.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Scherzi e risate" group-title="Comedy",Pluto TV Scherzi e risate
 https://jmp2.uk/plu-609404b0a8ec810007d8de9d.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Séries Comédia" group-title="Comedy",Pluto TV Séries Comédia
+#EXTINF:-1 tvg-name="Pluto TV Séries Comédia" group-title="Comedy;Series",Pluto TV Séries Comédia
 https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8
 #EXTINF:-1 tvg-name="Vaya semanita" group-title="Comedy",Vaya semanita
 https://jmp2.uk/plu-5f28009b150b2500077766b8.m3u8
@@ -231,3 +249,9 @@ https://cdn1.etbon.eus/etb2/index.m3u8
 http://181.119.93.83:8000/play/a1di/index.m3u8
 #EXTINF:-1 tvg-name="Viasat Kino Comedy" group-title="Comedy;Movies",Viasat Kino Comedy
 http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31764/index.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Comedy Therapie" group-title="Comedy",Pluto TV Comedy Therapie
+https://jmp2.uk/plu-69b968ba255fecb01f602257.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Fran: Beste Mama-Momente" group-title="Comedy",Pluto TV Fran: Beste Mama-Momente
+https://jmp2.uk/plu-69b968e011fc7b9e27c0d958.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Worst of Bundy" group-title="Comedy",Pluto TV Worst of Bundy
+https://jmp2.uk/plu-69b968ca1c36025fd0a3d92d.m3u8

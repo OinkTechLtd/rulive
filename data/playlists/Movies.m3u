@@ -1,17 +1,20 @@
 #EXTM3U
-# Обновлено: 2026-06-17 12:17:29
-# Всего каналов: 17207
-# Новых за сессию: 0
+# Обновлено: 2026-06-17 16:12:50
+# Всего каналов: 17246
+# Новых за сессию: 39
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies
-# Каналов: 448
-# Обновлено: 2026-06-17 12:17:30
+# Каналов: 534
+# Обновлено: 2026-06-17 16:12:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="312 Кино (406p)" group-title="Movies",312 Кино (406p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/176.126.166.43:1935/live/312kino/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Kino 24" group-title="Movies",Kino 24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/sirius.greenhosting.ru/Kino24Ru/video.m3u8
 
 #EXTINF:-1 tvg-name="KinoHit (576p)" group-title="Movies",KinoHit (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tmptv.sunduk.tv/CH57/index.m3u8
@@ -226,9 +229,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5ff8c70865
 #EXTINF:-1 tvg-name="Pluto TV Action" group-title="Movies",Pluto TV Action
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
 
-#EXTINF:-1 tvg-name="Pluto TV Crime Drama" group-title="Movies",Pluto TV Crime Drama
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-65a6a7a00c7ff50008cba07b.m3u8
-
 #EXTINF:-1 tvg-name="Pluto TV Crime Movies" group-title="Movies",Pluto TV Crime Movies
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5f4d8594eb979c0007706de7.m3u8
 
@@ -237,9 +237,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5c665db3e6
 
 #EXTINF:-1 tvg-name="Pluto TV Drama" group-title="Movies",Pluto TV Drama
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5b4e92e4694c027be6ecece1.m3u8
-
-#EXTINF:-1 tvg-name="Pluto TV Horror" group-title="Movies",Pluto TV Horror
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8
 
 #EXTINF:-1 tvg-name="Pluto TV Reaction" group-title="Movies",Pluto TV Reaction
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-617b37b361e0fd0008cfd8c5.m3u8
@@ -297,6 +294,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5dde47b635
 
 #EXTINF:-1 tvg-name="Pluto TV Movies" group-title="Movies",Pluto TV Movies
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5c5c3b948002db3c3e0b262e.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Paranormal" group-title="Movies",Pluto TV Paranormal
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5f98487036af340008da1e37.m3u8
 
 #EXTINF:-1 tvg-name="Pluto TV Thriller" group-title="Movies",Pluto TV Thriller
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5e1efdbf90ba3e0009d99082.m3u8
@@ -721,17 +721,14 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/amg02784-amg02784c2-am
 #EXTINF:-1 tvg-name="OSN Movies Action" group-title="Movies",OSN Movies Action
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/116.90.120.151:8000/play/a0ax/index.m3u8
 
-#EXTINF:-1 tvg-name="Pluto TV Action" group-title="Movies",Pluto TV Action
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5dbfeb961b411c00090b52b3.m3u8
-
 #EXTINF:-1 tvg-name="Pluto TV Cult Films" group-title="Movies",Pluto TV Cult Films
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5c5c31f2f21b553c1f673fb0.m3u8
 
-#EXTINF:-1 tvg-name="Pluto TV Drama" group-title="Movies",Pluto TV Drama
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5ddf91149880d60009d35d27.m3u8
-
 #EXTINF:-1 tvg-name="Pluto TV Movies" group-title="Movies",Pluto TV Movies
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5ad8d3a31b95267e225e4e09.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Paranormal" group-title="Movies",Pluto TV Paranormal
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5d4af2ffa9506ab29cf38c38.m3u8
 
 #EXTINF:-1 tvg-name="Pluto TV Thrillers" group-title="Movies",Pluto TV Thrillers
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8
@@ -955,29 +952,134 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/amg17931-zee-amg17931c
 #EXTINF:-1 tvg-name="Adrenalina Pura TV" group-title="Movies",Adrenalina Pura TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
 
+#EXTINF:-1 tvg-name="Ciné 666 by Pluto TV" group-title="Movies",Ciné 666 by Pluto TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-6823648580b2665220d9e69a.m3u8
+
+#EXTINF:-1 tvg-name="Ciné Action by Pluto TV" group-title="Movies",Ciné Action by Pluto TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5f8ed1ff5c39700007e2204a.m3u8
+
 #EXTINF:-1 tvg-name="Cine Amor" group-title="Movies",Cine Amor
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5f5136317aedfb0007016f93.m3u8
+
+#EXTINF:-1 tvg-name="Ciné by Pluto TV" group-title="Movies",Ciné by Pluto TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5f8ed0f17564a300082b676a.m3u8
+
+#EXTINF:-1 tvg-name="Ciné Catastrophe by Pluto TV" group-title="Movies",Ciné Catastrophe by Pluto TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-65a69ef53af63d000825e0ee.m3u8
+
+#EXTINF:-1 tvg-name="Ciné d'Asie by Pluto TV" group-title="Movies",Ciné d'Asie by Pluto TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-62f3e2d000418d00070f7dbc.m3u8
+
+#EXTINF:-1 tvg-name="Ciné Horreur by Pluto TV" group-title="Movies",Ciné Horreur by Pluto TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-66e1978babec540008ce41ac.m3u8
+
+#EXTINF:-1 tvg-name="Ciné Rétro by Pluto TV" group-title="Movies",Ciné Rétro by Pluto TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5f8ed168f72fcd0007e56269.m3u8
+
+#EXTINF:-1 tvg-name="Ciné Romance by Pluto TV" group-title="Movies",Ciné Romance by Pluto TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-60812fc8539963000707d1e1.m3u8
+
+#EXTINF:-1 tvg-name="Ciné Sci-Fi by Pluto TV" group-title="Movies",Ciné Sci-Fi by Pluto TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-60c34592c911890007f29a73.m3u8
+
+#EXTINF:-1 tvg-name="Ciné Thrillers by Pluto TV" group-title="Movies",Ciné Thrillers by Pluto TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
+
+#EXTINF:-1 tvg-name="Ciné Western by Pluto TV" group-title="Movies",Ciné Western by Pluto TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
 
 #EXTINF:-1 tvg-name="Estrellas de Acción" group-title="Movies",Estrellas de Acción
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
 
-#EXTINF:-1 tvg-name="Pluto TV Action" group-title="Movies",Pluto TV Action
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-65004605110545000842035d.m3u8
+#EXTINF:-1 tvg-name="Moviepilot TV mit Pluto TV" group-title="Movies",Moviepilot TV mit Pluto TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-65a67d572fac9c000835eb3a.m3u8
+
+#EXTINF:-1 tvg-name="Paramount Network de Pluto TV" group-title="Movies",Paramount Network de Pluto TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV A La Mexicana" group-title="Movies",Pluto TV A La Mexicana
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Action Movies" group-title="Movies",Pluto TV Action Movies
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-62ea3c2e4823db00072788ed.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Alberto Sordi" group-title="Movies",Pluto TV Alberto Sordi
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-661f8f01801af800083d9d81.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Bang Bang" group-title="Movies",Pluto TV Bang Bang
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-663b9dc7cb3ea10008f1a0ce.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Bud & Terence" group-title="Movies",Pluto TV Bud & Terence
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-65b915b1dc10a40008d53797.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Bud & Terence" group-title="Movies",Pluto TV Bud & Terence
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-65b916ec3af63d00084c5841.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Bud & Terence" group-title="Movies",Pluto TV Bud & Terence
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-65b917720d9ab4000833f323.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Catástrofes" group-title="Movies",Pluto TV Catástrofes
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-645a309c5a0cd5000873f609.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Christmas tutto l'anno" group-title="Movies",Pluto TV Christmas tutto l'anno
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-612e05b885183d0007958101.m3u8
 
 #EXTINF:-1 tvg-name="Pluto TV Cine Acción" group-title="Movies",Pluto TV Cine Acción
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8
 
+#EXTINF:-1 tvg-name="Pluto TV Cine Acción" group-title="Movies",Pluto TV Cine Acción
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8
+
 #EXTINF:-1 tvg-name="Pluto TV Cine Clásico" group-title="Movies",Pluto TV Cine Clásico
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-61373bb45168fe000773eecd.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Cine Clásico" group-title="Movies",Pluto TV Cine Clásico
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-609059dc63be6e0007b4eca6.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Cine Comedia" group-title="Movies",Pluto TV Cine Comedia
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5f1ac8099c49f600076579b2.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Cine Comedia" group-title="Movies",Pluto TV Cine Comedia
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8
 
 #EXTINF:-1 tvg-name="Pluto TV Cine Comédia" group-title="Movies",Pluto TV Cine Comédia
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
 
+#EXTINF:-1 tvg-name="Pluto TV Cine Comédia Romântica" group-title="Movies",Pluto TV Cine Comédia Romântica
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Cine Crime" group-title="Movies",Pluto TV Cine Crime
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-6479ff764f5ba5000878dfe2.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Cine Crimen" group-title="Movies",Pluto TV Cine Crimen
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-624af40c004f8000079b784d.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Cine de autor" group-title="Movies",Pluto TV Cine de autor
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-60cc807324d60a0007708dc8.m3u8
+
 #EXTINF:-1 tvg-name="Pluto TV Cine Drama" group-title="Movies",Pluto TV Cine Drama
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5f1ac947dcd00d0007937c08.m3u8
 
+#EXTINF:-1 tvg-name="Pluto TV Cine Drama" group-title="Movies",Pluto TV Cine Drama
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5dcddfcb229eff00091b6bdf.m3u8
+
 #EXTINF:-1 tvg-name="Pluto TV Cine Estelar" group-title="Movies",Pluto TV Cine Estelar
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Cine Estelar" group-title="Movies",Pluto TV Cine Estelar
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Cine Familia" group-title="Movies",Pluto TV Cine Familia
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Cine Inspiração" group-title="Movies",Pluto TV Cine Inspiração
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5fa991b1f09e020007e78626.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Cine Inspirador" group-title="Movies",Pluto TV Cine Inspirador
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-6806d519fea7414f33f57016.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Cine Romance" group-title="Movies",Pluto TV Cine Romance
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5dd7ea2aeab5230009986735.m3u8
 
 #EXTINF:-1 tvg-name="Pluto TV Cine Romántico" group-title="Movies",Pluto TV Cine Romántico
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8
@@ -985,14 +1087,44 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5f1ac9a2d3
 #EXTINF:-1 tvg-name="Pluto TV Cine Suspenso" group-title="Movies",Pluto TV Cine Suspenso
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5ddc4e8bcbb9010009b4e84f.m3u8
 
+#EXTINF:-1 tvg-name="Pluto TV Cine Terror" group-title="Movies",Pluto TV Cine Terror
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
+
 #EXTINF:-1 tvg-name="Pluto TV Cinema Italiano" group-title="Movies",Pluto TV Cinema Italiano
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-608aa7d8359b270007861489.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Cinema Orientale" group-title="Movies",Pluto TV Cinema Orientale
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-6786235bd648bf0008c2780a.m3u8
 
 #EXTINF:-1 tvg-name="Pluto TV Crime Drama" group-title="Movies",Pluto TV Crime Drama
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-62e92708a7ce600007b2676a.m3u8
 
+#EXTINF:-1 tvg-name="Pluto TV Dive Italiane" group-title="Movies",Pluto TV Dive Italiane
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-6875080e3484d607323641f8.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Drama Movies" group-title="Movies",Pluto TV Drama Movies
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-62bdb0bcd707b9000739d2e5.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Family Movie Club" group-title="Movies",Pluto TV Family Movie Club
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5dc3fc6b9133f500099c7d98.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Fantasy & Horror" group-title="Movies",Pluto TV Fantasy & Horror
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-685041d936c9361b1921c26c.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Ferne Galaxien" group-title="Movies",Pluto TV Ferne Galaxien
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-68ada46d5190a45dc9c45af1.m3u8
+
 #EXTINF:-1 tvg-name="Pluto TV Film" group-title="Movies",Pluto TV Film
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-61c09515fbb4b50007d221f5.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Film" group-title="Movies",Pluto TV Film
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Film" group-title="Movies",Pluto TV Film
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-61c1e1e55deef000075aed0c.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Film" group-title="Movies",Pluto TV Film
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-61c0afa0a09bbe00078f8378.m3u8
 
 #EXTINF:-1 tvg-name="Pluto TV Film Azione" group-title="Movies",Pluto TV Film Azione
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-608aa20a2e7f270007c4878d.m3u8
@@ -1003,11 +1135,116 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-608aa512d6
 #EXTINF:-1 tvg-name="Pluto TV Film Romantici" group-title="Movies",Pluto TV Film Romantici
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-608aa4a4cc92820007b663af.m3u8
 
+#EXTINF:-1 tvg-name="Pluto TV Film Storici" group-title="Movies",Pluto TV Film Storici
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-68750875759366af05a151ce.m3u8
+
 #EXTINF:-1 tvg-name="Pluto TV Film Thriller" group-title="Movies",Pluto TV Film Thriller
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-608aa5e995132a00075f7005.m3u8
 
+#EXTINF:-1 tvg-name="Pluto TV Filmes Aventura" group-title="Movies",Pluto TV Filmes Aventura
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Filmes de Luta" group-title="Movies",Pluto TV Filmes de Luta
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Harlequin" group-title="Movies",Pluto TV Harlequin
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-68c01afa3efb41cd9759dafb.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Harlequin" group-title="Movies",Pluto TV Harlequin
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-68c01b9a6bdcf3b9a64febcc.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Icons" group-title="Movies",Pluto TV Icons
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-64b585f84ea480000838e446.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Invasión Alien" group-title="Movies",Pluto TV Invasión Alien
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-654a35ce346f420008d5c36e.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV John Wayne" group-title="Movies",Pluto TV John Wayne
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-655ca7aa635c3c000855d655.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV John Wayne" group-title="Movies",Pluto TV John Wayne
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-655ca99dfbc15b00081f209c.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV John Wayne" group-title="Movies",Pluto TV John Wayne
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-655caaaac0fc8800086f5d99.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Kultfilm" group-title="Movies",Pluto TV Kultfilm
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-63dbe7ed51f5d000083e9499.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Kultfilmer" group-title="Movies",Pluto TV Kultfilmer
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-63dbe80f60bc8f0008aa7c78.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Kultfilmer" group-title="Movies",Pluto TV Kultfilmer
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-63dbe8c8a9957100087798a3.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Legami Letali" group-title="Movies",Pluto TV Legami Letali
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-64808a8c536e0c0008a276d1.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Netmovies" group-title="Movies",Pluto TV Netmovies
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-663b9de4f999220008230fa8.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Notti di Passione" group-title="Movies",Pluto TV Notti di Passione
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-6911c9704316999535eb21cf.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Notti di Sangue" group-title="Movies",Pluto TV Notti di Sangue
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-6911c92b4316999535eb1e08.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Notti di Terrore" group-title="Movies",Pluto TV Notti di Terrore
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-6911c8dd8caba6f046c5c5d5.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Nuestro Cine" group-title="Movies",Pluto TV Nuestro Cine
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5defde6d6c07b50009cf0757.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Paranormal" group-title="Movies",Pluto TV Paranormal
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-62b30beb81f89900071fc7b9.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Paranormal" group-title="Movies",Pluto TV Paranormal
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-612ce5214bb5790007ad3016.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Paranormal" group-title="Movies",Pluto TV Paranormal
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5f8ed9461b35690007a0bc3a.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Paranormal" group-title="Movies",Pluto TV Paranormal
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-66c70033b1a34600087bb09a.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Paranormal" group-title="Movies",Pluto TV Paranormal
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-62b1e4189f5db20007ff03be.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Psycho" group-title="Movies",Pluto TV Psycho
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-65ce480a78df2200131c597b.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Romantik" group-title="Movies",Pluto TV Romantik
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-63a1c954d3897300079fcb12.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Romantik" group-title="Movies",Pluto TV Romantik
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-63a19da6847a090007f230da.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Romantikk" group-title="Movies",Pluto TV Romantikk
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-63a19bb5e6914b000721b5c0.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Serie Sci-Fi" group-title="Movies",Pluto TV Serie Sci-Fi
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Terror Trash" group-title="Movies",Pluto TV Terror Trash
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8
+
 #EXTINF:-1 tvg-name="Pluto TV Thrillers" group-title="Movies",Pluto TV Thrillers
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Totò" group-title="Movies",Pluto TV Totò
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-65253f9881f942000833ccd5.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Trending Now" group-title="Movies",Pluto TV Trending Now
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-673247127d5da5000817b4d6.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Western" group-title="Movies",Pluto TV Western
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-630dd3b2605f140007e002f5.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Western" group-title="Movies",Pluto TV Western
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-6385e82900ab2e000768a058.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Western" group-title="Movies",Pluto TV Western
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-62e7fb67478a5b0007e6c50c.m3u8
 
 #EXTINF:-1 tvg-name="Pluto TV Westerns" group-title="Movies",Pluto TV Westerns
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-62bdacc96a3751000811842d.m3u8
@@ -1204,6 +1441,27 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/canal.mediaserver.com.
 #EXTINF:-1 tvg-name="AMC" group-title="Movies",AMC
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/23.239.31.26:8989/amc/index.m3u8
 
+#EXTINF:-1 tvg-name="Pluto TV Crime Drama" group-title="Movies",Pluto TV Crime Drama
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5f31fd1b4c510e00071c3103.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Azione Cult" group-title="Movies",Pluto TV Azione Cult
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-6994800c470389f33df8e090.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Film Ancora Più Romantici" group-title="Movies",Pluto TV Film Ancora Più Romantici
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-699d87093d5dba980705cca8.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/webtvstream.bhtelecom.ba/hls7/filmbox_extra.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/webtvstream.bhtelecom.ba/hls7/filmbox_premium.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/webtvstream.bhtelecom.ba/hls7/filmbox_stars.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Harlequin" group-title="Movies",Pluto TV Harlequin
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-68c01bed508ba507f0d0dd60.m3u8
+
 #EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Movies",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi
 
@@ -1362,6 +1620,8 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=57&deviceId=5a4d3a00ad95e4718ae8d8db&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Pluto TV Fantastic" group-title="VOD Movies (EN)",Pluto TV Fantastic
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=66&deviceId=5b64a245a202b3337f09e51d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="Pluto TV Horror" group-title="VOD Movies (EN)",Pluto TV Horror
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=75&deviceId=569546031a619b8f07ce6e25&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Black Cinema" group-title="VOD Movies (EN)",Black Cinema
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Pluto TV Documentaries" group-title="VOD Movies (EN)",Pluto TV Documentaries
@@ -1454,8 +1714,36 @@ https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Movies",MovieBox" group-title="Movies",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Movies",MovieBox
 https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd
+#EXTINF:-1 tvg-name="Pluto TV 80's Action" group-title="Movies;Series",Pluto TV 80's Action
+https://jmp2.uk/plu-66d717c6abec540008ba7eb5.m3u8
+#EXTINF:-1 tvg-name="Pluto TV 90's Classics" group-title="Movies;Series",Pluto TV 90's Classics
+https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
+#EXTINF:-1 tvg-name="Pluto TV 2010's Classics" group-title="Movies;Series",Pluto TV 2010's Classics
+https://jmp2.uk/plu-66b498bc14a2bb00086965bc.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Comedias Románticas" group-title="Comedy;Movies",Pluto TV Comedias Románticas
+https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Comédies Cultes" group-title="Comedy;Movies",Pluto TV Comédies Cultes
+https://jmp2.uk/plu-67b4b2d976a934282e92d71c.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Comedy Movies" group-title="Comedy;Movies",Pluto TV Comedy Movies
+https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Danske klassikere" group-title="Classic;Movies",Pluto TV Danske klassikere
+https://jmp2.uk/plu-67d2b814fe36d6e7b1d2318a.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Humor" group-title="Comedy;Movies",Pluto TV Humor
+https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Komedi" group-title="Comedy;Movies",Pluto TV Komedi
+https://jmp2.uk/plu-61c0b36d18447e000717d686.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Komedie" group-title="Comedy;Movies",Pluto TV Komedie
+https://jmp2.uk/plu-61c1e3a679a4390007c78136.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Kult Comedies" group-title="Comedy;Movies",Pluto TV Kult Comedies
+https://jmp2.uk/plu-66337de656fc840008ff7a65.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Sci-fi" group-title="Movies;Series",Pluto TV Sci-fi
 https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Star Trek" group-title="Movies;Series",Pluto TV Star Trek
+https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Wild West" group-title="Movies;Series",Pluto TV Wild West
+https://jmp2.uk/plu-68c01732b3900870ec74766f.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Zombies" group-title="Movies;Series",Pluto TV Zombies
+https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Movies",MN+" group-title="Movies",like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Movies",MN+
 https://cdn4.skygo.mn/live/disk1/MNplus91/HLSv3-FTA/MNplus91.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Anmol Cinema (576p)" group-title="Movies",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Anmol Cinema (576p)
@@ -1500,3 +1788,13 @@ https://dokagents.site/live/filmnow/mono.m3u8
 https://dokagents.site/live/procinema/mono.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Movies;Series",Star Channel Latin America (1080i)" group-title="Movies;Series",like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Movies;Series",Star Channel Latin America (1080i)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Magnificent Movies Network" group-title="Movies;Shop",Magnificent Movies Network
+https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Retro Action Movies" group-title="Classic;Movies",Pluto TV Retro Action Movies
+https://jmp2.uk/plu-69a9ae4d3bd16a4ed04240d7.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox Extra" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox Extra
+https://webtvstream.bhtelecom.ba/hls7/filmbox_extra.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox Premium" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox Premium
+https://webtvstream.bhtelecom.ba/hls7/filmbox_premium.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox Stars" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox Stars
+https://webtvstream.bhtelecom.ba/hls7/filmbox_stars.m3u8

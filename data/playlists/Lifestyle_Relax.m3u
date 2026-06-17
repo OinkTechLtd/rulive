@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-17 12:17:29
-# Всего каналов: 17207
-# Новых за сессию: 0
+# Обновлено: 2026-06-17 16:12:50
+# Всего каналов: 17246
+# Новых за сессию: 39
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Lifestyle;Relax
 # Каналов: 1
-# Обновлено: 2026-06-17 12:17:30
+# Обновлено: 2026-06-17 16:12:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="10 Bold Adelaide" group-title="Lifestyle;Relax",10 Bold Adelaide
@@ -81,8 +81,6 @@ https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8
 https://d3i68hpvh19xjd.cloudfront.net/JamieOliver_GB.m3u8
 #EXTINF:-1 tvg-name="BBC Travel" group-title="Lifestyle",BBC Travel
 https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Food" group-title="Lifestyle",Pluto TV Food
-https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8
 #EXTINF:-1 tvg-name="FashionTV Paris L'Original" group-title="Lifestyle",FashionTV Paris L'Original
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:-1 tvg-name="FashionTV Secrets" group-title="Lifestyle",FashionTV Secrets
@@ -207,12 +205,26 @@ http://dvrfl05.bozztv.com/gin-marao/index.m3u8
 https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
 #EXTINF:-1 tvg-name="Revry" group-title="Lifestyle",Revry
 https://99d8b4b6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5X0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Cucina" group-title="Lifestyle",Pluto TV Cucina
+#EXTINF:-1 tvg-name="Pluto TV Cocina" group-title="Cooking;Lifestyle",Pluto TV Cocina
+https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Cozinha" group-title="Lifestyle",Pluto TV Cozinha
+https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Cucina" group-title="Cooking;Lifestyle",Pluto TV Cucina
 https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Cuisine" group-title="Lifestyle",Pluto TV Cuisine
+#EXTINF:-1 tvg-name="Pluto TV Cuisine" group-title="Cooking;Lifestyle",Pluto TV Cuisine
 https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Diseño" group-title="Lifestyle",Pluto TV Diseño
+https://jmp2.uk/plu-64db2e0835425100080f2f5a.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Estilo de Vida" group-title="Lifestyle",Pluto TV Estilo de Vida
 https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8
+#EXTINF:-1 tvg-name="Pluto TV KFOOD" group-title="Cooking;Lifestyle",Pluto TV KFOOD
+https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Real Life" group-title="Lifestyle",Pluto TV Real Life
+https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Viagens" group-title="Lifestyle",Pluto TV Viagens
+https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Viaggi" group-title="Lifestyle",Pluto TV Viaggi
+https://jmp2.uk/plu-63c923944207be0007fd0887.m3u8
 #EXTINF:-1 tvg-name="NowMedia Television" group-title="Lifestyle;News",NowMedia Television
 https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="CCTV-Health" group-title="Lifestyle",CCTV-Health

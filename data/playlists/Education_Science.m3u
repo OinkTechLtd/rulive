@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-17 12:17:29
-# Всего каналов: 17207
-# Новых за сессию: 0
+# Обновлено: 2026-06-17 16:12:50
+# Всего каналов: 17246
+# Новых за сессию: 39
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Science
 # Каналов: 4
-# Обновлено: 2026-06-17 12:17:30
+# Обновлено: 2026-06-17 16:12:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="滁州科教 (450p)" group-title="Education;Science",滁州科教 (450p)
@@ -116,7 +116,7 @@ https://kuondt.lls.pbs.org/out/v1/91d8b5ffc5c1453c8a621508a07749a6/index.m3u8
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1 tvg-name="PBS Sedalia British Columbia MO (KMOS) [Geo-blocked]" group-title="Education",PBS Sedalia British Columbia MO (KMOS) [Geo-blocked]
 https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Science" group-title="Science",Pluto TV Science
+#EXTINF:-1 tvg-name="Pluto TV Science" group-title="Documentary;Science",Pluto TV Science
 https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
 #EXTINF:-1 tvg-name="Poudre School District TV (PSD TV) (Fort Collins CO)" group-title="Education",Poudre School District TV (PSD TV) (Fort Collins CO)
 https://reflect-broadcast-psdschools.cablecast.tv/live-6/live/live.m3u8
@@ -124,8 +124,6 @@ https://reflect-broadcast-psdschools.cablecast.tv/live-6/live/live.m3u8
 https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
 #EXTINF:-1 tvg-name="Santa Maria Community Television Education Channel" group-title="Education",Santa Maria Community Television Education Channel
 https://livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Smithsonian Channel Pluto TV" group-title="Science",Smithsonian Channel Pluto TV
-https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
 #EXTINF:-1 tvg-name="The Southeastern Channel (540p)" group-title="Education",The Southeastern Channel (540p)
 http://147.174.13.196/live/live.m3u8
 #EXTINF:-1 tvg-name="TUTV" group-title="Education",TUTV
@@ -144,8 +142,6 @@ https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8
 https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
 #EXTINF:-1 tvg-name="NRWision" group-title="Education",NRWision
 https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Space" group-title="Science",Pluto TV Space
-https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8
 #EXTINF:-1 tvg-name="SPIEGEL TV" group-title="Education",SPIEGEL TV
 https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8
 #EXTINF:-1 tvg-name="Animaux [Geo-Blocked]" group-title="Education",Animaux [Geo-Blocked]
@@ -490,8 +486,14 @@ https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Ýaşlyk (406p)" group-title="Education",Ýaşlyk (406p)
 https://alpha.tv.online.tm/hls/ch002.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Misterios" group-title="Education",Pluto TV Misterios
+https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Space" group-title="Science",Pluto TV Space
+https://jmp2.uk/plu-61b86c6ef30f5d0007e4c6d1.m3u8
 #EXTINF:-1 tvg-name="Pronto-socorro: Histórias De Emergência" group-title="Education",Pronto-socorro: Histórias De Emergência
 https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
+#EXTINF:-1 tvg-name="Smithsonian Channel Selects" group-title="Science",Smithsonian Channel Selects
+https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8
 #EXTINF:-1 tvg-name="MediBizTV" group-title="Education;News;Science",MediBizTV
 https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8
 #EXTINF:-1 tvg-name="Monroe Community Media Education Channel" group-title="Education",Monroe Community Media Education Channel

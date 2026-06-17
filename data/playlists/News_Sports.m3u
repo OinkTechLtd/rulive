@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-17 12:17:29
-# Всего каналов: 17207
-# Новых за сессию: 0
+# Обновлено: 2026-06-17 16:12:50
+# Всего каналов: 17246
+# Новых за сессию: 39
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News;Sports
 # Каналов: 3
-# Обновлено: 2026-06-17 12:17:30
+# Обновлено: 2026-06-17 16:12:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Africa 24 Sport" group-title="News;Sports",Africa 24 Sport
@@ -2577,14 +2577,44 @@ https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true
 https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
 #EXTINF:-1 tvg-name="DAZN Combat (684p)" group-title="Sports",DAZN Combat (684p)
 https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
+#EXTINF:-1 tvg-name="DAZN Darts x Pluto TV" group-title="Sports",DAZN Darts x Pluto TV
+https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
+#EXTINF:-1 tvg-name="DAZN Handball x Pluto TV" group-title="Sports",DAZN Handball x Pluto TV
+https://jmp2.uk/plu-6683f7fe36a2f9000804940c.m3u8
+#EXTINF:-1 tvg-name="DAZN Heldinnen x Pluto TV" group-title="Sports",DAZN Heldinnen x Pluto TV
+https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
 #EXTINF:-1 tvg-name="Euronews Spanish" group-title="News",Euronews Spanish
 https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
 #EXTINF:-1 tvg-name="FOX Sports" group-title="Sports",FOX Sports
 https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
 #EXTINF:-1 tvg-name="Miracle TV" group-title="News",Miracle TV
 https://live.miracleonline.org/hls/miracle1.m3u8
+#EXTINF:-1 tvg-name="Monster Jam" group-title="Outdoor;Sports",Monster Jam
+https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8
+#EXTINF:-1 tvg-name="PFL MMA" group-title="Sports",PFL MMA
+https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Competition" group-title="Sports",Pluto TV Competition
+https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Deportes" group-title="Sports",Pluto TV Deportes
 https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
+#EXTINF:-1 tvg-name="Pluto TV E-Sports" group-title="Sports",Pluto TV E-Sports
+https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Esportes" group-title="Sports",Pluto TV Esportes
+https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Fishing" group-title="Outdoor;Sports",Pluto TV Fishing
+https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Håndbold Highlights" group-title="Sports",Pluto TV Håndbold Highlights
+https://jmp2.uk/plu-68dfa431cc3c6cd904053100.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Håndbold Live" group-title="Sports",Pluto TV Håndbold Live
+https://jmp2.uk/plu-6618f54baec96800081525ec.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Handboll Highlights" group-title="Sports",Pluto TV Handboll Highlights
+https://jmp2.uk/plu-68dfa3e2cc3c6cd904052c41.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Handboll Live" group-title="Sports",Pluto TV Handboll Live
+https://jmp2.uk/plu-686faf533ffa5e0c912688e7.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Record News" group-title="News",Pluto TV Record News
+https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Snooker 900" group-title="Sports",Pluto TV Snooker 900
+https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Sport" group-title="Sports",Pluto TV Sport
 https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8
 #EXTINF:-1 tvg-name="RCN Noticias" group-title="News",RCN Noticias
@@ -2817,3 +2847,9 @@ http://23.237.104.106:8080/USA_NESN/index.m3u8
 https://webtvstream.bhtelecom.ba/hls7/fightbox.m3u8
 #EXTINF:-1 tvg-name="El Centro TV" group-title="News",El Centro TV
 https://v1.tustreaming.cl/diarioelcentrotv/index.m3u8
+#EXTINF:-1 tvg-name="Africanews English" group-title="News",Africanews English
+https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
+#EXTINF:-1 tvg-name="Euronews Greek" group-title="News",Euronews Greek
+https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
+#EXTINF:-1 tvg-name="Euronews Hungarian" group-title="News",Euronews Hungarian
+https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-17 12:17:29
-# Всего каналов: 17207
-# Новых за сессию: 0
+# Обновлено: 2026-06-17 16:12:50
+# Всего каналов: 17246
+# Новых за сессию: 39
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Public
 # Каналов: 2
-# Обновлено: 2026-06-17 12:17:30
+# Обновлено: 2026-06-17 16:12:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Clan TVE [Geo-blocked]" group-title="Kids;Public",Clan TVE [Geo-blocked]
@@ -128,7 +128,7 @@ https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
 https://reflect-npa.cablecast.tv/live-9/live/live.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon en español" group-title="Kids",Nickelodeon en español
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon Pluto TV" group-title="Kids",Nickelodeon Pluto TV
+#EXTINF:-1 tvg-name="Nickelodeon Pluto TV" group-title="Animation;Kids",Nickelodeon Pluto TV
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 #EXTINF:-1 tvg-name="Ninja Kidz" group-title="Kids",Ninja Kidz
 https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8
@@ -410,7 +410,7 @@ http://46.149.191.217:9011/play/a018
 https://streamer.filmowo.xyz/memfs/a9e785bf-54f7-4a9d-be03-1ad6ace02cd3.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Kids" group-title="Kids",Pluto TV Kids
 https://jmp2.uk/plu-5ad8d54be738977e2c310940.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Retro Toons" group-title="Kids",Pluto TV Retro Toons
+#EXTINF:-1 tvg-name="Pluto TV Retro Toons" group-title="Animation;Kids",Pluto TV Retro Toons
 https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
 #EXTINF:-1 tvg-name="Pop Up [Geo-blocked]" group-title="Kids",Pop Up [Geo-blocked]
 https://amg01753-amg01753c9-samsung-gb-8005.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeuk-popup-samsunggb/playlist.m3u8
@@ -548,10 +548,34 @@ https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 https://jmp2.uk/plu-66bb36e03a4ad200082bb8fe.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Forever Kids" group-title="Kids",Pluto TV Forever Kids
 https://jmp2.uk/plu-691ddf2a3ae32cf55263476d.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Juniorklubben" group-title="Kids",Pluto TV Juniorklubben
+https://jmp2.uk/plu-61c09a78bd194c0008decc28.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Kids Spain" group-title="Kids",Pluto TV Kids Spain
 https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Kids Classics" group-title="Kids",Pluto TV Kids Classics
+https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Kids Club" group-title="Kids",Pluto TV Kids Club
+https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Klassiske tegnefilm" group-title="Kids",Pluto TV Klassiske tegnefilm
+https://jmp2.uk/plu-67f508992ebe80e2929b5c98.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Klassiske tegnefilmer" group-title="Kids",Pluto TV Klassiske tegnefilmer
+https://jmp2.uk/plu-67f508f68ddd60c57dc44766.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Retro Kid" group-title="Kids",Pluto TV Retro Kid
+https://jmp2.uk/plu-6408b41b83f58900081d91ad.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Super Kids" group-title="Kids",Pluto TV Super Kids
+https://jmp2.uk/plu-652557d93fd33c000802f995.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Tecknade klassiker" group-title="Kids",Pluto TV Tecknade klassiker
+https://jmp2.uk/plu-67f5095a3481170e6843d95d.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Tecknat" group-title="Kids",Pluto TV Tecknat
+https://jmp2.uk/plu-61c0b6f028e94c000782684a.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Teen" group-title="Kids",Pluto TV Teen
 https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Tegnefilm" group-title="Kids",Pluto TV Tegnefilm
+https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Toons" group-title="Kids",Pluto TV Toons
+https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Ungdomsserier" group-title="Kids",Pluto TV Ungdomsserier
+https://jmp2.uk/plu-67f3fb1cdea1c5e0d588ac1b.m3u8
 #EXTINF:-1 tvg-name="Rugrats" group-title="Kids",Rugrats
 https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
 #EXTINF:-1 tvg-name="Super! iCarly" group-title="Kids",Super! iCarly

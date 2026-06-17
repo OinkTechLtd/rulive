@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-17 12:17:29
-# Всего каналов: 17207
-# Новых за сессию: 0
+# Обновлено: 2026-06-17 16:12:50
+# Всего каналов: 17246
+# Новых за сессию: 39
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Series
 # Каналов: 1
-# Обновлено: 2026-06-17 12:17:30
+# Обновлено: 2026-06-17 16:12:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Super TV" group-title="General;Series",Super TV
@@ -819,15 +819,19 @@ https://jmp2.uk/plu-64eddc3485efec00085b0369.m3u8
 https://livestream.telvue.com/phillycam1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Pinole Community Television (PCTV) Channel 28 (Pinole CA) (480p)" group-title="General",Pinole Community Television (PCTV) Channel 28 (Pinole CA) (480p)
 https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_002/playlist.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Crime Drama" group-title="Series",Pluto TV Crime Drama
+https://jmp2.uk/plu-65a6a7a00c7ff50008cba07b.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Fantastic" group-title="Series",Pluto TV Fantastic
 https://jmp2.uk/plu-5b64a245a202b3337f09e51d.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Horror" group-title="Movies;Series",Pluto TV Horror
+https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Lives" group-title="Series",Pluto TV Lives
 https://jmp2.uk/plu-5d8beeb39b5d5d5f8c672530.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Military" group-title="Series",Pluto TV Military
 https://jmp2.uk/plu-5bb3fea0f711fd76340eebff.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Novelas" group-title="Series",Pluto TV Novelas
 https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
-#EXTINF:-1 tvg-name="Pluto TV True Crime" group-title="Series",Pluto TV True Crime
+#EXTINF:-1 tvg-name="Pluto TV True Crime" group-title="Documentary;Series",Pluto TV True Crime
 https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8
 #EXTINF:-1 tvg-name="PVS TV" group-title="General",PVS TV
 https://2-fss-1.streamhoster.com/pl_122/202676-1357858-1/playlist.m3u8
@@ -1069,8 +1073,10 @@ https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
 http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
 #EXTINF:-1 tvg-name="OK-TV Ludwigshafen [Geo-blocked]" group-title="General",OK-TV Ludwigshafen [Geo-blocked]
 https://s.ok54.de/oklu/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Horror" group-title="Movies;Series",Pluto TV Horror
-https://jmp2.uk/plu-62f4f4b88157cf00075c22db.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Crime" group-title="Series",Pluto TV Crime
+https://jmp2.uk/plu-5e7b6c60fd20c50007910bf5.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Sitcoms" group-title="Comedy;Series",Pluto TV Sitcoms
+https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
 #EXTINF:-1 tvg-name="RFH" group-title="General",RFH
 http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
 #EXTINF:-1 tvg-name="RFO" group-title="General",RFO
@@ -1139,6 +1145,8 @@ https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mensuptv.m3u8
 #EXTINF:-1 tvg-name="NOVO19 [Geo-Blocked]" group-title="General",NOVO19 [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Investigation" group-title="Series",Pluto TV Investigation
+https://jmp2.uk/plu-63808dc806aa4700075f319a.m3u8
 #EXTINF:-1 tvg-name="Puissance TV" group-title="General",Puissance TV
 https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 #EXTINF:-1 tvg-name="Sony One Blacklist" group-title="Series",Sony One Blacklist
@@ -2495,8 +2503,10 @@ https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
 https://dvrfl06.bozztv.com/astv-ptvgambia/index.m3u8
 #EXTINF:-1 tvg-name="PlusTV" group-title="General",PlusTV
 https://streamer2.nexgen.bz/04-PLUS/index.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Sherlock" group-title="Series",Pluto TV Sherlock
-https://jmp2.uk/plu-5dc2c00abfed110009d97243.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Action" group-title="Movies;Series",Pluto TV Action
+https://jmp2.uk/plu-5dbfeb961b411c00090b52b3.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Drama" group-title="Series",Pluto TV Drama
+https://jmp2.uk/plu-5ddf91149880d60009d35d27.m3u8
 #EXTINF:-1 tvg-name="QTV Gambia" group-title="General",QTV Gambia
 https://player.qtv.gm/hls/live.stream.m3u8
 #EXTINF:-1 tvg-name="RTB Aneka" group-title="General",RTB Aneka
@@ -4231,6 +4241,8 @@ https://jmp2.uk/plu-604f8de01b479400078fb1e7.m3u8
 https://streamer20.multimedia.blue/Eltrona/HesperangeTV/playlist.m3u8
 #EXTINF:-1 tvg-name="Hirshabelle TV (576p)" group-title="General",Hirshabelle TV (576p)
 http://ap02.iqplay.tv:8081/iqb8002/h1rshbe1iptv/playlist.m3u8
+#EXTINF:-1 tvg-name="How To Use Pluto TV" group-title="General",How To Use Pluto TV
+https://jmp2.uk/plu-64634eb42858cb0008fd92d6.m3u8
 #EXTINF:-1 tvg-name="HOY TV [Geo-blocked]" group-title="General",HOY TV [Geo-blocked]
 https://hoytv-live-stream.hoy.tv/ch77/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/81.0.4044.138 Safari/537.36" group-title="General",HRT 1" group-title="General",like Gecko) Chrome/81.0.4044.138 Safari/537.36" group-title="General",HRT 1
@@ -4273,6 +4285,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 https://jmp2.uk/plu-60549e98061b5f000776866a.m3u8
 #EXTINF:-1 tvg-name="Intermedia TV (576p)" group-title="General",Intermedia TV (576p)
 http://83.103.150.198:8080
+#EXTINF:-1 tvg-name="Investigation by Pluto TV" group-title="Series",Investigation by Pluto TV
+https://jmp2.uk/plu-6683cd2fca74680008772545.m3u8
 #EXTINF:-1 tvg-name="iON TV (576p)" group-title="General",iON TV (576p)
 https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
 #EXTINF:-1 tvg-name="Ionian Channel" group-title="General",Ionian Channel
@@ -4657,32 +4671,108 @@ https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 https://streamer20.multimedia.blue/Eltrona/PetangeTV/playlist.m3u8
 #EXTINF:-1 tvg-name="PilisTV [Geo-blocked]" group-title="General",PilisTV [Geo-blocked]
 https://stream.streaming4u.hu/PilisTV/index.m3u8
+#EXTINF:-1 tvg-name="Pluto TV 80's Action" group-title="Movies;Series",Pluto TV 80's Action
+https://jmp2.uk/plu-66d717c6abec540008ba7eb5.m3u8
+#EXTINF:-1 tvg-name="Pluto TV 90's Classics" group-title="Movies;Series",Pluto TV 90's Classics
+https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
+#EXTINF:-1 tvg-name="Pluto TV 2010's Classics" group-title="Movies;Series",Pluto TV 2010's Classics
+https://jmp2.uk/plu-66b498bc14a2bb00086965bc.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Adventure" group-title="Entertainment;Outdoor;Series",Pluto TV Adventure
+https://jmp2.uk/plu-653bdb0fbdf3cf00089cc395.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Aliens" group-title="Documentary;Series",Pluto TV Aliens
+https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8
+#EXTINF:-1 tvg-name="Pluto TV American True Crime" group-title="Documentary;Series",Pluto TV American True Crime
+https://jmp2.uk/plu-692ebafce72f03e07e7df985.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Aventura" group-title="Series",Pluto TV Aventura
 https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Brigade Criminelle" group-title="Series",Pluto TV Brigade Criminelle
+https://jmp2.uk/plu-684bf01df7d8b74b625b7dd1.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Britische Serien" group-title="Series",Pluto TV Britische Serien
+https://jmp2.uk/plu-677e5a3d7bffa6000808dbf2.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Brittisk Crime & Drama" group-title="Series",Pluto TV Brittisk Crime & Drama
+https://jmp2.uk/plu-65b91b53dc10a40008d54777.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Dating" group-title="Series",Pluto TV Dating
+https://jmp2.uk/plu-682318568e6c0f2f6c6e0038.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Dramas Coreanos" group-title="Series",Pluto TV Dramas Coreanos
+https://jmp2.uk/plu-6185a9a88b2ce30007de5128.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Dramas Coreanos Teen" group-title="Series",Pluto TV Dramas Coreanos Teen
+https://jmp2.uk/plu-6661d5424b10960008599fa3.m3u8
+#EXTINF:-1 tvg-name="Pluto TV FBI" group-title="Series",Pluto TV FBI
+https://jmp2.uk/plu-693adae77f21340ef9746f56.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Historische Serien" group-title="Series",Pluto TV Historische Serien
+https://jmp2.uk/plu-68ada3395190a45dc9c445cf.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Horror-Serien" group-title="Series",Pluto TV Horror-Serien
+https://jmp2.uk/plu-67ff7d9c7fc25e0e72451bc9.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Investiga" group-title="Series",Pluto TV Investiga
 https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Mi Obsesión Favorita" group-title="Series",Pluto TV Mi Obsesión Favorita
-https://jmp2.uk/plu-6109ab25b84d6a0007504886.m3u8
+#EXTINF:-1 tvg-name="Pluto TV K-Drama" group-title="Series",Pluto TV K-Drama
+https://jmp2.uk/plu-6475bfec536e0c0008858e9f.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Nordic Crime" group-title="Series",Pluto TV Nordic Crime
+https://jmp2.uk/plu-67d984408d8dc3d7754dccf2.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Novelas de México" group-title="Series",Pluto TV Novelas de México
+https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Novelas de Otros Continentes" group-title="Series",Pluto TV Novelas de Otros Continentes
+https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Novelas de Venezuela" group-title="Series",Pluto TV Novelas de Venezuela
+https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Polar" group-title="Series",Pluto TV Polar
 https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Real Life" group-title="Series",Pluto TV Real Life
-https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Polizeiserien" group-title="Series",Pluto TV Polizeiserien
+https://jmp2.uk/plu-64be64445dc166000899ce75.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Romance" group-title="Movies;Series",Pluto TV Romance
 https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Sci-fi" group-title="Movies;Series",Pluto TV Sci-fi
 https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Sci-fi Series" group-title="Series",Pluto TV Sci-fi Series
+https://jmp2.uk/plu-619247c34a270700077c8415.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Serie" group-title="Series",Pluto TV Serie
 https://jmp2.uk/plu-5dc190f7bfed110009d934c3.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Serie Crime" group-title="Series",Pluto TV Serie Crime
+https://jmp2.uk/plu-608aa777b907770007e5d05d.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Series" group-title="Series",Pluto TV Series
 https://jmp2.uk/plu-5f1ac8f49205650007bc15f1.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Séries Ação" group-title="Series",Pluto TV Séries Ação
+https://jmp2.uk/plu-6474ab1da51cb80008bfb5f4.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Séries Comédia" group-title="Comedy;Series",Pluto TV Séries Comédia
+https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Séries Criminais" group-title="Series",Pluto TV Séries Criminais
+https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Series criminales" group-title="Series",Pluto TV Series criminales
+https://jmp2.uk/plu-65cf6ab58145cb0008129ca8.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Series de Acción" group-title="Series",Pluto TV Series de Acción
+https://jmp2.uk/plu-6479ff1c17f5e10008ad2797.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Series de Comedia" group-title="Series",Pluto TV Series de Comedia
+https://jmp2.uk/plu-655f626d57fe4a00085c7c3e.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Series de Crimen" group-title="Series",Pluto TV Series de Crimen
+https://jmp2.uk/plu-655f62ff954b020008c91ec6.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Series de Drama" group-title="Series",Pluto TV Series de Drama
+https://jmp2.uk/plu-655f636d954b020008c93299.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Series de Otros Continentes" group-title="Series",Pluto TV Series de Otros Continentes
+https://jmp2.uk/plu-6806d570c178637410ae4962.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Series de Sci-Fi" group-title="Series",Pluto TV Series de Sci-Fi
+https://jmp2.uk/plu-65662f8a2c46f300088a84cc.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Séries Drama" group-title="Series",Pluto TV Séries Drama
+https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Séries Fantastiques" group-title="Series",Pluto TV Séries Fantastiques
+https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Series Latinas" group-title="Series",Pluto TV Series Latinas
 https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Séries Novelescas" group-title="Series",Pluto TV Séries Novelescas
+https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Series Sci-Fi" group-title="Series",Pluto TV Series Sci-Fi
+https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Séries Sci-Fi" group-title="Series",Pluto TV Séries Sci-Fi
 https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Star Trek" group-title="Series",Pluto TV Star Trek
 https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Telenovelas" group-title="Series",Pluto TV Telenovelas
 https://jmp2.uk/plu-60b4c06717da110007ee1af6.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Telenovelas Clásicas" group-title="Series",Pluto TV Telenovelas Clásicas
+https://jmp2.uk/plu-662a69daa0a74e00087a1c72.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Wild West" group-title="Movies;Series",Pluto TV Wild West
+https://jmp2.uk/plu-68c01732b3900870ec74766f.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Zombies" group-title="Movies;Series",Pluto TV Zombies
+https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
 #EXTINF:-1 tvg-name="Plzeň TV" group-title="General",Plzeň TV
 https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
 #EXTINF:-1 tvg-name="Polar2 TV" group-title="General",Polar2 TV
@@ -4771,6 +4861,8 @@ https://live.leveex.hr/hls/live.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 #EXTINF:-1 tvg-name="SelangorTV" group-title="General",SelangorTV
 https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd&token=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd
+#EXTINF:-1 tvg-name="Series by Pluto TV" group-title="Series",Series by Pluto TV
+https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8
 #EXTINF:-1 tvg-name="Seven Channel" group-title="General",Seven Channel
 https://xykt-fix.github.io/liveh42-syhtv-mn/7Channel_HD/03.m3u8
 #EXTINF:-1 tvg-name="Sharq Radio TV" group-title="General",Sharq Radio TV
@@ -4869,6 +4961,8 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF:-1 tvg-name="Trimedio TV [Geo-blocked]" group-title="General",Trimedio TV [Geo-blocked]
 https://stream.streaming4u.hu/TriMedioTV/index.m3u8
+#EXTINF:-1 tvg-name="True Crime by Pluto TV" group-title="Series",True Crime by Pluto TV
+https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8
 #EXTINF:-1 tvg-name="TV5" group-title="General",TV5
 https://10st.vcast.im/MYASIATV/TV5/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",TV8" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",TV8
@@ -5369,3 +5463,13 @@ https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd321166884522124
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Telelima" group-title="General",Telelima
 https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Hometown Drama" group-title="Series",Pluto TV Hometown Drama
+https://jmp2.uk/plu-69d6c7befde57cd5ba0160c3.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Western Serien" group-title="Series",Pluto TV Western Serien
+https://jmp2.uk/plu-682453215c646751955e1204.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Tough Jobs" group-title="Documentary;Series",Pluto TV Tough Jobs
+https://jmp2.uk/plu-600acaff5f2d6e000745effb.m3u8
+#EXTINF:-1 tvg-name="Willax TV" group-title="General",Willax TV
+https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/playlist.m3u8
+#EXTINF:-1 tvg-name="ACTV (504p)" group-title="General",ACTV (504p)
+https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8

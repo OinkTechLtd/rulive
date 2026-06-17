@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-17 12:17:29
-# Всего каналов: 17207
-# Новых за сессию: 0
+# Обновлено: 2026-06-17 16:12:50
+# Всего каналов: 17246
+# Новых за сессию: 39
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Lifestyle;Shop
 # Каналов: 1
-# Обновлено: 2026-06-17 12:17:30
+# Обновлено: 2026-06-17 16:12:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Fashion Finds" group-title="Lifestyle;Shop",Fashion Finds
@@ -139,8 +139,6 @@ https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
 #EXTINF:-1 tvg-name="KaufBei TV (576p)" group-title="Shop",KaufBei TV (576p)
 https://api.alpaca.t62a.com/hls/9103/index.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Food" group-title="Lifestyle",Pluto TV Food
-https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8
 #EXTINF:-1 tvg-name="QVC 2 Germany (540p)" group-title="Shop",QVC 2 Germany (540p)
 https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
 #EXTINF:-1 tvg-name="QVC Germany" group-title="Shop",QVC Germany
@@ -341,12 +339,26 @@ https://lb2.pluscdn.pl/ch/1580235/3496/hls/a149fc4b/masterlist.m3u8
 https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
 #EXTINF:-1 tvg-name="NS Shop Plus" group-title="Shop",NS Shop Plus
 https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Cucina" group-title="Lifestyle",Pluto TV Cucina
+#EXTINF:-1 tvg-name="Pluto TV Cocina" group-title="Cooking;Lifestyle",Pluto TV Cocina
+https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Cozinha" group-title="Lifestyle",Pluto TV Cozinha
+https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Cucina" group-title="Cooking;Lifestyle",Pluto TV Cucina
 https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Cuisine" group-title="Lifestyle",Pluto TV Cuisine
+#EXTINF:-1 tvg-name="Pluto TV Cuisine" group-title="Cooking;Lifestyle",Pluto TV Cuisine
 https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Diseño" group-title="Lifestyle",Pluto TV Diseño
+https://jmp2.uk/plu-64db2e0835425100080f2f5a.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Estilo de Vida" group-title="Lifestyle",Pluto TV Estilo de Vida
 https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8
+#EXTINF:-1 tvg-name="Pluto TV KFOOD" group-title="Cooking;Lifestyle",Pluto TV KFOOD
+https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Real Life" group-title="Lifestyle",Pluto TV Real Life
+https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Viagens" group-title="Lifestyle",Pluto TV Viagens
+https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Viaggi" group-title="Lifestyle",Pluto TV Viaggi
+https://jmp2.uk/plu-63c923944207be0007fd0887.m3u8
 #EXTINF:-1 tvg-name="Shinsegae Shopping TV" group-title="Shop",Shinsegae Shopping TV
 https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Shopping NT" group-title="Shop",Shopping NT
@@ -379,3 +391,7 @@ https://iptv.prosto.tv/ch369/index.m3u8
 https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Lifestyle",FashionBox" group-title="Lifestyle",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Lifestyle",FashionBox
 https://webtvstream.bhtelecom.ba/hls6/fashion_box.m3u8
+#EXTINF:-1 tvg-name="Magnificent Movies Network" group-title="Movies;Shop",Magnificent Movies Network
+https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
+#EXTINF:-1 tvg-name="Timeless TV" group-title="Classic;Shop",Timeless TV
+https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8
