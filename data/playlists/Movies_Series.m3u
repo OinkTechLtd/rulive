@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-18 00:20:23
-# Всего каналов: 17246
-# Новых за сессию: 0
+# Обновлено: 2026-06-18 05:17:54
+# Всего каналов: 17313
+# Новых за сессию: 67
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;Series
-# Каналов: 49
-# Обновлено: 2026-06-18 00:20:24
+# Каналов: 51
+# Обновлено: 2026-06-18 05:17:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Ebony TV by Lionsgate" group-title="Movies;Series",Ebony TV by Lionsgate
@@ -138,6 +138,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rezofoot.tv/PARAMOUNT-
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Movies;Series",like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies;Series",like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/88.99.215.227/FilmUADrama/index.m3u8
+
+#EXTINF:-1 tvg-name="SYFY" group-title="Movies;Series",SYFY
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/23.237.104.106:8080/USA_SYFY/index.m3u8
 
 #EXTINF:-1 tvg-name="27 TwentySeven [Geo-blocked]" group-title="Movies;Series",27 TwentySeven [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live2.msf.cdn.mediaset.net/content/hls_h0_cls_vos/live/channel(ts)/index.m3u8
@@ -1767,3 +1773,23 @@ https://webtvstream.bhtelecom.ba/hls7/filmbox_premium.m3u8
 https://webtvstream.bhtelecom.ba/hls7/filmbox_stars.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Tough Jobs" group-title="Documentary;Series",Pluto TV Tough Jobs
 https://jmp2.uk/plu-600acaff5f2d6e000745effb.m3u8
+#EXTINF:-1 tvg-name="Kinopokaz" group-title="Movies",Kinopokaz
+http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
+#EXTINF:-1 tvg-name="Kinoseriya" group-title="Movies",Kinoseriya
+http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
+#EXTINF:-1 tvg-name="NTV Series (576p)" group-title="Series",NTV Series (576p)
+https://cdn-dvr.ntv.ru/th_serial/index.m3u8
+#EXTINF:-1 tvg-name="NTV-Hit" group-title="Series",NTV-Hit
+https://cdn-dvr.ntv.ru/th_hit/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies;Series",FilmUADrama" group-title="Movies;Series",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies;Series",FilmUADrama
+http://88.99.215.227/FilmUADrama/index.m3u8
+#EXTINF:-1 tvg-name="Starz Cinema" group-title="Movies",Starz Cinema
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+#EXTINF:-1 tvg-name="We TV" group-title="Series",We TV
+https://streamer1.nexgen.bz/WE_TV/index.m3u8
+#EXTINF:-1 tvg-name="Nash Kinomir (576p)" group-title="Movies",Nash Kinomir (576p)
+http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
+#EXTINF:-1 tvg-name="Canal+ Cinemas" group-title="Movies",Canal+ Cinemas
+http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
+#EXTINF:-1 tvg-name="AMC Europe Bulgary" group-title="Movies",AMC Europe Bulgary
+http://45.136.153.199/AMC/mono.m3u8

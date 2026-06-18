@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-18 00:20:23
-# Всего каналов: 17246
-# Новых за сессию: 0
+# Обновлено: 2026-06-18 05:17:54
+# Всего каналов: 17313
+# Новых за сессию: 67
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Series
 # Каналов: 14
-# Обновлено: 2026-06-18 00:20:24
+# Обновлено: 2026-06-18 05:17:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Сити Эдем КиноДок" group-title="Documentary;Series",Сити Эдем КиноДок
@@ -950,3 +950,15 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
 https://jmp2.uk/plu-69d6c7befde57cd5ba0160c3.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Western Serien" group-title="Series",Pluto TV Western Serien
 https://jmp2.uk/plu-682453215c646751955e1204.m3u8
+#EXTINF:-1 tvg-name="NTV Series (576p)" group-title="Series",NTV Series (576p)
+https://cdn-dvr.ntv.ru/th_serial/index.m3u8
+#EXTINF:-1 tvg-name="NTV-Hit" group-title="Series",NTV-Hit
+https://cdn-dvr.ntv.ru/th_hit/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies;Series",FilmUADrama" group-title="Movies;Series",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies;Series",FilmUADrama
+http://88.99.215.227/FilmUADrama/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Documentary",National Geographic Wild" group-title="Documentary",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Documentary",National Geographic Wild
+http://46.32.176.50/natgeowild/index.m3u8
+#EXTINF:-1 tvg-name="SYFY" group-title="Movies;Series",SYFY
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:-1 tvg-name="We TV" group-title="Series",We TV
+https://streamer1.nexgen.bz/WE_TV/index.m3u8

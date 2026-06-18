@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-18 00:20:23
-# Всего каналов: 17246
-# Новых за сессию: 0
+# Обновлено: 2026-06-18 05:17:54
+# Всего каналов: 17313
+# Новых за сессию: 67
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Public;Sports
 # Каналов: 2
-# Обновлено: 2026-06-18 00:20:24
+# Обновлено: 2026-06-18 05:17:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Esport3" group-title="Public;Sports",Esport3
@@ -148,6 +148,8 @@ https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 #EXTINF:-1 tvg-name="ESPN8 The Ocho" group-title="Sports",ESPN8 The Ocho
 https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 tvg-name="KHL Prime" group-title="Sports",KHL Prime
+http://31.148.48.15/KHL_TV_HD/index.m3u8
 #EXTINF:-1 tvg-name="Match! Boets (576p)" group-title="Sports",Match! Boets (576p)
 http://tmptv.sunduk.tv/CH51/index.m3u8
 #EXTINF:-1 tvg-name="Match! Strana" group-title="Sports",Match! Strana
@@ -908,3 +910,15 @@ http://103.229.254.25:7001/play/a09q/index.m3u8
 http://23.237.104.106:8080/USA_NESN/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",FightBox" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",FightBox
 https://webtvstream.bhtelecom.ba/hls7/fightbox.m3u8
+#EXTINF:-1 tvg-name="beIN Sports USA" group-title="Sports",beIN Sports USA
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ Sport" group-title="Sports",Canal+ Sport
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+#EXTINF:-1 tvg-name="Arryadia (480p)" group-title="Sports",Arryadia (480p)
+https://snrtworker.kharazbelaid.workers.dev/?id=arryadia.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport Premium 1 BH" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport Premium 1 BH
+https://nl1.nghk.ai/ArenaPremium1BH/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport Premium 2 BH" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport Premium 2 BH
+https://nl1.nghk.ai/ArenaPremium2BH/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport Premium 3 BH" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport Premium 3 BH
+https://nl1.nghk.ai/ArenaPremium3BH/index.m3u8

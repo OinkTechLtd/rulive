@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-18 00:20:23
-# Всего каналов: 17246
-# Новых за сессию: 0
+# Обновлено: 2026-06-18 05:17:54
+# Всего каналов: 17313
+# Новых за сессию: 67
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Education;Entertainment
 # Каналов: 1
-# Обновлено: 2026-06-18 00:20:24
+# Обновлено: 2026-06-18 05:17:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Manas TV" group-title="Culture;Education;Entertainment",Manas TV
@@ -2107,3 +2107,17 @@ https://v1.tustreaming.cl/melinkana/index.m3u8
 https://jmp2.uk/plu-691b3669c48674840c3b832a.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Amor y Mentiras" group-title="Entertainment",Pluto TV Amor y Mentiras
 https://jmp2.uk/plu-698a45156dc3c71eb1ba6599.m3u8
+#EXTINF:-1 tvg-name="Kluch (576p)" group-title="Entertainment",Kluch (576p)
+http://hls127.freeott.top:8080/Kluch/video.m3u8
+#EXTINF:-1 tvg-name="E!" group-title="Entertainment",E!
+http://23.237.104.106:8080/USA_E/index.m3u8
+#EXTINF:-1 tvg-name="FX" group-title="Entertainment",FX
+http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:-1 tvg-name="Canal+" group-title="Entertainment",Canal+
+http://151.80.18.177:86/Canal+_HD/index.m3u8
+#EXTINF:-1 tvg-name="Star Jalsha" group-title="Entertainment",Star Jalsha
+https://tvsen4.aynaott.com/n64PH4YL/index.m3u8
+#EXTINF:-1 tvg-name="Nada Es Imposible TV" group-title="Entertainment",Nada Es Imposible TV
+https://vdochile.com:3194/live/mvqutymylive.m3u8
+#EXTINF:-1 tvg-name="Athaqafia (480p)" group-title="Culture",Athaqafia (480p)
+https://snrtworker.kharazbelaid.workers.dev/?id=arrabia.m3u8

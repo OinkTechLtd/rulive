@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-18 00:20:23
-# Всего каналов: 17246
-# Новых за сессию: 0
+# Обновлено: 2026-06-18 05:17:54
+# Всего каналов: 17313
+# Новых за сессию: 67
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General
-# Каналов: 2452
-# Обновлено: 2026-06-18 00:20:24
+# Каналов: 2464
+# Обновлено: 2026-06-18 05:17:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="БелРос (576p)" group-title="General",БелРос (576p)
@@ -7050,6 +7050,42 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-evg7.tv360.bitel.
 
 #EXTINF:-1 tvg-name="ACTV (504p)" group-title="General",ACTV (504p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8
+
+#EXTINF:-1 tvg-name="Fox (540p)" group-title="General",Fox (540p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/84.17.50.102/fox/index.m3u8
+
+#EXTINF:-1 tvg-name="Al Aoula (480p)" group-title="General",Al Aoula (480p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/snrtworker.kharazbelaid.workers.dev/?id=alaoula.m3u8
+
+#EXTINF:-1 tvg-name="Longino TV" group-title="General",Longino TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cloud2.streaminglivehd.com:1936/longinotv-1/longinotv-1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Marga Marga TV" group-title="General",Marga Marga TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/v1.tustreaming.cl/margamargatv/index.m3u8
+
+#EXTINF:-1 tvg-name="Mi Radio TV" group-title="General",Mi Radio TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/scl.edge.grupoz.cl/miradio2/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Oli TV" group-title="General",Oli TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/v4.tustreaming.cl/retroplaytv/index.m3u8
+
+#EXTINF:-1 tvg-name="Osorno TV" group-title="General",Osorno TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/videostream.chileservidores.com:8081/osornotv/index.m3u8
+
+#EXTINF:-1 tvg-name="Pacifico Television" group-title="General",Pacifico Television
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/us.streaminghd.cl/pacificotelevision/video.m3u8
+
+#EXTINF:-1 tvg-name="Unitel Santa Cruz" group-title="General",Unitel Santa Cruz
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/master.tucableip.com/muxunitelsc/index.m3u8
+
+#EXTINF:-1 tvg-name="Laayoune TV (480p)" group-title="General",Laayoune TV (480p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/snrtworker.kharazbelaid.workers.dev/?id=laayoune.m3u8
+
+#EXTINF:-1 tvg-name="Al Maghribia (480p)" group-title="General",Al Maghribia (480p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/snrtworker.kharazbelaid.workers.dev/?id=almaghribia.m3u8
+
+#EXTINF:-1 tvg-name="Tamazight TV (480p)" group-title="General",Tamazight TV (480p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/snrtworker.kharazbelaid.workers.dev/?id=tamazight.m3u8
 
 #EXTINF:-1 tvg-name="ОНТ (576p)" group-title="General",ОНТ (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.dc.beltelecom.by/ont/ont/playlist.m3u8

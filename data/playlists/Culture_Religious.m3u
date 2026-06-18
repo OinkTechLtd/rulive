@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-18 00:20:23
-# Всего каналов: 17246
-# Новых за сессию: 0
+# Обновлено: 2026-06-18 05:17:54
+# Всего каналов: 17313
+# Новых за сессию: 67
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Religious
 # Каналов: 3
-# Обновлено: 2026-06-18 00:20:24
+# Обновлено: 2026-06-18 05:17:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Culture;Religious",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -1807,3 +1807,11 @@ https://vs20.live.opencaster.com/diego_57244803/index.m3u8
 https://streaming.bitsur.cl:3399/live/vdo532live.m3u8
 #EXTINF:-1 tvg-name="Fortaleza TV" group-title="Religious",Fortaleza TV
 https://multimedia.fortalezatv.cl/video/video.m3u8
+#EXTINF:-1 tvg-name="Nuevo Tiempo TV" group-title="Religious",Nuevo Tiempo TV
+https://streamtv.novotempo.com/CDN-TV-ES/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Armonia TV" group-title="Religious",Radio Armonia TV
+https://v2.tustreaming.cl/armoniamovil/index.m3u8
+#EXTINF:-1 tvg-name="Assadissa (480p)" group-title="Religious",Assadissa (480p)
+https://snrtworker.kharazbelaid.workers.dev/?id=assadisa.m3u8
+#EXTINF:-1 tvg-name="Athaqafia (480p)" group-title="Culture",Athaqafia (480p)
+https://snrtworker.kharazbelaid.workers.dev/?id=arrabia.m3u8

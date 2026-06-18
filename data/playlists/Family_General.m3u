@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-18 00:20:23
-# Всего каналов: 17246
-# Новых за сессию: 0
+# Обновлено: 2026-06-18 05:17:54
+# Всего каналов: 17313
+# Новых за сессию: 67
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Family;General
 # Каналов: 2
-# Обновлено: 2026-06-18 00:20:24
+# Обновлено: 2026-06-18 05:17:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CWB TV" group-title="Family;General",CWB TV
@@ -4962,3 +4962,29 @@ https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8
 https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/playlist.m3u8
 #EXTINF:-1 tvg-name="ACTV (504p)" group-title="General",ACTV (504p)
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8
+#EXTINF:-1 tvg-name="Fox (540p)" group-title="General",Fox (540p)
+http://84.17.50.102/fox/index.m3u8
+#EXTINF:-1 tvg-name="Showtime Family Zone" group-title="Family",Showtime Family Zone
+http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ Family" group-title="Family",Canal+ Family
+http://151.80.18.177:86/Canal+_Family_HD/index.m3u8
+#EXTINF:-1 tvg-name="Al Aoula (480p)" group-title="General",Al Aoula (480p)
+https://snrtworker.kharazbelaid.workers.dev/?id=alaoula.m3u8
+#EXTINF:-1 tvg-name="Longino TV" group-title="General",Longino TV
+https://cloud2.streaminglivehd.com:1936/longinotv-1/longinotv-1/playlist.m3u8
+#EXTINF:-1 tvg-name="Marga Marga TV" group-title="General",Marga Marga TV
+https://v1.tustreaming.cl/margamargatv/index.m3u8
+#EXTINF:-1 tvg-name="Mi Radio TV" group-title="General",Mi Radio TV
+https://scl.edge.grupoz.cl/miradio2/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Oli TV" group-title="General",Oli TV
+https://v4.tustreaming.cl/retroplaytv/index.m3u8
+#EXTINF:-1 tvg-name="Osorno TV" group-title="General",Osorno TV
+https://videostream.chileservidores.com:8081/osornotv/index.m3u8
+#EXTINF:-1 tvg-name="Pacifico Television" group-title="General",Pacifico Television
+https://us.streaminghd.cl/pacificotelevision/video.m3u8
+#EXTINF:-1 tvg-name="Laayoune TV (480p)" group-title="General",Laayoune TV (480p)
+https://snrtworker.kharazbelaid.workers.dev/?id=laayoune.m3u8
+#EXTINF:-1 tvg-name="Al Maghribia (480p)" group-title="General",Al Maghribia (480p)
+https://snrtworker.kharazbelaid.workers.dev/?id=almaghribia.m3u8
+#EXTINF:-1 tvg-name="Tamazight TV (480p)" group-title="General",Tamazight TV (480p)
+https://snrtworker.kharazbelaid.workers.dev/?id=tamazight.m3u8
