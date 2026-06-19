@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-18 23:46:39
-# Всего каналов: 17313
-# Новых за сессию: 0
+# Обновлено: 2026-06-19 04:07:24
+# Всего каналов: 17396
+# Новых за сессию: 83
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment
-# Каналов: 654
-# Обновлено: 2026-06-18 23:46:39
+# Каналов: 665
+# Обновлено: 2026-06-19 04:07:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Arte [Geo-blocked]" group-title="Entertainment",Arte [Geo-blocked]
@@ -1858,6 +1858,39 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvsen4.aynaott.com/n64
 #EXTINF:-1 tvg-name="Nada Es Imposible TV" group-title="Entertainment",Nada Es Imposible TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/vdochile.com:3194/live/mvqutymylive.m3u8
 
+#EXTINF:-1 tvg-name="TV-3 (576p)" group-title="Entertainment",TV-3 (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/178.124.179.122:8080/TB-3/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC America" group-title="Entertainment",BBC America
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/23.239.31.26:8989/bbcamerica/index.m3u8
+
+#EXTINF:-1 tvg-name="Big Magic (576p)" group-title="Entertainment",Big Magic (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mumt05.tangotv.in/87NeALx2BIGMAGIC/index.m3u8
+
+#EXTINF:-1 tvg-name="Pasand TV (576p)" group-title="Entertainment",Pasand TV (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d1msejlow1t3l4.cloudfront.net/fta/pasand/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Pear TV (576p)" group-title="Entertainment",Pear TV (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8
+
+#EXTINF:-1 tvg-name="Shemaroo TV" group-title="Entertainment",Shemaroo TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="StarPlus" group-title="Entertainment",StarPlus
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/41.205.64.66/STAR-PLUS/index.m3u8
+
+#EXTINF:-1 tvg-name="Studio Yuva (576p)" group-title="Entertainment",Studio Yuva (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mumt01.tangotv.in/O5aw8Zn3STUDIOYUVA/index.m3u8
+
+#EXTINF:-1 tvg-name="Thanthi One (576p)" group-title="Entertainment",Thanthi One (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mumt07.tangotv.in/zHjX9OFlTHANTHIONE/index.m3u8
+
+#EXTINF:-1 tvg-name="Vasanth TV (576p)" group-title="Entertainment",Vasanth TV (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mumt04.tangotv.in/m18aqlK4VASANTHTV/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/bantel-cdn1.iptvperu.tv:1935/btnscrtn/fx.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Беларусь 2" group-title="Entertainment",Беларусь 2
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 
@@ -2120,3 +2153,7 @@ https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8
 https://dokagents.site/live/axnw/mono.m3u8
 #EXTINF:-1 tvg-name="NTV" group-title="Entertainment;General",NTV
 https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",FX Latin America" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",FX Latin America
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fx.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment;Kids",Veronica / Disney Jr." group-title="Entertainment;Kids",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment;Kids",Veronica / Disney Jr.
+http://86.87.15.10:8003/play/a01x/index.m3u8

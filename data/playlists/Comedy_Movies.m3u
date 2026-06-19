@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-18 23:46:39
-# Всего каналов: 17313
-# Новых за сессию: 0
+# Обновлено: 2026-06-19 04:07:24
+# Всего каналов: 17396
+# Новых за сессию: 83
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Movies
 # Каналов: 9
-# Обновлено: 2026-06-18 23:46:39
+# Обновлено: 2026-06-19 04:07:25
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pluto TV Comedias Románticas" group-title="Comedy;Movies",Pluto TV Comedias Románticas
@@ -1293,3 +1293,13 @@ http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
 http://86.87.15.10:8002/play/a02k/index.m3u8
 #EXTINF:-1 tvg-name="AMC Europe Bulgary" group-title="Movies",AMC Europe Bulgary
 http://45.136.153.199/AMC/mono.m3u8
+#EXTINF:-1 tvg-name="B4U Movies USA (576p)" group-title="Movies",B4U Movies USA (576p)
+http://41.223.30.230/B4UPLUS/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Cine+ Classic" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Cine+ Classic
+http://99.27.51.147/CineClassic/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Cine+ Frisson" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Cine+ Frisson
+http://99.27.51.147:8080/CineFrisson/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Cinecanal" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Cinecanal
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinecanal.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Zee Cinema UK (576p)" group-title="Movies",Zee Cinema UK (576p)
+http://41.223.30.230/ZEECINEMA/index.m3u8

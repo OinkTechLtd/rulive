@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-18 23:46:39
-# Всего каналов: 17313
-# Новых за сессию: 0
+# Обновлено: 2026-06-19 04:07:24
+# Всего каналов: 17396
+# Новых за сессию: 83
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Family;General
 # Каналов: 3
-# Обновлено: 2026-06-18 23:46:39
+# Обновлено: 2026-06-19 04:07:25
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="1KZN TV (576p)" group-title="Entertainment;Family;General",1KZN TV (576p)
@@ -183,6 +183,8 @@ https://laotra-1-23-secure2.akamaized.net/master.m3u8
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-name="Bon Dia TV" group-title="General;Public",Bon Dia TV
 https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
+#EXTINF:-1 tvg-name="A Punt" group-title="General;Public",A Punt
+https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="La 2 Canarias" group-title="General;Public",La 2 Canarias
 https://ztnr.rtve.es/ztnr/5468585.m3u8
 #EXTINF:-1 tvg-name="FTV (民視)" group-title="General",FTV (民視)
@@ -6279,3 +6281,45 @@ https://snrtworker.kharazbelaid.workers.dev/?id=laayoune.m3u8
 https://snrtworker.kharazbelaid.workers.dev/?id=almaghribia.m3u8
 #EXTINF:-1 tvg-name="Tamazight TV (480p)" group-title="General",Tamazight TV (480p)
 https://snrtworker.kharazbelaid.workers.dev/?id=tamazight.m3u8
+#EXTINF:-1 tvg-name="NTV (576p)" group-title="General",NTV (576p)
+http://94.230.128.107:8080/HTB/index.m3u8
+#EXTINF:-1 tvg-name="REN TV (576p)" group-title="General",REN TV (576p)
+http://94.230.128.107:8080/PEH_TB/index.m3u8
+#EXTINF:-1 tvg-name="STS (576p)" group-title="Family",STS (576p)
+http://94.230.128.107:8080/CTC/index.m3u8
+#EXTINF:-1 tvg-name="TV-3 (576p)" group-title="Entertainment",TV-3 (576p)
+http://178.124.179.122:8080/TB-3/index.m3u8
+#EXTINF:-1 tvg-name="Belarus-4 Vitebsk" group-title="General",Belarus-4 Vitebsk
+https://ngtrk.dc.beltelecom.by/vtv/_definst_/bt4.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Pear TV (576p)" group-title="Entertainment",Pear TV (576p)
+https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8
+#EXTINF:-1 tvg-name="Rede Brasil" group-title="General",Rede Brasil
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="TV Publica (576p)" group-title="General",TV Publica (576p)
+https://ola1.com.ar/tvpublica/index.m3u8
+#EXTINF:-1 tvg-name="Canal Capital" group-title="General",Canal Capital
+http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8
+#EXTINF:-1 tvg-name="Doble C Television" group-title="General",Doble C Television
+https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",FX Latin America" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",FX Latin America
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fx.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Imperial TV" group-title="General",Imperial TV
+https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",Las Estrellas Latin America" group-title="General",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",Las Estrellas Latin America
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Canal_Las_Estrellas.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="MAS TV" group-title="General",MAS TV
+https://cdn.streamhispanatv.net:3011/live/mastvgtlive.m3u8
+#EXTINF:-1 tvg-name="Megavision" group-title="General",Megavision
+https://twitch-m3u8.bastypro112.workers.dev/megavisionbo/index.m3u8
+#EXTINF:-1 tvg-name="Nuestra Imagen TV" group-title="General",Nuestra Imagen TV
+https://live.tvcontrolcp.com:1936/tvnitelevision/tvnitelevision/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",Panamericana TV" group-title="General",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",Panamericana TV
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/panamericana.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="RA Television" group-title="General",RA Television
+https://lbgo.bozztv.com/ssh101/ssh101/ratvbol/playlist.m3u8
+#EXTINF:-1 tvg-name="TV+" group-title="General",TV+
+https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Uniregion TV" group-title="General",Uniregion TV
+https://5ff3d9babae13.streamlock.net/ubyecbxnfd/ubyecbxnfd/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment;Kids",Veronica / Disney Jr." group-title="Entertainment;Kids",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment;Kids",Veronica / Disney Jr.
+http://86.87.15.10:8003/play/a01x/index.m3u8

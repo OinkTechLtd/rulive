@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-18 23:46:39
-# Всего каналов: 17313
-# Новых за сессию: 0
+# Обновлено: 2026-06-19 04:07:24
+# Всего каналов: 17396
+# Новых за сессию: 83
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;News
 # Каналов: 3
-# Обновлено: 2026-06-18 23:46:39
+# Обновлено: 2026-06-19 04:07:25
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Onda 15 TV (224p)" group-title="Music;News",Onda 15 TV (224p)
@@ -3413,3 +3413,15 @@ https://streaming.purum.cl/ritoquetv/index.m3u8
 https://tv1.ruidosfm.cl/ruidostv/stream.m3u8
 #EXTINF:-1 tvg-name="Sensacion Costa" group-title="Music",Sensacion Costa
 https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8
+#EXTINF:-1 tvg-name="Belarus-24" group-title="News",Belarus-24
+http://178.124.179.122:8080/Belarus24/index.m3u8
+#EXTINF:-1 tvg-name="24/7 TV" group-title="News",24/7 TV
+https://master.tucableip.com/eldebertv/index.m3u8
+#EXTINF:-1 tvg-name="Canal I" group-title="News",Canal I
+https://streaming.canal-i.com/canal-i/live/master.m3u8
+#EXTINF:-1 tvg-name="CN3 Television" group-title="News",CN3 Television
+https://edge.enhdtv.com/cn3/index.m3u8
+#EXTINF:-1 tvg-name="Erbol" group-title="News",Erbol
+https://twitch-m3u8.bastypro112.workers.dev/erboldigital/index.m3u8
+#EXTINF:-1 tvg-name="PBO" group-title="News",PBO
+https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8

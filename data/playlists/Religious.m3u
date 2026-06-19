@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-18 23:46:39
-# Всего каналов: 17313
-# Новых за сессию: 0
+# Обновлено: 2026-06-19 04:07:24
+# Всего каналов: 17396
+# Новых за сессию: 83
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Religious
-# Каналов: 713
-# Обновлено: 2026-06-18 23:46:39
+# Каналов: 718
+# Обновлено: 2026-06-19 04:07:25
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Спас (450p) [Geo-blocked]" group-title="Religious",Спас (450p) [Geo-blocked]
@@ -2094,6 +2094,21 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/v2.tustreaming.cl/armo
 
 #EXTINF:-1 tvg-name="Assadissa (480p)" group-title="Religious",Assadissa (480p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/snrtworker.kharazbelaid.workers.dev/?id=assadisa.m3u8
+
+#EXTINF:-1 tvg-name="Spas (576p)" group-title="Religious",Spas (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvspas.mediacdn.ru/cdn/spas/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Trece TV (576p)" group-title="Religious",Trece TV (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Conectados con Dios" group-title="Religious",Conectados con Dios
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.oktvus.com/ConectadoConDios/tracks-v2a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="MCN Television" group-title="Religious",MCN Television
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/eu1.servers10.com:8081/8338/index.m3u8
+
+#EXTINF:-1 tvg-name="Poder de Dios TV" group-title="Religious",Poder de Dios TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s3.tvdatta.com:3846/live/poderdedioslive.m3u8
 
 #EXTINF:-1 tvg-name="Aghapy TV" group-title="Religious",Aghapy TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
