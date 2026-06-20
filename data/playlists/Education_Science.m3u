@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-20 00:15:52
-# Всего каналов: 17396
-# Новых за сессию: 0
+# Обновлено: 2026-06-20 04:52:34
+# Всего каналов: 17488
+# Новых за сессию: 92
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Science
 # Каналов: 4
-# Обновлено: 2026-06-20 00:15:53
+# Обновлено: 2026-06-20 04:52:34
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="滁州科教 (450p)" group-title="Education;Science",滁州科教 (450p)
@@ -512,3 +512,5 @@ https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmd
 https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 #EXTINF:-1 tvg-name="GVision (288p)" group-title="Education",GVision (288p)
 https://videostream.chileservidores.com:8081/tome/index.m3u8
+#EXTINF:-1 tvg-name="Smithsonian Channel" group-title="Science",Smithsonian Channel
+http://185.246.209.113/SmithsonianHD/index.m3u8

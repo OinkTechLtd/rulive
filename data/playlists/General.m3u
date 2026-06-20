@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-20 00:15:52
-# Всего каналов: 17396
-# Новых за сессию: 0
+# Обновлено: 2026-06-20 04:52:34
+# Всего каналов: 17488
+# Новых за сессию: 92
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General
-# Каналов: 2486
-# Обновлено: 2026-06-20 00:15:53
+# Каналов: 2501
+# Обновлено: 2026-06-20 04:52:34
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="БелРос (576p)" group-title="General",БелРос (576p)
@@ -7153,6 +7153,51 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/jireh-8-hls-video-us-i
 #EXTINF:-1 tvg-name="Uniregion TV" group-title="General",Uniregion TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/5ff3d9babae13.streamlock.net/ubyecbxnfd/ubyecbxnfd/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Moskva. Doveriye (576p)" group-title="General",Moskva. Doveriye (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
+
+#EXTINF:-1 tvg-name="Russia-1" group-title="General",Russia-1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
+
+#EXTINF:-1 tvg-name="Zvezda" group-title="General",Zvezda
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/51.158.144.33:2021/zvezda/index.m3u8
+
+#EXTINF:-1 tvg-name="Belarus-4 Gomel" group-title="General",Belarus-4 Gomel
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/46.56.85.151:8080/0.m3u8
+
+#EXTINF:-1 tvg-name="CHCH-DT" group-title="General",CHCH-DT
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.246.209.113/CHCHHD/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC One London" group-title="General",BBC One London
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/193.46.58.239:8080/BBCOneHD/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel 5" group-title="General",Channel 5
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/193.46.58.239:8080/Channel5/index.m3u8
+
+#EXTINF:-1 tvg-name="KBS World (576p)" group-title="General",KBS World (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/KBS_World/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal 11" group-title="General",Canal 11
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/190.11.225.124:5000/live/canal11_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CTV" group-title="General",CTV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming.ctvbolivia.com/hlsweb/ctv.m3u8
+
+#EXTINF:-1 tvg-name="Femenina TV" group-title="General",Femenina TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streamunoapp.com:3511/live/femeninatvlive.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="General",like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.castr.com/5da89a909db964293ad13301/live_4e9cefb0652111f18e12cf968e79335c/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-name="Telemetro" group-title="General",Telemetro
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/181.78.121.15:8000/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="General",like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.castr.com/5da89a909db964293ad13301/live_c0b655e0659a11f187d6955330845e08/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="General",like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.castr.com/5da89a909db964293ad13301/live_cbeb7ca0659b11f182454d23f95d8393/index.fmp4.m3u8
+
 #EXTINF:-1 tvg-name="ОНТ (576p)" group-title="General",ОНТ (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.dc.beltelecom.by/ont/ont/playlist.m3u8
 
@@ -7768,3 +7813,5 @@ https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Canal_Las_Estrellas.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",Panamericana TV" group-title="General",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",Panamericana TV
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/panamericana.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Four/CBeebies" group-title="Animation;General;Kids",BBC Four/CBeebies
+http://193.46.58.239:8080/CbeebiesHD/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-20 00:15:52
-# Всего каналов: 17396
-# Новых за сессию: 0
+# Обновлено: 2026-06-20 04:52:34
+# Всего каналов: 17488
+# Новых за сессию: 92
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Business;Documentary
 # Каналов: 3
-# Обновлено: 2026-06-20 00:15:53
+# Обновлено: 2026-06-20 04:52:34
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Bloomberg Originals" group-title="Business;Documentary",Bloomberg Originals
@@ -491,3 +491,5 @@ https://jmp2.uk/plu-600acaff5f2d6e000745effb.m3u8
 http://46.32.176.50/natgeowild/index.m3u8
 #EXTINF:-1 tvg-name="Zuraca TV" group-title="Business",Zuraca TV
 https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8
+#EXTINF:-1 tvg-name="History (576p)" group-title="Documentary",History (576p)
+http://84.17.50.102/history/index.m3u8

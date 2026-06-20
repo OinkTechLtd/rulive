@@ -1,17 +1,20 @@
 #EXTM3U
-# Обновлено: 2026-06-20 00:15:52
-# Всего каналов: 17396
-# Новых за сессию: 0
+# Обновлено: 2026-06-20 04:52:34
+# Всего каналов: 17488
+# Новых за сессию: 92
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;General;Kids
-# Каналов: 1
-# Обновлено: 2026-06-20 00:15:53
+# Каналов: 2
+# Обновлено: 2026-06-20 04:52:34
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="BBC Four/CBeebies [Geo-Blocked]" group-title="Animation;General;Kids",BBC Four/CBeebies [Geo-Blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
+
+#EXTINF:-1 tvg-name="BBC Four/CBeebies" group-title="Animation;General;Kids",BBC Four/CBeebies
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/193.46.58.239:8080/CbeebiesHD/index.m3u8
 
 #EXTINF:-1 tvg-name="ОНТ (576p)" group-title="General",ОНТ (576p)
 https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
@@ -5561,3 +5564,33 @@ https://5ff3d9babae13.streamlock.net/ubyecbxnfd/ubyecbxnfd/playlist.m3u8
 http://86.87.15.10:8004/play/a02g/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment;Kids",Veronica / Disney Jr." group-title="Entertainment;Kids",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment;Kids",Veronica / Disney Jr.
 http://86.87.15.10:8003/play/a01x/index.m3u8
+#EXTINF:-1 tvg-name="Moskva. Doveriye (576p)" group-title="General",Moskva. Doveriye (576p)
+https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
+#EXTINF:-1 tvg-name="Radost Moya (576p)" group-title="Kids",Radost Moya (576p)
+http://31.148.48.15/Radost_moya/index.m3u8
+#EXTINF:-1 tvg-name="Russia-1" group-title="General",Russia-1
+https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
+#EXTINF:-1 tvg-name="Zvezda" group-title="General",Zvezda
+http://51.158.144.33:2021/zvezda/index.m3u8
+#EXTINF:-1 tvg-name="Belarus-4 Gomel" group-title="General",Belarus-4 Gomel
+http://46.56.85.151:8080/0.m3u8
+#EXTINF:-1 tvg-name="Kids Street" group-title="Kids",Kids Street
+http://181.78.121.15:8000/play/a00a/index.m3u8
+#EXTINF:-1 tvg-name="Disney Channel Latin America Panregional" group-title="Animation;Kids",Disney Channel Latin America Panregional
+http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
+#EXTINF:-1 tvg-name="Disney Jr. Latin America North" group-title="Animation;Kids",Disney Jr. Latin America North
+http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8
+#EXTINF:-1 tvg-name="CHCH-DT" group-title="General",CHCH-DT
+http://185.246.209.113/CHCHHD/index.m3u8
+#EXTINF:-1 tvg-name="BBC One London" group-title="General",BBC One London
+http://193.46.58.239:8080/BBCOneHD/index.m3u8
+#EXTINF:-1 tvg-name="BBC Three/CBBC" group-title="Animation;Family;Kids",BBC Three/CBBC
+http://193.46.58.239:8080/CBBCHD/index.m3u8
+#EXTINF:-1 tvg-name="KBS World (576p)" group-title="General",KBS World (576p)
+http://31.148.48.15/KBS_World/index.m3u8
+#EXTINF:-1 tvg-name="Femenina TV" group-title="General",Femenina TV
+https://streamunoapp.com:3511/live/femeninatvlive.m3u8
+#EXTINF:-1 tvg-name="MAX Anime" group-title="Animation",MAX Anime
+https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Telemetro" group-title="General",Telemetro
+http://181.78.121.15:8000/play/a001/index.m3u8
