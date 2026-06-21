@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-20 23:45:20
-# Всего каналов: 17488
-# Новых за сессию: 0
+# Обновлено: 2026-06-21 01:59:00
+# Всего каналов: 17598
+# Новых за сессию: 110
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Series
 # Каналов: 6
-# Обновлено: 2026-06-20 23:45:21
+# Обновлено: 2026-06-21 01:59:00
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Anger Management Channel" group-title="Comedy;Series",Anger Management Channel
@@ -784,3 +784,5 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/TL_Novelas.stream/playlist.m3u8
 http://185.246.209.113/DISCOVERYHD/index.m3u8
 #EXTINF:-1 tvg-name="T+E" group-title="Series",T+E
 http://185.246.209.113/T+E/index.m3u8
+#EXTINF:-1 tvg-name="Juntos TV" group-title="Series",Juntos TV
+https://live-evg8.tv360.bitel.com.pe/bitel/juntostvSRT/playlist.m3u8

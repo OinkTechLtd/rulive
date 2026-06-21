@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-20 23:45:20
-# Всего каналов: 17488
-# Новых за сессию: 0
+# Обновлено: 2026-06-21 01:59:00
+# Всего каналов: 17598
+# Новых за сессию: 110
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Entertainment
 # Каналов: 3
-# Обновлено: 2026-06-20 23:45:21
+# Обновлено: 2026-06-21 01:59:00
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Jaya Max (576p)" group-title="Culture;Entertainment",Jaya Max (576p)
@@ -1715,3 +1715,15 @@ http://217.20.112.199:8080/maamovies/index.m3u8
 https://live.cineramatvbo.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Pasiones Latin America" group-title="Entertainment",Pasiones Latin America
 http://179.60.51.134:8888/PASIONES/index.m3u8
+#EXTINF:-1 tvg-name="A&E Latin America" group-title="Entertainment",A&E Latin America
+http://138.121.15.230:9002/A&E/index.m3u8
+#EXTINF:-1 tvg-name="ANC Television" group-title="Entertainment",ANC Television
+https://live.amelbatv.co:81/anctvlive/index.m3u8
+#EXTINF:-1 tvg-name="Lifetime Latin America" group-title="Entertainment",Lifetime Latin America
+http://138.121.15.230:9002/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-name="Neo TV" group-title="Entertainment",Neo TV
+https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/playlist.m3u8
+#EXTINF:-1 tvg-name="Riku TV" group-title="Entertainment",Riku TV
+https://live-evg7.tv360.bitel.com.pe/bitel/riku/playlist.m3u8
+#EXTINF:-1 tvg-name="Passion Novelas" group-title="Entertainment",Passion Novelas
+http://41.223.30.230/PASSIONTV/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-20 23:45:20
-# Всего каналов: 17488
-# Новых за сессию: 0
+# Обновлено: 2026-06-21 01:59:00
+# Всего каналов: 17598
+# Новых за сессию: 110
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Music
 # Каналов: 4
-# Обновлено: 2026-06-20 23:45:21
+# Обновлено: 2026-06-21 01:59:00
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pamir TV" group-title="Culture;Music",Pamir TV
@@ -1744,3 +1744,35 @@ http://88.212.15.19/live/mb_dance/index.m3u8
 http://88.212.15.19/live/mb_hits/index.m3u8
 #EXTINF:-1 tvg-name="Music Box Sexy" group-title="Music",Music Box Sexy
 http://88.212.15.19/live/mb_sexy/index.m3u8
+#EXTINF:-1 tvg-name="Muz-TV (576p)" group-title="Music",Muz-TV (576p)
+http://hls127.freeott.top:8080/MUZ_TV/video.m3u8
+#EXTINF:-1 tvg-name="IndiMusic TV" group-title="Music",IndiMusic TV
+https://live-evg10.tv360.bitel.com.pe/bitel/musictv/playlist.m3u8
+#EXTINF:-1 tvg-name="Trace Africa" group-title="Music",Trace Africa
+https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
+#EXTINF:-1 tvg-name="Trace Afrikora" group-title="Music",Trace Afrikora
+https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8
+#EXTINF:-1 tvg-name="Trace Ayiti" group-title="Music",Trace Ayiti
+https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8
+#EXTINF:-1 tvg-name="Trace Caribbean" group-title="Music",Trace Caribbean
+https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8
+#EXTINF:-1 tvg-name="Trace Jama" group-title="Music",Trace Jama
+https://channels.trace.plus/Traceprod/JAMA_ld/index.m3u8
+#EXTINF:-1 tvg-name="Trace Kitoko" group-title="Music",Trace Kitoko
+https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8
+#EXTINF:-1 tvg-name="Trace Mboa" group-title="Music",Trace Mboa
+https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8
+#EXTINF:-1 tvg-name="Trace Muzika" group-title="Music",Trace Muzika
+https://channels.trace.plus/Traceprod/MUZIKA_hd/index.m3u8
+#EXTINF:-1 tvg-name="Trace Mziki" group-title="Music",Trace Mziki
+https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8
+#EXTINF:-1 tvg-name="Trace Naija" group-title="Music",Trace Naija
+https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8
+#EXTINF:-1 tvg-name="Trace Vanilla Islands" group-title="Music",Trace Vanilla Islands
+https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8
+#EXTINF:-1 tvg-name="Andina RTV" group-title="Music",Andina RTV
+https://live-evg8.tv360.bitel.com.pe/bitel/andinatvSRT/playlist.m3u8
+#EXTINF:-1 tvg-name="Turbo Mix Radio TV" group-title="Music",Turbo Mix Radio TV
+https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8
+#EXTINF:-1 tvg-name="Trace Toca" group-title="Music",Trace Toca
+https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8

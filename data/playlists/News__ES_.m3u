@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-20 23:45:20
-# Всего каналов: 17488
-# Новых за сессию: 0
+# Обновлено: 2026-06-21 01:59:00
+# Всего каналов: 17598
+# Новых за сессию: 110
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News (ES)
 # Каналов: 5
-# Обновлено: 2026-06-20 23:45:21
+# Обновлено: 2026-06-21 01:59:00
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Euronews Español Ⓨ" group-title="News (ES)",Euronews Español Ⓨ
@@ -2063,3 +2063,13 @@ https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8
 http://170.82.202.31/GNT/index.m3u8
 #EXTINF:-1 tvg-name="RT" group-title="News",RT
 http://31.148.48.15/RT_HD/index.m3u8
+#EXTINF:-1 tvg-name="Russia-24" group-title="News",Russia-24
+http://41.223.30.230/ROSSIYA24/index.m3u8
+#EXTINF:-1 tvg-name="GloboNews" group-title="News",GloboNews
+http://41.205.70.146/GLOBONEWS/index.m3u8
+#EXTINF:-1 tvg-name="Qosqo Times" group-title="News",Qosqo Times
+https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Uno Tacna" group-title="News",Radio Uno Tacna
+https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="News",BTV [Geo-blocked]" group-title="News",like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="News",BTV [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
