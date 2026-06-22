@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-21 23:51:43
-# Всего каналов: 17598
-# Новых за сессию: 0
+# Обновлено: 2026-06-22 02:02:31
+# Всего каналов: 17703
+# Новых за сессию: 105
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Education
 # Каналов: 1
-# Обновлено: 2026-06-21 23:51:43
+# Обновлено: 2026-06-22 02:02:31
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Asharq Discovery" group-title="Documentary;Education",Asharq Discovery
@@ -33,6 +33,8 @@ https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 https://tv-e-okul02.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="RT Documentary English [Geo-blocked]" group-title="Documentary",RT Documentary English [Geo-blocked]
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-name="L" group-title="Documentary",L
+http://31.148.48.15/HD_Life/index.m3u8
 #EXTINF:-1 tvg-name="30A Loomered TV" group-title="Documentary;News",30A Loomered TV
 https://30a-tv.com/loomer.m3u8
 #EXTINF:-1 tvg-name="Alterna TV" group-title="Culture;Documentary;Entertainment;General;Movies;Music",Alterna TV

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-21 23:51:43
-# Всего каналов: 17598
-# Новых за сессию: 0
+# Обновлено: 2026-06-22 02:02:31
+# Всего каналов: 17703
+# Новых за сессию: 105
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;News
 # Каналов: 1
-# Обновлено: 2026-06-21 23:51:43
+# Обновлено: 2026-06-22 02:02:31
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Indywood TV" group-title="Movies;News",Indywood TV
@@ -3029,7 +3029,7 @@ http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7044/index.m3u8
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6949/index.m3u8
 #EXTINF:-1 tvg-name="FilmBox Extra" group-title="Movies",FilmBox Extra
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6996/index.m3u8
-#EXTINF:-1 tvg-name="FilmBox Premium" group-title="Movies",FilmBox Premium
+#EXTINF:-1 tvg-name="FilmBox+ Hits" group-title="Movies",FilmBox+ Hits
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7043/index.m3u8
 #EXTINF:-1 tvg-name="FilmBox Stars" group-title="Movies",FilmBox Stars
 http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/7045/index.m3u8
@@ -3047,9 +3047,9 @@ http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12024/index.m3u8
 https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8
 #EXTINF:-1 tvg-name="Ost West 24" group-title="Culture;News",Ost West 24
 https://iptv.prosto.tv/ch237/index.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox Arthouse (576p)" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox Arthouse (576p)
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox+ Festival (576p)" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox+ Festival (576p)
 https://iptv.prosto.tv/ch63/index.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox Baltics (576p)" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox Baltics (576p)
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox+ One Baltics (576p)" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox+ One Baltics (576p)
 https://iptv.prosto.tv/ch64/index.m3u8
 #EXTINF:-1 tvg-name="Sky News" group-title="News",Sky News
 https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
@@ -3153,6 +3153,8 @@ https://webtvstream.bhtelecom.ba/hls7/filmbox_stars.m3u8
 https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
 #EXTINF:-1 tvg-name="Euronews Hungarian" group-title="News",Euronews Hungarian
 https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
+#EXTINF:-1 tvg-name="Hit" group-title="Movies",Hit
+http://hls127.freeott.top:8080/XitHD/video.m3u8
 #EXTINF:-1 tvg-name="Kinopokaz" group-title="Movies",Kinopokaz
 http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
 #EXTINF:-1 tvg-name="Kinoseriya" group-title="Movies",Kinoseriya
@@ -3245,3 +3247,21 @@ http://41.223.30.230/ZEEAFLAM/index.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN CEE Czech Republic" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN CEE Czech Republic
 http://88.212.15.19/live/test_axn/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Culture;News",Ost West (576p)" group-title="Culture;News",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Culture;News",Ost West (576p)
+http://hls127.freeott.top:8080/OstWest/video.m3u8
+#EXTINF:-1 tvg-name="BandNews" group-title="News",BandNews
+https://cdn-5.nxplay.com.br/BAND_NEWS/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Adria" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Adria
+http://5.57.74.130:8000/play/a0at/index.m3u8
+#EXTINF:-1 tvg-name="NowMedia Television Spanish" group-title="Lifestyle;News",NowMedia Television Spanish
+https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8
+#EXTINF:-1 tvg-name="Sony Movies Latin America" group-title="Movies",Sony Movies Latin America
+https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-name="7 Info" group-title="News",7 Info
+https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8
+#EXTINF:-1 tvg-name="Afrik Info TV" group-title="News",Afrik Info TV
+https://kali.vdopanel.com:3119/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Movies" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Movies
+http://50.7.120.34:8080/AXN_BLACK/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies;Series",AXN Asia Thailand" group-title="Movies;Series",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies;Series",AXN Asia Thailand
+http://54.37.19.157/axn/playlist.m3u8

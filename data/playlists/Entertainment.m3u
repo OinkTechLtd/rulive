@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-21 23:51:43
-# Всего каналов: 17598
-# Новых за сессию: 0
+# Обновлено: 2026-06-22 02:02:31
+# Всего каналов: 17703
+# Новых за сессию: 105
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment
-# Каналов: 685
-# Обновлено: 2026-06-21 23:51:43
+# Каналов: 691
+# Обновлено: 2026-06-22 02:02:31
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Arte [Geo-blocked]" group-title="Entertainment",Arte [Geo-blocked]
@@ -1951,6 +1951,24 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-evg7.tv360.bitel.
 #EXTINF:-1 tvg-name="Passion Novelas" group-title="Entertainment",Passion Novelas
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/41.223.30.230/PASSIONTV/index.m3u8
 
+#EXTINF:-1 tvg-name="KCKS-LD 25.3" group-title="Entertainment",KCKS-LD 25.3
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/2-fss-1.streamhoster.com/pl_154/amlst:205432-2055980/playlist.m3u8
+
+#EXTINF:-1 tvg-name="W9" group-title="Entertainment",W9
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd.m3u8
+
+#EXTINF:-1 tvg-name="Bolivia Punto TV" group-title="Entertainment",Bolivia Punto TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming.hostpannel.lat/hls/fc517baca1d452f22f56a2563f93f500/index.m3u8
+
+#EXTINF:-1 tvg-name="Gaviota TV" group-title="Entertainment",Gaviota TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8
+
+#EXTINF:-1 tvg-name="La Une" group-title="Entertainment",La Une
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/193.111.198.85:8589/stream/mstv/rtbflaunelive26/master.m3u8?u=Oleg&p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/50.7.120.34:8080/AXN_WHITE/index.m3u8
+
 #EXTINF:-1 tvg-name="Беларусь 2" group-title="Entertainment",Беларусь 2
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 
@@ -2225,3 +2243,5 @@ http://99.27.51.147:8080/MTV/index.m3u8
 http://103.175.73.12:8080/live/173/master.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Entertainment",Colors Infinity (576p)" group-title="Entertainment",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Entertainment",Colors Infinity (576p)
 http://103.175.73.12:8080/live/29/29_0.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment",AXN White Portugal" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment",AXN White Portugal
+http://50.7.120.34:8080/AXN_WHITE/index.m3u8

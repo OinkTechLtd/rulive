@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-21 23:51:43
-# Всего каналов: 17598
-# Новых за сессию: 0
+# Обновлено: 2026-06-22 02:02:31
+# Всего каналов: 17703
+# Новых за сессию: 105
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News
-# Каналов: 996
-# Обновлено: 2026-06-21 23:51:43
+# Каналов: 1004
+# Обновлено: 2026-06-22 02:02:31
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Дождь (альтернативный)" group-title="News",Дождь (альтернативный)
@@ -2782,6 +2782,30 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-evg7.tv360.bitel.
 #EXTINF:-1 tvg-name="like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="News",like Gecko Chrome/144.0.0.0 Safari/537.36
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
 
+#EXTINF:-1 tvg-name="BandNews" group-title="News",BandNews
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-5.nxplay.com.br/BAND_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-name="7 Info" group-title="News",7 Info
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Afrik Info TV" group-title="News",Afrik Info TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/kali.vdopanel.com:3119/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-name="Haiti News Channel" group-title="News",Haiti News Channel
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.haititivi.com/website/haitinews/index.m3u8
+
+#EXTINF:-1 tvg-name="Euronews" group-title="News",Euronews
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8
+
+#EXTINF:-1 tvg-name="Iran International" group-title="News",Iran International
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8
+
+#EXTINF:-1 tvg-name="Kurdistan 24" group-title="News",Kurdistan 24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
+
+#EXTINF:-1 tvg-name="Payam TV" group-title="News",Payam TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8
+
 #EXTINF:-1 tvg-name="Беларусь 24" group-title="News",Беларусь 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 
@@ -3258,3 +3282,7 @@ http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/14021/index.m3u8
 https://iptv.prosto.tv/ch237/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="News",BTV [Geo-blocked]" group-title="News",like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="News",BTV [Geo-blocked]
 https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Culture;News",Ost West (576p)" group-title="Culture;News",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Culture;News",Ost West (576p)
+http://hls127.freeott.top:8080/OstWest/video.m3u8
+#EXTINF:-1 tvg-name="NowMedia Television Spanish" group-title="Lifestyle;News",NowMedia Television Spanish
+https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8
