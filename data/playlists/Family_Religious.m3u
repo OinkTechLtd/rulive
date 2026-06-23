@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-22 23:20:43
-# Всего каналов: 17703
-# Новых за сессию: 0
+# Обновлено: 2026-06-23 01:31:21
+# Всего каналов: 17782
+# Новых за сессию: 79
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Family;Religious
 # Каналов: 1
-# Обновлено: 2026-06-22 23:20:43
+# Обновлено: 2026-06-23 01:31:21
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="TV Famille" group-title="Family;Religious",TV Famille
@@ -1547,6 +1547,8 @@ https://v2.tustreaming.cl/enlacebpbtv/index.m3u8
 https://tv.webmedialive.com/jbn_live/enlace/playlist.m3u8
 #EXTINF:-1 tvg-name="Activa TV" group-title="Religious",Activa TV
 https://videoserver.tmcreativos.com:19360/mbcrtzxnxd/mbcrtzxnxd.m3u8
+#EXTINF:-1 tvg-name="Ishtar TV" group-title="Culture;Music;Religious",Ishtar TV
+https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
 #EXTINF:-1 tvg-name="Santel TV" group-title="Religious",Santel TV
 https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8
 #EXTINF:-1 tvg-name="TVGracia" group-title="Religious",TVGracia
@@ -1599,3 +1601,11 @@ https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
 #EXTINF:-1 tvg-name="God Stands Kids Club TV Urdu" group-title="Kids;Religious",God Stands Kids Club TV Urdu
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8
+#EXTINF:-1 tvg-name="GNN TV" group-title="Religious",GNN TV
+https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/live.m3u8
+#EXTINF:-1 tvg-name="Emanuel TV" group-title="Religious",Emanuel TV
+https://michaelgm.live:3684/live/emanueltvlive.m3u8
+#EXTINF:-1 tvg-name="Vida Nueva TV" group-title="Religious",Vida Nueva TV
+https://mc.servidor.stream:19360/8240/8240.m3u8
+#EXTINF:-1 tvg-name="Impact TV" group-title="Religious",Impact TV
+https://edge11.vedge.infomaniak.com/livecast/ik:impacttv-2/manifest.m3u8

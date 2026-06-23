@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-22 23:20:43
-# Всего каналов: 17703
-# Новых за сессию: 0
+# Обновлено: 2026-06-23 01:31:21
+# Всего каналов: 17782
+# Новых за сессию: 79
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Religious
 # Каналов: 7
-# Обновлено: 2026-06-22 23:20:43
+# Обновлено: 2026-06-23 01:31:21
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Сити Эдем ТВ Христианский" group-title="General;Religious",Сити Эдем ТВ Христианский
@@ -6247,7 +6247,7 @@ https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8
 https://5ff3d9babae13.streamlock.net/aufymdjpjf/aufymdjpjf/playlist.m3u8
 #EXTINF:-1 tvg-name="Guatuso TV" group-title="General",Guatuso TV
 https://5cf4a2c2512a2.streamlock.net/8176/8176/playlist.m3u8
-#EXTINF:-1 tvg-name="Ishtar TV" group-title="General",Ishtar TV
+#EXTINF:-1 tvg-name="Ishtar TV" group-title="Culture;Music;Religious",Ishtar TV
 https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
 #EXTINF:-1 tvg-name="JOAX-DTV" group-title="General",JOAX-DTV
 https://ntv5.mov3.co/hls/ntv.m3u8
@@ -6543,3 +6543,69 @@ https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
 https://hlspackager.akamaized.net/live/DB/ZAGROS_TV/HLS/ZAGROS_TV.m3u8
 #EXTINF:-1 tvg-name="God Stands Kids Club TV Urdu" group-title="Kids;Religious",God Stands Kids Club TV Urdu
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8
+#EXTINF:-1 tvg-name="LBC International" group-title="General",LBC International
+http://185.9.2.18/chid_327/index.m3u8
+#EXTINF:-1 tvg-name="El Siete" group-title="General",El Siete
+https://edgectc.com/CANAL7_MZA/index.m3u8
+#EXTINF:-1 tvg-name="TV Publica" group-title="General",TV Publica
+http://playcom.trapemn.tv:1935/transcoderip/tvpublica.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Apsua TV" group-title="General",Apsua TV
+https://gcmx3v3owcj.a.trbcdn.net/livemaster/ba7pu_fgej0zelpw.smil/playlist.m3u8?blstid=null
+#EXTINF:-1 tvg-name="Abu Dhabi TV" group-title="General",Abu Dhabi TV
+http://185.9.2.18/chid_326/index.m3u8
+#EXTINF:-1 tvg-name="GNN TV" group-title="Religious",GNN TV
+https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/live.m3u8
+#EXTINF:-1 tvg-name="TV2" group-title="General",TV2
+http://185.9.2.18/chid_347/index.m3u8
+#EXTINF:-1 tvg-name="Canal 56 Quiero TV" group-title="General",Canal 56 Quiero TV
+http://45.5.118.152:8000/play/a08z/index.m3u8
+#EXTINF:-1 tvg-name="Caracol 2" group-title="General",Caracol 2
+http://181.78.14.26:4000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-name="Emanuel TV" group-title="Religious",Emanuel TV
+https://michaelgm.live:3684/live/emanueltvlive.m3u8
+#EXTINF:-1 tvg-name="Evolucion TV (576p)" group-title="General",Evolucion TV (576p)
+https://edgectc.com/CTC_SAN_RAFAEL/index.m3u8
+#EXTINF:-1 tvg-name="Globovision (576p)" group-title="General",Globovision (576p)
+http://181.78.8.199:8000/play/a09k/index.m3u8
+#EXTINF:-1 tvg-name="La Chilena TV" group-title="General",La Chilena TV
+https://vdochile.com:3134/stream/play.m3u8
+#EXTINF:-1 tvg-name="La Metro TV" group-title="General",La Metro TV
+https://jireh-8-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Nuestra Tele Internacional (576p)" group-title="General",Nuestra Tele Internacional (576p)
+http://181.78.8.199:8000/play/a0a8/index.m3u8
+#EXTINF:-1 tvg-name="Odisea TV" group-title="General",Odisea TV
+https://v2.tustreaming.cl/odiseatv/index.m3u8
+#EXTINF:-1 tvg-name="RCN 2" group-title="General",RCN 2
+http://181.78.14.26:4000/play/a07m/index.m3u8
+#EXTINF:-1 tvg-name="Surena TV" group-title="General",Surena TV
+https://vs20.live.opencaster.com/surenatv_187f915a/index.m3u8
+#EXTINF:-1 tvg-name="SV+" group-title="General",SV+
+http://45.167.2.101:8000/play/a0qx/index.m3u8
+#EXTINF:-1 tvg-name="Telecadena 7 y 4 (576p)" group-title="General",Telecadena 7 y 4 (576p)
+http://45.167.2.101:8000/play/a07n/index.m3u8
+#EXTINF:-1 tvg-name="TeleOnce (576p)" group-title="General",TeleOnce (576p)
+http://45.5.119.43:4000/play/a0jk/index.m3u8
+#EXTINF:-1 tvg-name="Televen (576p)" group-title="General",Televen (576p)
+http://181.78.8.199:8000/play/a09j/index.m3u8
+#EXTINF:-1 tvg-name="TV Chile" group-title="General",TV Chile
+https://edgectc.com/TV_CHILE_HD/index.m3u8
+#EXTINF:-1 tvg-name="Unitel La Paz (576p)" group-title="General",Unitel La Paz (576p)
+http://190.60.39.195:8000/play/a01r/index.m3u8
+#EXTINF:-1 tvg-name="Venevision (576p)" group-title="General",Venevision (576p)
+http://181.78.8.199:8000/play/a0if/index.m3u8
+#EXTINF:-1 tvg-name="Venezolana de Television (576p)" group-title="General",Venezolana de Television (576p)
+http://181.78.8.199:8000/play/a091/index.m3u8
+#EXTINF:-1 tvg-name="Vida Nueva TV" group-title="Religious",Vida Nueva TV
+https://mc.servidor.stream:19360/8240/8240.m3u8
+#EXTINF:-1 tvg-name="Zona Sur TV" group-title="General",Zona Sur TV
+https://5ff3d9babae13.streamlock.net/tvtumqsfdn/tvtumqsfdn/playlist.m3u8
+#EXTINF:-1 tvg-name="Impact TV" group-title="Religious",Impact TV
+https://edge11.vedge.infomaniak.com/livecast/ik:impacttv-2/manifest.m3u8
+#EXTINF:-1 tvg-name="TV5Monde Europe" group-title="General",TV5Monde Europe
+http://45.14.84.37:80/tv5monde/index.m3u8
+#EXTINF:-1 tvg-name="Al Maghribia" group-title="General",Al Maghribia
+http://185.9.2.18/chid_205/index.m3u8
+#EXTINF:-1 tvg-name="Al Masriyah" group-title="General",Al Masriyah
+http://185.9.2.18/chid_247/index.m3u8
+#EXTINF:-1 tvg-name="Dubai TV International" group-title="General",Dubai TV International
+http://185.9.2.18/chid_139/index.m3u8

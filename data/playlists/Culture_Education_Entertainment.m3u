@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-22 23:20:43
-# Всего каналов: 17703
-# Новых за сессию: 0
+# Обновлено: 2026-06-23 01:31:21
+# Всего каналов: 17782
+# Новых за сессию: 79
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Education;Entertainment
 # Каналов: 1
-# Обновлено: 2026-06-22 23:20:43
+# Обновлено: 2026-06-23 01:31:21
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Manas TV" group-title="Culture;Education;Entertainment",Manas TV
@@ -2079,6 +2079,8 @@ https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_q2hyb21h/index-hd
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd720.m3u8
 #EXTINF:-1 tvg-name="Luys TV" group-title="Culture",Luys TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Ishtar TV" group-title="Culture;Music;Religious",Ishtar TV
+https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Golfo Uraba" group-title="Entertainment",TV Golfo Uraba
 https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8
 #EXTINF:-1 tvg-name="A&E" group-title="Entertainment",A&E
@@ -2177,3 +2179,23 @@ https://streaming.hostpannel.lat/hls/fc517baca1d452f22f56a2563f93f500/index.m3u8
 https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment",AXN White Portugal" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment",AXN White Portugal
 http://50.7.120.34:8080/AXN_WHITE/index.m3u8
+#EXTINF:-1 tvg-name="Kvartal TV" group-title="Entertainment",Kvartal TV
+https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
+#EXTINF:-1 tvg-name="St Lucie Public Schools" group-title="Education",St Lucie Public Schools
+https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8
+#EXTINF:-1 tvg-name="C Star (477p)" group-title="Entertainment",C Star (477p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
+#EXTINF:-1 tvg-name="MTV Latin America" group-title="Entertainment",MTV Latin America
+http://179.60.51.134:8888/MTV/index.m3u8
+#EXTINF:-1 tvg-name="Crime + Investigation CEE" group-title="Entertainment",Crime + Investigation CEE
+http://88.212.15.19/live/test_cai_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="La Nuestra" group-title="Entertainment",La Nuestra
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="La Tele Tuya (576p)" group-title="Entertainment",La Tele Tuya (576p)
+http://181.78.8.199:8000/play/a0fs/index.m3u8
+#EXTINF:-1 tvg-name="Movistar Plus (576p)" group-title="Entertainment",Movistar Plus (576p)
+http://45.4.1.201:8000/play/a19y/index.m3u8
+#EXTINF:-1 tvg-name="RCN Novelas (576p)" group-title="Entertainment",RCN Novelas (576p)
+http://181.78.8.199:8000/play/a0a7/index.m3u8
+#EXTINF:-1 tvg-name="UMAGTV" group-title="Education",UMAGTV
+https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8

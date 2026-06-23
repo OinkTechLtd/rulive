@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-22 23:20:43
-# Всего каналов: 17703
-# Новых за сессию: 0
+# Обновлено: 2026-06-23 01:31:21
+# Всего каналов: 17782
+# Новых за сессию: 79
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;Sports
 # Каналов: 1
-# Обновлено: 2026-06-22 23:20:43
+# Обновлено: 2026-06-23 01:31:21
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RTI La 3" group-title="Music;Sports",RTI La 3
@@ -2173,6 +2173,8 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 https://us.streaminghd.cl/apocalipsistvd/video.m3u8
 #EXTINF:-1 tvg-name="Buenisima Radio TV" group-title="Music",Buenisima Radio TV
 https://canal.mediaserver.com.co/live/buenisimatv.m3u8
+#EXTINF:-1 tvg-name="Ishtar TV" group-title="Culture;Music;Religious",Ishtar TV
+https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
 #EXTINF:-1 tvg-name="VTV6" group-title="Sports",VTV6
 https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-name="Sony Sports Ten 3 Hindi (576p)" group-title="Sports",Sony Sports Ten 3 Hindi (576p)
@@ -2289,3 +2291,13 @@ https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Cidade" group-title="Music",TV Cidade
 https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8
+#EXTINF:-1 tvg-name="L1" group-title="Sports",L1
+http://45.4.1.201:8000/play/a1ai/index.m3u8
+#EXTINF:-1 tvg-name="Meridiano TV (576p)" group-title="Sports",Meridiano TV (576p)
+http://181.78.8.199:8000/play/a0fr/index.m3u8
+#EXTINF:-1 tvg-name="Movistar Deportes" group-title="Sports",Movistar Deportes
+http://45.4.1.201:8000/play/a13e/index.m3u8
+#EXTINF:-1 tvg-name="Pauta" group-title="Music",Pauta
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="UMAGTV2" group-title="Music",UMAGTV2
+https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8

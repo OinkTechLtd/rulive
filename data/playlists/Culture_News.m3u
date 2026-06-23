@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-22 23:20:43
-# Всего каналов: 17703
-# Новых за сессию: 0
+# Обновлено: 2026-06-23 01:31:21
+# Всего каналов: 17782
+# Новых за сессию: 79
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;News
 # Каналов: 12
-# Обновлено: 2026-06-22 23:20:43
+# Обновлено: 2026-06-23 01:31:21
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Channel One" group-title="Culture;News",Channel One
@@ -2364,6 +2364,8 @@ https://webtv.lavoixduroutiertv.bj/hls/stream.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
 #EXTINF:-1 tvg-name="Luys TV" group-title="Culture",Luys TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Ishtar TV" group-title="Culture;Music;Religious",Ishtar TV
+https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
 #EXTINF:-1 tvg-name="Momento24" group-title="News",Momento24
 https://backupmaxmedia.hvmultiplay.com/hls/stream2/momento24.m3u8
 #EXTINF:-1 tvg-name="Cultura Online" group-title="Culture",Cultura Online
@@ -2420,3 +2422,9 @@ https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09d
 https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8
 #EXTINF:-1 tvg-name="Afrik Info TV" group-title="News",Afrik Info TV
 https://kali.vdopanel.com:3119/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="NTN24 (576p)" group-title="News",NTN24 (576p)
+http://181.78.8.199:8000/play/a0a6/index.m3u8
+#EXTINF:-1 tvg-name="CNN Prima News" group-title="News",CNN Prima News
+http://88.212.15.19/live/test_cnn_pirma_news/playlist.m3u8
+#EXTINF:-1 tvg-name="IRINN (576p)" group-title="News",IRINN (576p)
+http://185.9.2.18/chid_926/index.m3u8

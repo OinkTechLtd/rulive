@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-22 23:20:43
-# Всего каналов: 17703
-# Новых за сессию: 0
+# Обновлено: 2026-06-23 01:31:21
+# Всего каналов: 17782
+# Новых за сессию: 79
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: IPTV
 # Каналов: 134
-# Обновлено: 2026-06-22 23:20:43
+# Обновлено: 2026-06-23 01:31:21
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="A2 CNN Albania" group-title="IPTV",A2 CNN Albania
@@ -180,6 +180,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/tchaikovsky.af-stream.
 
 #EXTINF:-1 tvg-name="Drive" group-title="IPTV",Drive
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/de.russkoe-iptv.com:88/s/s-e3dc39e0/drive-hd.m3u8
+
+#EXTINF:-1 tvg-name="Big Planet" group-title="IPTV",Big Planet
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/de.russkoe-iptv.com:88/s/s-e3dc39e0/big-planet-hd.m3u8
 
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="IPTV",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8
@@ -399,9 +402,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Eda_Premi
 
 #EXTINF:-1 tvg-name="Glazami Turista (576i)" group-title="IPTV",Glazami Turista (576i)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="Gulli Girl" group-title="IPTV",Gulli Girl
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Indiyskoye Kino" group-title="IPTV",Indiyskoye Kino
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tmptv.sunduk.tv/CH107/index.m3u8

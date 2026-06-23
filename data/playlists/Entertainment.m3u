@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-22 23:20:43
-# Всего каналов: 17703
-# Новых за сессию: 0
+# Обновлено: 2026-06-23 01:31:21
+# Всего каналов: 17782
+# Новых за сессию: 79
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment
-# Каналов: 691
-# Обновлено: 2026-06-22 23:20:43
+# Каналов: 701
+# Обновлено: 2026-06-23 01:31:21
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Arte [Geo-blocked]" group-title="Entertainment",Arte [Geo-blocked]
@@ -1968,6 +1968,36 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/193.111.198.85:8589/st
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/50.7.120.34:8080/AXN_WHITE/index.m3u8
+
+#EXTINF:-1 tvg-name="Kvartal TV" group-title="Entertainment",Kvartal TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dash2.antik.sk/live/kvartal_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="C Star (477p)" group-title="Entertainment",C Star (477p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
+
+#EXTINF:-1 tvg-name="Zee TV" group-title="Entertainment",Zee TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/41.205.93.154/ZEE-TV/index.m3u8
+
+#EXTINF:-1 tvg-name="MTV Latin America" group-title="Entertainment",MTV Latin America
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/179.60.51.134:8888/MTV/index.m3u8
+
+#EXTINF:-1 tvg-name="Crime + Investigation CEE" group-title="Entertainment",Crime + Investigation CEE
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/88.212.15.19/live/test_cai_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-name="La Nuestra" group-title="Entertainment",La Nuestra
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="La Tele" group-title="Entertainment",La Tele
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/8.243.126.131:8000/play/a01v/index.m3u8
+
+#EXTINF:-1 tvg-name="La Tele Tuya (576p)" group-title="Entertainment",La Tele Tuya (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/181.78.8.199:8000/play/a0fs/index.m3u8
+
+#EXTINF:-1 tvg-name="Movistar Plus (576p)" group-title="Entertainment",Movistar Plus (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.4.1.201:8000/play/a19y/index.m3u8
+
+#EXTINF:-1 tvg-name="RCN Novelas (576p)" group-title="Entertainment",RCN Novelas (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/181.78.8.199:8000/play/a0a7/index.m3u8
 
 #EXTINF:-1 tvg-name="Беларусь 2" group-title="Entertainment",Беларусь 2
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8

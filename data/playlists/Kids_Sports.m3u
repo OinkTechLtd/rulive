@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-22 23:20:43
-# Всего каналов: 17703
-# Новых за сессию: 0
+# Обновлено: 2026-06-23 01:31:21
+# Всего каналов: 17782
+# Новых за сессию: 79
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Sports
 # Каналов: 1
-# Обновлено: 2026-06-22 23:20:43
+# Обновлено: 2026-06-23 01:31:21
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ADO TV" group-title="Kids;Sports",ADO TV
@@ -45,6 +45,8 @@ https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="Sharjah Sports [Geo-blocked]" group-title="Sports",Sharjah Sports [Geo-blocked]
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Gulli Girl" group-title="Kids",Gulli Girl
+https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="KHL" group-title="Sports",KHL
 http://31.148.48.15/KHL_TV/index.m3u8
 #EXTINF:-1 tvg-name="Detski mir (576p)" group-title="Kids",Detski mir (576p)
@@ -1451,3 +1453,23 @@ https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
 #EXTINF:-1 tvg-name="God Stands Kids Club TV Urdu" group-title="Kids;Religious",God Stands Kids Club TV Urdu
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8
+#EXTINF:-1 tvg-name="Leva" group-title="Kids",Leva
+http://de.russkoe-iptv.com:88/s/s-e3dc39e0/ljova-hd.m3u8
+#EXTINF:-1 tvg-name="V gostyakh u skazki" group-title="Kids",V gostyakh u skazki
+http://de.russkoe-iptv.com:88/s/s-e3dc39e0/gosti-skazka-hd.m3u8
+#EXTINF:-1 tvg-name="Disney Channel Latin America" group-title="Animation;Kids",Disney Channel Latin America
+http://45.185.163.75:8000/play/a02j/index.m3u8
+#EXTINF:-1 tvg-name="Nick Jr. Latin America" group-title="Kids",Nick Jr. Latin America
+http://179.60.51.134:8888/NICK-JR/index.m3u8
+#EXTINF:-1 tvg-name="Detski mir" group-title="Kids",Detski mir
+http://de.russkoe-iptv.com:88/s/s-e3dc39e0/detskij-mir-hd.m3u8
+#EXTINF:-1 tvg-name="Disney Channel Latin America Center" group-title="Animation;Kids",Disney Channel Latin America Center
+http://181.78.8.199:8000/play/a0dn/index.m3u8
+#EXTINF:-1 tvg-name="L1" group-title="Sports",L1
+http://45.4.1.201:8000/play/a1ai/index.m3u8
+#EXTINF:-1 tvg-name="Meridiano TV (576p)" group-title="Sports",Meridiano TV (576p)
+http://181.78.8.199:8000/play/a0fr/index.m3u8
+#EXTINF:-1 tvg-name="Movistar Deportes" group-title="Sports",Movistar Deportes
+http://45.4.1.201:8000/play/a13e/index.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon Latin America" group-title="Kids",Nickelodeon Latin America
+http://179.60.51.134:8888/NICK/index.m3u8

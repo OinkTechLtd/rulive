@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-22 23:20:43
-# Всего каналов: 17703
-# Новых за сессию: 0
+# Обновлено: 2026-06-23 01:31:21
+# Всего каналов: 17782
+# Новых за сессию: 79
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Religious
-# Каналов: 721
-# Обновлено: 2026-06-22 23:20:43
+# Каналов: 725
+# Обновлено: 2026-06-23 01:31:21
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Спас (450p) [Geo-blocked]" group-title="Religious",Спас (450p) [Geo-blocked]
@@ -2119,6 +2119,18 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-5.nxplay.com.br/RE
 #EXTINF:-1 tvg-name="Impact Channel" group-title="Religious",Impact Channel
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/5fe2654d6127d.streamlock.net/impactchannel/videoimpactchannel/playlist.m3u8
 
+#EXTINF:-1 tvg-name="GNN TV" group-title="Religious",GNN TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/live.m3u8
+
+#EXTINF:-1 tvg-name="Emanuel TV" group-title="Religious",Emanuel TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/michaelgm.live:3684/live/emanueltvlive.m3u8
+
+#EXTINF:-1 tvg-name="Vida Nueva TV" group-title="Religious",Vida Nueva TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mc.servidor.stream:19360/8240/8240.m3u8
+
+#EXTINF:-1 tvg-name="Impact TV" group-title="Religious",Impact TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/edge11.vedge.infomaniak.com/livecast/ik:impacttv-2/manifest.m3u8
+
 #EXTINF:-1 tvg-name="Aghapy TV" group-title="Religious",Aghapy TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
 
@@ -2235,6 +2247,8 @@ https://lingkartv.my.id/hls/lingkartv.m3u8
 http://116.90.120.151:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-name="Holy Quran Radio" group-title="General;Religious",Holy Quran Radio
 https://aloula-redirect.vercel.app/13/playlist.m3u8
+#EXTINF:-1 tvg-name="Ishtar TV" group-title="Culture;Music;Religious",Ishtar TV
+https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
 #EXTINF:-1 tvg-name="God Stands Kids Club TV English" group-title="Kids;Religious",God Stands Kids Club TV English
 https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
 #EXTINF:-1 tvg-name="God Stands Kids Club TV Chinese" group-title="Kids;Religious",God Stands Kids Club TV Chinese
