@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-23 23:09:37
-# Всего каналов: 17782
-# Новых за сессию: 0
+# Обновлено: 2026-06-24 01:26:34
+# Всего каналов: 17866
+# Новых за сессию: 84
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Music;Religious
 # Каналов: 1
-# Обновлено: 2026-06-23 23:09:38
+# Обновлено: 2026-06-24 01:26:35
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Ishtar TV" group-title="Culture;Music;Religious",Ishtar TV
@@ -3255,3 +3255,19 @@ https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
 https://mc.servidor.stream:19360/8240/8240.m3u8
 #EXTINF:-1 tvg-name="Impact TV" group-title="Religious",Impact TV
 https://edge11.vedge.infomaniak.com/livecast/ik:impacttv-2/manifest.m3u8
+#EXTINF:-1 tvg-name="Zhara Kids TV (576p)" group-title="Kids;Music",Zhara Kids TV (576p)
+https://trs1.aynaott.com/discoverykids/index.m3u8
+#EXTINF:-1 tvg-name="Happy Radio TV" group-title="Music",Happy Radio TV
+https://tv.mediacp.eu:8081/happyradio/index.m3u8
+#EXTINF:-1 tvg-name="Arte 1" group-title="Culture",Arte 1
+http://143.14.178.40:7777/Arte_1_HD/index.m3u8
+#EXTINF:-1 tvg-name="Music Box Brazil" group-title="Music",Music Box Brazil
+http://143.14.178.40:7777/Music_Box_HD/index.m3u8
+#EXTINF:-1 tvg-name="Pent TV" group-title="Religious",Pent TV
+https://playlist.dacast.com/live/a72117af-d78e-7ffe-7c12-1af6cd4a8483-live-42172a86-494b-a866-498f-dbaff4b5e3c0/master.m3u8
+#EXTINF:-1 tvg-name="Canal A" group-title="Culture",Canal A
+https://edgectc.com/CANAL_A/index.m3u8
+#EXTINF:-1 tvg-name="Canal Diplomatico" group-title="Culture",Canal Diplomatico
+https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8
+#EXTINF:-1 tvg-name="Kemet TV" group-title="Culture",Kemet TV
+https://kemettv.cm/memfs/4e7fb105-9f92-4e8d-a7cd-09923f17a577.m3u8

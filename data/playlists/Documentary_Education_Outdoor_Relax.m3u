@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-23 23:09:37
-# Всего каналов: 17782
-# Новых за сессию: 0
+# Обновлено: 2026-06-24 01:26:34
+# Всего каналов: 17866
+# Новых за сессию: 84
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Education;Outdoor;Relax
 # Каналов: 1
-# Обновлено: 2026-06-23 23:09:38
+# Обновлено: 2026-06-24 01:26:35
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="WildEarth" group-title="Documentary;Education;Outdoor;Relax",WildEarth
@@ -945,3 +945,9 @@ http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8
 https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8
 #EXTINF:-1 tvg-name="UMAGTV" group-title="Education",UMAGTV
 https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 tvg-name="Smotrim 100% Fakty" group-title="Documentary",Smotrim 100% Fakty
+https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+#EXTINF:-1 tvg-name="BBC Earth Greece" group-title="Documentary",BBC Earth Greece
+http://185.102.171.218/BBCEarth/index.m3u8
+#EXTINF:-1 tvg-name="Sky Nature (576p)" group-title="Documentary",Sky Nature (576p)
+https://trs1.aynaott.com/skynature/index.m3u8

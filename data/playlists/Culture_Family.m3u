@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-23 23:09:37
-# Всего каналов: 17782
-# Новых за сессию: 0
+# Обновлено: 2026-06-24 01:26:34
+# Всего каналов: 17866
+# Новых за сессию: 84
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Family
 # Каналов: 1
-# Обновлено: 2026-06-23 23:09:38
+# Обновлено: 2026-06-24 01:26:35
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Superscreen TV (412p)" group-title="Culture;Family",Superscreen TV (412p)
@@ -473,3 +473,11 @@ http://193.46.58.239:8080/CBBCHD/index.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ipe.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Culture;News",Ost West (576p)" group-title="Culture;News",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Culture;News",Ost West (576p)
 http://hls127.freeott.top:8080/OstWest/video.m3u8
+#EXTINF:-1 tvg-name="Arte 1" group-title="Culture",Arte 1
+http://143.14.178.40:7777/Arte_1_HD/index.m3u8
+#EXTINF:-1 tvg-name="Canal A" group-title="Culture",Canal A
+https://edgectc.com/CANAL_A/index.m3u8
+#EXTINF:-1 tvg-name="Canal Diplomatico" group-title="Culture",Canal Diplomatico
+https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8
+#EXTINF:-1 tvg-name="Kemet TV" group-title="Culture",Kemet TV
+https://kemettv.cm/memfs/4e7fb105-9f92-4e8d-a7cd-09923f17a577.m3u8

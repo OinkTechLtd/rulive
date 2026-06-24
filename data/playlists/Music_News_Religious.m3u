@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-23 23:09:37
-# Всего каналов: 17782
-# Новых за сессию: 0
+# Обновлено: 2026-06-24 01:26:34
+# Всего каналов: 17866
+# Новых за сессию: 84
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;News;Religious
 # Каналов: 1
-# Обновлено: 2026-06-23 23:09:38
+# Обновлено: 2026-06-24 01:26:35
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Lingkar TV" group-title="Music;News;Religious",Lingkar TV
@@ -4979,3 +4979,25 @@ https://edge11.vedge.infomaniak.com/livecast/ik:impacttv-2/manifest.m3u8
 http://88.212.15.19/live/test_cnn_pirma_news/playlist.m3u8
 #EXTINF:-1 tvg-name="IRINN (576p)" group-title="News",IRINN (576p)
 http://185.9.2.18/chid_926/index.m3u8
+#EXTINF:-1 tvg-name="Zhara Kids TV (576p)" group-title="Kids;Music",Zhara Kids TV (576p)
+https://trs1.aynaott.com/discoverykids/index.m3u8
+#EXTINF:-1 tvg-name="Happy Radio TV" group-title="Music",Happy Radio TV
+https://tv.mediacp.eu:8081/happyradio/index.m3u8
+#EXTINF:-1 tvg-name="Bharat Samachar (576p)" group-title="News",Bharat Samachar (576p)
+https://trs1.aynaott.com/BharatSamachar/index.m3u8
+#EXTINF:-1 tvg-name="News 1 India (576p)" group-title="News",News 1 India (576p)
+https://trs1.aynaott.com/News1India/index.m3u8
+#EXTINF:-1 tvg-name="Music Box Brazil" group-title="Music",Music Box Brazil
+http://143.14.178.40:7777/Music_Box_HD/index.m3u8
+#EXTINF:-1 tvg-name="CP24 (576p)" group-title="News",CP24 (576p)
+https://trs1.aynaott.com/cp24/index.m3u8
+#EXTINF:-1 tvg-name="For You TV" group-title="News",For You TV
+https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8
+#EXTINF:-1 tvg-name="Pent TV" group-title="Religious",Pent TV
+https://playlist.dacast.com/live/a72117af-d78e-7ffe-7c12-1af6cd4a8483-live-42172a86-494b-a866-498f-dbaff4b5e3c0/master.m3u8
+#EXTINF:-1 tvg-name="Canal N (576p)" group-title="News",Canal N (576p)
+http://8.243.126.131:8000/play/a058/index.m3u8
+#EXTINF:-1 tvg-name="Telesur (576p)" group-title="News",Telesur (576p)
+https://edgectc.com/TELESUR/index.m3u8
+#EXTINF:-1 tvg-name="Panafrican Media TV" group-title="News",Panafrican Media TV
+https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8

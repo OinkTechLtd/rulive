@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-23 23:09:37
-# Всего каналов: 17782
-# Новых за сессию: 0
+# Обновлено: 2026-06-24 01:26:34
+# Всего каналов: 17866
+# Новых за сессию: 84
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Auto;Outdoor;Sports
 # Каналов: 1
-# Обновлено: 2026-06-23 23:09:38
+# Обновлено: 2026-06-24 01:26:35
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="INTROUBLE" group-title="Auto;Outdoor;Sports",INTROUBLE
@@ -1015,3 +1015,5 @@ http://45.4.1.201:8000/play/a1ai/index.m3u8
 http://181.78.8.199:8000/play/a0fr/index.m3u8
 #EXTINF:-1 tvg-name="Movistar Deportes" group-title="Sports",Movistar Deportes
 http://45.4.1.201:8000/play/a13e/index.m3u8
+#EXTINF:-1 tvg-name="DeporTV" group-title="Sports",DeporTV
+https://edgectc.com/DEPORTES_CTC_PLUS/index.m3u8

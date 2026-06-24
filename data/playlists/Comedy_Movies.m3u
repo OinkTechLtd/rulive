@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-23 23:09:37
-# Всего каналов: 17782
-# Новых за сессию: 0
+# Обновлено: 2026-06-24 01:26:34
+# Всего каналов: 17866
+# Новых за сессию: 84
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Movies
 # Каналов: 9
-# Обновлено: 2026-06-23 23:09:38
+# Обновлено: 2026-06-24 01:26:35
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pluto TV Comedias Románticas" group-title="Comedy;Movies",Pluto TV Comedias Románticas
@@ -1357,3 +1357,15 @@ http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 http://54.37.19.157/axn/playlist.m3u8
 #EXTINF:-1 tvg-name="AXN Latin America Mexico" group-title="Movies",AXN Latin America Mexico
 http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
+#EXTINF:-1 tvg-name="Smotrim 100% Klassika" group-title="Classic;Movies",Smotrim 100% Klassika
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+#EXTINF:-1 tvg-name="Star Cinema" group-title="Movies",Star Cinema
+https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
+#EXTINF:-1 tvg-name="Star Family" group-title="Movies",Star Family
+https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
+#EXTINF:-1 tvg-name="FilmUA Live" group-title="Movies",FilmUA Live
+https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
+#EXTINF:-1 tvg-name="Laff (576p)" group-title="Comedy",Laff (576p)
+https://trs1.aynaott.com/laff/index.m3u8
+#EXTINF:-1 tvg-name="&TV" group-title="Movies",&TV
+https://trs1.aynaott.com/andtvhd/index.m3u8

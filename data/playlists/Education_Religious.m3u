@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-23 23:09:37
-# Всего каналов: 17782
-# Новых за сессию: 0
+# Обновлено: 2026-06-24 01:26:34
+# Всего каналов: 17866
+# Новых за сессию: 84
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Religious
 # Каналов: 2
-# Обновлено: 2026-06-23 23:09:38
+# Обновлено: 2026-06-24 01:26:35
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Paighan TV" group-title="Education;Religious",Paighan TV
@@ -1978,3 +1978,5 @@ https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
 https://mc.servidor.stream:19360/8240/8240.m3u8
 #EXTINF:-1 tvg-name="Impact TV" group-title="Religious",Impact TV
 https://edge11.vedge.infomaniak.com/livecast/ik:impacttv-2/manifest.m3u8
+#EXTINF:-1 tvg-name="Pent TV" group-title="Religious",Pent TV
+https://playlist.dacast.com/live/a72117af-d78e-7ffe-7c12-1af6cd4a8483-live-42172a86-494b-a866-498f-dbaff4b5e3c0/master.m3u8

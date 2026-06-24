@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-23 23:09:37
-# Всего каналов: 17782
-# Новых за сессию: 0
+# Обновлено: 2026-06-24 01:26:34
+# Всего каналов: 17866
+# Новых за сессию: 84
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Kids
 # Каналов: 1
-# Обновлено: 2026-06-23 23:09:38
+# Обновлено: 2026-06-24 01:26:35
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ETV2" group-title="Culture;Kids",ETV2
@@ -975,3 +975,39 @@ http://de.russkoe-iptv.com:88/s/s-e3dc39e0/detskij-mir-hd.m3u8
 http://181.78.8.199:8000/play/a0dn/index.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon Latin America" group-title="Kids",Nickelodeon Latin America
 http://179.60.51.134:8888/NICK/index.m3u8
+#EXTINF:-1 tvg-name="Smotrim 100% Detskoe" group-title="Kids",Smotrim 100% Detskoe
+https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
+#EXTINF:-1 tvg-name="Zhara Kids TV (576p)" group-title="Kids;Music",Zhara Kids TV (576p)
+https://trs1.aynaott.com/discoverykids/index.m3u8
+#EXTINF:-1 tvg-name="Forever Kids (576p)" group-title="Kids",Forever Kids (576p)
+https://trs1.aynaott.com/ForeverKids/index.m3u8
+#EXTINF:-1 tvg-name="TeenNick (576p)" group-title="Kids",TeenNick (576p)
+https://trs1.aynaott.com/teennick/index.m3u8
+#EXTINF:-1 tvg-name="Arte 1" group-title="Culture",Arte 1
+http://143.14.178.40:7777/Arte_1_HD/index.m3u8
+#EXTINF:-1 tvg-name="Gloob" group-title="Kids",Gloob
+http://143.14.178.40:7777/Gloob_HD/index.m3u8
+#EXTINF:-1 tvg-name="Gloobinho" group-title="Kids",Gloobinho
+http://143.14.178.40:7777/Gloobinho_HD/index.m3u8
+#EXTINF:-1 tvg-name="Plim Plim" group-title="Animation;Kids",Plim Plim
+http://8.243.126.131:8000/play/a0od/index.m3u8
+#EXTINF:-1 tvg-name="BabyTV Netherlands (576p)" group-title="Kids",BabyTV Netherlands (576p)
+http://185.102.171.218/BabyTV/index.m3u8
+#EXTINF:-1 tvg-name="BabyTV UK" group-title="Kids",BabyTV UK
+https://trs1.aynaott.com/babytv/index.m3u8
+#EXTINF:-1 tvg-name="Disney Channel EMEA (576p)" group-title="Kids",Disney Channel EMEA (576p)
+http://185.102.171.218/DisneyChannel/index.m3u8
+#EXTINF:-1 tvg-name="Canal A" group-title="Culture",Canal A
+https://edgectc.com/CANAL_A/index.m3u8
+#EXTINF:-1 tvg-name="Canal Diplomatico" group-title="Culture",Canal Diplomatico
+https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8
+#EXTINF:-1 tvg-name="Kemet TV" group-title="Culture",Kemet TV
+https://kemettv.cm/memfs/4e7fb105-9f92-4e8d-a7cd-09923f17a577.m3u8
+#EXTINF:-1 tvg-name="Reino Infantil" group-title="Kids",Reino Infantil
+https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
+#EXTINF:-1 tvg-name="Hop! (576p)" group-title="Kids",Hop! (576p)
+http://bethoven.af-stream.com:1600/s/kwtlxswl/hop-childhood-il/video.m3u8
+#EXTINF:-1 tvg-name="Junior (576p)" group-title="Kids",Junior (576p)
+http://bethoven.af-stream.com:1600/s/kwtlxswl/junior-il/video.m3u8
+#EXTINF:-1 tvg-name="TVP ABC 2" group-title="Kids",TVP ABC 2
+https://raw.githubusercontent.com/seyfettinaskar7-sudo/polish-iptv/refs/heads/main/streams/tvpabc2.m3u

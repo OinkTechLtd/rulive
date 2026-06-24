@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-23 23:09:37
-# Всего каналов: 17782
-# Новых за сессию: 0
+# Обновлено: 2026-06-24 01:26:34
+# Всего каналов: 17866
+# Новых за сессию: 84
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Lifestyle;Travel
 # Каналов: 1
-# Обновлено: 2026-06-23 23:09:38
+# Обновлено: 2026-06-24 01:26:35
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Voyages & Saveurs" group-title="Lifestyle;Travel",Voyages & Saveurs
@@ -341,3 +341,5 @@ http://de.russkoe-iptv.com:88/s/s-e3dc39e0/zdorovoe-tv-hd.m3u8
 https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8
 #EXTINF:-1 tvg-name="NowMedia Television Spanish" group-title="Lifestyle;News",NowMedia Television Spanish
 https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8
+#EXTINF:-1 tvg-name="36.6 TV" group-title="Lifestyle",36.6 TV
+https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-23 23:09:37
-# Всего каналов: 17782
-# Новых за сессию: 0
+# Обновлено: 2026-06-24 01:26:34
+# Всего каналов: 17866
+# Новых за сессию: 84
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Documentary;Travel
 # Каналов: 1
-# Обновлено: 2026-06-23 23:09:38
+# Обновлено: 2026-06-24 01:26:35
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="China Travel" group-title="Culture;Documentary;Travel",China Travel
@@ -773,3 +773,17 @@ http://138.121.15.230:9002/HISTORY-2/index.m3u8
 http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Culture;News",Ost West (576p)" group-title="Culture;News",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Culture;News",Ost West (576p)
 http://hls127.freeott.top:8080/OstWest/video.m3u8
+#EXTINF:-1 tvg-name="Smotrim 100% Fakty" group-title="Documentary",Smotrim 100% Fakty
+https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+#EXTINF:-1 tvg-name="Arte 1" group-title="Culture",Arte 1
+http://143.14.178.40:7777/Arte_1_HD/index.m3u8
+#EXTINF:-1 tvg-name="BBC Earth Greece" group-title="Documentary",BBC Earth Greece
+http://185.102.171.218/BBCEarth/index.m3u8
+#EXTINF:-1 tvg-name="Sky Nature (576p)" group-title="Documentary",Sky Nature (576p)
+https://trs1.aynaott.com/skynature/index.m3u8
+#EXTINF:-1 tvg-name="Canal A" group-title="Culture",Canal A
+https://edgectc.com/CANAL_A/index.m3u8
+#EXTINF:-1 tvg-name="Canal Diplomatico" group-title="Culture",Canal Diplomatico
+https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8
+#EXTINF:-1 tvg-name="Kemet TV" group-title="Culture",Kemet TV
+https://kemettv.cm/memfs/4e7fb105-9f92-4e8d-a7cd-09923f17a577.m3u8

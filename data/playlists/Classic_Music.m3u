@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-23 23:09:37
-# Всего каналов: 17782
-# Новых за сессию: 0
+# Обновлено: 2026-06-24 01:26:34
+# Всего каналов: 17866
+# Новых за сессию: 84
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;Music
 # Каналов: 1
-# Обновлено: 2026-06-23 23:09:38
+# Обновлено: 2026-06-24 01:26:35
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Persiana Nostalgia" group-title="Classic;Music",Persiana Nostalgia
@@ -1581,3 +1581,11 @@ http://45.4.1.201:8000/play/a11i/index.m3u8
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="UMAGTV2" group-title="Music",UMAGTV2
 https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Smotrim 100% Klassika" group-title="Classic;Movies",Smotrim 100% Klassika
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+#EXTINF:-1 tvg-name="Zhara Kids TV (576p)" group-title="Kids;Music",Zhara Kids TV (576p)
+https://trs1.aynaott.com/discoverykids/index.m3u8
+#EXTINF:-1 tvg-name="Happy Radio TV" group-title="Music",Happy Radio TV
+https://tv.mediacp.eu:8081/happyradio/index.m3u8
+#EXTINF:-1 tvg-name="Music Box Brazil" group-title="Music",Music Box Brazil
+http://143.14.178.40:7777/Music_Box_HD/index.m3u8

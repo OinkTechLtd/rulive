@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-23 23:09:37
-# Всего каналов: 17782
-# Новых за сессию: 0
+# Обновлено: 2026-06-24 01:26:34
+# Всего каналов: 17866
+# Новых за сессию: 84
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;News
 # Каналов: 5
-# Обновлено: 2026-06-23 23:09:38
+# Обновлено: 2026-06-24 01:26:35
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="India TV Aap Ki Adalat [Geo-blocked]" group-title="Documentary;News",India TV Aap Ki Adalat [Geo-blocked]
@@ -2413,3 +2413,23 @@ http://181.78.8.199:8000/play/a0a6/index.m3u8
 http://88.212.15.19/live/test_cnn_pirma_news/playlist.m3u8
 #EXTINF:-1 tvg-name="IRINN (576p)" group-title="News",IRINN (576p)
 http://185.9.2.18/chid_926/index.m3u8
+#EXTINF:-1 tvg-name="Smotrim 100% Fakty" group-title="Documentary",Smotrim 100% Fakty
+https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+#EXTINF:-1 tvg-name="Bharat Samachar (576p)" group-title="News",Bharat Samachar (576p)
+https://trs1.aynaott.com/BharatSamachar/index.m3u8
+#EXTINF:-1 tvg-name="News 1 India (576p)" group-title="News",News 1 India (576p)
+https://trs1.aynaott.com/News1India/index.m3u8
+#EXTINF:-1 tvg-name="CP24 (576p)" group-title="News",CP24 (576p)
+https://trs1.aynaott.com/cp24/index.m3u8
+#EXTINF:-1 tvg-name="BBC Earth Greece" group-title="Documentary",BBC Earth Greece
+http://185.102.171.218/BBCEarth/index.m3u8
+#EXTINF:-1 tvg-name="For You TV" group-title="News",For You TV
+https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8
+#EXTINF:-1 tvg-name="Sky Nature (576p)" group-title="Documentary",Sky Nature (576p)
+https://trs1.aynaott.com/skynature/index.m3u8
+#EXTINF:-1 tvg-name="Canal N (576p)" group-title="News",Canal N (576p)
+http://8.243.126.131:8000/play/a058/index.m3u8
+#EXTINF:-1 tvg-name="Telesur (576p)" group-title="News",Telesur (576p)
+https://edgectc.com/TELESUR/index.m3u8
+#EXTINF:-1 tvg-name="Panafrican Media TV" group-title="News",Panafrican Media TV
+https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8

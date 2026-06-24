@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-23 23:09:37
-# Всего каналов: 17782
-# Новых за сессию: 0
+# Обновлено: 2026-06-24 01:26:34
+# Всего каналов: 17866
+# Новых за сессию: 84
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Family;General
 # Каналов: 2
-# Обновлено: 2026-06-23 23:09:38
+# Обновлено: 2026-06-24 01:26:35
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CWB TV" group-title="Family;General",CWB TV
@@ -5226,3 +5226,19 @@ http://185.9.2.18/chid_205/index.m3u8
 http://185.9.2.18/chid_247/index.m3u8
 #EXTINF:-1 tvg-name="Dubai TV International" group-title="General",Dubai TV International
 http://185.9.2.18/chid_139/index.m3u8
+#EXTINF:-1 tvg-name="1+1 Marafon" group-title="General",1+1 Marafon
+https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
+#EXTINF:-1 tvg-name="DIM" group-title="General",DIM
+https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8
+#EXTINF:-1 tvg-name="CBS (576p)" group-title="General",CBS (576p)
+https://trs1.aynaott.com/cbs/index.m3u8
+#EXTINF:-1 tvg-name="Network 10 (576p)" group-title="General",Network 10 (576p)
+https://trs1.aynaott.com/Network10/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="General",Tele Antillas" group-title="General",like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="General",Tele Antillas
+http://190.122.104.210:5080/LiveApp/streams/C6ngUWmvwMhliYPN3668193473821155.m3u8
+#EXTINF:-1 tvg-name="Unitel Cochabamba" group-title="General",Unitel Cochabamba
+https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8
+#EXTINF:-1 tvg-name="Unitel La Paz" group-title="General",Unitel La Paz
+https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8
+#EXTINF:-1 tvg-name="ORF 1" group-title="General",ORF 1
+http://88.212.15.19/live/test_orf_eins_tizen/playlist.m3u8
