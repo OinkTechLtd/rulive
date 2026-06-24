@@ -1,7 +1,7 @@
 #EXTM3U
-# Обновлено: 2026-06-24 09:30:03
-# Всего каналов: 17866
-# Новых за сессию: 0
+# Обновлено: 2026-06-24 12:07:55
+# Всего каналов: 17867
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
@@ -45469,6 +45469,9 @@ https://secure-272717.tatnet.app/bethoven.af-stream.com:1600/s/kwtlxswl/yes-nick
 
 #EXTINF:-1 tvg-name="TVP ABC 2" group-title="Kids",TVP ABC 2
 https://raw.githubusercontent.com/seyfettinaskar7-sudo/polish-iptv/refs/heads/main/streams/tvpabc2.m3u
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://github.com/smolnp/IPTVru/blob/gh-pages/IPTVstable.m3u8
 
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="IPTV",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8
