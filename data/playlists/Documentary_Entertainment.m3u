@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-25 00:13:50
-# Всего каналов: 17867
-# Новых за сессию: 0
+# Обновлено: 2026-06-25 04:46:30
+# Всего каналов: 17943
+# Новых за сессию: 76
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Entertainment
 # Каналов: 1
-# Обновлено: 2026-06-25 00:13:50
+# Обновлено: 2026-06-25 04:46:31
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="The Nest" group-title="Documentary;Entertainment",The Nest
@@ -1749,6 +1749,8 @@ http://181.78.8.199:8000/play/a0a7/index.m3u8
 https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 #EXTINF:-1 tvg-name="Smotrim 100% Prazdnik" group-title="Entertainment",Smotrim 100% Prazdnik
 https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Entertainment",AXN White" group-title="Entertainment",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Entertainment",AXN White
+http://82.78.243.219:45739/play/a00n/index.m3u8
 #EXTINF:-1 tvg-name="Epic TV" group-title="Entertainment",Epic TV
 http://de.russkoe-iptv.com:88/s/s-e3dc39e0/epic-hd.m3u8
 #EXTINF:-1 tvg-name="Multishow" group-title="Entertainment",Multishow
@@ -1759,3 +1761,25 @@ http://185.102.171.218/BBCEarth/index.m3u8
 https://trs1.aynaott.com/skynature/index.m3u8
 #EXTINF:-1 tvg-name="Hola! TV Latin America" group-title="Entertainment",Hola! TV Latin America
 http://8.243.126.131:8000/play/a0fg/index.m3u8
+#EXTINF:-1 tvg-name="Friday!" group-title="Entertainment",Friday!
+https://adpnetworkhd-cmd.github.io/iptv/FridayHD_Moskva.m3u8
+#EXTINF:-1 tvg-name="K1" group-title="Entertainment",K1
+https://adpnetworkhd-cmd.github.io/iptv/K1.m3u8
+#EXTINF:-1 tvg-name="K2" group-title="Entertainment",K2
+https://adpnetworkhd-cmd.github.io/iptv/K2.m3u8
+#EXTINF:-1 tvg-name="BBC Earth US" group-title="Documentary",BBC Earth US
+https://adpnetworkhd-cmd.github.io/iptv/BBCEarth.m3u8
+#EXTINF:-1 tvg-name="13th Street Universal" group-title="Entertainment",13th Street Universal
+https://adpnetworkhd-cmd.github.io/iptv/13thStreet.m3u8
+#EXTINF:-1 tvg-name="4seven (576p)" group-title="Entertainment",4seven (576p)
+https://adpnetworkhd-cmd.github.io/iptv/4Seven.m3u8
+#EXTINF:-1 tvg-name="5SELECT (576p)" group-title="Entertainment",5SELECT (576p)
+https://adpnetworkhd-cmd.github.io/iptv/5Select.m3u8
+#EXTINF:-1 tvg-name="5STAR (576p)" group-title="Entertainment",5STAR (576p)
+https://adpnetworkhd-cmd.github.io/iptv/5Star.m3u8
+#EXTINF:-1 tvg-name="Blaze (576p)" group-title="Entertainment",Blaze (576p)
+https://adpnetworkhd-cmd.github.io/iptv/Blaze.m3u8
+#EXTINF:-1 tvg-name="Challenge (576p)" group-title="Entertainment",Challenge (576p)
+https://adpnetworkhd-cmd.github.io/iptv/ChallengeUK.m3u8
+#EXTINF:-1 tvg-name="Canal Womtv" group-title="Entertainment",Canal Womtv
+https://live.amelbatv.co:81/womtvlive/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-25 00:13:50
-# Всего каналов: 17867
-# Новых за сессию: 0
+# Обновлено: 2026-06-25 04:46:30
+# Всего каналов: 17943
+# Новых за сессию: 76
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Business;Culture;Lifestyle
 # Каналов: 1
-# Обновлено: 2026-06-25 00:13:50
+# Обновлено: 2026-06-25 04:46:31
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="apart TV" group-title="Business;Culture;Lifestyle",apart TV
@@ -51,6 +51,8 @@ https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 https://amogonetworx-moconomy-2-us.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Домашний (540p) [Geo-blocked]" group-title="Lifestyle",Домашний (540p) [Geo-blocked]
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1 tvg-name="FASHION & LIFESTYLE" group-title="Lifestyle",FASHION & LIFESTYLE
+http://31.148.48.15/Fashion_One_HD/index.m3u8
 #EXTINF:-1 tvg-name="100% News (576p)" group-title="Business;News",100% News (576p)
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-name="ATR" group-title="Culture",ATR

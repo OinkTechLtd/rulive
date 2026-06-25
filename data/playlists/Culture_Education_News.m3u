@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-25 00:13:50
-# Всего каналов: 17867
-# Новых за сессию: 0
+# Обновлено: 2026-06-25 04:46:30
+# Всего каналов: 17943
+# Новых за сессию: 76
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Education;News
 # Каналов: 1
-# Обновлено: 2026-06-25 00:13:50
+# Обновлено: 2026-06-25 04:46:31
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="UMSA TVU LP" group-title="Culture;Education;News",UMSA TVU LP
@@ -2797,6 +2797,8 @@ https://streaming.bitsur.cl:3399/live/vdo532live.m3u8
 https://v1.tustreaming.cl/diarioelcentrotv/index.m3u8
 #EXTINF:-1 tvg-name="GVision (288p)" group-title="Education",GVision (288p)
 https://videostream.chileservidores.com:8081/tome/index.m3u8
+#EXTINF:-1 tvg-name="Euronews Russian" group-title="News",Euronews Russian
+https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 #EXTINF:-1 tvg-name="Africanews English" group-title="News",Africanews English
 https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
 #EXTINF:-1 tvg-name="Euronews Greek" group-title="News",Euronews Greek
@@ -2879,3 +2881,9 @@ https://edgectc.com/TELESUR/index.m3u8
 https://kemettv.cm/memfs/4e7fb105-9f92-4e8d-a7cd-09923f17a577.m3u8
 #EXTINF:-1 tvg-name="Panafrican Media TV" group-title="News",Panafrican Media TV
 https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8
+#EXTINF:-1 tvg-name="English Class" group-title="Education",English Class
+https://adpnetworkhd-cmd.github.io/iptv/EnglishClass.m3u8
+#EXTINF:-1 tvg-name="Gillette Public Access Television Channel 189" group-title="Education",Gillette Public Access Television Channel 189
+https://securestream11.champds.com/LIVE/GilletteWYLIVE3/GilletteWYLIVE3.m3u8
+#EXTINF:-1 tvg-name="HCTV Educational Access Channel" group-title="Education",HCTV Educational Access Channel
+https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-1/live.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-25 00:13:50
-# Всего каналов: 17867
-# Новых за сессию: 0
+# Обновлено: 2026-06-25 04:46:30
+# Всего каналов: 17943
+# Новых за сессию: 76
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;News
 # Каналов: 3
-# Обновлено: 2026-06-25 00:13:50
+# Обновлено: 2026-06-25 04:46:31
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Onda 15 TV (224p)" group-title="Music;News",Onda 15 TV (224p)
@@ -247,6 +247,10 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-name="Муз ТВ (450p) [Geo-blocked]" group-title="Music",Муз ТВ (450p) [Geo-blocked]
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 tvg-name="Europa Plus TV" group-title="Music",Europa Plus TV
+http://31.148.48.15/Europa_Plus_HD/index.m3u8
+#EXTINF:-1 tvg-name="FON Music" group-title="Music",FON Music
+https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
 #EXTINF:-1 tvg-name="24KZ" group-title="News",24KZ
 https://tvcdn01.oktv.kz/tv/24kz/index.m3u8
 #EXTINF:-1 tvg-name="100% News (576p)" group-title="Business;News",100% News (576p)
@@ -3393,6 +3397,8 @@ https://tv.arkeo.cl:1936/8002/8002/playlist.m3u8
 https://oracle.streaminghd.cl/8126/8126/playlist.m3u8
 #EXTINF:-1 tvg-name="RTS Muzika (576p)" group-title="Music",RTS Muzika (576p)
 https://de1.dstv.cx/RTSMuzika/index.m3u8
+#EXTINF:-1 tvg-name="Euronews Russian" group-title="News",Euronews Russian
+https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 #EXTINF:-1 tvg-name="Africanews English" group-title="News",Africanews English
 https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
 #EXTINF:-1 tvg-name="Euronews Greek" group-title="News",Euronews Greek

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-25 00:13:50
-# Всего каналов: 17867
-# Новых за сессию: 0
+# Обновлено: 2026-06-25 04:46:30
+# Всего каналов: 17943
+# Новых за сессию: 76
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Sports
 # Каналов: 3
-# Обновлено: 2026-06-25 00:13:50
+# Обновлено: 2026-06-25 04:46:31
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Entertainment;Sports",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -2011,6 +2011,8 @@ http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6108/index.m3u8
 https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
 #EXTINF:-1 tvg-name="V Sport Golf" group-title="Sports",V Sport Golf
 http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Fast&FunBox" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Fast&FunBox
+https://iptv.prosto.tv/ch120/index.m3u8
 #EXTINF:-1 tvg-name="4ever Theater" group-title="Entertainment",4ever Theater
 https://iptv.prosto.tv/ch37/tracks-v2a1/mono.m3u8?live=1&ip=178.136.40.86&id=922996&secret=yamxdzwl&21yo=0&e=1783680395&st=OWDBi-vxSZADl0oF8lHHxw
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment",ICTV" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment",ICTV
@@ -2269,6 +2271,8 @@ http://45.4.1.201:8000/play/a19y/index.m3u8
 http://181.78.8.199:8000/play/a0a7/index.m3u8
 #EXTINF:-1 tvg-name="Smotrim 100% Prazdnik" group-title="Entertainment",Smotrim 100% Prazdnik
 https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Entertainment",AXN White" group-title="Entertainment",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Entertainment",AXN White
+http://82.78.243.219:45739/play/a00n/index.m3u8
 #EXTINF:-1 tvg-name="Epic TV" group-title="Entertainment",Epic TV
 http://de.russkoe-iptv.com:88/s/s-e3dc39e0/epic-hd.m3u8
 #EXTINF:-1 tvg-name="Multishow" group-title="Entertainment",Multishow
@@ -2277,3 +2281,27 @@ http://143.14.178.40:7777/Multishow_HD/index.m3u8
 https://edgectc.com/DEPORTES_CTC_PLUS/index.m3u8
 #EXTINF:-1 tvg-name="Hola! TV Latin America" group-title="Entertainment",Hola! TV Latin America
 http://8.243.126.131:8000/play/a0fg/index.m3u8
+#EXTINF:-1 tvg-name="Friday!" group-title="Entertainment",Friday!
+https://adpnetworkhd-cmd.github.io/iptv/FridayHD_Moskva.m3u8
+#EXTINF:-1 tvg-name="K1" group-title="Entertainment",K1
+https://adpnetworkhd-cmd.github.io/iptv/K1.m3u8
+#EXTINF:-1 tvg-name="K2" group-title="Entertainment",K2
+https://adpnetworkhd-cmd.github.io/iptv/K2.m3u8
+#EXTINF:-1 tvg-name="Belarus-5" group-title="Sports",Belarus-5
+https://adpnetworkhd-cmd.github.io/iptv/Belarus5.m3u8
+#EXTINF:-1 tvg-name="13th Street Universal" group-title="Entertainment",13th Street Universal
+https://adpnetworkhd-cmd.github.io/iptv/13thStreet.m3u8
+#EXTINF:-1 tvg-name="Gol" group-title="Sports",Gol
+https://adpnetworkhd-cmd.github.io/iptv/GOL.m3u8
+#EXTINF:-1 tvg-name="4seven (576p)" group-title="Entertainment",4seven (576p)
+https://adpnetworkhd-cmd.github.io/iptv/4Seven.m3u8
+#EXTINF:-1 tvg-name="5SELECT (576p)" group-title="Entertainment",5SELECT (576p)
+https://adpnetworkhd-cmd.github.io/iptv/5Select.m3u8
+#EXTINF:-1 tvg-name="5STAR (576p)" group-title="Entertainment",5STAR (576p)
+https://adpnetworkhd-cmd.github.io/iptv/5Star.m3u8
+#EXTINF:-1 tvg-name="Blaze (576p)" group-title="Entertainment",Blaze (576p)
+https://adpnetworkhd-cmd.github.io/iptv/Blaze.m3u8
+#EXTINF:-1 tvg-name="Challenge (576p)" group-title="Entertainment",Challenge (576p)
+https://adpnetworkhd-cmd.github.io/iptv/ChallengeUK.m3u8
+#EXTINF:-1 tvg-name="Canal Womtv" group-title="Entertainment",Canal Womtv
+https://live.amelbatv.co:81/womtvlive/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-25 00:13:50
-# Всего каналов: 17867
-# Новых за сессию: 0
+# Обновлено: 2026-06-25 04:46:30
+# Всего каналов: 17943
+# Новых за сессию: 76
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Music
 # Каналов: 1
-# Обновлено: 2026-06-25 00:13:50
+# Обновлено: 2026-06-25 04:46:31
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Zhara Kids TV (576p)" group-title="Kids;Music",Zhara Kids TV (576p)
@@ -83,6 +83,10 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 https://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 tvg-name="Муз ТВ (450p) [Geo-blocked]" group-title="Music",Муз ТВ (450p) [Geo-blocked]
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 tvg-name="Europa Plus TV" group-title="Music",Europa Plus TV
+http://31.148.48.15/Europa_Plus_HD/index.m3u8
+#EXTINF:-1 tvg-name="FON Music" group-title="Music",FON Music
+https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
 #EXTINF:-1 tvg-name="Gulli Girl" group-title="Kids",Gulli Girl
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Detski mir (576p)" group-title="Kids",Detski mir (576p)
@@ -2089,3 +2093,9 @@ http://bethoven.af-stream.com:1600/s/kwtlxswl/hop-childhood-il/video.m3u8
 http://bethoven.af-stream.com:1600/s/kwtlxswl/junior-il/video.m3u8
 #EXTINF:-1 tvg-name="TVP ABC 2" group-title="Kids",TVP ABC 2
 https://raw.githubusercontent.com/seyfettinaskar7-sudo/polish-iptv/refs/heads/main/streams/tvpabc2.m3u
+#EXTINF:-1 tvg-name="Kapitan Fantastika" group-title="Kids",Kapitan Fantastika
+https://adpnetworkhd-cmd.github.io/iptv/KapitanFantastikaHD.m3u8
+#EXTINF:-1 tvg-name="Cocuk Smart" group-title="Kids",Cocuk Smart
+https://adpnetworkhd-cmd.github.io/iptv/CocukSmart.m3u8
+#EXTINF:-1 tvg-name="Aqlvoy (576p)" group-title="Kids",Aqlvoy (576p)
+https://adpnetworkhd-cmd.github.io/iptv/Aqlvoy.m3u8

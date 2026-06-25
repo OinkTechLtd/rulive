@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-25 00:13:50
-# Всего каналов: 17867
-# Новых за сессию: 0
+# Обновлено: 2026-06-25 04:46:30
+# Всего каналов: 17943
+# Новых за сессию: 76
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Music
 # Каналов: 3
-# Обновлено: 2026-06-25 00:13:50
+# Обновлено: 2026-06-25 04:46:31
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ACW UG TV (480p)" group-title="General;Music",ACW UG TV (480p)
@@ -245,6 +245,10 @@ https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
 #EXTINF:-1 tvg-name="Кубань 24 [Geo-blocked]" group-title="General",Кубань 24 [Geo-blocked]
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+#EXTINF:-1 tvg-name="Europa Plus TV" group-title="Music",Europa Plus TV
+http://31.148.48.15/Europa_Plus_HD/index.m3u8
+#EXTINF:-1 tvg-name="FON Music" group-title="Music",FON Music
+https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
 #EXTINF:-1 tvg-name="ARTN TV" group-title="General",ARTN TV
 https://streamer1.connectto.com/ARTN_mobile/index.m3u8
 #EXTINF:-1 tvg-name="Bălţi TV [Geo-blocked]" group-title="General",Bălţi TV [Geo-blocked]
@@ -6573,3 +6577,21 @@ https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8
 https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8
 #EXTINF:-1 tvg-name="ORF 1" group-title="General",ORF 1
 http://88.212.15.19/live/test_orf_eins_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="Access 4 PAC" group-title="General",Access 4 PAC
+https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-16/live/stream-4/live.m3u8
+#EXTINF:-1 tvg-name="Gillette Public Access Television Channel 190" group-title="General",Gillette Public Access Television Channel 190
+https://securestream11.champds.com/LIVE/GilletteWYLIVE/GilletteWYLIVE.m3u8
+#EXTINF:-1 tvg-name="HCTV Public Access Channel" group-title="General",HCTV Public Access Channel
+https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-5/live.m3u8
+#EXTINF:-1 tvg-name="Duo 3" group-title="General",Duo 3
+https://adpnetworkhd-cmd.github.io/iptv/Duo3.m3u8
+#EXTINF:-1 tvg-name="Channel 4 UK" group-title="General",Channel 4 UK
+https://adpnetworkhd-cmd.github.io/iptv/Channel4.m3u8
+#EXTINF:-1 tvg-name="DBS TV" group-title="General",DBS TV
+https://stream.dbstvstlucia.com/hls/dbstv_main.m3u8
+#EXTINF:-1 tvg-name="Huila TV" group-title="General",Huila TV
+https://server.asilivehd.com:3333/live/huilatvlive.m3u8
+#EXTINF:-1 tvg-name="GMS TV" group-title="General",GMS TV
+https://acasmedia6.acangroup.org/gmstv/gmstv_output/playlist.m3u8
+#EXTINF:-1 tvg-name="SIC [Geo-blocked]" group-title="General",SIC [Geo-blocked]
+https://sic.live.impresa.pt/sic.m3u8

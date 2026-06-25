@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-25 00:13:50
-# Всего каналов: 17867
-# Новых за сессию: 0
+# Обновлено: 2026-06-25 04:46:30
+# Всего каналов: 17943
+# Новых за сессию: 76
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Cooking;Documentary
 # Каналов: 2
-# Обновлено: 2026-06-25 00:13:50
+# Обновлено: 2026-06-25 04:46:31
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pluto TV Food" group-title="Cooking;Documentary",Pluto TV Food
@@ -422,3 +422,9 @@ https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 http://185.102.171.218/BBCEarth/index.m3u8
 #EXTINF:-1 tvg-name="Sky Nature (576p)" group-title="Documentary",Sky Nature (576p)
 https://trs1.aynaott.com/skynature/index.m3u8
+#EXTINF:-1 tvg-name="Eda (576p)" group-title="Cooking",Eda (576p)
+https://adpnetworkhd-cmd.github.io/iptv/Eda.m3u8
+#EXTINF:-1 tvg-name="FoodTime" group-title="Cooking",FoodTime
+https://adpnetworkhd-cmd.github.io/iptv/FoodTimeHD.m3u8
+#EXTINF:-1 tvg-name="BBC Earth US" group-title="Documentary",BBC Earth US
+https://adpnetworkhd-cmd.github.io/iptv/BBCEarth.m3u8

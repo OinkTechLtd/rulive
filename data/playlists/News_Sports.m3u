@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-25 00:13:50
-# Всего каналов: 17867
-# Новых за сессию: 0
+# Обновлено: 2026-06-25 04:46:30
+# Всего каналов: 17943
+# Новых за сессию: 76
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News;Sports
 # Каналов: 3
-# Обновлено: 2026-06-25 00:13:50
+# Обновлено: 2026-06-25 04:46:31
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Africa 24 Sport" group-title="News;Sports",Africa 24 Sport
@@ -2717,6 +2717,8 @@ https://s6.hopslan.com/n24X/index.m3u8
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinfotv.m3u8
 #EXTINF:-1 tvg-name="V Sport Golf" group-title="Sports",V Sport Golf
 http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Fast&FunBox" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Fast&FunBox
+https://iptv.prosto.tv/ch120/index.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 2 (480p)" group-title="Sports",Fox Sports 2 (480p)
 https://tvsen7.aynaott.com/foxsports2/index.m3u8
 #EXTINF:-1 tvg-name="Willow" group-title="Sports",Willow
@@ -2851,6 +2853,8 @@ http://23.237.104.106:8080/USA_NESN/index.m3u8
 https://webtvstream.bhtelecom.ba/hls7/fightbox.m3u8
 #EXTINF:-1 tvg-name="El Centro TV" group-title="News",El Centro TV
 https://v1.tustreaming.cl/diarioelcentrotv/index.m3u8
+#EXTINF:-1 tvg-name="Euronews Russian" group-title="News",Euronews Russian
+https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 #EXTINF:-1 tvg-name="Africanews English" group-title="News",Africanews English
 https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
 #EXTINF:-1 tvg-name="Euronews Greek" group-title="News",Euronews Greek
@@ -2951,3 +2955,7 @@ http://8.243.126.131:8000/play/a058/index.m3u8
 https://edgectc.com/TELESUR/index.m3u8
 #EXTINF:-1 tvg-name="Panafrican Media TV" group-title="News",Panafrican Media TV
 https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8
+#EXTINF:-1 tvg-name="Belarus-5" group-title="Sports",Belarus-5
+https://adpnetworkhd-cmd.github.io/iptv/Belarus5.m3u8
+#EXTINF:-1 tvg-name="Gol" group-title="Sports",Gol
+https://adpnetworkhd-cmd.github.io/iptv/GOL.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-25 00:13:50
-# Всего каналов: 17867
-# Новых за сессию: 0
+# Обновлено: 2026-06-25 04:46:30
+# Всего каналов: 17943
+# Новых за сессию: 76
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Cooking
-# Каналов: 31
-# Обновлено: 2026-06-25 00:13:50
+# Каналов: 33
+# Обновлено: 2026-06-25 04:46:31
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Кухня ТВ (576p)" group-title="Cooking",Кухня ТВ (576p)
@@ -102,6 +102,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/tastemade-aus-tmina-ra
 
 #EXTINF:-1 tvg-name="Telecafe" group-title="Cooking",Telecafe
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tchaikovsky.af-stream.com:991/s/xzztutfc/telekafe-hd/video.m3u8
+
+#EXTINF:-1 tvg-name="Eda (576p)" group-title="Cooking",Eda (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/adpnetworkhd-cmd.github.io/iptv/Eda.m3u8
+
+#EXTINF:-1 tvg-name="FoodTime" group-title="Cooking",FoodTime
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/adpnetworkhd-cmd.github.io/iptv/FoodTimeHD.m3u8
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Cooking",Телекафе" group-title="Cooking",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Cooking",Телекафе
 https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8

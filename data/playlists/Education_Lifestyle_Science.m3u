@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-25 00:13:50
-# Всего каналов: 17867
-# Новых за сессию: 0
+# Обновлено: 2026-06-25 04:46:30
+# Всего каналов: 17943
+# Новых за сессию: 76
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Lifestyle;Science
 # Каналов: 1
-# Обновлено: 2026-06-25 00:13:50
+# Обновлено: 2026-06-25 04:46:31
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Jilin Rural Channel" group-title="Education;Lifestyle;Science",Jilin Rural Channel
@@ -33,6 +33,8 @@ https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 https://tv-e-okul02.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="Домашний (540p) [Geo-blocked]" group-title="Lifestyle",Домашний (540p) [Geo-blocked]
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1 tvg-name="FASHION & LIFESTYLE" group-title="Lifestyle",FASHION & LIFESTYLE
+http://31.148.48.15/Fashion_One_HD/index.m3u8
 #EXTINF:-1 tvg-name="Доктор" group-title="Education;Lifestyle",Доктор
 http://31.148.48.15/Doktor/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Lifestyle",Домашний International" group-title="Lifestyle",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Lifestyle",Домашний International
@@ -753,3 +755,9 @@ https://edgectc.com/TEC_HD/index.m3u8
 https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-name="36.6 TV" group-title="Lifestyle",36.6 TV
 https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8
+#EXTINF:-1 tvg-name="English Class" group-title="Education",English Class
+https://adpnetworkhd-cmd.github.io/iptv/EnglishClass.m3u8
+#EXTINF:-1 tvg-name="Gillette Public Access Television Channel 189" group-title="Education",Gillette Public Access Television Channel 189
+https://securestream11.champds.com/LIVE/GilletteWYLIVE3/GilletteWYLIVE3.m3u8
+#EXTINF:-1 tvg-name="HCTV Educational Access Channel" group-title="Education",HCTV Educational Access Channel
+https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-1/live.m3u8

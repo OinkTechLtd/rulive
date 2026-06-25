@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-25 00:13:50
-# Всего каналов: 17867
-# Новых за сессию: 0
+# Обновлено: 2026-06-25 04:46:30
+# Всего каналов: 17943
+# Новых за сессию: 76
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Lifestyle;Music;News
 # Каналов: 1
-# Обновлено: 2026-06-25 00:13:50
+# Обновлено: 2026-06-25 04:46:31
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CEACOM TV" group-title="General;Lifestyle;Music;News",CEACOM TV
@@ -417,6 +417,12 @@ https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
 #EXTINF:-1 tvg-name="Кубань 24 [Geo-blocked]" group-title="General",Кубань 24 [Geo-blocked]
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+#EXTINF:-1 tvg-name="Europa Plus TV" group-title="Music",Europa Plus TV
+http://31.148.48.15/Europa_Plus_HD/index.m3u8
+#EXTINF:-1 tvg-name="FASHION & LIFESTYLE" group-title="Lifestyle",FASHION & LIFESTYLE
+http://31.148.48.15/Fashion_One_HD/index.m3u8
+#EXTINF:-1 tvg-name="FON Music" group-title="Music",FON Music
+https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
 #EXTINF:-1 tvg-name="24KZ" group-title="News",24KZ
 https://tvcdn01.oktv.kz/tv/24kz/index.m3u8
 #EXTINF:-1 tvg-name="100% News (576p)" group-title="Business;News",100% News (576p)
@@ -8393,6 +8399,8 @@ https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd321166884522124
 https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8
 #EXTINF:-1 tvg-name="RTS Muzika (576p)" group-title="Music",RTS Muzika (576p)
 https://de1.dstv.cx/RTSMuzika/index.m3u8
+#EXTINF:-1 tvg-name="Euronews Russian" group-title="News",Euronews Russian
+https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 #EXTINF:-1 tvg-name="Africanews English" group-title="News",Africanews English
 https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
 #EXTINF:-1 tvg-name="Willax TV" group-title="General",Willax TV
@@ -8821,3 +8829,21 @@ https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8
 http://88.212.15.19/live/test_orf_eins_tizen/playlist.m3u8
 #EXTINF:-1 tvg-name="Panafrican Media TV" group-title="News",Panafrican Media TV
 https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8
+#EXTINF:-1 tvg-name="Access 4 PAC" group-title="General",Access 4 PAC
+https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-16/live/stream-4/live.m3u8
+#EXTINF:-1 tvg-name="Gillette Public Access Television Channel 190" group-title="General",Gillette Public Access Television Channel 190
+https://securestream11.champds.com/LIVE/GilletteWYLIVE/GilletteWYLIVE.m3u8
+#EXTINF:-1 tvg-name="HCTV Public Access Channel" group-title="General",HCTV Public Access Channel
+https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-5/live.m3u8
+#EXTINF:-1 tvg-name="Duo 3" group-title="General",Duo 3
+https://adpnetworkhd-cmd.github.io/iptv/Duo3.m3u8
+#EXTINF:-1 tvg-name="Channel 4 UK" group-title="General",Channel 4 UK
+https://adpnetworkhd-cmd.github.io/iptv/Channel4.m3u8
+#EXTINF:-1 tvg-name="DBS TV" group-title="General",DBS TV
+https://stream.dbstvstlucia.com/hls/dbstv_main.m3u8
+#EXTINF:-1 tvg-name="Huila TV" group-title="General",Huila TV
+https://server.asilivehd.com:3333/live/huilatvlive.m3u8
+#EXTINF:-1 tvg-name="GMS TV" group-title="General",GMS TV
+https://acasmedia6.acangroup.org/gmstv/gmstv_output/playlist.m3u8
+#EXTINF:-1 tvg-name="SIC [Geo-blocked]" group-title="General",SIC [Geo-blocked]
+https://sic.live.impresa.pt/sic.m3u8

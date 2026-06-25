@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-25 00:13:50
-# Всего каналов: 17867
-# Новых за сессию: 0
+# Обновлено: 2026-06-25 04:46:30
+# Всего каналов: 17943
+# Новых за сессию: 76
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;Sports
 # Каналов: 1
-# Обновлено: 2026-06-25 00:13:50
+# Обновлено: 2026-06-25 04:46:31
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RTI La 3" group-title="Music;Sports",RTI La 3
@@ -87,6 +87,10 @@ https://live.m2.tv/hls3/stream.m3u8
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Муз ТВ (450p) [Geo-blocked]" group-title="Music",Муз ТВ (450p) [Geo-blocked]
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 tvg-name="Europa Plus TV" group-title="Music",Europa Plus TV
+http://31.148.48.15/Europa_Plus_HD/index.m3u8
+#EXTINF:-1 tvg-name="FON Music" group-title="Music",FON Music
+https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
 #EXTINF:-1 tvg-name="KHL" group-title="Sports",KHL
 http://31.148.48.15/KHL_TV/index.m3u8
 #EXTINF:-1 tvg-name="Alterna TV" group-title="Culture;Documentary;Entertainment;General;Movies;Music",Alterna TV
@@ -2053,6 +2057,8 @@ http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/19172/index.m3u8
 http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/19174/index.m3u8
 #EXTINF:-1 tvg-name="Eska TV Extra" group-title="Music",Eska TV Extra
 http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/19173/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Fast&FunBox" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Fast&FunBox
+https://iptv.prosto.tv/ch120/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Music",MCM Top (576p)" group-title="Music",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Music",MCM Top (576p)
 https://iptv.prosto.tv/ch137/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Music",4ever Music" group-title="Music",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Music",4ever Music
@@ -2309,3 +2315,7 @@ https://tv.mediacp.eu:8081/happyradio/index.m3u8
 http://143.14.178.40:7777/Music_Box_HD/index.m3u8
 #EXTINF:-1 tvg-name="DeporTV" group-title="Sports",DeporTV
 https://edgectc.com/DEPORTES_CTC_PLUS/index.m3u8
+#EXTINF:-1 tvg-name="Belarus-5" group-title="Sports",Belarus-5
+https://adpnetworkhd-cmd.github.io/iptv/Belarus5.m3u8
+#EXTINF:-1 tvg-name="Gol" group-title="Sports",Gol
+https://adpnetworkhd-cmd.github.io/iptv/GOL.m3u8

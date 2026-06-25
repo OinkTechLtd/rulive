@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-25 00:13:50
-# Всего каналов: 17867
-# Новых за сессию: 0
+# Обновлено: 2026-06-25 04:46:30
+# Всего каналов: 17943
+# Новых за сессию: 76
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;General;Kids
 # Каналов: 2
-# Обновлено: 2026-06-25 00:13:50
+# Обновлено: 2026-06-25 04:46:31
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="BBC Four/CBeebies [Geo-Blocked]" group-title="Animation;General;Kids",BBC Four/CBeebies [Geo-Blocked]
@@ -204,6 +204,8 @@ https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
 #EXTINF:-1 tvg-name="Кубань 24 [Geo-blocked]" group-title="General",Кубань 24 [Geo-blocked]
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+#EXTINF:-1 tvg-name="FAN" group-title="Animation;Movies",FAN
+http://31.148.48.15/Fan/index.m3u8
 #EXTINF:-1 tvg-name="Gulli Girl" group-title="Kids",Gulli Girl
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="ARTN TV" group-title="General",ARTN TV
@@ -5870,3 +5872,27 @@ http://bethoven.af-stream.com:1600/s/kwtlxswl/hop-childhood-il/video.m3u8
 http://bethoven.af-stream.com:1600/s/kwtlxswl/junior-il/video.m3u8
 #EXTINF:-1 tvg-name="TVP ABC 2" group-title="Kids",TVP ABC 2
 https://raw.githubusercontent.com/seyfettinaskar7-sudo/polish-iptv/refs/heads/main/streams/tvpabc2.m3u
+#EXTINF:-1 tvg-name="Kapitan Fantastika" group-title="Kids",Kapitan Fantastika
+https://adpnetworkhd-cmd.github.io/iptv/KapitanFantastikaHD.m3u8
+#EXTINF:-1 tvg-name="Access 4 PAC" group-title="General",Access 4 PAC
+https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-16/live/stream-4/live.m3u8
+#EXTINF:-1 tvg-name="Gillette Public Access Television Channel 190" group-title="General",Gillette Public Access Television Channel 190
+https://securestream11.champds.com/LIVE/GilletteWYLIVE/GilletteWYLIVE.m3u8
+#EXTINF:-1 tvg-name="HCTV Public Access Channel" group-title="General",HCTV Public Access Channel
+https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-5/live.m3u8
+#EXTINF:-1 tvg-name="Cocuk Smart" group-title="Kids",Cocuk Smart
+https://adpnetworkhd-cmd.github.io/iptv/CocukSmart.m3u8
+#EXTINF:-1 tvg-name="Aqlvoy (576p)" group-title="Kids",Aqlvoy (576p)
+https://adpnetworkhd-cmd.github.io/iptv/Aqlvoy.m3u8
+#EXTINF:-1 tvg-name="Duo 3" group-title="General",Duo 3
+https://adpnetworkhd-cmd.github.io/iptv/Duo3.m3u8
+#EXTINF:-1 tvg-name="Channel 4 UK" group-title="General",Channel 4 UK
+https://adpnetworkhd-cmd.github.io/iptv/Channel4.m3u8
+#EXTINF:-1 tvg-name="DBS TV" group-title="General",DBS TV
+https://stream.dbstvstlucia.com/hls/dbstv_main.m3u8
+#EXTINF:-1 tvg-name="Huila TV" group-title="General",Huila TV
+https://server.asilivehd.com:3333/live/huilatvlive.m3u8
+#EXTINF:-1 tvg-name="GMS TV" group-title="General",GMS TV
+https://acasmedia6.acangroup.org/gmstv/gmstv_output/playlist.m3u8
+#EXTINF:-1 tvg-name="SIC [Geo-blocked]" group-title="General",SIC [Geo-blocked]
+https://sic.live.impresa.pt/sic.m3u8

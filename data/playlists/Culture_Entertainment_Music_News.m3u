@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-25 00:13:50
-# Всего каналов: 17867
-# Новых за сессию: 0
+# Обновлено: 2026-06-25 04:46:30
+# Всего каналов: 17943
+# Новых за сессию: 76
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Entertainment;Music;News
 # Каналов: 1
-# Обновлено: 2026-06-25 00:13:50
+# Обновлено: 2026-06-25 04:46:31
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Vĩnh Long TV5 [Geo-blocked]" group-title="Culture;Entertainment;Music;News",Vĩnh Long TV5 [Geo-blocked]
@@ -279,6 +279,10 @@ https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 tvg-name="Муз ТВ (450p) [Geo-blocked]" group-title="Music",Муз ТВ (450p) [Geo-blocked]
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 tvg-name="Europa Plus TV" group-title="Music",Europa Plus TV
+http://31.148.48.15/Europa_Plus_HD/index.m3u8
+#EXTINF:-1 tvg-name="FON Music" group-title="Music",FON Music
+https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
 #EXTINF:-1 tvg-name="24KZ" group-title="News",24KZ
 https://tvcdn01.oktv.kz/tv/24kz/index.m3u8
 #EXTINF:-1 tvg-name="100% News (576p)" group-title="Business;News",100% News (576p)
@@ -4957,6 +4961,8 @@ https://oracle.streaminghd.cl/8126/8126/playlist.m3u8
 https://v1.tustreaming.cl/melinkana/index.m3u8
 #EXTINF:-1 tvg-name="RTS Muzika (576p)" group-title="Music",RTS Muzika (576p)
 https://de1.dstv.cx/RTSMuzika/index.m3u8
+#EXTINF:-1 tvg-name="Euronews Russian" group-title="News",Euronews Russian
+https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 #EXTINF:-1 tvg-name="Pluto TV ANIME GO!" group-title="Entertainment",Pluto TV ANIME GO!
 https://jmp2.uk/plu-691b3669c48674840c3b832a.m3u8
 #EXTINF:-1 tvg-name="Africanews English" group-title="News",Africanews English
@@ -5169,6 +5175,8 @@ https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
 https://trs1.aynaott.com/discoverykids/index.m3u8
 #EXTINF:-1 tvg-name="Happy Radio TV" group-title="Music",Happy Radio TV
 https://tv.mediacp.eu:8081/happyradio/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Entertainment",AXN White" group-title="Entertainment",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Entertainment",AXN White
+http://82.78.243.219:45739/play/a00n/index.m3u8
 #EXTINF:-1 tvg-name="Bharat Samachar (576p)" group-title="News",Bharat Samachar (576p)
 https://trs1.aynaott.com/BharatSamachar/index.m3u8
 #EXTINF:-1 tvg-name="Epic TV" group-title="Entertainment",Epic TV
@@ -5199,3 +5207,23 @@ https://edgectc.com/TELESUR/index.m3u8
 https://kemettv.cm/memfs/4e7fb105-9f92-4e8d-a7cd-09923f17a577.m3u8
 #EXTINF:-1 tvg-name="Panafrican Media TV" group-title="News",Panafrican Media TV
 https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8
+#EXTINF:-1 tvg-name="Friday!" group-title="Entertainment",Friday!
+https://adpnetworkhd-cmd.github.io/iptv/FridayHD_Moskva.m3u8
+#EXTINF:-1 tvg-name="K1" group-title="Entertainment",K1
+https://adpnetworkhd-cmd.github.io/iptv/K1.m3u8
+#EXTINF:-1 tvg-name="K2" group-title="Entertainment",K2
+https://adpnetworkhd-cmd.github.io/iptv/K2.m3u8
+#EXTINF:-1 tvg-name="13th Street Universal" group-title="Entertainment",13th Street Universal
+https://adpnetworkhd-cmd.github.io/iptv/13thStreet.m3u8
+#EXTINF:-1 tvg-name="4seven (576p)" group-title="Entertainment",4seven (576p)
+https://adpnetworkhd-cmd.github.io/iptv/4Seven.m3u8
+#EXTINF:-1 tvg-name="5SELECT (576p)" group-title="Entertainment",5SELECT (576p)
+https://adpnetworkhd-cmd.github.io/iptv/5Select.m3u8
+#EXTINF:-1 tvg-name="5STAR (576p)" group-title="Entertainment",5STAR (576p)
+https://adpnetworkhd-cmd.github.io/iptv/5Star.m3u8
+#EXTINF:-1 tvg-name="Blaze (576p)" group-title="Entertainment",Blaze (576p)
+https://adpnetworkhd-cmd.github.io/iptv/Blaze.m3u8
+#EXTINF:-1 tvg-name="Challenge (576p)" group-title="Entertainment",Challenge (576p)
+https://adpnetworkhd-cmd.github.io/iptv/ChallengeUK.m3u8
+#EXTINF:-1 tvg-name="Canal Womtv" group-title="Entertainment",Canal Womtv
+https://live.amelbatv.co:81/womtvlive/index.m3u8

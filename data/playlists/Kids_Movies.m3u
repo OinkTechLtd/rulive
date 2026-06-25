@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-25 00:13:50
-# Всего каналов: 17867
-# Новых за сессию: 0
+# Обновлено: 2026-06-25 04:46:30
+# Всего каналов: 17943
+# Новых за сессию: 76
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Movies
 # Каналов: 2
-# Обновлено: 2026-06-25 00:13:50
+# Обновлено: 2026-06-25 04:46:31
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="KidsFlix" group-title="Kids;Movies",KidsFlix
@@ -80,6 +80,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d5
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=115&deviceId=591105034c1806b47438342c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Film Detective" group-title="VOD Movies (EN)",Film Detective
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
+#EXTINF:-1 tvg-name="FAN" group-title="Animation;Movies",FAN
+http://31.148.48.15/Fan/index.m3u8
 #EXTINF:-1 tvg-name="Gulli Girl" group-title="Kids",Gulli Girl
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Hollywood" group-title="Movies",Hollywood
@@ -1832,6 +1834,10 @@ http://143.14.178.40:7777/Gloob_HD/index.m3u8
 http://143.14.178.40:7777/Gloobinho_HD/index.m3u8
 #EXTINF:-1 tvg-name="Plim Plim" group-title="Animation;Kids",Plim Plim
 http://8.243.126.131:8000/play/a0od/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Movies",AXN Black Romania" group-title="Movies",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Movies",AXN Black Romania
+http://82.78.243.219:45739/play/a00e/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Movies",AXN CEE Romania" group-title="Movies",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Movies",AXN CEE Romania
+http://82.78.243.219:45739/play/a01n/index.m3u8
 #EXTINF:-1 tvg-name="BabyTV Netherlands (576p)" group-title="Kids",BabyTV Netherlands (576p)
 http://185.102.171.218/BabyTV/index.m3u8
 #EXTINF:-1 tvg-name="BabyTV UK" group-title="Kids",BabyTV UK
@@ -1840,9 +1846,31 @@ https://trs1.aynaott.com/babytv/index.m3u8
 http://185.102.171.218/DisneyChannel/index.m3u8
 #EXTINF:-1 tvg-name="Reino Infantil" group-title="Kids",Reino Infantil
 https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Movies",TV1000" group-title="Movies",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Movies",TV1000
+http://82.78.243.219:45739/play/a01b/index.m3u8
 #EXTINF:-1 tvg-name="Hop! (576p)" group-title="Kids",Hop! (576p)
 http://bethoven.af-stream.com:1600/s/kwtlxswl/hop-childhood-il/video.m3u8
 #EXTINF:-1 tvg-name="Junior (576p)" group-title="Kids",Junior (576p)
 http://bethoven.af-stream.com:1600/s/kwtlxswl/junior-il/video.m3u8
 #EXTINF:-1 tvg-name="TVP ABC 2" group-title="Kids",TVP ABC 2
 https://raw.githubusercontent.com/seyfettinaskar7-sudo/polish-iptv/refs/heads/main/streams/tvpabc2.m3u
+#EXTINF:-1 tvg-name="Feniks plus Kino (576p)" group-title="Movies",Feniks plus Kino (576p)
+https://adpnetworkhd-cmd.github.io/iptv/FeniksPlusKino.m3u8
+#EXTINF:-1 tvg-name="Kapitan Fantastika" group-title="Kids",Kapitan Fantastika
+https://adpnetworkhd-cmd.github.io/iptv/KapitanFantastikaHD.m3u8
+#EXTINF:-1 tvg-name="Kinosemja" group-title="Movies",Kinosemja
+https://adpnetworkhd-cmd.github.io/iptv/Kinosemya.m3u8
+#EXTINF:-1 tvg-name="Lyubimoe" group-title="Movies",Lyubimoe
+https://adpnetworkhd-cmd.github.io/iptv/LubimoeHD.m3u8
+#EXTINF:-1 tvg-name="Bolt (576p)" group-title="Movies;Series",Bolt (576p)
+https://adpnetworkhd-cmd.github.io/iptv/BoltUA.m3u8
+#EXTINF:-1 tvg-name="Enter-Film" group-title="Movies",Enter-Film
+https://adpnetworkhd-cmd.github.io/iptv/Enterfilm.m3u8
+#EXTINF:-1 tvg-name="AXN Movies" group-title="Movies",AXN Movies
+https://adpnetworkhd-cmd.github.io/iptv/AXNMoviesSpain.m3u8
+#EXTINF:-1 tvg-name="Cocuk Smart" group-title="Kids",Cocuk Smart
+https://adpnetworkhd-cmd.github.io/iptv/CocukSmart.m3u8
+#EXTINF:-1 tvg-name="Aqlvoy (576p)" group-title="Kids",Aqlvoy (576p)
+https://adpnetworkhd-cmd.github.io/iptv/Aqlvoy.m3u8
+#EXTINF:-1 tvg-name="Cine35mm" group-title="Movies",Cine35mm
+https://micanal.ovh/livestreams/262.D9DCDM7EXNRT.m3u8

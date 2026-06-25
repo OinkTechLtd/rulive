@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-25 00:13:50
-# Всего каналов: 17867
-# Новых за сессию: 0
+# Обновлено: 2026-06-25 04:46:30
+# Всего каналов: 17943
+# Новых за сессию: 76
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Movies;Series;Sports
 # Каналов: 2
-# Обновлено: 2026-06-25 00:13:50
+# Обновлено: 2026-06-25 04:46:31
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="USA Network East" group-title="Comedy;Movies;Series;Sports",USA Network East
@@ -90,6 +90,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b4743
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 #EXTINF:-1 tvg-name="Failarmy" group-title="Comedy",Failarmy
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="FAN" group-title="Animation;Movies",FAN
+http://31.148.48.15/Fan/index.m3u8
 #EXTINF:-1 tvg-name="Hollywood" group-title="Movies",Hollywood
 http://31.148.48.15/MGM_HD/index.m3u8
 #EXTINF:-1 tvg-name="KHL" group-title="Sports",KHL
@@ -2444,6 +2446,8 @@ http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/12060/index.m3u8
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6944/index.m3u8
 #EXTINF:-1 tvg-name="V Sport Golf" group-title="Sports",V Sport Golf
 http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Fast&FunBox" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Fast&FunBox
+https://iptv.prosto.tv/ch120/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",4ever Cinema" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",4ever Cinema
 https://iptv.prosto.tv/ch42/index.m3u8
 #EXTINF:-1 tvg-name="4ever Drama" group-title="Series",4ever Drama
@@ -2758,3 +2762,33 @@ https://trs1.aynaott.com/laff/index.m3u8
 https://trs1.aynaott.com/andtvhd/index.m3u8
 #EXTINF:-1 tvg-name="DeporTV" group-title="Sports",DeporTV
 https://edgectc.com/DEPORTES_CTC_PLUS/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Movies",AXN Black Romania" group-title="Movies",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Movies",AXN Black Romania
+http://82.78.243.219:45739/play/a00e/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Movies",AXN CEE Romania" group-title="Movies",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Movies",AXN CEE Romania
+http://82.78.243.219:45739/play/a01n/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Movies",TV1000" group-title="Movies",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Movies",TV1000
+http://82.78.243.219:45739/play/a01b/index.m3u8
+#EXTINF:-1 tvg-name="Feniks plus Kino (576p)" group-title="Movies",Feniks plus Kino (576p)
+https://adpnetworkhd-cmd.github.io/iptv/FeniksPlusKino.m3u8
+#EXTINF:-1 tvg-name="Kamedi" group-title="Comedy",Kamedi
+https://adpnetworkhd-cmd.github.io/iptv/Kamedi.m3u8
+#EXTINF:-1 tvg-name="Kinosemja" group-title="Movies",Kinosemja
+https://adpnetworkhd-cmd.github.io/iptv/Kinosemya.m3u8
+#EXTINF:-1 tvg-name="Komediynoe" group-title="Comedy",Komediynoe
+https://adpnetworkhd-cmd.github.io/iptv/KomediynoeHD.m3u8
+#EXTINF:-1 tvg-name="Lyubimoe" group-title="Movies",Lyubimoe
+https://adpnetworkhd-cmd.github.io/iptv/LubimoeHD.m3u8
+#EXTINF:-1 tvg-name="Bolt (576p)" group-title="Movies;Series",Bolt (576p)
+https://adpnetworkhd-cmd.github.io/iptv/BoltUA.m3u8
+#EXTINF:-1 tvg-name="Enter-Film" group-title="Movies",Enter-Film
+https://adpnetworkhd-cmd.github.io/iptv/Enterfilm.m3u8
+#EXTINF:-1 tvg-name="Belarus-5" group-title="Sports",Belarus-5
+https://adpnetworkhd-cmd.github.io/iptv/Belarus5.m3u8
+#EXTINF:-1 tvg-name="Atreseries" group-title="Series",Atreseries
+https://adpnetworkhd-cmd.github.io/iptv/A3Series.m3u8
+#EXTINF:-1 tvg-name="AXN Movies" group-title="Movies",AXN Movies
+https://adpnetworkhd-cmd.github.io/iptv/AXNMoviesSpain.m3u8
+#EXTINF:-1 tvg-name="Gol" group-title="Sports",Gol
+https://adpnetworkhd-cmd.github.io/iptv/GOL.m3u8
+#EXTINF:-1 tvg-name="Cine35mm" group-title="Movies",Cine35mm
+https://micanal.ovh/livestreams/262.D9DCDM7EXNRT.m3u8
