@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-25 23:53:45
-# Всего каналов: 17943
-# Новых за сессию: 0
+# Обновлено: 2026-06-26 03:32:06
+# Всего каналов: 18028
+# Новых за сессию: 85
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Auto;Documentary
 # Каналов: 1
-# Обновлено: 2026-06-25 23:53:45
+# Обновлено: 2026-06-26 03:32:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pluto TV Turbo" group-title="Auto;Documentary",Pluto TV Turbo
@@ -399,3 +399,7 @@ http://185.102.171.218/BBCEarth/index.m3u8
 https://trs1.aynaott.com/skynature/index.m3u8
 #EXTINF:-1 tvg-name="BBC Earth US" group-title="Documentary",BBC Earth US
 https://adpnetworkhd-cmd.github.io/iptv/BBCEarth.m3u8
+#EXTINF:-1 tvg-name="Pershyi avtomobilnyi (576p)" group-title="Auto",Pershyi avtomobilnyi (576p)
+https://adpnetworkhd-cmd.github.io/iptv/Pershyiavtomobilnyi.m3u8
+#EXTINF:-1 tvg-name="National Geographic" group-title="Documentary",National Geographic
+https://adpnetworkhd-cmd.github.io/iptv/NatGeoRomania.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-25 23:53:45
-# Всего каналов: 17943
-# Новых за сессию: 0
+# Обновлено: 2026-06-26 03:32:06
+# Всего каналов: 18028
+# Новых за сессию: 85
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Auto;Travel
 # Каналов: 1
-# Обновлено: 2026-06-25 23:53:45
+# Обновлено: 2026-06-26 03:32:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Fun Roads TV" group-title="Auto;Travel",Fun Roads TV
@@ -149,3 +149,9 @@ https://iptv.prosto.tv/ch111/index.m3u8
 http://185.246.209.113/MotorTrendHD/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Auto",SPEEDVISION" group-title="Auto",like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Auto",SPEEDVISION
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fierrofondo.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Moya stikhiya" group-title="Travel",Moya stikhiya
+https://adpnetworkhd-cmd.github.io/iptv/Moyastikhiya.m3u8
+#EXTINF:-1 tvg-name="Pershyi avtomobilnyi (576p)" group-title="Auto",Pershyi avtomobilnyi (576p)
+https://adpnetworkhd-cmd.github.io/iptv/Pershyiavtomobilnyi.m3u8
+#EXTINF:-1 tvg-name="Jamaica Travel Channel" group-title="Travel",Jamaica Travel Channel
+https://stream-207076.castr.net/651b2d8bde8119abf5dabf19/live_2e935360c78c11eea7a2615e1a7388f3/index.m3u8

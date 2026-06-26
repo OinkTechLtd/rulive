@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-25 23:53:45
-# Всего каналов: 17943
-# Новых за сессию: 0
+# Обновлено: 2026-06-26 03:32:06
+# Всего каналов: 18028
+# Новых за сессию: 85
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Legislative
-# Каналов: 183
-# Обновлено: 2026-06-25 23:53:45
+# Каналов: 187
+# Обновлено: 2026-06-26 03:32:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Legislative",like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -540,6 +540,18 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/securestream11.champds
 
 #EXTINF:-1 tvg-name="HCTV Government Channel" group-title="Legislative",HCTV Government Channel
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/reflect-hudsonctv.cablecast.tv/live-26/live/stream-2/live.m3u8
+
+#EXTINF:-1 tvg-name="ATL 26" group-title="Legislative",ATL 26
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/securestream11.champds.com/LIVE/AtlantaGALIVE/AtlantaGALIVE.m3u8
+
+#EXTINF:-1 tvg-name="Detroit Channel 10" group-title="Legislative",Detroit Channel 10
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/reflect-detroit-vod.cablecast.tv/live-2/live/stream-6/live.m3u8
+
+#EXTINF:-1 tvg-name="FGTV" group-title="Legislative",FGTV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/securestream11.champds.com/LIVE/FultonCoGALIVE/FultonCoGALIVE.m3u8
+
+#EXTINF:-1 tvg-name="JNE TV" group-title="Legislative",JNE TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TV Câmara" group-title="Legislative",TV Câmara
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream3.camara.gov.br/tv1/manifest.m3u8

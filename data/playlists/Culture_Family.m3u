@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-25 23:53:45
-# Всего каналов: 17943
-# Новых за сессию: 0
+# Обновлено: 2026-06-26 03:32:06
+# Всего каналов: 18028
+# Новых за сессию: 85
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Family
 # Каналов: 1
-# Обновлено: 2026-06-25 23:53:45
+# Обновлено: 2026-06-26 03:32:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Superscreen TV (412p)" group-title="Culture;Family",Superscreen TV (412p)
@@ -481,3 +481,11 @@ https://edgectc.com/CANAL_A/index.m3u8
 https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8
 #EXTINF:-1 tvg-name="Kemet TV" group-title="Culture",Kemet TV
 https://kemettv.cm/memfs/4e7fb105-9f92-4e8d-a7cd-09923f17a577.m3u8
+#EXTINF:-1 tvg-name="Sercem TV" group-title="Culture;General;Religious",Sercem TV
+https://canli.sercemtv.com.tr/hls/0/stream.m3u8
+#EXTINF:-1 tvg-name="NTV Mir (576p)" group-title="Culture",NTV Mir (576p)
+https://adpnetworkhd-cmd.github.io/iptv/NTVMir.m3u8
+#EXTINF:-1 tvg-name="Cultura 24" group-title="Culture",Cultura 24
+https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
+#EXTINF:-1 tvg-name="Diaspora TV" group-title="Culture",Diaspora TV
+https://s1.tvdatta.com:3978/live/diasporatvlive.m3u8

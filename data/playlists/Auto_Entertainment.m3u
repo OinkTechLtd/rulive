@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-25 23:53:45
-# Всего каналов: 17943
-# Новых за сессию: 0
+# Обновлено: 2026-06-26 03:32:06
+# Всего каналов: 18028
+# Новых за сессию: 85
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Auto;Entertainment
 # Каналов: 2
-# Обновлено: 2026-06-25 23:53:45
+# Обновлено: 2026-06-26 03:32:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Top Gear" group-title="Auto;Entertainment",Top Gear
@@ -1494,3 +1494,15 @@ https://adpnetworkhd-cmd.github.io/iptv/Blaze.m3u8
 https://adpnetworkhd-cmd.github.io/iptv/ChallengeUK.m3u8
 #EXTINF:-1 tvg-name="Canal Womtv" group-title="Entertainment",Canal Womtv
 https://live.amelbatv.co:81/womtvlive/index.m3u8
+#EXTINF:-1 tvg-name="Oruzhie (576p)" group-title="Entertainment",Oruzhie (576p)
+https://adpnetworkhd-cmd.github.io/iptv/Oruzhie.m3u8
+#EXTINF:-1 tvg-name="Novyi Channel" group-title="Entertainment",Novyi Channel
+https://adpnetworkhd-cmd.github.io/iptv/NoviyKanal.m3u8
+#EXTINF:-1 tvg-name="OTSE" group-title="Entertainment",OTSE
+https://adpnetworkhd-cmd.github.io/iptv/OtseHD.m3u8
+#EXTINF:-1 tvg-name="Pershyi avtomobilnyi (576p)" group-title="Auto",Pershyi avtomobilnyi (576p)
+https://adpnetworkhd-cmd.github.io/iptv/Pershyiavtomobilnyi.m3u8
+#EXTINF:-1 tvg-name="More4 (576p)" group-title="Entertainment",More4 (576p)
+https://adpnetworkhd-cmd.github.io/iptv/More4.m3u8
+#EXTINF:-1 tvg-name="Kora TV" group-title="Entertainment",Kora TV
+https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8

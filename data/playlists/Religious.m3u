@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-25 23:53:45
-# Всего каналов: 17943
-# Новых за сессию: 0
+# Обновлено: 2026-06-26 03:32:06
+# Всего каналов: 18028
+# Новых за сессию: 85
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Religious
-# Каналов: 729
-# Обновлено: 2026-06-25 23:53:45
+# Каналов: 732
+# Обновлено: 2026-06-26 03:32:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Спас (450p) [Geo-blocked]" group-title="Religious",Спас (450p) [Geo-blocked]
@@ -2143,6 +2143,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/watch.sardius.media/ch
 #EXTINF:-1 tvg-name="SBN TV International" group-title="Religious",SBN TV International
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/watch.sardius.media/channels/Ea867F3e1F56B06/site_09a4778E89/live.m3u8
 
+#EXTINF:-1 tvg-name="Capuchin TV" group-title="Religious",Capuchin TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/goliveafrica.media:9998/live/64227f58b8413/index.m3u8
+
+#EXTINF:-1 tvg-name="Caribbean Gospel TV" group-title="Religious",Caribbean Gospel TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/25466019af9b7aed.servers.dvcloud.tv/hls/iptv_providers/fhvtgifbqbcjp0g19mdd76t18tpalu4k.m3u8
+
+#EXTINF:-1 tvg-name="MOF TV" group-title="Religious",MOF TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/goliveafrica.media:9998/live/6425a6efa15c8/index.m3u8
+
 #EXTINF:-1 tvg-name="Aghapy TV" group-title="Religious",Aghapy TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
 
@@ -2269,3 +2278,5 @@ https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
 #EXTINF:-1 tvg-name="God Stands Kids Club TV Urdu" group-title="Kids;Religious",God Stands Kids Club TV Urdu
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8
+#EXTINF:-1 tvg-name="Sercem TV" group-title="Culture;General;Religious",Sercem TV
+https://canli.sercemtv.com.tr/hls/0/stream.m3u8

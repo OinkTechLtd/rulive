@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-25 23:53:45
-# Всего каналов: 17943
-# Новых за сессию: 0
+# Обновлено: 2026-06-26 03:32:06
+# Всего каналов: 18028
+# Новых за сессию: 85
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture
-# Каналов: 124
-# Обновлено: 2026-06-25 23:53:45
+# Каналов: 127
+# Обновлено: 2026-06-26 03:32:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Aurora Arte (480p)" group-title="Culture",Aurora Arte (480p)
@@ -364,6 +364,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/master.myplaytv.com:20
 #EXTINF:-1 tvg-name="Kemet TV" group-title="Culture",Kemet TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/kemettv.cm/memfs/4e7fb105-9f92-4e8d-a7cd-09923f17a577.m3u8
 
+#EXTINF:-1 tvg-name="NTV Mir (576p)" group-title="Culture",NTV Mir (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/adpnetworkhd-cmd.github.io/iptv/NTVMir.m3u8
+
+#EXTINF:-1 tvg-name="Cultura 24" group-title="Culture",Cultura 24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/www.opencaster.com/resources/hls_stream/cultura24.m3u8
+
+#EXTINF:-1 tvg-name="Diaspora TV" group-title="Culture",Diaspora TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s1.tvdatta.com:3978/live/diasporatvlive.m3u8
+
 #EXTINF:-1 tvg-name="Беларусь 3" group-title="Culture",Беларусь 3
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 
@@ -506,3 +515,5 @@ https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
 https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Culture;News",Ost West (576p)" group-title="Culture;News",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Culture;News",Ost West (576p)
 http://hls127.freeott.top:8080/OstWest/video.m3u8
+#EXTINF:-1 tvg-name="Sercem TV" group-title="Culture;General;Religious",Sercem TV
+https://canli.sercemtv.com.tr/hls/0/stream.m3u8

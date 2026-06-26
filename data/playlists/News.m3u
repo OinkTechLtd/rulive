@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-25 23:53:45
-# Всего каналов: 17943
-# Новых за сессию: 0
+# Обновлено: 2026-06-26 03:32:06
+# Всего каналов: 18028
+# Новых за сессию: 85
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News
-# Каналов: 1020
-# Обновлено: 2026-06-25 23:53:45
+# Каналов: 1021
+# Обновлено: 2026-06-26 03:32:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Дождь (альтернативный)" group-title="News",Дождь (альтернативный)
@@ -2854,6 +2854,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/edgectc.com/TELESUR/in
 #EXTINF:-1 tvg-name="Panafrican Media TV" group-title="News",Panafrican Media TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Antik Info TV" group-title="News",Antik Info TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dash4.antik.sk/live/test_infokanal_tizen/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Беларусь 24" group-title="News",Беларусь 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 
@@ -3334,3 +3337,5 @@ https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
 http://hls127.freeott.top:8080/OstWest/video.m3u8
 #EXTINF:-1 tvg-name="NowMedia Television Spanish" group-title="Lifestyle;News",NowMedia Television Spanish
 https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8
+#EXTINF:-1 tvg-name="Cosmos Tv" group-title="Movies;News",Cosmos Tv
+https://canaletaplus.com:3922/live/cosmoslive.m3u8

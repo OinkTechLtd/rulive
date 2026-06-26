@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-25 23:53:45
-# Всего каналов: 17943
-# Новых за сессию: 0
+# Обновлено: 2026-06-26 03:32:06
+# Всего каналов: 18028
+# Новых за сессию: 85
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Series
-# Каналов: 298
-# Обновлено: 2026-06-25 23:53:45
+# Каналов: 299
+# Обновлено: 2026-06-26 03:32:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Смотрим Честный Детектив" group-title="Series",Смотрим Честный Детектив
@@ -895,6 +895,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/adpnetworkhd-cmd.githu
 #EXTINF:-1 tvg-name="TVI Ficção" group-title="Series",TVI Ficção
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8
 
+#EXTINF:-1 tvg-name="NTV Series" group-title="Series",NTV Series
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/adpnetworkhd-cmd.github.io/iptv/NTVSerial.m3u8
+
 #EXTINF:-1 tvg-name="13 Teleseries" group-title="Series",13 Teleseries
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
@@ -1016,3 +1019,5 @@ http://185.246.209.113/DISCOVERYHD/index.m3u8
 http://54.37.19.157/axn/playlist.m3u8
 #EXTINF:-1 tvg-name="Bolt (576p)" group-title="Movies;Series",Bolt (576p)
 https://adpnetworkhd-cmd.github.io/iptv/BoltUA.m3u8
+#EXTINF:-1 tvg-name="Nashe" group-title="Movies;Series",Nashe
+https://adpnetworkhd-cmd.github.io/iptv/NasheHD.m3u8

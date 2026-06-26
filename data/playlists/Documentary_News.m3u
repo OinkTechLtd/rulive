@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-25 23:53:45
-# Всего каналов: 17943
-# Новых за сессию: 0
+# Обновлено: 2026-06-26 03:32:06
+# Всего каналов: 18028
+# Новых за сессию: 85
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;News
 # Каналов: 5
-# Обновлено: 2026-06-25 23:53:45
+# Обновлено: 2026-06-26 03:32:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="India TV Aap Ki Adalat [Geo-blocked]" group-title="Documentary;News",India TV Aap Ki Adalat [Geo-blocked]
@@ -2437,3 +2437,9 @@ https://edgectc.com/TELESUR/index.m3u8
 https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC Earth US" group-title="Documentary",BBC Earth US
 https://adpnetworkhd-cmd.github.io/iptv/BBCEarth.m3u8
+#EXTINF:-1 tvg-name="Cosmos Tv" group-title="Movies;News",Cosmos Tv
+https://canaletaplus.com:3922/live/cosmoslive.m3u8
+#EXTINF:-1 tvg-name="National Geographic" group-title="Documentary",National Geographic
+https://adpnetworkhd-cmd.github.io/iptv/NatGeoRomania.m3u8
+#EXTINF:-1 tvg-name="Antik Info TV" group-title="News",Antik Info TV
+https://dash4.antik.sk/live/test_infokanal_tizen/playlist.m3u8
