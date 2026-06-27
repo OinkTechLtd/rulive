@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-27 00:07:31
-# Всего каналов: 18028
-# Новых за сессию: 0
+# Обновлено: 2026-06-27 04:35:35
+# Всего каналов: 18096
+# Новых за сессию: 68
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;Sports
 # Каналов: 1
-# Обновлено: 2026-06-27 00:07:31
+# Обновлено: 2026-06-27 04:35:36
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RTI La 3" group-title="Music;Sports",RTI La 3
@@ -1935,6 +1935,8 @@ https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
 https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
 #EXTINF:-1 tvg-name="MTV Spankin’ New" group-title="Music",MTV Spankin’ New
 https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8
+#EXTINF:-1 tvg-name="NHL Network" group-title="Sports",NHL Network
+https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="PFL MMA" group-title="Sports",PFL MMA
 https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Competition" group-title="Sports",Pluto TV Competition
@@ -2341,3 +2343,31 @@ https://cdn.streamhispanatv.net:3652/live/totovisiongtlive.m3u8
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
 #EXTINF:-1 tvg-name="Nuta TV (576p)" group-title="Music",Nuta TV (576p)
 https://adpnetworkhd-cmd.github.io/iptv/NutaTV.m3u8
+#EXTINF:-1 tvg-name="Maidan (576p)" group-title="Music",Maidan (576p)
+http://hls127.freeott.top:8080/Maydan/video.m3u8
+#EXTINF:-1 tvg-name="Shanson TV (576p)" group-title="Music",Shanson TV (576p)
+http://hls127.freeott.top:8080/Shanson_Tv/video.m3u8
+#EXTINF:-1 tvg-name="Zhara (576p)" group-title="Music",Zhara (576p)
+http://hls127.freeott.top:8080/Zhara/video.m3u8
+#EXTINF:-1 tvg-name="Los Angeles TV Radio" group-title="Music",Los Angeles TV Radio
+https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Chalaca" group-title="Music",Radio Chalaca
+https://servilive.com:3414/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="Radio Colmenar 92.5 FM" group-title="Music",Radio Colmenar 92.5 FM
+https://tvdatta.com:3041/live/colmenarlive.m3u8
+#EXTINF:-1 tvg-name="Radio Onda Digital" group-title="Music",Radio Onda Digital
+https://live.ondadigitaltv.com/RADIOODTV/index.m3u8
+#EXTINF:-1 tvg-name="Radio San Borja TV" group-title="Music",Radio San Borja TV
+https://stream.mediacorp.pe/srt/3/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Peruanisima" group-title="Music",TV Peruanisima
+https://k20.usastreams.com:8081/tvperuanisima/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Sports",Arena Sport 1" group-title="Sports",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Sports",Arena Sport 1
+https://lb.dstvmultimedia.com/AS1SLOHD/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Sports",Arena Sport 2" group-title="Sports",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Sports",Arena Sport 2
+https://lb.dstvmultimedia.com/AS2SLOHD/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Sports",Arena Sport 3" group-title="Sports",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Sports",Arena Sport 3
+http://143.244.62.109:80/as3slo/index.m3u8
+#EXTINF:-1 tvg-name="Ocko Black" group-title="Music",Ocko Black
+https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
+#EXTINF:-1 tvg-name="Ocko Star" group-title="Music",Ocko Star
+https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8

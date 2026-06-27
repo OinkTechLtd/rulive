@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-27 00:07:31
-# Всего каналов: 18028
-# Новых за сессию: 0
+# Обновлено: 2026-06-27 04:35:35
+# Всего каналов: 18096
+# Новых за сессию: 68
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic
-# Каналов: 52
-# Обновлено: 2026-06-27 00:07:31
+# Каналов: 53
+# Обновлено: 2026-06-27 04:35:36
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Retro" group-title="Classic",Retro
@@ -162,6 +162,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.246.209.113/TVLand
 
 #EXTINF:-1 tvg-name="13Rec (576p)" group-title="Classic",13Rec (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.4.1.201:8000/play/a11i/index.m3u8
+
+#EXTINF:-1 tvg-name="Nostalgia (576p)" group-title="Classic",Nostalgia (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls127.freeott.top:8080/Nostalgiya/video.m3u8
 
 #EXTINF:-1 tvg-name="TVN3 [Geo-blocked]" group-title="Classic",TVN3 [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8

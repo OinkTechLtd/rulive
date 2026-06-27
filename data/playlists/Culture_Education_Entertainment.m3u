@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-27 00:07:31
-# Всего каналов: 18028
-# Новых за сессию: 0
+# Обновлено: 2026-06-27 04:35:35
+# Всего каналов: 18096
+# Новых за сессию: 68
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Education;Entertainment
 # Каналов: 1
-# Обновлено: 2026-06-27 00:07:31
+# Обновлено: 2026-06-27 04:35:36
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Manas TV" group-title="Culture;Education;Entertainment",Manas TV
@@ -69,6 +69,8 @@ https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
 https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="ТВ-3 (540p) [Geo-blocked]" group-title="Entertainment",ТВ-3 (540p) [Geo-blocked]
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1 tvg-name="DTR Zona 2" group-title="Entertainment",DTR Zona 2
+https://kino-stream.online/hls/DTRZONA2.m3u8
 #EXTINF:-1 tvg-name="312 ТВ (406p)" group-title="Entertainment",312 ТВ (406p)
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 tvg-name="ATR" group-title="Culture",ATR
@@ -2263,3 +2265,13 @@ https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
 https://s1.tvdatta.com:3978/live/diasporatvlive.m3u8
 #EXTINF:-1 tvg-name="Kora TV" group-title="Entertainment",Kora TV
 https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8
+#EXTINF:-1 tvg-name="Teatr (576p)" group-title="Culture",Teatr (576p)
+http://hls127.freeott.top:8080/Teatr/video.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Entertainment",E! Europe" group-title="Entertainment",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Entertainment",E! Europe
+https://lb.dstvmultimedia.com/E!/index.m3u8
+#EXTINF:-1 tvg-name="Alt Media TV" group-title="Entertainment",Alt Media TV
+https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
+#EXTINF:-1 tvg-name="Maxima TV" group-title="Entertainment",Maxima TV
+https://maximatv.net/hls/stream.m3u8
+#EXTINF:-1 tvg-name="TV Kaliente" group-title="Entertainment",TV Kaliente
+https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8

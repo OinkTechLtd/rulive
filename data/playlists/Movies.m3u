@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-27 00:07:31
-# Всего каналов: 18028
-# Новых за сессию: 0
+# Обновлено: 2026-06-27 04:35:35
+# Всего каналов: 18096
+# Новых за сессию: 68
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies
-# Каналов: 596
-# Обновлено: 2026-06-27 00:07:31
+# Каналов: 601
+# Обновлено: 2026-06-27 04:35:36
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="312 Кино (406p)" group-title="Movies",312 Кино (406p)
@@ -1645,6 +1645,21 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/adpnetworkhd-cmd.githu
 #EXTINF:-1 tvg-name="GREAT! mystery (576p)" group-title="Movies",GREAT! mystery (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/adpnetworkhd-cmd.github.io/iptv/GreatMystery.m3u8
 
+#EXTINF:-1 tvg-name="Nashe Lubimoe Kino (576p)" group-title="Movies",Nashe Lubimoe Kino (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8
+
+#EXTINF:-1 tvg-name="Nashe Novoe Kino" group-title="Movies",Nashe Novoe Kino
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
+
+#EXTINF:-1 tvg-name="AXN Latin America South" group-title="Movies",AXN Latin America South
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.228.235.116:8000/play/a0iy/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Movies",like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/lb.dstvmultimedia.com/AMC/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Movies",like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/lb.dstvmultimedia.com/NovaMax/index.m3u8
+
 #EXTINF:-1 tvg-name="Hollywood" group-title="Movies",Hollywood
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/MGM_HD/index.m3u8
 
@@ -2040,3 +2055,5 @@ https://adpnetworkhd-cmd.github.io/iptv/BoltUA.m3u8
 https://adpnetworkhd-cmd.github.io/iptv/NasheHD.m3u8
 #EXTINF:-1 tvg-name="Cosmos Tv" group-title="Movies;News",Cosmos Tv
 https://canaletaplus.com:3922/live/cosmoslive.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Movies",AMC Europe Serbia" group-title="Movies",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Movies",AMC Europe Serbia
+https://lb.dstvmultimedia.com/AMC/index.m3u8

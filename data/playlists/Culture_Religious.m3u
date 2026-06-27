@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-27 00:07:31
-# Всего каналов: 18028
-# Новых за сессию: 0
+# Обновлено: 2026-06-27 04:35:35
+# Всего каналов: 18096
+# Новых за сессию: 68
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Religious
 # Каналов: 3
-# Обновлено: 2026-06-27 00:07:31
+# Обновлено: 2026-06-27 04:35:36
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Culture;Religious",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -1883,3 +1883,15 @@ https://goliveafrica.media:9998/live/6425a6efa15c8/index.m3u8
 https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
 #EXTINF:-1 tvg-name="Diaspora TV" group-title="Culture",Diaspora TV
 https://s1.tvdatta.com:3978/live/diasporatvlive.m3u8
+#EXTINF:-1 tvg-name="Teatr (576p)" group-title="Culture",Teatr (576p)
+http://hls127.freeott.top:8080/Teatr/video.m3u8
+#EXTINF:-1 tvg-name="CCI Channel" group-title="Religious",CCI Channel
+https://livestream.mediacci.com/ccitv/index.m3u8
+#EXTINF:-1 tvg-name="Conexion Positiva Television" group-title="Religious",Conexion Positiva Television
+https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81b1411.m3u8
+#EXTINF:-1 tvg-name="Enlace Juvenil" group-title="Religious",Enlace Juvenil
+https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Luz Naciente TV" group-title="Religious",Luz Naciente TV
+https://streeming.protoscr.com:3858/live/streeminglive.m3u8
+#EXTINF:-1 tvg-name="Vision" group-title="Religious",Vision
+https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8

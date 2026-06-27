@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-27 00:07:31
-# Всего каналов: 18028
-# Новых за сессию: 0
+# Обновлено: 2026-06-27 04:35:35
+# Всего каналов: 18096
+# Новых за сессию: 68
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Public
 # Каналов: 3
-# Обновлено: 2026-06-27 00:07:31
+# Обновлено: 2026-06-27 04:35:36
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="El 33 [Geo-blocked]" group-title="Culture;Public",El 33 [Geo-blocked]
@@ -463,3 +463,5 @@ https://adpnetworkhd-cmd.github.io/iptv/NTVMir.m3u8
 https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
 #EXTINF:-1 tvg-name="Diaspora TV" group-title="Culture",Diaspora TV
 https://s1.tvdatta.com:3978/live/diasporatvlive.m3u8
+#EXTINF:-1 tvg-name="Teatr (576p)" group-title="Culture",Teatr (576p)
+http://hls127.freeott.top:8080/Teatr/video.m3u8

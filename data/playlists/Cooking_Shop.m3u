@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-27 00:07:31
-# Всего каналов: 18028
-# Новых за сессию: 0
+# Обновлено: 2026-06-27 04:35:35
+# Всего каналов: 18096
+# Новых за сессию: 68
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Cooking;Shop
 # Каналов: 1
-# Обновлено: 2026-06-27 00:07:31
+# Обновлено: 2026-06-27 04:35:36
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="In the kitchen" group-title="Cooking;Shop",In the kitchen
@@ -247,3 +247,5 @@ https://tchaikovsky.af-stream.com:991/s/xzztutfc/telekafe-hd/video.m3u8
 https://adpnetworkhd-cmd.github.io/iptv/Eda.m3u8
 #EXTINF:-1 tvg-name="FoodTime" group-title="Cooking",FoodTime
 https://adpnetworkhd-cmd.github.io/iptv/FoodTimeHD.m3u8
+#EXTINF:-1 tvg-name="Kukhnya TV (576p)" group-title="Cooking",Kukhnya TV (576p)
+http://hls127.freeott.top:8080/Kuhnya_TV/video.m3u8

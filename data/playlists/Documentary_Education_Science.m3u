@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-27 00:07:31
-# Всего каналов: 18028
-# Новых за сессию: 0
+# Обновлено: 2026-06-27 04:35:35
+# Всего каналов: 18096
+# Новых за сессию: 68
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Education;Science
 # Каналов: 1
-# Обновлено: 2026-06-27 00:07:31
+# Обновлено: 2026-06-27 04:35:36
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="UMSA TVU Internacional" group-title="Documentary;Education;Science",UMSA TVU Internacional
@@ -861,3 +861,7 @@ https://adpnetworkhd-cmd.github.io/iptv/PervyyKosmicheskiy.m3u8
 https://reflect-detroit-vod.cablecast.tv/live-3/live/stream-3/live.m3u8
 #EXTINF:-1 tvg-name="National Geographic" group-title="Documentary",National Geographic
 https://adpnetworkhd-cmd.github.io/iptv/NatGeoRomania.m3u8
+#EXTINF:-1 tvg-name="Istoriya (576p)" group-title="Documentary",Istoriya (576p)
+http://hls127.freeott.top:8080/Istoriya/video.m3u8
+#EXTINF:-1 tvg-name="Top Secret (576p)" group-title="Documentary",Top Secret (576p)
+http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8

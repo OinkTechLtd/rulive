@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-27 00:07:31
-# Всего каналов: 18028
-# Новых за сессию: 0
+# Обновлено: 2026-06-27 04:35:35
+# Всего каналов: 18096
+# Новых за сессию: 68
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;Religious
 # Каналов: 1
-# Обновлено: 2026-06-27 00:07:31
+# Обновлено: 2026-06-27 04:35:36
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ABN Bible Movies" group-title="Movies;Religious",ABN Bible Movies
@@ -2755,3 +2755,19 @@ https://adpnetworkhd-cmd.github.io/iptv/GreatAction.m3u8
 https://adpnetworkhd-cmd.github.io/iptv/GreatMystery.m3u8
 #EXTINF:-1 tvg-name="MOF TV" group-title="Religious",MOF TV
 https://goliveafrica.media:9998/live/6425a6efa15c8/index.m3u8
+#EXTINF:-1 tvg-name="Nashe Lubimoe Kino (576p)" group-title="Movies",Nashe Lubimoe Kino (576p)
+http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8
+#EXTINF:-1 tvg-name="AXN Latin America South" group-title="Movies",AXN Latin America South
+http://45.228.235.116:8000/play/a0iy/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Movies",AMC Europe Serbia" group-title="Movies",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Movies",AMC Europe Serbia
+https://lb.dstvmultimedia.com/AMC/index.m3u8
+#EXTINF:-1 tvg-name="CCI Channel" group-title="Religious",CCI Channel
+https://livestream.mediacci.com/ccitv/index.m3u8
+#EXTINF:-1 tvg-name="Conexion Positiva Television" group-title="Religious",Conexion Positiva Television
+https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81b1411.m3u8
+#EXTINF:-1 tvg-name="Enlace Juvenil" group-title="Religious",Enlace Juvenil
+https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Luz Naciente TV" group-title="Religious",Luz Naciente TV
+https://streeming.protoscr.com:3858/live/streeminglive.m3u8
+#EXTINF:-1 tvg-name="Vision" group-title="Religious",Vision
+https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8

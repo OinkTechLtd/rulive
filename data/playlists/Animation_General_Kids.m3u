@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-27 00:07:31
-# Всего каналов: 18028
-# Новых за сессию: 0
+# Обновлено: 2026-06-27 04:35:35
+# Всего каналов: 18096
+# Новых за сессию: 68
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;General;Kids
 # Каналов: 2
-# Обновлено: 2026-06-27 00:07:31
+# Обновлено: 2026-06-27 04:35:36
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="BBC Four/CBeebies [Geo-Blocked]" group-title="Animation;General;Kids",BBC Four/CBeebies [Geo-Blocked]
@@ -5938,3 +5938,29 @@ https://eu1.servers10.com:8081/8258/index.m3u8
 https://s2.tvdatta.com:3112/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="TDI Colombia" group-title="General",TDI Colombia
 https://live.amelbatv.co:81/tdicolombiatv/index.m3u8
+#EXTINF:-1 tvg-name="Mult i muzyka (576p)" group-title="Kids",Mult i muzyka (576p)
+http://hls127.freeott.top:8080/Mult_Muzika/video.m3u8
+#EXTINF:-1 tvg-name="Jonack (576p)" group-title="General",Jonack (576p)
+https://cdn-6.pishow.tv/live/10006/master.m3u8
+#EXTINF:-1 tvg-name="SOU TV" group-title="General",SOU TV
+https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
+#EXTINF:-1 tvg-name="DesheBideshe TV" group-title="General",DesheBideshe TV
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+#EXTINF:-1 tvg-name="AGR FM TV" group-title="General",AGR FM TV
+https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
+#EXTINF:-1 tvg-name="CAD TV" group-title="General",CAD TV
+https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8
+#EXTINF:-1 tvg-name="Ecuavisa" group-title="General",Ecuavisa
+http://179.60.51.134:8888/ECUAVISA/index.m3u8
+#EXTINF:-1 tvg-name="Radio Guaira TV" group-title="General",Radio Guaira TV
+https://tvdatta.com:3991/live/guairatvlive.m3u8
+#EXTINF:-1 tvg-name="Siscom TV" group-title="General",Siscom TV
+https://video2.lhdserver.es/siscomtv/live.m3u8
+#EXTINF:-1 tvg-name="Tu TV" group-title="General",Tu TV
+https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8
+#EXTINF:-1 tvg-name="TV8" group-title="General",TV8
+https://k20.usastreams.com:8081/tv8/index.m3u8
+#EXTINF:-1 tvg-name="TV Oasis Monay" group-title="General",TV Oasis Monay
+https://servilive.com:3562/live/vav4c8z38live.m3u8
+#EXTINF:-1 tvg-name="TVenLinea" group-title="General",TVenLinea
+https://srt.tvdatta.com/tvenlinea/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-27 00:07:31
-# Всего каналов: 18028
-# Новых за сессию: 0
+# Обновлено: 2026-06-27 04:35:35
+# Всего каналов: 18096
+# Новых за сессию: 68
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Family;General;News
 # Каналов: 1
-# Обновлено: 2026-06-27 00:07:31
+# Обновлено: 2026-06-27 04:35:36
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="TV Paraense" group-title="Entertainment;Family;General;News",TV Paraense
@@ -385,6 +385,8 @@ https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
 #EXTINF:-1 tvg-name="Кубань 24 [Geo-blocked]" group-title="General",Кубань 24 [Geo-blocked]
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+#EXTINF:-1 tvg-name="DTR Zona 2" group-title="Entertainment",DTR Zona 2
+https://kino-stream.online/hls/DTRZONA2.m3u8
 #EXTINF:-1 tvg-name="24KZ" group-title="News",24KZ
 https://tvcdn01.oktv.kz/tv/24kz/index.m3u8
 #EXTINF:-1 tvg-name="100% News (576p)" group-title="Business;News",100% News (576p)
@@ -8697,3 +8699,35 @@ https://s2.tvdatta.com:3112/hybrid/play.m3u8
 https://live.amelbatv.co:81/tdicolombiatv/index.m3u8
 #EXTINF:-1 tvg-name="Antik Info TV" group-title="News",Antik Info TV
 https://dash4.antik.sk/live/test_infokanal_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="Jonack (576p)" group-title="General",Jonack (576p)
+https://cdn-6.pishow.tv/live/10006/master.m3u8
+#EXTINF:-1 tvg-name="SOU TV" group-title="General",SOU TV
+https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
+#EXTINF:-1 tvg-name="DesheBideshe TV" group-title="General",DesheBideshe TV
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="News",Channel 9" group-title="News",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="News",Channel 9
+http://ott.watch/XE5QWWBZ87/20/tracks-v1a1/mono.ts.m3u8?sid=6a3725e1-2094-4453-9252-c089475ef330
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Entertainment",E! Europe" group-title="Entertainment",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Entertainment",E! Europe
+https://lb.dstvmultimedia.com/E!/index.m3u8
+#EXTINF:-1 tvg-name="AGR FM TV" group-title="General",AGR FM TV
+https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
+#EXTINF:-1 tvg-name="Alt Media TV" group-title="Entertainment",Alt Media TV
+https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
+#EXTINF:-1 tvg-name="CAD TV" group-title="General",CAD TV
+https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8
+#EXTINF:-1 tvg-name="Ecuavisa" group-title="General",Ecuavisa
+http://179.60.51.134:8888/ECUAVISA/index.m3u8
+#EXTINF:-1 tvg-name="Maxima TV" group-title="Entertainment",Maxima TV
+https://maximatv.net/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Radio Guaira TV" group-title="General",Radio Guaira TV
+https://tvdatta.com:3991/live/guairatvlive.m3u8
+#EXTINF:-1 tvg-name="Siscom TV" group-title="General",Siscom TV
+https://video2.lhdserver.es/siscomtv/live.m3u8
+#EXTINF:-1 tvg-name="Tu TV" group-title="General",Tu TV
+https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8
+#EXTINF:-1 tvg-name="TV Kaliente" group-title="Entertainment",TV Kaliente
+https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Oasis Monay" group-title="General",TV Oasis Monay
+https://servilive.com:3562/live/vav4c8z38live.m3u8
+#EXTINF:-1 tvg-name="TVenLinea" group-title="General",TVenLinea
+https://srt.tvdatta.com/tvenlinea/index.m3u8
