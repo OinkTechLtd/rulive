@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-28 11:07:41
-# Всего каналов: 18173
-# Новых за сессию: 0
+# Обновлено: 2026-06-28 12:16:25
+# Всего каналов: 18179
+# Новых за сессию: 6
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: IPTV
-# Каналов: 142
-# Обновлено: 2026-06-28 11:07:41
+# Каналов: 148
+# Обновлено: 2026-06-28 12:16:25
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="A2 CNN Albania" group-title="IPTV",A2 CNN Albania
@@ -219,6 +219,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stv.mediacdn.ru/live/c
 
 #EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/example.com/stream1.ts<br />
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/example.com/stream2.ts<br />
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/example.com/stream3.ts</ins></p>
 
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="IPTV",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8
@@ -435,4 +444,13 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/streams2.sofast.tv/sch
 
 #EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
 https://github.com/js-cookie/js-cookie
+
+#EXTINF:-1 tvg-name="<br />" group-title="IPTV",<br />
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/example.com/segment1.ts<br />
+
+#EXTINF:-1 tvg-name="<br />" group-title="IPTV",<br />
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/example.com/segment2.ts<br />
+
+#EXTINF:-1 tvg-name="<br />" group-title="IPTV",<br />
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/example.com/segment3.ts</ins></p>
 
