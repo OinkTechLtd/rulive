@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-28 00:02:57
-# Всего каналов: 18096
-# Новых за сессию: 0
+# Обновлено: 2026-06-28 05:00:08
+# Всего каналов: 18170
+# Новых за сессию: 74
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Series
-# Каналов: 299
-# Обновлено: 2026-06-28 00:02:58
+# Каналов: 301
+# Обновлено: 2026-06-28 05:00:08
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Смотрим Честный Детектив" group-title="Series",Смотрим Честный Детектив
@@ -898,6 +898,12 @@ https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m
 #EXTINF:-1 tvg-name="NTV Series" group-title="Series",NTV Series
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/adpnetworkhd-cmd.github.io/iptv/NTVSerial.m3u8
 
+#EXTINF:-1 tvg-name="Saphire" group-title="Series",Saphire
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/77.232.131.211:80/Sapfir/manifest.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Series",like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcrime/playlist.m3u8
+
 #EXTINF:-1 tvg-name="13 Teleseries" group-title="Series",13 Teleseries
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
@@ -1021,3 +1027,7 @@ http://54.37.19.157/axn/playlist.m3u8
 https://adpnetworkhd-cmd.github.io/iptv/BoltUA.m3u8
 #EXTINF:-1 tvg-name="Nashe" group-title="Movies;Series",Nashe
 https://adpnetworkhd-cmd.github.io/iptv/NasheHD.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Comedy;Movies;Series",Universal Comedy" group-title="Comedy;Movies;Series",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Comedy;Movies;Series",Universal Comedy
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Series",Universal Crime" group-title="Series",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Series",Universal Crime
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcrime/playlist.m3u8

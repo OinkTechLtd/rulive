@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-28 00:02:57
-# Всего каналов: 18096
-# Новых за сессию: 0
+# Обновлено: 2026-06-28 05:00:08
+# Всего каналов: 18170
+# Новых за сессию: 74
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation
 # Каналов: 55
-# Обновлено: 2026-06-28 00:02:58
+# Обновлено: 2026-06-28 05:00:08
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Animation+ [Geo-blocked]" group-title="Animation",Animation+ [Geo-blocked]
@@ -293,3 +293,5 @@ http://181.78.8.199:8000/play/a0dn/index.m3u8
 http://8.243.126.131:8000/play/a0od/index.m3u8
 #EXTINF:-1 tvg-name="Pingvin (576p)" group-title="Animation;Kids",Pingvin (576p)
 https://adpnetworkhd-cmd.github.io/iptv/Pingvin.m3u8
+#EXTINF:-1 tvg-name="Disney Channel Latin America Mexico" group-title="Animation;Kids",Disney Channel Latin America Mexico
+http://45.166.93.156:9999/play/a0f3/index.m3u8

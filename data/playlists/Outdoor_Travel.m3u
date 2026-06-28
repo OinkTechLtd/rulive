@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-28 00:02:57
-# Всего каналов: 18096
-# Новых за сессию: 0
+# Обновлено: 2026-06-28 05:00:08
+# Всего каналов: 18170
+# Новых за сессию: 74
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Outdoor;Travel
 # Каналов: 3
-# Обновлено: 2026-06-28 00:02:58
+# Обновлено: 2026-06-28 05:00:08
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Peer TV Alto Adige (1280p)" group-title="Outdoor;Travel",Peer TV Alto Adige (1280p)
@@ -229,3 +229,7 @@ https://adpnetworkhd-cmd.github.io/iptv/Moyastikhiya.m3u8
 https://stream-207076.castr.net/651b2d8bde8119abf5dabf19/live_2e935360c78c11eea7a2615e1a7388f3/index.m3u8
 #EXTINF:-1 tvg-name="Rybolov (576p)" group-title="Outdoor",Rybolov (576p)
 https://adpnetworkhd-cmd.github.io/iptv/Rybolov.m3u8
+#EXTINF:-1 tvg-name="Vkus (576p)" group-title="Travel",Vkus (576p)
+http://178.134.1.158:8081/vkus/index.m3u8
+#EXTINF:-1 tvg-name="Ciudad Magica" group-title="Outdoor",Ciudad Magica
+https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8

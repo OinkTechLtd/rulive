@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-28 00:02:57
-# Всего каналов: 18096
-# Новых за сессию: 0
+# Обновлено: 2026-06-28 05:00:08
+# Всего каналов: 18170
+# Новых за сессию: 74
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Series
 # Каналов: 14
-# Обновлено: 2026-06-28 00:02:58
+# Обновлено: 2026-06-28 05:00:08
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Сити Эдем КиноДок" group-title="Documentary;Series",Сити Эдем КиноДок
@@ -1006,3 +1006,11 @@ https://adpnetworkhd-cmd.github.io/iptv/NatGeoRomania.m3u8
 http://hls127.freeott.top:8080/Istoriya/video.m3u8
 #EXTINF:-1 tvg-name="Top Secret (576p)" group-title="Documentary",Top Secret (576p)
 http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8
+#EXTINF:-1 tvg-name="Saphire" group-title="Series",Saphire
+http://77.232.131.211:80/Sapfir/manifest.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Comedy;Movies;Series",Universal Comedy" group-title="Comedy;Movies;Series",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Comedy;Movies;Series",Universal Comedy
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Series",Universal Crime" group-title="Series",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Series",Universal Crime
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcrime/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Documentary",National Geographic Latin America South" group-title="Documentary",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Documentary",National Geographic Latin America South
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/NatGeo.stream/playlist.m3u8

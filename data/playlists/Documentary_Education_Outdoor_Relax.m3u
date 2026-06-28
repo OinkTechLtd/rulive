@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-28 00:02:57
-# Всего каналов: 18096
-# Новых за сессию: 0
+# Обновлено: 2026-06-28 05:00:08
+# Всего каналов: 18170
+# Новых за сессию: 74
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Education;Outdoor;Relax
 # Каналов: 1
-# Обновлено: 2026-06-28 00:02:58
+# Обновлено: 2026-06-28 05:00:08
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="WildEarth" group-title="Documentary;Education;Outdoor;Relax",WildEarth
@@ -969,3 +969,9 @@ http://hls127.freeott.top:8080/Istoriya/video.m3u8
 https://adpnetworkhd-cmd.github.io/iptv/Rybolov.m3u8
 #EXTINF:-1 tvg-name="Top Secret (576p)" group-title="Documentary",Top Secret (576p)
 http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8
+#EXTINF:-1 tvg-name="Ciudad Magica" group-title="Outdoor",Ciudad Magica
+https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Documentary",National Geographic Latin America South" group-title="Documentary",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Documentary",National Geographic Latin America South
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/NatGeo.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Usach" group-title="Education",TV Usach
+https://stv4.janus.cl/playlist/stream.m3u8

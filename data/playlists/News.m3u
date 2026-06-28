@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-28 00:02:57
-# Всего каналов: 18096
-# Новых за сессию: 0
+# Обновлено: 2026-06-28 05:00:08
+# Всего каналов: 18170
+# Новых за сессию: 74
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News
-# Каналов: 1023
-# Обновлено: 2026-06-28 00:02:58
+# Каналов: 1030
+# Обновлено: 2026-06-28 05:00:08
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Дождь (альтернативный)" group-title="News",Дождь (альтернативный)
@@ -2863,6 +2863,27 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/ott.watch/XE5QWWBZ87/2
 #EXTINF:-1 tvg-name="ATV+" group-title="News",ATV+
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/179.60.51.134:8888/ATV/index.m3u8
 
+#EXTINF:-1 tvg-name="RT Balkan" group-title="News",RT Balkan
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-srb.rttv.com/live/rtbalkan/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Cherniveckiy promin" group-title="News",Cherniveckiy promin
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/langate.tv/promin/live_720/index.m3u8
+
+#EXTINF:-1 tvg-name="Times Brasil" group-title="News",Times Brasil
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sky News (576p)" group-title="News",Sky News (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/41.205.77.102/SKYNEWS/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="News",like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/bantel-cdn1.iptvperu.tv:1935/btnscrtn/fuegotv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TeleCauquenes" group-title="News",TeleCauquenes
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV Peru Noticias (576p)" group-title="News",TV Peru Noticias (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/bantel-cdn1.iptvperu.tv:1935/btnscrtn/tvperunoticias.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Беларусь 24" group-title="News",Беларусь 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 
@@ -3347,3 +3368,5 @@ https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09d
 https://canaletaplus.com:3922/live/cosmoslive.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="News",Channel 9" group-title="News",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="News",Channel 9
 http://ott.watch/XE5QWWBZ87/20/tracks-v1a1/mono.ts.m3u8?sid=6a3725e1-2094-4453-9252-c089475ef330
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="News",FuegoTV" group-title="News",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="News",FuegoTV
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fuegotv.stream/playlist.m3u8

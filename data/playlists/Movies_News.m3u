@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-28 00:02:57
-# Всего каналов: 18096
-# Новых за сессию: 0
+# Обновлено: 2026-06-28 05:00:08
+# Всего каналов: 18170
+# Новых за сессию: 74
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;News
 # Каналов: 2
-# Обновлено: 2026-06-28 00:02:58
+# Обновлено: 2026-06-28 05:00:08
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Indywood TV" group-title="Movies;News",Indywood TV
@@ -3350,3 +3350,23 @@ http://45.228.235.116:8000/play/a0iy/index.m3u8
 http://ott.watch/XE5QWWBZ87/20/tracks-v1a1/mono.ts.m3u8?sid=6a3725e1-2094-4453-9252-c089475ef330
 #EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Movies",AMC Europe Serbia" group-title="Movies",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Movies",AMC Europe Serbia
 https://lb.dstvmultimedia.com/AMC/index.m3u8
+#EXTINF:-1 tvg-name="Kino TV" group-title="Movies",Kino TV
+http://176.118.197.101:80/KinoTvHD/playlist.m3u8
+#EXTINF:-1 tvg-name="RT Balkan" group-title="News",RT Balkan
+https://rt-srb.rttv.com/live/rtbalkan/playlist.m3u8
+#EXTINF:-1 tvg-name="Cherniveckiy promin" group-title="News",Cherniveckiy promin
+https://langate.tv/promin/live_720/index.m3u8
+#EXTINF:-1 tvg-name="Universal Cinema" group-title="Movies",Universal Cinema
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universalcinema/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Comedy;Movies;Series",Universal Comedy" group-title="Comedy;Movies;Series",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Comedy;Movies;Series",Universal Comedy
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky News (576p)" group-title="News",Sky News (576p)
+http://41.205.77.102/SKYNEWS/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="News",FuegoTV" group-title="News",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="News",FuegoTV
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fuegotv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="TeleCauquenes" group-title="News",TeleCauquenes
+https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Peru Noticias (576p)" group-title="News",TV Peru Noticias (576p)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tvperunoticias.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Zee Cinema ME" group-title="Movies",Zee Cinema ME
+http://41.205.77.102/ZEE-CINEMA/index.m3u8

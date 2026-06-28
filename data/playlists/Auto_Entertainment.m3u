@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-28 00:02:57
-# Всего каналов: 18096
-# Новых за сессию: 0
+# Обновлено: 2026-06-28 05:00:08
+# Всего каналов: 18170
+# Новых за сессию: 74
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Auto;Entertainment
 # Каналов: 2
-# Обновлено: 2026-06-28 00:02:58
+# Обновлено: 2026-06-28 05:00:08
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Top Gear" group-title="Auto;Entertainment",Top Gear
@@ -42,6 +42,8 @@ https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
 https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="ТВ-3 (540p) [Geo-blocked]" group-title="Entertainment",ТВ-3 (540p) [Geo-blocked]
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1 tvg-name="DTR Zona 1" group-title="Entertainment",DTR Zona 1
+https://kino-stream.online/hls/DTRZONA1.m3u8
 #EXTINF:-1 tvg-name="DTR Zona 2" group-title="Entertainment",DTR Zona 2
 https://kino-stream.online/hls/DTRZONA2.m3u8
 #EXTINF:-1 tvg-name="312 ТВ (406p)" group-title="Entertainment",312 ТВ (406p)
@@ -1516,3 +1518,7 @@ https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
 https://maximatv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-name="TV Kaliente" group-title="Entertainment",TV Kaliente
 https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8
+#EXTINF:-1 tvg-name="TNT (576p)" group-title="Entertainment",TNT (576p)
+http://94.230.129.31:8080/THT/index.m3u8
+#EXTINF:-1 tvg-name="RMC Life" group-title="Entertainment;Interactive",RMC Life
+http://41.205.77.102/CHERIE25/index.m3u8

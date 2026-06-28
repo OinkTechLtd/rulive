@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-28 00:02:57
-# Всего каналов: 18096
-# Новых за сессию: 0
+# Обновлено: 2026-06-28 05:00:08
+# Всего каналов: 18170
+# Новых за сессию: 74
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary
-# Каналов: 167
-# Обновлено: 2026-06-28 00:02:58
+# Каналов: 169
+# Обновлено: 2026-06-28 05:00:08
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RT Documentary Russian" group-title="Documentary",RT Documentary Russian
@@ -499,6 +499,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls127.freeott.top:808
 #EXTINF:-1 tvg-name="National Geographic" group-title="Documentary",National Geographic
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rezofoot.tv/NATIONAL-GEOGRAPHIC/index.m3u8
 
+#EXTINF:-1 tvg-name="National Geographic Wild" group-title="Documentary",National Geographic Wild
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/41.205.77.102/NATGEO-WILD/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Documentary",like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/bantel-cdn1.iptvperu.tv:1935/btnscrtn/NatGeo.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-name="TRT Belgesel" group-title="Documentary",TRT Belgesel
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
@@ -571,3 +577,5 @@ http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/2454/index.m3u8
 https://jmp2.uk/plu-600acaff5f2d6e000745effb.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Documentary",National Geographic Wild" group-title="Documentary",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Documentary",National Geographic Wild
 http://46.32.176.50/natgeowild/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Documentary",National Geographic Latin America South" group-title="Documentary",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Documentary",National Geographic Latin America South
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/NatGeo.stream/playlist.m3u8

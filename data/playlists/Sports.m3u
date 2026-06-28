@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-28 00:02:57
-# Всего каналов: 18096
-# Новых за сессию: 0
+# Обновлено: 2026-06-28 05:00:08
+# Всего каналов: 18170
+# Новых за сессию: 74
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Sports
-# Каналов: 479
-# Обновлено: 2026-06-28 00:02:58
+# Каналов: 484
+# Обновлено: 2026-06-28 05:00:08
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CBC Sport [Geo-blocked]" group-title="Sports",CBC Sport [Geo-blocked]
@@ -1317,6 +1317,21 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/143.244.62.109:80/as3s
 
 #EXTINF:-1 tvg-name="Golf Channel" group-title="Sports",Golf Channel
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/dash4.antik.sk/live/test_golf_channel/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sportivnyy" group-title="Sports",Sportivnyy
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-3.otcnet.ru/sportivny/index.m3u8
+
+#EXTINF:-1 tvg-name="Unbeaten" group-title="Sports",Unbeaten
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/UnbeatenSports/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Unite8 Sports 1" group-title="Sports",Unite8 Sports 1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/lbgo.bozztv.com/ssh101/ssh101/qallamsortadf/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Unite8 Sports 2" group-title="Sports",Unite8 Sports 2
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/212.102.34.8:9080/AndFlixHD/video.m3u8
+
+#EXTINF:-1 tvg-name="Trace Sport Stars" group-title="Sports",Trace Sport Stars
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ott.watch/XE5QWWBZ87/256/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="Беларусь 5" group-title="Sports",Беларусь 5
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8

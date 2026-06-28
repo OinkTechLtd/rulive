@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-28 00:02:57
-# Всего каналов: 18096
-# Новых за сессию: 0
+# Обновлено: 2026-06-28 05:00:08
+# Всего каналов: 18170
+# Новых за сессию: 74
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies
-# Каналов: 601
-# Обновлено: 2026-06-28 00:02:58
+# Каналов: 604
+# Обновлено: 2026-06-28 05:00:08
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="312 Кино (406p)" group-title="Movies",312 Кино (406p)
@@ -1660,6 +1660,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/lb.dstvmultimedia.com/
 #EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Movies",like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/lb.dstvmultimedia.com/NovaMax/index.m3u8
 
+#EXTINF:-1 tvg-name="Kino TV" group-title="Movies",Kino TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/176.118.197.101:80/KinoTvHD/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Universal Cinema" group-title="Movies",Universal Cinema
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/bantel-cdn1.iptvperu.tv:1936/btnscrtn/universalcinema/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Zee Cinema ME" group-title="Movies",Zee Cinema ME
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/41.205.77.102/ZEE-CINEMA/index.m3u8
+
 #EXTINF:-1 tvg-name="Hollywood" group-title="Movies",Hollywood
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/MGM_HD/index.m3u8
 
@@ -2057,3 +2066,5 @@ https://adpnetworkhd-cmd.github.io/iptv/NasheHD.m3u8
 https://canaletaplus.com:3922/live/cosmoslive.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Movies",AMC Europe Serbia" group-title="Movies",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Movies",AMC Europe Serbia
 https://lb.dstvmultimedia.com/AMC/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Comedy;Movies;Series",Universal Comedy" group-title="Comedy;Movies;Series",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Comedy;Movies;Series",Universal Comedy
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8

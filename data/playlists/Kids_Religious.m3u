@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-28 00:02:57
-# Всего каналов: 18096
-# Новых за сессию: 0
+# Обновлено: 2026-06-28 05:00:08
+# Всего каналов: 18170
+# Новых за сессию: 74
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Religious
 # Каналов: 9
-# Обновлено: 2026-06-28 00:02:58
+# Обновлено: 2026-06-28 05:00:08
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Christian Youth Channel (CYC)" group-title="Kids;Religious",Christian Youth Channel (CYC)
@@ -2169,3 +2169,11 @@ https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
 https://streeming.protoscr.com:3858/live/streeminglive.m3u8
 #EXTINF:-1 tvg-name="Vision" group-title="Religious",Vision
 https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal J" group-title="Kids",Canal J
+http://41.205.77.102/CANALJ/index.m3u8
+#EXTINF:-1 tvg-name="Gulli" group-title="Kids",Gulli
+http://41.205.77.102/GULLI/index.m3u8
+#EXTINF:-1 tvg-name="TiJi" group-title="Kids",TiJi
+http://41.205.77.102/TIJI/index.m3u8
+#EXTINF:-1 tvg-name="Disney Channel Latin America Mexico" group-title="Animation;Kids",Disney Channel Latin America Mexico
+http://45.166.93.156:9999/play/a0f3/index.m3u8
