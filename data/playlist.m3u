@@ -1,7 +1,7 @@
 #EXTM3U
-# Обновлено: 2026-06-28 05:00:08
-# Всего каналов: 18170
-# Новых за сессию: 74
+# Обновлено: 2026-06-28 05:02:41
+# Всего каналов: 18173
+# Новых за сессию: 3
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
@@ -46381,6 +46381,15 @@ https://secure-272717.tatnet.app/41.205.77.102/ZEE-CINEMA/index.m3u8
 
 #EXTINF:-1 tvg-name="Trace Sport Stars" group-title="Sports",Trace Sport Stars
 https://secure-272717.tatnet.app/ott.watch/XE5QWWBZ87/256/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/gitea.jpt.land/jpt/IPTV/src/branch/master/playlists/playlist_russia.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
 
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="IPTV",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8
