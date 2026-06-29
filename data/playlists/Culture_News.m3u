@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-29 13:15:17
-# Всего каналов: 18179
-# Новых за сессию: 0
+# Обновлено: 2026-06-29 15:54:56
+# Всего каналов: 18260
+# Новых за сессию: 81
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;News
 # Каналов: 12
-# Обновлено: 2026-06-29 13:15:17
+# Обновлено: 2026-06-29 15:54:56
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Channel One" group-title="Culture;News",Channel One
@@ -2480,3 +2480,9 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fuegotv.stream/playlist.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Peru Noticias (576p)" group-title="News",TV Peru Noticias (576p)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tvperunoticias.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="OAN Plus" group-title="News",OAN Plus
+https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8
+#EXTINF:-1 tvg-name="J3NEWS TV" group-title="News",J3NEWS TV
+https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8
+#EXTINF:-1 tvg-name="Doyel TV" group-title="Culture",Doyel TV
+https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8

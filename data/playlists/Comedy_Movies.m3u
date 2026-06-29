@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-29 13:15:17
-# Всего каналов: 18179
-# Новых за сессию: 0
+# Обновлено: 2026-06-29 15:54:56
+# Всего каналов: 18260
+# Новых за сессию: 81
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Movies
 # Каналов: 10
-# Обновлено: 2026-06-29 13:15:17
+# Обновлено: 2026-06-29 15:54:56
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pluto TV Comedias Románticas" group-title="Comedy;Movies",Pluto TV Comedias Románticas
@@ -356,6 +356,8 @@ https://aegis-cloudfront-1.tubi.video/54f95462-b44d-4c99-b74b-af49467454fa/playl
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Maverick Black Cinema" group-title="Movies",Maverick Black Cinema
 https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Mission Impossible" group-title="Movies;Series",Mission Impossible
+https://jmp2.uk/plu-62ab579258cb950007811aad.m3u8
 #EXTINF:-1 tvg-name="More TV Sitcoms" group-title="Comedy",More TV Sitcoms
 https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8
 #EXTINF:-1 tvg-name="Movies! (480p)" group-title="Movies",Movies! (480p)
@@ -414,8 +416,12 @@ https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/playlist.m3u8
 https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745
 #EXTINF:-1 tvg-name="CC Pluto TV" group-title="Comedy",CC Pluto TV
 https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8
+#EXTINF:-1 tvg-name="Cheers" group-title="Comedy",Cheers
+https://jmp2.uk/plu-611e7f224676bf00076a4d8d.m3u8
 #EXTINF:-1 tvg-name="Comedy Central [Geo-Blocked]" group-title="Comedy",Comedy Central [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8
+#EXTINF:-1 tvg-name="Comedy Central South Park" group-title="Animation;Comedy",Comedy Central South Park
+https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8
 #EXTINF:-1 tvg-name="MOVIEDOME" group-title="Movies",MOVIEDOME
 https://jmp2.uk/plu-615c1e5ce3039400070a0547.m3u8
 #EXTINF:-1 tvg-name="Nick/Comedy Central +1 [Geo-Blocked]" group-title="Comedy;Kids",Nick/Comedy Central +1 [Geo-Blocked]
@@ -450,6 +456,8 @@ https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-name="Sony One Hits Comedie" group-title="Movies",Sony One Hits Comedie
 https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-name="South Park" group-title="Animation;Comedy",South Park
+https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8
 #EXTINF:-1 tvg-name="TF1 Series Films [Geo-Blocked]" group-title="Movies",TF1 Series Films [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
 #EXTINF:-1 tvg-name="Wildside TV" group-title="Movies",Wildside TV
@@ -798,6 +806,8 @@ https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/
 https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
 #EXTINF:-1 tvg-name="Rakuten TV Top Movies Finland" group-title="Movies",Rakuten TV Top Movies Finland
 https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8
+#EXTINF:-1 tvg-name="Sabrina The Teenage Witch" group-title="Comedy",Sabrina The Teenage Witch
+https://jmp2.uk/plu-66276091cee0d900085fe053.m3u8
 #EXTINF:-1 tvg-name="Thrill (540p)" group-title="Movies",Thrill (540p)
 https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
 #EXTINF:-1 tvg-name="Top Million Dollar Agent" group-title="Comedy",Top Million Dollar Agent
@@ -948,6 +958,34 @@ https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202
 https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Zee Cinema APAC [Geo-blocked]" group-title="Movies",Zee Cinema APAC [Geo-blocked]
 https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="00s Replay" group-title="Movies",00s Replay
+https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
+#EXTINF:-1 tvg-name="Alle hassen Chris" group-title="Comedy",Alle hassen Chris
+https://jmp2.uk/plu-622f6e1e2792150007e0b2ff.m3u8
+#EXTINF:-1 tvg-name="Awkward" group-title="Comedy",Awkward
+https://jmp2.uk/plu-61c0925c738ecd000882450a.m3u8
+#EXTINF:-1 tvg-name="Beavis and Butt-Head" group-title="Comedy",Beavis and Butt-Head
+https://jmp2.uk/plu-6486e8984cfc2c0008b6844e.m3u8
+#EXTINF:-1 tvg-name="Becker" group-title="Comedy",Becker
+https://jmp2.uk/plu-630348a54c48ce00077eb6c7.m3u8
+#EXTINF:-1 tvg-name="BET Comedy Movies" group-title="Movies",BET Comedy Movies
+https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8
+#EXTINF:-1 tvg-name="BET Throwbacks" group-title="Comedy",BET Throwbacks
+https://jmp2.uk/plu-61326275b3c86a00078e4833.m3u8
+#EXTINF:-1 tvg-name="BET Visionaries" group-title="Movies",BET Visionaries
+https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8
+#EXTINF:-1 tvg-name="Black Family Sitcoms" group-title="Comedy",Black Family Sitcoms
+https://jmp2.uk/plu-686d61503484d6073283059d.m3u8
+#EXTINF:-1 tvg-name="Bonanza" group-title="Movies;Series",Bonanza
+https://jmp2.uk/plu-696e647b07ea70192d49f6a5.m3u8
+#EXTINF:-1 tvg-name="Broad City" group-title="Comedy",Broad City
+https://jmp2.uk/plu-65cba73611ced700082123bc.m3u8
+#EXTINF:-1 tvg-name="Caroline in the City" group-title="Comedy",Caroline in the City
+https://jmp2.uk/plu-66a7aa44cd0d31000843942b.m3u8
+#EXTINF:-1 tvg-name="Chappelle's Show" group-title="Comedy",Chappelle's Show
+https://jmp2.uk/plu-65e976ad0d456100082d9b74.m3u8
+#EXTINF:-1 tvg-name="Cheers + Frasier" group-title="Comedy",Cheers + Frasier
+https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
 #EXTINF:-1 tvg-name="Ciné 666 by Pluto TV" group-title="Movies",Ciné 666 by Pluto TV
 https://jmp2.uk/plu-6823648580b2665220d9e69a.m3u8
 #EXTINF:-1 tvg-name="Ciné Action by Pluto TV" group-title="Movies",Ciné Action by Pluto TV
@@ -972,26 +1010,56 @@ https://jmp2.uk/plu-60c34592c911890007f29a73.m3u8
 https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
 #EXTINF:-1 tvg-name="Ciné Western by Pluto TV" group-title="Movies",Ciné Western by Pluto TV
 https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
+#EXTINF:-1 tvg-name="Classic Movie Westerns" group-title="Movies;Series",Classic Movie Westerns
+https://jmp2.uk/plu-61f33318210549000806a530.m3u8
 #EXTINF:-1 tvg-name="Comedia a lo bestia de Pluto TV" group-title="Comedy",Comedia a lo bestia de Pluto TV
 https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8
 #EXTINF:-1 tvg-name="Comedy Central Animation" group-title="Comedy",Comedy Central Animation
 https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
+#EXTINF:-1 tvg-name="Comedy Central Roast" group-title="Comedy",Comedy Central Roast
+https://jmp2.uk/plu-6641fd41b18d700008e7e2b8.m3u8
 #EXTINF:-1 tvg-name="Comedy Play" group-title="Comedy",Comedy Play
 https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
 #EXTINF:-1 tvg-name="Comedy TV" group-title="Comedy",Comedy TV
 http://31.146.5.178:8087/play/a00b/index.m3u8
+#EXTINF:-1 tvg-name="Daria" group-title="Comedy",Daria
+https://jmp2.uk/plu-62d0895ebe7a970008785244.m3u8
 #EXTINF:-1 tvg-name="Estrellas de Acción" group-title="Movies",Estrellas de Acción
 https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
+#EXTINF:-1 tvg-name="Everybody Hates Chris" group-title="Comedy",Everybody Hates Chris
+https://jmp2.uk/plu-63a1cab19ab2df0007bf1c8b.m3u8
+#EXTINF:-1 tvg-name="Family Ties" group-title="Comedy",Family Ties
+https://jmp2.uk/plu-654a4a3ef91d250008ac089b.m3u8
+#EXTINF:-1 tvg-name="Frasier" group-title="Comedy",Frasier
+https://jmp2.uk/plu-62cebf042ffc6d0007c4e59a.m3u8
 #EXTINF:-1 tvg-name="GEM Comedy" group-title="Comedy",GEM Comedy
 https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-name="Kenan y Kel" group-title="Comedy",Kenan y Kel
-https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8
+#EXTINF:-1 tvg-name="I Love Lucy" group-title="Classic;Comedy",I Love Lucy
+https://jmp2.uk/plu-63a2f1dda0d69700078b7cba.m3u8
+#EXTINF:-1 tvg-name="Key & Peele" group-title="Comedy",Key & Peele
+https://jmp2.uk/plu-65cba715dc10a40008034917.m3u8
+#EXTINF:-1 tvg-name="Klovn" group-title="Comedy",Klovn
+https://jmp2.uk/plu-65a63ff00d9ab400080b101c.m3u8
+#EXTINF:-1 tvg-name="Man with a Plan" group-title="Comedy",Man with a Plan
+https://jmp2.uk/plu-678f88bb272ded16b1558c5e.m3u8
+#EXTINF:-1 tvg-name="Medium" group-title="Movies;Series",Medium
+https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8
+#EXTINF:-1 tvg-name="Merry Christmas from Viafree" group-title="Movies",Merry Christmas from Viafree
+https://jmp2.uk/plu-63048147b09fd60007847a08.m3u8
+#EXTINF:-1 tvg-name="More Pluto TV Comedy" group-title="Comedy",More Pluto TV Comedy
+https://jmp2.uk/plu-62e91c3add66e00007eeb24c.m3u8
+#EXTINF:-1 tvg-name="More TV Sci-fi" group-title="Movies;Series",More TV Sci-fi
+https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8
 #EXTINF:-1 tvg-name="Moviepilot TV mit Pluto TV" group-title="Movies",Moviepilot TV mit Pluto TV
 https://jmp2.uk/plu-65a67d572fac9c000835eb3a.m3u8
+#EXTINF:-1 tvg-name="NonStop Kung Fu" group-title="Movies",NonStop Kung Fu
+https://jmp2.uk/plu-6728d2be529ac9000830dc15.m3u8
 #EXTINF:-1 tvg-name="Paramount Network de Pluto TV" group-title="Movies",Paramount Network de Pluto TV
 https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
 #EXTINF:-1 tvg-name="Persiana Comedy" group-title="Comedy",Persiana Comedy
 https://comedyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Pluto Classic Movie Westerns" group-title="Movies;Series",Pluto Classic Movie Westerns
+https://jmp2.uk/plu-66dad50215d2c60008d7afbd.m3u8
 #EXTINF:-1 tvg-name="Pluto TV 80's Action" group-title="Movies;Series",Pluto TV 80's Action
 https://jmp2.uk/plu-66d717c6abec540008ba7eb5.m3u8
 #EXTINF:-1 tvg-name="Pluto TV 90's Classics" group-title="Movies;Series",Pluto TV 90's Classics
@@ -1136,10 +1204,84 @@ https://jmp2.uk/plu-630dd3b2605f140007e002f5.m3u8
 https://jmp2.uk/plu-68c01732b3900870ec74766f.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Zombies" group-title="Movies;Series",Pluto TV Zombies
 https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
+#EXTINF:-1 tvg-name="Rawhide" group-title="Movies;Series",Rawhide
+https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8
+#EXTINF:-1 tvg-name="Reno 911" group-title="Comedy",Reno 911
+https://jmp2.uk/plu-65e9766eec9fda0008cb418a.m3u8
+#EXTINF:-1 tvg-name="Ridiculousness" group-title="Comedy",Ridiculousness
+https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8
 #EXTINF:-1 tvg-name="Runtime" group-title="Movies",Runtime
 https://jmp2.uk/plu-6086d3f420fc8500075f8dbf.m3u8
+#EXTINF:-1 tvg-name="Sabrina Total verhext!" group-title="Comedy",Sabrina Total verhext!
+https://jmp2.uk/plu-622f40c901d4b70007ad7609.m3u8
+#EXTINF:-1 tvg-name="SensaCine TV x Pluto" group-title="Movies",SensaCine TV x Pluto
+https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8
+#EXTINF:-1 tvg-name="Sitcom Legends" group-title="Comedy",Sitcom Legends
+https://jmp2.uk/plu-633354b63df9700007f6a1b7.m3u8
+#EXTINF:-1 tvg-name="Sketchy AF" group-title="Comedy",Sketchy AF
+https://jmp2.uk/plu-67882c1c7b11714b795c2008.m3u8
+#EXTINF:-1 tvg-name="South Park Armageddon" group-title="Animation;Comedy",South Park Armageddon
+https://jmp2.uk/plu-660bff28516d260008479e23.m3u8
+#EXTINF:-1 tvg-name="South Park En Français" group-title="Animation;Comedy",South Park En Français
+https://jmp2.uk/plu-62bdb919d36cbd0007e6ab8a.m3u8
+#EXTINF:-1 tvg-name="South Park Rockin' Out" group-title="Animation;Comedy",South Park Rockin' Out
+https://jmp2.uk/plu-664f132c8ea5560008ce4d86.m3u8
+#EXTINF:-1 tvg-name="South Park Versión Original" group-title="Animation;Comedy",South Park Versión Original
+https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8
+#EXTINF:-1 tvg-name="South Park: Butters Collection" group-title="Animation;Comedy",South Park: Butters Collection
+https://jmp2.uk/plu-646b14a0e94c3800082a8d3a.m3u8
+#EXTINF:-1 tvg-name="South Park: Cartman Collection" group-title="Animation;Comedy",South Park: Cartman Collection
+https://jmp2.uk/plu-65df4934f7f0af0008c32545.m3u8
+#EXTINF:-1 tvg-name="South Park: Coleção Cartman" group-title="Animation;Comedy",South Park: Coleção Cartman
+https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8
+#EXTINF:-1 tvg-name="South Park: Coleção Kenny" group-title="Animation;Comedy",South Park: Coleção Kenny
+https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8
+#EXTINF:-1 tvg-name="South Park: Coleção Kyle" group-title="Animation;Comedy",South Park: Coleção Kyle
+https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8
+#EXTINF:-1 tvg-name="South Park: Coleção Stan" group-title="Animation;Comedy",South Park: Coleção Stan
+https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8
+#EXTINF:-1 tvg-name="South Park: Colección Cartman" group-title="Animation;Comedy",South Park: Colección Cartman
+https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8
+#EXTINF:-1 tvg-name="South Park: Colección Kenny" group-title="Animation;Comedy",South Park: Colección Kenny
+https://jmp2.uk/plu-65df7272ec9fda0008b7a970.m3u8
+#EXTINF:-1 tvg-name="South Park: Colección Kyle" group-title="Animation;Comedy",South Park: Colección Kyle
+https://jmp2.uk/plu-65df73520d4561000817c29b.m3u8
+#EXTINF:-1 tvg-name="South Park: Colección Stan" group-title="Animation;Comedy",South Park: Colección Stan
+https://jmp2.uk/plu-65df72db18036500081a8292.m3u8
+#EXTINF:-1 tvg-name="South Park: Into the Stars" group-title="Animation;Comedy",South Park: Into the Stars
+https://jmp2.uk/plu-664f0eaa8ce31100088036bd.m3u8
+#EXTINF:-1 tvg-name="South Park: Kenny Collection" group-title="Animation;Comedy",South Park: Kenny Collection
+https://jmp2.uk/plu-65df47f428730900089f83ac.m3u8
+#EXTINF:-1 tvg-name="South Park: Kyle Collection" group-title="Animation;Comedy",South Park: Kyle Collection
+https://jmp2.uk/plu-65df49b30d45610008172c5b.m3u8
+#EXTINF:-1 tvg-name="South Park: Original Version" group-title="Animation;Comedy",South Park: Original Version
+https://jmp2.uk/plu-646b150a15939400089e2702.m3u8
+#EXTINF:-1 tvg-name="South Park: Stan Collection" group-title="Animation;Comedy",South Park: Stan Collection
+https://jmp2.uk/plu-65df48ba28730900089f8480.m3u8
+#EXTINF:-1 tvg-name="South Park: Welcome to Canada!" group-title="Animation;Comedy",South Park: Welcome to Canada!
+https://jmp2.uk/plu-663115d923e24f000843b49c.m3u8
+#EXTINF:-1 tvg-name="Star Trek Movies" group-title="Movies",Star Trek Movies
+https://jmp2.uk/plu-6400c281dff38e00083f59da.m3u8
+#EXTINF:-1 tvg-name="Star Trek: Deep Space Nine" group-title="Movies;Series",Star Trek: Deep Space Nine
+https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
+#EXTINF:-1 tvg-name="Star Trek: The Next Generation" group-title="Movies;Series",Star Trek: The Next Generation
+https://jmp2.uk/plu-65786b94cbd0d60008f7e4d9.m3u8
+#EXTINF:-1 tvg-name="Star Trek: The Original Series" group-title="Movies;Series",Star Trek: The Original Series
+https://jmp2.uk/plu-693add137e308621c051e733.m3u8
+#EXTINF:-1 tvg-name="Star Trek: Voyager" group-title="Movies;Series",Star Trek: Voyager
+https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
+#EXTINF:-1 tvg-name="The Beverly Hillbillies" group-title="Classic;Comedy",The Beverly Hillbillies
+https://jmp2.uk/plu-6565fefdc917a50008485cc6.m3u8
+#EXTINF:-1 tvg-name="The Twilight Zone" group-title="Movies;Series",The Twilight Zone
+https://jmp2.uk/plu-6512ec9f3a0d700008db4f0c.m3u8
+#EXTINF:-1 tvg-name="The Wild Wild West" group-title="Movies;Series",The Wild Wild West
+https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
+#EXTINF:-1 tvg-name="Tosh.0" group-title="Comedy",Tosh.0
+https://jmp2.uk/plu-65e977042873090008b48be9.m3u8
 #EXTINF:-1 tvg-name="Vaya semanita" group-title="Comedy",Vaya semanita
 https://jmp2.uk/plu-5f28009b150b2500077766b8.m3u8
+#EXTINF:-1 tvg-name="Viafree Movies" group-title="Movies",Viafree Movies
+https://jmp2.uk/plu-62bebc3459624e00078209c3.m3u8
 #EXTINF:-1 tvg-name="Wild Side TV" group-title="Movies",Wild Side TV
 https://jmp2.uk/plu-60b4d6c806ad2a00073b3108.m3u8
 #EXTINF:-1 tvg-name="Whiplash Cinema (480p)" group-title="Movies",Whiplash Cinema (480p)
@@ -1432,3 +1574,29 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universalcinema/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8
 #EXTINF:-1 tvg-name="Zee Cinema ME" group-title="Movies",Zee Cinema ME
 http://41.205.77.102/ZEE-CINEMA/index.m3u8
+#EXTINF:-1 tvg-name="Shot TV (576p)" group-title="Movies",Shot TV (576p)
+http://hls127.freeott.top:8080/SHOT_TV/video.m3u8
+#EXTINF:-1 tvg-name="Battlestar Galactica" group-title="Movies;Series",Battlestar Galactica
+https://jmp2.uk/plu-69d7ebff029c431826bd328e.m3u8
+#EXTINF:-1 tvg-name="Hallmark Movies & More" group-title="Movies",Hallmark Movies & More
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
+#EXTINF:-1 tvg-name="Pluto TV Franchise Favorites" group-title="Movies",Pluto TV Franchise Favorites
+https://jmp2.uk/plu-68fbf8101d26140175db8b58.m3u8
+#EXTINF:-1 tvg-name="Frasier: Berühmte Gäste" group-title="Comedy",Frasier: Berühmte Gäste
+https://jmp2.uk/plu-6790fa9e1cfc4aa96dfadcef.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Haialarm" group-title="Movies;Series",Pluto TV Haialarm
+https://jmp2.uk/plu-69b015c5d29cc97de7da4af8.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Laughs in Spanish" group-title="Comedy",Pluto TV Laughs in Spanish
+https://jmp2.uk/plu-69a554179a3f3bb488c7d2be.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Weihnachten im Sommer" group-title="Movies",Pluto TV Weihnachten im Sommer
+https://jmp2.uk/plu-642ad072283aa4000806148c.m3u8
+#EXTINF:-1 tvg-name="South Park Rocks!" group-title="Animation;Comedy",South Park Rocks!
+https://jmp2.uk/plu-664f12bb3d173b0008168c1f.m3u8
+#EXTINF:-1 tvg-name="South Park: Stars & Sternchen" group-title="Animation;Comedy",South Park: Stars & Sternchen
+https://jmp2.uk/plu-664f0d373d173b0008164948.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Movies",AMC Latin America Brazil" group-title="Movies",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Movies",AMC Latin America Brazil
+https://cdn-5.nxplay.com.br/AMC_BRASIL/index.m3u8
+#EXTINF:-1 tvg-name="Summer of Movies" group-title="Movies",Summer of Movies
+https://jmp2.uk/plu-6654adb1f99922000854388c.m3u8
+#EXTINF:-1 tvg-name="Crazy Ex-Girlfriend" group-title="Comedy",Crazy Ex-Girlfriend
+https://jmp2.uk/plu-693ae5660eedebc8d5db6579.m3u8

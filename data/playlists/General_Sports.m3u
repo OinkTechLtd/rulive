@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-29 13:15:17
-# Всего каналов: 18179
-# Новых за сессию: 0
+# Обновлено: 2026-06-29 15:54:56
+# Всего каналов: 18260
+# Новых за сессию: 81
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Sports
 # Каналов: 1
-# Обновлено: 2026-06-29 13:15:17
+# Обновлено: 2026-06-29 15:54:56
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="TVR Sport" group-title="General;Sports",TVR Sport
@@ -903,7 +903,7 @@ https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 https://livestream.telvue.com/phillycam1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Pinole Community Television (PCTV) Channel 28 (Pinole CA) (480p)" group-title="General",Pinole Community Television (PCTV) Channel 28 (Pinole CA) (480p)
 https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_002/playlist.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Futbol Para Fans" group-title="Sports",Pluto TV Futbol Para Fans
+#EXTINF:-1 tvg-name="Pluto TV Fútbol" group-title="Sports",Pluto TV Fútbol
 https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8
 #EXTINF:-1 tvg-name="Poker Go" group-title="Sports",Poker Go
 https://aegis-cloudfront-1.tubi.video/b474c2bb-b34d-4c53-a94b-c4ffe884563c/playlist.m3u8
@@ -4297,6 +4297,8 @@ https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
 https://viamotionhsi.netplus.ch/live/eds/bntworld/browser-HLS8/bntworld.m3u8
 #EXTINF:-1 tvg-name="Boishakhi TV" group-title="General",Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-1 tvg-name="Brøndby TV" group-title="Sports",Brøndby TV
+https://jmp2.uk/plu-685029cda1e091e16ff57fc8.m3u8
 #EXTINF:-1 tvg-name="BTB 3" group-title="General",BTB 3
 https://emisja3.btb.j00r.us/iptv/session/3/hls.m3u8
 #EXTINF:-1 tvg-name="BTB" group-title="General",BTB
@@ -4451,6 +4453,8 @@ https://live.ecomservice.bg/hls/stream.m3u8
 https://stream8.cinerama.uz/1458/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Fars" group-title="General",Fars
 https://ncdn.telewebion.ir/fars/live/playlist.m3u8
+#EXTINF:-1 tvg-name="FCK Løvinderne" group-title="Sports",FCK Løvinderne
+https://jmp2.uk/plu-68ac5403de4a734954b5ab75.m3u8
 #EXTINF:-1 tvg-name="Federalna televizija" group-title="General",Federalna televizija
 http://185.81.240.65:15000/udp/233.233.233.39:12000
 #EXTINF:-1 tvg-name="Fehérvár TV (360p)" group-title="General",Fehérvár TV (360p)
@@ -4459,6 +4463,8 @@ https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8
 https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
 #EXTINF:-1 tvg-name="France 3 [Geo-Blocked]" group-title="General",France 3 [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd
+#EXTINF:-1 tvg-name="Frasier" group-title="General",Frasier
+https://jmp2.uk/plu-6400c095498393000878a634.m3u8
 #EXTINF:-1 tvg-name="Garuda TV" group-title="General",Garuda TV
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 #EXTINF:-1 tvg-name="Gazi TV" group-title="General",Gazi TV
@@ -4763,6 +4769,8 @@ https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
 https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
 #EXTINF:-1 tvg-name="MTV3" group-title="General",MTV3
 https://live-fi.tvkaista.net/mtv3/live.m3u8
+#EXTINF:-1 tvg-name="MTV Reality" group-title="General",MTV Reality
+https://jmp2.uk/plu-685137f4a1e091e16f2dd471.m3u8
 #EXTINF:-1 tvg-name="Muscel TV" group-title="General",Muscel TV
 https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Nama TV" group-title="General",Nama TV
@@ -6147,3 +6155,19 @@ https://59d39900ebfb8.streamlock.net/unicatv/unicatv/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/vivatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Trace Sport Stars" group-title="Sports",Trace Sport Stars
 http://ott.watch/XE5QWWBZ87/256/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Golazo Network" group-title="Sports",Golazo Network
+https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
+#EXTINF:-1 tvg-name="Real Madrid TV English [Geo-blocked]" group-title="Sports",Real Madrid TV English [Geo-blocked]
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-name="Gustav & Linse på udebane" group-title="General",Gustav & Linse på udebane
+https://jmp2.uk/plu-69c290eeed1b1f1acb446dd8.m3u8
+#EXTINF:-1 tvg-name="The Millers" group-title="General",The Millers
+https://jmp2.uk/plu-69afeefa0a7f2095e768401c.m3u8
+#EXTINF:-1 tvg-name="Bolivision" group-title="General",Bolivision
+https://d135ohnuotzzyo.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-name="Cable Nobsa TV" group-title="General",Cable Nobsa TV
+https://eu1.servers10.com:8081/8164/index.m3u8
+#EXTINF:-1 tvg-name="Lila TV Pencahue" group-title="General",Lila TV Pencahue
+https://tv.arkeo.cl:1936/radiolila/radiolila/playlist.m3u8
+#EXTINF:-1 tvg-name="Maray TV" group-title="General",Maray TV
+https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8

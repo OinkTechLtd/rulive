@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-29 13:15:17
-# Всего каналов: 18179
-# Новых за сессию: 0
+# Обновлено: 2026-06-29 15:54:56
+# Всего каналов: 18260
+# Новых за сессию: 81
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture
-# Каналов: 128
-# Обновлено: 2026-06-29 13:15:17
+# Каналов: 129
+# Обновлено: 2026-06-29 15:54:56
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Aurora Arte (480p)" group-title="Culture",Aurora Arte (480p)
@@ -375,6 +375,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/s1.tvdatta.com:3978/li
 
 #EXTINF:-1 tvg-name="Teatr (576p)" group-title="Culture",Teatr (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls127.freeott.top:8080/Teatr/video.m3u8
+
+#EXTINF:-1 tvg-name="Doyel TV" group-title="Culture",Doyel TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
 
 #EXTINF:-1 tvg-name="Беларусь 3" group-title="Culture",Беларусь 3
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8

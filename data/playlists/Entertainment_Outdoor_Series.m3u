@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-29 13:15:17
-# Всего каналов: 18179
-# Новых за сессию: 0
+# Обновлено: 2026-06-29 15:54:56
+# Всего каналов: 18260
+# Новых за сессию: 81
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Outdoor;Series
 # Каналов: 2
-# Обновлено: 2026-06-29 13:15:17
+# Обновлено: 2026-06-29 15:54:56
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pluto TV Adventure" group-title="Entertainment;Outdoor;Series",Pluto TV Adventure
@@ -170,7 +170,7 @@ https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist
 https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="At Home with Family Handyman" group-title="Series",At Home with Family Handyman
 https://d1ik2p49apxqjf.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-name="Auction Hunters" group-title="Series",Auction Hunters
+#EXTINF:-1 tvg-name="Auction Hunters" group-title="Entertainment",Auction Hunters
 https://jmp2.uk/plu-62ac50e92c48f900071444c9.m3u8
 #EXTINF:-1 tvg-name="Bar Rescue" group-title="Series",Bar Rescue
 https://jmp2.uk/plu-60a3d889a5b3690008dc7fe8.m3u8
@@ -272,8 +272,6 @@ https://media.streambrothers.com:1936/8052/8052/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
 #EXTINF:-1 tvg-name="Guinness World Records (480i)" group-title="Entertainment",Guinness World Records (480i)
 https://stream.ads.ottera.tv/cl/260421d7jmp97108ighs2i413g/1280x720_2300000_0_f.m3u8?i=475_567
-#EXTINF:-1 tvg-name="Gunsmoke" group-title="Series",Gunsmoke
-https://jmp2.uk/plu-68503d1736c9361b191e7d89.m3u8
 #EXTINF:-1 tvg-name="Hallmark Drama" group-title="Series",Hallmark Drama
 https://tvpass.org/live/HallmarkDrama/hd
 #EXTINF:-1 tvg-name="Happy Days" group-title="Series",Happy Days
@@ -340,7 +338,7 @@ https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
 https://linear-897.frequency.stream/dist/cineverse/897/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="Midsomer Murders" group-title="Series",Midsomer Murders
 https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Mission Impossible" group-title="Series",Mission Impossible
+#EXTINF:-1 tvg-name="Mission Impossible" group-title="Movies;Series",Mission Impossible
 https://jmp2.uk/plu-62ab579258cb950007811aad.m3u8
 #EXTINF:-1 tvg-name="Misterios sin resolver" group-title="Series",Misterios sin resolver
 https://jmp2.uk/plu-5f4d882d5233170007ee880e.m3u8
@@ -400,6 +398,8 @@ https://jmp2.uk/plu-5bb3fea0f711fd76340eebff.m3u8
 https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Reality" group-title="Entertainment",Pluto TV Reality
 https://jmp2.uk/plu-5d8bf0b06d2d855ee15115e3.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Romance" group-title="Movies;Series",Pluto TV Romance
+https://jmp2.uk/plu-5a66795ef91fef2c7031c599.m3u8
 #EXTINF:-1 tvg-name="Pluto TV True Crime" group-title="Documentary;Series",Pluto TV True Crime
 https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8
 #EXTINF:-1 tvg-name="Popstar! TV" group-title="Entertainment",Popstar! TV
@@ -432,6 +432,8 @@ https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg0
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Talkin Live Classics TV (480p)" group-title="Entertainment",Talkin Live Classics TV (480p)
 https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8
+#EXTINF:-1 tvg-name="Teen Mom" group-title="Entertainment",Teen Mom
+https://jmp2.uk/plu-62d550d81054990007db7798.m3u8
 #EXTINF:-1 tvg-name="Tele Boston (480p)" group-title="Entertainment",Tele Boston (480p)
 https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8
 #EXTINF:-1 tvg-name="TeleMIX" group-title="Entertainment",TeleMIX
@@ -530,29 +532,23 @@ http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15171/index.m3u8
 https://jmp2.uk/plu-60afb576053df900076fa2f0.m3u8
 #EXTINF:-1 tvg-name="Chaos City" group-title="Series",Chaos City
 https://jmp2.uk/plu-60afbad343e3840007164348.m3u8
-#EXTINF:-1 tvg-name="Cheers" group-title="Series",Cheers
-https://jmp2.uk/plu-611e7f224676bf00076a4d8d.m3u8
-#EXTINF:-1 tvg-name="Comedy Central South Park" group-title="Series",Comedy Central South Park
-https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8
 #EXTINF:-1 tvg-name="Horse & Country TV" group-title="Outdoor",Horse & Country TV
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
-#EXTINF:-1 tvg-name="iCarly" group-title="Series",iCarly
-https://jmp2.uk/plu-5e8b580a233dc90007f0cb9d.m3u8
 #EXTINF:-1 tvg-name="Ice Pilots" group-title="Series",Ice Pilots
 https://jmp2.uk/plu-5ce40f42ba7f7f5ea9518fe1.m3u8
 #EXTINF:-1 tvg-name="kabel eins" group-title="Entertainment",kabel eins
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
 #EXTINF:-1 tvg-name="MC TV" group-title="Entertainment",MC TV
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&output=playlist.m3u8&protocol=https&service=wowza&type=live
-#EXTINF:-1 tvg-name="MTV Catfish TV Show" group-title="Series",MTV Catfish TV Show
+#EXTINF:-1 tvg-name="MTV Catfish TV Show" group-title="Entertainment",MTV Catfish TV Show
 https://jmp2.uk/plu-5db6a697d5f34a000934cd13.m3u8
-#EXTINF:-1 tvg-name="MTV Dating" group-title="Series",MTV Dating
+#EXTINF:-1 tvg-name="MTV Dating" group-title="Entertainment",MTV Dating
 https://jmp2.uk/plu-5caf330ea5068259a32320fd.m3u8
 #EXTINF:-1 tvg-name="MTV Ridiculousness" group-title="Entertainment",MTV Ridiculousness
 https://jmp2.uk/plu-5f9847fd513250000728a9a5.m3u8
-#EXTINF:-1 tvg-name="MTV Teen Mom" group-title="Series",MTV Teen Mom
+#EXTINF:-1 tvg-name="MTV Teen Mom" group-title="Entertainment",MTV Teen Mom
 https://jmp2.uk/plu-5cffcf5686dfe15595fb3f56.m3u8
-#EXTINF:-1 tvg-name="MTV The Shores" group-title="Series",MTV The Shores
+#EXTINF:-1 tvg-name="MTV The Shores" group-title="Entertainment",MTV The Shores
 https://jmp2.uk/plu-5caf32c2a5068259a32320fc.m3u8
 #EXTINF:-1 tvg-name="Nitro [Geo-Blocked]" group-title="Entertainment",Nitro [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
@@ -1074,6 +1070,8 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://jmp2.uk/plu-5e8db96bccae160007c71eec.m3u8
 #EXTINF:-1 tvg-name="Asia TV" group-title="Entertainment;Family;General",Asia TV
 https://stream.asiatvnet.com/1/live/master.m3u8
+#EXTINF:-1 tvg-name="Avatar" group-title="Animation;Kids;Series",Avatar
+https://jmp2.uk/plu-656df599c0fc8800089c75ab.m3u8
 #EXTINF:-1 tvg-name="B+ TV (480p)" group-title="Entertainment",B+ TV (480p)
 https://tv.btnrwanda.com:3432/live/bpluslive.m3u8
 #EXTINF:-1 tvg-name="Blaze (576p) [Geo-blocked]" group-title="Entertainment",Blaze (576p) [Geo-blocked]
@@ -1692,32 +1690,122 @@ https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8
 http://43.252.18.195:5080/live/streams/KoreanDrama.playlist.m3u8
 #EXTINF:-1 tvg-name="Persiana Series" group-title="Series",Persiana Series
 https://onehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="16 Anni e Incinta" group-title="Series",16 Anni e Incinta
+#EXTINF:-1 tvg-name="7th Heaven" group-title="Series",7th Heaven
+https://jmp2.uk/plu-6728c9c85534bb0008b320a4.m3u8
+#EXTINF:-1 tvg-name="16 Anni e Incinta" group-title="Entertainment",16 Anni e Incinta
 https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8
+#EXTINF:-1 tvg-name="2900 Happiness" group-title="Series",2900 Happiness
+https://jmp2.uk/plu-6720bc6cdaad7f000872a6e2.m3u8
 #EXTINF:-1 tvg-name="90210" group-title="Series",90210
 https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
 #EXTINF:-1 tvg-name="Acapulco Shore Pluto TV" group-title="Series",Acapulco Shore Pluto TV
 https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
 #EXTINF:-1 tvg-name="Alerte à Malibu" group-title="Series",Alerte à Malibu
 https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8
+#EXTINF:-1 tvg-name="America's Next Top Model" group-title="Entertainment",America's Next Top Model
+https://jmp2.uk/plu-68679fc6bb46d0bdd38ac9a4.m3u8
 #EXTINF:-1 tvg-name="Ana y los 7" group-title="Series",Ana y los 7
 https://jmp2.uk/plu-5f1acce7f17797000718f9be.m3u8
 #EXTINF:-1 tvg-name="Andromeda Italy" group-title="Series",Andromeda Italy
 https://jmp2.uk/plu-60802d37ee238e0007c94e64.m3u8
 #EXTINF:-1 tvg-name="Anthony Bourdain: Parts Unknown" group-title="Series",Anthony Bourdain: Parts Unknown
 https://jmp2.uk/plu-69173ce8abd4703b27f71d44.m3u8
-#EXTINF:-1 tvg-name="Are You The One?" group-title="Series",Are You The One?
+#EXTINF:-1 tvg-name="Are You The One?" group-title="Entertainment",Are You The One?
 https://jmp2.uk/plu-61c091c39863900007ac9e8f.m3u8
+#EXTINF:-1 tvg-name="Awkward" group-title="Series",Awkward
+https://jmp2.uk/plu-62bc1784120ba80007935aaa.m3u8
+#EXTINF:-1 tvg-name="Becker" group-title="Classic;Series",Becker
+https://jmp2.uk/plu-672e157d7d5da5000812872d.m3u8
 #EXTINF:-1 tvg-name="Best of Dr. Phil" group-title="Entertainment",Best of Dr. Phil
 https://jmp2.uk/plu-666815f24b9fb400083f7e31.m3u8
+#EXTINF:-1 tvg-name="Best of MTV" group-title="Entertainment",Best of MTV
+https://jmp2.uk/plu-632aff5e44111b00076ad9b1.m3u8
+#EXTINF:-1 tvg-name="Best of Paradise Hotel: Finalveckan" group-title="Entertainment",Best of Paradise Hotel: Finalveckan
+https://jmp2.uk/plu-65e97d41f7f0af0008da2543.m3u8
+#EXTINF:-1 tvg-name="Best of Paradise Hotel: Kyssar & kärlek" group-title="Entertainment",Best of Paradise Hotel: Kyssar & kärlek
+https://jmp2.uk/plu-65b1077e0d9ab40008245b20.m3u8
+#EXTINF:-1 tvg-name="Best of Paradise Hotel: Pandoras Ask" group-title="Entertainment",Best of Paradise Hotel: Pandoras Ask
+https://jmp2.uk/plu-65e97d760d456100082da660.m3u8
+#EXTINF:-1 tvg-name="Best of Paradise Hotel: Skolveckan" group-title="Entertainment",Best of Paradise Hotel: Skolveckan
+https://jmp2.uk/plu-65e97cd118036500082ed0ce.m3u8
 #EXTINF:-1 tvg-name="Best of The Drew Barrymore Show" group-title="Entertainment",Best of The Drew Barrymore Show
 https://jmp2.uk/plu-6310cbee5a8ad300070fdb7c.m3u8
+#EXTINF:-1 tvg-name="BET" group-title="Series",BET
+https://jmp2.uk/plu-61c1939b8929e40007ff6382.m3u8
+#EXTINF:-1 tvg-name="Beyond the Gates" group-title="Entertainment",Beyond the Gates
+https://jmp2.uk/plu-687ff00ff6bc08130f16ab81.m3u8
+#EXTINF:-1 tvg-name="Big Brother" group-title="Entertainment",Big Brother
+https://jmp2.uk/plu-6661f11a41af6400080e90d8.m3u8
+#EXTINF:-1 tvg-name="BIG BROTHER CLASSIC" group-title="Entertainment",BIG BROTHER CLASSIC
+https://jmp2.uk/plu-663e09e4b18d700008e48dcf.m3u8
+#EXTINF:-1 tvg-name="Boligjakten" group-title="Entertainment",Boligjakten
+https://jmp2.uk/plu-61c1dc21b9587d0007e3fc15.m3u8
+#EXTINF:-1 tvg-name="Bonanza" group-title="Movies;Series",Bonanza
+https://jmp2.uk/plu-696e647b07ea70192d49f6a5.m3u8
+#EXTINF:-1 tvg-name="Bondi Rescue" group-title="Entertainment",Bondi Rescue
+https://jmp2.uk/plu-66166989635c7500084105a2.m3u8
+#EXTINF:-1 tvg-name="Breinholts" group-title="Entertainment",Breinholts
+https://jmp2.uk/plu-660d6c0094db140008fe2f74.m3u8
+#EXTINF:-1 tvg-name="Britain's Next Top Model" group-title="Series",Britain's Next Top Model
+https://jmp2.uk/plu-67a09ddc21af380008088dc3.m3u8
+#EXTINF:-1 tvg-name="Cagney & Lacey" group-title="Series",Cagney & Lacey
+https://jmp2.uk/plu-6960c5a906d76f50db2816dc.m3u8
+#EXTINF:-1 tvg-name="Camp Kulinaris" group-title="Entertainment",Camp Kulinaris
+https://jmp2.uk/plu-61c1dce2fb9ae40007d0ac15.m3u8
+#EXTINF:-1 tvg-name="Car Chase" group-title="Series",Car Chase
+https://jmp2.uk/plu-65a93b0607e03a000895abda.m3u8
+#EXTINF:-1 tvg-name="Catfish" group-title="Entertainment",Catfish
+https://jmp2.uk/plu-64f8a2a23a0d700008a6ed7b.m3u8
+#EXTINF:-1 tvg-name="CATFISH TV" group-title="Entertainment",CATFISH TV
+https://jmp2.uk/plu-5f8eb66537867f0007146953.m3u8
+#EXTINF:-1 tvg-name="CBS en español" group-title="Entertainment",CBS en español
+https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8
+#EXTINF:-1 tvg-name="Charterfeber" group-title="Entertainment",Charterfeber
+https://jmp2.uk/plu-61c1dda0fe470d00080f85b8.m3u8
+#EXTINF:-1 tvg-name="Cheers" group-title="Series",Cheers
+https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8
+#EXTINF:-1 tvg-name="Cin Cin" group-title="Classic;Series",Cin Cin
+https://jmp2.uk/plu-65cb78b83a116800079e2e35.m3u8
+#EXTINF:-1 tvg-name="Cine aventura" group-title="Entertainment",Cine aventura
+https://jmp2.uk/plu-60fb2f47c133270007327375.m3u8
+#EXTINF:-1 tvg-name="Cine en español" group-title="Entertainment",Cine en español
+https://jmp2.uk/plu-5cf96b1c4f1ca3f0629f4bf0.m3u8
+#EXTINF:-1 tvg-name="Classic Movie Westerns" group-title="Movies;Series",Classic Movie Westerns
+https://jmp2.uk/plu-61f33318210549000806a530.m3u8
+#EXTINF:-1 tvg-name="CSI: Crime Scene Investigation" group-title="Series",CSI: Crime Scene Investigation
+https://jmp2.uk/plu-6304f8d5ffb61000071ab478.m3u8
+#EXTINF:-1 tvg-name="CSI: Miami" group-title="Series",CSI: Miami
+https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
+#EXTINF:-1 tvg-name="CSI: Miami en español" group-title="Entertainment",CSI: Miami en español
+https://jmp2.uk/plu-632b5950b515b000079e6b81.m3u8
+#EXTINF:-1 tvg-name="CSI: NY" group-title="Series",CSI: NY
+https://jmp2.uk/plu-62f54c6439183b000769fb8f.m3u8
+#EXTINF:-1 tvg-name="CSI: NY en español" group-title="Entertainment",CSI: NY en español
+https://jmp2.uk/plu-632b606e12a67b0007c9e371.m3u8
 #EXTINF:-1 tvg-name="Curro Jiménez" group-title="Series",Curro Jiménez
 https://jmp2.uk/plu-5f1acd36779de70007a680d1.m3u8
+#EXTINF:-1 tvg-name="Dallas Cowboys Cheerleaders" group-title="Series",Dallas Cowboys Cheerleaders
+https://jmp2.uk/plu-64e87c6b28cec700088ceb55.m3u8
+#EXTINF:-1 tvg-name="Dating Disasters" group-title="Entertainment",Dating Disasters
+https://jmp2.uk/plu-651f239d9c7aeb0008286823.m3u8
+#EXTINF:-1 tvg-name="DCC: Making the Team" group-title="Entertainment",DCC: Making the Team
+https://jmp2.uk/plu-5d40855b3fb0855028c99b6f.m3u8
+#EXTINF:-1 tvg-name="Den gule sofa med Allan Sindberg" group-title="Entertainment",Den gule sofa med Allan Sindberg
+https://jmp2.uk/plu-66b22714d512590008c3d573.m3u8
+#EXTINF:-1 tvg-name="Det sene show med Christian Fuhlendorff" group-title="Entertainment",Det sene show med Christian Fuhlendorff
+https://jmp2.uk/plu-660d6bc10cd4630008f4a25a.m3u8
+#EXTINF:-1 tvg-name="Diagnosis Murder" group-title="Series",Diagnosis Murder
+https://jmp2.uk/plu-65fd548f29adfd00089c662c.m3u8
 #EXTINF:-1 tvg-name="Diff’rent Strokes Arnold" group-title="Series",Diff’rent Strokes Arnold
 https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8
+#EXTINF:-1 tvg-name="Doc Martin" group-title="Series",Doc Martin
+https://jmp2.uk/plu-62e922f6675f71000736db3b.m3u8
 #EXTINF:-1 tvg-name="Dog el cazarrecompensas" group-title="Series",Dog el cazarrecompensas
 https://jmp2.uk/plu-5f9992c685a2a80007fa414a.m3u8
+#EXTINF:-1 tvg-name="Dynasty" group-title="Series",Dynasty
+https://jmp2.uk/plu-62e919ca865c590007ecd0bd.m3u8
+#EXTINF:-1 tvg-name="Efterlyst" group-title="Series",Efterlyst
+https://jmp2.uk/plu-646ce0e2e1979c0008983939.m3u8
 #EXTINF:-1 tvg-name="El Comisario" group-title="Series",El Comisario
 https://jmp2.uk/plu-60c343007bcabe0007242aa6.m3u8
 #EXTINF:-1 tvg-name="El encantador de perros" group-title="Series",El encantador de perros
@@ -1726,22 +1814,68 @@ https://jmp2.uk/plu-60e45687313c5f0007bc8e94.m3u8
 https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8
 #EXTINF:-1 tvg-name="En el punto de mira" group-title="Entertainment",En el punto de mira
 https://jmp2.uk/plu-61922be835f3910007fc58f6.m3u8
+#EXTINF:-1 tvg-name="Eventyrlig Oppussing" group-title="Entertainment",Eventyrlig Oppussing
+https://jmp2.uk/plu-61c1de93244e500007581d69.m3u8
 #EXTINF:-1 tvg-name="Ex On The Beach" group-title="Entertainment",Ex On The Beach
 https://jmp2.uk/plu-61c0909b872c650008ed42e4.m3u8
+#EXTINF:-1 tvg-name="Familien fra Bryggen" group-title="Entertainment",Familien fra Bryggen
+https://jmp2.uk/plu-61c19c8c9863900007acaa57.m3u8
+#EXTINF:-1 tvg-name="FBoy Island" group-title="Series",FBoy Island
+https://jmp2.uk/plu-6790d6c7bc03978b9bfbfd44.m3u8
+#EXTINF:-1 tvg-name="Feel Good Drama" group-title="Series",Feel Good Drama
+https://jmp2.uk/plu-65775af3b3801200084a3aa4.m3u8
+#EXTINF:-1 tvg-name="For lækker til love" group-title="Entertainment",For lækker til love
+https://jmp2.uk/plu-6272511cb389bb0007b30b09.m3u8
+#EXTINF:-1 tvg-name="Forsidefruer" group-title="Entertainment",Forsidefruer
+https://jmp2.uk/plu-61c19dcefbb4b50007d242e1.m3u8
 #EXTINF:-1 tvg-name="Frasier" group-title="Series",Frasier
 https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8
+#EXTINF:-1 tvg-name="Frusna Vägar" group-title="Entertainment",Frusna Vägar
+https://jmp2.uk/plu-61c19099bf8c520007a93cff.m3u8
+#EXTINF:-1 tvg-name="Germany Shore" group-title="Entertainment",Germany Shore
+https://jmp2.uk/plu-6447dea7e94c380008dba94c.m3u8
+#EXTINF:-1 tvg-name="Gunsmoke" group-title="Series",Gunsmoke
+https://jmp2.uk/plu-62e916affb29c60007211c8a.m3u8
 #EXTINF:-1 tvg-name="Hélène et les garçons" group-title="Series",Hélène et les garçons
 https://jmp2.uk/plu-604f8de01b479400078fb1e7.m3u8
+#EXTINF:-1 tvg-name="Högspänning" group-title="Entertainment",Högspänning
+https://jmp2.uk/plu-6537abf42cf1310008441686.m3u8
+#EXTINF:-1 tvg-name="Hot Bench" group-title="Entertainment",Hot Bench
+https://jmp2.uk/plu-6036e6e7ac69c400072afca2.m3u8
+#EXTINF:-1 tvg-name="House of Lies" group-title="Series",House of Lies
+https://jmp2.uk/plu-693ae62a43fe00a023e76e0d.m3u8
 #EXTINF:-1 tvg-name="Il Banco dei Pugni" group-title="Entertainment",Il Banco dei Pugni
 https://jmp2.uk/plu-60e4507a06171800072339a3.m3u8
+#EXTINF:-1 tvg-name="Il Testimone" group-title="Entertainment",Il Testimone
+https://jmp2.uk/plu-61fbd3f0733df400076c9a2d.m3u8
 #EXTINF:-1 tvg-name="Inazuma Eleven" group-title="Kids;Series",Inazuma Eleven
 https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8
 #EXTINF:-1 tvg-name="Instant Saga" group-title="Series",Instant Saga
 https://jmp2.uk/plu-60549e98061b5f000776866a.m3u8
+#EXTINF:-1 tvg-name="Investiga" group-title="Series",Investiga
+https://jmp2.uk/plu-5cf96b8f4f1ca3f0629f4bf1.m3u8
 #EXTINF:-1 tvg-name="Investigation by Pluto TV" group-title="Series",Investigation by Pluto TV
 https://jmp2.uk/plu-6683cd2fca74680008772545.m3u8
 #EXTINF:-1 tvg-name="Iron Chef" group-title="Series",Iron Chef
 https://jmp2.uk/plu-6582f8dadfed030008e5a93d.m3u8
+#EXTINF:-1 tvg-name="JAG" group-title="Series",JAG
+https://jmp2.uk/plu-66a105f4a79dea0008aa5e0f.m3u8
+#EXTINF:-1 tvg-name="Jersey Shore Family Vacation" group-title="Entertainment",Jersey Shore Family Vacation
+https://jmp2.uk/plu-6728c831c7626f0008b28127.m3u8
+#EXTINF:-1 tvg-name="Jornada nas Estrelas A Nova Geração" group-title="Series",Jornada nas Estrelas A Nova Geração
+https://jmp2.uk/plu-69162ad79505d0f3b1ebf07d.m3u8
+#EXTINF:-1 tvg-name="Jornada nas Estrelas Deep Space Nine" group-title="Series",Jornada nas Estrelas Deep Space Nine
+https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8
+#EXTINF:-1 tvg-name="Jornada nas Estrelas Voyager" group-title="Series",Jornada nas Estrelas Voyager
+https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8
+#EXTINF:-1 tvg-name="Judge Judy" group-title="Series",Judge Judy
+https://jmp2.uk/plu-6380c36389eccc000858c50f.m3u8
+#EXTINF:-1 tvg-name="Just Tattoo of Us" group-title="Entertainment",Just Tattoo of Us
+https://jmp2.uk/plu-6304f20c941c5d00089634e7.m3u8
+#EXTINF:-1 tvg-name="Kenan y Kel" group-title="Series",Kenan y Kel
+https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8
+#EXTINF:-1 tvg-name="Langt fra Bryggen" group-title="Entertainment",Langt fra Bryggen
+https://jmp2.uk/plu-654a3fe6986ad20008a42add.m3u8
 #EXTINF:-1 tvg-name="Le miracle de l'amour" group-title="Series",Le miracle de l'amour
 https://jmp2.uk/plu-60549c238c3f21000753d3e0.m3u8
 #EXTINF:-1 tvg-name="Le sorelle McLeod" group-title="Series",Le sorelle McLeod
@@ -1752,34 +1886,120 @@ https://jmp2.uk/plu-60afae68a7fc50000737186d.m3u8
 https://jmp2.uk/plu-60549d97cd7b090007c73314.m3u8
 #EXTINF:-1 tvg-name="Les Nouveaux Detectives" group-title="Series",Les Nouveaux Detectives
 https://jmp2.uk/plu-5f8edb6df1ebb800072edf10.m3u8
+#EXTINF:-1 tvg-name="Live Music" group-title="Entertainment",Live Music
+https://jmp2.uk/plu-5873fc21cad696fb37aa9054.m3u8
 #EXTINF:-1 tvg-name="Los archivos del FBI" group-title="Series",Los archivos del FBI
 https://jmp2.uk/plu-5f1acbed25948a0007ffbe65.m3u8
 #EXTINF:-1 tvg-name="Los Asesinatos de Midsomer" group-title="Series",Los Asesinatos de Midsomer
 https://jmp2.uk/plu-5f1aca8310a30e00074fab92.m3u8
 #EXTINF:-1 tvg-name="Louis La Brocante" group-title="Series",Louis La Brocante
 https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8
+#EXTINF:-1 tvg-name="Luksusfælden" group-title="Entertainment",Luksusfælden
+https://jmp2.uk/plu-61c19b7785706b00072d421a.m3u8
+#EXTINF:-1 tvg-name="Luksusfellen" group-title="Entertainment",Luksusfellen
+https://jmp2.uk/plu-61c1e060197fe600073c1ffb.m3u8
+#EXTINF:-1 tvg-name="Luksusfellen Sverige" group-title="Series",Luksusfellen Sverige
+https://jmp2.uk/plu-61c1e0f1d6d97900076ea16f.m3u8
+#EXTINF:-1 tvg-name="Lyxfällan" group-title="Entertainment",Lyxfällan
+https://jmp2.uk/plu-61c18f62f5acaf0007f83135.m3u8
+#EXTINF:-1 tvg-name="Lyxfällan Danmark" group-title="Entertainment",Lyxfällan Danmark
+https://jmp2.uk/plu-61c19165decece0007e9b2f3.m3u8
+#EXTINF:-1 tvg-name="Lyxfällan Norge" group-title="Entertainment",Lyxfällan Norge
+https://jmp2.uk/plu-67f7d328efc5473b6b4ac5f4.m3u8
+#EXTINF:-1 tvg-name="MacGyver" group-title="Classic;Series",MacGyver
+https://jmp2.uk/plu-654a59742c1d33000865a797.m3u8
+#EXTINF:-1 tvg-name="Más adrenalina" group-title="Entertainment",Más adrenalina
+https://jmp2.uk/plu-687fea9a4fa995eff284a1c8.m3u8
+#EXTINF:-1 tvg-name="McLeods døtre & Grantchester" group-title="Series",McLeods døtre & Grantchester
+https://jmp2.uk/plu-65ba4db63ef47d000837b535.m3u8
+#EXTINF:-1 tvg-name="McLeods Töchter" group-title="Series",McLeods Töchter
+https://jmp2.uk/plu-66c6fcfc6838ee00085beb1a.m3u8
+#EXTINF:-1 tvg-name="Medium" group-title="Series",Medium
+https://jmp2.uk/plu-68f0f54ca362b63a8df4d5a9.m3u8
 #EXTINF:-1 tvg-name="Mi Extraña Obsesión" group-title="Series",Mi Extraña Obsesión
 https://jmp2.uk/plu-60e4573c9f963e00077ecf25.m3u8
 #EXTINF:-1 tvg-name="Minuto Para Ganar" group-title="Series",Minuto Para Ganar
 https://jmp2.uk/plu-5e46e64dc73db400094b5f0b.m3u8
 #EXTINF:-1 tvg-name="Misterios Medicos" group-title="Series",Misterios Medicos
 https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8
+#EXTINF:-1 tvg-name="Mit plastikmareridt" group-title="Entertainment",Mit plastikmareridt
+https://jmp2.uk/plu-643814ef479f6400086ff043.m3u8
 #EXTINF:-1 tvg-name="Monster Jam" group-title="Outdoor;Sports",Monster Jam
 https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8
+#EXTINF:-1 tvg-name="More True Crime" group-title="Series",More True Crime
+https://jmp2.uk/plu-6532e6a9bdf3cf000887ab29.m3u8
+#EXTINF:-1 tvg-name="More TV Crime" group-title="Series",More TV Crime
+https://jmp2.uk/plu-639b558c73423d00071ce624.m3u8
+#EXTINF:-1 tvg-name="More TV Sci-fi" group-title="Movies;Series",More TV Sci-fi
+https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8
 #EXTINF:-1 tvg-name="Most Haunted" group-title="Series",Most Haunted
 https://amg00426-lds-amg00426c17-samsung-gb-10157.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="MTV Are you the One?" group-title="Series",MTV Are you the One?
 https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8
-#EXTINF:-1 tvg-name="MTV Embarazada a los 16" group-title="Series",MTV Embarazada a los 16
+#EXTINF:-1 tvg-name="MTV Catfish" group-title="Entertainment",MTV Catfish
+https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8
+#EXTINF:-1 tvg-name="MTV CLASSICS" group-title="Entertainment",MTV CLASSICS
+https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
+#EXTINF:-1 tvg-name="MTV Con Mi Ex" group-title="Entertainment",MTV Con Mi Ex
+https://jmp2.uk/plu-638693db857364000781b471.m3u8
+#EXTINF:-1 tvg-name="MTV Embarazada a los 16" group-title="Entertainment",MTV Embarazada a los 16
 https://jmp2.uk/plu-5f98537a5a4341000733aefe.m3u8
-#EXTINF:-1 tvg-name="MTV Originals" group-title="Series",MTV Originals
+#EXTINF:-1 tvg-name="MTV Geordies" group-title="Entertainment",MTV Geordies
+https://jmp2.uk/plu-627d3176d7dfa500077042f1.m3u8
+#EXTINF:-1 tvg-name="MTV Jersey Shore" group-title="Entertainment",MTV Jersey Shore
+https://jmp2.uk/plu-68b9b0dbf9cf3d7cb9f56d88.m3u8
+#EXTINF:-1 tvg-name="MTV Jerseys" group-title="Entertainment",MTV Jerseys
+https://jmp2.uk/plu-62ac3d7dc23b400008ae5b5a.m3u8
+#EXTINF:-1 tvg-name="MTV Jovens e Mães" group-title="Entertainment",MTV Jovens e Mães
+https://jmp2.uk/plu-620fdc7d8a36fc000710e3ba.m3u8
+#EXTINF:-1 tvg-name="MTV Just Tattoo of Us" group-title="Entertainment",MTV Just Tattoo of Us
+https://jmp2.uk/plu-63988b61c8d285000798a22a.m3u8
+#EXTINF:-1 tvg-name="MTV Originals" group-title="Entertainment",MTV Originals
 https://jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8
 #EXTINF:-1 tvg-name="MTV Pluto TV LatAm" group-title="Entertainment",MTV Pluto TV LatAm
 https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
-#EXTINF:-1 tvg-name="MTV Tattoo a dos" group-title="Series",MTV Tattoo a dos
+#EXTINF:-1 tvg-name="MTV Reality" group-title="Entertainment",MTV Reality
+https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8
+#EXTINF:-1 tvg-name="MTV Rocks" group-title="Entertainment",MTV Rocks
+https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
+#EXTINF:-1 tvg-name="MTV Rupaul's Drag Race" group-title="Entertainment",MTV Rupaul's Drag Race
+https://jmp2.uk/plu-645111f1d8436e00081bb2bd.m3u8
+#EXTINF:-1 tvg-name="MTV Rupaul's Drag Race Untucked" group-title="Entertainment",MTV Rupaul's Drag Race Untucked
+https://jmp2.uk/plu-64510d3ad3fdde00080951f2.m3u8
+#EXTINF:-1 tvg-name="MTV Shore" group-title="Entertainment",MTV Shore
+https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8
+#EXTINF:-1 tvg-name="MTV Tattoo a dos" group-title="Entertainment",MTV Tattoo a dos
 https://jmp2.uk/plu-611b87946b7f420007c22361.m3u8
+#EXTINF:-1 tvg-name="MTV Vergüenza ajena" group-title="Entertainment",MTV Vergüenza ajena
+https://jmp2.uk/plu-63eb9495a8b227000841bf64.m3u8
+#EXTINF:-1 tvg-name="NCIS" group-title="Series",NCIS
+https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
+#EXTINF:-1 tvg-name="NCIS: Det bedste med Gibbs" group-title="Series",NCIS: Det bedste med Gibbs
+https://jmp2.uk/plu-6901d952ec12c3c759fdc7cd.m3u8
+#EXTINF:-1 tvg-name="NCIS: Det bedste med Tony & Ziva" group-title="Series",NCIS: Det bedste med Tony & Ziva
+https://jmp2.uk/plu-68921b2f4fa995eff24df6c8.m3u8
+#EXTINF:-1 tvg-name="NCIS: Los Angeles" group-title="Series",NCIS: Los Angeles
+https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon iCarly" group-title="Series",Nickelodeon iCarly
+https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
+#EXTINF:-1 tvg-name="Nordisk krim fra Viaplay" group-title="Series",Nordisk krim fra Viaplay
+https://jmp2.uk/plu-64eca23c9c1e390008524ae6.m3u8
+#EXTINF:-1 tvg-name="Numb3rs" group-title="Series",Numb3rs
+https://jmp2.uk/plu-63dbe78051f5d000083e9249.m3u8
+#EXTINF:-1 tvg-name="Numbers" group-title="Series",Numbers
+https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8
+#EXTINF:-1 tvg-name="Números" group-title="Series",Números
+https://jmp2.uk/plu-67f960680072d6b187a0682e.m3u8
+#EXTINF:-1 tvg-name="Paradise" group-title="Entertainment",Paradise
+https://jmp2.uk/plu-629e095e511d4b00070c9f44.m3u8
+#EXTINF:-1 tvg-name="Paradise Hotel" group-title="Entertainment",Paradise Hotel
+https://jmp2.uk/plu-61c19af83fae0a00078c8918.m3u8
+#EXTINF:-1 tvg-name="Paradise Hotel: Under lagnerne" group-title="Entertainment",Paradise Hotel: Under lagnerne
+https://jmp2.uk/plu-662b71658dd8160008fc3abf.m3u8
 #EXTINF:-1 tvg-name="Pimp My Ride" group-title="Entertainment",Pimp My Ride
 https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8
+#EXTINF:-1 tvg-name="Pluto Classic Movie Westerns" group-title="Movies;Series",Pluto Classic Movie Westerns
+https://jmp2.uk/plu-66dad50215d2c60008d7afbd.m3u8
 #EXTINF:-1 tvg-name="Pluto TV 80's Action" group-title="Movies;Series",Pluto TV 80's Action
 https://jmp2.uk/plu-66d717c6abec540008ba7eb5.m3u8
 #EXTINF:-1 tvg-name="Pluto TV 90's Classics" group-title="Movies;Series",Pluto TV 90's Classics
@@ -1844,8 +2064,6 @@ https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
 https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Polizeiserien" group-title="Series",Pluto TV Polizeiserien
 https://jmp2.uk/plu-64be64445dc166000899ce75.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Romance" group-title="Movies;Series",Pluto TV Romance
-https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Sci-fi" group-title="Movies;Series",Pluto TV Sci-fi
 https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Sci-fi Series" group-title="Series",Pluto TV Sci-fi Series
@@ -1900,24 +2118,84 @@ https://jmp2.uk/plu-662a69daa0a74e00087a1c72.m3u8
 https://jmp2.uk/plu-68c01732b3900870ec74766f.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Zombies" group-title="Movies;Series",Pluto TV Zombies
 https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
+#EXTINF:-1 tvg-name="Rawhide" group-title="Movies;Series",Rawhide
+https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8
+#EXTINF:-1 tvg-name="Ridiculousness Nya avsnitt" group-title="Entertainment",Ridiculousness Nya avsnitt
+https://jmp2.uk/plu-68dfa1e7fae18f8db6218703.m3u8
+#EXTINF:-1 tvg-name="Ridiculousness Nye afsnit" group-title="Entertainment",Ridiculousness Nye afsnit
+https://jmp2.uk/plu-68dfa160cc3c6cd90404d798.m3u8
+#EXTINF:-1 tvg-name="Ridiculousness Nye episoder" group-title="Entertainment",Ridiculousness Nye episoder
+https://jmp2.uk/plu-68dfa1a7fae18f8db6218222.m3u8
+#EXTINF:-1 tvg-name="Robinson Ekspeditionen" group-title="Entertainment",Robinson Ekspeditionen
+https://jmp2.uk/plu-63a42df60cc44a0007dd47f8.m3u8
+#EXTINF:-1 tvg-name="S.W.A.T." group-title="Series",S.W.A.T.
+https://jmp2.uk/plu-65033c4b98020f0008547124.m3u8
 #EXTINF:-1 tvg-name="Sanctuary" group-title="Series",Sanctuary
 https://jmp2.uk/plu-63eb57d6c111bc0008fe2658.m3u8
+#EXTINF:-1 tvg-name="Scorpion" group-title="Series",Scorpion
+https://jmp2.uk/plu-63a1caefc8d285000799e8af.m3u8
 #EXTINF:-1 tvg-name="Series by Pluto TV" group-title="Series",Series by Pluto TV
 https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8
 #EXTINF:-1 tvg-name="Sin Tetas No Hay Paraíso" group-title="Series",Sin Tetas No Hay Paraíso
 https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
+#EXTINF:-1 tvg-name="Skjønnhetsfellen Danmark" group-title="Series",Skjønnhetsfellen Danmark
+https://jmp2.uk/plu-643810f2e8a4aa0008ccf575.m3u8
+#EXTINF:-1 tvg-name="Skönhetsfällan Danmark" group-title="Entertainment",Skönhetsfällan Danmark
+https://jmp2.uk/plu-643808dce0789d00084797f6.m3u8
+#EXTINF:-1 tvg-name="Star Trek: Deep Space Nine" group-title="Movies;Series",Star Trek: Deep Space Nine
+https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
+#EXTINF:-1 tvg-name="Star Trek: The Next Generation" group-title="Movies;Series",Star Trek: The Next Generation
+https://jmp2.uk/plu-65786b94cbd0d60008f7e4d9.m3u8
+#EXTINF:-1 tvg-name="Star Trek: The Original Series" group-title="Movies;Series",Star Trek: The Original Series
+https://jmp2.uk/plu-693add137e308621c051e733.m3u8
+#EXTINF:-1 tvg-name="Star Trek: Voyager" group-title="Movies;Series",Star Trek: Voyager
+https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
 #EXTINF:-1 tvg-name="Storage Wars by A&E" group-title="Series",Storage Wars by A&E
 https://jmp2.uk/plu-6887aaf4e3703b7d42b71a1e.m3u8
+#EXTINF:-1 tvg-name="Supernatural Drama" group-title="Series",Supernatural Drama
+https://jmp2.uk/plu-5f24662bebe0f0000767de32.m3u8
+#EXTINF:-1 tvg-name="Svenska Hollywoodfruar" group-title="Entertainment",Svenska Hollywoodfruar
+https://jmp2.uk/plu-61c1921610d254000727eebd.m3u8
+#EXTINF:-1 tvg-name="Svenska Truckers" group-title="Entertainment",Svenska Truckers
+https://jmp2.uk/plu-61f128f68a1dfc00086470af.m3u8
+#EXTINF:-1 tvg-name="Svenske Truckers" group-title="Entertainment",Svenske Truckers
+https://jmp2.uk/plu-645cc855e1979c000875ee47.m3u8
+#EXTINF:-1 tvg-name="The Daily Show" group-title="Entertainment",The Daily Show
+https://jmp2.uk/plu-65c096d23ba51e0008305a75.m3u8
 #EXTINF:-1 tvg-name="The Good Wife" group-title="Series",The Good Wife
 https://jmp2.uk/plu-685a995b460ac82fa504342c.m3u8
+#EXTINF:-1 tvg-name="The Hills" group-title="Entertainment",The Hills
+https://jmp2.uk/plu-61c09039ebd75200072587f9.m3u8
+#EXTINF:-1 tvg-name="The L Word – Wenn Frauen lieben" group-title="Series",The L Word – Wenn Frauen lieben
+https://jmp2.uk/plu-68d2759a59fd82da3226492d.m3u8
+#EXTINF:-1 tvg-name="The Wild Wild West" group-title="Movies;Series",The Wild Wild West
+https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
+#EXTINF:-1 tvg-name="The Yellow Couch with Jeremy Lynch" group-title="Entertainment",The Yellow Couch with Jeremy Lynch
+https://jmp2.uk/plu-68e8ffee9d1d49e672fe790f.m3u8
+#EXTINF:-1 tvg-name="Til julefrokost hos r8Dio" group-title="Entertainment",Til julefrokost hos r8Dio
+https://jmp2.uk/plu-69256bd7db5cc2f81d8a1a08.m3u8
 #EXTINF:-1 tvg-name="Tosh.0" group-title="Series",Tosh.0
-https://jmp2.uk/plu-65e977042873090008b48be9.m3u8
+https://jmp2.uk/plu-5dae084727c8af0009fe40a4.m3u8
+#EXTINF:-1 tvg-name="Tough Jobs" group-title="Entertainment",Tough Jobs
+https://jmp2.uk/plu-65c69bf23ef47d0008583967.m3u8
+#EXTINF:-1 tvg-name="Tout le monde déteste Chris" group-title="Series",Tout le monde déteste Chris
+https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8
 #EXTINF:-1 tvg-name="True Crime by Pluto TV" group-title="Series",True Crime by Pluto TV
 https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8
+#EXTINF:-1 tvg-name="True crime från Viaplay" group-title="Series",True crime från Viaplay
+https://jmp2.uk/plu-645cb7857cb4b1000859c57c.m3u8
+#EXTINF:-1 tvg-name="Turbo" group-title="Entertainment",Turbo
+https://jmp2.uk/plu-66f55c3955567d0008ef9b68.m3u8
 #EXTINF:-1 tvg-name="TV Grande Natal" group-title="Entertainment",TV Grande Natal
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+#EXTINF:-1 tvg-name="Unga Mammor" group-title="Series",Unga Mammor
+https://jmp2.uk/plu-61c1e1c445b45d0007aad03e.m3u8
+#EXTINF:-1 tvg-name="VH1 Queens of Reality" group-title="Entertainment",VH1 Queens of Reality
+https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8
 #EXTINF:-1 tvg-name="Walker Texas Ranger" group-title="Series",Walker Texas Ranger
 https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8
+#EXTINF:-1 tvg-name="Wildfire" group-title="Series",Wildfire
+https://jmp2.uk/plu-62b9b63d3bbe9000073c0a2d.m3u8
 #EXTINF:-1 tvg-name="Wipeout" group-title="Series",Wipeout
 https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8
 #EXTINF:-1 tvg-name="Y'a que la vérité qui compte" group-title="Entertainment",Y'a que la vérité qui compte
@@ -2222,3 +2500,27 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcrime/playlist.m3u8
 http://41.205.77.102/CHERIE25/index.m3u8
 #EXTINF:-1 tvg-name="Ciudad Magica" group-title="Outdoor",Ciudad Magica
 https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
+#EXTINF:-1 tvg-name="Battlestar Galactica" group-title="Movies;Series",Battlestar Galactica
+https://jmp2.uk/plu-69d7ebff029c431826bd328e.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Pride" group-title="Entertainment",Pluto TV Pride
+https://jmp2.uk/plu-69fa3faab9c0f0d444e64de3.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Camp" group-title="Entertainment",Pluto TV Camp
+https://jmp2.uk/plu-661801e871e8c30008a73f7b.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Haialarm" group-title="Movies;Series",Pluto TV Haialarm
+https://jmp2.uk/plu-69b015c5d29cc97de7da4af8.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Footanim'" group-title="Entertainment",Pluto TV Footanim'
+https://jmp2.uk/plu-69c2ae0d1f1accd54916c825.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Téléréalité France" group-title="Entertainment",Pluto TV Téléréalité France
+https://jmp2.uk/plu-699865ccac36b147e74619fe.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Orgullo" group-title="Entertainment",Pluto TV Orgullo
+https://jmp2.uk/plu-63fe0111dff38e00083510f9.m3u8
+#EXTINF:-1 tvg-name="Bull" group-title="Series",Bull
+https://jmp2.uk/plu-6964b982ca459f9b939da8e6.m3u8
+#EXTINF:-1 tvg-name="Dating Naked UK" group-title="Series",Dating Naked UK
+https://jmp2.uk/plu-692edc78d52ea9e4858cf78f.m3u8
+#EXTINF:-1 tvg-name="De unge mødre" group-title="Entertainment",De unge mødre
+https://jmp2.uk/plu-69172a4fcf4a1101befdd894.m3u8
+#EXTINF:-1 tvg-name="r8Dio TV" group-title="Entertainment",r8Dio TV
+https://jmp2.uk/plu-698ddf5a8c21a5f2d64c14a8.m3u8
+#EXTINF:-1 tvg-name="The L Word" group-title="Series",The L Word
+https://jmp2.uk/plu-693ae48864476d678e9b6235.m3u8

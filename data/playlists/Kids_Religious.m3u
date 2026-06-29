@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-29 13:15:17
-# Всего каналов: 18179
-# Новых за сессию: 0
+# Обновлено: 2026-06-29 15:54:56
+# Всего каналов: 18260
+# Новых за сессию: 81
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Religious
 # Каналов: 9
-# Обновлено: 2026-06-29 13:15:17
+# Обновлено: 2026-06-29 15:54:56
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Christian Youth Channel (CYC)" group-title="Kids;Religious",Christian Youth Channel (CYC)
@@ -461,6 +461,8 @@ https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.
 https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Hope Channel German" group-title="Religious",Hope Channel German
 https://customer-x8zydurm357k8j9p.cloudflarestream.com/5b46490d20cdd87fcac238b0027813e0/manifest/video.m3u8
+#EXTINF:-1 tvg-name="iCarly" group-title="Kids",iCarly
+https://jmp2.uk/plu-5e8b580a233dc90007f0cb9d.m3u8
 #EXTINF:-1 tvg-name="KiKA" group-title="Kids",KiKA
 https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
 #EXTINF:-1 tvg-name="KiKA [Geo-Blocked]" group-title="Kids",KiKA [Geo-Blocked]
@@ -1129,8 +1131,6 @@ http://103.250.28.74:8000/play/a03e/index.m3u8
 https://live.nixsat.com/play/rtm/index.m3u8
 #EXTINF:-1 tvg-name="RLW TV (576p)" group-title="Religious",RLW TV (576p)
 https://webstreaming-8.viewmedia.tv/web_119/Stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Sabrina The Teenage Witch" group-title="Kids",Sabrina The Teenage Witch
-https://jmp2.uk/plu-66276091cee0d900085fe053.m3u8
 #EXTINF:-1 tvg-name="Safeer TV" group-title="Religious",Safeer TV
 https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Salt TV" group-title="Religious",Salt TV
@@ -1679,6 +1679,10 @@ https://sirius.greenhosting.ru/PingvinRu/video.m3u8
 http://116.90.120.151:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-name="4E" group-title="Religious",4E
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="90's Kids" group-title="Kids",90's Kids
+https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
+#EXTINF:-1 tvg-name="90s Kids TV 2" group-title="Kids",90s Kids TV 2
+https://jmp2.uk/plu-6452c77ed3fdde00080eb3a8.m3u8
 #EXTINF:-1 tvg-name="Abalfadhl TV" group-title="Religious",Abalfadhl TV
 https://t.northtelecom.org/ABALFADHLTV.m3u8
 #EXTINF:-1 tvg-name="Africa TV 2" group-title="Religious",Africa TV 2
@@ -1699,12 +1703,22 @@ https://janya-digimix.akamaized.net/vglive-sk-374850/america/ngrp:angelamerica_a
 https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Angelus TV" group-title="Religious",Angelus TV
 https://video.angelustv.ro/hls/angelustv.m3u8
+#EXTINF:-1 tvg-name="As Tartarugas Ninja" group-title="Kids",As Tartarugas Ninja
+https://jmp2.uk/plu-63dd5c904e83e700088fb68a.m3u8
 #EXTINF:-1 tvg-name="Ashiil TV (480p)" group-title="Religious",Ashiil TV (480p)
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
+#EXTINF:-1 tvg-name="Avatar: A lenda de Aang" group-title="Kids",Avatar: A lenda de Aang
+https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8
+#EXTINF:-1 tvg-name="Avatar: La Leyenda de Aang" group-title="Kids",Avatar: La Leyenda de Aang
+https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
 #EXTINF:-1 tvg-name="BBS Buddhist Broadcasting" group-title="Religious",BBS Buddhist Broadcasting
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Bob Esponja" group-title="Kids",Bob Esponja
 https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
+#EXTINF:-1 tvg-name="Bob Esponja Calça Quadrada" group-title="Kids",Bob Esponja Calça Quadrada
+https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
+#EXTINF:-1 tvg-name="Bob Esponja Pantalones Cuadrados" group-title="Kids",Bob Esponja Pantalones Cuadrados
+https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
 #EXTINF:-1 tvg-name="Bob l'éponge" group-title="Kids",Bob l'éponge
 https://jmp2.uk/plu-66588931a3865300085ca800.m3u8
 #EXTINF:-1 tvg-name="Boonniyom TV" group-title="Religious",Boonniyom TV
@@ -1733,6 +1747,8 @@ http://live.divyadarshantv.com/hls/stream.m3u8
 https://tvstreamcast.com/tawaftv.m3u8
 #EXTINF:-1 tvg-name="Dora TV" group-title="Kids",Dora TV
 https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8
+#EXTINF:-1 tvg-name="Drake & Josh" group-title="Kids",Drake & Josh
+https://jmp2.uk/plu-65a67c494a10d800085cab06.m3u8
 #EXTINF:-1 tvg-name="Ertsulovneba" group-title="Religious",Ertsulovneba
 https://stream.sstv.ge/live/sstv/playlist.m3u8
 #EXTINF:-1 tvg-name="Eslah TV" group-title="Religious",Eslah TV
@@ -1761,6 +1777,8 @@ https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8
 http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Gran TV" group-title="Religious",Gran TV
 https://stream.medialive.hu/gran/grantvlive/playlist.m3u8
+#EXTINF:-1 tvg-name="Hey Arnold!" group-title="Kids",Hey Arnold!
+https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
 #EXTINF:-1 tvg-name="Hidabroot" group-title="Religious",Hidabroot
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 #EXTINF:-1 tvg-name="Himlen TV7" group-title="Religious",Himlen TV7
@@ -1771,6 +1789,8 @@ https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
 https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8
 #EXTINF:-1 tvg-name="IBC Bakthi" group-title="Religious",IBC Bakthi
 https://ibc.massstream.net/IBC2/index.m3u8
+#EXTINF:-1 tvg-name="iCarly TV" group-title="Kids",iCarly TV
+https://jmp2.uk/plu-5f8ecc7aa44d9c00081fca29.m3u8
 #EXTINF:-1 tvg-name="icnet 2" group-title="Religious",icnet 2
 https://icnet2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="icnet 3" group-title="Religious",icnet 3
@@ -1801,6 +1821,8 @@ http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
 https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
 #EXTINF:-1 tvg-name="KKRtv" group-title="Religious",KKRtv
 http://stream.kkr.dk/live/kkr/playlist.m3u8
+#EXTINF:-1 tvg-name="Las Tortugas Ninja" group-title="Kids",Las Tortugas Ninja
+https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8
 #EXTINF:-1 tvg-name="LifeStyleTV" group-title="Religious",LifeStyleTV
 https://app.viloud.tv/hls/channel/711fd3f3a4728449889ee22ba72958ff.m3u8
 #EXTINF:-1 tvg-name="LifeTv" group-title="Religious",LifeTv
@@ -1839,10 +1861,20 @@ https://goliveafrica.media:9998/live/6389d571d20af/index.m3u8
 https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
 #EXTINF:-1 tvg-name="Nick Jr. Pluto TV" group-title="Kids",Nick Jr. Pluto TV
 https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon Clásico" group-title="Kids",Nickelodeon Clásico
+https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon Classics" group-title="Kids",Nickelodeon Classics
+https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon Toons" group-title="Kids",Nickelodeon Toons
+https://jmp2.uk/plu-5ede448d3d50590007a4419e.m3u8
 #EXTINF:-1 tvg-name="Nour TV" group-title="Religious",Nour TV
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
+#EXTINF:-1 tvg-name="Oggy e as Baratas Tontas" group-title="Kids",Oggy e as Baratas Tontas
+https://jmp2.uk/plu-63221bafdc6e110007b50270.m3u8
 #EXTINF:-1 tvg-name="Payvand TV" group-title="Religious",Payvand TV
 https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
+#EXTINF:-1 tvg-name="Peppa Pig" group-title="Kids",Peppa Pig
+https://jmp2.uk/plu-5d14fb6c84dd37df3b4290c5.m3u8
 #EXTINF:-1 tvg-name="Pixel.tv" group-title="Animation;Kids",Pixel.tv
 https://jmp2.uk/plu-66bb36e03a4ad200082bb8fe.m3u8
 #EXTINF:-1 tvg-name="Plovdivska Pravoslavna TV" group-title="Religious",Plovdivska Pravoslavna TV
@@ -1903,18 +1935,30 @@ https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 #EXTINF:-1 tvg-name="SperantaTV" group-title="Religious",SperantaTV
 https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
+#EXTINF:-1 tvg-name="SpongeBob SquarePants" group-title="Kids",SpongeBob SquarePants
+https://jmp2.uk/plu-63f87d057533d80008ab9549.m3u8
 #EXTINF:-1 tvg-name="Super! iCarly" group-title="Kids",Super! iCarly
 https://jmp2.uk/plu-609401db8cf51c00084b592e.m3u8
 #EXTINF:-1 tvg-name="Super! Pop" group-title="Kids",Super! Pop
 https://jmp2.uk/plu-6093f7b5bb49b90007cecaad.m3u8
 #EXTINF:-1 tvg-name="Super! SpongeBob" group-title="Kids",Super! SpongeBob
 https://jmp2.uk/plu-6093f9281db477000759fce0.m3u8
+#EXTINF:-1 tvg-name="SvampBob Fyrkant" group-title="Kids",SvampBob Fyrkant
+https://jmp2.uk/plu-61c0ba0816e2fd00086cb6b1.m3u8
+#EXTINF:-1 tvg-name="SvampeBob Firkant" group-title="Kids",SvampeBob Firkant
+https://jmp2.uk/plu-61c09ac98a80a4000703f992.m3u8
 #EXTINF:-1 tvg-name="Taevas TV7" group-title="Religious",Taevas TV7
 https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Taivas TV7" group-title="Religious",Taivas TV7
 https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Teenage Mutant Ninja Turtles" group-title="Animation;Kids",Teenage Mutant Ninja Turtles
+https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8
 #EXTINF:-1 tvg-name="Tortues Ninja TV" group-title="Kids",Tortues Ninja TV
 https://jmp2.uk/plu-62e9566e27ce19000732ec85.m3u8
+#EXTINF:-1 tvg-name="Transformers" group-title="Kids",Transformers
+https://jmp2.uk/plu-63da36dea995710008727d4d.m3u8
+#EXTINF:-1 tvg-name="Transformers TV" group-title="Kids",Transformers TV
+https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8
 #EXTINF:-1 tvg-name="TV Muslim Thailand" group-title="Religious",TV Muslim Thailand
 https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
 #EXTINF:-1 tvg-name="WBS TV" group-title="Religious",WBS TV
@@ -2177,3 +2221,5 @@ http://41.205.77.102/GULLI/index.m3u8
 http://41.205.77.102/TIJI/index.m3u8
 #EXTINF:-1 tvg-name="Disney Channel Latin America Mexico" group-title="Animation;Kids",Disney Channel Latin America Mexico
 http://45.166.93.156:9999/play/a0f3/index.m3u8
+#EXTINF:-1 tvg-name="Azan TV" group-title="Religious",Azan TV
+https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8

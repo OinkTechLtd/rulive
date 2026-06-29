@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-29 13:15:17
-# Всего каналов: 18179
-# Новых за сессию: 0
+# Обновлено: 2026-06-29 15:54:56
+# Всего каналов: 18260
+# Новых за сессию: 81
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;General;Kids
 # Каналов: 2
-# Обновлено: 2026-06-29 13:15:17
+# Обновлено: 2026-06-29 15:54:56
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="BBC Four/CBeebies [Geo-Blocked]" group-title="Animation;General;Kids",BBC Four/CBeebies [Geo-Blocked]
@@ -956,6 +956,8 @@ https://jmp2.uk/plu-600adbdf8c554e00072125c9.m3u8
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 #EXTINF:-1 tvg-name="Baden TV Süd (480p)" group-title="General",Baden TV Süd (480p)
 https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Comedy Central South Park" group-title="Animation;Comedy",Comedy Central South Park
+https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8
 #EXTINF:-1 tvg-name="Das Erste" group-title="General",Das Erste
 https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Disney Channel (576p) [Geo-Blocked]" group-title="Kids",Disney Channel (576p) [Geo-Blocked]
@@ -970,6 +972,8 @@ https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/
 https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="hr-fernsehen" group-title="General",hr-fernsehen
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1 tvg-name="iCarly" group-title="Kids",iCarly
+https://jmp2.uk/plu-5e8b580a233dc90007f0cb9d.m3u8
 #EXTINF:-1 tvg-name="Kanal12 Spremberg TV (404p)" group-title="General",Kanal12 Spremberg TV (404p)
 https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="KiKA" group-title="Kids",KiKA
@@ -1132,7 +1136,7 @@ https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8
 https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
 #EXTINF:-1 tvg-name="Puissance TV" group-title="General",Puissance TV
 https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
-#EXTINF:-1 tvg-name="South Park" group-title="Animation",South Park
+#EXTINF:-1 tvg-name="South Park" group-title="Animation;Comedy",South Park
 https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8
 #EXTINF:-1 tvg-name="T18" group-title="General",T18
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
@@ -2596,8 +2600,6 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 #EXTINF:-1 tvg-name="RTV Rwanda (480p)" group-title="General",RTV Rwanda (480p)
 http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8
-#EXTINF:-1 tvg-name="Sabrina The Teenage Witch" group-title="Kids",Sabrina The Teenage Witch
-https://jmp2.uk/plu-66276091cee0d900085fe053.m3u8
 #EXTINF:-1 tvg-name="Smash TV" group-title="General",Smash TV
 https://stream.smashmalta.com:25463/live/webplayer/livestream/47.m3u8
 #EXTINF:-1 tvg-name="Tele Haiti (1088p)" group-title="General",Tele Haiti (1088p)
@@ -4066,6 +4068,10 @@ https://vc.101vn.com/htv/htvcmb.php?id=2535
 https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
 #EXTINF:-1 tvg-name="1Twente TV" group-title="General",1Twente TV
 https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8
+#EXTINF:-1 tvg-name="90's Kids" group-title="Kids",90's Kids
+https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
+#EXTINF:-1 tvg-name="90s Kids TV 2" group-title="Kids",90s Kids TV 2
+https://jmp2.uk/plu-6452c77ed3fdde00080eb3a8.m3u8
 #EXTINF:-1 tvg-name="A1 TV" group-title="General",A1 TV
 https://stream.a1mediagroep.nl/hls/a1tv.m3u8
 #EXTINF:-1 tvg-name="A7TV" group-title="General",A7TV
@@ -4128,6 +4134,8 @@ https://ap02.iqplay.tv:8082/iqb8002/alr114iapp/playlist.m3u8
 https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
 #EXTINF:-1 tvg-name="Armenia 2" group-title="General",Armenia 2
 https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
+#EXTINF:-1 tvg-name="As Tartarugas Ninja" group-title="Kids",As Tartarugas Ninja
+https://jmp2.uk/plu-63dd5c904e83e700088fb68a.m3u8
 #EXTINF:-1 tvg-name="Aşgabat (406p)" group-title="General",Aşgabat (406p)
 https://alpha.tv.online.tm/hls/ch006.m3u8
 #EXTINF:-1 tvg-name="Assen TV" group-title="General",Assen TV
@@ -4142,6 +4150,10 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://ncdn.telewebion.ir/atrak/live/playlist.m3u8
 #EXTINF:-1 tvg-name="ATV (576p)" group-title="General",ATV (576p)
 http://146.59.85.40:89/atv/index.m3u8
+#EXTINF:-1 tvg-name="Avatar: A lenda de Aang" group-title="Kids",Avatar: A lenda de Aang
+https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8
+#EXTINF:-1 tvg-name="Avatar: La Leyenda de Aang" group-title="Kids",Avatar: La Leyenda de Aang
+https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
 #EXTINF:-1 tvg-name="Awesome TV [Geo-blocked]" group-title="General",Awesome TV [Geo-blocked]
 https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.533267421985.channel.B7bB1wHJRCnw.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="General",Az TV" group-title="General",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="General",Az TV
@@ -4176,6 +4188,10 @@ https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
 https://viamotionhsi.netplus.ch/live/eds/bntworld/browser-HLS8/bntworld.m3u8
 #EXTINF:-1 tvg-name="Bob Esponja" group-title="Kids",Bob Esponja
 https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
+#EXTINF:-1 tvg-name="Bob Esponja Calça Quadrada" group-title="Kids",Bob Esponja Calça Quadrada
+https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
+#EXTINF:-1 tvg-name="Bob Esponja Pantalones Cuadrados" group-title="Kids",Bob Esponja Pantalones Cuadrados
+https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
 #EXTINF:-1 tvg-name="Bob l'éponge" group-title="Kids",Bob l'éponge
 https://jmp2.uk/plu-66588931a3865300085ca800.m3u8
 #EXTINF:-1 tvg-name="Boishakhi TV" group-title="General",Boishakhi TV
@@ -4234,6 +4250,8 @@ https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-name="Dao Lane Xang" group-title="General",Dao Lane Xang
 https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Daria" group-title="Animation",Daria
+https://jmp2.uk/plu-6683b680efa2a10008e8a393.m3u8
 #EXTINF:-1 tvg-name="Daru TV" group-title="General",Daru TV
 https://5cd03f21c7193.streamlock.net/darutv/darutvlive/playlist.m3u8
 #EXTINF:-1 tvg-name="Deen TV (576p)" group-title="General",Deen TV (576p)
@@ -4274,6 +4292,8 @@ https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8
 https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8
 #EXTINF:-1 tvg-name="Dr G Medical Examiner" group-title="General",Dr G Medical Examiner
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883008
+#EXTINF:-1 tvg-name="Drake & Josh" group-title="Kids",Drake & Josh
+https://jmp2.uk/plu-65a67c494a10d800085cab06.m3u8
 #EXTINF:-1 tvg-name="Drita TV" group-title="General",Drita TV
 https://dritatv.protokolldns.xyz/dritaweb5587989/index.m3u8
 #EXTINF:-1 tvg-name="Drochia TV" group-title="General",Drochia TV
@@ -4338,6 +4358,8 @@ http://185.81.240.65:15000/udp/233.233.233.39:12000
 https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="France 3 [Geo-Blocked]" group-title="General",France 3 [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd
+#EXTINF:-1 tvg-name="Frasier" group-title="General",Frasier
+https://jmp2.uk/plu-6400c095498393000878a634.m3u8
 #EXTINF:-1 tvg-name="Garuda TV" group-title="General",Garuda TV
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 #EXTINF:-1 tvg-name="Gazi TV" group-title="General",Gazi TV
@@ -4370,6 +4392,8 @@ https://testcam.go.ro:8080/hls/hd365.m3u8
 https://tv.hegyvidek.hu/stream_mpeg.flv
 #EXTINF:-1 tvg-name="Hesper TV" group-title="General",Hesper TV
 https://streamer20.multimedia.blue/Eltrona/HesperangeTV/playlist.m3u8
+#EXTINF:-1 tvg-name="Hey Arnold!" group-title="Kids",Hey Arnold!
+https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
 #EXTINF:-1 tvg-name="Hirshabelle TV (576p)" group-title="General",Hirshabelle TV (576p)
 http://ap02.iqplay.tv:8081/iqb8002/h1rshbe1iptv/playlist.m3u8
 #EXTINF:-1 tvg-name="How To Use Pluto TV" group-title="General",How To Use Pluto TV
@@ -4398,6 +4422,8 @@ https://tv.streambox.ro/hls/itv/index.m3u8
 https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8
 #EXTINF:-1 tvg-name="IBC Tamil" group-title="General",IBC Tamil
 https://ibc.massstream.net/IBC/index.m3u8
+#EXTINF:-1 tvg-name="iCarly TV" group-title="Kids",iCarly TV
+https://jmp2.uk/plu-5f8ecc7aa44d9c00081fca29.m3u8
 #EXTINF:-1 tvg-name="Ictimai TV" group-title="General",Ictimai TV
 https://live.itv.az/itv.m3u8
 #EXTINF:-1 tvg-name="Ideaal TV (480p)" group-title="General",Ideaal TV (480p)
@@ -4542,7 +4568,7 @@ https://d1qpgfi3ivud4k.cloudfront.net/nlpo/clr-nlpo/langstraat/index.m3u8
 https://ms7.mx-cd.net/tv/278-3414514/RTV_Lansingerland.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Lào Cai TV" group-title="General",Lào Cai TV
 https://live.baolaocai.vn/channel2/stream.m3u8
-#EXTINF:-1 tvg-name="Las Tortugas Ninja" group-title="Animation",Las Tortugas Ninja
+#EXTINF:-1 tvg-name="Las Tortugas Ninja" group-title="Kids",Las Tortugas Ninja
 https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8
 #EXTINF:-1 tvg-name="LEO Middelsé TV (480p)" group-title="General",LEO Middelsé TV (480p)
 https://ms7.mx-cd.net/tv/238-2061506/Omroep_LEO_TV.smil/playlist.m3u8
@@ -4644,6 +4670,8 @@ https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
 https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
 #EXTINF:-1 tvg-name="MTV3" group-title="General",MTV3
 https://live-fi.tvkaista.net/mtv3/live.m3u8
+#EXTINF:-1 tvg-name="MTV Reality" group-title="General",MTV Reality
+https://jmp2.uk/plu-685137f4a1e091e16f2dd471.m3u8
 #EXTINF:-1 tvg-name="Muscel TV" group-title="General",Muscel TV
 https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Nama TV" group-title="General",Nama TV
@@ -4672,6 +4700,12 @@ http://43.252.18.195:5080/live/streams/Netflix.playlist.m3u8
 https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
 #EXTINF:-1 tvg-name="Nick Jr. Pluto TV" group-title="Kids",Nick Jr. Pluto TV
 https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon Clásico" group-title="Kids",Nickelodeon Clásico
+https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon Classics" group-title="Kids",Nickelodeon Classics
+https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon Toons" group-title="Kids",Nickelodeon Toons
+https://jmp2.uk/plu-5ede448d3d50590007a4419e.m3u8
 #EXTINF:-1 tvg-name="NOOS TV" group-title="General",NOOS TV
 https://ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Nos TV Bonaire" group-title="General",Nos TV Bonaire
@@ -4704,6 +4738,8 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Óbuda TV (576p)" group-title="General",Óbuda TV (576p)
 https://stream.streaming4u.hu/ObudaTV/index.m3u8
+#EXTINF:-1 tvg-name="Oggy e as Baratas Tontas" group-title="Kids",Oggy e as Baratas Tontas
+https://jmp2.uk/plu-63221bafdc6e110007b50270.m3u8
 #EXTINF:-1 tvg-name="Oh Muang Lao TV" group-title="General",Oh Muang Lao TV
 https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="OIK TV" group-title="General",OIK TV
@@ -4766,6 +4802,8 @@ http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
 https://stream.nmih.hu:4102/live.m3u8
 #EXTINF:-1 tvg-name="Pella TV (576p)" group-title="General",Pella TV (576p)
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
+#EXTINF:-1 tvg-name="Peppa Pig" group-title="Kids",Peppa Pig
+https://jmp2.uk/plu-5d14fb6c84dd37df3b4290c5.m3u8
 #EXTINF:-1 tvg-name="Pétange Info TV" group-title="General",Pétange Info TV
 https://streamer20.multimedia.blue/Eltrona/PetangeTV/playlist.m3u8
 #EXTINF:-1 tvg-name="PilisTV [Geo-blocked]" group-title="General",PilisTV [Geo-blocked]
@@ -4910,8 +4948,50 @@ https://samson.streamerr.co:8081/sleutelstad/index.m3u8
 https://live.streamteam.eu:8443/sol2playout/sol2/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Soltvadkerti Televízió" group-title="General",Soltvadkerti Televízió
 http://79.120.178.90:1935/soltvadkerttv/soltvlive/playlist.m3u8
+#EXTINF:-1 tvg-name="South Park Armageddon" group-title="Animation;Comedy",South Park Armageddon
+https://jmp2.uk/plu-660bff28516d260008479e23.m3u8
+#EXTINF:-1 tvg-name="South Park En Français" group-title="Animation;Comedy",South Park En Français
+https://jmp2.uk/plu-62bdb919d36cbd0007e6ab8a.m3u8
+#EXTINF:-1 tvg-name="South Park Rockin' Out" group-title="Animation;Comedy",South Park Rockin' Out
+https://jmp2.uk/plu-664f132c8ea5560008ce4d86.m3u8
+#EXTINF:-1 tvg-name="South Park Versión Original" group-title="Animation;Comedy",South Park Versión Original
+https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8
+#EXTINF:-1 tvg-name="South Park: Butters Collection" group-title="Animation;Comedy",South Park: Butters Collection
+https://jmp2.uk/plu-646b14a0e94c3800082a8d3a.m3u8
+#EXTINF:-1 tvg-name="South Park: Cartman Collection" group-title="Animation;Comedy",South Park: Cartman Collection
+https://jmp2.uk/plu-65df4934f7f0af0008c32545.m3u8
+#EXTINF:-1 tvg-name="South Park: Coleção Cartman" group-title="Animation;Comedy",South Park: Coleção Cartman
+https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8
+#EXTINF:-1 tvg-name="South Park: Coleção Kenny" group-title="Animation;Comedy",South Park: Coleção Kenny
+https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8
+#EXTINF:-1 tvg-name="South Park: Coleção Kyle" group-title="Animation;Comedy",South Park: Coleção Kyle
+https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8
+#EXTINF:-1 tvg-name="South Park: Coleção Stan" group-title="Animation;Comedy",South Park: Coleção Stan
+https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8
+#EXTINF:-1 tvg-name="South Park: Colección Cartman" group-title="Animation;Comedy",South Park: Colección Cartman
+https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8
+#EXTINF:-1 tvg-name="South Park: Colección Kenny" group-title="Animation;Comedy",South Park: Colección Kenny
+https://jmp2.uk/plu-65df7272ec9fda0008b7a970.m3u8
+#EXTINF:-1 tvg-name="South Park: Colección Kyle" group-title="Animation;Comedy",South Park: Colección Kyle
+https://jmp2.uk/plu-65df73520d4561000817c29b.m3u8
+#EXTINF:-1 tvg-name="South Park: Colección Stan" group-title="Animation;Comedy",South Park: Colección Stan
+https://jmp2.uk/plu-65df72db18036500081a8292.m3u8
+#EXTINF:-1 tvg-name="South Park: Into the Stars" group-title="Animation;Comedy",South Park: Into the Stars
+https://jmp2.uk/plu-664f0eaa8ce31100088036bd.m3u8
+#EXTINF:-1 tvg-name="South Park: Kenny Collection" group-title="Animation;Comedy",South Park: Kenny Collection
+https://jmp2.uk/plu-65df47f428730900089f83ac.m3u8
+#EXTINF:-1 tvg-name="South Park: Kyle Collection" group-title="Animation;Comedy",South Park: Kyle Collection
+https://jmp2.uk/plu-65df49b30d45610008172c5b.m3u8
+#EXTINF:-1 tvg-name="South Park: Original Version" group-title="Animation;Comedy",South Park: Original Version
+https://jmp2.uk/plu-646b150a15939400089e2702.m3u8
+#EXTINF:-1 tvg-name="South Park: Stan Collection" group-title="Animation;Comedy",South Park: Stan Collection
+https://jmp2.uk/plu-65df48ba28730900089f8480.m3u8
+#EXTINF:-1 tvg-name="South Park: Welcome to Canada!" group-title="Animation;Comedy",South Park: Welcome to Canada!
+https://jmp2.uk/plu-663115d923e24f000843b49c.m3u8
 #EXTINF:-1 tvg-name="Space TV" group-title="General",Space TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
+#EXTINF:-1 tvg-name="SpongeBob SquarePants" group-title="Kids",SpongeBob SquarePants
+https://jmp2.uk/plu-63f87d057533d80008ab9549.m3u8
 #EXTINF:-1 tvg-name="SRC TV" group-title="General",SRC TV
 http://highvolume155.streampartner.nl/adminsrc/adminsrc/playlist.m3u8
 #EXTINF:-1 tvg-name="SSTV" group-title="General",SSTV
@@ -4930,6 +5010,10 @@ https://jmp2.uk/plu-6093f7b5bb49b90007cecaad.m3u8
 https://jmp2.uk/plu-6093f9281db477000759fce0.m3u8
 #EXTINF:-1 tvg-name="Sutel TV [Geo-blocked]" group-title="General",Sutel TV [Geo-blocked]
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8
+#EXTINF:-1 tvg-name="SvampBob Fyrkant" group-title="Kids",SvampBob Fyrkant
+https://jmp2.uk/plu-61c0ba0816e2fd00086cb6b1.m3u8
+#EXTINF:-1 tvg-name="SvampeBob Firkant" group-title="Kids",SvampeBob Firkant
+https://jmp2.uk/plu-61c09ac98a80a4000703f992.m3u8
 #EXTINF:-1 tvg-name="Szécsény TV" group-title="General",Szécsény TV
 http://iptv.eurocable.co.hu/EC-SZECSENYTVHD/index.m3u8
 #EXTINF:-1 tvg-name="Szlagier TV" group-title="General",Szlagier TV
@@ -4946,6 +5030,8 @@ https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8
 https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 #EXTINF:-1 tvg-name="TBC1" group-title="General",TBC1
 https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_f9bd5b30323411f0a32aaf26f944974f/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="Teenage Mutant Ninja Turtles" group-title="Animation;Kids",Teenage Mutant Ninja Turtles
+https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8
 #EXTINF:-1 tvg-name="Tehran" group-title="General",Tehran
 https://ncdn.telewebion.ir/tehran/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Tele7ABC" group-title="General",Tele7ABC
@@ -4990,6 +5076,10 @@ https://stream8.cinerama.uz/1003/tracks-v1a1/playlist.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 #EXTINF:-1 tvg-name="Trans TV" group-title="General",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+#EXTINF:-1 tvg-name="Transformers" group-title="Kids",Transformers
+https://jmp2.uk/plu-63da36dea995710008727d4d.m3u8
+#EXTINF:-1 tvg-name="Transformers TV" group-title="Kids",Transformers TV
+https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8
 #EXTINF:-1 tvg-name="Trimedio TV [Geo-blocked]" group-title="General",Trimedio TV [Geo-blocked]
 https://stream.streaming4u.hu/TriMedioTV/index.m3u8
 #EXTINF:-1 tvg-name="TV5" group-title="General",TV5
@@ -6018,3 +6108,19 @@ https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8
 https://59d39900ebfb8.streamlock.net/unicatv/unicatv/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="General",VivaTV" group-title="General",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="General",VivaTV
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/vivatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="South Park Rocks!" group-title="Animation;Comedy",South Park Rocks!
+https://jmp2.uk/plu-664f12bb3d173b0008168c1f.m3u8
+#EXTINF:-1 tvg-name="South Park: Stars & Sternchen" group-title="Animation;Comedy",South Park: Stars & Sternchen
+https://jmp2.uk/plu-664f0d373d173b0008164948.m3u8
+#EXTINF:-1 tvg-name="Gustav & Linse på udebane" group-title="General",Gustav & Linse på udebane
+https://jmp2.uk/plu-69c290eeed1b1f1acb446dd8.m3u8
+#EXTINF:-1 tvg-name="The Millers" group-title="General",The Millers
+https://jmp2.uk/plu-69afeefa0a7f2095e768401c.m3u8
+#EXTINF:-1 tvg-name="Bolivision" group-title="General",Bolivision
+https://d135ohnuotzzyo.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-name="Cable Nobsa TV" group-title="General",Cable Nobsa TV
+https://eu1.servers10.com:8081/8164/index.m3u8
+#EXTINF:-1 tvg-name="Lila TV Pencahue" group-title="General",Lila TV Pencahue
+https://tv.arkeo.cl:1936/radiolila/radiolila/playlist.m3u8
+#EXTINF:-1 tvg-name="Maray TV" group-title="General",Maray TV
+https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-29 13:15:17
-# Всего каналов: 18179
-# Новых за сессию: 0
+# Обновлено: 2026-06-29 15:54:56
+# Всего каналов: 18260
+# Новых за сессию: 81
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation
-# Каналов: 55
-# Обновлено: 2026-06-29 13:15:17
+# Каналов: 54
+# Обновлено: 2026-06-29 15:54:56
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Animation+ [Geo-blocked]" group-title="Animation",Animation+ [Geo-blocked]
@@ -60,9 +60,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/amg01596-gongnetworks-
 
 #EXTINF:-1 tvg-name="One Piece" group-title="Animation",One Piece
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-6380c94947c72b0007ee9a13.m3u8
-
-#EXTINF:-1 tvg-name="South Park" group-title="Animation",South Park
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8
 
 #EXTINF:-1 tvg-name="Anime Vision" group-title="Animation",Anime Vision
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
@@ -127,8 +124,11 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/amg19223-amg19223c9-am
 #EXTINF:-1 tvg-name="Crunchyroll" group-title="Animation",Crunchyroll
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
 
+#EXTINF:-1 tvg-name="Daria" group-title="Animation",Daria
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-6683b680efa2a10008e8a393.m3u8
+
 #EXTINF:-1 tvg-name="Las Tortugas Ninja" group-title="Animation",Las Tortugas Ninja
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
 
 #EXTINF:-1 tvg-name="Naruto Shippuden" group-title="Animation",Naruto Shippuden
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-64c92f965580090008084968.m3u8
@@ -147,9 +147,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5dcde17bf6
 
 #EXTINF:-1 tvg-name="Pluto TV Gaming por Ubisoft" group-title="Animation",Pluto TV Gaming por Ubisoft
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-64c815e8a1c6130008fef928.m3u8
-
-#EXTINF:-1 tvg-name="South Park" group-title="Animation",South Park
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-62bdb1c5e25122000798ac79.m3u8
 
 #EXTINF:-1 tvg-name="Placid" group-title="Animation",Placid
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/toy.vcdn.fyi/placid/index.m3u8
@@ -199,8 +196,12 @@ https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 https://jmp2.uk/plu-6675c7868768aa0008d7f1c7.m3u8
 #EXTINF:-1 tvg-name="RetroCrush" group-title="Animation;Classic",RetroCrush
 https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Comedy Central South Park" group-title="Animation;Comedy",Comedy Central South Park
+https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8
 #EXTINF:-1 tvg-name="Banijay Mr Bean Animé" group-title="Animation;Kids",Banijay Mr Bean Animé
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
+#EXTINF:-1 tvg-name="South Park" group-title="Animation;Comedy",South Park
+https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8
 #EXTINF:-1 tvg-name="Mr. Bean Anime Spain" group-title="Animation;Kids",Mr. Bean Anime Spain
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 #EXTINF:-1 tvg-name="Mr. Bean Anime Italy" group-title="Animation;Kids",Mr. Bean Anime Italy
@@ -237,6 +238,8 @@ https://pistream.ddns.net/hls/stream.m3u8
 https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon (576p)" group-title="Animation;Kids",Nickelodeon (576p)
 http://195.64.140.147:10121/121
+#EXTINF:-1 tvg-name="Avatar" group-title="Animation;Kids;Series",Avatar
+https://jmp2.uk/plu-656df599c0fc8800089c75ab.m3u8
 #EXTINF:-1 tvg-name="BBC Four/CBeebies [Geo-Blocked]" group-title="Animation;General;Kids",BBC Four/CBeebies [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
 #EXTINF:-1 tvg-name="BBC Three/CBBC [Geo-Blocked]" group-title="Animation;Family;Kids",BBC Three/CBBC [Geo-Blocked]
@@ -269,6 +272,48 @@ https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
 https://jmp2.uk/plu-66bb36e03a4ad200082bb8fe.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Adult Animation" group-title="Animation;Comedy",Pluto TV Adult Animation
 https://jmp2.uk/plu-67f68bd2135aeda9ddf0ef54.m3u8
+#EXTINF:-1 tvg-name="South Park Armageddon" group-title="Animation;Comedy",South Park Armageddon
+https://jmp2.uk/plu-660bff28516d260008479e23.m3u8
+#EXTINF:-1 tvg-name="South Park En Français" group-title="Animation;Comedy",South Park En Français
+https://jmp2.uk/plu-62bdb919d36cbd0007e6ab8a.m3u8
+#EXTINF:-1 tvg-name="South Park Rockin' Out" group-title="Animation;Comedy",South Park Rockin' Out
+https://jmp2.uk/plu-664f132c8ea5560008ce4d86.m3u8
+#EXTINF:-1 tvg-name="South Park Versión Original" group-title="Animation;Comedy",South Park Versión Original
+https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8
+#EXTINF:-1 tvg-name="South Park: Butters Collection" group-title="Animation;Comedy",South Park: Butters Collection
+https://jmp2.uk/plu-646b14a0e94c3800082a8d3a.m3u8
+#EXTINF:-1 tvg-name="South Park: Cartman Collection" group-title="Animation;Comedy",South Park: Cartman Collection
+https://jmp2.uk/plu-65df4934f7f0af0008c32545.m3u8
+#EXTINF:-1 tvg-name="South Park: Coleção Cartman" group-title="Animation;Comedy",South Park: Coleção Cartman
+https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8
+#EXTINF:-1 tvg-name="South Park: Coleção Kenny" group-title="Animation;Comedy",South Park: Coleção Kenny
+https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8
+#EXTINF:-1 tvg-name="South Park: Coleção Kyle" group-title="Animation;Comedy",South Park: Coleção Kyle
+https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8
+#EXTINF:-1 tvg-name="South Park: Coleção Stan" group-title="Animation;Comedy",South Park: Coleção Stan
+https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8
+#EXTINF:-1 tvg-name="South Park: Colección Cartman" group-title="Animation;Comedy",South Park: Colección Cartman
+https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8
+#EXTINF:-1 tvg-name="South Park: Colección Kenny" group-title="Animation;Comedy",South Park: Colección Kenny
+https://jmp2.uk/plu-65df7272ec9fda0008b7a970.m3u8
+#EXTINF:-1 tvg-name="South Park: Colección Kyle" group-title="Animation;Comedy",South Park: Colección Kyle
+https://jmp2.uk/plu-65df73520d4561000817c29b.m3u8
+#EXTINF:-1 tvg-name="South Park: Colección Stan" group-title="Animation;Comedy",South Park: Colección Stan
+https://jmp2.uk/plu-65df72db18036500081a8292.m3u8
+#EXTINF:-1 tvg-name="South Park: Into the Stars" group-title="Animation;Comedy",South Park: Into the Stars
+https://jmp2.uk/plu-664f0eaa8ce31100088036bd.m3u8
+#EXTINF:-1 tvg-name="South Park: Kenny Collection" group-title="Animation;Comedy",South Park: Kenny Collection
+https://jmp2.uk/plu-65df47f428730900089f83ac.m3u8
+#EXTINF:-1 tvg-name="South Park: Kyle Collection" group-title="Animation;Comedy",South Park: Kyle Collection
+https://jmp2.uk/plu-65df49b30d45610008172c5b.m3u8
+#EXTINF:-1 tvg-name="South Park: Original Version" group-title="Animation;Comedy",South Park: Original Version
+https://jmp2.uk/plu-646b150a15939400089e2702.m3u8
+#EXTINF:-1 tvg-name="South Park: Stan Collection" group-title="Animation;Comedy",South Park: Stan Collection
+https://jmp2.uk/plu-65df48ba28730900089f8480.m3u8
+#EXTINF:-1 tvg-name="South Park: Welcome to Canada!" group-title="Animation;Comedy",South Park: Welcome to Canada!
+https://jmp2.uk/plu-663115d923e24f000843b49c.m3u8
+#EXTINF:-1 tvg-name="Teenage Mutant Ninja Turtles" group-title="Animation;Kids",Teenage Mutant Ninja Turtles
+https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8
 #EXTINF:-1 tvg-name="Spacetoon Arabic (576p)" group-title="Animation;Kids",Spacetoon Arabic (576p)
 https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8
 #EXTINF:-1 tvg-name="Slime (576p)" group-title="Animation;Kids",Slime (576p)
@@ -295,3 +340,7 @@ http://8.243.126.131:8000/play/a0od/index.m3u8
 https://adpnetworkhd-cmd.github.io/iptv/Pingvin.m3u8
 #EXTINF:-1 tvg-name="Disney Channel Latin America Mexico" group-title="Animation;Kids",Disney Channel Latin America Mexico
 http://45.166.93.156:9999/play/a0f3/index.m3u8
+#EXTINF:-1 tvg-name="South Park Rocks!" group-title="Animation;Comedy",South Park Rocks!
+https://jmp2.uk/plu-664f12bb3d173b0008168c1f.m3u8
+#EXTINF:-1 tvg-name="South Park: Stars & Sternchen" group-title="Animation;Comedy",South Park: Stars & Sternchen
+https://jmp2.uk/plu-664f0d373d173b0008164948.m3u8

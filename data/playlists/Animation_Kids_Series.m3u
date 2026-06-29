@@ -5,39 +5,47 @@
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
-# Категория: Animation;Family;Kids
+# Категория: Animation;Kids;Series
 # Каналов: 2
 # Обновлено: 2026-06-29 15:54:56
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
-#EXTINF:-1 tvg-name="BBC Three/CBBC [Geo-Blocked]" group-title="Animation;Family;Kids",BBC Three/CBBC [Geo-Blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
+#EXTINF:-1 tvg-name="Avatar" group-title="Animation;Kids;Series",Avatar
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-656df599c0fc8800089c75ab.m3u8
 
-#EXTINF:-1 tvg-name="BBC Three/CBBC" group-title="Animation;Family;Kids",BBC Three/CBBC
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/193.46.58.239:8080/CBBCHD/index.m3u8
+#EXTINF:-1 tvg-name="Avatar" group-title="Animation;Kids;Series",Avatar
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-61c09b48d6d97900076e91c5.m3u8
 
 #EXTINF:-1 tvg-name="TNT Kids (288p)" group-title="Kids",TNT Kids (288p)
 https://restreamer1.tnt.ba/hls/tntkids.m3u8
 #EXTINF:-1 tvg-name="13 Kids" group-title="Kids",13 Kids
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+#EXTINF:-1 tvg-name="13 Teleseries" group-title="Series",13 Teleseries
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-name="Koogi TV" group-title="Kids;Religious",Koogi TV
 https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="BeJoy.kids" group-title="Kids",BeJoy.kids
 https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
 #EXTINF:-1 tvg-name="EBS kids (400p)" group-title="Kids",EBS kids (400p)
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-name="Смотрим Честный Детектив" group-title="Series",Смотрим Честный Детектив
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="SX3 [Geo-blocked]" group-title="Animation;Kids;Public",SX3 [Geo-blocked]
 https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
 #EXTINF:-1 tvg-name="TRT Çocuk" group-title="Kids",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="The Pet Collective" group-title="Family",The Pet Collective
-https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="FAN" group-title="Animation;Movies",FAN
 http://31.148.48.15/Fan/index.m3u8
 #EXTINF:-1 tvg-name="Gulli Girl" group-title="Kids",Gulli Girl
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Detski mir (576p)" group-title="Kids",Detski mir (576p)
 http://tmptv.sunduk.tv/CH35/index.m3u8
+#EXTINF:-1 tvg-name="27 TwentySeven [Geo-blocked]" group-title="Movies;Series",27 TwentySeven [Geo-blocked]
+https://live2.msf.cdn.mediaset.net/content/hls_h0_cls_vos/live/channel(ts)/index.m3u8
+#EXTINF:-1 tvg-name="50 Cent Action" group-title="Movies;Series",50 Cent Action
+https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
+#EXTINF:-1 tvg-name="@TV" group-title="Movies;Series",@TV
+http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 #EXTINF:-1 tvg-name="ADO TV" group-title="Kids;Sports",ADO TV
 https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
 #EXTINF:-1 tvg-name="Mama (576p)" group-title="Kids",Mama (576p)
@@ -48,26 +56,38 @@ https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="STS kids" group-title="Kids",STS kids
 http://tmptv.sunduk.tv/CH729/index.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Family",STS Love (576i)" group-title="Family",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Family",STS Love (576i)
-https://cdn4.skygo.mn/live/disk1/Fashion_TV/HLSv3-FTA/Fashion_TV.m3u8
 #EXTINF:-1 tvg-name="TiJi (576p)" group-title="Kids",TiJi (576p)
 https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Мир Сериала (576p)" group-title="Series",Мир Сериала (576p)
+http://31.148.48.15/Mir_Seriala/index.m3u8
 #EXTINF:-1 tvg-name="Мульт" group-title="Kids",Мульт
 http://31.148.48.15/Mult_HD/index.m3u8
 #EXTINF:-1 tvg-name="Мульт и Музыка (576p)" group-title="Kids",Мульт и Музыка (576p)
 http://31.148.48.15/Multimuzika/index.m3u8
 #EXTINF:-1 tvg-name="Мультимания (576p)" group-title="Animation;Kids",Мультимания (576p)
 https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="НТВ Сериал (576p)" group-title="Series",НТВ Сериал (576p)
+https://cdn.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:-1 tvg-name="НТВ Хит (576p)" group-title="Series",НТВ Хит (576p)
+https://cdn.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-name="Радость моя (576p)" group-title="Kids",Радость моя (576p)
 https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
+#EXTINF:-1 tvg-name="Сапфир" group-title="Series",Сапфир
+http://31.148.48.15/Sapfir_HD/index.m3u8
+#EXTINF:-1 tvg-name="Сити Эдем КиноДок" group-title="Documentary;Series",Сити Эдем КиноДок
+https://cityeden.catcast.tv/content/38354/index.m3u8
+#EXTINF:-1 tvg-name="Сити Эдем ТелеНовелла" group-title="Series",Сити Эдем ТелеНовелла
+https://cityeden.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 tvg-name="Смайл ТВ" group-title="Kids",Смайл ТВ
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 tvg-name="Смотрим 100% Детское" group-title="Kids",Смотрим 100% Детское
 https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089
+#EXTINF:-1 tvg-name="Смотрим 100% Любовь" group-title="Series",Смотрим 100% Любовь
+https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
+#EXTINF:-1 tvg-name="Смотрим 100% Мужское" group-title="Series",Смотрим 100% Мужское
+https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d
 #EXTINF:-1 tvg-name="Солнце (576p)" group-title="Animation;Kids",Солнце (576p)
 http://tv.mediacdn.ru/live/solntse/playlist.m3u8
-#EXTINF:-1 tvg-name="СТС (+4) (576p)" group-title="Family",СТС (+4) (576p)
-http://31.148.48.15/STS/index.m3u8
 #EXTINF:-1 tvg-name="Тамыр (Уфа) (576p)" group-title="Kids",Тамыр (Уфа) (576p)
 https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" group-title="Kids",Nickelodeon
@@ -76,48 +96,116 @@ https://streamer.filmowo.xyz/memfs/cd3264be-9df6-43cb-91ca-364082c257eb.m3u8
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 #EXTINF:-1 tvg-name="3ABN Kids Network" group-title="Animation;Kids;Religious",3ABN Kids Network
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="48 Hours" group-title="Series",48 Hours
+https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
+#EXTINF:-1 tvg-name="Acapulco Shore" group-title="Series",Acapulco Shore
+https://jmp2.uk/plu-64dab1f835425100080e1e7b.m3u8
 #EXTINF:-1 tvg-name="Aghapy Kids" group-title="Kids",Aghapy Kids
 https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
-#EXTINF:-1 tvg-name="AMG TV" group-title="Family",AMG TV
-https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:-1 tvg-name="All Reality WE tv" group-title="Series",All Reality WE tv
+https://jmp2.uk/plu-5e82530945600e0007ca076c.m3u8
+#EXTINF:-1 tvg-name="All Weddings We TV [Geo-blocked]" group-title="Series",All Weddings We TV [Geo-blocked]
+https://pb-amiq9wz02dhco.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-name="Always Funny Videos" group-title="Series",Always Funny Videos
+https://d24l3uppudokci.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-name="Anger Management Channel" group-title="Comedy;Series",Anger Management Channel
+https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-name="Animation+ [Geo-blocked]" group-title="Animation",Animation+ [Geo-blocked]
 https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-name="ANIME x HIDIVE [Geo-blocked]" group-title="Animation",ANIME x HIDIVE [Geo-blocked]
 https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-name="Antiques Roadshow PBS" group-title="Series",Antiques Roadshow PBS
+https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Antiques Roadshow UK" group-title="Series",Antiques Roadshow UK
+https://bbc-antiquesroadshowuk-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Are We There Yet?" group-title="Series",Are We There Yet?
+https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-name="At Home with Family Handyman" group-title="Series",At Home with Family Handyman
+https://d1ik2p49apxqjf.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-name="Baby Shark TV" group-title="Kids",Baby Shark TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Bar Rescue" group-title="Series",Bar Rescue
+https://jmp2.uk/plu-60a3d889a5b3690008dc7fe8.m3u8
+#EXTINF:-1 tvg-name="Baywatch" group-title="Series",Baywatch
+https://amg00145-fremantlemedian-baywatch-samsungau-gtsd6.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Doctor Who Classic" group-title="Series",BBC Doctor Who Classic
+https://bbc-classicdrwho-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC Kids" group-title="Kids",BBC Kids
 https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-name="Black Ink Crew" group-title="Series",Black Ink Crew
+https://jmp2.uk/plu-5d51e2bceca5b4b2c0e06c50.m3u8
+#EXTINF:-1 tvg-name="Blue Bloods" group-title="Series",Blue Bloods
+https://jmp2.uk/plu-61b3b8c645b45d0007a9bb8d.m3u8
 #EXTINF:-1 tvg-name="Blues TV" group-title="Animation",Blues TV
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Brat TV" group-title="Kids",Brat TV
 https://brat-samsung-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Camp Spoopy (576p)" group-title="Kids",Camp Spoopy (576p)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+#EXTINF:-1 tvg-name="Celebrity Name Game [Geo-blocked]" group-title="Series",Celebrity Name Game [Geo-blocked]
+https://amg00353-amg00353c19-xumo-us-2608.playouts.now.amagi.tv/lionsgate-clbng/playlist.m3u8
+#EXTINF:-1 tvg-name="Choppertown" group-title="Auto;Series",Choppertown
+https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="Christian Youth Channel (CYC)" group-title="Kids;Religious",Christian Youth Channel (CYC)
 http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Cold Case Files" group-title="Series",Cold Case Files
+https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playlist.m3u8
+#EXTINF:-1 tvg-name="Cops" group-title="Series",Cops
+https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="CSI" group-title="Series",CSI
+https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8
+#EXTINF:-1 tvg-name="Dark Matter TV" group-title="Series",Dark Matter TV
+https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Deal or No Deal" group-title="Series",Deal or No Deal
+https://amg00627-banijaygroup-dealornodeal-samsungau-si7xg.amagi.tv/playlist/amg00627-banijaygroup-dealornodeal-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-name="Degrassi" group-title="Series",Degrassi
+https://d3537vnymvfque.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-name="Designated Survivor [Geo-blocked]" group-title="Series",Designated Survivor [Geo-blocked]
+https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Disney Channel East" group-title="Kids",Disney Channel East
 https://tvpass.org/live/DisneyChannelEast/hd
 #EXTINF:-1 tvg-name="Disney Junior (1080i)" group-title="Kids",Disney Junior (1080i)
 http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
 #EXTINF:-1 tvg-name="Disney XD" group-title="Kids",Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-name="Dove Channel" group-title="Family",Dove Channel
-https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="Estrella Games" group-title="Entertainment;Family",Estrella Games
-https://estrella-games-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Dog the Bounty Hunter" group-title="Series",Dog the Bounty Hunter
+https://aegis-cloudfront-1.tubi.video/ff0ad399-75ed-42ba-8c60-75bb6cb8c929/playlist.m3u8
+#EXTINF:-1 tvg-name="Don't Tell The Bride" group-title="Series",Don't Tell The Bride
+https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Ebony TV by Lionsgate" group-title="Movies;Series",Ebony TV by Lionsgate
+https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
+#EXTINF:-1 tvg-name="Family Ties" group-title="Series",Family Ties
+https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
+#EXTINF:-1 tvg-name="Farscape" group-title="Series",Farscape
+https://jmp2.uk/plu-680bb31c56ff83bcd685d64e.m3u8
+#EXTINF:-1 tvg-name="Fear Factor" group-title="Series",Fear Factor
+https://amg00627-banijaygroup-fearfactor-samsungau-9vdod.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-name="FilmRise Anime" group-title="Animation",FilmRise Anime
 https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-name="Forever Kids" group-title="Kids",Forever Kids
 https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
-#EXTINF:-1 tvg-name="Freeform [Geo-blocked]" group-title="Family",Freeform [Geo-blocked]
-https://tvpass.org/live/FreeformEast/hd
 #EXTINF:-1 tvg-name="Garfield and Friends" group-title="Kids",Garfield and Friends
 https://jmp2.uk/plu-60faf9ddfcc1f200070a5932.m3u8
 #EXTINF:-1 tvg-name="Gooder Nation Channel 32" group-title="Animation;General",Gooder Nation Channel 32
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/channel32/playlist.m3u8
+#EXTINF:-1 tvg-name="Hallmark Drama" group-title="Series",Hallmark Drama
+https://tvpass.org/live/HallmarkDrama/hd
+#EXTINF:-1 tvg-name="Happy Days" group-title="Series",Happy Days
+https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
 #EXTINF:-1 tvg-name="HappyKids" group-title="Kids",HappyKids
 https://dil9xdvretp0f.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-name="Haunt TV" group-title="Series",Haunt TV
+https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-name="Home.Made.Nation" group-title="Series",Home.Made.Nation
+https://3238c44f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9MaXZlbHlQbGFjZV9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-name="iCarly TV" group-title="Series",iCarly TV
+https://jmp2.uk/plu-6450209d939a5900084dba1d.m3u8
+#EXTINF:-1 tvg-name="Impossible Quiz Show" group-title="Series",Impossible Quiz Show
+https://bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Jersey Shore" group-title="Series",Jersey Shore
+https://jmp2.uk/plu-609bfa51fbecc1000733152e.m3u8
+#EXTINF:-1 tvg-name="Judge Nosey" group-title="Series",Judge Nosey
+https://amg00514-noseybaxterllc-realnosey-cineverse-tqbpv.amagi.tv/playlist/amg00514-noseybaxterllc-realnosey-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-name="Kartoon Channel" group-title="Kids",Kartoon Channel
 https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Ketchup TV" group-title="Kids",Ketchup TV
@@ -132,16 +220,32 @@ https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
 https://jmp2.uk/plu-51c75f7bb6f26ba1cd00002f.m3u8
 #EXTINF:-1 tvg-name="Logos TV Kids" group-title="Kids;Religious",Logos TV Kids
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
+#EXTINF:-1 tvg-name="Love & Hip Hop" group-title="Series",Love & Hip Hop
+https://jmp2.uk/plu-5d51ddf0369acdb278dfb05e.m3u8
+#EXTINF:-1 tvg-name="Matlock" group-title="Series",Matlock
+https://jmp2.uk/plu-6850426e53d981d1fdb0d966.m3u8
 #EXTINF:-1 tvg-name="MBC 3 USA [Geo-blocked]" group-title="Kids",MBC 3 USA [Geo-blocked]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+#EXTINF:-1 tvg-name="MBC Drama USA" group-title="Series",MBC Drama USA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
 #EXTINF:-1 tvg-name="MCN6 Music Channel" group-title="Animation;Kids;Music",MCN6 Music Channel
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
+#EXTINF:-1 tvg-name="Midsomer Murders" group-title="Series",Midsomer Murders
+https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Mission Impossible" group-title="Movies;Series",Mission Impossible
+https://jmp2.uk/plu-62ab579258cb950007811aad.m3u8
+#EXTINF:-1 tvg-name="Misterios sin resolver" group-title="Series",Misterios sin resolver
+https://jmp2.uk/plu-5f4d882d5233170007ee880e.m3u8
 #EXTINF:-1 tvg-name="Movies for Gamers" group-title="Animation",Movies for Gamers
 https://jmp2.uk/plu-6008ddf24ef92b00079d61cf.m3u8
 #EXTINF:-1 tvg-name="Mr. Bean Animated" group-title="Animation;Kids",Mr. Bean Animated
 https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="MST3K" group-title="Series",MST3K
+https://mst3k-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Naruto" group-title="Animation",Naruto
 https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-name="Nash Bridges Channel [Geo-blocked]" group-title="Series",Nash Bridges Channel [Geo-blocked]
+https://amg00353-amg00353c35-xumo-us-3804.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="NCM Educational & Kids Channel" group-title="Education;Kids",NCM Educational & Kids Channel
 https://reflect-npa.cablecast.tv/live-9/live/live.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon en español" group-title="Kids",Nickelodeon en español
@@ -150,8 +254,14 @@ https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 #EXTINF:-1 tvg-name="Ninja Kidz" group-title="Kids",Ninja Kidz
 https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-name="Nosey" group-title="Series",Nosey
+https://nosey-intl-1-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Novelisima" group-title="Series",Novelisima
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-name="One Piece" group-title="Animation",One Piece
 https://jmp2.uk/plu-5f7790b3ed0c88000720b241.m3u8
+#EXTINF:-1 tvg-name="OuterSphere" group-title="Movies;Series",OuterSphere
+https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
 #EXTINF:-1 tvg-name="PBS Kids" group-title="Education;Kids",PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 tvg-name="PBS Kids Alaska" group-title="Education;Kids",PBS Kids Alaska
@@ -164,30 +274,86 @@ https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
 https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
 #EXTINF:-1 tvg-name="PBS Kids Pacific" group-title="Education;Kids",PBS Kids Pacific
 https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
+#EXTINF:-1 tvg-name="PBS Nature" group-title="Series",PBS Nature
+https://d3mr43kyql7wgk.cloudfront.net/PBS_Nature.m3u8
 #EXTINF:-1 tvg-name="PBS Retro [Geo-blocked]" group-title="Classic;Kids",PBS Retro [Geo-blocked]
 https://amg02333-pbs-amg02333c6-firetv-us-4236.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Perry Mason" group-title="Series",Perry Mason
+https://jmp2.uk/plu-64eddc3485efec00085b0369.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Anime" group-title="Animation",Pluto TV Anime
 https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Anime Movies" group-title="Animation",Pluto TV Anime Movies
 https://jmp2.uk/plu-67ed8f7e443f0671bc2b2368.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Crime Drama" group-title="Series",Pluto TV Crime Drama
+https://jmp2.uk/plu-65a6a7a00c7ff50008cba07b.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Fantastic" group-title="Series",Pluto TV Fantastic
+https://jmp2.uk/plu-5b64a245a202b3337f09e51d.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Horror" group-title="Movies;Series",Pluto TV Horror
+https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Lives" group-title="Series",Pluto TV Lives
+https://jmp2.uk/plu-5d8beeb39b5d5d5f8c672530.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Military" group-title="Series",Pluto TV Military
+https://jmp2.uk/plu-5bb3fea0f711fd76340eebff.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Novelas" group-title="Series",Pluto TV Novelas
+https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Romance" group-title="Movies;Series",Pluto TV Romance
+https://jmp2.uk/plu-5a66795ef91fef2c7031c599.m3u8
+#EXTINF:-1 tvg-name="Pluto TV True Crime" group-title="Documentary;Series",Pluto TV True Crime
+https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8
 #EXTINF:-1 tvg-name="pocket.watch Game On" group-title="Kids",pocket.watch Game On
 https://dl74gpgmnb7i8.cloudfront.net/pocketwatch_GameOn.m3u8
 #EXTINF:-1 tvg-name="Pokémon" group-title="Animation;Kids",Pokémon
 https://jmp2.uk/plu-6675c7868768aa0008d7f1c7.m3u8
-#EXTINF:-1 tvg-name="Positiv TV" group-title="Family",Positiv TV
-https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8
+#EXTINF:-1 tvg-name="Rakuten Viki" group-title="Entertainment;Series",Rakuten Viki
+https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="RetroCrush" group-title="Animation;Classic",RetroCrush
 https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="Ryan and Friends" group-title="Kids",Ryan and Friends
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="SKWAD" group-title="Kids",SKWAD
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
+#EXTINF:-1 tvg-name="Star Trek" group-title="Series",Star Trek
+https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8
 #EXTINF:-1 tvg-name="Super Simple Songs" group-title="Kids",Super Simple Songs
 https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Survivor" group-title="Series",Survivor
+https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-name="Telemundo telenovelas clásicas" group-title="Series",Telemundo telenovelas clásicas
+https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8
+#EXTINF:-1 tvg-name="The Addams Family" group-title="Series",The Addams Family
+https://jmp2.uk/plu-5d81607ab737153ea3c1c80e.m3u8
+#EXTINF:-1 tvg-name="The Amazing Race" group-title="Series",The Amazing Race
+https://jmp2.uk/plu-5f21e8a6e2f12b000755afdb.m3u8
+#EXTINF:-1 tvg-name="The Asylum" group-title="Series",The Asylum
+https://d1i3g4v4xlfhad.cloudfront.net/The_Asylum.m3u8
+#EXTINF:-1 tvg-name="The Bob Ross Channel" group-title="Series",The Bob Ross Channel
+https://bobross-xumous.cinedigm.com/midroll/amagi_hls_data_xumo-host-bobross-xumo/CDN/master.m3u8
+#EXTINF:-1 tvg-name="The Challenge" group-title="Series",The Challenge
+https://jmp2.uk/plu-5d48685da7e9f476aa8a1888.m3u8
+#EXTINF:-1 tvg-name="The Chat Show Channel" group-title="Comedy;Series",The Chat Show Channel
+https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-name="The Conners [Geo-blocked]" group-title="Comedy;Series",The Conners [Geo-blocked]
+https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="The Johnny Carson Show" group-title="Series",The Johnny Carson Show
+https://aegis-cloudfront-1.tubi.video/475550ae-8708-46a5-a7c3-54acb3d91480/playlist.m3u8
+#EXTINF:-1 tvg-name="The Judge Judy Channel" group-title="Series",The Judge Judy Channel
+https://jmp2.uk/plu-6283d51144ad8f0007fa382d.m3u8
 #EXTINF:-1 tvg-name="The LEGO Channel" group-title="Kids",The LEGO Channel
 https://dltiqboxjw21d.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-name="The Pet Collective [Geo-blocked]" group-title="Family",The Pet Collective [Geo-blocked]
-https://pb-jc9emctsujawo.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-name="The New Detectives" group-title="Series",The New Detectives
+https://jmp2.uk/plu-5aea40b35126c2157123aa64.m3u8
+#EXTINF:-1 tvg-name="The Rifleman" group-title="Series",The Rifleman
+https://jmp2.uk/plu-5e825550e758c700077b0aef.m3u8
+#EXTINF:-1 tvg-name="The Twilight Zone" group-title="Classic;Series",The Twilight Zone
+https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8
+#EXTINF:-1 tvg-name="The Walking Dead Universe" group-title="Series",The Walking Dead Universe
+https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8
+#EXTINF:-1 tvg-name="This Old House" group-title="Series",This Old House
+https://thisoldhouse-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Three's Company" group-title="Series",Three's Company
+https://jmp2.uk/plu-5ef3977e5d773400077de284.m3u8
+#EXTINF:-1 tvg-name="Tiny House Nation" group-title="Series",Tiny House Nation
+https://6df6888a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9UaW55SG91c2VOYXRpb25fSExT/playlist.m3u8
 #EXTINF:-1 tvg-name="Tom And Jerry" group-title="Kids",Tom And Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-name="Toon Goggles Junior" group-title="Kids",Toon Goggles Junior
@@ -198,26 +364,42 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-name="Totally Turtles" group-title="Kids",Totally Turtles
 https://jmp2.uk/plu-656ef4af4261ca00083c8f37.m3u8
-#EXTINF:-1 tvg-name="TVS Family Channel (360p)" group-title="Family",TVS Family Channel (360p)
-https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8
+#EXTINF:-1 tvg-name="True Crime Network+ [Geo-blocked]" group-title="Series",True Crime Network+ [Geo-blocked]
+https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="TVS Hi Tops" group-title="Kids",TVS Hi Tops
 https://rpn.bozztv.com/gusa/gusa-hitops/index.m3u8
 #EXTINF:-1 tvg-name="TVS Pinball Network (480p)" group-title="Kids",TVS Pinball Network (480p)
 https://rpn.bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
+#EXTINF:-1 tvg-name="Universal Comedy (480p)" group-title="Comedy;Movies;Series",Universal Comedy (480p)
+http://190.2.212.209:8050/play/a0q4
+#EXTINF:-1 tvg-name="Universal Crime" group-title="Series",Universal Crime
+https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-name="Unsolved Mysteries" group-title="Series",Unsolved Mysteries
+https://d31z96rdrmwfsp.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-name="USA Network East" group-title="Comedy;Movies;Series;Sports",USA Network East
+https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1 tvg-name="Watch it KID! (480i)" group-title="Kids",Watch it KID! (480i)
 https://stream-us-east-1.getpublica.com/cl/260415d7g24jv4hnf3ahfafgog/318x234_424101_3_f.m3u8?i=513_2256
+#EXTINF:-1 tvg-name="Weeds / Nurse Jackie" group-title="Series",Weeds / Nurse Jackie
+https://jmp2.uk/plu-688a44cf5d73ec0a3f49718b.m3u8
+#EXTINF:-1 tvg-name="Wild 'N Out" group-title="Series",Wild 'N Out
+https://jmp2.uk/plu-5d48678d34ceb37d3c458a55.m3u8
 #EXTINF:-1 tvg-name="WJLP-DT2 (360p)" group-title="Classic;Kids",WJLP-DT2 (360p)
 https://e3.thetvapp.to/hls/metv-toons/index.m3u8
 #EXTINF:-1 tvg-name="Yu-Gi-Oh!" group-title="Animation",Yu-Gi-Oh!
 https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
-#EXTINF:-1 tvg-name="Avatar" group-title="Kids",Avatar
-https://jmp2.uk/plu-600adbdf8c554e00072125c9.m3u8
+#EXTINF:-1 tvg-name="Beverly Hills 90210" group-title="Series",Beverly Hills 90210
+https://jmp2.uk/plu-60afb576053df900076fa2f0.m3u8
+#EXTINF:-1 tvg-name="Chaos City" group-title="Series",Chaos City
+https://jmp2.uk/plu-60afbad343e3840007164348.m3u8
 #EXTINF:-1 tvg-name="Comedy Central South Park" group-title="Animation;Comedy",Comedy Central South Park
 https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8
 #EXTINF:-1 tvg-name="Disney Channel (576p) [Geo-Blocked]" group-title="Kids",Disney Channel (576p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
 #EXTINF:-1 tvg-name="iCarly" group-title="Kids",iCarly
 https://jmp2.uk/plu-5e8b580a233dc90007f0cb9d.m3u8
+#EXTINF:-1 tvg-name="Ice Pilots" group-title="Series",Ice Pilots
+https://jmp2.uk/plu-5ce40f42ba7f7f5ea9518fe1.m3u8
 #EXTINF:-1 tvg-name="KiKA" group-title="Kids",KiKA
 https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
 #EXTINF:-1 tvg-name="KiKA [Geo-Blocked]" group-title="Kids",KiKA [Geo-Blocked]
@@ -226,10 +408,14 @@ https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8
 https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
 #EXTINF:-1 tvg-name="Nick/Comedy Central +1 [Geo-Blocked]" group-title="Comedy;Kids",Nick/Comedy Central +1 [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
-#EXTINF:-1 tvg-name="Rakuten TV Family Movies Germany" group-title="Family;Movies",Rakuten TV Family Movies Germany
-https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Crime" group-title="Series",Pluto TV Crime
+https://jmp2.uk/plu-5e7b6c60fd20c50007910bf5.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Sitcoms" group-title="Comedy;Series",Pluto TV Sitcoms
+https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
 #EXTINF:-1 tvg-name="RiC" group-title="Family;Kids",RiC
 https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
+#EXTINF:-1 tvg-name="RTL Crime" group-title="Series",RTL Crime
+http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15178/index.m3u8
 #EXTINF:-1 tvg-name="SpongeBob Schwammkopf" group-title="Kids",SpongeBob Schwammkopf
 https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8
 #EXTINF:-1 tvg-name="ADN TV+" group-title="Animation",ADN TV+
@@ -250,8 +436,20 @@ https://viamotionhsi.netplus.ch/live/eds/gulli/browser-dash/gulli.mpd
 http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon Teen" group-title="Kids",Nickelodeon Teen
 https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Investigation" group-title="Series",Pluto TV Investigation
+https://jmp2.uk/plu-63808dc806aa4700075f319a.m3u8
+#EXTINF:-1 tvg-name="Sony One Blacklist" group-title="Series",Sony One Blacklist
+https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-name="Sony One Series Comedie" group-title="Series",Sony One Series Comedie
+https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-name="Sony One Series Thriller" group-title="Series",Sony One Series Thriller
+https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-name="South Park" group-title="Animation;Comedy",South Park
 https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8
+#EXTINF:-1 tvg-name="Zylo Fréquence Novelas" group-title="Series",Zylo Fréquence Novelas
+https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-name="3Cat Plats bruts" group-title="Classic;Comedy;Public;Series",3Cat Plats bruts
+https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
 #EXTINF:-1 tvg-name="Anime Vision" group-title="Animation",Anime Vision
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
 #EXTINF:-1 tvg-name="Anime Vision Classics" group-title="Animation",Anime Vision Classics
@@ -260,26 +458,44 @@ https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-name="BabyTV Spain" group-title="Kids",BabyTV Spain
 https://xykt-fix.github.io/iptv/streams/SP88/index.m3u8
+#EXTINF:-1 tvg-name="BBC Drama" group-title="Series",BBC Drama
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Clan TVE [Geo-blocked]" group-title="Kids;Public",Clan TVE [Geo-blocked]
 https://ztnr.rtve.es/ztnr/5466990.m3u8
 #EXTINF:-1 tvg-name="Disney Junior (576p)" group-title="Kids",Disney Junior (576p)
 https://bbb.exoadash.com/TVD1561/index.mpd
 #EXTINF:-1 tvg-name="Mr. Bean Anime Spain" group-title="Animation;Kids",Mr. Bean Anime Spain
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-name="Rakuten TV Family Movies Spain" group-title="Family;Movies",Rakuten TV Family Movies Spain
-https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
+#EXTINF:-1 tvg-name="Squirrel" group-title="Movies;Series",Squirrel
+http://92.176.119.180:2095/play/a1ey
+#EXTINF:-1 tvg-name="Squirrel Dos" group-title="Series",Squirrel Dos
+http://92.176.119.180:2095/play/a16q
+#EXTINF:-1 tvg-name="TVE Star (576p)" group-title="Series",TVE Star (576p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
+#EXTINF:-1 tvg-name="TVE Star" group-title="Series",TVE Star
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
+#EXTINF:-1 tvg-name="Veo7" group-title="Movies;Series",Veo7
+http://92.176.119.180:2095/play/a1f1
+#EXTINF:-1 tvg-name="XPTV US" group-title="Series",XPTV US
+https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
+#EXTINF:-1 tvg-name="Zylo Todo Novelas" group-title="Series",Zylo Todo Novelas
+https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
+#EXTINF:-1 tvg-name="Donna TV (480p)" group-title="Series",Donna TV (480p)
+https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
 #EXTINF:-1 tvg-name="Iunior TV" group-title="Kids",Iunior TV
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
 #EXTINF:-1 tvg-name="Mr. Bean Anime Italy" group-title="Animation;Kids",Mr. Bean Anime Italy
 https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
 #EXTINF:-1 tvg-name="Rai YoYo (576p) [Geo-blocked]" group-title="Kids",Rai YoYo (576p) [Geo-blocked]
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
-#EXTINF:-1 tvg-name="Rakuten TV Family Movies Italy" group-title="Family;Movies",Rakuten TV Family Movies Italy
-https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8
+#EXTINF:-1 tvg-name="Super TV" group-title="General;Series",Super TV
+http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
+#EXTINF:-1 tvg-name="Top Crime [Geo-blocked]" group-title="Series",Top Crime [Geo-blocked]
+https://live3-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
 #EXTINF:-1 tvg-name="Disney Channel Japan (544p)" group-title="Kids",Disney Channel Japan (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
-#EXTINF:-1 tvg-name="Family Gekijo (544p)" group-title="Family",Family Gekijo (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
+#EXTINF:-1 tvg-name="Dlife" group-title="Series",Dlife
+https://43.100.9.67/api/streams/live/cs312/1080p/mpegts
 #EXTINF:-1 tvg-name="Kids Station (544p)" group-title="Kids",Kids Station (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
 #EXTINF:-1 tvg-name="BRTV Kaku Childrens Channel" group-title="Kids",BRTV Kaku Childrens Channel
@@ -296,8 +512,6 @@ http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
 http://49.113.179.174:4022/udp/238.125.4.28:5140
 #EXTINF:-1 tvg-name="优漫卡通 (576p)" group-title="Animation;Kids",优漫卡通 (576p)
 http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
-#EXTINF:-1 tvg-name="四川妇女儿童" group-title="Family",四川妇女儿童
-http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
 #EXTINF:-1 tvg-name="山东少儿 (406p) [Geo-blocked]" group-title="Kids",山东少儿 (406p) [Geo-blocked]
 http://livealone302.iqilu.com/iqilu/sepd.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通 (576p)" group-title="Animation;Kids",金鹰卡通 (576p)
@@ -326,28 +540,40 @@ https://sl.vodep39240327.workers.dev/channel/SONY%20YAY.m3u8
 https://mumt05.tangotv.in/UNIQUETV/index.m3u8
 #EXTINF:-1 tvg-name="ZB Cartoon" group-title="Kids",ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
+#EXTINF:-1 tvg-name="Zee Cafe" group-title="Series",Zee Cafe
+http://103.229.254.25:7001/play/a0cx/index.m3u8
 #EXTINF:-1 tvg-name="BabyTV Turkiye [Geo-blocked]" group-title="Kids",BabyTV Turkiye [Geo-blocked]
 https://saran-live.ercdn.net/babytv/index.m3u8
+#EXTINF:-1 tvg-name="CNBC-e" group-title="Business;Series",CNBC-e
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 tvg-name="Disney Jr. [Geo-blocked]" group-title="Animation;Kids",Disney Jr. [Geo-blocked]
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
+#EXTINF:-1 tvg-name="GZT" group-title="Documentary;Series",GZT
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1 tvg-name="Minika Cocuk (480p)" group-title="Kids",Minika Cocuk (480p)
 https://tgn.bozztv.com/dvrfl05/gin-minikacocuk/index.m3u8
 #EXTINF:-1 tvg-name="Minika Go (480p)" group-title="Kids",Minika Go (480p)
 https://tgn.bozztv.com/dvrfl05/gin-minikago/index.m3u8
 #EXTINF:-1 tvg-name="TRT Diyanet Çocuk" group-title="Kids",TRT Diyanet Çocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="AWTV [Geo-blocked]" group-title="Classic;Series",AWTV [Geo-blocked]
+https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Babyfirst" group-title="Kids",Babyfirst
 https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8
-#EXTINF:-1 tvg-name="CWB TV" group-title="Family;General",CWB TV
-https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
 #EXTINF:-1 tvg-name="Geekdot" group-title="Animation",Geekdot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="Gloob (576p)" group-title="Kids",Gloob (576p)
 http://45.235.0.78/Gloob/playlist.m3u8
 #EXTINF:-1 tvg-name="Gloob Web" group-title="Kids",Gloob Web
 https://vs20.live.opencaster.com/globiosat_73a904af/index.m3u8
+#EXTINF:-1 tvg-name="Kenan & Kel" group-title="Series",Kenan & Kel
+https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
 #EXTINF:-1 tvg-name="Kuriakos Kids" group-title="Animation;Kids;Religious",Kuriakos Kids
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="MasterChef" group-title="Series",MasterChef
+https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
+#EXTINF:-1 tvg-name="MTV Com o Ex" group-title="Series",MTV Com o Ex
+https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon Clássico" group-title="Kids",Nickelodeon Clássico
 https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
 #EXTINF:-1 tvg-name="NickOnline (360p)" group-title="Animation;Kids",NickOnline (360p)
@@ -370,8 +596,8 @@ https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8
 https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
 #EXTINF:-1 tvg-name="Turma da Mônica" group-title="Kids",Turma da Mônica
 https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8
-#EXTINF:-1 tvg-name="TV Paraense" group-title="Entertainment;Family;General;News",TV Paraense
-https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
+#EXTINF:-1 tvg-name="TV Series 1 As Panteras (480p)" group-title="Series",TV Series 1 As Panteras (480p)
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-name="Disney Jr. Latin America South" group-title="Animation;Kids",Disney Jr. Latin America South
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-name="Magic Kids (486p)" group-title="Animation",Magic Kids (486p)
@@ -382,12 +608,12 @@ https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 tvg-name="GikTVMX" group-title="Animation;Culture;Entertainment",GikTVMX
 https://pistream.ddns.net/hls/stream.m3u8
-#EXTINF:-1 tvg-name="The Pet Collective International" group-title="Family",The Pet Collective International
-https://the-pet-collective-international-mx.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Kidoodle.TV" group-title="Kids",Kidoodle.TV
 https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Knowledge Network [Geo-blocked]" group-title="Education;Kids",Knowledge Network [Geo-blocked]
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
+#EXTINF:-1 tvg-name="Nashville" group-title="Series",Nashville
+https://jmp2.uk/plu-65cf8d7428730900087c5907.m3u8
 #EXTINF:-1 tvg-name="TVOKids" group-title="Kids",TVOKids
 https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8
 #EXTINF:-1 tvg-name="ABC Entertains" group-title="Education;Kids",ABC Entertains
@@ -398,8 +624,6 @@ https://c.mjh.nz/abc-kids.m3u8
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd
 #EXTINF:-1 tvg-name="Multimania (Latvia) (576p)" group-title="Animation;Kids",Multimania (Latvia) (576p)
 https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8
-#EXTINF:-1 tvg-name="Sevimli TV" group-title="Family",Sevimli TV
-https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Kids",Карусель International" group-title="Kids",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Kids",Карусель International
 https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 #EXTINF:-1 tvg-name="Мультиландия (576p)" group-title="Kids",Мультиландия (576p)
@@ -408,14 +632,16 @@ http://31.148.48.15/Multilandiya/index.m3u8
 https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8
 #EXTINF:-1 tvg-name="ЭлТР Билим Илим (480p)" group-title="Kids;Science",ЭлТР Билим Илим (480p)
 http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8
-#EXTINF:-1 tvg-name="1KZN TV (576p)" group-title="Entertainment;Family;General",1KZN TV (576p)
-https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="5 Cops" group-title="Series",5 Cops
+https://jmp2.uk/plu-5d2c571faeb3e2738ae27933.m3u8
+#EXTINF:-1 tvg-name="Andromeda" group-title="Series",Andromeda
+https://jmp2.uk/plu-5e8db96bccae160007c71eec.m3u8
 #EXTINF:-1 tvg-name="Aniplus Asia" group-title="Animation",Aniplus Asia
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
-#EXTINF:-1 tvg-name="Asia TV" group-title="Entertainment;Family;General",Asia TV
-https://stream.asiatvnet.com/1/live/master.m3u8
 #EXTINF:-1 tvg-name="BBC Four/CBeebies [Geo-Blocked]" group-title="Animation;General;Kids",BBC Four/CBeebies [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
+#EXTINF:-1 tvg-name="BBC Three/CBBC [Geo-Blocked]" group-title="Animation;Family;Kids",BBC Three/CBBC [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Animation;Kids",Cartoon Classics" group-title="Animation;Kids",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Animation;Kids",Cartoon Classics
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8?ads.vf=yqk-v2F2pNi
 #EXTINF:-1 tvg-name="CBBC [Geo-blocked]" group-title="Kids",CBBC [Geo-blocked]
@@ -426,64 +652,82 @@ https://cdn10jtedge.indihometv.com/atm/DASH/cbeebies/manifest.mpd
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-name="Disney Channel" group-title="Kids",Disney Channel
 https://streamer.filmowo.xyz/memfs/24012cc7-5a6e-492f-9083-579349d56f37.m3u8
+#EXTINF:-1 tvg-name="Dog The Bounty Hunter [Geo-blocked]" group-title="Series",Dog The Bounty Hunter [Geo-blocked]
+https://amg00276-amg00276c11-rakuten-uk-3446.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-dogthebountyhunterall-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-name="Dog Whisperer [Geo-blocked]" group-title="Series",Dog Whisperer [Geo-blocked]
+https://pb-ffpxvjshv4rxx.akamaized.net/Dog_Whisperer_with_Cesar_Millan.m3u8
+#EXTINF:-1 tvg-name="Duck Dynasty" group-title="Series",Duck Dynasty
+https://amg00276-amg00276c2-rakuten-uk-3449.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="ducktv" group-title="Kids",ducktv
 https://jmp2.uk/stvp-ESBC4700001GR
+#EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Series",Ghost Dimension" group-title="Series",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Series",Ghost Dimension
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/Q7VW3TCBWCN12JGUJGUY/hls3/now,-1m/m.m3u8?ads.vf=7sLXLbaCnLW
+#EXTINF:-1 tvg-name="Ghost Hunters" group-title="Series",Ghost Hunters
+https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Hell's Kitchen" group-title="Series",Hell's Kitchen
+https://amg00654-itv-amg00654c1-samsung-au-1072.playouts.now.amagi.tv/itv-hellskitchen-samsung/playlist.m3u8
+#EXTINF:-1 tvg-name="Highway to Heaven" group-title="Series",Highway to Heaven
+https://jmp2.uk/plu-6081738748d3200007afb24b.m3u8
+#EXTINF:-1 tvg-name="Homes Under The Hammer" group-title="Series",Homes Under The Hammer
+https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Homicide Hunter" group-title="Series",Homicide Hunter
+https://jmp2.uk/plu-60e452730e76f20007598de8.m3u8
+#EXTINF:-1 tvg-name="Hunter" group-title="Series",Hunter
+https://jmp2.uk/plu-5c99f5810c95814ff92512f9.m3u8
+#EXTINF:-1 tvg-name="Inside Crime" group-title="Series",Inside Crime
+https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Inspector Gadget" group-title="Series",Inspector Gadget
+https://jmp2.uk/plu-5d765786aad587cf4d0e2bf6.m3u8
 #EXTINF:-1 tvg-name="JimJam Europe (576p)" group-title="Kids",JimJam Europe (576p)
 http://158.160.149.81:8080/269/index.m3u8
 #EXTINF:-1 tvg-name="Kids Zone" group-title="Kids",Kids Zone
 http://103.250.28.74:8000/play/a04m/index.m3u8
-#EXTINF:-1 tvg-name="LTN Family (576p)" group-title="Family",LTN Family (576p)
-http://103.250.28.74:8000/play/a02j/index.m3u8
-#EXTINF:-1 tvg-name="MCI Televisión" group-title="Family;General;Movies",MCI Televisión
-https://video.ejeserver.com/live/mcitelevision.m3u8
+#EXTINF:-1 tvg-name="Mcleod's Daughters" group-title="Series",Mcleod's Daughters
+https://amg00627-amg00627c5-samsung-nz-2807.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mcleodsdaughters-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-name="Minimax (576p) (576p)" group-title="Kids",Minimax (576p) (576p)
 http://88.212.15.19/live/test_minimax/playlist.m3u8
 #EXTINF:-1 tvg-name="Moonbug Kids" group-title="Kids",Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Mr Bean Live Action" group-title="Comedy;Kids",Mr Bean Live Action
 https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Family",My Family [Geo-blocked]" group-title="Family",like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Family",My Family [Geo-blocked]
-https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
+#EXTINF:-1 tvg-name="Mythbusters" group-title="Series",Mythbusters
+https://d2bog959vw5xq.cloudfront.net/playlist/amg00627-banijayfast-mythbusters-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon Asia Indonesia" group-title="Kids",Nickelodeon Asia Indonesia
 http://202.169.224.202:8800/udp/239.9.1.17:1234
 #EXTINF:-1 tvg-name="Nickelodeon Global (576p)" group-title="Kids",Nickelodeon Global (576p)
 http://46.149.191.217:9011/play/a018
 #EXTINF:-1 tvg-name="Nicktoons" group-title="Kids",Nicktoons
 https://streamer.filmowo.xyz/memfs/a9e785bf-54f7-4a9d-be03-1ad6ace02cd3.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Action" group-title="Movies;Series",Pluto TV Action
+https://jmp2.uk/plu-5dbfeb961b411c00090b52b3.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Animation" group-title="Animation;Comedy",Pluto TV Animation
 https://jmp2.uk/plu-612f761008a9e50007984ba0.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Drama" group-title="Series",Pluto TV Drama
+https://jmp2.uk/plu-5ddf91149880d60009d35d27.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Kids" group-title="Kids",Pluto TV Kids
 https://jmp2.uk/plu-5ad8d54be738977e2c310940.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Retro Toons" group-title="Animation;Kids",Pluto TV Retro Toons
 https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
 #EXTINF:-1 tvg-name="Pop Up [Geo-blocked]" group-title="Kids",Pop Up [Geo-blocked]
 https://amg01753-amg01753c9-samsung-gb-8005.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeuk-popup-samsunggb/playlist.m3u8
-#EXTINF:-1 tvg-name="Rakuten TV Family Movies Finland" group-title="Family;Movies",Rakuten TV Family Movies Finland
-https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6227/master.m3u8
-#EXTINF:-1 tvg-name="Rakuten TV Family Movies UK" group-title="Family;Movies",Rakuten TV Family Movies UK
-https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
-#EXTINF:-1 tvg-name="Soweto TV (576p)" group-title="Entertainment;Family",Soweto TV (576p)
-https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Superscreen TV (412p)" group-title="Culture;Family",Superscreen TV (412p)
-https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8
 #EXTINF:-1 tvg-name="Teletubbies" group-title="Kids",Teletubbies
 https://dv8lsrd8fecw9.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-name="The Pet Collective Sweden" group-title="Family",The Pet Collective Sweden
-https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Tiny Pop" group-title="Kids",Tiny Pop
 https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
 #EXTINF:-1 tvg-name="Tiny Pop +1 (576p)" group-title="Kids",Tiny Pop +1 (576p)
 http://92.114.85.72:8000/play/a08p
-#EXTINF:-1 tvg-name="Tshwane TV (576p)" group-title="Entertainment;Family;General",Tshwane TV (576p)
-https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="True Crime UK" group-title="Series",True Crime UK
+https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-name="TVCARiB Kids & Teens" group-title="Kids",TVCARiB Kids & Teens
 https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
+#EXTINF:-1 tvg-name="U&Alibi (576p)" group-title="Series",U&Alibi (576p)
+http://92.114.85.72:8000/play/a0bi
+#EXTINF:-1 tvg-name="Wild at Heart" group-title="Series",Wild at Heart
+https://jmp2.uk/plu-60817936fd2d70000763d2b2.m3u8
 #EXTINF:-1 tvg-name="YAAAS! [Geo-blocked]" group-title="Kids",YAAAS! [Geo-blocked]
 https://d3knqoaufvjug3.cloudfront.net/yas.m3u8
 #EXTINF:-1 tvg-name="Zoo Moo (Australia)" group-title="Kids",Zoo Moo (Australia)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="6 Wise Tv" group-title="Family",6 Wise Tv
-https://live.enhdtv.com:8081/8150/index.m3u8
 #EXTINF:-1 tvg-name="Chinola TV (480p)" group-title="Kids",Chinola TV (480p)
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 #EXTINF:-1 tvg-name="Clan Internacional Americas [Geo-blocked]" group-title="Kids;Public",Clan Internacional Americas [Geo-blocked]
@@ -502,36 +746,46 @@ https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 #EXTINF:-1 tvg-name="Kanade" group-title="Animation;Entertainment",Kanade
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-name="Latina Clasicos" group-title="Series",Latina Clasicos
+https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Memorias TV Series [Geo-blocked]" group-title="Series",Memorias TV Series [Geo-blocked]
+https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
 #EXTINF:-1 tvg-name="Memorias TV Toons (480p) [Geo-blocked]" group-title="Kids",Memorias TV Toons (480p) [Geo-blocked]
 https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
 #EXTINF:-1 tvg-name="Naruto Shippuden" group-title="Animation",Naruto Shippuden
 https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8
-#EXTINF:-1 tvg-name="Talanga TV Canal 39 (480p)" group-title="Family",Talanga TV Canal 39 (480p)
-https://stream.oursnetworktv.com/latin/Tv39Talanga/playlist.m3u8
-#EXTINF:-1 tvg-name="Telenovisa43" group-title="Family;General",Telenovisa43
-https://fox.hostlagarto.com:8081/telenonisa43/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Pantalla Clásica EC (512p)" group-title="Movies;Series",Pantalla Clásica EC (512p)
+https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
 #EXTINF:-1 tvg-name="Tiguerito TV" group-title="Animation;Kids",Tiguerito TV
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Familia" group-title="Family",TV Familia
-https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
 #EXTINF:-1 tvg-name="ORF Kids" group-title="Kids",ORF Kids
 https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
-#EXTINF:-1 tvg-name="Rakuten TV Family Movies Austria" group-title="Family;Movies",Rakuten TV Family Movies Austria
-https://9fa8baba055e4a52b0a8d1ae7d78bed8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenFamily-1/playlist.m3u8
-#EXTINF:-1 tvg-name="Rakuten TV Family Switzerland" group-title="Family;Movies",Rakuten TV Family Switzerland
-https://a24daf1125344b9cab66eed2fcff8821.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_RakutenFamily-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Amou Yazid TV (576p)" group-title="Kids",Amou Yazid TV (576p)
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
 #EXTINF:-1 tvg-name="Japanim TV" group-title="Animation;Kids",Japanim TV
 https://foxkidstv.be:3369/stream/play.m3u8
-#EXTINF:-1 tvg-name="TV Famille" group-title="Family;Religious",TV Famille
-https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
-#EXTINF:-1 tvg-name="Al-Souriya TV" group-title="Family",Al-Souriya TV
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
+#EXTINF:-1 tvg-name="Novela Channel" group-title="Series",Novela Channel
+https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8
+#EXTINF:-1 tvg-name="Serie Max" group-title="Series",Serie Max
+https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8
+#EXTINF:-1 tvg-name="TVI Ficção" group-title="Series",TVI Ficção
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Atfal & Mawaheb TV" group-title="Kids",Atfal & Mawaheb TV
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
-#EXTINF:-1 tvg-name="MBC 5" group-title="Family",MBC 5
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+#EXTINF:-1 tvg-name="Bab Al Hara" group-title="Series",Bab Al Hara
+https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
+#EXTINF:-1 tvg-name="CBC Drama (576p)" group-title="Series",CBC Drama (576p)
+https://flu.systemnet.tv/CBCDrama/index.m3u8
+#EXTINF:-1 tvg-name="Maraya" group-title="Series",Maraya
+https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
+#EXTINF:-1 tvg-name="MBC Masr Drama" group-title="Series",MBC Masr Drama
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Series",PNC Drama" group-title="Series",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Series",PNC Drama
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8?ads.vf=S1kySuSK58S
+#EXTINF:-1 tvg-name="Rotana Drama [Geo-blocked]" group-title="Series",Rotana Drama [Geo-blocked]
+https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-name="Roya Drama" group-title="Series",Roya Drama
+https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
 #EXTINF:-1 tvg-name="Roya Kids" group-title="Kids",Roya Kids
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
 #EXTINF:-1 tvg-name="Roya Kids Originals" group-title="Kids",Roya Kids Originals
@@ -542,6 +796,10 @@ https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
 #EXTINF:-1 tvg-name="Taha TV (576p)" group-title="Kids",Taha TV (576p)
 https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8
+#EXTINF:-1 tvg-name="Zee Alwan (576p)" group-title="Entertainment;Series",Zee Alwan (576p)
+https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8
+#EXTINF:-1 tvg-name="AXN Asia Indonesia" group-title="Movies;Series",AXN Asia Indonesia
+https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 #EXTINF:-1 tvg-name="4 Fun Kids (576i) []" group-title="Kids",4 Fun Kids (576i) []
 https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
 #EXTINF:-1 tvg-name="Afarin Baxcha" group-title="Kids",Afarin Baxcha
@@ -608,20 +866,64 @@ https://live.teleradiocom.tj/3/3m.m3u8
 http://103.66.62.83:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-name="Пингвин" group-title="Animation;Kids",Пингвин
 https://sirius.greenhosting.ru/PingvinRu/video.m3u8
+#EXTINF:-1 tvg-name="HTV3" group-title="Entertainment;General;Series",HTV3
+https://vc.101vn.com/htv/htvcmb.php?id=2535
+#EXTINF:-1 tvg-name="48 Hours GB" group-title="Series",48 Hours GB
+https://jmp2.uk/plu-6299e5afdd5833000727e795.m3u8
+#EXTINF:-1 tvg-name="Afra Series" group-title="Series",Afra Series
+https://afrashls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="AVA Series" group-title="Series",AVA Series
+https://avaserieshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="GEM Series" group-title="Series",GEM Series
+https://ca-rt.onetv.app/gemseries/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-name="GEM Series Plus" group-title="Series",GEM Series Plus
+https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-name="Mireasa" group-title="Series",Mireasa
+https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
+#EXTINF:-1 tvg-name="MV Mall DD" group-title="Series",MV Mall DD
+https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8
+#EXTINF:-1 tvg-name="One TV Drama 3" group-title="Series",One TV Drama 3
+http://43.252.18.195:5080/live/streams/KoreanDrama.playlist.m3u8
+#EXTINF:-1 tvg-name="Persiana Series" group-title="Series",Persiana Series
+https://onehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="7th Heaven" group-title="Series",7th Heaven
+https://jmp2.uk/plu-6728c9c85534bb0008b320a4.m3u8
 #EXTINF:-1 tvg-name="90's Kids" group-title="Kids",90's Kids
 https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
 #EXTINF:-1 tvg-name="90s Kids TV 2" group-title="Kids",90s Kids TV 2
 https://jmp2.uk/plu-6452c77ed3fdde00080eb3a8.m3u8
+#EXTINF:-1 tvg-name="2900 Happiness" group-title="Series",2900 Happiness
+https://jmp2.uk/plu-6720bc6cdaad7f000872a6e2.m3u8
+#EXTINF:-1 tvg-name="90210" group-title="Series",90210
+https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
+#EXTINF:-1 tvg-name="Acapulco Shore Pluto TV" group-title="Series",Acapulco Shore Pluto TV
+https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
+#EXTINF:-1 tvg-name="Alerte à Malibu" group-title="Series",Alerte à Malibu
+https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8
+#EXTINF:-1 tvg-name="America's Next Top Model" group-title="Series",America's Next Top Model
+https://jmp2.uk/plu-6464cc595a0cd500088c7749.m3u8
+#EXTINF:-1 tvg-name="Ana y los 7" group-title="Series",Ana y los 7
+https://jmp2.uk/plu-5f1acce7f17797000718f9be.m3u8
+#EXTINF:-1 tvg-name="Andromeda Italy" group-title="Series",Andromeda Italy
+https://jmp2.uk/plu-60802d37ee238e0007c94e64.m3u8
 #EXTINF:-1 tvg-name="Ani-Blast" group-title="Animation",Ani-Blast
 https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8
+#EXTINF:-1 tvg-name="Anthony Bourdain: Parts Unknown" group-title="Series",Anthony Bourdain: Parts Unknown
+https://jmp2.uk/plu-69173ce8abd4703b27f71d44.m3u8
 #EXTINF:-1 tvg-name="As Tartarugas Ninja" group-title="Kids",As Tartarugas Ninja
 https://jmp2.uk/plu-63dd5c904e83e700088fb68a.m3u8
-#EXTINF:-1 tvg-name="AVA Family" group-title="Family",AVA Family
-https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Auction Hunters" group-title="Series",Auction Hunters
+https://jmp2.uk/plu-62da73c4ec46c000070f4cb1.m3u8
 #EXTINF:-1 tvg-name="Avatar: A lenda de Aang" group-title="Kids",Avatar: A lenda de Aang
 https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8
 #EXTINF:-1 tvg-name="Avatar: La Leyenda de Aang" group-title="Kids",Avatar: La Leyenda de Aang
 https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
+#EXTINF:-1 tvg-name="Awkward" group-title="Series",Awkward
+https://jmp2.uk/plu-62bc1784120ba80007935aaa.m3u8
+#EXTINF:-1 tvg-name="Becker" group-title="Classic;Series",Becker
+https://jmp2.uk/plu-672e157d7d5da5000812872d.m3u8
+#EXTINF:-1 tvg-name="BET" group-title="Series",BET
+https://jmp2.uk/plu-61c1939b8929e40007ff6382.m3u8
 #EXTINF:-1 tvg-name="Bob Esponja" group-title="Kids",Bob Esponja
 https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
 #EXTINF:-1 tvg-name="Bob Esponja Calça Quadrada" group-title="Kids",Bob Esponja Calça Quadrada
@@ -630,32 +932,154 @@ https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
 https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
 #EXTINF:-1 tvg-name="Bob l'éponge" group-title="Kids",Bob l'éponge
 https://jmp2.uk/plu-66588931a3865300085ca800.m3u8
+#EXTINF:-1 tvg-name="Bonanza" group-title="Movies;Series",Bonanza
+https://jmp2.uk/plu-696e647b07ea70192d49f6a5.m3u8
+#EXTINF:-1 tvg-name="Bondi Rescue" group-title="Series",Bondi Rescue
+https://jmp2.uk/plu-660d66be7bcd8600087cfee5.m3u8
+#EXTINF:-1 tvg-name="Britain's Next Top Model" group-title="Series",Britain's Next Top Model
+https://jmp2.uk/plu-67a09ddc21af380008088dc3.m3u8
+#EXTINF:-1 tvg-name="Cagney & Lacey" group-title="Series",Cagney & Lacey
+https://jmp2.uk/plu-6960c5a906d76f50db2816dc.m3u8
+#EXTINF:-1 tvg-name="Car Chase" group-title="Series",Car Chase
+https://jmp2.uk/plu-65a93b0607e03a000895abda.m3u8
+#EXTINF:-1 tvg-name="Cheers" group-title="Series",Cheers
+https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8
+#EXTINF:-1 tvg-name="Cin Cin" group-title="Classic;Series",Cin Cin
+https://jmp2.uk/plu-65cb78b83a116800079e2e35.m3u8
+#EXTINF:-1 tvg-name="Classic Movie Westerns" group-title="Movies;Series",Classic Movie Westerns
+https://jmp2.uk/plu-61f33318210549000806a530.m3u8
 #EXTINF:-1 tvg-name="Crunchyroll" group-title="Animation",Crunchyroll
 https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
+#EXTINF:-1 tvg-name="CSI: Crime Scene Investigation" group-title="Series",CSI: Crime Scene Investigation
+https://jmp2.uk/plu-6304f8d5ffb61000071ab478.m3u8
+#EXTINF:-1 tvg-name="CSI: Miami" group-title="Series",CSI: Miami
+https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
+#EXTINF:-1 tvg-name="CSI: NY" group-title="Series",CSI: NY
+https://jmp2.uk/plu-62f54c6439183b000769fb8f.m3u8
+#EXTINF:-1 tvg-name="Curro Jiménez" group-title="Series",Curro Jiménez
+https://jmp2.uk/plu-5f1acd36779de70007a680d1.m3u8
+#EXTINF:-1 tvg-name="Dallas Cowboys Cheerleaders" group-title="Series",Dallas Cowboys Cheerleaders
+https://jmp2.uk/plu-64e87c6b28cec700088ceb55.m3u8
 #EXTINF:-1 tvg-name="Daria" group-title="Animation",Daria
 https://jmp2.uk/plu-6683b680efa2a10008e8a393.m3u8
 #EXTINF:-1 tvg-name="Detective Conan" group-title="Animation;Kids",Detective Conan
 https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
 #EXTINF:-1 tvg-name="Detective Conan France" group-title="Animation;Kids",Detective Conan France
 https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
+#EXTINF:-1 tvg-name="Diagnosis Murder" group-title="Series",Diagnosis Murder
+https://jmp2.uk/plu-65fd548f29adfd00089c662c.m3u8
+#EXTINF:-1 tvg-name="Diff’rent Strokes Arnold" group-title="Series",Diff’rent Strokes Arnold
+https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8
+#EXTINF:-1 tvg-name="Doc Martin" group-title="Series",Doc Martin
+https://jmp2.uk/plu-62e922f6675f71000736db3b.m3u8
+#EXTINF:-1 tvg-name="Dog el cazarrecompensas" group-title="Series",Dog el cazarrecompensas
+https://jmp2.uk/plu-5f9992c685a2a80007fa414a.m3u8
 #EXTINF:-1 tvg-name="Dora TV" group-title="Kids",Dora TV
 https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8
 #EXTINF:-1 tvg-name="Drake & Josh" group-title="Kids",Drake & Josh
 https://jmp2.uk/plu-65a67c494a10d800085cab06.m3u8
-#EXTINF:-1 tvg-name="EmanTv" group-title="Family",EmanTv
-https://avr.host247.net/live/emantv/playlist.m3u8
-#EXTINF:-1 tvg-name="Green TV" group-title="Family",Green TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Dynasty" group-title="Series",Dynasty
+https://jmp2.uk/plu-62e919ca865c590007ecd0bd.m3u8
+#EXTINF:-1 tvg-name="Efterlyst" group-title="Series",Efterlyst
+https://jmp2.uk/plu-646ce0e2e1979c0008983939.m3u8
+#EXTINF:-1 tvg-name="El Comisario" group-title="Series",El Comisario
+https://jmp2.uk/plu-60c343007bcabe0007242aa6.m3u8
+#EXTINF:-1 tvg-name="El encantador de perros" group-title="Series",El encantador de perros
+https://jmp2.uk/plu-60e45687313c5f0007bc8e94.m3u8
+#EXTINF:-1 tvg-name="Empeños a lo bestia" group-title="Series",Empeños a lo bestia
+https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8
+#EXTINF:-1 tvg-name="FBoy Island" group-title="Series",FBoy Island
+https://jmp2.uk/plu-6790d6c7bc03978b9bfbfd44.m3u8
+#EXTINF:-1 tvg-name="Feel Good Drama" group-title="Series",Feel Good Drama
+https://jmp2.uk/plu-65775af3b3801200084a3aa4.m3u8
+#EXTINF:-1 tvg-name="Frasier" group-title="Series",Frasier
+https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8
+#EXTINF:-1 tvg-name="Gunsmoke" group-title="Series",Gunsmoke
+https://jmp2.uk/plu-62e916affb29c60007211c8a.m3u8
+#EXTINF:-1 tvg-name="Hélène et les garçons" group-title="Series",Hélène et les garçons
+https://jmp2.uk/plu-604f8de01b479400078fb1e7.m3u8
 #EXTINF:-1 tvg-name="Hey Arnold!" group-title="Kids",Hey Arnold!
 https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
-#EXTINF:-1 tvg-name="iCarly TV" group-title="Kids",iCarly TV
-https://jmp2.uk/plu-5f8ecc7aa44d9c00081fca29.m3u8
+#EXTINF:-1 tvg-name="House of Lies" group-title="Series",House of Lies
+https://jmp2.uk/plu-693ae62a43fe00a023e76e0d.m3u8
 #EXTINF:-1 tvg-name="Inazuma Eleven" group-title="Kids;Series",Inazuma Eleven
 https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8
+#EXTINF:-1 tvg-name="Instant Saga" group-title="Series",Instant Saga
+https://jmp2.uk/plu-60549e98061b5f000776866a.m3u8
+#EXTINF:-1 tvg-name="Investiga" group-title="Series",Investiga
+https://jmp2.uk/plu-5cf96b8f4f1ca3f0629f4bf1.m3u8
+#EXTINF:-1 tvg-name="Investigation by Pluto TV" group-title="Series",Investigation by Pluto TV
+https://jmp2.uk/plu-6683cd2fca74680008772545.m3u8
+#EXTINF:-1 tvg-name="Iron Chef" group-title="Series",Iron Chef
+https://jmp2.uk/plu-6582f8dadfed030008e5a93d.m3u8
+#EXTINF:-1 tvg-name="JAG" group-title="Series",JAG
+https://jmp2.uk/plu-66a105f4a79dea0008aa5e0f.m3u8
+#EXTINF:-1 tvg-name="Jornada nas Estrelas A Nova Geração" group-title="Series",Jornada nas Estrelas A Nova Geração
+https://jmp2.uk/plu-69162ad79505d0f3b1ebf07d.m3u8
+#EXTINF:-1 tvg-name="Jornada nas Estrelas Deep Space Nine" group-title="Series",Jornada nas Estrelas Deep Space Nine
+https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8
+#EXTINF:-1 tvg-name="Jornada nas Estrelas Voyager" group-title="Series",Jornada nas Estrelas Voyager
+https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8
+#EXTINF:-1 tvg-name="Judge Judy" group-title="Series",Judge Judy
+https://jmp2.uk/plu-6380c36389eccc000858c50f.m3u8
+#EXTINF:-1 tvg-name="Kenan y Kel" group-title="Series",Kenan y Kel
+https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8
 #EXTINF:-1 tvg-name="Las Tortugas Ninja" group-title="Kids",Las Tortugas Ninja
 https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8
-#EXTINF:-1 tvg-name="Mixkurdy" group-title="Family",Mixkurdy
-https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
+#EXTINF:-1 tvg-name="Le miracle de l'amour" group-title="Series",Le miracle de l'amour
+https://jmp2.uk/plu-60549c238c3f21000753d3e0.m3u8
+#EXTINF:-1 tvg-name="Le sorelle McLeod" group-title="Series",Le sorelle McLeod
+https://jmp2.uk/plu-60a2837f8154ab0007c4dcdf.m3u8
+#EXTINF:-1 tvg-name="Les Années fac" group-title="Series",Les Années fac
+https://jmp2.uk/plu-60afae68a7fc50000737186d.m3u8
+#EXTINF:-1 tvg-name="Les filles d'à côté" group-title="Series",Les filles d'à côté
+https://jmp2.uk/plu-60549d97cd7b090007c73314.m3u8
+#EXTINF:-1 tvg-name="Les Nouveaux Detectives" group-title="Series",Les Nouveaux Detectives
+https://jmp2.uk/plu-5f8edb6df1ebb800072edf10.m3u8
+#EXTINF:-1 tvg-name="Los archivos del FBI" group-title="Series",Los archivos del FBI
+https://jmp2.uk/plu-5f1acbed25948a0007ffbe65.m3u8
+#EXTINF:-1 tvg-name="Los Asesinatos de Midsomer" group-title="Series",Los Asesinatos de Midsomer
+https://jmp2.uk/plu-5f1aca8310a30e00074fab92.m3u8
+#EXTINF:-1 tvg-name="Louis La Brocante" group-title="Series",Louis La Brocante
+https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8
+#EXTINF:-1 tvg-name="Luksusfellen Sverige" group-title="Series",Luksusfellen Sverige
+https://jmp2.uk/plu-61c1e0f1d6d97900076ea16f.m3u8
+#EXTINF:-1 tvg-name="MacGyver" group-title="Classic;Series",MacGyver
+https://jmp2.uk/plu-654a59742c1d33000865a797.m3u8
+#EXTINF:-1 tvg-name="McLeods døtre & Grantchester" group-title="Series",McLeods døtre & Grantchester
+https://jmp2.uk/plu-65ba4db63ef47d000837b535.m3u8
+#EXTINF:-1 tvg-name="McLeods Töchter" group-title="Series",McLeods Töchter
+https://jmp2.uk/plu-66c6fcfc6838ee00085beb1a.m3u8
+#EXTINF:-1 tvg-name="Medium" group-title="Series",Medium
+https://jmp2.uk/plu-68f0f54ca362b63a8df4d5a9.m3u8
+#EXTINF:-1 tvg-name="Mi Extraña Obsesión" group-title="Series",Mi Extraña Obsesión
+https://jmp2.uk/plu-60e4573c9f963e00077ecf25.m3u8
+#EXTINF:-1 tvg-name="Minuto Para Ganar" group-title="Series",Minuto Para Ganar
+https://jmp2.uk/plu-5e46e64dc73db400094b5f0b.m3u8
+#EXTINF:-1 tvg-name="Misterios Medicos" group-title="Series",Misterios Medicos
+https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8
+#EXTINF:-1 tvg-name="More True Crime" group-title="Series",More True Crime
+https://jmp2.uk/plu-6532e6a9bdf3cf000887ab29.m3u8
+#EXTINF:-1 tvg-name="More TV Crime" group-title="Series",More TV Crime
+https://jmp2.uk/plu-639b558c73423d00071ce624.m3u8
+#EXTINF:-1 tvg-name="More TV Sci-fi" group-title="Movies;Series",More TV Sci-fi
+https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8
+#EXTINF:-1 tvg-name="Most Haunted" group-title="Series",Most Haunted
+https://amg00426-lds-amg00426c17-samsung-gb-10157.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="MTV Are you the One?" group-title="Series",MTV Are you the One?
+https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8
+#EXTINF:-1 tvg-name="MTV Dating" group-title="Series",MTV Dating
+https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8
+#EXTINF:-1 tvg-name="MTV Teen Mom" group-title="Series",MTV Teen Mom
+https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8
+#EXTINF:-1 tvg-name="NCIS" group-title="Series",NCIS
+https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
+#EXTINF:-1 tvg-name="NCIS: Det bedste med Gibbs" group-title="Series",NCIS: Det bedste med Gibbs
+https://jmp2.uk/plu-6901d952ec12c3c759fdc7cd.m3u8
+#EXTINF:-1 tvg-name="NCIS: Det bedste med Tony & Ziva" group-title="Series",NCIS: Det bedste med Tony & Ziva
+https://jmp2.uk/plu-68921b2f4fa995eff24df6c8.m3u8
+#EXTINF:-1 tvg-name="NCIS: Los Angeles" group-title="Series",NCIS: Los Angeles
+https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8
 #EXTINF:-1 tvg-name="Nick Jr. Club" group-title="Kids",Nick Jr. Club
 https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
 #EXTINF:-1 tvg-name="Nick Jr. Pluto TV" group-title="Kids",Nick Jr. Pluto TV
@@ -664,22 +1088,70 @@ https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon Classics" group-title="Kids",Nickelodeon Classics
 https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon iCarly" group-title="Series",Nickelodeon iCarly
+https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon Toons" group-title="Kids",Nickelodeon Toons
 https://jmp2.uk/plu-5ede448d3d50590007a4419e.m3u8
+#EXTINF:-1 tvg-name="Nordisk krim fra Viaplay" group-title="Series",Nordisk krim fra Viaplay
+https://jmp2.uk/plu-64eca23c9c1e390008524ae6.m3u8
+#EXTINF:-1 tvg-name="Numb3rs" group-title="Series",Numb3rs
+https://jmp2.uk/plu-63dbe78051f5d000083e9249.m3u8
+#EXTINF:-1 tvg-name="Numbers" group-title="Series",Numbers
+https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8
+#EXTINF:-1 tvg-name="Números" group-title="Series",Números
+https://jmp2.uk/plu-67f960680072d6b187a0682e.m3u8
 #EXTINF:-1 tvg-name="Oggy e as Baratas Tontas" group-title="Kids",Oggy e as Baratas Tontas
 https://jmp2.uk/plu-63221bafdc6e110007b50270.m3u8
 #EXTINF:-1 tvg-name="Peppa Pig" group-title="Kids",Peppa Pig
 https://jmp2.uk/plu-5d14fb6c84dd37df3b4290c5.m3u8
 #EXTINF:-1 tvg-name="Pixel.tv" group-title="Animation;Kids",Pixel.tv
 https://jmp2.uk/plu-66bb36e03a4ad200082bb8fe.m3u8
+#EXTINF:-1 tvg-name="Pluto Classic Movie Westerns" group-title="Movies;Series",Pluto Classic Movie Westerns
+https://jmp2.uk/plu-66dad50215d2c60008d7afbd.m3u8
+#EXTINF:-1 tvg-name="Pluto TV 80's Action" group-title="Movies;Series",Pluto TV 80's Action
+https://jmp2.uk/plu-66d717c6abec540008ba7eb5.m3u8
+#EXTINF:-1 tvg-name="Pluto TV 90's Classics" group-title="Movies;Series",Pluto TV 90's Classics
+https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
+#EXTINF:-1 tvg-name="Pluto TV 2010's Classics" group-title="Movies;Series",Pluto TV 2010's Classics
+https://jmp2.uk/plu-66b498bc14a2bb00086965bc.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Adult Animation" group-title="Animation;Comedy",Pluto TV Adult Animation
 https://jmp2.uk/plu-67f68bd2135aeda9ddf0ef54.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Adventure" group-title="Entertainment;Outdoor;Series",Pluto TV Adventure
+https://jmp2.uk/plu-653bdb0fbdf3cf00089cc395.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Aliens" group-title="Documentary;Series",Pluto TV Aliens
+https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8
+#EXTINF:-1 tvg-name="Pluto TV American True Crime" group-title="Documentary;Series",Pluto TV American True Crime
+https://jmp2.uk/plu-692ebafce72f03e07e7df985.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Aventura" group-title="Series",Pluto TV Aventura
+https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Brigade Criminelle" group-title="Series",Pluto TV Brigade Criminelle
+https://jmp2.uk/plu-684bf01df7d8b74b625b7dd1.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Britische Serien" group-title="Series",Pluto TV Britische Serien
+https://jmp2.uk/plu-677e5a3d7bffa6000808dbf2.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Brittisk Crime & Drama" group-title="Series",Pluto TV Brittisk Crime & Drama
+https://jmp2.uk/plu-65b91b53dc10a40008d54777.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Dating" group-title="Series",Pluto TV Dating
+https://jmp2.uk/plu-682318568e6c0f2f6c6e0038.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Dramas Coreanos" group-title="Series",Pluto TV Dramas Coreanos
+https://jmp2.uk/plu-6185a9a88b2ce30007de5128.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Dramas Coreanos Teen" group-title="Series",Pluto TV Dramas Coreanos Teen
+https://jmp2.uk/plu-6661d5424b10960008599fa3.m3u8
+#EXTINF:-1 tvg-name="Pluto TV FBI" group-title="Series",Pluto TV FBI
+https://jmp2.uk/plu-693adae77f21340ef9746f56.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Forever Kids" group-title="Kids",Pluto TV Forever Kids
 https://jmp2.uk/plu-691ddf2a3ae32cf55263476d.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Gaming por Ubisoft" group-title="Animation",Pluto TV Gaming por Ubisoft
 https://jmp2.uk/plu-64c815e8a1c6130008fef928.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Historische Serien" group-title="Series",Pluto TV Historische Serien
+https://jmp2.uk/plu-68ada3395190a45dc9c445cf.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Horror-Serien" group-title="Series",Pluto TV Horror-Serien
+https://jmp2.uk/plu-67ff7d9c7fc25e0e72451bc9.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Investiga" group-title="Series",Pluto TV Investiga
+https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Juniorklubben" group-title="Kids",Pluto TV Juniorklubben
 https://jmp2.uk/plu-61c09a78bd194c0008decc28.m3u8
+#EXTINF:-1 tvg-name="Pluto TV K-Drama" group-title="Series",Pluto TV K-Drama
+https://jmp2.uk/plu-6475bfec536e0c0008858e9f.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Kids Spain" group-title="Kids",Pluto TV Kids Spain
 https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Kids Classics" group-title="Kids",Pluto TV Kids Classics
@@ -690,8 +1162,64 @@ https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8
 https://jmp2.uk/plu-67f508992ebe80e2929b5c98.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Klassiske tegnefilmer" group-title="Kids",Pluto TV Klassiske tegnefilmer
 https://jmp2.uk/plu-67f508f68ddd60c57dc44766.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Nordic Crime" group-title="Series",Pluto TV Nordic Crime
+https://jmp2.uk/plu-67d984408d8dc3d7754dccf2.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Novelas de México" group-title="Series",Pluto TV Novelas de México
+https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Novelas de Otros Continentes" group-title="Series",Pluto TV Novelas de Otros Continentes
+https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Novelas de Venezuela" group-title="Series",Pluto TV Novelas de Venezuela
+https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Polar" group-title="Series",Pluto TV Polar
+https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Polizeiserien" group-title="Series",Pluto TV Polizeiserien
+https://jmp2.uk/plu-64be64445dc166000899ce75.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Retro Kid" group-title="Kids",Pluto TV Retro Kid
 https://jmp2.uk/plu-6408b41b83f58900081d91ad.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Sci-fi" group-title="Movies;Series",Pluto TV Sci-fi
+https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Sci-fi Series" group-title="Series",Pluto TV Sci-fi Series
+https://jmp2.uk/plu-619247c34a270700077c8415.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Serie" group-title="Series",Pluto TV Serie
+https://jmp2.uk/plu-5dc190f7bfed110009d934c3.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Serie Crime" group-title="Series",Pluto TV Serie Crime
+https://jmp2.uk/plu-608aa777b907770007e5d05d.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Series" group-title="Series",Pluto TV Series
+https://jmp2.uk/plu-5f1ac8f49205650007bc15f1.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Séries Ação" group-title="Series",Pluto TV Séries Ação
+https://jmp2.uk/plu-6474ab1da51cb80008bfb5f4.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Séries Comédia" group-title="Comedy;Series",Pluto TV Séries Comédia
+https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Séries Criminais" group-title="Series",Pluto TV Séries Criminais
+https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Series criminales" group-title="Series",Pluto TV Series criminales
+https://jmp2.uk/plu-65cf6ab58145cb0008129ca8.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Series de Acción" group-title="Series",Pluto TV Series de Acción
+https://jmp2.uk/plu-6479ff1c17f5e10008ad2797.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Series de Comedia" group-title="Series",Pluto TV Series de Comedia
+https://jmp2.uk/plu-655f626d57fe4a00085c7c3e.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Series de Crimen" group-title="Series",Pluto TV Series de Crimen
+https://jmp2.uk/plu-655f62ff954b020008c91ec6.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Series de Drama" group-title="Series",Pluto TV Series de Drama
+https://jmp2.uk/plu-655f636d954b020008c93299.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Series de Otros Continentes" group-title="Series",Pluto TV Series de Otros Continentes
+https://jmp2.uk/plu-6806d570c178637410ae4962.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Series de Sci-Fi" group-title="Series",Pluto TV Series de Sci-Fi
+https://jmp2.uk/plu-65662f8a2c46f300088a84cc.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Séries Drama" group-title="Series",Pluto TV Séries Drama
+https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Séries Fantastiques" group-title="Series",Pluto TV Séries Fantastiques
+https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Series Latinas" group-title="Series",Pluto TV Series Latinas
+https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Séries Novelescas" group-title="Series",Pluto TV Séries Novelescas
+https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Series Sci-Fi" group-title="Series",Pluto TV Series Sci-Fi
+https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Séries Sci-Fi" group-title="Series",Pluto TV Séries Sci-Fi
+https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Star Trek" group-title="Series",Pluto TV Star Trek
+https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Super Kids" group-title="Kids",Pluto TV Super Kids
 https://jmp2.uk/plu-652557d93fd33c000802f995.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Tecknade klassiker" group-title="Kids",Pluto TV Tecknade klassiker
@@ -702,12 +1230,34 @@ https://jmp2.uk/plu-61c0b6f028e94c000782684a.m3u8
 https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Tegnefilm" group-title="Kids",Pluto TV Tegnefilm
 https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Telenovelas" group-title="Series",Pluto TV Telenovelas
+https://jmp2.uk/plu-60b4c06717da110007ee1af6.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Telenovelas Clásicas" group-title="Series",Pluto TV Telenovelas Clásicas
+https://jmp2.uk/plu-662a69daa0a74e00087a1c72.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Toons" group-title="Kids",Pluto TV Toons
 https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Ungdomsserier" group-title="Kids",Pluto TV Ungdomsserier
 https://jmp2.uk/plu-67f3fb1cdea1c5e0d588ac1b.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Wild West" group-title="Movies;Series",Pluto TV Wild West
+https://jmp2.uk/plu-68c01732b3900870ec74766f.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Zombies" group-title="Movies;Series",Pluto TV Zombies
+https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
+#EXTINF:-1 tvg-name="Rawhide" group-title="Movies;Series",Rawhide
+https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8
 #EXTINF:-1 tvg-name="Rugrats" group-title="Kids",Rugrats
 https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
+#EXTINF:-1 tvg-name="S.W.A.T." group-title="Series",S.W.A.T.
+https://jmp2.uk/plu-65033c4b98020f0008547124.m3u8
+#EXTINF:-1 tvg-name="Sanctuary" group-title="Series",Sanctuary
+https://jmp2.uk/plu-63eb57d6c111bc0008fe2658.m3u8
+#EXTINF:-1 tvg-name="Scorpion" group-title="Series",Scorpion
+https://jmp2.uk/plu-63a1caefc8d285000799e8af.m3u8
+#EXTINF:-1 tvg-name="Series by Pluto TV" group-title="Series",Series by Pluto TV
+https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8
+#EXTINF:-1 tvg-name="Sin Tetas No Hay Paraíso" group-title="Series",Sin Tetas No Hay Paraíso
+https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
+#EXTINF:-1 tvg-name="Skjønnhetsfellen Danmark" group-title="Series",Skjønnhetsfellen Danmark
+https://jmp2.uk/plu-643810f2e8a4aa0008ccf575.m3u8
 #EXTINF:-1 tvg-name="South Park Armageddon" group-title="Animation;Comedy",South Park Armageddon
 https://jmp2.uk/plu-660bff28516d260008479e23.m3u8
 #EXTINF:-1 tvg-name="South Park En Français" group-title="Animation;Comedy",South Park En Français
@@ -750,34 +1300,82 @@ https://jmp2.uk/plu-65df48ba28730900089f8480.m3u8
 https://jmp2.uk/plu-663115d923e24f000843b49c.m3u8
 #EXTINF:-1 tvg-name="SpongeBob SquarePants" group-title="Kids",SpongeBob SquarePants
 https://jmp2.uk/plu-63f87d057533d80008ab9549.m3u8
+#EXTINF:-1 tvg-name="Star Trek: Deep Space Nine" group-title="Movies;Series",Star Trek: Deep Space Nine
+https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
+#EXTINF:-1 tvg-name="Star Trek: The Next Generation" group-title="Movies;Series",Star Trek: The Next Generation
+https://jmp2.uk/plu-65786b94cbd0d60008f7e4d9.m3u8
+#EXTINF:-1 tvg-name="Star Trek: The Original Series" group-title="Movies;Series",Star Trek: The Original Series
+https://jmp2.uk/plu-693add137e308621c051e733.m3u8
+#EXTINF:-1 tvg-name="Star Trek: Voyager" group-title="Movies;Series",Star Trek: Voyager
+https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
+#EXTINF:-1 tvg-name="Storage Wars by A&E" group-title="Series",Storage Wars by A&E
+https://jmp2.uk/plu-6887aaf4e3703b7d42b71a1e.m3u8
 #EXTINF:-1 tvg-name="Super! iCarly" group-title="Kids",Super! iCarly
 https://jmp2.uk/plu-609401db8cf51c00084b592e.m3u8
 #EXTINF:-1 tvg-name="Super! Pop" group-title="Kids",Super! Pop
 https://jmp2.uk/plu-6093f7b5bb49b90007cecaad.m3u8
 #EXTINF:-1 tvg-name="Super! SpongeBob" group-title="Kids",Super! SpongeBob
 https://jmp2.uk/plu-6093f9281db477000759fce0.m3u8
+#EXTINF:-1 tvg-name="Supernatural Drama" group-title="Series",Supernatural Drama
+https://jmp2.uk/plu-5f24662bebe0f0000767de32.m3u8
 #EXTINF:-1 tvg-name="SvampBob Fyrkant" group-title="Kids",SvampBob Fyrkant
 https://jmp2.uk/plu-61c0ba0816e2fd00086cb6b1.m3u8
 #EXTINF:-1 tvg-name="SvampeBob Firkant" group-title="Kids",SvampeBob Firkant
 https://jmp2.uk/plu-61c09ac98a80a4000703f992.m3u8
 #EXTINF:-1 tvg-name="Teenage Mutant Ninja Turtles" group-title="Animation;Kids",Teenage Mutant Ninja Turtles
 https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8
+#EXTINF:-1 tvg-name="The Good Wife" group-title="Series",The Good Wife
+https://jmp2.uk/plu-685a995b460ac82fa504342c.m3u8
+#EXTINF:-1 tvg-name="The L Word – Wenn Frauen lieben" group-title="Series",The L Word – Wenn Frauen lieben
+https://jmp2.uk/plu-68d2759a59fd82da3226492d.m3u8
+#EXTINF:-1 tvg-name="The Wild Wild West" group-title="Movies;Series",The Wild Wild West
+https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
 #EXTINF:-1 tvg-name="Tortues Ninja TV" group-title="Kids",Tortues Ninja TV
 https://jmp2.uk/plu-62e9566e27ce19000732ec85.m3u8
+#EXTINF:-1 tvg-name="Tosh.0" group-title="Series",Tosh.0
+https://jmp2.uk/plu-5dae084727c8af0009fe40a4.m3u8
+#EXTINF:-1 tvg-name="Tout le monde déteste Chris" group-title="Series",Tout le monde déteste Chris
+https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8
 #EXTINF:-1 tvg-name="Transformers" group-title="Kids",Transformers
 https://jmp2.uk/plu-63da36dea995710008727d4d.m3u8
 #EXTINF:-1 tvg-name="Transformers TV" group-title="Kids",Transformers TV
 https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8
+#EXTINF:-1 tvg-name="True Crime by Pluto TV" group-title="Series",True Crime by Pluto TV
+https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8
+#EXTINF:-1 tvg-name="True crime från Viaplay" group-title="Series",True crime från Viaplay
+https://jmp2.uk/plu-645cb7857cb4b1000859c57c.m3u8
+#EXTINF:-1 tvg-name="Unga Mammor" group-title="Series",Unga Mammor
+https://jmp2.uk/plu-61c1e1c445b45d0007aad03e.m3u8
+#EXTINF:-1 tvg-name="Walker Texas Ranger" group-title="Series",Walker Texas Ranger
+https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8
+#EXTINF:-1 tvg-name="Wildfire" group-title="Series",Wildfire
+https://jmp2.uk/plu-62b9b63d3bbe9000073c0a2d.m3u8
+#EXTINF:-1 tvg-name="Wipeout" group-title="Series",Wipeout
+https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8
+#EXTINF:-1 tvg-name="Z Nation" group-title="Series",Z Nation
+https://jmp2.uk/plu-66b3af48d2d50d00083d6936.m3u8
 #EXTINF:-1 tvg-name="Spacetoon Arabic (576p)" group-title="Animation;Kids",Spacetoon Arabic (576p)
 https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8
 #EXTINF:-1 tvg-name="Мама (576p)" group-title="Kids",Мама (576p)
 http://31.148.48.15/Mama/index.m3u8
+#EXTINF:-1 tvg-name="All Reality We TV [Geo-blocked]" group-title="Series",All Reality We TV [Geo-blocked]
+https://pb-6pmy4e08w6rny.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-name="The Walking Dead Universe [Geo-blocked]" group-title="Series",The Walking Dead Universe [Geo-blocked]
+https://pb-7ien6yaxy2am1.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-name="Placid" group-title="Animation",Placid
 https://toy.vcdn.fyi/placid/index.m3u8
+#EXTINF:-1 tvg-name="Europa Europa" group-title="Series",Europa Europa
+http://181.119.93.83:8000/play/a1sr/index.m3u8
 #EXTINF:-1 tvg-name="MAX Kids" group-title="Kids",MAX Kids
 https://indihuy.streamized.net/atm/DASH/indikids/manifest.mpd
 #EXTINF:-1 tvg-name="Lale" group-title="Kids",Lale
 https://iptv.prosto.tv/ch77/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=178.136.40.86&id=742347&secret=vu2y5m72&e=1783084689&st=rPsumttSTQSUM-5DQx9lzw
+#EXTINF:-1 tvg-name="New TV Comprehensive" group-title="Entertainment;Series",New TV Comprehensive
+https://indihuy.streamized.net/atm/DASH/newtvcomprehensive/manifest.mpd
+#EXTINF:-1 tvg-name="New TV Finance" group-title="Entertainment;Series",New TV Finance
+https://indihuy.streamized.net/atm/DASH/newtvfinance/manifest.mpd
+#EXTINF:-1 tvg-name="New TV Variety" group-title="Entertainment;Series",New TV Variety
+https://indihuy.streamized.net/atm/DASH/newtvvariety/manifest.mpd
 #EXTINF:-1 tvg-name="Duronto TV" group-title="Kids",Duronto TV
 https://tvsen5.aynaott.com/durontotv/index.m3u8
 #EXTINF:-1 tvg-name="PLUSPLUS" group-title="Kids",PLUSPLUS
@@ -786,16 +1384,28 @@ http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6379/index.m3u8
 https://slime.x1co.com.br/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Aqlvoy" group-title="Kids",Aqlvoy
 https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Epic Drama Ukraine" group-title="Series",Epic Drama Ukraine
+http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/1048/index.m3u8
+#EXTINF:-1 tvg-name="Viasat Serial" group-title="Movies;Series",Viasat Serial
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/17056/index.m3u8
 #EXTINF:-1 tvg-name="TeenNick" group-title="Kids",TeenNick
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2334/index.m3u8
+#EXTINF:-1 tvg-name="Paramount Network" group-title="Movies;Series",Paramount Network
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/12060/index.m3u8
+#EXTINF:-1 tvg-name="4ever Drama" group-title="Series",4ever Drama
+https://iptv.prosto.tv/ch49/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Lale (576p)" group-title="Kids",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Lale (576p)
 https://iptv.prosto.tv/ch77/index.m3u8
 #EXTINF:-1 tvg-name="Kids Movie Club" group-title="Kids;Movies",Kids Movie Club
 https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8
+#EXTINF:-1 tvg-name="Married... with Children" group-title="Series",Married... with Children
+https://jmp2.uk/plu-66bb3212fe11e5000883ea6b.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Niki Junior" group-title="Kids",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Niki Junior
 https://iptv.prosto.tv/ch72/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Niki Kids" group-title="Kids",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Niki Kids
 https://iptv.prosto.tv/ch71/index.m3u8
+#EXTINF:-1 tvg-name="HauntTV CA" group-title="Series",HauntTV CA
+https://jmp2.uk/plu-63934c218ef524000757b122.m3u8
 #EXTINF:-1 tvg-name="France 4" group-title="Kids",France 4
 https://sv1.data-stream.top/8c0a287e56a6e1843143904778be3775b4d3edd4fba4ffcc3f72638c7a71d4d4/hls/francetv4.m3u8
 #EXTINF:-1 tvg-name="LAMIL35 TV" group-title="Animation;Classic;Entertainment",LAMIL35 TV
@@ -810,42 +1420,56 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 tvg-name="SuperGeroi" group-title="Kids",SuperGeroi
 http://31.148.48.15/Malish_TV/index.m3u8
-#EXTINF:-1 tvg-name="Hallmark Channel" group-title="Family",Hallmark Channel
-http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
-#EXTINF:-1 tvg-name="Canal IPe (576p)" group-title="Family",Canal IPe (576p)
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/ipe.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Movies;Series",Star Channel Latin America (1080i)" group-title="Movies;Series",like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Movies;Series",Star Channel Latin America (1080i)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Hometown Drama" group-title="Series",Pluto TV Hometown Drama
+https://jmp2.uk/plu-69d6c7befde57cd5ba0160c3.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Star Trek: Animation" group-title="Animation",Pluto TV Star Trek: Animation
 https://jmp2.uk/plu-69492467ae33e24d916e56cf.m3u8
-#EXTINF:-1 tvg-name="Showtime Family Zone" group-title="Family",Showtime Family Zone
-http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Western Serien" group-title="Series",Pluto TV Western Serien
+https://jmp2.uk/plu-682453215c646751955e1204.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Tough Jobs" group-title="Documentary;Series",Pluto TV Tough Jobs
+https://jmp2.uk/plu-600acaff5f2d6e000745effb.m3u8
+#EXTINF:-1 tvg-name="NTV Series (576p)" group-title="Series",NTV Series (576p)
+https://cdn-dvr.ntv.ru/th_serial/index.m3u8
+#EXTINF:-1 tvg-name="NTV-Hit" group-title="Series",NTV-Hit
+https://cdn-dvr.ntv.ru/th_hit/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies;Series",FilmUADrama" group-title="Movies;Series",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies;Series",FilmUADrama
+http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1 tvg-name="Starz Kids & Family" group-title="Kids",Starz Kids & Family
 http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
-#EXTINF:-1 tvg-name="Canal+ Family" group-title="Family",Canal+ Family
-http://151.80.18.177:86/Canal+_Family_HD/index.m3u8
+#EXTINF:-1 tvg-name="SYFY" group-title="Movies;Series",SYFY
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:-1 tvg-name="We TV" group-title="Series",We TV
+https://streamer1.nexgen.bz/WE_TV/index.m3u8
 #EXTINF:-1 tvg-name="Smile TV" group-title="Kids",Smile TV
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
-#EXTINF:-1 tvg-name="STS (576p)" group-title="Family",STS (576p)
-http://94.230.128.107:8080/CTC/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Series",Tlnovelas Latin America" group-title="Series",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Series",Tlnovelas Latin America
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/TL_Novelas.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Disney Channel" group-title="Kids",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Disney Channel
 http://86.87.15.10:8004/play/a02g/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment;Kids",Veronica / Disney Jr." group-title="Entertainment;Kids",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment;Kids",Veronica / Disney Jr.
 http://86.87.15.10:8003/play/a01x/index.m3u8
 #EXTINF:-1 tvg-name="Radost Moya (576p)" group-title="Kids",Radost Moya (576p)
 http://31.148.48.15/Radost_moya/index.m3u8
-#EXTINF:-1 tvg-name="Freeform" group-title="Family",Freeform
-http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
 #EXTINF:-1 tvg-name="Kids Street" group-title="Kids",Kids Street
 http://181.78.121.15:8000/play/a00a/index.m3u8
+#EXTINF:-1 tvg-name="USA Network" group-title="Comedy;Movies;Series;Sports",USA Network
+http://185.246.209.113/DISCOVERYHD/index.m3u8
 #EXTINF:-1 tvg-name="Disney Channel Latin America Panregional" group-title="Animation;Kids",Disney Channel Latin America Panregional
 http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
 #EXTINF:-1 tvg-name="Disney Jr. Latin America North" group-title="Animation;Kids",Disney Jr. Latin America North
 http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8
+#EXTINF:-1 tvg-name="T+E" group-title="Series",T+E
+http://185.246.209.113/T+E/index.m3u8
 #EXTINF:-1 tvg-name="BBC Four/CBeebies" group-title="Animation;General;Kids",BBC Four/CBeebies
 http://193.46.58.239:8080/CbeebiesHD/index.m3u8
-#EXTINF:-1 tvg-name="como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" group-title="Family",Canal IPe (576p)" group-title="Family",como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" group-title="Family",Canal IPe (576p)
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ipe.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Three/CBBC" group-title="Animation;Family;Kids",BBC Three/CBBC
+http://193.46.58.239:8080/CBBCHD/index.m3u8
 #EXTINF:-1 tvg-name="MAX Anime" group-title="Animation",MAX Anime
 https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Juntos TV" group-title="Series",Juntos TV
+https://live-evg8.tv360.bitel.com.pe/bitel/juntostvSRT/playlist.m3u8
 #EXTINF:-1 tvg-name="BabyTV France" group-title="Kids",BabyTV France
 http://41.223.30.230/BABYTV/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Gulli" group-title="Kids",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Gulli
@@ -882,6 +1506,8 @@ http://193.239.186.231/NICK/index.m3u8
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
 #EXTINF:-1 tvg-name="God Stands Kids Club TV Arabic" group-title="Kids;Religious",God Stands Kids Club TV Arabic
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies;Series",AXN Asia Thailand" group-title="Movies;Series",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies;Series",AXN Asia Thailand
+http://54.37.19.157/axn/playlist.m3u8
 #EXTINF:-1 tvg-name="God Stands Kids Club TV Urdu" group-title="Kids;Religious",God Stands Kids Club TV Urdu
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8
 #EXTINF:-1 tvg-name="Leva" group-title="Kids",Leva
@@ -902,6 +1528,10 @@ http://181.119.93.83:8000/play/a217/index.m3u8
 http://179.60.51.134:8888/NICK/index.m3u8
 #EXTINF:-1 tvg-name="Smotrim 100% Detskoe" group-title="Kids",Smotrim 100% Detskoe
 https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
+#EXTINF:-1 tvg-name="Smotrim 100% Lyubov" group-title="Series",Smotrim 100% Lyubov
+https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
+#EXTINF:-1 tvg-name="Smotrim 100% Muzhskoe" group-title="Series",Smotrim 100% Muzhskoe
+https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 #EXTINF:-1 tvg-name="Zhara Kids TV (576p)" group-title="Kids;Music",Zhara Kids TV (576p)
 https://trs1.aynaott.com/discoverykids/index.m3u8
 #EXTINF:-1 tvg-name="Forever Kids (576p)" group-title="Kids",Forever Kids (576p)
@@ -930,14 +1560,22 @@ http://bethoven.af-stream.com:1600/s/kwtlxswl/junior-il/video.m3u8
 https://raw.githubusercontent.com/seyfettinaskar7-sudo/polish-iptv/refs/heads/main/streams/tvpabc2.m3u
 #EXTINF:-1 tvg-name="Kapitan Fantastika" group-title="Kids",Kapitan Fantastika
 https://adpnetworkhd-cmd.github.io/iptv/KapitanFantastikaHD.m3u8
+#EXTINF:-1 tvg-name="Bolt (576p)" group-title="Movies;Series",Bolt (576p)
+https://adpnetworkhd-cmd.github.io/iptv/BoltUA.m3u8
+#EXTINF:-1 tvg-name="Atreseries" group-title="Series",Atreseries
+https://adpnetworkhd-cmd.github.io/iptv/A3Series.m3u8
 #EXTINF:-1 tvg-name="Cocuk Smart" group-title="Kids",Cocuk Smart
 https://adpnetworkhd-cmd.github.io/iptv/CocukSmart.m3u8
 #EXTINF:-1 tvg-name="Aqlvoy (576p)" group-title="Kids",Aqlvoy (576p)
 https://adpnetworkhd-cmd.github.io/iptv/Aqlvoy.m3u8
 #EXTINF:-1 tvg-name="Mult" group-title="Kids",Mult
 https://adpnetworkhd-cmd.github.io/iptv/Mult.m3u8
+#EXTINF:-1 tvg-name="Nashe" group-title="Movies;Series",Nashe
+https://adpnetworkhd-cmd.github.io/iptv/NasheHD.m3u8
 #EXTINF:-1 tvg-name="Nicktoons (576p)" group-title="Kids",Nicktoons (576p)
 https://adpnetworkhd-cmd.github.io/iptv/NicktoonsRussia.m3u8
+#EXTINF:-1 tvg-name="NTV Series" group-title="Series",NTV Series
+https://adpnetworkhd-cmd.github.io/iptv/NTVSerial.m3u8
 #EXTINF:-1 tvg-name="Pingvin (576p)" group-title="Animation;Kids",Pingvin (576p)
 https://adpnetworkhd-cmd.github.io/iptv/Pingvin.m3u8
 #EXTINF:-1 tvg-name="Pixel TV" group-title="Kids",Pixel TV
@@ -948,6 +1586,12 @@ https://adpnetworkhd-cmd.github.io/iptv/NickJrSpain.m3u8
 https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="Mult i muzyka (576p)" group-title="Kids",Mult i muzyka (576p)
 http://hls127.freeott.top:8080/Mult_Muzika/video.m3u8
+#EXTINF:-1 tvg-name="Saphire" group-title="Series",Saphire
+http://77.232.131.211:80/Sapfir/manifest.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Comedy;Movies;Series",Universal Comedy" group-title="Comedy;Movies;Series",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Comedy;Movies;Series",Universal Comedy
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Series",Universal Crime" group-title="Series",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Series",Universal Crime
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcrime/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal J" group-title="Kids",Canal J
 http://41.205.77.102/CANALJ/index.m3u8
 #EXTINF:-1 tvg-name="Gulli" group-title="Kids",Gulli
@@ -956,7 +1600,17 @@ http://41.205.77.102/GULLI/index.m3u8
 http://41.205.77.102/TIJI/index.m3u8
 #EXTINF:-1 tvg-name="Disney Channel Latin America Mexico" group-title="Animation;Kids",Disney Channel Latin America Mexico
 http://45.166.93.156:9999/play/a0f3/index.m3u8
+#EXTINF:-1 tvg-name="Battlestar Galactica" group-title="Movies;Series",Battlestar Galactica
+https://jmp2.uk/plu-69d7ebff029c431826bd328e.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Haialarm" group-title="Movies;Series",Pluto TV Haialarm
+https://jmp2.uk/plu-69b015c5d29cc97de7da4af8.m3u8
 #EXTINF:-1 tvg-name="South Park Rocks!" group-title="Animation;Comedy",South Park Rocks!
 https://jmp2.uk/plu-664f12bb3d173b0008168c1f.m3u8
 #EXTINF:-1 tvg-name="South Park: Stars & Sternchen" group-title="Animation;Comedy",South Park: Stars & Sternchen
 https://jmp2.uk/plu-664f0d373d173b0008164948.m3u8
+#EXTINF:-1 tvg-name="Bull" group-title="Series",Bull
+https://jmp2.uk/plu-6964b982ca459f9b939da8e6.m3u8
+#EXTINF:-1 tvg-name="Dating Naked UK" group-title="Series",Dating Naked UK
+https://jmp2.uk/plu-692edc78d52ea9e4858cf78f.m3u8
+#EXTINF:-1 tvg-name="The L Word" group-title="Series",The L Word
+https://jmp2.uk/plu-693ae48864476d678e9b6235.m3u8

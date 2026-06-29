@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-29 13:15:17
-# Всего каналов: 18179
-# Новых за сессию: 0
+# Обновлено: 2026-06-29 15:54:56
+# Всего каналов: 18260
+# Новых за сессию: 81
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Auto;Documentary
 # Каналов: 1
-# Обновлено: 2026-06-29 13:15:17
+# Обновлено: 2026-06-29 15:54:56
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pluto TV Turbo" group-title="Auto;Documentary",Pluto TV Turbo
@@ -117,8 +117,6 @@ https://d3serb1fmh623s.cloudfront.net/playlist.m3u8
 https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
 #EXTINF:-1 tvg-name="Spike Pluto TV" group-title="Documentary",Spike Pluto TV
 https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8
-#EXTINF:-1 tvg-name="Teen Mom" group-title="Documentary",Teen Mom
-https://jmp2.uk/plu-62d550d81054990007db7798.m3u8
 #EXTINF:-1 tvg-name="Terra Mater WILD English" group-title="Documentary",Terra Mater WILD English
 https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
 #EXTINF:-1 tvg-name="The Nest" group-title="Documentary;Entertainment",The Nest
@@ -291,10 +289,12 @@ https://scihls.persiana.live/hls/stream.m3u8
 https://ptravelhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Archivos Forenses" group-title="Documentary",Archivos Forenses
 https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
+#EXTINF:-1 tvg-name="Bondi Rescue" group-title="Documentary",Bondi Rescue
+https://jmp2.uk/plu-660be37e7bcd860008793a6a.m3u8
 #EXTINF:-1 tvg-name="Cazador de Homicidas" group-title="Documentary",Cazador de Homicidas
 https://jmp2.uk/plu-60ed5fb9c4716d0007d180c5.m3u8
-#EXTINF:-1 tvg-name="Dallas Cowboys Cheerleaders" group-title="Documentary",Dallas Cowboys Cheerleaders
-https://jmp2.uk/plu-64e87c6b28cec700088ceb55.m3u8
+#EXTINF:-1 tvg-name="Detetives Médicos" group-title="Documentary",Detetives Médicos
+https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8
 #EXTINF:-1 tvg-name="Dossiers FBI" group-title="Documentary",Dossiers FBI
 https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8
 #EXTINF:-1 tvg-name="Historia y Vida" group-title="Documentary",Historia y Vida
@@ -351,6 +351,8 @@ https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8
 https://jmp2.uk/plu-677d3ad04bd63600082f7c54.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Verdenskrigene" group-title="Documentary",Pluto TV Verdenskrigene
 https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8
+#EXTINF:-1 tvg-name="Smithsonian Channel Selects" group-title="Documentary",Smithsonian Channel Selects
+https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8
 #EXTINF:-1 tvg-name="wedotv Auta (480p)" group-title="Auto",wedotv Auta (480p)
 https://amg00735-amg00735c57-rakuten-de-10677.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedotvauta-rakutende/cb553d1e726c678e9cd43d67d3ef42a0df2416fc087a8d6933fb4b926bc10f41f4e2a581b212bb785d9914ce1c553f080132c0099c3a0bc6da73b6512d6c6021c9c3ed64d89d1b17b2c8797368e62c4119e10f11d93b53309dbb1858dd68ec2b005ebb0d6f577fdcec0fac6b5ac58402967a7c82fc8e68312f5e56cd543fa29a7c9b1f0f5d65e94693d1605aa34f1abbd31c9df63d81b2a13ebedf52bbc33eabe7b5c98c50d7acad5b3ef4ac466f6f236f8a816ed1b835750fce1b5bcd2552213354fcac85f74f76ee2d250ca9b29fe635ad50a6fd540358406cb1d865a44989e5902bf9691a80e7d6fa575336b4c1145626b2f6a19dc1d352d742d6adf3d47f7098b94136178925f92c2f2a9ff4cf54d5954ed69b2c87bd651863808353c1cce6daa1e0c40abb20c9ccfbd76c16172d5442a054b09f6bd4319229fc975d712e202ecabb5bc094d65734102dd7d6249b797c8cd5808dd01935b0163c5fe665cb52062ced3a686eea24fdda11638b2f06807751d65737894ef9f81cfda8d5e00c58e48e91a29ebd7f4ba5b486210eed8f29b009af85251fe39768f8/106/426x240_611520/index.m3u8
 #EXTINF:-1 tvg-name="Atlas (480p)" group-title="Documentary",Atlas (480p)
@@ -409,3 +411,5 @@ http://hls127.freeott.top:8080/Istoriya/video.m3u8
 http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Documentary",National Geographic Latin America South" group-title="Documentary",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Documentary",National Geographic Latin America South
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/NatGeo.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Teen Mom" group-title="Documentary",Teen Mom
+https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8

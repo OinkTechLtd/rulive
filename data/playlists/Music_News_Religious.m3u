@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-29 13:15:17
-# Всего каналов: 18179
-# Новых за сессию: 0
+# Обновлено: 2026-06-29 15:54:56
+# Всего каналов: 18260
+# Новых за сессию: 81
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;News;Religious
 # Каналов: 1
-# Обновлено: 2026-06-29 13:15:17
+# Обновлено: 2026-06-29 15:54:56
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Lingkar TV" group-title="Music;News;Religious",Lingkar TV
@@ -4539,10 +4539,10 @@ https://mohabathls.wns.live/hls/stream.m3u8
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 #EXTINF:-1 tvg-name="MTA TV (540p)" group-title="Religious",MTA TV (540p)
 https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd
-#EXTINF:-1 tvg-name="MTV Classic" group-title="Music",MTV Classic
-https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
 #EXTINF:-1 tvg-name="Pluto TV MTV Classic" group-title="Music",Pluto TV MTV Classic
-https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
+https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
+#EXTINF:-1 tvg-name="MTV Flow Latino" group-title="Music",MTV Flow Latino
+https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
 #EXTINF:-1 tvg-name="MTV Spankin’ New" group-title="Music",MTV Spankin’ New
 https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8
 #EXTINF:-1 tvg-name="Muugi TV (480p)" group-title="Religious",Muugi TV (480p)
@@ -5091,3 +5091,11 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fuegotv.stream/playlist.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Peru Noticias (576p)" group-title="News",TV Peru Noticias (576p)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tvperunoticias.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="OAN Plus" group-title="News",OAN Plus
+https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8
+#EXTINF:-1 tvg-name="J3NEWS TV" group-title="News",J3NEWS TV
+https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8
+#EXTINF:-1 tvg-name="Azan TV" group-title="Religious",Azan TV
+https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
+#EXTINF:-1 tvg-name="Radio Moldova Muzical" group-title="Music",Radio Moldova Muzical
+https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8

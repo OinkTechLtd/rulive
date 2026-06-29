@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-29 13:15:17
-# Всего каналов: 18179
-# Новых за сессию: 0
+# Обновлено: 2026-06-29 15:54:56
+# Всего каналов: 18260
+# Новых за сессию: 81
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;Shop
 # Каналов: 1
-# Обновлено: 2026-06-29 13:15:17
+# Обновлено: 2026-06-29 15:54:56
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Timeless TV" group-title="Classic;Shop",Timeless TV
@@ -63,6 +63,8 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
 https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
 #EXTINF:-1 tvg-name="Gem Shopping Network" group-title="Shop",Gem Shopping Network
 https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Gunsmoke" group-title="Classic",Gunsmoke
+https://jmp2.uk/plu-68503d1736c9361b191e7d89.m3u8
 #EXTINF:-1 tvg-name="HSN" group-title="Shop",HSN
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
 #EXTINF:-1 tvg-name="HSN2" group-title="Shop",HSN2
@@ -223,26 +225,44 @@ https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m
 http://62.1.176.18:8888/extra/index.m3u8
 #EXTINF:-1 tvg-name="Persiana Nostalgia" group-title="Classic;Music",Persiana Nostalgia
 https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Becker" group-title="Classic;Series",Becker
+https://jmp2.uk/plu-672e157d7d5da5000812872d.m3u8
+#EXTINF:-1 tvg-name="Cin Cin" group-title="Classic;Series",Cin Cin
+https://jmp2.uk/plu-65cb78b83a116800079e2e35.m3u8
 #EXTINF:-1 tvg-name="CJ OnStyle (540p)" group-title="Shop",CJ OnStyle (540p)
 https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 #EXTINF:-1 tvg-name="CJ OnStyle Plus (540p)" group-title="Shop",CJ OnStyle Plus (540p)
 https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
 #EXTINF:-1 tvg-name="Classic TV" group-title="Classic",Classic TV
 https://clshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Classic TV Crime Drama" group-title="Classic",Classic TV Crime Drama
+https://jmp2.uk/plu-61325c4f982acd000723287e.m3u8
+#EXTINF:-1 tvg-name="Diagnosis Murder" group-title="Classic;Series",Diagnosis Murder
+https://jmp2.uk/plu-668bf7dd74f5ec000817e6d1.m3u8
+#EXTINF:-1 tvg-name="Dynasty" group-title="Classic;Series",Dynasty
+https://jmp2.uk/plu-65cb76ea11ced70008206b66.m3u8
 #EXTINF:-1 tvg-name="GEM Classic" group-title="Classic",GEM Classic
 https://ca-rt.onetv.app/gemclassic/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-name="Gongyoung Shopping" group-title="Shop",Gongyoung Shopping
 https://etv.publichs.com/live5.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="GS My Shop" group-title="Shop",GS My Shop
 https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Happy Days" group-title="Classic;Series",Happy Days
+https://jmp2.uk/plu-654a4e29ab05240008a18625.m3u8
 #EXTINF:-1 tvg-name="High TV" group-title="Shop",High TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
+#EXTINF:-1 tvg-name="Hogan's Heroes" group-title="Classic",Hogan's Heroes
+https://jmp2.uk/plu-68939e206727ec919bb39061.m3u8
 #EXTINF:-1 tvg-name="Home & Shopping" group-title="Shop",Home & Shopping
 https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
 #EXTINF:-1 tvg-name="Hyundai Home Shopping" group-title="Shop",Hyundai Home Shopping
 https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
 #EXTINF:-1 tvg-name="Hyundai Home Shopping Plus" group-title="Shop",Hyundai Home Shopping Plus
 https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="I Love Lucy" group-title="Classic;Comedy",I Love Lucy
+https://jmp2.uk/plu-63a2f1dda0d69700078b7cba.m3u8
+#EXTINF:-1 tvg-name="JAG" group-title="Classic;Series",JAG
+https://jmp2.uk/plu-654a4ab92c1d330008657ae5.m3u8
 #EXTINF:-1 tvg-name="KShopping" group-title="Shop",KShopping
 https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Lao SV TV (480p)" group-title="Shop",Lao SV TV (480p)
@@ -255,8 +275,14 @@ https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
 https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
 #EXTINF:-1 tvg-name="LS TV (480p)" group-title="Shop",LS TV (480p)
 https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="MacGyver" group-title="Classic",MacGyver
+https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
 #EXTINF:-1 tvg-name="Mango [Geo-blocked]" group-title="Shop",Mango [Geo-blocked]
 https://lb2.pluscdn.pl/ch/1580235/3496/hls/a149fc4b/masterlist.m3u8
+#EXTINF:-1 tvg-name="Matlock" group-title="Classic;Series",Matlock
+https://jmp2.uk/plu-66290a779e68c20008a18cf3.m3u8
+#EXTINF:-1 tvg-name="Mission Impossible" group-title="Classic;Series",Mission Impossible
+https://jmp2.uk/plu-6478a9e4f77b61000817034b.m3u8
 #EXTINF:-1 tvg-name="NS Home Shopping" group-title="Shop",NS Home Shopping
 https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
 #EXTINF:-1 tvg-name="NS Shop Plus" group-title="Shop",NS Shop Plus
@@ -273,6 +299,8 @@ https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8
 https://jmp2.uk/plu-630f1e6073bd1800082107f0.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Series Retro" group-title="Classic",Pluto TV Series Retro
 https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8
+#EXTINF:-1 tvg-name="Puto TV Classic TV Crime Drama" group-title="Classic",Puto TV Classic TV Crime Drama
+https://jmp2.uk/plu-696e61287d2afdec4ff2cb75.m3u8
 #EXTINF:-1 tvg-name="Shinsegae Shopping TV" group-title="Shop",Shinsegae Shopping TV
 https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Shopping NT" group-title="Shop",Shopping NT
@@ -281,6 +309,8 @@ https://live.shoppingntmall.com/live/10011.m3u8
 https://live.mana2.my/SukeTv/index.m3u8?auth_key=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272&token=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272
 #EXTINF:-1 tvg-name="Tea TV" group-title="Shop",Tea TV
 https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="The Beverly Hillbillies" group-title="Classic;Comedy",The Beverly Hillbillies
+https://jmp2.uk/plu-6565fefdc917a50008485cc6.m3u8
 #EXTINF:-1 tvg-name="Uniquely Thai" group-title="Shop",Uniquely Thai
 https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="W Shopping" group-title="Shop",W Shopping
@@ -319,3 +349,7 @@ https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8
 #EXTINF:-1 tvg-name="Westerns 4U" group-title="Classic",Westerns 4U
 http://181.224.255.210:8001/play/a0rq/index.m3u8
+#EXTINF:-1 tvg-name="Rawhide" group-title="Classic;Series",Rawhide
+https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8
+#EXTINF:-1 tvg-name="The Wild Wild West" group-title="Classic;Series",The Wild Wild West
+https://jmp2.uk/plu-6964bc3806d76f50db3e315e.m3u8

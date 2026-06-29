@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-29 13:15:17
-# Всего каналов: 18179
-# Новых за сессию: 0
+# Обновлено: 2026-06-29 15:54:56
+# Всего каналов: 18260
+# Новых за сессию: 81
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Family;General;Movies
 # Каналов: 1
-# Обновлено: 2026-06-29 13:15:17
+# Обновлено: 2026-06-29 15:54:56
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="MCI Televisión" group-title="Family;General;Movies",MCI Televisión
@@ -923,6 +923,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
 #EXTINF:-1 tvg-name="Millbrae Community Television" group-title="General",Millbrae Community Television
 https://685c08ed6d81a.streamlock.net/live/mp4:MCTV_aac/playlist.m3u8
+#EXTINF:-1 tvg-name="Mission Impossible" group-title="Movies;Series",Mission Impossible
+https://jmp2.uk/plu-62ab579258cb950007811aad.m3u8
 #EXTINF:-1 tvg-name="Movies! (480p)" group-title="Movies",Movies! (480p)
 https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
 #EXTINF:-1 tvg-name="MovieSphere" group-title="Movies",MovieSphere
@@ -4403,6 +4405,8 @@ https://stream.fomixmedia.nl/FomixTV/video.m3u8
 https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="HTV3" group-title="Entertainment;General;Series",HTV3
 https://vc.101vn.com/htv/htvcmb.php?id=2535
+#EXTINF:-1 tvg-name="00s Replay" group-title="Movies",00s Replay
+https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
 #EXTINF:-1 tvg-name="1Almere TV" group-title="General",1Almere TV
 https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
 #EXTINF:-1 tvg-name="1Twente TV" group-title="General",1Twente TV
@@ -4511,12 +4515,18 @@ http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
 https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC Alba [Geo-blocked]" group-title="General",BBC Alba [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-name="BET Comedy Movies" group-title="Movies",BET Comedy Movies
+https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8
+#EXTINF:-1 tvg-name="BET Visionaries" group-title="Movies",BET Visionaries
+https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Version/17.10 Safari/605.1.1" group-title="General",BHT 1" group-title="General",like Gecko) Version/17.10 Safari/605.1.1" group-title="General",BHT 1
 https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
 #EXTINF:-1 tvg-name="BNT 4 [Geo-Blocked]" group-title="General",BNT 4 [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/bntworld/browser-HLS8/bntworld.m3u8
 #EXTINF:-1 tvg-name="Boishakhi TV" group-title="General",Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-1 tvg-name="Bonanza" group-title="Movies;Series",Bonanza
+https://jmp2.uk/plu-696e647b07ea70192d49f6a5.m3u8
 #EXTINF:-1 tvg-name="BTB 3" group-title="General",BTB 3
 https://emisja3.btb.j00r.us/iptv/session/3/hls.m3u8
 #EXTINF:-1 tvg-name="BTB" group-title="General",BTB
@@ -4579,6 +4589,8 @@ https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
 https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
 #EXTINF:-1 tvg-name="City One Television" group-title="General",City One Television
 http://maxotts.maxdigitaltv.com/x-media/C209/master.m3u8
+#EXTINF:-1 tvg-name="Classic Movie Westerns" group-title="Movies;Series",Classic Movie Westerns
+https://jmp2.uk/plu-61f33318210549000806a530.m3u8
 #EXTINF:-1 tvg-name="Csurgó TV" group-title="General",Csurgó TV
 http://79.120.178.90:1935/csurgotv/csurgolive/playlist.m3u8
 #EXTINF:-1 tvg-name="ČT 1" group-title="General",ČT 1
@@ -4695,6 +4707,8 @@ http://185.81.240.65:15000/udp/233.233.233.39:12000
 https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="France 3 [Geo-Blocked]" group-title="General",France 3 [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd
+#EXTINF:-1 tvg-name="Frasier" group-title="General",Frasier
+https://jmp2.uk/plu-6400c095498393000878a634.m3u8
 #EXTINF:-1 tvg-name="Garuda TV" group-title="General",Garuda TV
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 #EXTINF:-1 tvg-name="Gazi TV" group-title="General",Gazi TV
@@ -4953,8 +4967,12 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 tvg-name="MCOT" group-title="General",MCOT
 https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Medium" group-title="Movies;Series",Medium
+https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8
 #EXTINF:-1 tvg-name="Meer TV" group-title="General",Meer TV
 https://593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8
+#EXTINF:-1 tvg-name="Merry Christmas from Viafree" group-title="Movies",Merry Christmas from Viafree
+https://jmp2.uk/plu-63048147b09fd60007847a08.m3u8
 #EXTINF:-1 tvg-name="Merwe TV" group-title="General",Merwe TV
 https://d2ycaxub5x98iw.cloudfront.net/nlpo/clr-nlpo/merwetv/index.m3u8
 #EXTINF:-1 tvg-name="Metropola TV" group-title="General",Metropola TV
@@ -4985,6 +5003,8 @@ https://bozztv.com/rongo/rongo-MohonaTV/index.m3u8
 https://moldovatv.ro/live-tv/live.m3u8
 #EXTINF:-1 tvg-name="Móra-Net TV (576p)" group-title="General",Móra-Net TV (576p)
 https://stream.moranettv.hu/live/index.m3u8
+#EXTINF:-1 tvg-name="More TV Sci-fi" group-title="Movies;Series",More TV Sci-fi
+https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8
 #EXTINF:-1 tvg-name="Mostanad" group-title="General",Mostanad
 https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Moviepilot TV mit Pluto TV" group-title="Movies",Moviepilot TV mit Pluto TV
@@ -5003,6 +5023,8 @@ https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
 https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
 #EXTINF:-1 tvg-name="MTV3" group-title="General",MTV3
 https://live-fi.tvkaista.net/mtv3/live.m3u8
+#EXTINF:-1 tvg-name="MTV Reality" group-title="General",MTV Reality
+https://jmp2.uk/plu-685137f4a1e091e16f2dd471.m3u8
 #EXTINF:-1 tvg-name="Muscel TV" group-title="General",Muscel TV
 https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Nama TV" group-title="General",Nama TV
@@ -5027,6 +5049,8 @@ https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
 #EXTINF:-1 tvg-name="Nice TV" group-title="General",Nice TV
 http://43.252.18.195:5080/live/streams/Netflix.playlist.m3u8
+#EXTINF:-1 tvg-name="NonStop Kung Fu" group-title="Movies",NonStop Kung Fu
+https://jmp2.uk/plu-6728d2be529ac9000830dc15.m3u8
 #EXTINF:-1 tvg-name="NOOS TV" group-title="General",NOOS TV
 https://ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Nos TV Bonaire" group-title="General",Nos TV Bonaire
@@ -5127,6 +5151,8 @@ https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 https://streamer20.multimedia.blue/Eltrona/PetangeTV/playlist.m3u8
 #EXTINF:-1 tvg-name="PilisTV [Geo-blocked]" group-title="General",PilisTV [Geo-blocked]
 https://stream.streaming4u.hu/PilisTV/index.m3u8
+#EXTINF:-1 tvg-name="Pluto Classic Movie Westerns" group-title="Movies;Series",Pluto Classic Movie Westerns
+https://jmp2.uk/plu-66dad50215d2c60008d7afbd.m3u8
 #EXTINF:-1 tvg-name="Pluto TV 80's Action" group-title="Movies;Series",Pluto TV 80's Action
 https://jmp2.uk/plu-66d717c6abec540008ba7eb5.m3u8
 #EXTINF:-1 tvg-name="Pluto TV 90's Classics" group-title="Movies;Series",Pluto TV 90's Classics
@@ -5293,6 +5319,8 @@ https://glb.bozztv.com/glb/ssh101/tvrozaje/index.m3u8
 http://rakosmentetv.hu:8080/hls/rmtv.m3u8
 #EXTINF:-1 tvg-name="Ramogi TV" group-title="General",Ramogi TV
 https://citizentv.castr.com/5ea49827ff3b5d7b22708777/live_9b761ff063f511eca12909b8ef1524b4/index.m3u8
+#EXTINF:-1 tvg-name="Rawhide" group-title="Movies;Series",Rawhide
+https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8
 #EXTINF:-1 tvg-name="RCTI" group-title="General",RCTI
 http://103.66.62.83:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-name="Régió TV (406p)" group-title="General",Régió TV (406p)
@@ -5359,6 +5387,8 @@ https://live.leveex.hr/hls/live.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 #EXTINF:-1 tvg-name="SelangorTV" group-title="General",SelangorTV
 https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd&token=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd
+#EXTINF:-1 tvg-name="SensaCine TV x Pluto" group-title="Movies",SensaCine TV x Pluto
+https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8
 #EXTINF:-1 tvg-name="Seven Channel" group-title="General",Seven Channel
 https://xykt-fix.github.io/liveh42-syhtv-mn/7Channel_HD/03.m3u8
 #EXTINF:-1 tvg-name="Sharq Radio TV" group-title="General",Sharq Radio TV
@@ -5381,6 +5411,16 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv
 http://highvolume155.streampartner.nl/adminsrc/adminsrc/playlist.m3u8
 #EXTINF:-1 tvg-name="SSTV" group-title="General",SSTV
 https://sstv.ssplay.mv/hls/sstv-live/index.m3u8
+#EXTINF:-1 tvg-name="Star Trek Movies" group-title="Movies",Star Trek Movies
+https://jmp2.uk/plu-6400c281dff38e00083f59da.m3u8
+#EXTINF:-1 tvg-name="Star Trek: Deep Space Nine" group-title="Movies;Series",Star Trek: Deep Space Nine
+https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
+#EXTINF:-1 tvg-name="Star Trek: The Next Generation" group-title="Movies;Series",Star Trek: The Next Generation
+https://jmp2.uk/plu-65786b94cbd0d60008f7e4d9.m3u8
+#EXTINF:-1 tvg-name="Star Trek: The Original Series" group-title="Movies;Series",Star Trek: The Original Series
+https://jmp2.uk/plu-693add137e308621c051e733.m3u8
+#EXTINF:-1 tvg-name="Star Trek: Voyager" group-title="Movies;Series",Star Trek: Voyager
+https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Star TV" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Star TV
 https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd
 #EXTINF:-1 tvg-name="Streekstad Alkmaar Centraal" group-title="General",Streekstad Alkmaar Centraal
@@ -5433,6 +5473,10 @@ https://cdn4.skygo.mn/live/disk1/VTV/DASH-FTA/VTV.mpd
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 #EXTINF:-1 tvg-name="Thái Nguyên TV" group-title="General",Thái Nguyên TV
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
+#EXTINF:-1 tvg-name="The Twilight Zone" group-title="Movies;Series",The Twilight Zone
+https://jmp2.uk/plu-6512ec9f3a0d700008db4f0c.m3u8
+#EXTINF:-1 tvg-name="The Wild Wild West" group-title="Movies;Series",The Wild Wild West
+https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",TM TV" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",TM TV
 https://cdn4.skygo.mn/live/disk1/TM/DASH-FTA/TM.mpd
 #EXTINF:-1 tvg-name="TM TV" group-title="General",TM TV
@@ -5613,6 +5657,8 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",UBS" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",UBS
 https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd
+#EXTINF:-1 tvg-name="Viafree Movies" group-title="Movies",Viafree Movies
+https://jmp2.uk/plu-62bebc3459624e00078209c3.m3u8
 #EXTINF:-1 tvg-name="Vizion Plus" group-title="General",Vizion Plus
 https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
 #EXTINF:-1 tvg-name="Vokta TV" group-title="General",Vokta TV
@@ -6593,3 +6639,31 @@ https://59d39900ebfb8.streamlock.net/unicatv/unicatv/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/vivatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Zee Cinema ME" group-title="Movies",Zee Cinema ME
 http://41.205.77.102/ZEE-CINEMA/index.m3u8
+#EXTINF:-1 tvg-name="Shot TV (576p)" group-title="Movies",Shot TV (576p)
+http://hls127.freeott.top:8080/SHOT_TV/video.m3u8
+#EXTINF:-1 tvg-name="Battlestar Galactica" group-title="Movies;Series",Battlestar Galactica
+https://jmp2.uk/plu-69d7ebff029c431826bd328e.m3u8
+#EXTINF:-1 tvg-name="Hallmark Movies & More" group-title="Movies",Hallmark Movies & More
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
+#EXTINF:-1 tvg-name="Pluto TV Franchise Favorites" group-title="Movies",Pluto TV Franchise Favorites
+https://jmp2.uk/plu-68fbf8101d26140175db8b58.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Haialarm" group-title="Movies;Series",Pluto TV Haialarm
+https://jmp2.uk/plu-69b015c5d29cc97de7da4af8.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Weihnachten im Sommer" group-title="Movies",Pluto TV Weihnachten im Sommer
+https://jmp2.uk/plu-642ad072283aa4000806148c.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Movies",AMC Latin America Brazil" group-title="Movies",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Movies",AMC Latin America Brazil
+https://cdn-5.nxplay.com.br/AMC_BRASIL/index.m3u8
+#EXTINF:-1 tvg-name="Summer of Movies" group-title="Movies",Summer of Movies
+https://jmp2.uk/plu-6654adb1f99922000854388c.m3u8
+#EXTINF:-1 tvg-name="Gustav & Linse på udebane" group-title="General",Gustav & Linse på udebane
+https://jmp2.uk/plu-69c290eeed1b1f1acb446dd8.m3u8
+#EXTINF:-1 tvg-name="The Millers" group-title="General",The Millers
+https://jmp2.uk/plu-69afeefa0a7f2095e768401c.m3u8
+#EXTINF:-1 tvg-name="Bolivision" group-title="General",Bolivision
+https://d135ohnuotzzyo.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-name="Cable Nobsa TV" group-title="General",Cable Nobsa TV
+https://eu1.servers10.com:8081/8164/index.m3u8
+#EXTINF:-1 tvg-name="Lila TV Pencahue" group-title="General",Lila TV Pencahue
+https://tv.arkeo.cl:1936/radiolila/radiolila/playlist.m3u8
+#EXTINF:-1 tvg-name="Maray TV" group-title="General",Maray TV
+https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8
