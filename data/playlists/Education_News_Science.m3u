@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-30 00:05:06
-# Всего каналов: 18260
-# Новых за сессию: 0
+# Обновлено: 2026-06-30 04:45:49
+# Всего каналов: 18311
+# Новых за сессию: 51
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;News;Science
 # Каналов: 1
-# Обновлено: 2026-06-30 00:05:07
+# Обновлено: 2026-06-30 04:45:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="MediBizTV" group-title="Education;News;Science",MediBizTV
@@ -2627,3 +2627,5 @@ https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8
 https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
 #EXTINF:-1 tvg-name="J3NEWS TV" group-title="News",J3NEWS TV
 https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8
+#EXTINF:-1 tvg-name="E! Latin America" group-title="Entertainment;News",E! Latin America
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-30 00:05:06
-# Всего каналов: 18260
-# Новых за сессию: 0
+# Обновлено: 2026-06-30 04:45:49
+# Всего каналов: 18311
+# Новых за сессию: 51
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Business;Documentary
 # Каналов: 3
-# Обновлено: 2026-06-30 00:05:07
+# Обновлено: 2026-06-30 04:45:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Bloomberg Originals" group-title="Business;Documentary",Bloomberg Originals
@@ -523,3 +523,5 @@ http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/NatGeo.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Teen Mom" group-title="Documentary",Teen Mom
 https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8
+#EXTINF:-1 tvg-name="Entrepreneur TV" group-title="Business",Entrepreneur TV
+https://a-cdn.klowdtv.com/live3/entrepreneurtv_720p/playlist.m3u8

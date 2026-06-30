@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-30 00:05:06
-# Всего каналов: 18260
-# Новых за сессию: 0
+# Обновлено: 2026-06-30 04:45:49
+# Всего каналов: 18311
+# Новых за сессию: 51
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Movies;Series;Sports
 # Каналов: 2
-# Обновлено: 2026-06-30 00:05:07
+# Обновлено: 2026-06-30 04:45:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="USA Network East" group-title="Comedy;Movies;Series;Sports",USA Network East
@@ -3110,3 +3110,23 @@ https://jmp2.uk/plu-693ae5660eedebc8d5db6579.m3u8
 https://jmp2.uk/plu-692edc78d52ea9e4858cf78f.m3u8
 #EXTINF:-1 tvg-name="The L Word" group-title="Series",The L Word
 https://jmp2.uk/plu-693ae48864476d678e9b6235.m3u8
+#EXTINF:-1 tvg-name="Gagsnetwork (576p)" group-title="Comedy",Gagsnetwork (576p)
+http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Sports",Billiard TV" group-title="Sports",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Sports",Billiard TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/billi.m3u8?ads.vf=pNzwn8XNyIG
+#EXTINF:-1 tvg-name="Movies! (576p)" group-title="Movies",Movies! (576p)
+https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8
+#EXTINF:-1 tvg-name="REV'N Action" group-title="Auto;Outdoor;Series;Sports",REV'N Action
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8
+#EXTINF:-1 tvg-name="Popcorn Central" group-title="Movies",Popcorn Central
+https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
+#EXTINF:-1 tvg-name="Cine Familiar" group-title="Movies",Cine Familiar
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinefamiliar.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Cine Hispano" group-title="Movies",Cine Hispano
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinehispano.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Cine Premium" group-title="Movies",Cine Premium
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Sports",Sport1" group-title="Sports",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Sports",Sport1
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Sports",Sport2" group-title="Sports",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Sports",Sport2
+http://88.212.15.19/live/test_sport_2/playlist.m3u8

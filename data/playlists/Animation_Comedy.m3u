@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-30 00:05:06
-# Всего каналов: 18260
-# Новых за сессию: 0
+# Обновлено: 2026-06-30 04:45:49
+# Всего каналов: 18311
+# Новых за сессию: 51
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Comedy
 # Каналов: 60
-# Обновлено: 2026-06-30 00:05:07
+# Обновлено: 2026-06-30 04:45:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Comedy Central South Park" group-title="Animation;Comedy",Comedy Central South Park
@@ -622,3 +622,7 @@ https://jmp2.uk/plu-6790fa9e1cfc4aa96dfadcef.m3u8
 https://jmp2.uk/plu-69a554179a3f3bb488c7d2be.m3u8
 #EXTINF:-1 tvg-name="Crazy Ex-Girlfriend" group-title="Comedy",Crazy Ex-Girlfriend
 https://jmp2.uk/plu-693ae5660eedebc8d5db6579.m3u8
+#EXTINF:-1 tvg-name="Gagsnetwork (576p)" group-title="Comedy",Gagsnetwork (576p)
+http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
+#EXTINF:-1 tvg-name="Hasbro Legends [Geo-blocked]" group-title="Animation;Kids",Hasbro Legends [Geo-blocked]
+https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02713-amg02713c11-amgplt0852/playlist.m3u8

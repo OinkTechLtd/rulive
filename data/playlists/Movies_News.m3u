@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-30 00:05:06
-# Всего каналов: 18260
-# Новых за сессию: 0
+# Обновлено: 2026-06-30 04:45:49
+# Всего каналов: 18311
+# Новых за сессию: 51
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;News
 # Каналов: 2
-# Обновлено: 2026-06-30 00:05:07
+# Обновлено: 2026-06-30 04:45:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Indywood TV" group-title="Movies;News",Indywood TV
@@ -3432,3 +3432,15 @@ https://cdn-5.nxplay.com.br/AMC_BRASIL/index.m3u8
 https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8
 #EXTINF:-1 tvg-name="Summer of Movies" group-title="Movies",Summer of Movies
 https://jmp2.uk/plu-6654adb1f99922000854388c.m3u8
+#EXTINF:-1 tvg-name="Movies! (576p)" group-title="Movies",Movies! (576p)
+https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8
+#EXTINF:-1 tvg-name="E! Latin America" group-title="Entertainment;News",E! Latin America
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Popcorn Central" group-title="Movies",Popcorn Central
+https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
+#EXTINF:-1 tvg-name="Cine Familiar" group-title="Movies",Cine Familiar
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinefamiliar.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Cine Hispano" group-title="Movies",Cine Hispano
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinehispano.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Cine Premium" group-title="Movies",Cine Premium
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8

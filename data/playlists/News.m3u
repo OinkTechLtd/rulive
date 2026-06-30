@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-30 00:05:06
-# Всего каналов: 18260
-# Новых за сессию: 0
+# Обновлено: 2026-06-30 04:45:49
+# Всего каналов: 18311
+# Новых за сессию: 51
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News
-# Каналов: 1033
-# Обновлено: 2026-06-30 00:05:07
+# Каналов: 1034
+# Обновлено: 2026-06-30 04:45:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Дождь (альтернативный)" group-title="News",Дождь (альтернативный)
@@ -2893,6 +2893,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/video01.brascast.com/d
 #EXTINF:-1 tvg-name="I24 News Hebrew" group-title="News",I24 News Hebrew
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
 
+#EXTINF:-1 tvg-name="Telesur" group-title="News",Telesur
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/bantel-cdn1.iptvperu.tv:1935/btnscrtn/telesur.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Беларусь 24" group-title="News",Беларусь 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 
@@ -3379,3 +3382,5 @@ https://canaletaplus.com:3922/live/cosmoslive.m3u8
 http://ott.watch/XE5QWWBZ87/20/tracks-v1a1/mono.ts.m3u8?sid=6a3725e1-2094-4453-9252-c089475ef330
 #EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="News",FuegoTV" group-title="News",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="News",FuegoTV
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fuegotv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="E! Latin America" group-title="Entertainment;News",E! Latin America
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8

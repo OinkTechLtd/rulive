@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-30 00:05:06
-# Всего каналов: 18260
-# Новых за сессию: 0
+# Обновлено: 2026-06-30 04:45:49
+# Всего каналов: 18311
+# Новых за сессию: 51
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;General;Religious
 # Каналов: 1
-# Обновлено: 2026-06-30 00:05:07
+# Обновлено: 2026-06-30 04:45:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Sercem TV" group-title="Culture;General;Religious",Sercem TV
@@ -7131,3 +7131,29 @@ https://eu1.servers10.com:8081/8164/index.m3u8
 https://tv.arkeo.cl:1936/radiolila/radiolila/playlist.m3u8
 #EXTINF:-1 tvg-name="Maray TV" group-title="General",Maray TV
 https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8
+#EXTINF:-1 tvg-name="Iman TV (480p)" group-title="Religious",Iman TV (480p)
+https://live.relentlessinnovations.net:1936/imantv/imantv/playlist.m3u8
+#EXTINF:-1 tvg-name="KTO" group-title="Religious",KTO
+http://41.205.77.102/KTO/index.m3u8
+#EXTINF:-1 tvg-name="Aiquilena Radio y Television" group-title="General",Aiquilena Radio y Television
+https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 25 Bermejo" group-title="General",Canal 25 Bermejo
+https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 52 Valle Television" group-title="General",Canal 52 Valle Television
+https://twitch-m3u8.bastypro112.workers.dev/plustelevisionbolivia/index.m3u8
+#EXTINF:-1 tvg-name="Fortaleza TV Cueto" group-title="General",Fortaleza TV Cueto
+https://twitch-m3u8.bastypro112.workers.dev/tvfortalezacueto/index.m3u8
+#EXTINF:-1 tvg-name="LotPlus TV" group-title="General",LotPlus TV
+https://ontvcable.streamottmas.workers.dev/ontvcable.m3u8
+#EXTINF:-1 tvg-name="Radio Television Ichilo" group-title="General",Radio Television Ichilo
+https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8
+#EXTINF:-1 tvg-name="Radio Uno PST" group-title="General",Radio Uno PST
+https://master.tucableip.com/pstbolivia/index.m3u8
+#EXTINF:-1 tvg-name="SPC Canal 15" group-title="General",SPC Canal 15
+https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8
+#EXTINF:-1 tvg-name="Television Azanaque" group-title="General",Television Azanaque
+https://twitch-m3u8.bastypro112.workers.dev/radiosangabrielbolivia/index.m3u8
+#EXTINF:-1 tvg-name="TVU Sucre" group-title="General",TVU Sucre
+https://edge.enhdtv.com/8214/index.m3u8
+#EXTINF:-1 tvg-name="Unetev" group-title="General",Unetev
+https://v2.tustreaming.cl/unetev/index.m3u8
