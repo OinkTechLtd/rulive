@@ -1,7 +1,7 @@
 #EXTM3U
-# Обновлено: 2026-07-01 18:25:25
-# Всего каналов: 18337
-# Новых за сессию: 0
+# Обновлено: 2026-07-01 19:18:41
+# Всего каналов: 18340
+# Новых за сессию: 3
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
@@ -46873,6 +46873,15 @@ https://secure-272717.tatnet.app/82.78.243.219:45739/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-name="Power Hit Radio (576p)" group-title="Music",Power Hit Radio (576p)
 https://secure-272717.tatnet.app/cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/91.194.191.241:8081/chid56/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/46.8.46.14/eurosport/index.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/91.194.191.241:8081/chid53/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="IPTV",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8
