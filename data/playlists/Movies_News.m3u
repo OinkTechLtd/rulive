@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-30 23:45:12
-# Всего каналов: 18312
-# Новых за сессию: 0
+# Обновлено: 2026-07-01 01:40:18
+# Всего каналов: 18337
+# Новых за сессию: 25
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;News
 # Каналов: 2
-# Обновлено: 2026-06-30 23:45:12
+# Обновлено: 2026-07-01 01:40:19
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Indywood TV" group-title="Movies;News",Indywood TV
@@ -238,8 +238,6 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 24 Horas" group-title="News;Public",Canal 24 Horas
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-name="FAN" group-title="Animation;Movies",FAN
-http://31.148.48.15/Fan/index.m3u8
 #EXTINF:-1 tvg-name="Hollywood" group-title="Movies",Hollywood
 http://31.148.48.15/MGM_HD/index.m3u8
 #EXTINF:-1 tvg-name="24KZ" group-title="News",24KZ
@@ -3180,8 +3178,6 @@ http://23.239.31.26:8989/amc/index.m3u8
 https://v1.tustreaming.cl/diarioelcentrotv/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Movies;Series",Star Channel Latin America (1080i)" group-title="Movies;Series",like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Movies;Series",Star Channel Latin America (1080i)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Euronews Russian" group-title="News",Euronews Russian
-https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 #EXTINF:-1 tvg-name="Magnificent Movies Network" group-title="Movies;Shop",Magnificent Movies Network
 https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Azione Cult" group-title="Movies",Pluto TV Azione Cult
@@ -3444,3 +3440,5 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinefamiliar.stream/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinehispano.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Cine Premium" group-title="Movies",Cine Premium
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC News [Geo-blocked]" group-title="News",BBC News [Geo-blocked]
+https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-30 23:45:12
-# Всего каналов: 18312
-# Новых за сессию: 0
+# Обновлено: 2026-07-01 01:40:18
+# Всего каналов: 18337
+# Новых за сессию: 25
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News;Sports
 # Каналов: 3
-# Обновлено: 2026-06-30 23:45:12
+# Обновлено: 2026-07-01 01:40:19
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Africa 24 Sport" group-title="News;Sports",Africa 24 Sport
@@ -2859,8 +2859,6 @@ http://23.237.104.106:8080/USA_NESN/index.m3u8
 https://webtvstream.bhtelecom.ba/hls7/fightbox.m3u8
 #EXTINF:-1 tvg-name="El Centro TV" group-title="News",El Centro TV
 https://v1.tustreaming.cl/diarioelcentrotv/index.m3u8
-#EXTINF:-1 tvg-name="Euronews Russian" group-title="News",Euronews Russian
-https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 #EXTINF:-1 tvg-name="Africanews English" group-title="News",Africanews English
 https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
 #EXTINF:-1 tvg-name="Euronews Greek" group-title="News",Euronews Greek
@@ -3021,3 +3019,5 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Sports",Sport2" group-title="Sports",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Sports",Sport2
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC News [Geo-blocked]" group-title="News",BBC News [Geo-blocked]
+https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8

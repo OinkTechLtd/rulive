@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-30 23:45:12
-# Всего каналов: 18312
-# Новых за сессию: 0
+# Обновлено: 2026-07-01 01:40:18
+# Всего каналов: 18337
+# Новых за сессию: 25
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: IPTV
-# Каналов: 149
-# Обновлено: 2026-06-30 23:45:12
+# Каналов: 156
+# Обновлено: 2026-07-01 01:40:19
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="A2 CNN Albania" group-title="IPTV",A2 CNN Albania
@@ -69,6 +69,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/catchup.videoline.ru/c
 
 #EXTINF:-1 tvg-name="DTR Music 1" group-title="IPTV",DTR Music 1
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/kino-stream.online/hls/DTRMUSIC1.m3u8
+
+#EXTINF:-1 tvg-name="DTR Zona 1" group-title="IPTV",DTR Zona 1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/kino-stream.online/hls/DTRZONA1.m3u8
+
+#EXTINF:-1 tvg-name="DTR Zona 2" group-title="IPTV",DTR Zona 2
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/kino-stream.online/hls/DTRZONA2.m3u8
 
 #EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
@@ -142,6 +148,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.telecloud.tv/CH441
 #EXTINF:-1 tvg-name="BelRos" group-title="IPTV",BelRos
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Euronews Russian" group-title="IPTV",Euronews Russian
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
+
 #EXTINF:-1 tvg-name="Channel 5 (576p)" group-title="IPTV",Channel 5 (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/94.230.128.107:8080/5_kanal/index.m3u8
 
@@ -208,6 +217,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/adpnetworkhd-cmd.githu
 #EXTINF:-1 tvg-name="Channel 8 (576p)" group-title="IPTV",Channel 8 (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.11.139.43:8555/8kanal/index.m3u8
 
+#EXTINF:-1 tvg-name="Fon Music" group-title="IPTV",Fon Music
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8
+
 #EXTINF:-1 tvg-name=".red (576p)" group-title="IPTV",.red (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/5.188.159.128:8070/RED/index.m3u8
 
@@ -231,6 +243,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/example.com/stream3.ts
 
 #EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/109.239.208.82:80/tochka/index.m3u8
+
+#EXTINF:-1 tvg-name="Domashniy (576p)" group-title="IPTV",Domashniy (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/94.230.129.31:8080/Domashnii/index.m3u8
 
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="IPTV",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8
@@ -433,11 +448,17 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/English_c
 #EXTINF:-1 tvg-name="Euronews Russian (576p)" group-title="IPTV",Euronews Russian (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tmptv.sunduk.tv/CH31/index.m3u8
 
+#EXTINF:-1 tvg-name="Europa Plus TV" group-title="IPTV",Europa Plus TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Europa_Plus_HD/index.m3u8
+
 #EXTINF:-1 tvg-name="Evrokino (576p)" group-title="IPTV",Evrokino (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tmptv.sunduk.tv/CH163/index.m3u8
 
-#EXTINF:-1 tvg-name="FoodTime" group-title="IPTV",FoodTime
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Eda_Premium_HD/index.m3u8
+#EXTINF:-1 tvg-name="FAN" group-title="IPTV",FAN
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Fan/index.m3u8
+
+#EXTINF:-1 tvg-name="FASHION & LIFESTYLE" group-title="IPTV",FASHION & LIFESTYLE
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Fashion_One_HD/index.m3u8
 
 #EXTINF:-1 tvg-name="Indiyskoye Kino" group-title="IPTV",Indiyskoye Kino
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tmptv.sunduk.tv/CH107/index.m3u8

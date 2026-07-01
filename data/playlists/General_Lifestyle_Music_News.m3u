@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-30 23:45:12
-# Всего каналов: 18312
-# Новых за сессию: 0
+# Обновлено: 2026-07-01 01:40:18
+# Всего каналов: 18337
+# Новых за сессию: 25
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Lifestyle;Music;News
 # Каналов: 1
-# Обновлено: 2026-06-30 23:45:12
+# Обновлено: 2026-07-01 01:40:19
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CEACOM TV" group-title="General;Lifestyle;Music;News",CEACOM TV
@@ -417,10 +417,6 @@ https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
 #EXTINF:-1 tvg-name="Кубань 24 [Geo-blocked]" group-title="General",Кубань 24 [Geo-blocked]
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
-#EXTINF:-1 tvg-name="Europa Plus TV" group-title="Music",Europa Plus TV
-http://31.148.48.15/Europa_Plus_HD/index.m3u8
-#EXTINF:-1 tvg-name="FASHION & LIFESTYLE" group-title="Lifestyle",FASHION & LIFESTYLE
-http://31.148.48.15/Fashion_One_HD/index.m3u8
 #EXTINF:-1 tvg-name="FON Music" group-title="Music",FON Music
 https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
 #EXTINF:-1 tvg-name="24KZ" group-title="News",24KZ
@@ -8423,8 +8419,6 @@ https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd321166884522124
 https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8
 #EXTINF:-1 tvg-name="RTS Muzika (576p)" group-title="Music",RTS Muzika (576p)
 https://de1.dstv.cx/RTSMuzika/index.m3u8
-#EXTINF:-1 tvg-name="Euronews Russian" group-title="News",Euronews Russian
-https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 #EXTINF:-1 tvg-name="Africanews English" group-title="News",Africanews English
 https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
 #EXTINF:-1 tvg-name="Willax TV" group-title="General",Willax TV
@@ -9079,3 +9073,21 @@ https://twitch-m3u8.bastypro112.workers.dev/radiosangabrielbolivia/index.m3u8
 https://edge.enhdtv.com/8214/index.m3u8
 #EXTINF:-1 tvg-name="Unetev" group-title="General",Unetev
 https://v2.tustreaming.cl/unetev/index.m3u8
+#EXTINF:-1 tvg-name="Suspilne. Kyiv (360p)" group-title="General",Suspilne. Kyiv (360p)
+https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/nstu-kyiv/master.m3u8
+#EXTINF:-1 tvg-name="Agrigento TV" group-title="General",Agrigento TV
+https://media2021.rtvweb.com/tva/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Hit FM" group-title="Music",Hit FM
+https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
+#EXTINF:-1 tvg-name="TSV" group-title="General",TSV
+https://tsv.md/stream/hls/tsv-online/index.m3u8
+#EXTINF:-1 tvg-name="BBC News [Geo-blocked]" group-title="News",BBC News [Geo-blocked]
+https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Scotland [Geo-blocked]" group-title="General",BBC Scotland [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-name="Trace Urban Africa Franco" group-title="Music",Trace Urban Africa Franco
+https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8
+#EXTINF:-1 tvg-name="Trace Urban Caribbean And Indian Ocean" group-title="Music",Trace Urban Caribbean And Indian Ocean
+https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8
+#EXTINF:-1 tvg-name="Trace Urban Southern Africa" group-title="Music",Trace Urban Southern Africa
+https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8

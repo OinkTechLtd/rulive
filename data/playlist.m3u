@@ -1,7 +1,7 @@
 #EXTM3U
-# Обновлено: 2026-06-30 23:45:12
-# Всего каналов: 18312
-# Новых за сессию: 0
+# Обновлено: 2026-07-01 01:40:18
+# Всего каналов: 18337
+# Новых за сессию: 25
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
@@ -188,7 +188,7 @@ https://secure-272717.tatnet.app/news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:-1 tvg-name="Euronews Georgia Ⓖ" group-title="Georgia",Euronews Georgia Ⓖ
 https://secure-272717.tatnet.app/live2.tvg.ge/eng/EURONEWSGEORGIA/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ARTE Ⓖ" group-title="Germany",ARTE Ⓖ
+#EXTINF:-1 tvg-name="ARTE [Geo-blocked]" group-title="Entertainment",ARTE [Geo-blocked]
 https://secure-272717.tatnet.app/artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 
 #EXTINF:-1 tvg-name="Deluxe Music" group-title="Music",Deluxe Music
@@ -6194,10 +6194,10 @@ https://secure-272717.tatnet.app/catchup.videoline.ru/cinema/playlist.m3u8
 #EXTINF:-1 tvg-name="DTR Music 1" group-title="IPTV",DTR Music 1
 https://secure-272717.tatnet.app/kino-stream.online/hls/DTRMUSIC1.m3u8
 
-#EXTINF:-1 tvg-name="DTR Zona 1" group-title="Entertainment",DTR Zona 1
+#EXTINF:-1 tvg-name="DTR Zona 1" group-title="IPTV",DTR Zona 1
 https://secure-272717.tatnet.app/kino-stream.online/hls/DTRZONA1.m3u8
 
-#EXTINF:-1 tvg-name="DTR Zona 2" group-title="Entertainment",DTR Zona 2
+#EXTINF:-1 tvg-name="DTR Zona 2" group-title="IPTV",DTR Zona 2
 https://secure-272717.tatnet.app/kino-stream.online/hls/DTRZONA2.m3u8
 
 #EXTINF:-1 tvg-name="FON Music" group-title="Music",FON Music
@@ -43499,7 +43499,7 @@ https://secure-272717.tatnet.app/de1.dstv.cx/RTSMuzika/index.m3u8
 #EXTINF:-1 tvg-name="BelRos" group-title="IPTV",BelRos
 https://secure-272717.tatnet.app/souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Euronews Russian" group-title="News",Euronews Russian
+#EXTINF:-1 tvg-name="Euronews Russian" group-title="IPTV",Euronews Russian
 https://secure-272717.tatnet.app/cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 
 #EXTINF:-1 tvg-name="Magnificent Movies Network" group-title="Movies;Shop",Magnificent Movies Network
@@ -45959,7 +45959,7 @@ https://secure-272717.tatnet.app/adpnetworkhd-cmd.github.io/iptv/NutaTV.m3u8
 #EXTINF:-1 tvg-name="Channel 8 (576p)" group-title="IPTV",Channel 8 (576p)
 https://secure-272717.tatnet.app/45.11.139.43:8555/8kanal/index.m3u8
 
-#EXTINF:-1 tvg-name="Fon Music" group-title="Music",Fon Music
+#EXTINF:-1 tvg-name="Fon Music" group-title="IPTV",Fon Music
 https://secure-272717.tatnet.app/hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8
 
 #EXTINF:-1 tvg-name="Istoriya (576p)" group-title="Documentary",Istoriya (576p)
@@ -46798,6 +46798,81 @@ https://secure-272717.tatnet.app/88.212.15.19/live/test_sport_2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
 https://secure-272717.tatnet.app/109.239.208.82:80/tochka/index.m3u8
+
+#EXTINF:-1 tvg-name="Domashniy (576p)" group-title="IPTV",Domashniy (576p)
+https://secure-272717.tatnet.app/94.230.129.31:8080/Domashnii/index.m3u8
+
+#EXTINF:-1 tvg-name="ICTV" group-title="Entertainment",ICTV
+https://secure-272717.tatnet.app/15.204.53.12:80/ictv/index.m3u8
+
+#EXTINF:-1 tvg-name="Rybalka" group-title="Outdoor",Rybalka
+https://secure-272717.tatnet.app/dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Suspilne. Kyiv (360p)" group-title="General",Suspilne. Kyiv (360p)
+https://secure-272717.tatnet.app/live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/nstu-kyiv/master.m3u8
+
+#EXTINF:-1 tvg-name="Belarus-1" group-title="General",Belarus-1
+https://secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Belarus-4 Vitebsk" group-title="General",Belarus-4 Vitebsk
+https://secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/vtv/bt4.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BabyTV Spain" group-title="Kids",BabyTV Spain
+https://secure-272717.tatnet.app/179.60.51.134:8888/BABY-TV/index.m3u8
+
+#EXTINF:-1 tvg-name="Gol" group-title="Sports",Gol
+https://secure-272717.tatnet.app/23.237.104.106:8080/USA_GOLTV/index.m3u8
+
+#EXTINF:-1 tvg-name="Agrigento TV" group-title="General",Agrigento TV
+https://secure-272717.tatnet.app/media2021.rtvweb.com/tva/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Hit FM" group-title="Music",Hit FM
+https://secure-272717.tatnet.app/hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NTV Mir (576p)" group-title="Culture",NTV Mir (576p)
+https://secure-272717.tatnet.app/5.188.159.128:8070/ntvmir_TV/index.m3u8
+
+#EXTINF:-1 tvg-name="TSV" group-title="General",TSV
+https://secure-272717.tatnet.app/tsv.md/stream/hls/tsv-online/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC News [Geo-blocked]" group-title="News",BBC News [Geo-blocked]
+https://secure-272717.tatnet.app/pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BBC One London [Geo-blocked]" group-title="General",BBC One London [Geo-blocked]
+https://secure-272717.tatnet.app/vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_hd_abr_v1.mpd
+
+#EXTINF:-1 tvg-name="BBC Scotland [Geo-blocked]" group-title="General",BBC Scotland [Geo-blocked]
+https://secure-272717.tatnet.app/vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/iptv_hd_abr_v1.mpd
+
+#EXTINF:-1 tvg-name="BBC Two" group-title="General",BBC Two
+https://secure-272717.tatnet.app/193.46.58.239:8080/BBCTwoHD/index.m3u8
+
+#EXTINF:-1 tvg-name="Mercy TV" group-title="Religious",Mercy TV
+https://secure-272717.tatnet.app/cdn-cloudfront.eu-central-1.prod.ingest.aws-infra.dacast.com/live/bff8bd53-ee89-2c76-6a51-95a0003f7d96/master.m3u8
+
+#EXTINF:-1 tvg-name="Vantage Classic" group-title="Music",Vantage Classic
+https://secure-272717.tatnet.app/hls.vantagetv.ee/vclassic_stream/index.m3u8
+
+#EXTINF:-1 tvg-name="Trace Urban Africa Franco" group-title="Music",Trace Urban Africa Franco
+https://secure-272717.tatnet.app/channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8
+
+#EXTINF:-1 tvg-name="Trace Urban Caribbean And Indian Ocean" group-title="Music",Trace Urban Caribbean And Indian Ocean
+https://secure-272717.tatnet.app/channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8
+
+#EXTINF:-1 tvg-name="Trace Urban Southern Africa" group-title="Music",Trace Urban Southern Africa
+https://secure-272717.tatnet.app/channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8
+
+#EXTINF:-1 tvg-name="TVR Info" group-title="News",TVR Info
+https://secure-272717.tatnet.app/tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TVR Sport" group-title="General;Sports",TVR Sport
+https://secure-272717.tatnet.app/tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Kids",Disney Channel" group-title="Kids",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Kids",Disney Channel
+https://secure-272717.tatnet.app/82.78.243.219:45739/play/a00y/index.m3u8
+
+#EXTINF:-1 tvg-name="Power Hit Radio (576p)" group-title="Music",Power Hit Radio (576p)
+https://secure-272717.tatnet.app/cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8
 
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="IPTV",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8
@@ -53858,19 +53933,19 @@ https://secure-272717.tatnet.app/31.148.48.15/English_club_TV_HD/index.m3u8
 #EXTINF:-1 tvg-name="Euronews Russian (576p)" group-title="IPTV",Euronews Russian (576p)
 https://secure-272717.tatnet.app/tmptv.sunduk.tv/CH31/index.m3u8
 
-#EXTINF:-1 tvg-name="Europa Plus TV" group-title="Music",Europa Plus TV
+#EXTINF:-1 tvg-name="Europa Plus TV" group-title="IPTV",Europa Plus TV
 https://secure-272717.tatnet.app/31.148.48.15/Europa_Plus_HD/index.m3u8
 
 #EXTINF:-1 tvg-name="Evrokino (576p)" group-title="IPTV",Evrokino (576p)
 https://secure-272717.tatnet.app/tmptv.sunduk.tv/CH163/index.m3u8
 
-#EXTINF:-1 tvg-name="FAN" group-title="Animation;Movies",FAN
+#EXTINF:-1 tvg-name="FAN" group-title="IPTV",FAN
 https://secure-272717.tatnet.app/31.148.48.15/Fan/index.m3u8
 
-#EXTINF:-1 tvg-name="FASHION & LIFESTYLE" group-title="Lifestyle",FASHION & LIFESTYLE
+#EXTINF:-1 tvg-name="FASHION & LIFESTYLE" group-title="IPTV",FASHION & LIFESTYLE
 https://secure-272717.tatnet.app/31.148.48.15/Fashion_One_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="FoodTime" group-title="IPTV",FoodTime
+#EXTINF:-1 tvg-name="FoodTime" group-title="Cooking",FoodTime
 https://secure-272717.tatnet.app/31.148.48.15/Eda_Premium_HD/index.m3u8
 
 #EXTINF:-1 tvg-name="Glazami Turista (576i)" group-title="Travel",Glazami Turista (576i)

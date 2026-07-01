@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-30 23:45:12
-# Всего каналов: 18312
-# Новых за сессию: 0
+# Обновлено: 2026-07-01 01:40:18
+# Всего каналов: 18337
+# Новых за сессию: 25
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music
-# Каналов: 743
-# Обновлено: 2026-06-30 23:45:12
+# Каналов: 747
+# Обновлено: 2026-07-01 01:40:19
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Deluxe Music" group-title="Music",Deluxe Music
@@ -2104,9 +2104,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.streamhispanatv.ne
 #EXTINF:-1 tvg-name="Nuta TV (576p)" group-title="Music",Nuta TV (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/adpnetworkhd-cmd.github.io/iptv/NutaTV.m3u8
 
-#EXTINF:-1 tvg-name="Fon Music" group-title="Music",Fon Music
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8
-
 #EXTINF:-1 tvg-name="Maidan (576p)" group-title="Music",Maidan (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls127.freeott.top:8080/Maydan/video.m3u8
 
@@ -2151,6 +2148,24 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/radiolive.trm.md:8001/
 
 #EXTINF:-1 tvg-name="360TuneBox" group-title="Music",360TuneBox
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Hit FM" group-title="Music",Hit FM
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Vantage Classic" group-title="Music",Vantage Classic
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls.vantagetv.ee/vclassic_stream/index.m3u8
+
+#EXTINF:-1 tvg-name="Trace Urban Africa Franco" group-title="Music",Trace Urban Africa Franco
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8
+
+#EXTINF:-1 tvg-name="Trace Urban Caribbean And Indian Ocean" group-title="Music",Trace Urban Caribbean And Indian Ocean
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8
+
+#EXTINF:-1 tvg-name="Trace Urban Southern Africa" group-title="Music",Trace Urban Southern Africa
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8
+
+#EXTINF:-1 tvg-name="Power Hit Radio (576p)" group-title="Music",Power Hit Radio (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8
 
 #EXTINF:-1 tvg-name="City TV (576p)" group-title="Music",City TV (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.city.bg/play/tshls/citytv/index.m3u8
@@ -2217,9 +2232,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.m2.tv/hls3/stream
 
 #EXTINF:-1 tvg-name="Муз ТВ (450p) [Geo-blocked]" group-title="Music",Муз ТВ (450p) [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-
-#EXTINF:-1 tvg-name="Europa Plus TV" group-title="Music",Europa Plus TV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Europa_Plus_HD/index.m3u8
 
 #EXTINF:-1 tvg-name="Deluxe Lounge" group-title="Music",Deluxe Lounge
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/stvp-CHAJ0500413A

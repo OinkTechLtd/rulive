@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-30 23:45:12
-# Всего каналов: 18312
-# Новых за сессию: 0
+# Обновлено: 2026-07-01 01:40:18
+# Всего каналов: 18337
+# Новых за сессию: 25
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Documentary;Entertainment;General;Movies;Music
 # Каналов: 1
-# Обновлено: 2026-06-30 23:45:12
+# Обновлено: 2026-07-01 01:40:19
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Alterna TV" group-title="Culture;Documentary;Entertainment;General;Movies;Music",Alterna TV
@@ -335,14 +335,6 @@ https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
 #EXTINF:-1 tvg-name="Кубань 24 [Geo-blocked]" group-title="General",Кубань 24 [Geo-blocked]
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
-#EXTINF:-1 tvg-name="DTR Zona 1" group-title="Entertainment",DTR Zona 1
-https://kino-stream.online/hls/DTRZONA1.m3u8
-#EXTINF:-1 tvg-name="DTR Zona 2" group-title="Entertainment",DTR Zona 2
-https://kino-stream.online/hls/DTRZONA2.m3u8
-#EXTINF:-1 tvg-name="Europa Plus TV" group-title="Music",Europa Plus TV
-http://31.148.48.15/Europa_Plus_HD/index.m3u8
-#EXTINF:-1 tvg-name="FAN" group-title="Animation;Movies",FAN
-http://31.148.48.15/Fan/index.m3u8
 #EXTINF:-1 tvg-name="FON Music" group-title="Music",FON Music
 https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
 #EXTINF:-1 tvg-name="L" group-title="Documentary",L
@@ -10343,3 +10335,19 @@ https://twitch-m3u8.bastypro112.workers.dev/radiosangabrielbolivia/index.m3u8
 https://edge.enhdtv.com/8214/index.m3u8
 #EXTINF:-1 tvg-name="Unetev" group-title="General",Unetev
 https://v2.tustreaming.cl/unetev/index.m3u8
+#EXTINF:-1 tvg-name="Suspilne. Kyiv (360p)" group-title="General",Suspilne. Kyiv (360p)
+https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/nstu-kyiv/master.m3u8
+#EXTINF:-1 tvg-name="Agrigento TV" group-title="General",Agrigento TV
+https://media2021.rtvweb.com/tva/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Hit FM" group-title="Music",Hit FM
+https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
+#EXTINF:-1 tvg-name="TSV" group-title="General",TSV
+https://tsv.md/stream/hls/tsv-online/index.m3u8
+#EXTINF:-1 tvg-name="BBC Scotland [Geo-blocked]" group-title="General",BBC Scotland [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-name="Trace Urban Africa Franco" group-title="Music",Trace Urban Africa Franco
+https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8
+#EXTINF:-1 tvg-name="Trace Urban Caribbean And Indian Ocean" group-title="Music",Trace Urban Caribbean And Indian Ocean
+https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8
+#EXTINF:-1 tvg-name="Trace Urban Southern Africa" group-title="Music",Trace Urban Southern Africa
+https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8

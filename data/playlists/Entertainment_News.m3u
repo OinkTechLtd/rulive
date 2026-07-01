@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-30 23:45:12
-# Всего каналов: 18312
-# Новых за сессию: 0
+# Обновлено: 2026-07-01 01:40:18
+# Всего каналов: 18337
+# Новых за сессию: 25
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;News
 # Каналов: 7
-# Обновлено: 2026-06-30 23:45:12
+# Обновлено: 2026-07-01 01:40:19
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Vergina TV" group-title="Entertainment;News",Vergina TV
@@ -225,10 +225,6 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="ТВ-3 (540p) [Geo-blocked]" group-title="Entertainment",ТВ-3 (540p) [Geo-blocked]
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:-1 tvg-name="DTR Zona 1" group-title="Entertainment",DTR Zona 1
-https://kino-stream.online/hls/DTRZONA1.m3u8
-#EXTINF:-1 tvg-name="DTR Zona 2" group-title="Entertainment",DTR Zona 2
-https://kino-stream.online/hls/DTRZONA2.m3u8
 #EXTINF:-1 tvg-name="24KZ" group-title="News",24KZ
 https://tvcdn01.oktv.kz/tv/24kz/index.m3u8
 #EXTINF:-1 tvg-name="100% News (576p)" group-title="Business;News",100% News (576p)
@@ -3519,8 +3515,6 @@ http://streaming.multicontenidos.cl:8081/live/canalfeliz/playlist.m3u8
 https://v1.tustreaming.cl/diarioelcentrotv/index.m3u8
 #EXTINF:-1 tvg-name="La Melinkana TV" group-title="Entertainment",La Melinkana TV
 https://v1.tustreaming.cl/melinkana/index.m3u8
-#EXTINF:-1 tvg-name="Euronews Russian" group-title="News",Euronews Russian
-https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 #EXTINF:-1 tvg-name="Pluto TV ANIME GO!" group-title="Entertainment",Pluto TV ANIME GO!
 https://jmp2.uk/plu-691b3669c48674840c3b832a.m3u8
 #EXTINF:-1 tvg-name="Africanews English" group-title="News",Africanews English
@@ -3759,3 +3753,5 @@ https://jmp2.uk/plu-622f498d119b4c000719c0b7.m3u8
 https://jmp2.uk/plu-698ddf5a8c21a5f2d64c14a8.m3u8
 #EXTINF:-1 tvg-name="KOOL TV" group-title="Entertainment",KOOL TV
 https://twitch-m3u8.bastypro112.workers.dev/kooltvlive/index.m3u8
+#EXTINF:-1 tvg-name="BBC News [Geo-blocked]" group-title="News",BBC News [Geo-blocked]
+https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-06-30 23:45:12
-# Всего каналов: 18312
-# Новых за сессию: 0
+# Обновлено: 2026-07-01 01:40:18
+# Всего каналов: 18337
+# Новых за сессию: 25
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;News
 # Каналов: 17
-# Обновлено: 2026-06-30 23:45:12
+# Обновлено: 2026-07-01 01:40:19
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Сочи 24" group-title="General;News",Сочи 24
@@ -6863,8 +6863,6 @@ https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8
 https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8
 #EXTINF:-1 tvg-name="Telelima" group-title="General",Telelima
 https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8
-#EXTINF:-1 tvg-name="Euronews Russian" group-title="News",Euronews Russian
-https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 #EXTINF:-1 tvg-name="Africanews English" group-title="News",Africanews English
 https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
 #EXTINF:-1 tvg-name="Willax TV" group-title="General",Willax TV
@@ -7373,3 +7371,13 @@ https://twitch-m3u8.bastypro112.workers.dev/radiosangabrielbolivia/index.m3u8
 https://edge.enhdtv.com/8214/index.m3u8
 #EXTINF:-1 tvg-name="Unetev" group-title="General",Unetev
 https://v2.tustreaming.cl/unetev/index.m3u8
+#EXTINF:-1 tvg-name="Suspilne. Kyiv (360p)" group-title="General",Suspilne. Kyiv (360p)
+https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/nstu-kyiv/master.m3u8
+#EXTINF:-1 tvg-name="Agrigento TV" group-title="General",Agrigento TV
+https://media2021.rtvweb.com/tva/live/playlist.m3u8
+#EXTINF:-1 tvg-name="TSV" group-title="General",TSV
+https://tsv.md/stream/hls/tsv-online/index.m3u8
+#EXTINF:-1 tvg-name="BBC News [Geo-blocked]" group-title="News",BBC News [Geo-blocked]
+https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Scotland [Geo-blocked]" group-title="General",BBC Scotland [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/iptv_hd_abr_v1.mpd
