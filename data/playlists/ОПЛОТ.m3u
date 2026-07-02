@@ -1,14 +1,17 @@
 #EXTM3U
-# Обновлено: 2026-07-02 21:44:06
-# Всего каналов: 18435
-# Новых за сессию: 0
+# Обновлено: 2026-07-02 22:06:42
+# Всего каналов: 18819
+# Новых за сессию: 384
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: ОПЛОТ
-# Каналов: 9
-# Обновлено: 2026-07-02 21:44:06
+# Каналов: 22
+# Обновлено: 2026-07-02 22:06:43
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="Белгород 24" group-title="ОПЛОТ",Белгород 24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 
 #EXTINF:-1 tvg-name="НТС Севастополь" group-title="ОПЛОТ",НТС Севастополь
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
@@ -18,9 +21,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/live2.mediacdn.ru/sr1/
 
 #EXTINF:-1 tvg-name="ТВ Харьков Z" group-title="ОПЛОТ",ТВ Харьков Z
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/212.193.53.254/app/potok/playlist.m3u8
-
-#EXTINF:-1 tvg-name="News Front TV" group-title="ОПЛОТ",News Front TV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.2kita.com/stream/index.m3u8
 
 #EXTINF:-1 tvg-name="Брянская Губерния" group-title="ОПЛОТ",Брянская Губерния
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8
@@ -33,6 +33,45 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-vrzh-htlive.cdn.
 
 #EXTINF:-1 tvg-name="Краснодар" group-title="ОПЛОТ",Краснодар
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RTД" group-title="ОПЛОТ",RTД
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
+
+#EXTINF:-1 tvg-name="Союз" group-title="ОПЛОТ",Союз
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Радость Моя" group-title="ОПЛОТ",Радость Моя
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+
+#EXTINF:-1 tvg-name="Муз Союз" group-title="ОПЛОТ",Муз Союз
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ЕГЭ ТВ" group-title="ОПЛОТ",ЕГЭ ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.streams.baikal-telecom.net:8080/RT_DOC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="UNIVER" group-title="ОПЛОТ",UNIVER
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Просвещение" group-title="ОПЛОТ",Просвещение
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-name="НТС" group-title="ОПЛОТ",НТС
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmi3y-tv.ru/hls/region/CH_NTSHD_SVTPL.m3u8
+
+#EXTINF:-1 tvg-name="Легендарный 24" group-title="ОПЛОТ",Легендарный 24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmi3y-tv.ru/hls/region/CH_LEGENDARNY24HD_SVTPL.m3u8
+
+#EXTINF:-1 tvg-name="Симферополь 24" group-title="ОПЛОТ",Симферополь 24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmi3y-tv.ru/hls/region/CH_SIMFEROPOL24HD_SMRPL.m3u8
+
+#EXTINF:-1 tvg-name="RTД" group-title="ОПЛОТ",RTД
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmi3y-tv.ru/hls/CH_RTDHD.m3u8
+
+#EXTINF:-1 tvg-name="Соловьев Live" group-title="ОПЛОТ",Соловьев Live
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
+
+#EXTINF:-1 tvg-name="Кубань 24 (Краснодар)" group-title="ОПЛОТ",Кубань 24 (Краснодар)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 
 #EXTINF:-1 tvg-name="Радио Харьков Z" group-title="ОПЛОТ",Радио Харьков Z
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/node1.craftradio.ru:8000/215_55AE795B

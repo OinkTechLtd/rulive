@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-02 21:44:06
-# Всего каналов: 18435
-# Новых за сессию: 0
+# Обновлено: 2026-07-02 22:06:42
+# Всего каналов: 18819
+# Новых за сессию: 384
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Movies;Series;Sports
 # Каналов: 2
-# Обновлено: 2026-07-02 21:44:06
+# Обновлено: 2026-07-02 22:06:43
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="USA Network East" group-title="Comedy;Movies;Series;Sports",USA Network East
@@ -22,8 +22,6 @@ https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="13 Teleseries" group-title="Series",13 Teleseries
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:-1 tvg-name="SuperTennis" group-title="Sports",SuperTennis
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1 tvg-name="MadeinBO TV" group-title="Sports",MadeinBO TV
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 #EXTINF:-1 tvg-name="TR Sport (480p)" group-title="Sports",TR Sport (480p)
@@ -94,8 +92,6 @@ https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 http://31.148.48.15/MGM_HD/index.m3u8
 #EXTINF:-1 tvg-name="KHL" group-title="Sports",KHL
 http://31.148.48.15/KHL_TV/index.m3u8
-#EXTINF:-1 tvg-name="312 Кино (406p)" group-title="Movies",312 Кино (406p)
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Movies",24 Hour Free Movies" group-title="Movies",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Movies",24 Hour Free Movies
 https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi
 #EXTINF:-1 tvg-name="27 TwentySeven [Geo-blocked]" group-title="Movies;Series",27 TwentySeven [Geo-blocked]
@@ -236,8 +232,6 @@ https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Bellator MMA" group-title="Sports",Bellator MMA
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
-#EXTINF:-1 tvg-name="Billiard TV" group-title="Sports",Billiard TV
-https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
 #EXTINF:-1 tvg-name="Canal do Inter" group-title="Sports",Canal do Inter
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:-1 tvg-name="CazeTV (1080i)" group-title="Sports",CazeTV (1080i)
@@ -260,8 +254,6 @@ https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 #EXTINF:-1 tvg-name="ČT Sport" group-title="Sports",ČT Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 tvg-name="DAZN Combat" group-title="Sports",DAZN Combat
-https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-name="DD Sports SD" group-title="Sports",DD Sports SD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-name="Đồng Nai 2 (480p)" group-title="Entertainment;Sports",Đồng Nai 2 (480p)
@@ -298,10 +290,6 @@ https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 http://tmptv.sunduk.tv/CH23/index.m3u8
 #EXTINF:-1 tvg-name="Russian Extreme (576p)" group-title="Sports",Russian Extreme (576p)
 http://tmptv.sunduk.tv/CH67/index.m3u8
-#EXTINF:-1 tvg-name="START Air" group-title="Movies",START Air
-https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
-#EXTINF:-1 tvg-name="START World" group-title="Movies",START World
-https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 tvg-name="TV 21 (576p)" group-title="Movies",TV 21 (576p)
 http://tmptv.sunduk.tv/CH145/index.m3u8
 #EXTINF:-1 tvg-name="viju TV1000 (576p)" group-title="Movies",viju TV1000 (576p)
@@ -354,10 +342,6 @@ https://cdn4.skygo.mn/live/disk1/Match_Planeta/HLSv3-FTA/Match_Planeta.m3u8
 http://31.148.48.15/Mir_Seriala/index.m3u8
 #EXTINF:-1 tvg-name="Новый Русский" group-title="Movies",Новый Русский
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
-#EXTINF:-1 tvg-name="НТВ Сериал (576p)" group-title="Series",НТВ Сериал (576p)
-https://cdn.ntv.ru/th_serial/playlist.m3u8
-#EXTINF:-1 tvg-name="НТВ Хит (576p)" group-title="Series",НТВ Хит (576p)
-https://cdn.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-name="Патриот (576i)" group-title="Movies",Патриот (576i)
 http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 tvg-name="Русский Бестселлер (576p)" group-title="Movies",Русский Бестселлер (576p)
@@ -402,8 +386,6 @@ https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df
 https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d
 #EXTINF:-1 tvg-name="СТАРТ Триумф" group-title="Sports",СТАРТ Триумф
 https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
-#EXTINF:-1 tvg-name="Твое ТВ Юмор" group-title="Comedy",Твое ТВ Юмор
-http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-name="Феникс плюс Кино (576p)" group-title="Movies",Феникс плюс Кино (576p)
 http://31.148.48.15/Feniks_plus_kino/index.m3u8
 #EXTINF:-1 tvg-name="Футбол" group-title="Sports",Футбол
@@ -416,8 +398,6 @@ http://89.254.128.5:22280/viasat_kino_action/index.m3u8
 https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="QazSport (480p) [Geo-blocked]" group-title="Sports",QazSport (480p) [Geo-blocked]
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
-#EXTINF:-1 tvg-name="30A Ridiculous TV" group-title="Comedy",30A Ridiculous TV
-https://30a-tv.com/feeds/720p/63.m3u8
 #EXTINF:-1 tvg-name="48 Hours" group-title="Series",48 Hours
 https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
 #EXTINF:-1 tvg-name="Acapulco Shore" group-title="Series",Acapulco Shore
@@ -1418,8 +1398,6 @@ https://pb-ffpxvjshv4rxx.akamaized.net/Dog_Whisperer_with_Cesar_Millan.m3u8
 https://amg00276-amg00276c2-rakuten-uk-3449.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Fail Army" group-title="Comedy",Fail Army
 https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-name="FIFA+" group-title="Sports",FIFA+
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-name="FIFA+ Women" group-title="Sports",FIFA+ Women
 https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-name="Film4" group-title="Movies",Film4
@@ -1990,6 +1968,8 @@ https://jmp2.uk/plu-5f1acd36779de70007a680d1.m3u8
 https://jmp2.uk/plu-64e87c6b28cec700088ceb55.m3u8
 #EXTINF:-1 tvg-name="Daria" group-title="Comedy",Daria
 https://jmp2.uk/plu-62d0895ebe7a970008785244.m3u8
+#EXTINF:-1 tvg-name="DAZN Combat" group-title="Sports",DAZN Combat
+https://jmp2.uk/plu-64df7ab4dfa32400083c517b.m3u8
 #EXTINF:-1 tvg-name="DAZN Combat (684p)" group-title="Sports",DAZN Combat (684p)
 https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
 #EXTINF:-1 tvg-name="DAZN Darts x Pluto TV" group-title="Sports",DAZN Darts x Pluto TV
@@ -2026,6 +2006,8 @@ https://jmp2.uk/plu-6790d6c7bc03978b9bfbfd44.m3u8
 https://jmp2.uk/plu-68ac5403de4a734954b5ab75.m3u8
 #EXTINF:-1 tvg-name="Feel Good Drama" group-title="Series",Feel Good Drama
 https://jmp2.uk/plu-65775af3b3801200084a3aa4.m3u8
+#EXTINF:-1 tvg-name="FIFA+" group-title="Sports",FIFA+
+https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8
 #EXTINF:-1 tvg-name="FOX Sports" group-title="Sports",FOX Sports
 https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
 #EXTINF:-1 tvg-name="Frasier" group-title="Series",Frasier
@@ -2130,8 +2112,6 @@ https://jmp2.uk/plu-6901d952ec12c3c759fdc7cd.m3u8
 https://jmp2.uk/plu-68921b2f4fa995eff24df6c8.m3u8
 #EXTINF:-1 tvg-name="NCIS: Los Angeles" group-title="Series",NCIS: Los Angeles
 https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8
-#EXTINF:-1 tvg-name="NHL Network" group-title="Sports",NHL Network
-https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon iCarly" group-title="Series",Nickelodeon iCarly
 https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
 #EXTINF:-1 tvg-name="NonStop Kung Fu" group-title="Movies",NonStop Kung Fu

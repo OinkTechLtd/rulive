@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-02 21:44:06
-# Всего каналов: 18435
-# Новых за сессию: 0
+# Обновлено: 2026-07-02 22:06:42
+# Всего каналов: 18819
+# Новых за сессию: 384
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;News;Shop
 # Каналов: 1
-# Обновлено: 2026-07-02 21:44:06
+# Обновлено: 2026-07-02 22:06:43
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Extra ProNews (576p)" group-title="Entertainment;News;Shop",Extra ProNews (576p)
@@ -329,8 +329,6 @@ https://tv.alterna.ar/stream/hls/live.m3u8
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-name="Đồng Nai 2 (480p)" group-title="Entertainment;Sports",Đồng Nai 2 (480p)
 http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="Leomax 24" group-title="Shop",Leomax 24
-https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 #EXTINF:-1 tvg-name="NSC+" group-title="Entertainment",NSC+
 https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8
 #EXTINF:-1 tvg-name="Pro100TV (576p)" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV (576p)
@@ -351,12 +349,8 @@ http://31.148.48.15/Zee_TV_Russia/index.m3u8
 http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
 #EXTINF:-1 tvg-name="Легендарный 24" group-title="News",Легендарный 24
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
-#EXTINF:-1 tvg-name="Магнат ТВ" group-title="Shop",Магнат ТВ
-https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 #EXTINF:-1 tvg-name="Миллет" group-title="News",Миллет
 https://live1.1tvcrimea.ru/milletlive.m3u8
-#EXTINF:-1 tvg-name="Мир 24" group-title="News",Мир 24
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-name="ОТВ Приморье" group-title="Entertainment",ОТВ Приморье
 https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Первый Республиканский" group-title="News",Первый Республиканский
@@ -3711,8 +3705,6 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fx.stream/playlist.m3u8
 https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment;Kids",Veronica / Disney Jr." group-title="Entertainment;Kids",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment;Kids",Veronica / Disney Jr.
 http://86.87.15.10:8003/play/a01x/index.m3u8
-#EXTINF:-1 tvg-name="Home Shopping Russia (576p)" group-title="Shop",Home Shopping Russia (576p)
-https://moymir.ru/hls/onair.m3u8
 #EXTINF:-1 tvg-name="BET Her" group-title="Entertainment",BET Her
 http://41.205.93.154/BETHER/index.m3u8
 #EXTINF:-1 tvg-name="GetTV" group-title="Entertainment",GetTV

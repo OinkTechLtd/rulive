@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-02 21:44:06
-# Всего каналов: 18435
-# Новых за сессию: 0
+# Обновлено: 2026-07-02 22:06:42
+# Всего каналов: 18819
+# Новых за сессию: 384
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Sports
 # Каналов: 2
-# Обновлено: 2026-07-02 21:44:06
+# Обновлено: 2026-07-02 22:06:43
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="TVR Sport" group-title="General;Sports",TVR Sport
@@ -60,8 +60,6 @@ https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-name="Zagros" group-title="General",Zagros
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="SuperTennis" group-title="Sports",SuperTennis
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1 tvg-name="Deejay TV" group-title="General",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-name="111 TV" group-title="General",111 TV
@@ -206,8 +204,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
 #EXTINF:-1 tvg-name="Лен ТВ 24 (540p) [Geo-blocked]" group-title="General",Лен ТВ 24 (540p) [Geo-blocked]
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
-#EXTINF:-1 tvg-name="Кубань 24 [Geo-blocked]" group-title="General",Кубань 24 [Geo-blocked]
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 #EXTINF:-1 tvg-name="KHL" group-title="Sports",KHL
 http://31.148.48.15/KHL_TV/index.m3u8
 #EXTINF:-1 tvg-name="ARTN TV" group-title="General",ARTN TV
@@ -278,8 +274,6 @@ https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Bellator MMA" group-title="Sports",Bellator MMA
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
-#EXTINF:-1 tvg-name="Billiard TV" group-title="Sports",Billiard TV
-https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
 #EXTINF:-1 tvg-name="Canal do Inter" group-title="Sports",Canal do Inter
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:-1 tvg-name="CazeTV (1080i)" group-title="Sports",CazeTV (1080i)
@@ -302,8 +296,6 @@ https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 #EXTINF:-1 tvg-name="ČT Sport" group-title="Sports",ČT Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 tvg-name="DAZN Combat" group-title="Sports",DAZN Combat
-https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-name="DD Sports SD" group-title="Sports",DD Sports SD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-name="Đồng Nai 2 (480p)" group-title="Entertainment;Sports",Đồng Nai 2 (480p)
@@ -352,8 +344,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 tvg-name="Башкортостан 24" group-title="General",Башкортостан 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
-#EXTINF:-1 tvg-name="Белгород 24" group-title="General",Белгород 24
-https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 #EXTINF:-1 tvg-name="Бокс ТВ" group-title="Sports",Бокс ТВ
 http://31.148.48.15/Boks_TV/index.m3u8
 #EXTINF:-1 tvg-name="Восток 24 (Владивосток)" group-title="General",Восток 24 (Владивосток)
@@ -378,8 +368,6 @@ http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 #EXTINF:-1 tvg-name="Курай (Уфа) (576p)" group-title="General",Курай (Уфа) (576p)
 https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
-#EXTINF:-1 tvg-name="ЛДПР ТВ" group-title="General",ЛДПР ТВ
-http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Луганск 24" group-title="General",Луганск 24
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
 #EXTINF:-1 tvg-name="Луч" group-title="General",Луч
@@ -418,12 +406,8 @@ https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Осетия Ирыстон" group-title="General",Осетия Ирыстон
 https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8
-#EXTINF:-1 tvg-name="ОСН" group-title="General",ОСН
-http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1 tvg-name="Первый канал" group-title="General",Первый канал
 http://31.148.48.15/Pervii_kanal_HD/index.m3u8
-#EXTINF:-1 tvg-name="Первый Крымский" group-title="General",Первый Крымский
-https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1 tvg-name="Первый Ярославский" group-title="General",Первый Ярославский
 https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
 #EXTINF:-1 tvg-name="Россия 1" group-title="General",Россия 1
@@ -2586,8 +2570,6 @@ http://69.64.57.208/equinoxtv/playlist.m3u8
 https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8
 #EXTINF:-1 tvg-name="Faraja Television" group-title="General",Faraja Television
 https://panel.freedomflixtv.org:3868/hybrid/play.m3u8
-#EXTINF:-1 tvg-name="FIFA+" group-title="Sports",FIFA+
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-name="FIFA+ Women" group-title="Sports",FIFA+ Women
 https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-name="Fish TV" group-title="General",Fish TV
@@ -4358,6 +4340,8 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Daru TV" group-title="General",Daru TV
 https://5cd03f21c7193.streamlock.net/darutv/darutvlive/playlist.m3u8
+#EXTINF:-1 tvg-name="DAZN Combat" group-title="Sports",DAZN Combat
+https://jmp2.uk/plu-64df7ab4dfa32400083c517b.m3u8
 #EXTINF:-1 tvg-name="DAZN Combat (684p)" group-title="Sports",DAZN Combat (684p)
 https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
 #EXTINF:-1 tvg-name="DAZN Darts x Pluto TV" group-title="Sports",DAZN Darts x Pluto TV
@@ -4462,6 +4446,8 @@ https://jmp2.uk/plu-68ac5403de4a734954b5ab75.m3u8
 http://185.81.240.65:15000/udp/233.233.233.39:12000
 #EXTINF:-1 tvg-name="Fehérvár TV (360p)" group-title="General",Fehérvár TV (360p)
 https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="FIFA+" group-title="Sports",FIFA+
+https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8
 #EXTINF:-1 tvg-name="FOX Sports" group-title="Sports",FOX Sports
 https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
 #EXTINF:-1 tvg-name="France 3 [Geo-Blocked]" group-title="General",France 3 [Geo-Blocked]
@@ -4796,8 +4782,6 @@ https://stream.smashmalta.com:25463/live/webplayer/livestream/22.m3u8
 https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8
 #EXTINF:-1 tvg-name="Nghệ An TV" group-title="General",Nghệ An TV
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
-#EXTINF:-1 tvg-name="NHL Network" group-title="Sports",NHL Network
-https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Nice TV" group-title="General",Nice TV
 http://43.252.18.195:5080/live/streams/Netflix.playlist.m3u8
 #EXTINF:-1 tvg-name="NOOS TV" group-title="General",NOOS TV
@@ -5294,14 +5278,6 @@ http://202.60.106.14:8080/214/playlist.m3u8
 https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8
 #EXTINF:-1 tvg-name="Zjarr TV (360p)" group-title="General",Zjarr TV (360p)
 https://zjarr.future.al/hls/playlist.m3u8
-#EXTINF:-1 tvg-name="НТВ +1 (576p)" group-title="General",НТВ +1 (576p)
-https://cdn.ntv.ru/ntv1/playlist.m3u8
-#EXTINF:-1 tvg-name="НТВ +2 (576p)" group-title="General",НТВ +2 (576p)
-https://cdn.ntv.ru/ntv2/playlist.m3u8
-#EXTINF:-1 tvg-name="НТВ +4 (576p)" group-title="General",НТВ +4 (576p)
-https://cdn.ntv.ru/ntv4/playlist.m3u8
-#EXTINF:-1 tvg-name="НТВ +7 (576p)" group-title="General",НТВ +7 (576p)
-https://cdn.ntv.ru/ntv7/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Өлзий ТВ" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Өлзий ТВ
 https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Соён Гэгээрүүлэгч" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Соён Гэгээрүүлэгч

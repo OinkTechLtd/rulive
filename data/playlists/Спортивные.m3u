@@ -1,14 +1,32 @@
 #EXTM3U
-# Обновлено: 2026-07-02 21:44:06
-# Всего каналов: 18435
-# Новых за сессию: 0
+# Обновлено: 2026-07-02 22:06:42
+# Всего каналов: 18819
+# Новых за сессию: 384
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Спортивные
-# Каналов: 9
-# Обновлено: 2026-07-02 21:44:06
+# Каналов: 91
+# Обновлено: 2026-07-02 22:06:43
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="DAZN Combat" group-title="Спортивные",DAZN Combat
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 tvg-name="FIFA+" group-title="Спортивные",FIFA+
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Fuel TV" group-title="Спортивные",Fuel TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+
+#EXTINF:-1 tvg-name="Glory Kickboxing" group-title="Спортивные",Glory Kickboxing
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NHL (Интересные моменты)" group-title="Спортивные",NHL (Интересные моменты)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/nhl-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="UFC Network" group-title="Спортивные",UFC Network
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Red Bull TV" group-title="Спортивные",Red Bull TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmitry-tv.ddns.net/hls/CH_REDBULLTVHD.m3u8
@@ -19,7 +37,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/193.169.178.29:8081/po
 #EXTINF:-1 tvg-name="555 Hunt Fishing TV" group-title="Спортивные",555 Hunt Fishing TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Astrahan.Ru Sport" group-title="Спортивные",Astrahan.Ru Sport
+#EXTINF:-1 tvg-name="Астрахань Спорт" group-title="Спортивные",Астрахань Спорт
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 
 #EXTINF:-1 tvg-name="E TV" group-title="Спортивные",E TV
@@ -36,4 +54,232 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/194.143.148.28:8080/Ma
 
 #EXTINF:-1 tvg-name="MMA-TV.com" group-title="Спортивные",MMA-TV.com
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+
+#EXTINF:-1 tvg-name="UFA TV" group-title="Спортивные",UFA TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
+
+#EXTINF:-1 tvg-name="Swerve Sports" group-title="Спортивные",Swerve Sports
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="БоксТВ" group-title="Спортивные",БоксТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/195.42.154.178/test1/index.m3u8
+
+#EXTINF:-1 tvg-name="БОКС ТВ" group-title="Спортивные",БОКС ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mhd128.iptv2022.com/p/EFG0Fhg1LtyO2IMLv5TF4w,1758747614/streaming/bokstv/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="M-1 Global" group-title="Спортивные",M-1 Global
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-10.ott.tricolor.tv/dtv/id524_MSKSG-PVR-1--M1_Global/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+
+#EXTINF:-1 tvg-name="Поединок" group-title="Спортивные",Поединок
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-08.ott.tricolor.tv/dtv/id629_MSKSG-PVR-1--Channel_LIVE2/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+
+#EXTINF:-1 tvg-name="Спортмастер ТВ" group-title="Спортивные",Спортмастер ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-09.ott.tricolor.tv/dtv/id628_MSKSG-PVR-1--Channel_LIVE1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+
+#EXTINF:-1 tvg-name="Сила" group-title="Спортивные",Сила
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-04.ott.tricolor.tv/dtv/id633_MSKSG-PVR-1--Channel_LIVE5/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+
+#EXTINF:-1 tvg-name="Eurosport" group-title="Спортивные",Eurosport
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/178.134.1.158:8081/eurosport/index.m3u8
+
+#EXTINF:-1 tvg-name="Старт" group-title="Спортивные",Старт
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-13.ott.tricolor.tv/dtv/id625_MSKSG-PVR-1--Start/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+
+#EXTINF:-1 tvg-name="Старт Триумф" group-title="Спортивные",Старт Триумф
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-15.ott.tricolor.tv/dtv/id902_MSKSG-PVR-1--Start_triumph/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+
+#EXTINF:-1 tvg-name="Тонус ТВ" group-title="Спортивные",Тонус ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-05.ott.tricolor.tv/dtv/id686_MSKSG-PVR-1--Tonus/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+
+#EXTINF:-1 tvg-name="Russian Extreme" group-title="Спортивные",Russian Extreme
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-06.ott.tricolor.tv/dtv/id294_MSKSG-PVR-1--HD_Russkiy_Extreme/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+
+#EXTINF:-1 tvg-name="Матч!" group-title="Спортивные",Матч!
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-mirror-01.ott.tricolor.tv/live/live/match/hls_enc/match.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+
+#EXTINF:-1 tvg-name="Матч! Боец" group-title="Спортивные",Матч! Боец
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/api.peers.tv/timeshift/boets/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTg3ODQ1ODAsImlhdCI6MTc1ODY5ODE4MCwiY2lkIjo2LCJ1aWQiOjk0NzMzNjI3OSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.X9BXdvBm96FOknyyRRYW904ZIcLm8ZqXlHI7FlgTKdA&offset=3
+
+#EXTINF:-1 tvg-name="Матч! Страна" group-title="Спортивные",Матч! Страна
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/api.peers.tv/timeshift/match_nash_sport/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTg3ODQ1ODAsImlhdCI6MTc1ODY5ODE4MCwiY2lkIjo2LCJ1aWQiOjk0NzMzNjI3OSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.X9BXdvBm96FOknyyRRYW904ZIcLm8ZqXlHI7FlgTKdA&offset=3
+
+#EXTINF:-1 tvg-name="Матч Премьер" group-title="Спортивные",Матч Премьер
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/193.33.88.172/nash-football/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Матч! Премьер" group-title="Спортивные",Матч! Премьер
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mhd128.iptv2022.com/p/Lu-wJFBuYPw8lLmQF9OZAQ,1758747614/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Матч Премьер" group-title="Спортивные",Матч Премьер
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/193.33.88.172/nash_football_hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Матч! Премьер" group-title="Спортивные",Матч! Премьер
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mhd128.iptv2022.com/p/KIA-Gnt4_JApa119BmNopQ,1758747614/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Матч Футбол 1" group-title="Спортивные",Матч Футбол 1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/193.33.88.172/football1_hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Матч! Футбол 1" group-title="Спортивные",Матч! Футбол 1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mhd128.iptv2022.com/p/4NmwaWJUpN88ThZJVC08Fg,1758747614/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Матч Футбол 2" group-title="Спортивные",Матч Футбол 2
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/193.33.88.172/football2_hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Матч! Футбол 2" group-title="Спортивные",Матч! Футбол 2
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mhd128.iptv2022.com/p/gSDDnlcw6nh2GO5G3kf1jA,1758747614/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Матч Футбол 3" group-title="Спортивные",Матч Футбол 3
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/193.33.88.172/football3_hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Матч! Футбол 3" group-title="Спортивные",Матч! Футбол 3
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mhd128.iptv2022.com/p/s5df4_eWc4KzMbGpDPYwAg,1758747614/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Сетанта Спорт 1" group-title="Спортивные",Сетанта Спорт 1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Сетанта Спорт 2" group-title="Спортивные",Сетанта Спорт 2
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Setanta Sports 1 Georgia" group-title="Спортивные",Setanta Sports 1 Georgia
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/94.43.1.138:8081/setanta1/index.m3u8
+
+#EXTINF:-1 tvg-name="Setanta Sports 2 Georgia" group-title="Спортивные",Setanta Sports 2 Georgia
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/94.43.1.138:8081/setanta2/index.m3u8
+
+#EXTINF:-1 tvg-name="Окко.Прайм Спорт" group-title="Спортивные",Окко.Прайм Спорт
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.221.213.254:8080/Okko/index.m3u8
+
+#EXTINF:-1 tvg-name="Inter TV" group-title="Спортивные",Inter TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+
+#EXTINF:-1 tvg-name="Real Madrid TV" group-title="Спортивные",Real Madrid TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+
+#EXTINF:-1 tvg-name="Viju+ Sport" group-title="Спортивные",Viju+ Sport
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/46.8.46.14/viasport/index.m3u8
+
+#EXTINF:-1 tvg-name="Мяч" group-title="Спортивные",Мяч
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-08.ott.tricolor.tv:443/dtv/id734_MSKSG-PVR-1--Futbolnyy_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+
+#EXTINF:-1 tvg-name="Футбол" group-title="Спортивные",Футбол
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/193.33.88.172/football/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Волейбол" group-title="Спортивные",Волейбол
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-19.ott.tricolor.tv/dtv/id1064_MSKSG-PVR-1--Volleyball_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+
+#EXTINF:-1 tvg-name="КХЛ" group-title="Спортивные",КХЛ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/api.peers.tv/timeshift/khl/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTg3ODQ1ODAsImlhdCI6MTc1ODY5ODE4MCwiY2lkIjo2LCJ1aWQiOjk0NzMzNjI3OSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.X9BXdvBm96FOknyyRRYW904ZIcLm8ZqXlHI7FlgTKdA&offset=3
+
+#EXTINF:-1 tvg-name="КХЛ ТВ" group-title="Спортивные",КХЛ ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/193.33.88.172/khl/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="KHL Prime" group-title="Спортивные",KHL Prime
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/193.33.88.172/khl_hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Хоккей ТВ" group-title="Спортивные",Хоккей ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-09.ott.tricolor.tv/dtv/id700_MSKSG-PVR-1--Hokeinii_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+
+#EXTINF:-1 tvg-name="ТВ Спорт" group-title="Спортивные",ТВ Спорт
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-06.ott.tricolor.tv/dtv/id733_MSKSG-PVR-1--Sportivnii/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+
+#EXTINF:-1 tvg-name="Большой эфир" group-title="Спортивные",Большой эфир
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-10.ott.tricolor.tv/dtv/id621_MSKSG-PVR-1--ChannelLIVE/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+
+#EXTINF:-1 tvg-name="Игра" group-title="Спортивные",Игра
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-06.ott.tricolor.tv/dtv/id632_MSKSG-PVR-1--Channel_LIVE4/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1OTMwNDUwMCwiaHdpZCI6IjE0MzhiZTY5MWYzZjkxNWNkN2E0NDA1ZmZiNDhjNTc1M2E2MDk1ZWVkM2IwMGZiMWFkZGM3OGVhZTAwYmU5YzEiLCJsYXN0X3JlcV9kYXRlIjoxNzU4Njk5NzAwLCJzZXNzaW9uX2lkIjoiYzAyZDcwYjlhNTg0M2E4ODYxYzNkZTcyNmY2MDgxZDUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.I4dUwTfD1GBg3RK-UB4O511C8umI4R3EiN1A2xh-BGQ
+
+#EXTINF:-1 tvg-name="Конный мир" group-title="Спортивные",Конный мир
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-01.bonus-tv.ru/kmir/mono.m3u8
+
+#EXTINF:-1 tvg-name="Horse and Country" group-title="Спортивные",Horse and Country
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/hnc-free-viewlift.amagi.tv/playlist720_lp.m3u8
+
+#EXTINF:-1 tvg-name="Беларусь 5" group-title="Спортивные",Беларусь 5
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b2660000_sleng.m3u8
+
+#EXTINF:-1 tvg-name="Беларусь 5 Интернет" group-title="Спортивные",Беларусь 5 Интернет
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/edge50.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/chunklist_b2660000_sleng.m3u8
+
+#EXTINF:-1 tvg-name="Мир баскетбола" group-title="Спортивные",Мир баскетбола
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/api.peers.tv/timeshift/mir_basketbola/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTg3ODQ1ODAsImlhdCI6MTc1ODY5ODE4MCwiY2lkIjo2LCJ1aWQiOjk0NzMzNjI3OSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.X9BXdvBm96FOknyyRRYW904ZIcLm8ZqXlHI7FlgTKdA&offset=3
+
+#EXTINF:-1 tvg-name="Extreme sports" group-title="Спортивные",Extreme sports
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.11.139.43:8555/extsport/index.m3u8
+
+#EXTINF:-1 tvg-name="TyC Sports [AR]" group-title="Спортивные",TyC Sports [AR]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/181.188.216.5:18000/play/a01e/index.m3u8
+
+#EXTINF:-1 tvg-name="Trace Sport Start [EN]" group-title="Спортивные",Trace Sport Start [EN]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports 2 [MX]" group-title="Спортивные",Fox Sports 2 [MX]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/23.237.104.106:8080/USA_FS2/index.m3u8
+
+#EXTINF:-1 tvg-name="UzSport" group-title="Спортивные",UzSport
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vs1759.vcdn.biz/519f03ad03fe54e0d772b98cf1be2087_megogo/live/hls/b/4000/u_sid/0/o/140085841/rsid/e31ac304-6b51-4858-8220-2426f7ba0679/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/213.230.87.109*asn/u_srvc/83576/u_did/web_A3X9Ki7uk5l71nHQLj1IQyMVwDVRnQLz/type.live/chunklist-sid8417518138264452615-b4000000-a72531.m3u8
+
+#EXTINF:-1 tvg-name="Turkmenistan Sport" group-title="Спортивные",Turkmenistan Sport
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/217.174.225.146/hls/ch004_720/index.m3u8
+
+#EXTINF:-1 tvg-name="A21 Network" group-title="Спортивные",A21 Network
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.a21network.ru/content/37909/index.m3u8
+
+#EXTINF:-1 tvg-name="Racing America" group-title="Спортивные",Racing America
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/livetv-fa.tubi.video/racing-america/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canal Motor" group-title="Спортивные",Canal Motor
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/digicom.hls.iptvdc.com/canalmotor/index.m3u8
+
+#EXTINF:-1 tvg-name="Red Bull TV" group-title="Спортивные",Red Bull TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Unknown [MX]" group-title="Спортивные",Sky Sports Unknown [MX]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/181.78.106.127:9000/play/ca030/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis Channel [US]" group-title="Спортивные",Tennis Channel [US]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ESPN" group-title="Спортивные",ESPN
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/181.188.216.5:18000/play/a0fb/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 2" group-title="Спортивные",ESPN 2
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/181.188.216.5:18000/play/a0oz/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 3" group-title="Спортивные",ESPN 3
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/181.188.216.5:18000/play/a0dm/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 4" group-title="Спортивные",ESPN 4
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/181.188.216.5:18000/play/a0am/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 5" group-title="Спортивные",ESPN 5
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/181.188.216.5:18000/play/a0gl/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 6" group-title="Спортивные",ESPN 6
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/181.188.216.5:18000/play/a0dn/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 7" group-title="Спортивные",ESPN 7
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/181.188.216.5:18000/play/a0i6/index.m3u8
+
+#EXTINF:-1 tvg-name="UNBEATEN" group-title="Спортивные",UNBEATEN
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/unbeaten-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Arena Sport 1 [SK]" group-title="Спортивные",Arena Sport 1 [SK]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/78.130.250.2:8023/play/a02o/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS XTRA" group-title="Спортивные",beIN SPORTS XTRA
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1 tvg-name="Dubai Sports 1" group-title="Спортивные",Dubai Sports 1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Dubai Sports 2" group-title="Спортивные",Dubai Sports 2
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-name="Dubai Sports 3" group-title="Спортивные",Dubai Sports 3
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-name="SuperTennis" group-title="Спортивные",SuperTennis
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+
+#EXTINF:-1 tvg-name="Billiard TV" group-title="Спортивные",Billiard TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
 

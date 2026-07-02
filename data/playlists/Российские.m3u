@@ -1,14 +1,38 @@
 #EXTM3U
-# Обновлено: 2026-07-02 21:44:06
-# Всего каналов: 18435
-# Новых за сессию: 0
+# Обновлено: 2026-07-02 22:06:42
+# Всего каналов: 18819
+# Новых за сессию: 384
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Российские
-# Каналов: 9
-# Обновлено: 2026-07-02 21:44:06
+# Каналов: 40
+# Обновлено: 2026-07-02 22:06:43
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="НТВ Право" group-title="Российские",НТВ Право
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.ntv.ru/th_pravo/playlist.m3u8
+
+#EXTINF:-1 tvg-name="НТВ Сериал" group-title="Российские",НТВ Сериал
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.ntv.ru/th_serial/playlist.m3u8
+
+#EXTINF:-1 tvg-name="НТВ Хит" group-title="Российские",НТВ Хит
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.ntv.ru/th_style/playlist.m3u8
+
+#EXTINF:-1 tvg-name="НТВ Стиль" group-title="Российские",НТВ Стиль
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.ntv.ru/th_hit/playlist.m3u8
+
+#EXTINF:-1 tvg-name="НТВ +1" group-title="Российские",НТВ +1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.ntv.ru/ntv1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="НТВ +2" group-title="Российские",НТВ +2
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.ntv.ru/ntv2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="НТВ +4" group-title="Российские",НТВ +4
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.ntv.ru/ntv4/playlist.m3u8
+
+#EXTINF:-1 tvg-name="НТВ +7" group-title="Российские",НТВ +7
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.ntv.ru/ntv7/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Россия 1" group-title="Российские",Россия 1
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1.m3u8
@@ -36,4 +60,73 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvid
 
 #EXTINF:-1 tvg-name="Россия 1 +8" group-title="Российские",Россия 1 +8
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
+
+#EXTINF:-1 tvg-name="Россия 1 +9" group-title="Российские",Россия 1 +9
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
+
+#EXTINF:-1 tvg-name="НТВ" group-title="Российские",НТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.ntv.ru/ntv0/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Мир 24" group-title="Российские",Мир 24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmi3y-tv.ru/hls/CH_MIR24.m3u8
+
+#EXTINF:-1 tvg-name="Мир 24" group-title="Российские",Мир 24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmi3y-tv.ru/hls/CH_MIR24HD.m3u8
+
+#EXTINF:-1 tvg-name="Мир" group-title="Российские",Мир
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmi3y-tv.ru/hls/T2/CH_MIRHD.m3u8
+
+#EXTINF:-1 tvg-name="Мир +2" group-title="Российские",Мир +2
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmi3y-tv.ru/hls/T2/CH_MIR_2.m3u8
+
+#EXTINF:-1 tvg-name="Мир +4" group-title="Российские",Мир +4
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmi3y-tv.ru/hls/T2/CH_MIR_4.m3u8
+
+#EXTINF:-1 tvg-name="Мир +7" group-title="Российские",Мир +7
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmi3y-tv.ru/hls/T2/CH_MIR_7.m3u8
+
+#EXTINF:-1 tvg-name="Звезда" group-title="Российские",Звезда
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmi3y-tv.ru/hls/T2/CH_ZVEZDAHD.m3u8
+
+#EXTINF:-1 tvg-name="Звезда +4" group-title="Российские",Звезда +4
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmi3y-tv.ru/hls/T2/CH_ZVEZDA_4.m3u8
+
+#EXTINF:-1 tvg-name="Звезда Плюс" group-title="Российские",Звезда Плюс
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/178.212.71.253:8000/play/130/index.m3u8
+
+#EXTINF:-1 tvg-name="НЕИЗВЕСТНАЯ РОССИЯ" group-title="Российские",НЕИЗВЕСТНАЯ РОССИЯ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmi3y-tv.ru/hls/CH_UNKNOWN_RUSSIA.m3u8
+
+#EXTINF:-1 tvg-name="НЕИЗВЕСТНАЯ РОССИЯ" group-title="Российские",НЕИЗВЕСТНАЯ РОССИЯ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmi3y-tv.ru/hls/CH_UNKNOWN_RUSSIAHD.m3u8
+
+#EXTINF:-1 tvg-name="РБК" group-title="Российские",РБК
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmi3y-tv.ru/hls/CH_RBK.m3u8
+
+#EXTINF:-1 tvg-name="РБК" group-title="Российские",РБК
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmi3y-tv.ru/hls/CH_RBKHD.m3u8
+
+#EXTINF:-1 tvg-name="Красная Линия" group-title="Российские",Красная Линия
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmi3y-tv.ru/hls/CH_REDLINE.m3u8
+
+#EXTINF:-1 tvg-name="РЖД ТВ" group-title="Российские",РЖД ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmi3y-tv.ru/hls/CH_RZHDTV.m3u8
+
+#EXTINF:-1 tvg-name="РЖД ТВ" group-title="Российские",РЖД ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmi3y-tv.ru/hls/CH_RZHDTVHD.m3u8
+
+#EXTINF:-1 tvg-name="Россия К" group-title="Российские",Россия К
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
+
+#EXTINF:-1 tvg-name="Россия К" group-title="Российские",Россия К
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
+
+#EXTINF:-1 tvg-name="РОССИЯ РТР 720" group-title="Российские",РОССИЯ РТР 720
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f.m3u8
+
+#EXTINF:-1 tvg-name="Россия 24" group-title="Российские",Россия 24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA24_3.m3u8
+
+#EXTINF:-1 tvg-name="МУЗ ТВ" group-title="Российские",МУЗ ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmi3y-tv.ru/hls/T2/CH_MUZTV_4.m3u8
 

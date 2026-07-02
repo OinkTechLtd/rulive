@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-02 21:44:06
-# Всего каналов: 18435
-# Новых за сессию: 0
+# Обновлено: 2026-07-02 22:06:42
+# Всего каналов: 18819
+# Новых за сессию: 384
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Auto;Outdoor;Sports
 # Каналов: 1
-# Обновлено: 2026-07-02 21:44:06
+# Обновлено: 2026-07-02 22:06:43
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="INTROUBLE" group-title="Auto;Outdoor;Sports",INTROUBLE
@@ -17,8 +17,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/amg00861-amg00861c6-st
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 #EXTINF:-1 tvg-name="Беларусь 5" group-title="Sports",Беларусь 5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="SuperTennis" group-title="Sports",SuperTennis
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1 tvg-name="MadeinBO TV" group-title="Sports",MadeinBO TV
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Peer TV Alto Adige (1280p)" group-title="Outdoor;Travel",Peer TV Alto Adige (1280p)
@@ -97,8 +95,6 @@ https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Bellator MMA" group-title="Sports",Bellator MMA
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
-#EXTINF:-1 tvg-name="Billiard TV" group-title="Sports",Billiard TV
-https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
 #EXTINF:-1 tvg-name="Canal do Inter" group-title="Sports",Canal do Inter
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:-1 tvg-name="CazeTV (1080i)" group-title="Sports",CazeTV (1080i)
@@ -121,8 +117,6 @@ https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 #EXTINF:-1 tvg-name="ČT Sport" group-title="Sports",ČT Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 tvg-name="DAZN Combat" group-title="Sports",DAZN Combat
-https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-name="DD Sports SD" group-title="Sports",DD Sports SD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-name="Đồng Nai 2 (480p)" group-title="Entertainment;Sports",Đồng Nai 2 (480p)
@@ -561,8 +555,6 @@ https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal Motor" group-title="Auto",Canal Motor
 https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:-1 tvg-name="FIFA+" group-title="Sports",FIFA+
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-name="FIFA+ Women" group-title="Sports",FIFA+ Women
 https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-name="FloHockey 24/7" group-title="Sports",FloHockey 24/7
@@ -767,6 +759,8 @@ https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8
 https://jmp2.uk/plu-685029cda1e091e16ff57fc8.m3u8
 #EXTINF:-1 tvg-name="Claro Sports" group-title="Sports",Claro Sports
 https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
+#EXTINF:-1 tvg-name="DAZN Combat" group-title="Sports",DAZN Combat
+https://jmp2.uk/plu-64df7ab4dfa32400083c517b.m3u8
 #EXTINF:-1 tvg-name="DAZN Combat (684p)" group-title="Sports",DAZN Combat (684p)
 https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
 #EXTINF:-1 tvg-name="DAZN Darts x Pluto TV" group-title="Sports",DAZN Darts x Pluto TV
@@ -777,12 +771,12 @@ https://jmp2.uk/plu-6683f7fe36a2f9000804940c.m3u8
 https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
 #EXTINF:-1 tvg-name="FCK Løvinderne" group-title="Sports",FCK Løvinderne
 https://jmp2.uk/plu-68ac5403de4a734954b5ab75.m3u8
+#EXTINF:-1 tvg-name="FIFA+" group-title="Sports",FIFA+
+https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8
 #EXTINF:-1 tvg-name="FOX Sports" group-title="Sports",FOX Sports
 https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
 #EXTINF:-1 tvg-name="Monster Jam" group-title="Outdoor;Sports",Monster Jam
 https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8
-#EXTINF:-1 tvg-name="NHL Network" group-title="Sports",NHL Network
-https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="PFL MMA" group-title="Sports",PFL MMA
 https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Adventure" group-title="Entertainment;Outdoor;Series",Pluto TV Adventure
