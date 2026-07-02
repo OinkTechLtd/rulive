@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-02 22:06:42
+# Обновлено: 2026-07-02 23:04:41
 # Всего каналов: 18819
-# Новых за сессию: 384
+# Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;Comedy
 # Каналов: 3
-# Обновлено: 2026-07-02 22:06:43
+# Обновлено: 2026-07-02 23:04:42
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="I Love Lucy" group-title="Classic;Comedy",I Love Lucy
@@ -41,6 +41,10 @@ http://31.148.48.15/KVN_TV/index.m3u8
 http://31.148.48.15/Nostalgiya/index.m3u8
 #EXTINF:-1 tvg-name="Смотрим 100% Классика" group-title="Classic;Movies",Смотрим 100% Классика
 https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
+#EXTINF:-1 tvg-name="Твое ТВ Юмор" group-title="Comedy",Твое ТВ Юмор
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:-1 tvg-name="30A Ridiculous TV" group-title="Comedy",30A Ridiculous TV
+https://30a-tv.com/feeds/720p/63.m3u8
 #EXTINF:-1 tvg-name="AFV en Español" group-title="Comedy",AFV en Español
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="America’s Funniest Home Videos" group-title="Comedy",America’s Funniest Home Videos
