@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-02 00:07:35
-# Всего каналов: 18340
-# Новых за сессию: 0
+# Обновлено: 2026-07-02 01:32:40
+# Всего каналов: 18435
+# Новых за сессию: 95
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;Music
 # Каналов: 1
-# Обновлено: 2026-07-02 00:07:35
+# Обновлено: 2026-07-02 01:32:41
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Persiana Nostalgia" group-title="Classic;Music",Persiana Nostalgia
@@ -1557,8 +1557,6 @@ https://tv1.ruidosfm.cl/ruidostv/stream.m3u8
 https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8
 #EXTINF:-1 tvg-name="TV Land" group-title="Classic",TV Land
 http://185.246.209.113/TVLandHD/index.m3u8
-#EXTINF:-1 tvg-name="MCM" group-title="Music",MCM
-http://rezofoot.tv/MCM/index.m3u8
 #EXTINF:-1 tvg-name="Clubbing TV UK" group-title="Music",Clubbing TV UK
 https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Music Box Classic" group-title="Music",Music Box Classic
@@ -1685,3 +1683,9 @@ https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8
 https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8
 #EXTINF:-1 tvg-name="Trace Urban Southern Africa" group-title="Music",Trace Urban Southern Africa
 https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8
+#EXTINF:-1 tvg-name="MTV Classic" group-title="Music",MTV Classic
+http://206.212.244.63/117/index.m3u8
+#EXTINF:-1 tvg-name="FM Plus TV" group-title="Music",FM Plus TV
+https://v2.tustreaming.cl/fmplus/index.m3u8
+#EXTINF:-1 tvg-name="Rewind TV" group-title="Music",Rewind TV
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8

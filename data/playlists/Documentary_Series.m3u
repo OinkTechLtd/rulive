@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-02 00:07:35
-# Всего каналов: 18340
-# Новых за сессию: 0
+# Обновлено: 2026-07-02 01:32:40
+# Всего каналов: 18435
+# Новых за сессию: 95
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Series
 # Каналов: 14
-# Обновлено: 2026-07-02 00:07:35
+# Обновлено: 2026-07-02 01:32:40
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Сити Эдем КиноДок" group-title="Documentary;Series",Сити Эдем КиноДок
@@ -1140,3 +1140,9 @@ https://jmp2.uk/plu-692edc78d52ea9e4858cf78f.m3u8
 https://jmp2.uk/plu-693ae48864476d678e9b6235.m3u8
 #EXTINF:-1 tvg-name="REV'N Action" group-title="Auto;Outdoor;Series;Sports",REV'N Action
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8
+#EXTINF:-1 tvg-name="History" group-title="Documentary",History
+http://206.212.244.63/91/index.m3u8
+#EXTINF:-1 tvg-name="Law & Crime" group-title="Documentary",Law & Crime
+http://206.212.244.63/102/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic West" group-title="Documentary",National Geographic West
+http://206.212.244.63/122/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-02 00:07:35
-# Всего каналов: 18340
-# Новых за сессию: 0
+# Обновлено: 2026-07-02 01:32:40
+# Всего каналов: 18435
+# Новых за сессию: 95
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Lifestyle;Travel
 # Каналов: 1
-# Обновлено: 2026-07-02 00:07:35
+# Обновлено: 2026-07-02 01:32:41
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Voyages & Saveurs" group-title="Lifestyle;Travel",Voyages & Saveurs
@@ -377,3 +377,11 @@ http://178.134.1.158:8081/vkus/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinelife/playlist.m3u8?ads.vf=rfg60ruFgWy
 #EXTINF:-1 tvg-name="Loupe" group-title="Lifestyle",Loupe
 https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja.m3u8
+#EXTINF:-1 tvg-name="Cleo TV" group-title="Lifestyle",Cleo TV
+http://206.212.244.63/38/index.m3u8
+#EXTINF:-1 tvg-name="Dog TV" group-title="Education;Lifestyle",Dog TV
+http://206.212.244.63/56/index.m3u8
+#EXTINF:-1 tvg-name="Great American Living" group-title="Lifestyle",Great American Living
+http://206.212.244.63/82/index.m3u8
+#EXTINF:-1 tvg-name="Turismo Travel TV" group-title="Travel",Turismo Travel TV
+https://stmv3.voxtvhd.com.br/turismotraveltv/turismotraveltv/playlist.m3u8

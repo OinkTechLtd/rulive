@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-02 00:07:35
-# Всего каналов: 18340
-# Новых за сессию: 0
+# Обновлено: 2026-07-02 01:32:40
+# Всего каналов: 18435
+# Новых за сессию: 95
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Series
 # Каналов: 1
-# Обновлено: 2026-07-02 00:07:35
+# Обновлено: 2026-07-02 01:32:41
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Super TV" group-title="General;Series",Super TV
@@ -6065,3 +6065,37 @@ https://media2021.rtvweb.com/tva/live/playlist.m3u8
 https://tsv.md/stream/hls/tsv-online/index.m3u8
 #EXTINF:-1 tvg-name="BBC Scotland [Geo-blocked]" group-title="General",BBC Scotland [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-name="KADN-TV 15.1" group-title="General",KADN-TV 15.1
+http://206.212.244.63/65/index.m3u8
+#EXTINF:-1 tvg-name="KLFY-TV 10.1" group-title="General",KLFY-TV 10.1
+http://206.212.244.63/33/index.m3u8
+#EXTINF:-1 tvg-name="O Dia TV" group-title="General",O Dia TV
+https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
+#EXTINF:-1 tvg-name="Antena TV" group-title="General",Antena TV
+https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
+#EXTINF:-1 tvg-name="CB TV Michoacan" group-title="General",CB TV Michoacan
+https://5ca3e84a76d30.streamlock.net/cbtv/videoc3b3t3v3/playlist.m3u8
+#EXTINF:-1 tvg-name="REN TV International (576p)" group-title="General",REN TV International (576p)
+http://178.134.1.158:8081/RENTV/index.m3u8
+#EXTINF:-1 tvg-name="3" group-title="General",3
+https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 30 Loncomilla" group-title="General",Canal 30 Loncomilla
+https://v1.tustreaming.cl/canal30loncomilla/index.m3u8
+#EXTINF:-1 tvg-name="Concepcion TV" group-title="General",Concepcion TV
+https://stream.blserver.cl/hls/ctv/index.m3u8
+#EXTINF:-1 tvg-name="Interactiva TV" group-title="General",Interactiva TV
+https://unlimited2-cl-isp.dps.live/radiointeractiva/radiointeractiva.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Maulevision" group-title="General",Maulevision
+https://v2.tustreaming.cl/maulevisiontv/index.m3u8
+#EXTINF:-1 tvg-name="Mundos Lacustres TV" group-title="General",Mundos Lacustres TV
+https://video.ipstream.cl:3710/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="Primitivos TV" group-title="General",Primitivos TV
+https://5eaccbab48461.streamlock.net:1936/heqhvtgebg/heqhvtgebg/playlist.m3u8
+#EXTINF:-1 tvg-name="Rial TV" group-title="General",Rial TV
+https://5eaccbab48461.streamlock.net:1936/8124/8124/playlist.m3u8
+#EXTINF:-1 tvg-name="San Nicolas TV" group-title="General",San Nicolas TV
+https://v4.tustreaming.cl/sannicolastv/index.m3u8
+#EXTINF:-1 tvg-name="Teleangol" group-title="General",Teleangol
+https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Villazon TV" group-title="General",Villazon TV
+https://twitch-m3u8.bastypro112.workers.dev/radioactiva919/index.m3u8

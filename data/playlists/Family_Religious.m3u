@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-02 00:07:35
-# Всего каналов: 18340
-# Новых за сессию: 0
+# Обновлено: 2026-07-02 01:32:40
+# Всего каналов: 18435
+# Новых за сессию: 95
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Family;Religious
 # Каналов: 1
-# Обновлено: 2026-07-02 00:07:35
+# Обновлено: 2026-07-02 01:32:41
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="TV Famille" group-title="Family;Religious",TV Famille
@@ -1639,3 +1639,9 @@ https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 https://live.relentlessinnovations.net:1936/imantv/imantv/playlist.m3u8
 #EXTINF:-1 tvg-name="KTO" group-title="Religious",KTO
 http://41.205.77.102/KTO/index.m3u8
+#EXTINF:-1 tvg-name="BET Gospel (576p)" group-title="Religious",BET Gospel (576p)
+http://206.212.244.63/17/index.m3u8
+#EXTINF:-1 tvg-name="Freeform West" group-title="Family",Freeform West
+http://206.212.244.63/70/index.m3u8
+#EXTINF:-1 tvg-name="Great American Family" group-title="Family",Great American Family
+http://206.212.244.63/81/index.m3u8

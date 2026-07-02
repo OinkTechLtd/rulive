@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-02 00:07:35
-# Всего каналов: 18340
-# Новых за сессию: 0
+# Обновлено: 2026-07-02 01:32:40
+# Всего каналов: 18435
+# Новых за сессию: 95
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Science
 # Каналов: 4
-# Обновлено: 2026-07-02 00:07:35
+# Обновлено: 2026-07-02 01:32:41
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="滁州科教 (450p)" group-title="Education;Science",滁州科教 (450p)
@@ -532,3 +532,7 @@ https://reflect-detroit-vod.cablecast.tv/live-3/live/stream-3/live.m3u8
 https://stv4.janus.cl/playlist/stream.m3u8
 #EXTINF:-1 tvg-name="Smithsonian Channel Selects" group-title="Science",Smithsonian Channel Selects
 https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
+#EXTINF:-1 tvg-name="Dog TV" group-title="Education;Lifestyle",Dog TV
+http://206.212.244.63/56/index.m3u8
+#EXTINF:-1 tvg-name="PBS Kids 24/7" group-title="Education;Kids",PBS Kids 24/7
+http://206.212.244.63/672/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-02 00:07:35
-# Всего каналов: 18340
-# Новых за сессию: 0
+# Обновлено: 2026-07-02 01:32:40
+# Всего каналов: 18435
+# Новых за сессию: 95
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Kids;Music
 # Каналов: 1
-# Обновлено: 2026-07-02 00:07:35
+# Обновлено: 2026-07-02 01:32:41
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="MCN6 Music Channel" group-title="Animation;Kids;Music",MCN6 Music Channel
@@ -2117,8 +2117,6 @@ http://86.87.15.10:8003/play/a01x/index.m3u8
 http://31.148.48.15/Radost_moya/index.m3u8
 #EXTINF:-1 tvg-name="Kids Street" group-title="Kids",Kids Street
 http://181.78.121.15:8000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-name="MCM" group-title="Music",MCM
-http://rezofoot.tv/MCM/index.m3u8
 #EXTINF:-1 tvg-name="Disney Channel Latin America Panregional" group-title="Animation;Kids",Disney Channel Latin America Panregional
 http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
 #EXTINF:-1 tvg-name="Disney Jr. Latin America North" group-title="Animation;Kids",Disney Jr. Latin America North
@@ -2359,3 +2357,13 @@ https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8
 https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Kids",Disney Channel" group-title="Kids",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Kids",Disney Channel
 http://82.78.243.219:45739/play/a00y/index.m3u8
+#EXTINF:-1 tvg-name="MeTV Toons" group-title="Animation;Kids",MeTV Toons
+http://206.212.244.63/112/index.m3u8
+#EXTINF:-1 tvg-name="MTV Classic" group-title="Music",MTV Classic
+http://206.212.244.63/117/index.m3u8
+#EXTINF:-1 tvg-name="PBS Kids 24/7" group-title="Education;Kids",PBS Kids 24/7
+http://206.212.244.63/672/index.m3u8
+#EXTINF:-1 tvg-name="FM Plus TV" group-title="Music",FM Plus TV
+https://v2.tustreaming.cl/fmplus/index.m3u8
+#EXTINF:-1 tvg-name="Rewind TV" group-title="Music",Rewind TV
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8

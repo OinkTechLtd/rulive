@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-02 00:07:35
-# Всего каналов: 18340
-# Новых за сессию: 0
+# Обновлено: 2026-07-02 01:32:40
+# Всего каналов: 18435
+# Новых за сессию: 95
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;News;Shop
 # Каналов: 1
-# Обновлено: 2026-07-02 00:07:35
+# Обновлено: 2026-07-02 01:32:41
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Extra ProNews (576p)" group-title="Entertainment;News;Shop",Extra ProNews (576p)
@@ -3915,3 +3915,39 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
 https://twitch-m3u8.bastypro112.workers.dev/kooltvlive/index.m3u8
 #EXTINF:-1 tvg-name="BBC News [Geo-blocked]" group-title="News",BBC News [Geo-blocked]
 https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-name="Aspire" group-title="Entertainment",Aspire
+http://206.212.244.63/10/index.m3u8
+#EXTINF:-1 tvg-name="BET Her West" group-title="Entertainment",BET Her West
+http://206.212.244.63/19/index.m3u8
+#EXTINF:-1 tvg-name="Cozi TV" group-title="Entertainment",Cozi TV
+http://206.212.244.63/49/index.m3u8
+#EXTINF:-1 tvg-name="Grit" group-title="Entertainment",Grit
+http://206.212.244.63/83/index.m3u8
+#EXTINF:-1 tvg-name="INSP" group-title="Entertainment",INSP
+http://206.212.244.63/95/index.m3u8
+#EXTINF:-1 tvg-name="Justice Central TV" group-title="Entertainment",Justice Central TV
+http://206.212.244.63/100/index.m3u8
+#EXTINF:-1 tvg-name="MeTV+" group-title="Entertainment",MeTV+
+http://206.212.244.63/111/index.m3u8
+#EXTINF:-1 tvg-name="MTVU" group-title="Entertainment",MTVU
+http://206.212.244.63/119/index.m3u8
+#EXTINF:-1 tvg-name="NewsNation" group-title="News",NewsNation
+http://206.212.244.63/712/index.m3u8
+#EXTINF:-1 tvg-name="Pop TV" group-title="Entertainment",Pop TV
+http://206.212.244.63/139/index.m3u8
+#EXTINF:-1 tvg-name="Canal 9 Link" group-title="Entertainment",Canal 9 Link
+https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="IP Noticias" group-title="News",IP Noticias
+https://twitch-m3u8.bastypro112.workers.dev/argentina_12tw/index.m3u8
+#EXTINF:-1 tvg-name="ADN TV" group-title="News",ADN TV
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Buendia TV" group-title="News",Buendia TV
+https://servilive.com:3508/stream/play.m3u8
+#EXTINF:-1 tvg-name="Emocion TV" group-title="Entertainment",Emocion TV
+https://v1.tustreaming.cl/emociontv/index.m3u8
+#EXTINF:-1 tvg-name="Estacion Limache TV" group-title="Entertainment",Estacion Limache TV
+https://v4.tustreaming.cl/limachemovil/index.m3u8
+#EXTINF:-1 tvg-name="Turno" group-title="News",Turno
+https://redirector.dps.live/hls/turno/playlist.m3u8
+#EXTINF:-1 tvg-name="News 21 Bangla TV" group-title="News",News 21 Bangla TV
+http://103.190.133.68:1935/news21live/live/playlist.m3u8

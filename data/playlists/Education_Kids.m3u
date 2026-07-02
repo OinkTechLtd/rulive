@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-02 00:07:35
-# Всего каналов: 18340
-# Новых за сессию: 0
+# Обновлено: 2026-07-02 01:32:40
+# Всего каналов: 18435
+# Новых за сессию: 95
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Kids
-# Каналов: 9
-# Обновлено: 2026-07-02 00:07:35
+# Каналов: 10
+# Обновлено: 2026-07-02 01:32:41
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="NCM Educational & Kids Channel" group-title="Education;Kids",NCM Educational & Kids Channel
@@ -36,6 +36,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/d1wal6k3d7ssin.cloudfr
 
 #EXTINF:-1 tvg-name="ABC Entertains" group-title="Education;Kids",ABC Entertains
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/c.mjh.nz/abc-me.m3u8
+
+#EXTINF:-1 tvg-name="PBS Kids 24/7" group-title="Education;Kids",PBS Kids 24/7
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/206.212.244.63/672/index.m3u8
 
 #EXTINF:-1 tvg-name="TNT Kids (288p)" group-title="Kids",TNT Kids (288p)
 https://restreamer1.tnt.ba/hls/tntkids.m3u8
@@ -1203,3 +1206,7 @@ https://istoki.tv/live/stream1/playlist.m3u8
 https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02713-amg02713c11-amgplt0852/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Kids",Disney Channel" group-title="Kids",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Kids",Disney Channel
 http://82.78.243.219:45739/play/a00y/index.m3u8
+#EXTINF:-1 tvg-name="Dog TV" group-title="Education;Lifestyle",Dog TV
+http://206.212.244.63/56/index.m3u8
+#EXTINF:-1 tvg-name="MeTV Toons" group-title="Animation;Kids",MeTV Toons
+http://206.212.244.63/112/index.m3u8

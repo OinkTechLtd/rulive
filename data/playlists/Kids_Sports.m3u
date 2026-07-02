@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-02 00:07:35
-# Всего каналов: 18340
-# Новых за сессию: 0
+# Обновлено: 2026-07-02 01:32:40
+# Всего каналов: 18435
+# Новых за сессию: 95
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Sports
 # Каналов: 1
-# Обновлено: 2026-07-02 00:07:35
+# Обновлено: 2026-07-02 01:32:41
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ADO TV" group-title="Kids;Sports",ADO TV
@@ -1623,3 +1623,15 @@ http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Kids",Disney Channel" group-title="Kids",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Kids",Disney Channel
 http://82.78.243.219:45739/play/a00y/index.m3u8
+#EXTINF:-1 tvg-name="ACC Network" group-title="Sports",ACC Network
+http://206.212.244.63/2486/index.m3u8
+#EXTINF:-1 tvg-name="MeTV Toons" group-title="Animation;Kids",MeTV Toons
+http://206.212.244.63/112/index.m3u8
+#EXTINF:-1 tvg-name="NFL Network" group-title="Sports",NFL Network
+http://206.212.244.63/196/index.m3u8
+#EXTINF:-1 tvg-name="PBS Kids 24/7" group-title="Education;Kids",PBS Kids 24/7
+http://206.212.244.63/672/index.m3u8
+#EXTINF:-1 tvg-name="CRTV" group-title="Sports",CRTV
+https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
+#EXTINF:-1 tvg-name="T Sports 7" group-title="Sports",T Sports 7
+https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8

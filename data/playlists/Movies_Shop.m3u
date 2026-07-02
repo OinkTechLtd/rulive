@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-02 00:07:35
-# Всего каналов: 18340
-# Новых за сессию: 0
+# Обновлено: 2026-07-02 01:32:40
+# Всего каналов: 18435
+# Новых за сессию: 95
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;Shop
 # Каналов: 1
-# Обновлено: 2026-07-02 00:07:35
+# Обновлено: 2026-07-02 01:32:41
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Magnificent Movies Network" group-title="Movies;Shop",Magnificent Movies Network
@@ -1359,7 +1359,7 @@ http://41.223.30.230/ZEECINEMA/index.m3u8
 https://moymir.ru/hls/onair.m3u8
 #EXTINF:-1 tvg-name="Mosfilm Gold Collection (576p)" group-title="Movies",Mosfilm Gold Collection (576p)
 http://31.222.235.15/mosfilm/index.m3u8
-#EXTINF:-1 tvg-name="Cine Nostalgia" group-title="Movies",Cine Nostalgia
+#EXTINF:-1 tvg-name="NOST" group-title="Movies",NOST
 https://a-cdn.klowdtv.com/live2/nost_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="IFC" group-title="Movies",IFC
 http://23.237.104.106:8080/USA_IFC/index.m3u8
@@ -1497,3 +1497,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinefamiliar.stream/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinehispano.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Cine Premium" group-title="Movies",Cine Premium
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="AMC East" group-title="Movies",AMC East
+http://41.223.30.230/AMC/index.m3u8
+#EXTINF:-1 tvg-name="Sundance TV" group-title="Movies",Sundance TV
+http://206.212.244.63/151/index.m3u8
