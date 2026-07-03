@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-02 23:37:37
-# Всего каналов: 18819
-# Новых за сессию: 0
+# Обновлено: 2026-07-03 01:10:24
+# Всего каналов: 18864
+# Новых за сессию: 45
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Family
 # Каналов: 2
-# Обновлено: 2026-07-02 23:37:38
+# Обновлено: 2026-07-03 01:10:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Estrella Games" group-title="Entertainment;Family",Estrella Games
@@ -66,7 +66,7 @@ https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=9c
 http://31.148.48.15/Zee_TV_Russia/index.m3u8
 #EXTINF:-1 tvg-name="ОТВ Приморье" group-title="Entertainment",ОТВ Приморье
 https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Поехали!" group-title="Entertainment",Поехали!
+#EXTINF:-1 tvg-name="Поехали!" group-title="Entertainment;Outdoor",Поехали!
 http://31.148.48.15/Poehali/index.m3u8
 #EXTINF:-1 tvg-name="Пятница! (576p)" group-title="Entertainment",Пятница! (576p)
 https://vod.tuva.ru/friday/index.m3u8
@@ -1770,7 +1770,7 @@ http://206.212.244.63/19/index.m3u8
 http://206.212.244.63/49/index.m3u8
 #EXTINF:-1 tvg-name="Freeform West" group-title="Family",Freeform West
 http://206.212.244.63/70/index.m3u8
-#EXTINF:-1 tvg-name="Great American Family" group-title="Family",Great American Family
+#EXTINF:-1 tvg-name="Great American Family" group-title="Family;Movies",Great American Family
 http://206.212.244.63/81/index.m3u8
 #EXTINF:-1 tvg-name="Grit" group-title="Entertainment",Grit
 http://206.212.244.63/83/index.m3u8
@@ -1790,3 +1790,7 @@ https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/pla
 https://v1.tustreaming.cl/emociontv/index.m3u8
 #EXTINF:-1 tvg-name="Estacion Limache TV" group-title="Entertainment",Estacion Limache TV
 https://v4.tustreaming.cl/limachemovil/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Entertainment",Gametoon" group-title="Entertainment",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Entertainment",Gametoon
+https://webtvstream.bhtelecom.ba/hls15/gametoon.m3u8
+#EXTINF:-1 tvg-name="MegaTV (576p)" group-title="Entertainment",MegaTV (576p)
+http://tv.istbolivia.com:1935/megatv/megatv/playlist.m3u8

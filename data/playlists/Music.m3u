@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-02 23:37:37
-# Всего каналов: 18819
-# Новых за сессию: 0
+# Обновлено: 2026-07-03 01:10:24
+# Всего каналов: 18864
+# Новых за сессию: 45
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music
-# Каналов: 750
-# Обновлено: 2026-07-02 23:37:37
+# Каналов: 757
+# Обновлено: 2026-07-03 01:10:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Deluxe Music" group-title="Music",Deluxe Music
@@ -2104,6 +2104,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.streamhispanatv.ne
 #EXTINF:-1 tvg-name="Nuta TV (576p)" group-title="Music",Nuta TV (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/adpnetworkhd-cmd.github.io/iptv/NutaTV.m3u8
 
+#EXTINF:-1 tvg-name="Fon Music" group-title="Music",Fon Music
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8
+
 #EXTINF:-1 tvg-name="Maidan (576p)" group-title="Music",Maidan (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls127.freeott.top:8080/Maydan/video.m3u8
 
@@ -2175,6 +2178,24 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/v2.tustreaming.cl/fmpl
 
 #EXTINF:-1 tvg-name="Rewind TV" group-title="Music",Rewind TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Maidan" group-title="Music",Maidan
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MCM Top (576p)" group-title="Music",MCM Top (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/46.32.176.50/mcmtop/index.m3u8
+
+#EXTINF:-1 tvg-name="La Clave" group-title="Music",La Clave
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Radio Duna" group-title="Music",Radio Duna
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
+
+#EXTINF:-1 tvg-name="Radio Pudahuel" group-title="Music",Radio Pudahuel
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Retromusica Television" group-title="Music",Retromusica Television
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vdochile.com:3864/stream/play.m3u8
 
 #EXTINF:-1 tvg-name="City TV (576p)" group-title="Music",City TV (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.city.bg/play/tshls/citytv/index.m3u8

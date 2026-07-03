@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-02 23:37:37
-# Всего каналов: 18819
-# Новых за сессию: 0
+# Обновлено: 2026-07-03 01:10:24
+# Всего каналов: 18864
+# Новых за сессию: 45
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment
-# Каналов: 911
-# Обновлено: 2026-07-02 23:37:37
+# Каналов: 912
+# Обновлено: 2026-07-03 01:10:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Arte [Geo-blocked]" group-title="Entertainment",Arte [Geo-blocked]
@@ -27,9 +27,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Zee_TV_Ru
 
 #EXTINF:-1 tvg-name="ОТВ Приморье" group-title="Entertainment",ОТВ Приморье
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Поехали!" group-title="Entertainment",Поехали!
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Poehali/index.m3u8
 
 #EXTINF:-1 tvg-name="Пятница! (576p)" group-title="Entertainment",Пятница! (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/vod.tuva.ru/friday/index.m3u8
@@ -2629,6 +2626,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/v1.tustreaming.cl/emoc
 #EXTINF:-1 tvg-name="Estacion Limache TV" group-title="Entertainment",Estacion Limache TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/v4.tustreaming.cl/limachemovil/index.m3u8
 
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Entertainment",like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/webtvstream.bhtelecom.ba/hls15/gametoon.m3u8
+
+#EXTINF:-1 tvg-name="MegaTV (576p)" group-title="Entertainment",MegaTV (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.istbolivia.com:1935/megatv/megatv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Беларусь 2" group-title="Entertainment",Беларусь 2
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 
@@ -2753,6 +2756,8 @@ https://tv.alterna.ar/stream/hls/live.m3u8
 http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="Pro100TV (576p)" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV (576p)
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 tvg-name="Поехали!" group-title="Entertainment;Outdoor",Поехали!
+http://31.148.48.15/Poehali/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Entertainment",Пятница! International (576p)" group-title="Entertainment",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Entertainment",Пятница! International (576p)
 https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Entertainment",ТНТ4 International (576p)" group-title="Entertainment",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Entertainment",ТНТ4 International (576p)
@@ -2913,3 +2918,5 @@ https://lb.dstvmultimedia.com/E!/index.m3u8
 http://41.205.77.102/CHERIE25/index.m3u8
 #EXTINF:-1 tvg-name="E! Latin America" group-title="Entertainment;News",E! Latin America
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Entertainment",Gametoon" group-title="Entertainment",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Entertainment",Gametoon
+https://webtvstream.bhtelecom.ba/hls15/gametoon.m3u8

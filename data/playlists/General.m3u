@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-02 23:37:37
-# Всего каналов: 18819
-# Новых за сессию: 0
+# Обновлено: 2026-07-03 01:10:24
+# Всего каналов: 18864
+# Новых за сессию: 45
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General
-# Каналов: 2741
-# Обновлено: 2026-07-02 23:37:37
+# Каналов: 2755
+# Обновлено: 2026-07-03 01:10:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="БелРос (576p)" group-title="General",БелРос (576p)
@@ -6622,7 +6622,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn15.live-tv.cloud/ua
 #EXTINF:-1 tvg-name="MNCTV" group-title="General",MNCTV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/indihuy.streamized.net/atm/DASH/mnctv/manifest.mpd
 
-#EXTINF:-1 tvg-name="RTVi (450p)" group-title="General",RTVi (450p)
+#EXTINF:-1 tvg-name="RTVi (450p) [Geo-blocked]" group-title="General",RTVi (450p) [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/s70378.cdn.ngenix.net/rtvi/index.m3u8
 
 #EXTINF:-1 tvg-name="Suspilne. Zaporizhzhya" group-title="General",Suspilne. Zaporizhzhya
@@ -7111,9 +7111,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/94.230.128.107:8080/PE
 #EXTINF:-1 tvg-name="Belarus-4 Vitebsk" group-title="General",Belarus-4 Vitebsk
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/vtv/_definst_/bt4.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Silk Way" group-title="General",Silk Way
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8
-
 #EXTINF:-1 tvg-name="Kairali Arabia (576p)" group-title="General",Kairali Arabia (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8
 
@@ -7324,7 +7321,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-evg11.tv360.bitel
 #EXTINF:-1 tvg-name="Wtv" group-title="General",Wtv
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RTR-Planeta US" group-title="General",RTR-Planeta US
+#EXTINF:-1 tvg-name="RTR-Planeta US [Geo-blocked]" group-title="General",RTR-Planeta US [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.smotrim.ru/hls2/planeta_rtr_usa/playlist_4.m3u8
 
 #EXTINF:-1 tvg-name="Canal 5" group-title="General",Canal 5
@@ -7333,13 +7330,13 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/190.11.225.124:5000/li
 #EXTINF:-1 tvg-name="TV Migrante" group-title="General",TV Migrante
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RTR-Planeta" group-title="General",RTR-Planeta
+#EXTINF:-1 tvg-name="RTR-Planeta CIS [Geo-blocked]" group-title="General",RTR-Planeta CIS [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.smotrim.ru/hls2/planeta_rtr_sng/playlist_4.m3u8
 
-#EXTINF:-1 tvg-name="RTR-Planeta Asia" group-title="General",RTR-Planeta Asia
+#EXTINF:-1 tvg-name="RTR-Planeta Asia [Geo-blocked]" group-title="General",RTR-Planeta Asia [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.smotrim.ru/hls2/planeta_rtr_asia/playlist_4.m3u8
 
-#EXTINF:-1 tvg-name="RTR-Planeta Europe" group-title="General",RTR-Planeta Europe
+#EXTINF:-1 tvg-name="RTR-Planeta Europe [Geo-blocked]" group-title="General",RTR-Planeta Europe [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.smotrim.ru/hls2/planeta_rtr_euro/playlist_4.m3u8
 
 #EXTINF:-1 tvg-name="ABTelevision" group-title="General",ABTelevision
@@ -7918,6 +7915,48 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/pantera1-100gb-cl-movi
 #EXTINF:-1 tvg-name="Villazon TV" group-title="General",Villazon TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/twitch-m3u8.bastypro112.workers.dev/radioactiva919/index.m3u8
 
+#EXTINF:-1 tvg-name="50 Canale" group-title="General",50 Canale
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/load-balancer.azotosolutions.com/cdnedge37/canale50/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV Carioca" group-title="General",TV Carioca
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-tiva-video03-logicahost-com-br.smartbit.co/cariocainternacional1/cariocainternacional1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="JonmoBhumi TV" group-title="General",JonmoBhumi TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Afaq TV" group-title="General",Afaq TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.afaq.iq/live/channel/afaqtv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Bolivision Santa Cruz" group-title="General",Bolivision Santa Cruz
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d1mws3umreue1g.cloudfront.net/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal 70" group-title="General",Canal 70
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/183.bozztv.com/giatv/giatv-cnal70tv/cnal70tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="China Channel" group-title="General",China Channel
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/v2.tustreaming.cl/chinachannel/index.m3u8
+
+#EXTINF:-1 tvg-name="Cooperativa" group-title="General",Cooperativa
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="EPA! TV" group-title="General",EPA! TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/v4.tustreaming.cl/edusauriotv/index.m3u8
+
+#EXTINF:-1 tvg-name="Fides TV" group-title="General",Fides TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/twitch-m3u8.bastypro112.workers.dev/radiofidesbolivia/index.m3u8
+
+#EXTINF:-1 tvg-name="Pudahuel TV" group-title="General",Pudahuel TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/panel.tvstream.cl:1936/8000/8000/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Radio Fantasia TV" group-title="General",Radio Fantasia TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/v2.tustreaming.cl/fantasiatv/index.m3u8
+
+#EXTINF:-1 tvg-name="Sucremanta TV" group-title="General",Sucremanta TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Acerfi TV" group-title="General",Acerfi TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streamtv.acerfi.net/hls/acerfitv/index.m3u8
+
 #EXTINF:-1 tvg-name="ОНТ (576p)" group-title="General",ОНТ (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.dc.beltelecom.by/ont/ont/playlist.m3u8
 
@@ -8001,6 +8040,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/59d7d6f47d7fc.streamlo
 
 #EXTINF:-1 tvg-name="Icaro TV" group-title="General",Icaro TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="La Nuova TV" group-title="General",La Nuova TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="La TR3 Marsala" group-title="General",La TR3 Marsala
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-02 23:37:37
-# Всего каналов: 18819
-# Новых за сессию: 0
+# Обновлено: 2026-07-03 01:10:24
+# Всего каналов: 18864
+# Новых за сессию: 45
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;Religious
 # Каналов: 6
-# Обновлено: 2026-07-02 23:37:38
+# Обновлено: 2026-07-03 01:10:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Муз союз (576p)" group-title="Music;Religious",Муз союз (576p)
@@ -3026,3 +3026,21 @@ http://206.212.244.63/117/index.m3u8
 https://v2.tustreaming.cl/fmplus/index.m3u8
 #EXTINF:-1 tvg-name="Rewind TV" group-title="Music",Rewind TV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Maidan" group-title="Music",Maidan
+https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Plenitude TV" group-title="Religious",Plenitude TV
+https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
+#EXTINF:-1 tvg-name="Middle East TV" group-title="Religious",Middle East TV
+https://content.uplynk.com/channel/9d35b73c264946d5945db6cdff26336e.m3u8
+#EXTINF:-1 tvg-name="ADA TV" group-title="Religious",ADA TV
+https://v4.tustreaming.cl/adatvchile/index.m3u8
+#EXTINF:-1 tvg-name="ISA TV" group-title="Religious",ISA TV
+https://scl.edge.grupoz.cl/isatv/live/playlist.m3u8
+#EXTINF:-1 tvg-name="La Clave" group-title="Music",La Clave
+https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Duna" group-title="Music",Radio Duna
+https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
+#EXTINF:-1 tvg-name="Radio Pudahuel" group-title="Music",Radio Pudahuel
+https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Retromusica Television" group-title="Music",Retromusica Television
+https://vdochile.com:3864/stream/play.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-02 23:37:37
-# Всего каналов: 18819
-# Новых за сессию: 0
+# Обновлено: 2026-07-03 01:10:24
+# Всего каналов: 18864
+# Новых за сессию: 45
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Sports
 # Каналов: 1
-# Обновлено: 2026-07-02 23:37:38
+# Обновлено: 2026-07-03 01:10:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="LRT Plius [Geo-blocked]" group-title="Culture;Sports",LRT Plius [Geo-blocked]
@@ -1295,3 +1295,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
 #EXTINF:-1 tvg-name="T Sports 7" group-title="Sports",T Sports 7
 https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
+#EXTINF:-1 tvg-name="MLB Strike Zone" group-title="Sports",MLB Strike Zone
+http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
+#EXTINF:-1 tvg-name="Olympics Channel [Geo-blocked]" group-title="Sports",Olympics Channel [Geo-blocked]
+https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_1.m3u8
+#EXTINF:-1 tvg-name="Fast&FunBox" group-title="Sports",Fast&FunBox
+https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8

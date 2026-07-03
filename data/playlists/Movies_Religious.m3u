@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-02 23:37:37
-# Всего каналов: 18819
-# Новых за сессию: 0
+# Обновлено: 2026-07-03 01:10:24
+# Всего каналов: 18864
+# Новых за сессию: 45
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;Religious
 # Каналов: 1
-# Обновлено: 2026-07-02 23:37:38
+# Обновлено: 2026-07-03 01:10:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ABN Bible Movies" group-title="Movies;Religious",ABN Bible Movies
@@ -2645,6 +2645,8 @@ https://snrtworker.kharazbelaid.workers.dev/?id=assadisa.m3u8
 http://45.136.153.199/AMC/mono.m3u8
 #EXTINF:-1 tvg-name="Spas (576p)" group-title="Religious",Spas (576p)
 https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8
+#EXTINF:-1 tvg-name="Silk Way Cinema [Geo-blocked]" group-title="Movies",Silk Way Cinema [Geo-blocked]
+https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8
 #EXTINF:-1 tvg-name="B4U Movies USA (576p)" group-title="Movies",B4U Movies USA (576p)
 http://41.223.30.230/B4UPLUS/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Cine+ Classic" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Cine+ Classic
@@ -2855,5 +2857,21 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8
 http://41.223.30.230/AMC/index.m3u8
 #EXTINF:-1 tvg-name="BET Gospel (576p)" group-title="Religious",BET Gospel (576p)
 http://206.212.244.63/17/index.m3u8
+#EXTINF:-1 tvg-name="Great American Family" group-title="Family;Movies",Great American Family
+http://206.212.244.63/81/index.m3u8
+#EXTINF:-1 tvg-name="Hallmark Family" group-title="Movies",Hallmark Family
+http://206.212.244.63/85/index.m3u8
 #EXTINF:-1 tvg-name="Sundance TV" group-title="Movies",Sundance TV
 http://206.212.244.63/151/index.m3u8
+#EXTINF:-1 tvg-name="Hallmark Movies & Mysteries" group-title="Movies",Hallmark Movies & Mysteries
+http://206.212.244.63/86/index.m3u8
+#EXTINF:-1 tvg-name="Screamfest" group-title="Movies",Screamfest
+http://206.212.244.63/147/index.m3u8
+#EXTINF:-1 tvg-name="Plenitude TV" group-title="Religious",Plenitude TV
+https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
+#EXTINF:-1 tvg-name="Middle East TV" group-title="Religious",Middle East TV
+https://content.uplynk.com/channel/9d35b73c264946d5945db6cdff26336e.m3u8
+#EXTINF:-1 tvg-name="ADA TV" group-title="Religious",ADA TV
+https://v4.tustreaming.cl/adatvchile/index.m3u8
+#EXTINF:-1 tvg-name="ISA TV" group-title="Religious",ISA TV
+https://scl.edge.grupoz.cl/isatv/live/playlist.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-02 23:37:37
-# Всего каналов: 18819
-# Новых за сессию: 0
+# Обновлено: 2026-07-03 01:10:24
+# Всего каналов: 18864
+# Новых за сессию: 45
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Outdoor
 # Каналов: 2
-# Обновлено: 2026-07-02 23:37:38
+# Обновлено: 2026-07-03 01:10:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="WaterBear" group-title="Documentary;Outdoor",WaterBear
@@ -52,6 +52,8 @@ http://31.148.48.15/Moya_Planeta_HD/index.m3u8
 http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-name="НАУКА" group-title="Documentary",НАУКА
 http://31.148.48.15/Nauka_2.0/index.m3u8
+#EXTINF:-1 tvg-name="Поехали!" group-title="Entertainment;Outdoor",Поехали!
+http://31.148.48.15/Poehali/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем КиноДок" group-title="Documentary;Series",Сити Эдем КиноДок
 https://cityeden.catcast.tv/content/38354/index.m3u8
 #EXTINF:-1 tvg-name="Смотрим 100% Факты" group-title="Documentary",Смотрим 100% Факты

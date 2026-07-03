@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-02 23:37:37
-# Всего каналов: 18819
-# Новых за сессию: 0
+# Обновлено: 2026-07-03 01:10:24
+# Всего каналов: 18864
+# Новых за сессию: 45
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;Comedy;Public;Series
 # Каналов: 1
-# Обновлено: 2026-07-02 23:37:38
+# Обновлено: 2026-07-03 01:10:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="3Cat Plats bruts" group-title="Classic;Comedy;Public;Series",3Cat Plats bruts
@@ -1253,3 +1253,5 @@ http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8
 #EXTINF:-1 tvg-name="Laff" group-title="Comedy",Laff
 http://206.212.244.63/101/index.m3u8
+#EXTINF:-1 tvg-name="Start TV" group-title="Series",Start TV
+http://206.212.244.63/150/index.m3u8

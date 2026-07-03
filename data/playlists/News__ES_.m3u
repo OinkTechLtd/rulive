@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-02 23:37:37
-# Всего каналов: 18819
-# Новых за сессию: 0
+# Обновлено: 2026-07-03 01:10:24
+# Всего каналов: 18864
+# Новых за сессию: 45
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News (ES)
 # Каналов: 5
-# Обновлено: 2026-07-02 23:37:37
+# Обновлено: 2026-07-03 01:10:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Euronews Español Ⓨ" group-title="News (ES)",Euronews Español Ⓨ
@@ -2141,3 +2141,11 @@ https://servilive.com:3508/stream/play.m3u8
 https://redirector.dps.live/hls/turno/playlist.m3u8
 #EXTINF:-1 tvg-name="News 21 Bangla TV" group-title="News",News 21 Bangla TV
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
+#EXTINF:-1 tvg-name="RT en Espanol" group-title="News",RT en Espanol
+http://179.60.51.134:8888/RT/index.m3u8
+#EXTINF:-1 tvg-name="Flash Haber TV" group-title="News",Flash Haber TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Channel 9" group-title="News",Channel 9
+https://contact.gostreaming.tv/Con-11/index.m3u8
+#EXTINF:-1 tvg-name="ACN TV" group-title="News",ACN TV
+https://cdn.acnlive.net/LiveApp/streams/hold_the_line.m3u8

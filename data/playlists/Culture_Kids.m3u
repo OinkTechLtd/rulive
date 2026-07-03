@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-02 23:37:37
-# Всего каналов: 18819
-# Новых за сессию: 0
+# Обновлено: 2026-07-03 01:10:24
+# Всего каналов: 18864
+# Новых за сессию: 45
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Kids
 # Каналов: 1
-# Обновлено: 2026-07-02 23:37:38
+# Обновлено: 2026-07-03 01:10:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ETV2" group-title="Culture;Kids",ETV2
@@ -1097,6 +1097,8 @@ https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
 https://istoki.tv/live/stream1/playlist.m3u8
 #EXTINF:-1 tvg-name="Hasbro Legends [Geo-blocked]" group-title="Animation;Kids",Hasbro Legends [Geo-blocked]
 https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02713-amg02713c11-amgplt0852/playlist.m3u8
+#EXTINF:-1 tvg-name="BabyTV Latin America" group-title="Kids",BabyTV Latin America
+http://179.60.51.134:8888/BABY-TV/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Kids",Disney Channel" group-title="Kids",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Kids",Disney Channel
 http://82.78.243.219:45739/play/a00y/index.m3u8
 #EXTINF:-1 tvg-name="MeTV Toons" group-title="Animation;Kids",MeTV Toons
@@ -1107,3 +1109,7 @@ http://206.212.244.63/134/index.m3u8
 http://206.212.244.63/672/index.m3u8
 #EXTINF:-1 tvg-name="Channel S" group-title="Culture",Channel S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="BabyTV US (576p)" group-title="Kids",BabyTV US (576p)
+http://206.212.244.63/641/index.m3u8
+#EXTINF:-1 tvg-name="Disney Junior West" group-title="Kids",Disney Junior West
+http://206.212.244.63/655/index.m3u8

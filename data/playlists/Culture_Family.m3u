@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-02 23:37:37
-# Всего каналов: 18819
-# Новых за сессию: 0
+# Обновлено: 2026-07-03 01:10:24
+# Всего каналов: 18864
+# Новых за сессию: 45
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Family
 # Каналов: 1
-# Обновлено: 2026-07-02 23:37:38
+# Обновлено: 2026-07-03 01:10:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Superscreen TV (412p)" group-title="Culture;Family",Superscreen TV (412p)
@@ -495,7 +495,7 @@ http://hls127.freeott.top:8080/Teatr/video.m3u8
 https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
 #EXTINF:-1 tvg-name="Freeform West" group-title="Family",Freeform West
 http://206.212.244.63/70/index.m3u8
-#EXTINF:-1 tvg-name="Great American Family" group-title="Family",Great American Family
+#EXTINF:-1 tvg-name="Great American Family" group-title="Family;Movies",Great American Family
 http://206.212.244.63/81/index.m3u8
 #EXTINF:-1 tvg-name="Ovation" group-title="Culture",Ovation
 http://206.212.244.63/134/index.m3u8

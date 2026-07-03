@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-02 23:37:37
-# Всего каналов: 18819
-# Новых за сессию: 0
+# Обновлено: 2026-07-03 01:10:24
+# Всего каналов: 18864
+# Новых за сессию: 45
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Education;Entertainment
 # Каналов: 1
-# Обновлено: 2026-07-02 23:37:38
+# Обновлено: 2026-07-03 01:10:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Manas TV" group-title="Culture;Education;Entertainment",Manas TV
@@ -97,7 +97,7 @@ http://31.148.48.15/Kto_est_kto/index.m3u8
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 tvg-name="ОТВ Приморье" group-title="Entertainment",ОТВ Приморье
 https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Поехали!" group-title="Entertainment",Поехали!
+#EXTINF:-1 tvg-name="Поехали!" group-title="Entertainment;Outdoor",Поехали!
 http://31.148.48.15/Poehali/index.m3u8
 #EXTINF:-1 tvg-name="Пятница! (576p)" group-title="Entertainment",Пятница! (576p)
 https://vod.tuva.ru/friday/index.m3u8
@@ -2513,3 +2513,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://v1.tustreaming.cl/emociontv/index.m3u8
 #EXTINF:-1 tvg-name="Estacion Limache TV" group-title="Entertainment",Estacion Limache TV
 https://v4.tustreaming.cl/limachemovil/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Entertainment",Gametoon" group-title="Entertainment",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Entertainment",Gametoon
+https://webtvstream.bhtelecom.ba/hls15/gametoon.m3u8
+#EXTINF:-1 tvg-name="MegaTV (576p)" group-title="Entertainment",MegaTV (576p)
+http://tv.istbolivia.com:1935/megatv/megatv/playlist.m3u8

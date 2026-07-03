@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-02 23:37:37
-# Всего каналов: 18819
-# Новых за сессию: 0
+# Обновлено: 2026-07-03 01:10:24
+# Всего каналов: 18864
+# Новых за сессию: 45
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Lifestyle;Outdoor
 # Каналов: 1
-# Обновлено: 2026-07-02 23:37:38
+# Обновлено: 2026-07-03 01:10:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Cottage Life" group-title="Lifestyle;Outdoor",Cottage Life
@@ -39,6 +39,8 @@ https://cdn-01.bonus-tv.ru/kmir/playlist.m3u8
 http://31.148.48.15/Moya_Planeta_HD/index.m3u8
 #EXTINF:-1 tvg-name="Открытый мир. Здоровье (576p)" group-title="Lifestyle",Открытый мир. Здоровье (576p)
 https://v4.proofix.ru/0mir/index.m3u8
+#EXTINF:-1 tvg-name="Поехали!" group-title="Entertainment;Outdoor",Поехали!
+http://31.148.48.15/Poehali/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем МедЗдрав" group-title="Lifestyle",Сити Эдем МедЗдрав
 https://cityeden.catcast.tv/content/47519/index.m3u8
 #EXTINF:-1 tvg-name="30A Darcizzle Offshore" group-title="Outdoor",30A Darcizzle Offshore
