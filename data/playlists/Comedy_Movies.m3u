@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-03 23:35:33
-# Всего каналов: 18864
-# Новых за сессию: 0
+# Обновлено: 2026-07-04 01:08:32
+# Всего каналов: 18930
+# Новых за сессию: 66
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Movies
 # Каналов: 10
-# Обновлено: 2026-07-03 23:35:33
+# Обновлено: 2026-07-04 01:08:32
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pluto TV Comedias Románticas" group-title="Comedy;Movies",Pluto TV Comedias Románticas
@@ -1616,6 +1616,8 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8
 http://41.223.30.230/AMC/index.m3u8
 #EXTINF:-1 tvg-name="Great American Family" group-title="Family;Movies",Great American Family
 http://206.212.244.63/81/index.m3u8
+#EXTINF:-1 tvg-name="Great American Faith & Living" group-title="Lifestyle;Movies",Great American Faith & Living
+http://206.212.244.63/82/index.m3u8
 #EXTINF:-1 tvg-name="Hallmark Family" group-title="Movies",Hallmark Family
 http://206.212.244.63/85/index.m3u8
 #EXTINF:-1 tvg-name="Laff" group-title="Comedy",Laff
@@ -1626,3 +1628,7 @@ http://206.212.244.63/151/index.m3u8
 http://206.212.244.63/86/index.m3u8
 #EXTINF:-1 tvg-name="Screamfest" group-title="Movies",Screamfest
 http://206.212.244.63/147/index.m3u8
+#EXTINF:-1 tvg-name="FilmBox Baltics (450p) [Geo-blocked]" group-title="Movies",FilmBox Baltics (450p) [Geo-blocked]
+https://s70378.cdn.ngenix.net/filmbox/index.m3u8
+#EXTINF:-1 tvg-name="Cinemo (480p)" group-title="Movies",Cinemo (480p)
+https://streams.comclark.com/pknsd/cinemo/playlist.m3u8

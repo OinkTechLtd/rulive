@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-03 23:35:33
-# Всего каналов: 18864
-# Новых за сессию: 0
+# Обновлено: 2026-07-04 01:08:32
+# Всего каналов: 18930
+# Новых за сессию: 66
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;News
 # Каналов: 7
-# Обновлено: 2026-07-03 23:35:33
+# Обновлено: 2026-07-04 01:08:32
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Vergina TV" group-title="Entertainment;News",Vergina TV
@@ -3545,8 +3545,6 @@ http://178.124.179.122:8080/TB-3/index.m3u8
 http://178.124.179.122:8080/Belarus24/index.m3u8
 #EXTINF:-1 tvg-name="Pear TV (576p)" group-title="Entertainment",Pear TV (576p)
 https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8
-#EXTINF:-1 tvg-name="24/7 TV" group-title="News",24/7 TV
-https://master.tucableip.com/eldebertv/index.m3u8
 #EXTINF:-1 tvg-name="Canal I" group-title="News",Canal I
 https://streaming.canal-i.com/canal-i/live/master.m3u8
 #EXTINF:-1 tvg-name="CN3 Television" group-title="News",CN3 Television
@@ -3761,6 +3759,8 @@ http://206.212.244.63/10/index.m3u8
 http://206.212.244.63/19/index.m3u8
 #EXTINF:-1 tvg-name="Cozi TV" group-title="Entertainment",Cozi TV
 http://206.212.244.63/49/index.m3u8
+#EXTINF:-1 tvg-name="Great Entertainment Television" group-title="Entertainment",Great Entertainment Television
+http://206.212.244.63/80/index.m3u8
 #EXTINF:-1 tvg-name="Grit" group-title="Entertainment",Grit
 http://206.212.244.63/83/index.m3u8
 #EXTINF:-1 tvg-name="INSP" group-title="Entertainment",INSP
@@ -3803,3 +3803,31 @@ https://cdn.acnlive.net/LiveApp/streams/hold_the_line.m3u8
 https://webtvstream.bhtelecom.ba/hls15/gametoon.m3u8
 #EXTINF:-1 tvg-name="MegaTV (576p)" group-title="Entertainment",MegaTV (576p)
 http://tv.istbolivia.com:1935/megatv/megatv/playlist.m3u8
+#EXTINF:-1 tvg-name="Qonaev Media" group-title="Entertainment",Qonaev Media
+https://s.qonaevtv.kz/live/qonaev/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPNews" group-title="News;Sports",ESPNews
+http://41.223.30.230/ESPNNEWS/index.m3u8
+#EXTINF:-1 tvg-name="One America News Network" group-title="News",One America News Network
+http://40.160.24.55/ONE_AMERICA_NEWS/index.m3u8
+#EXTINF:-1 tvg-name="CNews" group-title="News",CNews
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
+#EXTINF:-1 tvg-name="CNEWS PRIME" group-title="News",CNEWS PRIME
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8
+#EXTINF:-1 tvg-name="LCI" group-title="News",LCI
+http://151.80.18.177:86/LCI_HD/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",TF1" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",TF1
+http://151.80.18.177:86/TF1_HD/index.m3u8
+#EXTINF:-1 tvg-name="ALLTV2 (480p)" group-title="Entertainment",ALLTV2 (480p)
+https://streams.comclark.com/pknsd/alltv/playlist.m3u8
+#EXTINF:-1 tvg-name="ANC (480p)" group-title="News",ANC (480p)
+https://streams.comclark.com/pknsd/anc/playlist.m3u8
+#EXTINF:-1 tvg-name="AP TV" group-title="Entertainment",AP TV
+https://59nyqg8elwap-hls-live.5centscdn.com/APTV/85c20905211659d143febd7c32592ee0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Zona Play TV" group-title="Entertainment",Zona Play TV
+https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8
+#EXTINF:-1 tvg-name="Carac 5" group-title="Entertainment",Carac 5
+https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
+#EXTINF:-1 tvg-name="CRTV News" group-title="News",CRTV News
+https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
+#EXTINF:-1 tvg-name="GTV (480p)" group-title="News",GTV (480p)
+https://streams.comclark.com/pknsd/gtv/playlist.m3u8

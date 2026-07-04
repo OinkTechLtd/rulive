@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-03 23:35:33
-# Всего каналов: 18864
-# Новых за сессию: 0
+# Обновлено: 2026-07-04 01:08:32
+# Всего каналов: 18930
+# Новых за сессию: 66
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Comedy
 # Каналов: 60
-# Обновлено: 2026-07-03 23:35:33
+# Обновлено: 2026-07-04 01:08:32
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Comedy Central South Park" group-title="Animation;Comedy",Comedy Central South Park
@@ -628,3 +628,5 @@ https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playli
 http://206.212.244.63/101/index.m3u8
 #EXTINF:-1 tvg-name="MeTV Toons" group-title="Animation;Kids",MeTV Toons
 http://206.212.244.63/112/index.m3u8
+#EXTINF:-1 tvg-name="Disney Jr. Latin America (576p)" group-title="Animation;Kids",Disney Jr. Latin America (576p)
+http://45.189.62.33:8002/play/a0bz/index.m3u8

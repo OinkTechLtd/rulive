@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-03 23:35:33
-# Всего каналов: 18864
-# Новых за сессию: 0
+# Обновлено: 2026-07-04 01:08:32
+# Всего каналов: 18930
+# Новых за сессию: 66
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Movies
 # Каналов: 2
-# Обновлено: 2026-07-03 23:35:33
+# Обновлено: 2026-07-04 01:08:32
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="KidsFlix" group-title="Kids;Movies",KidsFlix
@@ -2050,6 +2050,8 @@ http://82.78.243.219:45739/play/a00y/index.m3u8
 http://41.223.30.230/AMC/index.m3u8
 #EXTINF:-1 tvg-name="Great American Family" group-title="Family;Movies",Great American Family
 http://206.212.244.63/81/index.m3u8
+#EXTINF:-1 tvg-name="Great American Faith & Living" group-title="Lifestyle;Movies",Great American Faith & Living
+http://206.212.244.63/82/index.m3u8
 #EXTINF:-1 tvg-name="Hallmark Family" group-title="Movies",Hallmark Family
 http://206.212.244.63/85/index.m3u8
 #EXTINF:-1 tvg-name="MeTV Toons" group-title="Animation;Kids",MeTV Toons
@@ -2066,3 +2068,13 @@ http://206.212.244.63/655/index.m3u8
 http://206.212.244.63/86/index.m3u8
 #EXTINF:-1 tvg-name="Screamfest" group-title="Movies",Screamfest
 http://206.212.244.63/147/index.m3u8
+#EXTINF:-1 tvg-name="Once Ninas y Ninos (576p)" group-title="Education;Kids",Once Ninas y Ninos (576p)
+http://45.189.62.33:8002/play/a0p7/index.m3u8
+#EXTINF:-1 tvg-name="Disney Jr. Latin America (576p)" group-title="Animation;Kids",Disney Jr. Latin America (576p)
+http://45.189.62.33:8002/play/a0bz/index.m3u8
+#EXTINF:-1 tvg-name="Akili Kids!" group-title="Kids",Akili Kids!
+https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="FilmBox Baltics (450p) [Geo-blocked]" group-title="Movies",FilmBox Baltics (450p) [Geo-blocked]
+https://s70378.cdn.ngenix.net/filmbox/index.m3u8
+#EXTINF:-1 tvg-name="Cinemo (480p)" group-title="Movies",Cinemo (480p)
+https://streams.comclark.com/pknsd/cinemo/playlist.m3u8

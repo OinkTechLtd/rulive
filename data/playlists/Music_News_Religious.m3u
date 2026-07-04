@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-03 23:35:33
-# Всего каналов: 18864
-# Новых за сессию: 0
+# Обновлено: 2026-07-04 01:08:32
+# Всего каналов: 18930
+# Новых за сессию: 66
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;News;Religious
 # Каналов: 1
-# Обновлено: 2026-07-03 23:35:33
+# Обновлено: 2026-07-04 01:08:32
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Lingkar TV" group-title="Music;News;Religious",Lingkar TV
@@ -4859,8 +4859,6 @@ https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8
 http://178.124.179.122:8080/Belarus24/index.m3u8
 #EXTINF:-1 tvg-name="Trece TV (576p)" group-title="Religious",Trece TV (576p)
 https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8
-#EXTINF:-1 tvg-name="24/7 TV" group-title="News",24/7 TV
-https://master.tucableip.com/eldebertv/index.m3u8
 #EXTINF:-1 tvg-name="Canal I" group-title="News",Canal I
 https://streaming.canal-i.com/canal-i/live/master.m3u8
 #EXTINF:-1 tvg-name="CN3 Television" group-title="News",CN3 Television
@@ -5155,3 +5153,31 @@ https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
 https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Retromusica Television" group-title="Music",Retromusica Television
 https://vdochile.com:3864/stream/play.m3u8
+#EXTINF:-1 tvg-name="ESPNews" group-title="News;Sports",ESPNews
+http://41.223.30.230/ESPNNEWS/index.m3u8
+#EXTINF:-1 tvg-name="One America News Network" group-title="News",One America News Network
+http://40.160.24.55/ONE_AMERICA_NEWS/index.m3u8
+#EXTINF:-1 tvg-name="CNews" group-title="News",CNews
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
+#EXTINF:-1 tvg-name="CNEWS PRIME" group-title="News",CNEWS PRIME
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8
+#EXTINF:-1 tvg-name="LCI" group-title="News",LCI
+http://151.80.18.177:86/LCI_HD/index.m3u8
+#EXTINF:-1 tvg-name="Exa TV (576p)" group-title="Music",Exa TV (576p)
+http://45.189.62.33:8002/play/a0lr/index.m3u8
+#EXTINF:-1 tvg-name="La Mejor TV (576p)" group-title="Music",La Mejor TV (576p)
+http://45.189.62.33:8002/play/a0ls/index.m3u8
+#EXTINF:-1 tvg-name="ANC (480p)" group-title="News",ANC (480p)
+https://streams.comclark.com/pknsd/anc/playlist.m3u8
+#EXTINF:-1 tvg-name="Genial TV" group-title="Music",Genial TV
+https://v1.tustreaming.cl/genialtv/index.m3u8
+#EXTINF:-1 tvg-name="Patagonia Radio TV" group-title="Music",Patagonia Radio TV
+https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio El Sembrador" group-title="Religious",Radio El Sembrador
+https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
+#EXTINF:-1 tvg-name="CRTV News" group-title="News",CRTV News
+https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
+#EXTINF:-1 tvg-name="Karbala Documentary" group-title="Documentary;Religious",Karbala Documentary
+https://ktvlive.online/stream/hls/ch3.m3u8
+#EXTINF:-1 tvg-name="GTV (480p)" group-title="News",GTV (480p)
+https://streams.comclark.com/pknsd/gtv/playlist.m3u8

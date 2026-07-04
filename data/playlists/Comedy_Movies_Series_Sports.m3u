@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-03 23:35:33
-# Всего каналов: 18864
-# Новых за сессию: 0
+# Обновлено: 2026-07-04 01:08:32
+# Всего каналов: 18930
+# Новых за сессию: 66
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Movies;Series;Sports
-# Каналов: 2
-# Обновлено: 2026-07-03 23:35:33
+# Каналов: 3
+# Обновлено: 2026-07-04 01:08:32
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="USA Network East" group-title="Comedy;Movies;Series;Sports",USA Network East
@@ -15,6 +15,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvpass.org/live/USANet
 
 #EXTINF:-1 tvg-name="USA Network" group-title="Comedy;Movies;Series;Sports",USA Network
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.246.209.113/DISCOVERYHD/index.m3u8
+
+#EXTINF:-1 tvg-name="USA Network" group-title="Comedy;Movies;Series;Sports",USA Network
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.55/USA_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-name="CBC Sport [Geo-blocked]" group-title="Sports",CBC Sport [Geo-blocked]
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
@@ -3130,6 +3133,8 @@ http://206.212.244.63/2486/index.m3u8
 http://41.223.30.230/AMC/index.m3u8
 #EXTINF:-1 tvg-name="Great American Family" group-title="Family;Movies",Great American Family
 http://206.212.244.63/81/index.m3u8
+#EXTINF:-1 tvg-name="Great American Faith & Living" group-title="Lifestyle;Movies",Great American Faith & Living
+http://206.212.244.63/82/index.m3u8
 #EXTINF:-1 tvg-name="Hallmark Family" group-title="Movies",Hallmark Family
 http://206.212.244.63/85/index.m3u8
 #EXTINF:-1 tvg-name="Laff" group-title="Comedy",Laff
@@ -3154,3 +3159,15 @@ http://206.212.244.63/147/index.m3u8
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_1.m3u8
 #EXTINF:-1 tvg-name="Fast&FunBox" group-title="Sports",Fast&FunBox
 https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-name="Trace Sport Stars Russia" group-title="Sports",Trace Sport Stars Russia
+https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="ESPNews" group-title="News;Sports",ESPNews
+http://41.223.30.230/ESPNNEWS/index.m3u8
+#EXTINF:-1 tvg-name="FilmBox Baltics (450p) [Geo-blocked]" group-title="Movies",FilmBox Baltics (450p) [Geo-blocked]
+https://s70378.cdn.ngenix.net/filmbox/index.m3u8
+#EXTINF:-1 tvg-name="NW Sport 1" group-title="Sports",NW Sport 1
+http://41.205.70.146/BEINSPORT1/index.m3u8
+#EXTINF:-1 tvg-name="NW Sport 2" group-title="Sports",NW Sport 2
+http://41.205.70.146/M6/index.m3u8
+#EXTINF:-1 tvg-name="Cinemo (480p)" group-title="Movies",Cinemo (480p)
+https://streams.comclark.com/pknsd/cinemo/playlist.m3u8

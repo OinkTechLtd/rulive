@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-03 23:35:33
-# Всего каналов: 18864
-# Новых за сессию: 0
+# Обновлено: 2026-07-04 01:08:32
+# Всего каналов: 18930
+# Новых за сессию: 66
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Family;Religious
 # Каналов: 1
-# Обновлено: 2026-07-03 23:35:33
+# Обновлено: 2026-07-04 01:08:32
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="TV Famille" group-title="Family;Religious",TV Famille
@@ -1653,3 +1653,7 @@ https://content.uplynk.com/channel/9d35b73c264946d5945db6cdff26336e.m3u8
 https://v4.tustreaming.cl/adatvchile/index.m3u8
 #EXTINF:-1 tvg-name="ISA TV" group-title="Religious",ISA TV
 https://scl.edge.grupoz.cl/isatv/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio El Sembrador" group-title="Religious",Radio El Sembrador
+https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
+#EXTINF:-1 tvg-name="Karbala Documentary" group-title="Documentary;Religious",Karbala Documentary
+https://ktvlive.online/stream/hls/ch3.m3u8

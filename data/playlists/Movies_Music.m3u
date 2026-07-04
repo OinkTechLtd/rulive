@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-03 23:35:33
-# Всего каналов: 18864
-# Новых за сессию: 0
+# Обновлено: 2026-07-04 01:08:32
+# Всего каналов: 18930
+# Новых за сессию: 66
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;Music
 # Каналов: 3
-# Обновлено: 2026-07-03 23:35:33
+# Обновлено: 2026-07-04 01:08:32
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Shemaroo Filmi Gaane" group-title="Movies;Music",Shemaroo Filmi Gaane
@@ -2827,6 +2827,8 @@ https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8
 http://41.223.30.230/AMC/index.m3u8
 #EXTINF:-1 tvg-name="Great American Family" group-title="Family;Movies",Great American Family
 http://206.212.244.63/81/index.m3u8
+#EXTINF:-1 tvg-name="Great American Faith & Living" group-title="Lifestyle;Movies",Great American Faith & Living
+http://206.212.244.63/82/index.m3u8
 #EXTINF:-1 tvg-name="Hallmark Family" group-title="Movies",Hallmark Family
 http://206.212.244.63/85/index.m3u8
 #EXTINF:-1 tvg-name="MTV Classic" group-title="Music",MTV Classic
@@ -2851,3 +2853,15 @@ https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
 https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Retromusica Television" group-title="Music",Retromusica Television
 https://vdochile.com:3864/stream/play.m3u8
+#EXTINF:-1 tvg-name="Exa TV (576p)" group-title="Music",Exa TV (576p)
+http://45.189.62.33:8002/play/a0lr/index.m3u8
+#EXTINF:-1 tvg-name="La Mejor TV (576p)" group-title="Music",La Mejor TV (576p)
+http://45.189.62.33:8002/play/a0ls/index.m3u8
+#EXTINF:-1 tvg-name="FilmBox Baltics (450p) [Geo-blocked]" group-title="Movies",FilmBox Baltics (450p) [Geo-blocked]
+https://s70378.cdn.ngenix.net/filmbox/index.m3u8
+#EXTINF:-1 tvg-name="Genial TV" group-title="Music",Genial TV
+https://v1.tustreaming.cl/genialtv/index.m3u8
+#EXTINF:-1 tvg-name="Patagonia Radio TV" group-title="Music",Patagonia Radio TV
+https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8
+#EXTINF:-1 tvg-name="Cinemo (480p)" group-title="Movies",Cinemo (480p)
+https://streams.comclark.com/pknsd/cinemo/playlist.m3u8

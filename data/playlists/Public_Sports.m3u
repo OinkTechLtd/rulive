@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-03 23:35:33
-# Всего каналов: 18864
-# Новых за сессию: 0
+# Обновлено: 2026-07-04 01:08:32
+# Всего каналов: 18930
+# Новых за сессию: 66
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Public;Sports
 # Каналов: 2
-# Обновлено: 2026-07-03 23:35:33
+# Обновлено: 2026-07-04 01:08:32
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Esport3" group-title="Public;Sports",Esport3
@@ -1006,3 +1006,11 @@ http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_1.m3u8
 #EXTINF:-1 tvg-name="Fast&FunBox" group-title="Sports",Fast&FunBox
 https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-name="Trace Sport Stars Russia" group-title="Sports",Trace Sport Stars Russia
+https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="ESPNews" group-title="News;Sports",ESPNews
+http://41.223.30.230/ESPNNEWS/index.m3u8
+#EXTINF:-1 tvg-name="NW Sport 1" group-title="Sports",NW Sport 1
+http://41.205.70.146/BEINSPORT1/index.m3u8
+#EXTINF:-1 tvg-name="NW Sport 2" group-title="Sports",NW Sport 2
+http://41.205.70.146/M6/index.m3u8

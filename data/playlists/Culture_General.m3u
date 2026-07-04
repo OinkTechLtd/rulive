@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-03 23:35:33
-# Всего каналов: 18864
-# Новых за сессию: 0
+# Обновлено: 2026-07-04 01:08:32
+# Всего каналов: 18930
+# Новых за сессию: 66
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;General
 # Каналов: 3
-# Обновлено: 2026-07-03 23:35:33
+# Обновлено: 2026-07-04 01:08:32
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ATXN3" group-title="Culture;General",ATXN3
@@ -5259,6 +5259,8 @@ https://ngtrk.dc.beltelecom.by/vtv/_definst_/bt4.stream/playlist.m3u8
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="TV Publica (576p)" group-title="General",TV Publica (576p)
 https://ola1.com.ar/tvpublica/index.m3u8
+#EXTINF:-1 tvg-name="EL DEBER" group-title="General",EL DEBER
+https://master.tucableip.com/eldebertv/index.m3u8
 #EXTINF:-1 tvg-name="Canal Capital" group-title="General",Canal Capital
 http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8
 #EXTINF:-1 tvg-name="Doble C Television" group-title="General",Doble C Television
@@ -5745,3 +5747,33 @@ https://v2.tustreaming.cl/fantasiatv/index.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8
 #EXTINF:-1 tvg-name="Acerfi TV" group-title="General",Acerfi TV
 https://streamtv.acerfi.net/hls/acerfitv/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",TMC" group-title="General",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",TMC
+http://151.80.18.177:86/TMC/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",Mediaset Italia" group-title="General",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",Mediaset Italia
+https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8
+#EXTINF:-1 tvg-name="Cine 1" group-title="General",Cine 1
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
+#EXTINF:-1 tvg-name="Canal 2 NexTV Rafaela" group-title="General",Canal 2 NexTV Rafaela
+https://edge.enhdtv.com/nexthd/index.m3u8
+#EXTINF:-1 tvg-name="Neox TV" group-title="General",Neox TV
+https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
+#EXTINF:-1 tvg-name="A+" group-title="Culture",A+
+http://45.189.62.33:8002/play/a0oc/index.m3u8
+#EXTINF:-1 tvg-name="Azteca 7" group-title="General",Azteca 7
+http://45.189.62.33:8002/play/a0fm/index.m3u8
+#EXTINF:-1 tvg-name="Azteca Uno" group-title="General",Azteca Uno
+http://45.189.62.33:8002/play/a0cc/index.m3u8
+#EXTINF:-1 tvg-name="A2Z (480p)" group-title="General",A2Z (480p)
+https://streams.comclark.com/pknsd/a2z/playlist.m3u8
+#EXTINF:-1 tvg-name="CTV19" group-title="General",CTV19
+https://twitch-m3u8.bastypro112.workers.dev/ctv19live/index.m3u8
+#EXTINF:-1 tvg-name="Jeepney TV (480p)" group-title="General",Jeepney TV (480p)
+https://streams.comclark.com/pknsd/jeepney/playlist.m3u8
+#EXTINF:-1 tvg-name="RPTV (480p)" group-title="General",RPTV (480p)
+https://streams.comclark.com/pknsd/rptv/playlist.m3u8
+#EXTINF:-1 tvg-name="ArabTV" group-title="Culture",ArabTV
+https://video03.logicahost.com.br/arabtvchile/arabtvchile/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Show Oruro" group-title="General",TV Show Oruro
+http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
+#EXTINF:-1 tvg-name="Wangu RTV" group-title="General",Wangu RTV
+https://stream.berosat.live/hls/wangu-tv/wangu-tv.m3u8

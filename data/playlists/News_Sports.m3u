@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-03 23:35:33
-# Всего каналов: 18864
-# Новых за сессию: 0
+# Обновлено: 2026-07-04 01:08:32
+# Всего каналов: 18930
+# Новых за сессию: 66
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News;Sports
-# Каналов: 3
-# Обновлено: 2026-07-03 23:35:33
+# Каналов: 4
+# Обновлено: 2026-07-04 01:08:32
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Africa 24 Sport" group-title="News;Sports",Africa 24 Sport
@@ -15,6 +15,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/africa24.vedge.infoman
 
 #EXTINF:-1 tvg-name="Sin Po TV" group-title="News;Sports",Sin Po TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/indihuy.streamized.net/atm/DASH/sinpotv/manifest.mpd
+
+#EXTINF:-1 tvg-name="ESPNews" group-title="News;Sports",ESPNews
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/41.223.30.230/ESPNNEWS/index.m3u8
 
 #EXTINF:-1 tvg-name="Sin Po TV (540p)" group-title="News;Sports",Sin Po TV (540p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
@@ -2881,8 +2884,6 @@ https://nl1.nghk.ai/ArenaPremium3BH/index.m3u8
 http://178.124.179.122:8080/Belarus24/index.m3u8
 #EXTINF:-1 tvg-name="Teledeporte [Geo-blocked]" group-title="Sports",Teledeporte [Geo-blocked]
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
-#EXTINF:-1 tvg-name="24/7 TV" group-title="News",24/7 TV
-https://master.tucableip.com/eldebertv/index.m3u8
 #EXTINF:-1 tvg-name="Canal I" group-title="News",Canal I
 https://streaming.canal-i.com/canal-i/live/master.m3u8
 #EXTINF:-1 tvg-name="CN3 Television" group-title="News",CN3 Television
@@ -3053,3 +3054,23 @@ https://contact.gostreaming.tv/Con-11/index.m3u8
 https://cdn.acnlive.net/LiveApp/streams/hold_the_line.m3u8
 #EXTINF:-1 tvg-name="Fast&FunBox" group-title="Sports",Fast&FunBox
 https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-name="Trace Sport Stars Russia" group-title="Sports",Trace Sport Stars Russia
+https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="One America News Network" group-title="News",One America News Network
+http://40.160.24.55/ONE_AMERICA_NEWS/index.m3u8
+#EXTINF:-1 tvg-name="CNews" group-title="News",CNews
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
+#EXTINF:-1 tvg-name="CNEWS PRIME" group-title="News",CNEWS PRIME
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8
+#EXTINF:-1 tvg-name="LCI" group-title="News",LCI
+http://151.80.18.177:86/LCI_HD/index.m3u8
+#EXTINF:-1 tvg-name="ANC (480p)" group-title="News",ANC (480p)
+https://streams.comclark.com/pknsd/anc/playlist.m3u8
+#EXTINF:-1 tvg-name="CRTV News" group-title="News",CRTV News
+https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
+#EXTINF:-1 tvg-name="NW Sport 1" group-title="Sports",NW Sport 1
+http://41.205.70.146/BEINSPORT1/index.m3u8
+#EXTINF:-1 tvg-name="NW Sport 2" group-title="Sports",NW Sport 2
+http://41.205.70.146/M6/index.m3u8
+#EXTINF:-1 tvg-name="GTV (480p)" group-title="News",GTV (480p)
+https://streams.comclark.com/pknsd/gtv/playlist.m3u8

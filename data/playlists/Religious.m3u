@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-03 23:35:33
-# Всего каналов: 18864
-# Новых за сессию: 0
+# Обновлено: 2026-07-04 01:08:32
+# Всего каналов: 18930
+# Новых за сессию: 66
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Religious
-# Каналов: 747
-# Обновлено: 2026-07-03 23:35:33
+# Каналов: 748
+# Обновлено: 2026-07-04 01:08:32
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Спас (450p) [Geo-blocked]" group-title="Religious",Спас (450p) [Geo-blocked]
@@ -2197,6 +2197,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/v4.tustreaming.cl/adat
 #EXTINF:-1 tvg-name="ISA TV" group-title="Religious",ISA TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/scl.edge.grupoz.cl/isatv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Radio El Sembrador" group-title="Religious",Radio El Sembrador
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Aghapy TV" group-title="Religious",Aghapy TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
 
@@ -2325,3 +2328,5 @@ https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8
 #EXTINF:-1 tvg-name="Sercem TV" group-title="Culture;General;Religious",Sercem TV
 https://canli.sercemtv.com.tr/hls/0/stream.m3u8
+#EXTINF:-1 tvg-name="Karbala Documentary" group-title="Documentary;Religious",Karbala Documentary
+https://ktvlive.online/stream/hls/ch3.m3u8

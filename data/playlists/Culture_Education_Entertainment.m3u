@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-03 23:35:33
-# Всего каналов: 18864
-# Новых за сессию: 0
+# Обновлено: 2026-07-04 01:08:32
+# Всего каналов: 18930
+# Новых за сессию: 66
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Education;Entertainment
 # Каналов: 1
-# Обновлено: 2026-07-03 23:35:33
+# Обновлено: 2026-07-04 01:08:32
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Manas TV" group-title="Culture;Education;Entertainment",Manas TV
@@ -2489,6 +2489,8 @@ http://206.212.244.63/19/index.m3u8
 http://206.212.244.63/49/index.m3u8
 #EXTINF:-1 tvg-name="Dog TV" group-title="Education;Lifestyle",Dog TV
 http://206.212.244.63/56/index.m3u8
+#EXTINF:-1 tvg-name="Great Entertainment Television" group-title="Entertainment",Great Entertainment Television
+http://206.212.244.63/80/index.m3u8
 #EXTINF:-1 tvg-name="Grit" group-title="Entertainment",Grit
 http://206.212.244.63/83/index.m3u8
 #EXTINF:-1 tvg-name="INSP" group-title="Entertainment",INSP
@@ -2517,3 +2519,23 @@ https://v4.tustreaming.cl/limachemovil/index.m3u8
 https://webtvstream.bhtelecom.ba/hls15/gametoon.m3u8
 #EXTINF:-1 tvg-name="MegaTV (576p)" group-title="Entertainment",MegaTV (576p)
 http://tv.istbolivia.com:1935/megatv/megatv/playlist.m3u8
+#EXTINF:-1 tvg-name="Qonaev Media" group-title="Entertainment",Qonaev Media
+https://s.qonaevtv.kz/live/qonaev/playlist.m3u8
+#EXTINF:-1 tvg-name="Once Ninas y Ninos (576p)" group-title="Education;Kids",Once Ninas y Ninos (576p)
+http://45.189.62.33:8002/play/a0p7/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",TF1" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",TF1
+http://151.80.18.177:86/TF1_HD/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Education",Rai Scuola" group-title="Education",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Education",Rai Scuola
+https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
+#EXTINF:-1 tvg-name="A+" group-title="Culture",A+
+http://45.189.62.33:8002/play/a0oc/index.m3u8
+#EXTINF:-1 tvg-name="ALLTV2 (480p)" group-title="Entertainment",ALLTV2 (480p)
+https://streams.comclark.com/pknsd/alltv/playlist.m3u8
+#EXTINF:-1 tvg-name="AP TV" group-title="Entertainment",AP TV
+https://59nyqg8elwap-hls-live.5centscdn.com/APTV/85c20905211659d143febd7c32592ee0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="ArabTV" group-title="Culture",ArabTV
+https://video03.logicahost.com.br/arabtvchile/arabtvchile/playlist.m3u8
+#EXTINF:-1 tvg-name="Zona Play TV" group-title="Entertainment",Zona Play TV
+https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8
+#EXTINF:-1 tvg-name="Carac 5" group-title="Entertainment",Carac 5
+https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8

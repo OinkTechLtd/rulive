@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-03 23:35:33
-# Всего каналов: 18864
-# Новых за сессию: 0
+# Обновлено: 2026-07-04 01:08:32
+# Всего каналов: 18930
+# Новых за сессию: 66
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Education;Public
 # Каналов: 1
-# Обновлено: 2026-07-03 23:35:33
+# Обновлено: 2026-07-04 01:08:32
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="TV UFOP" group-title="Culture;Education;Public",TV UFOP
@@ -935,3 +935,11 @@ http://206.212.244.63/134/index.m3u8
 http://206.212.244.63/672/index.m3u8
 #EXTINF:-1 tvg-name="Channel S" group-title="Culture",Channel S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Once Ninas y Ninos (576p)" group-title="Education;Kids",Once Ninas y Ninos (576p)
+http://45.189.62.33:8002/play/a0p7/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Education",Rai Scuola" group-title="Education",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Education",Rai Scuola
+https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
+#EXTINF:-1 tvg-name="A+" group-title="Culture",A+
+http://45.189.62.33:8002/play/a0oc/index.m3u8
+#EXTINF:-1 tvg-name="ArabTV" group-title="Culture",ArabTV
+https://video03.logicahost.com.br/arabtvchile/arabtvchile/playlist.m3u8

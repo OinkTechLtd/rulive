@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-03 23:35:33
-# Всего каналов: 18864
-# Новых за сессию: 0
+# Обновлено: 2026-07-04 01:08:32
+# Всего каналов: 18930
+# Новых за сессию: 66
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Lifestyle;Science
 # Каналов: 1
-# Обновлено: 2026-07-03 23:35:33
+# Обновлено: 2026-07-04 01:08:32
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Jilin Rural Channel" group-title="Education;Lifestyle;Science",Jilin Rural Channel
@@ -793,7 +793,11 @@ https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja.m3u8
 http://206.212.244.63/38/index.m3u8
 #EXTINF:-1 tvg-name="Dog TV" group-title="Education;Lifestyle",Dog TV
 http://206.212.244.63/56/index.m3u8
-#EXTINF:-1 tvg-name="Great American Living" group-title="Lifestyle",Great American Living
+#EXTINF:-1 tvg-name="Great American Faith & Living" group-title="Lifestyle;Movies",Great American Faith & Living
 http://206.212.244.63/82/index.m3u8
 #EXTINF:-1 tvg-name="PBS Kids 24/7" group-title="Education;Kids",PBS Kids 24/7
 http://206.212.244.63/672/index.m3u8
+#EXTINF:-1 tvg-name="Once Ninas y Ninos (576p)" group-title="Education;Kids",Once Ninas y Ninos (576p)
+http://45.189.62.33:8002/play/a0p7/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Education",Rai Scuola" group-title="Education",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Education",Rai Scuola
+https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
