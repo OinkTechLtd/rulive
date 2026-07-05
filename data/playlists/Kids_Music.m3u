@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-05 00:01:29
-# Всего каналов: 18930
-# Новых за сессию: 0
+# Обновлено: 2026-07-05 02:53:50
+# Всего каналов: 18980
+# Новых за сессию: 50
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Music
 # Каналов: 1
-# Обновлено: 2026-07-05 00:01:30
+# Обновлено: 2026-07-05 02:53:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Zhara Kids TV (576p)" group-title="Kids;Music",Zhara Kids TV (576p)
@@ -2043,9 +2043,9 @@ https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8
 https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8
 #EXTINF:-1 tvg-name="Trace Vanilla Islands" group-title="Music",Trace Vanilla Islands
 https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8
-#EXTINF:-1 tvg-name="D2h Kids" group-title="Kids",D2h Kids
+#EXTINF:-1 tvg-name="Peques TV" group-title="Kids",Peques TV
 https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Kids",Disney Stories" group-title="Kids",like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Kids",Disney Stories
+#EXTINF:-1 tvg-name="like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Kids",Chikitoonz" group-title="Kids",like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Kids",Chikitoonz
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Chikitoonz/playlist.m3u8
 #EXTINF:-1 tvg-name="Disney Channel Latin America North (576p)" group-title="Animation;Kids",Disney Channel Latin America North (576p)
 http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
@@ -2209,6 +2209,10 @@ https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8
 https://istoki.tv/live/stream1/playlist.m3u8
 #EXTINF:-1 tvg-name="Hasbro Legends [Geo-blocked]" group-title="Animation;Kids",Hasbro Legends [Geo-blocked]
 https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02713-amg02713c11-amgplt0852/playlist.m3u8
+#EXTINF:-1 tvg-name="Kool TV" group-title="Music",Kool TV
+https://twitch-m3u8.bastypro112.workers.dev/kooltvlive/index.m3u8
+#EXTINF:-1 tvg-name="Radio Clasica TV" group-title="Music",Radio Clasica TV
+https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8
 #EXTINF:-1 tvg-name="BabyTV Latin America" group-title="Kids",BabyTV Latin America
 http://179.60.51.134:8888/BABY-TV/index.m3u8
 #EXTINF:-1 tvg-name="Hit FM" group-title="Music",Hit FM
@@ -2259,3 +2263,25 @@ https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8
 https://v1.tustreaming.cl/genialtv/index.m3u8
 #EXTINF:-1 tvg-name="Patagonia Radio TV" group-title="Music",Patagonia Radio TV
 https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8
+#EXTINF:-1 tvg-name="Teletoon+" group-title="Animation;Kids",Teletoon+
+http://cdn.haititivi.com/TELETOON-HD/index.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon CIS" group-title="Kids",Nickelodeon CIS
+https://stream8.cinerama.uz/1500/playlist.m3u8
+#EXTINF:-1 tvg-name="Nicktoons CIS" group-title="Kids",Nicktoons CIS
+https://stream8.cinerama.uz/1502/playlist.m3u8
+#EXTINF:-1 tvg-name="Audiokiss" group-title="Music",Audiokiss
+https://master.tucableip.com/audiokisstv/index.m3u8
+#EXTINF:-1 tvg-name="Chocolate FM" group-title="Music",Chocolate FM
+https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8
+#EXTINF:-1 tvg-name="Corazon TV" group-title="Music",Corazon TV
+https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8
+#EXTINF:-1 tvg-name="Radio Edelweiss" group-title="Music",Radio Edelweiss
+https://vmix.dyndns.biz/Edelweiss/index.m3u8
+#EXTINF:-1 tvg-name="Radio Fiessta" group-title="Music",Radio Fiessta
+https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8
+#EXTINF:-1 tvg-name="Radio Zona 90.3" group-title="Music",Radio Zona 90.3
+https://live.tvcontrolcp.com:8081/radiozona/index.m3u8
+#EXTINF:-1 tvg-name="Sabor TV" group-title="Music",Sabor TV
+https://v1.tustreaming.cl/sabortv/index.m3u8
+#EXTINF:-1 tvg-name="Teleangol Radio" group-title="Music",Teleangol Radio
+https://pantera1-100gb-cl-movistar.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8

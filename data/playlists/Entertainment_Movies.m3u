@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-05 00:01:29
-# Всего каналов: 18930
-# Новых за сессию: 0
+# Обновлено: 2026-07-05 02:53:50
+# Всего каналов: 18980
+# Новых за сессию: 50
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Movies
 # Каналов: 1
-# Обновлено: 2026-07-05 00:01:30
+# Обновлено: 2026-07-05 02:53:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="KCM [Geo-blocked]" group-title="Entertainment;Movies",KCM [Geo-blocked]
@@ -2975,8 +2975,6 @@ https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Popcorn Central" group-title="Movies",Popcorn Central
 https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
-#EXTINF:-1 tvg-name="KOOL TV" group-title="Entertainment",KOOL TV
-https://twitch-m3u8.bastypro112.workers.dev/kooltvlive/index.m3u8
 #EXTINF:-1 tvg-name="Cine Familiar" group-title="Movies",Cine Familiar
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinefamiliar.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Cine Hispano" group-title="Movies",Cine Hispano
@@ -3019,9 +3017,9 @@ https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/pla
 https://v1.tustreaming.cl/emociontv/index.m3u8
 #EXTINF:-1 tvg-name="Estacion Limache TV" group-title="Entertainment",Estacion Limache TV
 https://v4.tustreaming.cl/limachemovil/index.m3u8
-#EXTINF:-1 tvg-name="Hallmark Movies & Mysteries" group-title="Movies",Hallmark Movies & Mysteries
+#EXTINF:-1 tvg-name="Hallmark Mystery" group-title="Movies;Series",Hallmark Mystery
 http://206.212.244.63/86/index.m3u8
-#EXTINF:-1 tvg-name="Screamfest" group-title="Movies",Screamfest
+#EXTINF:-1 tvg-name="Scares by Shudder" group-title="Movies",Scares by Shudder
 http://206.212.244.63/147/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Entertainment",Gametoon" group-title="Entertainment",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Entertainment",Gametoon
 https://webtvstream.bhtelecom.ba/hls15/gametoon.m3u8
@@ -3043,3 +3041,5 @@ https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8
 https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 #EXTINF:-1 tvg-name="Cinemo (480p)" group-title="Movies",Cinemo (480p)
 https://streams.comclark.com/pknsd/cinemo/playlist.m3u8
+#EXTINF:-1 tvg-name="NBC Universo" group-title="Entertainment",NBC Universo
+https://streamvidex.qzz.io/videx/universo/index.m3u8

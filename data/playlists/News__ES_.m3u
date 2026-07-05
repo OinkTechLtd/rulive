@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-05 00:01:29
-# Всего каналов: 18930
-# Новых за сессию: 0
+# Обновлено: 2026-07-05 02:53:50
+# Всего каналов: 18980
+# Новых за сессию: 50
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News (ES)
 # Каналов: 5
-# Обновлено: 2026-07-05 00:01:30
+# Обновлено: 2026-07-05 02:53:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Euronews Español Ⓨ" group-title="News (ES)",Euronews Español Ⓨ
@@ -2163,3 +2163,7 @@ https://streams.comclark.com/pknsd/anc/playlist.m3u8
 https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
 #EXTINF:-1 tvg-name="GTV (480p)" group-title="News",GTV (480p)
 https://streams.comclark.com/pknsd/gtv/playlist.m3u8
+#EXTINF:-1 tvg-name="Le Monde en 24h" group-title="News",Le Monde en 24h
+https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8
+#EXTINF:-1 tvg-name="Latina Noticias 24/7" group-title="News",Latina Noticias 24/7
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8

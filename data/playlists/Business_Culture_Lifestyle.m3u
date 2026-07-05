@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-05 00:01:29
-# Всего каналов: 18930
-# Новых за сессию: 0
+# Обновлено: 2026-07-05 02:53:50
+# Всего каналов: 18980
+# Новых за сессию: 50
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Business;Culture;Lifestyle
 # Каналов: 1
-# Обновлено: 2026-07-05 00:01:30
+# Обновлено: 2026-07-05 02:53:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="apart TV" group-title="Business;Culture;Lifestyle",apart TV
@@ -819,3 +819,5 @@ http://206.212.244.63/42/index.m3u8
 http://45.189.62.33:8002/play/a0oc/index.m3u8
 #EXTINF:-1 tvg-name="ArabTV" group-title="Culture",ArabTV
 https://video03.logicahost.com.br/arabtvchile/arabtvchile/playlist.m3u8
+#EXTINF:-1 tvg-name="Home Network" group-title="Lifestyle",Home Network
+http://40.160.24.53/HGTV/index.m3u8

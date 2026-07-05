@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-05 00:01:29
-# Всего каналов: 18930
-# Новых за сессию: 0
+# Обновлено: 2026-07-05 02:53:50
+# Всего каналов: 18980
+# Новых за сессию: 50
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;News
 # Каналов: 2
-# Обновлено: 2026-07-05 00:01:30
+# Обновлено: 2026-07-05 02:53:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Indywood TV" group-title="Movies;News",Indywood TV
@@ -3464,11 +3464,11 @@ https://servilive.com:3508/stream/play.m3u8
 https://redirector.dps.live/hls/turno/playlist.m3u8
 #EXTINF:-1 tvg-name="News 21 Bangla TV" group-title="News",News 21 Bangla TV
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Hallmark Movies & Mysteries" group-title="Movies",Hallmark Movies & Mysteries
+#EXTINF:-1 tvg-name="Hallmark Mystery" group-title="Movies;Series",Hallmark Mystery
 http://206.212.244.63/86/index.m3u8
 #EXTINF:-1 tvg-name="RT en Espanol" group-title="News",RT en Espanol
 http://179.60.51.134:8888/RT/index.m3u8
-#EXTINF:-1 tvg-name="Screamfest" group-title="Movies",Screamfest
+#EXTINF:-1 tvg-name="Scares by Shudder" group-title="Movies",Scares by Shudder
 http://206.212.244.63/147/index.m3u8
 #EXTINF:-1 tvg-name="Flash Haber TV" group-title="News",Flash Haber TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
@@ -3496,3 +3496,7 @@ https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
 https://streams.comclark.com/pknsd/gtv/playlist.m3u8
 #EXTINF:-1 tvg-name="Cinemo (480p)" group-title="Movies",Cinemo (480p)
 https://streams.comclark.com/pknsd/cinemo/playlist.m3u8
+#EXTINF:-1 tvg-name="Le Monde en 24h" group-title="News",Le Monde en 24h
+https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8
+#EXTINF:-1 tvg-name="Latina Noticias 24/7" group-title="News",Latina Noticias 24/7
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8

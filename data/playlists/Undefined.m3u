@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-05 00:01:29
-# Всего каналов: 18930
-# Новых за сессию: 0
+# Обновлено: 2026-07-05 02:53:50
+# Всего каналов: 18980
+# Новых за сессию: 50
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Undefined
-# Каналов: 4044
-# Обновлено: 2026-07-05 00:01:30
+# Каналов: 4043
+# Обновлено: 2026-07-05 02:53:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Дождь [Geo-blocked]" group-title="Undefined",Дождь [Geo-blocked]
@@ -2346,9 +2346,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/acceso.mediosdecostari
 
 #EXTINF:-1 tvg-name="Buin Somos Todos" group-title="Undefined",Buin Somos Todos
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/bst.buin.cl/0.m3u8
-
-#EXTINF:-1 tvg-name="Cadena A" group-title="Undefined",Cadena A
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Cadena TV" group-title="Undefined",Cadena TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.bitstreaming.net:3789/live/cdntvlive.m3u8
@@ -11578,9 +11575,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/lbgo.bozztv.com/ssh101
 #EXTINF:-1 tvg-name="GoLochTel TV (576p)" group-title="Undefined",GoLochTel TV (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/lbgo.bozztv.com/ssh101/ssh101/songsofangels33/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Stgo.TV" group-title="Undefined",Stgo.TV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rusach2.janus.cl/playlist/stream.m3u8
-
 #EXTINF:-1 tvg-name="TL Estrella" group-title="Undefined",TL Estrella
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8
 
@@ -11727,6 +11721,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.arkeo.cl:1936/radio
 
 #EXTINF:-1 tvg-name="RTS 1" group-title="Undefined",RTS 1
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/41.205.70.146/RTSUN/index.m3u8
+
+#EXTINF:-1 tvg-name="Univision" group-title="Undefined",Univision
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/200.115.120.1:8000/play/ca106/index.m3u8
 
 #EXTINF:-1 tvg-name="R9" group-title="Undefined",R9
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8

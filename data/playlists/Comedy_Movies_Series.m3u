@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-05 00:01:29
-# Всего каналов: 18930
-# Новых за сессию: 0
+# Обновлено: 2026-07-05 02:53:50
+# Всего каналов: 18980
+# Новых за сессию: 50
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Movies;Series
 # Каналов: 2
-# Обновлено: 2026-07-05 00:01:30
+# Обновлено: 2026-07-05 02:53:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Comedy;Movies;Series",like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -2082,8 +2082,6 @@ http://88.212.15.19/live/test_film_boxextra_hd_hevc/playlist.m3u8
 http://88.212.15.19/live/test_film_boxpremium_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox+ Love & Crime Czech Republic" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox+ Love & Crime Czech Republic
 http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8
-#EXTINF:-1 tvg-name="Juntos TV" group-title="Series",Juntos TV
-https://live-evg8.tv360.bitel.com.pe/bitel/juntostvSRT/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN
 http://cdn.haititivi.com/AXN/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AMC Europe Czech Republic" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AMC Europe Czech Republic
@@ -2248,9 +2246,9 @@ http://206.212.244.63/101/index.m3u8
 http://206.212.244.63/150/index.m3u8
 #EXTINF:-1 tvg-name="Sundance TV" group-title="Movies",Sundance TV
 http://206.212.244.63/151/index.m3u8
-#EXTINF:-1 tvg-name="Hallmark Movies & Mysteries" group-title="Movies",Hallmark Movies & Mysteries
+#EXTINF:-1 tvg-name="Hallmark Mystery" group-title="Movies;Series",Hallmark Mystery
 http://206.212.244.63/86/index.m3u8
-#EXTINF:-1 tvg-name="Screamfest" group-title="Movies",Screamfest
+#EXTINF:-1 tvg-name="Scares by Shudder" group-title="Movies",Scares by Shudder
 http://206.212.244.63/147/index.m3u8
 #EXTINF:-1 tvg-name="FilmBox Baltics (450p) [Geo-blocked]" group-title="Movies",FilmBox Baltics (450p) [Geo-blocked]
 https://s70378.cdn.ngenix.net/filmbox/index.m3u8

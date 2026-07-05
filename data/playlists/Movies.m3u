@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-05 00:01:29
-# Всего каналов: 18930
-# Новых за сессию: 0
+# Обновлено: 2026-07-05 02:53:50
+# Всего каналов: 18980
+# Новых за сессию: 50
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies
-# Каналов: 642
-# Обновлено: 2026-07-05 00:01:30
+# Каналов: 641
+# Обновлено: 2026-07-05 02:53:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="312 Кино (406p)" group-title="Movies",312 Кино (406p)
@@ -1768,10 +1768,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/206.212.244.63/85/inde
 #EXTINF:-1 tvg-name="Sundance TV" group-title="Movies",Sundance TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/206.212.244.63/151/index.m3u8
 
-#EXTINF:-1 tvg-name="Hallmark Movies & Mysteries" group-title="Movies",Hallmark Movies & Mysteries
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/206.212.244.63/86/index.m3u8
-
-#EXTINF:-1 tvg-name="Screamfest" group-title="Movies",Screamfest
+#EXTINF:-1 tvg-name="Scares by Shudder" group-title="Movies",Scares by Shudder
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/206.212.244.63/147/index.m3u8
 
 #EXTINF:-1 tvg-name="FilmBox Arthouse" group-title="Movies",FilmBox Arthouse
@@ -2218,3 +2215,5 @@ https://cdn-5.nxplay.com.br/AMC_BRASIL/index.m3u8
 http://206.212.244.63/81/index.m3u8
 #EXTINF:-1 tvg-name="Great American Faith & Living" group-title="Lifestyle;Movies",Great American Faith & Living
 http://206.212.244.63/82/index.m3u8
+#EXTINF:-1 tvg-name="Hallmark Mystery" group-title="Movies;Series",Hallmark Mystery
+http://206.212.244.63/86/index.m3u8

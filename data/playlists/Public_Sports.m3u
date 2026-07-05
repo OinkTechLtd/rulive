@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-05 00:01:29
-# Всего каналов: 18930
-# Новых за сессию: 0
+# Обновлено: 2026-07-05 02:53:50
+# Всего каналов: 18980
+# Новых за сессию: 50
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Public;Sports
 # Каналов: 2
-# Обновлено: 2026-07-05 00:01:30
+# Обновлено: 2026-07-05 02:53:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Esport3" group-title="Public;Sports",Esport3
@@ -1014,3 +1014,5 @@ http://41.223.30.230/ESPNNEWS/index.m3u8
 http://41.205.70.146/BEINSPORT1/index.m3u8
 #EXTINF:-1 tvg-name="NW Sport 2" group-title="Sports",NW Sport 2
 http://41.205.70.146/M6/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 1" group-title="Sports",Fox Sports 1
+http://cdn.haititivi.com/Fox_Sports_1/index.m3u8

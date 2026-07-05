@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-05 00:01:29
-# Всего каналов: 18930
-# Новых за сессию: 0
+# Обновлено: 2026-07-05 02:53:50
+# Всего каналов: 18980
+# Новых за сессию: 50
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;News;Religious
 # Каналов: 1
-# Обновлено: 2026-07-05 00:01:30
+# Обновлено: 2026-07-05 02:53:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Lingkar TV" group-title="Music;News;Religious",Lingkar TV
@@ -5097,6 +5097,10 @@ https://live.relentlessinnovations.net:1936/imantv/imantv/playlist.m3u8
 http://41.205.77.102/KTO/index.m3u8
 #EXTINF:-1 tvg-name="E! Latin America" group-title="Entertainment;News",E! Latin America
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Kool TV" group-title="Music",Kool TV
+https://twitch-m3u8.bastypro112.workers.dev/kooltvlive/index.m3u8
+#EXTINF:-1 tvg-name="Radio Clasica TV" group-title="Music",Radio Clasica TV
+https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8
 #EXTINF:-1 tvg-name="Hit FM" group-title="Music",Hit FM
 https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC News [Geo-blocked]" group-title="News",BBC News [Geo-blocked]
@@ -5181,3 +5185,25 @@ https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
 https://ktvlive.online/stream/hls/ch3.m3u8
 #EXTINF:-1 tvg-name="GTV (480p)" group-title="News",GTV (480p)
 https://streams.comclark.com/pknsd/gtv/playlist.m3u8
+#EXTINF:-1 tvg-name="Le Monde en 24h" group-title="News",Le Monde en 24h
+https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8
+#EXTINF:-1 tvg-name="Audiokiss" group-title="Music",Audiokiss
+https://master.tucableip.com/audiokisstv/index.m3u8
+#EXTINF:-1 tvg-name="Chocolate FM" group-title="Music",Chocolate FM
+https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8
+#EXTINF:-1 tvg-name="Corazon TV" group-title="Music",Corazon TV
+https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8
+#EXTINF:-1 tvg-name="Latina Noticias 24/7" group-title="News",Latina Noticias 24/7
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Primicia Vida" group-title="Religious",Primicia Vida
+https://mc.servidor.stream:19360/8248/8248.m3u8
+#EXTINF:-1 tvg-name="Radio Edelweiss" group-title="Music",Radio Edelweiss
+https://vmix.dyndns.biz/Edelweiss/index.m3u8
+#EXTINF:-1 tvg-name="Radio Fiessta" group-title="Music",Radio Fiessta
+https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8
+#EXTINF:-1 tvg-name="Radio Zona 90.3" group-title="Music",Radio Zona 90.3
+https://live.tvcontrolcp.com:8081/radiozona/index.m3u8
+#EXTINF:-1 tvg-name="Sabor TV" group-title="Music",Sabor TV
+https://v1.tustreaming.cl/sabortv/index.m3u8
+#EXTINF:-1 tvg-name="Teleangol Radio" group-title="Music",Teleangol Radio
+https://pantera1-100gb-cl-movistar.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8

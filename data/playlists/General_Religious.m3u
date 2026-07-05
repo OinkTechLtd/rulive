@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-05 00:01:29
-# Всего каналов: 18930
-# Новых за сессию: 0
+# Обновлено: 2026-07-05 02:53:50
+# Всего каналов: 18980
+# Новых за сессию: 50
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Religious
 # Каналов: 7
-# Обновлено: 2026-07-05 00:01:30
+# Обновлено: 2026-07-05 02:53:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Сити Эдем ТВ Христианский" group-title="General;Religious",Сити Эдем ТВ Христианский
@@ -3165,6 +3165,8 @@ https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
 https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8
 #EXTINF:-1 tvg-name="BUM Televisión" group-title="General",BUM Televisión
 https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-name="Cadena A" group-title="General",Cadena A
+https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 #EXTINF:-1 tvg-name="Cali TV (540p)" group-title="General",Cali TV (540p)
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1 tvg-name="Camu TV (480p)" group-title="General",Camu TV (480p)
@@ -6419,6 +6421,8 @@ http://31.148.48.15/KBS_World/index.m3u8
 https://streamunoapp.com:3511/live/femeninatvlive.m3u8
 #EXTINF:-1 tvg-name="Telemetro" group-title="General",Telemetro
 http://181.78.121.15:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-name="Juntos TV" group-title="General",Juntos TV
+https://live-evg8.tv360.bitel.com.pe/bitel/juntostvSRT/playlist.m3u8
 #EXTINF:-1 tvg-name="3sat" group-title="General",3sat
 http://41.223.30.230/3SAT/index.m3u8
 #EXTINF:-1 tvg-name="TVLatinaSat" group-title="General",TVLatinaSat
@@ -6755,7 +6759,7 @@ https://mist01.homestream.fun/hls/interactivotv/index.m3u8
 https://tv.arkeo.cl:1936/unetev/unetev/playlist.m3u8
 #EXTINF:-1 tvg-name="La Exitosa TV Riberalta" group-title="General",La Exitosa TV Riberalta
 https://ares.disfrutaenlared.com:1936/exitosa/exitosa/playlist.m3u8
-#EXTINF:-1 tvg-name="ONCE TV" group-title="General",ONCE TV
+#EXTINF:-1 tvg-name="As Contenidos" group-title="General",As Contenidos
 https://master.tucableip.com/ascontenido/index.m3u8
 #EXTINF:-1 tvg-name="Plaza TV" group-title="General",Plaza TV
 https://lbgo.bozztv.com/ssh101/ssh101/plazatv3/playlist.m3u8
@@ -6767,6 +6771,8 @@ https://rtp.noxun.net/hls720/stream3.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/mbocayatyhd/playlist.m3u8
 #EXTINF:-1 tvg-name="SCM TV 32.1" group-title="General",SCM TV 32.1
 https://lbgo.bozztv.com/ssh101/ssh101/cinebes/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio USACH" group-title="General",Radio USACH
+https://rusach2.janus.cl/playlist/stream.m3u8
 #EXTINF:-1 tvg-name="Tele Fe Bolivia" group-title="General",Tele Fe Bolivia
 https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8
 #EXTINF:-1 tvg-name="Unica TV" group-title="General",Unica TV
@@ -6791,17 +6797,17 @@ https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8
 https://live.relentlessinnovations.net:1936/imantv/imantv/playlist.m3u8
 #EXTINF:-1 tvg-name="KTO" group-title="Religious",KTO
 http://41.205.77.102/KTO/index.m3u8
-#EXTINF:-1 tvg-name="Aiquilena Radio y Television" group-title="General",Aiquilena Radio y Television
+#EXTINF:-1 tvg-name="Radio Centro" group-title="General",Radio Centro
 https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 25 Bermejo" group-title="General",Canal 25 Bermejo
-https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 52 Valle Television" group-title="General",Canal 52 Valle Television
+#EXTINF:-1 tvg-name="PLUS Television" group-title="General",PLUS Television
 https://twitch-m3u8.bastypro112.workers.dev/plustelevisionbolivia/index.m3u8
 #EXTINF:-1 tvg-name="Fortaleza TV Cueto" group-title="General",Fortaleza TV Cueto
 https://twitch-m3u8.bastypro112.workers.dev/tvfortalezacueto/index.m3u8
 #EXTINF:-1 tvg-name="LotPlus TV" group-title="General",LotPlus TV
 https://ontvcable.streamottmas.workers.dev/ontvcable.m3u8
-#EXTINF:-1 tvg-name="Radio Television Ichilo" group-title="General",Radio Television Ichilo
+#EXTINF:-1 tvg-name="Dialogo La Red Educativa" group-title="General",Dialogo La Red Educativa
+https://twitch-m3u8.bastypro112.workers.dev/dialogolarededucativacbba/index.m3u8
+#EXTINF:-1 tvg-name="Radio Kollasuyo" group-title="General",Radio Kollasuyo
 https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8
 #EXTINF:-1 tvg-name="Radio Uno PST" group-title="General",Radio Uno PST
 https://master.tucableip.com/pstbolivia/index.m3u8
@@ -6843,8 +6849,6 @@ https://v1.tustreaming.cl/canal30loncomilla/index.m3u8
 https://stream.blserver.cl/hls/ctv/index.m3u8
 #EXTINF:-1 tvg-name="Interactiva TV" group-title="General",Interactiva TV
 https://unlimited2-cl-isp.dps.live/radiointeractiva/radiointeractiva.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Juntos TV" group-title="General",Juntos TV
-https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8
 #EXTINF:-1 tvg-name="Maulevision" group-title="General",Maulevision
 https://v2.tustreaming.cl/maulevisiontv/index.m3u8
 #EXTINF:-1 tvg-name="Mundos Lacustres TV" group-title="General",Mundos Lacustres TV
@@ -6925,3 +6929,59 @@ http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 https://stream.berosat.live/hls/wangu-tv/wangu-tv.m3u8
 #EXTINF:-1 tvg-name="Karbala Documentary" group-title="Documentary;Religious",Karbala Documentary
 https://ktvlive.online/stream/hls/ch3.m3u8
+#EXTINF:-1 tvg-name="Rika TV (480p)" group-title="General",Rika TV (480p)
+https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",Mediaset Italia USA" group-title="General",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",Mediaset Italia USA
+https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
+#EXTINF:-1 tvg-name="Telemundo" group-title="General",Telemundo
+https://streamvidex.qzz.io/videx/telemundo/index.m3u8
+#EXTINF:-1 tvg-name="Paris Premiere" group-title="General",Paris Premiere
+http://cdn.haititivi.com/PARIS-PREMIERE/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",Mediaset Italia Australia" group-title="General",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",Mediaset Italia Australia
+https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
+#EXTINF:-1 tvg-name="AM Canal" group-title="General",AM Canal
+https://streaming.bitsur.cl:3534/live/vdo1102live.m3u8
+#EXTINF:-1 tvg-name="Central TV" group-title="General",Central TV
+https://freya.mivideo.pro/centraltv/video.m3u8
+#EXTINF:-1 tvg-name="Ciudadano Radio" group-title="General",Ciudadano Radio
+https://oracle.streaminghd.cl:443/ciudadanoradiotv/ciudadanoradiotv/playlist.m3u8
+#EXTINF:-1 tvg-name="Coyhaique TV" group-title="General",Coyhaique TV
+https://v2.tustreaming.cl/coyhaiquetv/index.m3u8
+#EXTINF:-1 tvg-name="Docevision" group-title="General",Docevision
+https://live20.bozztv.com/giatvplayout7/giatv-208729/playlist.m3u8
+#EXTINF:-1 tvg-name="El Radar" group-title="General",El Radar
+https://video.ipstream.cl:3459/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="En Linea Maule" group-title="General",En Linea Maule
+https://v2.tustreaming.cl/enlineamauletv/index.m3u8
+#EXTINF:-1 tvg-name="La Comarca TV" group-title="General",La Comarca TV
+https://v2.tustreaming.cl/lcomarcatv/index.m3u8
+#EXTINF:-1 tvg-name="Latina Podcast" group-title="General",Latina Podcast
+https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Nina TV" group-title="General",Nina TV
+https://tv1.ninatv.cl/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Primicia Vida" group-title="Religious",Primicia Vida
+https://mc.servidor.stream:19360/8248/8248.m3u8
+#EXTINF:-1 tvg-name="Radio Ancoa TV" group-title="General",Radio Ancoa TV
+https://v2.tustreaming.cl/radioancoatv/index.m3u8
+#EXTINF:-1 tvg-name="Radio Camila TV" group-title="General",Radio Camila TV
+https://panel.tvstream.cl:1936/8008/8008/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Chiloe" group-title="General",Radio Chiloe
+https://videostream.chileservidores.com:8081/chiloe1/index.m3u8
+#EXTINF:-1 tvg-name="Radio Contemporanea Coihueco" group-title="General",Radio Contemporanea Coihueco
+https://tv.arkeo.cl:19360/8046/8046.m3u8
+#EXTINF:-1 tvg-name="Radio Las Nieves" group-title="General",Radio Las Nieves
+https://v2.tustreaming.cl/rln/index.m3u8
+#EXTINF:-1 tvg-name="Radio Panoramica" group-title="General",Radio Panoramica
+https://v2.tustreaming.cl/alingeproducciones/index.m3u8
+#EXTINF:-1 tvg-name="Radio UC" group-title="General",Radio UC
+https://oracle.streaminghd.cl/radiouc/radiouc/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio UNIACC" group-title="General",Radio UNIACC
+https://scl.edge.grupoz.cl/uniaccastream/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Universal" group-title="General",Radio Universal
+https://videostream.chileservidores.com:8081/universal/index.m3u8
+#EXTINF:-1 tvg-name="Radio Via Libre" group-title="General",Radio Via Libre
+https://live20.bozztv.com/akamaissh101/ssh101/vialibretv/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Vida Curico" group-title="General",Radio Vida Curico
+https://v2.tustreaming.cl/radiovidacurico/index.m3u8
+#EXTINF:-1 tvg-name="Zoom Tecnologico Plus" group-title="General",Zoom Tecnologico Plus
+https://5f700d5b2c46f.streamlock.net:443/zoomtec/zoomtec/playlist.m3u8

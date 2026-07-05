@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-05 00:01:29
-# Всего каналов: 18930
-# Новых за сессию: 0
+# Обновлено: 2026-07-05 02:53:50
+# Всего каналов: 18980
+# Новых за сессию: 50
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Auto;Outdoor;Series;Sports
 # Каналов: 1
-# Обновлено: 2026-07-05 00:01:30
+# Обновлено: 2026-07-05 02:53:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="REV'N Action" group-title="Auto;Outdoor;Series;Sports",REV'N Action
@@ -1725,8 +1725,6 @@ http://185.246.209.113/DISCOVERYHD/index.m3u8
 http://185.246.209.113/CottageLife/index.m3u8
 #EXTINF:-1 tvg-name="T+E" group-title="Series",T+E
 http://185.246.209.113/T+E/index.m3u8
-#EXTINF:-1 tvg-name="Juntos TV" group-title="Series",Juntos TV
-https://live-evg8.tv360.bitel.com.pe/bitel/juntostvSRT/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Auto",SPEEDVISION" group-title="Auto",like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Auto",SPEEDVISION
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fierrofondo.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Band Sports" group-title="Sports",Band Sports
@@ -1823,6 +1821,8 @@ http://206.212.244.63/150/index.m3u8
 https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
 #EXTINF:-1 tvg-name="T Sports 7" group-title="Sports",T Sports 7
 https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
+#EXTINF:-1 tvg-name="Hallmark Mystery" group-title="Movies;Series",Hallmark Mystery
+http://206.212.244.63/86/index.m3u8
 #EXTINF:-1 tvg-name="MLB Strike Zone" group-title="Sports",MLB Strike Zone
 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 #EXTINF:-1 tvg-name="Olympics Channel [Geo-blocked]" group-title="Sports",Olympics Channel [Geo-blocked]
@@ -1837,3 +1837,5 @@ http://41.223.30.230/ESPNNEWS/index.m3u8
 http://41.205.70.146/BEINSPORT1/index.m3u8
 #EXTINF:-1 tvg-name="NW Sport 2" group-title="Sports",NW Sport 2
 http://41.205.70.146/M6/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 1" group-title="Sports",Fox Sports 1
+http://cdn.haititivi.com/Fox_Sports_1/index.m3u8

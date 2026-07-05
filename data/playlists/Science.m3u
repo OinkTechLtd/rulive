@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-05 00:01:29
-# Всего каналов: 18930
-# Новых за сессию: 0
+# Обновлено: 2026-07-05 02:53:50
+# Всего каналов: 18980
+# Новых за сессию: 50
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Science
-# Каналов: 12
-# Обновлено: 2026-07-05 00:01:30
+# Каналов: 13
+# Обновлено: 2026-07-05 02:53:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Eko TV" group-title="Science",Eko TV
@@ -45,6 +45,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/adpnetworkhd-cmd.githu
 
 #EXTINF:-1 tvg-name="Smithsonian Channel Selects" group-title="Science",Smithsonian Channel Selects
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
+
+#EXTINF:-1 tvg-name="Smithsonian Channel" group-title="Science",Smithsonian Channel
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.55/SMITHSONIAN/index.m3u8
 
 #EXTINF:-1 tvg-name="Pluto TV Science" group-title="Documentary;Science",Pluto TV Science
 https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
