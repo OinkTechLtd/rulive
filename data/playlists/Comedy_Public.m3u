@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-07 00:07:25
-# Всего каналов: 18981
-# Новых за сессию: 0
+# Обновлено: 2026-07-07 01:17:19
+# Всего каналов: 19057
+# Новых за сессию: 76
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Public
 # Каналов: 1
-# Обновлено: 2026-07-07 00:07:25
+# Обновлено: 2026-07-07 01:17:19
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="3Cat El búnquer" group-title="Comedy;Public",3Cat El búnquer
@@ -387,3 +387,5 @@ https://jmp2.uk/plu-693ae5660eedebc8d5db6579.m3u8
 http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
 #EXTINF:-1 tvg-name="Laff" group-title="Comedy",Laff
 http://206.212.244.63/101/index.m3u8
+#EXTINF:-1 tvg-name="KVN TV (576p)" group-title="Comedy",KVN TV (576p)
+http://178.124.179.122:8080/KVN-TV/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-07 00:07:25
-# Всего каналов: 18981
-# Новых за сессию: 0
+# Обновлено: 2026-07-07 01:17:19
+# Всего каналов: 19057
+# Новых за сессию: 76
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Family
-# Каналов: 39
-# Обновлено: 2026-07-07 00:07:25
+# Каналов: 41
+# Обновлено: 2026-07-07 01:17:19
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Family",like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -123,6 +123,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/bantel-cdn1.iptvperu.t
 
 #EXTINF:-1 tvg-name="Freeform West" group-title="Family",Freeform West
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/206.212.244.63/70/index.m3u8
+
+#EXTINF:-1 tvg-name="STS (576p)" group-title="Family",STS (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tshift-1.telecoma.tv/sts/index.m3u8
+
+#EXTINF:-1 tvg-name="FETV" group-title="Family",FETV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/206.212.244.63/60/index.m3u8
 
 #EXTINF:-1 tvg-name="The Pet Collective" group-title="Family",The Pet Collective
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8

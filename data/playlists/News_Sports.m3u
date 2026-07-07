@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-07 00:07:25
-# Всего каналов: 18981
-# Новых за сессию: 0
+# Обновлено: 2026-07-07 01:17:19
+# Всего каналов: 19057
+# Новых за сессию: 76
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News;Sports
 # Каналов: 4
-# Обновлено: 2026-07-07 00:07:25
+# Обновлено: 2026-07-07 01:17:19
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Africa 24 Sport" group-title="News;Sports",Africa 24 Sport
@@ -2600,6 +2600,8 @@ https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
 https://live.miracleonline.org/hls/miracle1.m3u8
 #EXTINF:-1 tvg-name="Monster Jam" group-title="Outdoor;Sports",Monster Jam
 https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8
+#EXTINF:-1 tvg-name="MTRSPT1" group-title="Sports",MTRSPT1
+https://amg02873-kravemedia-mtrspt1-distrotv-mnsrl.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 #EXTINF:-1 tvg-name="NHL Network" group-title="Sports",NHL Network
 https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="PFL MMA" group-title="Sports",PFL MMA
@@ -3002,7 +3004,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tvperunoticias.stream/playlist.m3u8
 http://ott.watch/XE5QWWBZ87/256/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Golazo Network" group-title="Sports",Golazo Network
 https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
-#EXTINF:-1 tvg-name="OAN Plus" group-title="News",OAN Plus
+#EXTINF:-1 tvg-name="KPVM OAN Plus" group-title="News",KPVM OAN Plus
 https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Real Madrid TV English [Geo-blocked]" group-title="Sports",Real Madrid TV English [Geo-blocked]
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
@@ -3080,3 +3082,33 @@ http://cdn.haititivi.com/Fox_Sports_1/index.m3u8
 https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8
 #EXTINF:-1 tvg-name="Latina Noticias 24/7" group-title="News",Latina Noticias 24/7
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="KPVM Newsmax 2" group-title="News",KPVM Newsmax 2
+https://2-fss-2.streamhoster.com/pl_120/206858-4404556-1/playlist.m3u8
+#EXTINF:-1 tvg-name="KPVM Real America's Voice" group-title="News",KPVM Real America's Voice
+https://2-fss-2.streamhoster.com/pl_118/206858-4404454-1/playlist.m3u8
+#EXTINF:-1 tvg-name="Newsmax TV" group-title="News",Newsmax TV
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 3" group-title="Sports",ESPN 3
+http://181.78.197.59:8000/play/a081/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 4" group-title="Sports",ESPN 4
+http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1 tvg-name="DSports" group-title="Sports",DSports
+https://streamvidex.qzz.io/videx/dsportsar/index.m3u8
+#EXTINF:-1 tvg-name="i24NEWS English World" group-title="News",i24NEWS English World
+https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-name="DSports 2" group-title="Sports",DSports 2
+https://streamvidex.qzz.io/videx/dsports2/index.m3u8
+#EXTINF:-1 tvg-name="DSports+" group-title="Sports",DSports+
+https://streamvidex.qzz.io/videx/dsportsplus/index.m3u8
+#EXTINF:-1 tvg-name="T13 En Vivo" group-title="News",T13 En Vivo
+https://redirector.dps.live/hls/t13/playlist.m3u8
+#EXTINF:-1 tvg-name="i24NEWS French" group-title="News",i24NEWS French
+https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-name="Al Janoub TV" group-title="News",Al Janoub TV
+https://live.alissahost.net/hls/test.m3u8
+#EXTINF:-1 tvg-name="Alghadeer TV" group-title="News",Alghadeer TV
+https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8
+#EXTINF:-1 tvg-name="i24NEWS Arabic" group-title="News",i24NEWS Arabic
+https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-name="Euro TV (432p)" group-title="News",Euro TV (432p)
+https://lbgo.bozztv.com/ssh101/ssh101/eurotvlive/playlist.m3u8

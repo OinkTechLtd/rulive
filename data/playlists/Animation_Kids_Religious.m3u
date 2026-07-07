@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-07 00:07:25
-# Всего каналов: 18981
-# Новых за сессию: 0
+# Обновлено: 2026-07-07 01:17:19
+# Всего каналов: 19057
+# Новых за сессию: 76
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Kids;Religious
 # Каналов: 2
-# Обновлено: 2026-07-07 00:07:25
+# Обновлено: 2026-07-07 01:17:19
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="3ABN Kids Network" group-title="Animation;Kids;Religious",3ABN Kids Network
@@ -2218,7 +2218,7 @@ https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalinfantil/playlist.m3u8
 #EXTINF:-1 tvg-name="DreamWorks Channel Latin America" group-title="Animation",DreamWorks Channel Latin America
 http://138.121.15.230:9002/DREAMWORKS/index.m3u8
-#EXTINF:-1 tvg-name="Karapuz TV" group-title="Kids",Karapuz TV
+#EXTINF:-1 tvg-name="Tooku" group-title="Animation;Kids",Tooku
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 tvg-name="O!" group-title="Kids",O!
 http://de.russkoe-iptv.com:88/s/s-e3dc39e0/kanal-o-hd.m3u8
@@ -2354,8 +2354,6 @@ https://jmp2.uk/plu-664f12bb3d173b0008168c1f.m3u8
 https://jmp2.uk/plu-664f0d373d173b0008164948.m3u8
 #EXTINF:-1 tvg-name="Azan TV" group-title="Religious",Azan TV
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
-#EXTINF:-1 tvg-name="Lyubimoe.TV" group-title="Kids",Lyubimoe.TV
-https://istoki.tv/live/stream1/playlist.m3u8
 #EXTINF:-1 tvg-name="Hasbro Legends [Geo-blocked]" group-title="Animation;Kids",Hasbro Legends [Geo-blocked]
 https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02713-amg02713c11-amgplt0852/playlist.m3u8
 #EXTINF:-1 tvg-name="Iman TV (480p)" group-title="Religious",Iman TV (480p)
@@ -2402,3 +2400,15 @@ https://stream8.cinerama.uz/1500/playlist.m3u8
 https://stream8.cinerama.uz/1502/playlist.m3u8
 #EXTINF:-1 tvg-name="Primicia Vida" group-title="Religious",Primicia Vida
 https://mc.servidor.stream:19360/8248/8248.m3u8
+#EXTINF:-1 tvg-name="RU.TV Kids" group-title="Kids",RU.TV Kids
+https://rutvkids.ru/live/efir/index.m3u8
+#EXTINF:-1 tvg-name="Canal 6 Viento Recio" group-title="Religious",Canal 6 Viento Recio
+https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8
+#EXTINF:-1 tvg-name="Riddim & Hope TV" group-title="Religious",Riddim & Hope TV
+https://6zklxwavdw9b-hls-live.5centscdn.com/RIDDIMNHOPE/0954119dc19d9003dd5f4bb37b3f559e.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Trace Gospel Nigeria and East Africa" group-title="Music;Religious",Trace Gospel Nigeria and East Africa
+https://channels.trace.plus/Traceprod/GOSPEL_ROA/index.m3u8
+#EXTINF:-1 tvg-name="Trace Gospel Southern Africa" group-title="Music;Religious",Trace Gospel Southern Africa
+https://channels.trace.plus/Traceprod/GOSPEL_SA_ld/index.m3u8
+#EXTINF:-1 tvg-name="ducktv PLUS" group-title="Kids",ducktv PLUS
+https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8

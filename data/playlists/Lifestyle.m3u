@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-07 00:07:25
-# Всего каналов: 18981
-# Новых за сессию: 0
+# Обновлено: 2026-07-07 01:17:19
+# Всего каналов: 19057
+# Новых за сессию: 76
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Lifestyle
-# Каналов: 110
-# Обновлено: 2026-07-07 00:07:25
+# Каналов: 112
+# Обновлено: 2026-07-07 01:17:19
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Домашний (540p) [Geo-blocked]" group-title="Lifestyle",Домашний (540p) [Geo-blocked]
@@ -331,8 +331,14 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.55/Nova/inde
 #EXTINF:-1 tvg-name="Home Network" group-title="Lifestyle",Home Network
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.53/HGTV/index.m3u8
 
+#EXTINF:-1 tvg-name="Bizz TV" group-title="Lifestyle",Bizz TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.bizzmedia.biz/bizz_tv/index.m3u8
+
 #EXTINF:-1 tvg-name="13 Prime" group-title="Lifestyle",13 Prime
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
+
+#EXTINF:-1 tvg-name="FASHION & LIFESTYLE" group-title="Lifestyle",FASHION & LIFESTYLE
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Fashion_One_HD/index.m3u8
 
 #EXTINF:-1 tvg-name="Divinity" group-title="Lifestyle",Divinity
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/92.176.119.180:2095/play/a1g1
@@ -426,3 +432,5 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://206.212.244.63/56/index.m3u8
 #EXTINF:-1 tvg-name="Great American Faith & Living" group-title="Lifestyle;Movies",Great American Faith & Living
 http://206.212.244.63/82/index.m3u8
+#EXTINF:-1 tvg-name="KPVM AWE Plus" group-title="Lifestyle;Travel",KPVM AWE Plus
+https://2-fss-2.streamhoster.com/pl_120/206858-4404552-1/playlist.m3u8

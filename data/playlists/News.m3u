@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-07 00:07:25
-# Всего каналов: 18981
-# Новых за сессию: 0
+# Обновлено: 2026-07-07 01:17:19
+# Всего каналов: 19057
+# Новых за сессию: 76
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News
-# Каналов: 1057
-# Обновлено: 2026-07-07 00:07:25
+# Каналов: 1068
+# Обновлено: 2026-07-07 01:17:19
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Дождь (альтернативный)" group-title="News",Дождь (альтернативный)
@@ -110,7 +110,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.corusdigitaldev.c
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CNN" group-title="News",CNN
-https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-name="CNN International" group-title="News",CNN International
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -2878,7 +2878,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/lbgo.bozztv.com/ssh101
 #EXTINF:-1 tvg-name="TV Peru Noticias (576p)" group-title="News",TV Peru Noticias (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/bantel-cdn1.iptvperu.tv:1935/btnscrtn/tvperunoticias.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="OAN Plus" group-title="News",OAN Plus
+#EXTINF:-1 tvg-name="KPVM OAN Plus" group-title="News",KPVM OAN Plus
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="J3NEWS TV" group-title="News",J3NEWS TV
@@ -2964,6 +2964,39 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.berosat.live/hl
 
 #EXTINF:-1 tvg-name="Latina Noticias 24/7" group-title="News",Latina Noticias 24/7
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Russia-24" group-title="News",Russia-24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+
+#EXTINF:-1 tvg-name="KPVM Newsmax 2" group-title="News",KPVM Newsmax 2
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/2-fss-2.streamhoster.com/pl_120/206858-4404556-1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="KPVM Real America's Voice" group-title="News",KPVM Real America's Voice
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/2-fss-2.streamhoster.com/pl_118/206858-4404454-1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Newsmax TV" group-title="News",Newsmax TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-name="i24NEWS English World" group-title="News",i24NEWS English World
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
+
+#EXTINF:-1 tvg-name="T13 En Vivo" group-title="News",T13 En Vivo
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/redirector.dps.live/hls/t13/playlist.m3u8
+
+#EXTINF:-1 tvg-name="i24NEWS French" group-title="News",i24NEWS French
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
+
+#EXTINF:-1 tvg-name="Al Janoub TV" group-title="News",Al Janoub TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.alissahost.net/hls/test.m3u8
+
+#EXTINF:-1 tvg-name="Alghadeer TV" group-title="News",Alghadeer TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/sd343444.vodu.store:3356/live/Alghadeer/index.m3u8
+
+#EXTINF:-1 tvg-name="i24NEWS Arabic" group-title="News",i24NEWS Arabic
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/i24newsarabic-cdn.encoders.immergo.tv/master.m3u8
+
+#EXTINF:-1 tvg-name="Euro TV (432p)" group-title="News",Euro TV (432p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/lbgo.bozztv.com/ssh101/ssh101/eurotvlive/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Беларусь 24" group-title="News",Беларусь 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8

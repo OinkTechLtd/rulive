@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-07 00:07:25
-# Всего каналов: 18981
-# Новых за сессию: 0
+# Обновлено: 2026-07-07 01:17:19
+# Всего каналов: 19057
+# Новых за сессию: 76
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Religious
 # Каналов: 2
-# Обновлено: 2026-07-07 00:07:25
+# Обновлено: 2026-07-07 01:17:19
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Paighan TV" group-title="Education;Religious",Paighan TV
@@ -2042,3 +2042,11 @@ https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
 https://ktvlive.online/stream/hls/ch3.m3u8
 #EXTINF:-1 tvg-name="Primicia Vida" group-title="Religious",Primicia Vida
 https://mc.servidor.stream:19360/8248/8248.m3u8
+#EXTINF:-1 tvg-name="Canal 6 Viento Recio" group-title="Religious",Canal 6 Viento Recio
+https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8
+#EXTINF:-1 tvg-name="Riddim & Hope TV" group-title="Religious",Riddim & Hope TV
+https://6zklxwavdw9b-hls-live.5centscdn.com/RIDDIMNHOPE/0954119dc19d9003dd5f4bb37b3f559e.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Trace Gospel Nigeria and East Africa" group-title="Music;Religious",Trace Gospel Nigeria and East Africa
+https://channels.trace.plus/Traceprod/GOSPEL_ROA/index.m3u8
+#EXTINF:-1 tvg-name="Trace Gospel Southern Africa" group-title="Music;Religious",Trace Gospel Southern Africa
+https://channels.trace.plus/Traceprod/GOSPEL_SA_ld/index.m3u8
