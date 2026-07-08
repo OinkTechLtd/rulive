@@ -1,5 +1,5 @@
 #EXTM3U
-# Обновлено: 2026-07-08 20:43:59
+# Обновлено: 2026-07-08 21:06:17
 # Всего каналов: 19196
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
@@ -7,7 +7,7 @@
 
 # Категория: Animation;Family;Kids
 # Каналов: 2
-# Обновлено: 2026-07-08 20:44:00
+# Обновлено: 2026-07-08 21:06:18
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="BBC Three/CBBC [Geo-Blocked]" group-title="Animation;Family;Kids",BBC Three/CBBC [Geo-Blocked]
@@ -16,6 +16,8 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/viamotionhsi.netplus.c
 #EXTINF:-1 tvg-name="BBC Three/CBBC" group-title="Animation;Family;Kids",BBC Three/CBBC
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/193.46.58.239:8080/CBBCHD/index.m3u8
 
+#EXTINF:-1 tvg-name="9Go! [Geo-blocked]" group-title="Entertainment;Kids",9Go! [Geo-blocked]
+https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
 #EXTINF:-1 tvg-name="TNT Kids (288p)" group-title="Kids",TNT Kids (288p)
 https://restreamer1.tnt.ba/hls/tntkids.m3u8
 #EXTINF:-1 tvg-name="13 Kids" group-title="Kids",13 Kids

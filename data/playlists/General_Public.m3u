@@ -1,5 +1,5 @@
 #EXTM3U
-# Обновлено: 2026-07-08 20:43:59
+# Обновлено: 2026-07-08 21:06:17
 # Всего каналов: 19196
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
@@ -7,7 +7,7 @@
 
 # Категория: General;Public
 # Каналов: 22
-# Обновлено: 2026-07-08 20:44:00
+# Обновлено: 2026-07-08 21:06:18
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="La 2 Canarias" group-title="General;Public",La 2 Canarias
@@ -76,6 +76,8 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/92.176.119.180:2095/pl
 #EXTINF:-1 tvg-name="La 1 Comunitat Valenciana" group-title="General;Public",La 1 Comunitat Valenciana
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/92.176.119.180:2095/play/a16x
 
+#EXTINF:-1 tvg-name="NET TV" group-title="General",NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="ОНТ (576p)" group-title="General",ОНТ (576p)
 https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
 #EXTINF:-1 tvg-name="СТБ" group-title="General",СТБ

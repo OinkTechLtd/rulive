@@ -1,5 +1,5 @@
 #EXTM3U
-# Обновлено: 2026-07-08 20:43:59
+# Обновлено: 2026-07-08 21:06:17
 # Всего каналов: 19196
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
@@ -20,7 +20,7 @@ https://secure-272717.tatnet.app/tv.a2news.com/live/smil:a2cnnweb.stream.smil/pl
 #EXTINF:-1 tvg-name="ABC News Albania Ⓣ" group-title="Albania",ABC News Albania Ⓣ
 https://secure-272717.tatnet.app/www.twitch.tv/abcnewsal
 
-#EXTINF:-1 tvg-name="AlbKanale Music TV" group-title="IPTV",AlbKanale Music TV
+#EXTINF:-1 tvg-name="AlbKanale Music TV" group-title="Music",AlbKanale Music TV
 https://secure-272717.tatnet.app/albportal.net/albkanalemusic.m3u8
 
 #EXTINF:-1 tvg-name="Euronews Albania Ⓨ" group-title="Albania",Euronews Albania Ⓨ
@@ -29,7 +29,7 @@ https://secure-272717.tatnet.app/www.youtube.com/@EuronewsAlbania/live
 #EXTINF:-1 tvg-name="News 24 Ⓢ" group-title="IPTV",News 24 Ⓢ
 https://secure-272717.tatnet.app/tv.balkanweb.com/news24/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ora News" group-title="IPTV",Ora News
+#EXTINF:-1 tvg-name="Ora News" group-title="News",Ora News
 https://secure-272717.tatnet.app/live1.mediadesk.al/oranews.m3u8
 
 #EXTINF:-1 tvg-name="Syri" group-title="IPTV",Syri
@@ -49454,13 +49454,13 @@ https://secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8
 #EXTINF:-1 tvg-name="Alpo TV" group-title="IPTV",Alpo TV
 https://secure-272717.tatnet.app/5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 
-#EXTINF:-1 tvg-name="CNA" group-title="IPTV",CNA
+#EXTINF:-1 tvg-name="CNA" group-title="News",CNA
 https://secure-272717.tatnet.app/live1.mediadesk.al/cnatvlive.m3u8
 
 #EXTINF:-1 tvg-name="Panorama TV Ⓢ" group-title="IPTV",Panorama TV Ⓢ
 https://secure-272717.tatnet.app/198.244.188.94/panorama/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Report TV" group-title="IPTV",Report TV
+#EXTINF:-1 tvg-name="Report TV" group-title="News",Report TV
 https://secure-272717.tatnet.app/deb10stream.duckdns.org/hls/stream.m3u8
 
 #EXTINF:-1 tvg-name="Tropoja" group-title="IPTV",Tropoja
@@ -49526,10 +49526,10 @@ https://secure-272717.tatnet.app/unlimited1-us.dps.live/perfiltv/perfiltv.smil/p
 #EXTINF:-1 tvg-name="Telemax" group-title="IPTV",Telemax
 https://secure-272717.tatnet.app/live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="NET TV" group-title="IPTV",NET TV
+#EXTINF:-1 tvg-name="NET TV" group-title="General",NET TV
 https://secure-272717.tatnet.app/unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TV Universidad" group-title="IPTV",TV Universidad
+#EXTINF:-1 tvg-name="TV Universidad" group-title="Education",TV Universidad
 https://secure-272717.tatnet.app/stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
 #EXTINF:-1 tvg-name="Barricada TV" group-title="IPTV",Barricada TV
@@ -49574,10 +49574,10 @@ https://secure-272717.tatnet.app/5a32c05065c79.streamlock.net/live/stream/playli
 #EXTINF:-1 tvg-name="Racing.com" group-title="IPTV",Racing.com
 https://secure-272717.tatnet.app/racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 
-#EXTINF:-1 tvg-name="9Go! [Geo-blocked]" group-title="IPTV",9Go! [Geo-blocked]
+#EXTINF:-1 tvg-name="9Go! [Geo-blocked]" group-title="Entertainment;Kids",9Go! [Geo-blocked]
 https://secure-272717.tatnet.app/9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
 
-#EXTINF:-1 tvg-name="9Life [Geo-blocked]" group-title="IPTV",9Life [Geo-blocked]
+#EXTINF:-1 tvg-name="9Life [Geo-blocked]" group-title="Lifestyle",9Life [Geo-blocked]
 https://secure-272717.tatnet.app/9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
 
 #EXTINF:-1 tvg-name="9Rush Ⓖ" group-title="IPTV",9Rush Ⓖ
@@ -49598,13 +49598,13 @@ https://secure-272717.tatnet.app/rbmn-live.akamaized.net/hls/live/2002825/geoSTV
 #EXTINF:-1 tvg-name="oe24" group-title="IPTV",oe24
 https://secure-272717.tatnet.app/varoe24live.sf.apa.at/oe24-live1/oe24.smil/chunklist_b1900000.m3u8
 
-#EXTINF:-1 tvg-name="W24" group-title="IPTV",W24
+#EXTINF:-1 tvg-name="W24" group-title="Undefined",W24
 https://secure-272717.tatnet.app/ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="P3TV" group-title="IPTV",P3TV
 https://secure-272717.tatnet.app/p3-6.mov.at:1935/live/weekstream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RTV" group-title="IPTV",RTV
+#EXTINF:-1 tvg-name="RTV" group-title="Undefined",RTV
 https://secure-272717.tatnet.app/iptv.rtv-ooe.at/stream.m3u8
 
 #EXTINF:-1 tvg-name="RTS Ⓖ" group-title="IPTV",RTS Ⓖ
