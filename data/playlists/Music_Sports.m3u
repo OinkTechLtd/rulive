@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-07 23:58:17
-# Всего каналов: 19057
-# Новых за сессию: 0
+# Обновлено: 2026-07-08 01:04:00
+# Всего каналов: 19178
+# Новых за сессию: 121
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;Sports
 # Каналов: 1
-# Обновлено: 2026-07-07 23:58:18
+# Обновлено: 2026-07-08 01:04:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RTI La 3" group-title="Music;Sports",RTI La 3
@@ -2501,3 +2501,15 @@ https://channels.trace.plus/Traceprod/GOSPEL_SA_ld/index.m3u8
 https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8
 #EXTINF:-1 tvg-name="Messatida TV" group-title="Music",Messatida TV
 https://rtmp.streams.ovh:8081/mtv/index.m3u8
+#EXTINF:-1 tvg-name="Okko Futbol (576p)" group-title="Sports",Okko Futbol (576p)
+http://178.124.179.122:8080/Setanta1/index.m3u8
+#EXTINF:-1 tvg-name="Bandamax USA" group-title="Music",Bandamax USA
+http://177.234.249.135:8888/Bandamax/index.m3u8
+#EXTINF:-1 tvg-name="TeleHit Estados Unidos" group-title="Music",TeleHit Estados Unidos
+http://177.234.249.135:8888/Telehit/index.m3u8
+#EXTINF:-1 tvg-name="Telehit Musica Estados Unidos" group-title="Music",Telehit Musica Estados Unidos
+http://177.234.249.135:8888/TelehitMusica/index.m3u8
+#EXTINF:-1 tvg-name="Quiero Musica en mi Idioma" group-title="Music",Quiero Musica en mi Idioma
+http://177.234.249.178:8888/MTV/index.m3u8
+#EXTINF:-1 tvg-name="GolTV Latin America" group-title="Sports",GolTV Latin America
+http://177.234.249.178:8888/GOLTV/index.m3u8

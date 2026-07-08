@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-07 23:58:17
-# Всего каналов: 19057
-# Новых за сессию: 0
+# Обновлено: 2026-07-08 01:04:00
+# Всего каналов: 19178
+# Новых за сессию: 121
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Sports
 # Каналов: 1
-# Обновлено: 2026-07-07 23:58:18
+# Обновлено: 2026-07-08 01:04:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="LRT Plius [Geo-blocked]" group-title="Culture;Sports",LRT Plius [Geo-blocked]
@@ -1327,3 +1327,9 @@ https://streamvidex.qzz.io/videx/dsportsar/index.m3u8
 https://streamvidex.qzz.io/videx/dsports2/index.m3u8
 #EXTINF:-1 tvg-name="DSports+" group-title="Sports",DSports+
 https://streamvidex.qzz.io/videx/dsportsplus/index.m3u8
+#EXTINF:-1 tvg-name="Okko Futbol (576p)" group-title="Sports",Okko Futbol (576p)
+http://178.124.179.122:8080/Setanta1/index.m3u8
+#EXTINF:-1 tvg-name="Curta!" group-title="Culture",Curta!
+http://45.162.231.38:7779/Curta/index.m3u8
+#EXTINF:-1 tvg-name="GolTV Latin America" group-title="Sports",GolTV Latin America
+http://177.234.249.178:8888/GOLTV/index.m3u8

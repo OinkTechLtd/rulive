@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-07 23:58:17
-# Всего каналов: 19057
-# Новых за сессию: 0
+# Обновлено: 2026-07-08 01:04:00
+# Всего каналов: 19178
+# Новых за сессию: 121
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Education
 # Каналов: 9
-# Обновлено: 2026-07-07 23:58:18
+# Обновлено: 2026-07-08 01:04:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Ayeneh TV" group-title="Culture;Education",Ayeneh TV
@@ -873,3 +873,11 @@ https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
 http://45.189.62.33:8002/play/a0oc/index.m3u8
 #EXTINF:-1 tvg-name="ArabTV" group-title="Culture",ArabTV
 https://video03.logicahost.com.br/arabtvchile/arabtvchile/playlist.m3u8
+#EXTINF:-1 tvg-name="AgroCanal" group-title="Education;Outdoor",AgroCanal
+http://45.162.64.114/AGRO_CANAL/index.m3u8
+#EXTINF:-1 tvg-name="Canal Futura" group-title="Education",Canal Futura
+http://45.162.64.114/FUTURA/index.m3u8
+#EXTINF:-1 tvg-name="Curta!" group-title="Culture",Curta!
+http://45.162.231.38:7779/Curta/index.m3u8
+#EXTINF:-1 tvg-name="Futura" group-title="Education",Futura
+http://45.162.231.38:7779/Futura/index.m3u8

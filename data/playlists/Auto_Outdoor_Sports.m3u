@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-07 23:58:17
-# Всего каналов: 19057
-# Новых за сессию: 0
+# Обновлено: 2026-07-08 01:04:00
+# Всего каналов: 19178
+# Новых за сессию: 121
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Auto;Outdoor;Sports
 # Каналов: 1
-# Обновлено: 2026-07-07 23:58:18
+# Обновлено: 2026-07-08 01:04:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="INTROUBLE" group-title="Auto;Outdoor;Sports",INTROUBLE
@@ -1103,3 +1103,13 @@ https://streamvidex.qzz.io/videx/dsportsar/index.m3u8
 https://streamvidex.qzz.io/videx/dsports2/index.m3u8
 #EXTINF:-1 tvg-name="DSports+" group-title="Sports",DSports+
 https://streamvidex.qzz.io/videx/dsportsplus/index.m3u8
+#EXTINF:-1 tvg-name="Okko Futbol (576p)" group-title="Sports",Okko Futbol (576p)
+http://178.124.179.122:8080/Setanta1/index.m3u8
+#EXTINF:-1 tvg-name="AgroCanal" group-title="Education;Outdoor",AgroCanal
+http://45.162.64.114/AGRO_CANAL/index.m3u8
+#EXTINF:-1 tvg-name="Fish TV" group-title="Outdoor",Fish TV
+http://45.162.231.38:7779/Fish_TV/index.m3u8
+#EXTINF:-1 tvg-name="Terra Viva" group-title="Outdoor",Terra Viva
+http://45.162.231.38:7779/Terra_Viva/index.m3u8
+#EXTINF:-1 tvg-name="GolTV Latin America" group-title="Sports",GolTV Latin America
+http://177.234.249.178:8888/GOLTV/index.m3u8

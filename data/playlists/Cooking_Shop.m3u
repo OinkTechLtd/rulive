@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-07 23:58:17
-# Всего каналов: 19057
-# Новых за сессию: 0
+# Обновлено: 2026-07-08 01:04:00
+# Всего каналов: 19178
+# Новых за сессию: 121
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Cooking;Shop
 # Каналов: 1
-# Обновлено: 2026-07-07 23:58:18
+# Обновлено: 2026-07-08 01:04:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="In the kitchen" group-title="Cooking;Shop",In the kitchen
@@ -275,3 +275,9 @@ https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8
 https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 tvg-name="OnTV4U [Geo-blocked]" group-title="Shop",OnTV4U [Geo-blocked]
 https://stirr.b-cdn.net/stirr/playlist.m3u8
+#EXTINF:-1 tvg-name="Polishop" group-title="Shop",Polishop
+http://45.162.231.38:7779/Polishop_TV/index.m3u8
+#EXTINF:-1 tvg-name="El Gourmet South" group-title="Cooking",El Gourmet South
+http://45.6.4.35/GOURMET/index.m3u8
+#EXTINF:-1 tvg-name="El Gourmet" group-title="Cooking",El Gourmet
+http://177.234.249.178:8888/EL-GOURMET/index.m3u8

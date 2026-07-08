@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-07 23:58:17
-# Всего каналов: 19057
-# Новых за сессию: 0
+# Обновлено: 2026-07-08 01:04:00
+# Всего каналов: 19178
+# Новых за сессию: 121
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary
-# Каналов: 178
-# Обновлено: 2026-07-07 23:58:17
+# Каналов: 183
+# Обновлено: 2026-07-08 01:04:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RT Documentary Russian" group-title="Documentary",RT Documentary Russian
@@ -531,6 +531,21 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/178.124.179.122:8080/H
 
 #EXTINF:-1 tvg-name="KPVM Story Television" group-title="Documentary",KPVM Story Television
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/2-fss-1.streamhoster.com/pl_122/206858-4412976-1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="History" group-title="Documentary",History
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/177.52.24.163/HISTORY-HD/index.m3u8
+
+#EXTINF:-1 tvg-name="History 2 Latin America Brazil" group-title="Documentary",History 2 Latin America Brazil
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.162.231.38:7779/History_2/index.m3u8
+
+#EXTINF:-1 tvg-name="National Geographic" group-title="Documentary",National Geographic
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/167.250.126.140:7777/NATGEO-HD/index.m3u8
+
+#EXTINF:-1 tvg-name="History Latin America South" group-title="Documentary",History Latin America South
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.6.4.35/HISTORY/index.m3u8
+
+#EXTINF:-1 tvg-name="National Geographic Latin America" group-title="Documentary",National Geographic Latin America
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/177.234.249.178:8888/NATGEO/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT Belgesel" group-title="Documentary",TRT Belgesel
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv-trtbelgesel.medya.trt.com.tr/master.m3u8

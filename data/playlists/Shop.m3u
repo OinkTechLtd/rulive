@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-07 23:58:17
-# Всего каналов: 19057
-# Новых за сессию: 0
+# Обновлено: 2026-07-08 01:04:00
+# Всего каналов: 19178
+# Новых за сессию: 121
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Shop
-# Каналов: 82
-# Обновлено: 2026-07-07 23:58:17
+# Каналов: 83
+# Обновлено: 2026-07-08 01:04:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Leomax 24" group-title="Shop",Leomax 24
@@ -231,6 +231,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-11cinema.cdnvideo
 
 #EXTINF:-1 tvg-name="OnTV4U [Geo-blocked]" group-title="Shop",OnTV4U [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stirr.b-cdn.net/stirr/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Polishop" group-title="Shop",Polishop
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.162.231.38:7779/Polishop_TV/index.m3u8
 
 #EXTINF:-1 tvg-name="QVC Italia (540p)" group-title="Shop",QVC Italia (540p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8

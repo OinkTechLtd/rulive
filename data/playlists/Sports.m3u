@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-07 23:58:17
-# Всего каналов: 19057
-# Новых за сессию: 0
+# Обновлено: 2026-07-08 01:04:00
+# Всего каналов: 19178
+# Новых за сессию: 121
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Sports
-# Каналов: 515
-# Обновлено: 2026-07-07 23:58:17
+# Каналов: 518
+# Обновлено: 2026-07-08 01:04:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CBC Sport [Geo-blocked]" group-title="Sports",CBC Sport [Geo-blocked]
@@ -1428,6 +1428,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/streamvidex.qzz.io/vid
 
 #EXTINF:-1 tvg-name="TVRI Sport" group-title="Sports",TVRI Sport
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/157.15.187.3:25092/hls/49/49.m3u8
+
+#EXTINF:-1 tvg-name="Okko Futbol (576p)" group-title="Sports",Okko Futbol (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/178.124.179.122:8080/Setanta1/index.m3u8
+
+#EXTINF:-1 tvg-name="GolTV Latin America" group-title="Sports",GolTV Latin America
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/177.234.249.178:8888/GOLTV/index.m3u8
+
+#EXTINF:-1 tvg-name="Golf Channel Latin America" group-title="Sports",Golf Channel Latin America
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/72.1.184.5:8089/play/a0cw/index.m3u8
 
 #EXTINF:-1 tvg-name="Беларусь 5" group-title="Sports",Беларусь 5
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8

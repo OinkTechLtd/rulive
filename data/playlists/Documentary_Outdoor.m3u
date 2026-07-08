@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-07 23:58:17
-# Всего каналов: 19057
-# Новых за сессию: 0
+# Обновлено: 2026-07-08 01:04:00
+# Всего каналов: 19178
+# Новых за сессию: 121
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Outdoor
 # Каналов: 2
-# Обновлено: 2026-07-07 23:58:18
+# Обновлено: 2026-07-08 01:04:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="WaterBear" group-title="Documentary;Outdoor",WaterBear
@@ -502,3 +502,15 @@ http://206.212.244.63/122/index.m3u8
 https://ktvlive.online/stream/hls/ch3.m3u8
 #EXTINF:-1 tvg-name="KPVM Story Television" group-title="Documentary",KPVM Story Television
 https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/playlist.m3u8
+#EXTINF:-1 tvg-name="AgroCanal" group-title="Education;Outdoor",AgroCanal
+http://45.162.64.114/AGRO_CANAL/index.m3u8
+#EXTINF:-1 tvg-name="Fish TV" group-title="Outdoor",Fish TV
+http://45.162.231.38:7779/Fish_TV/index.m3u8
+#EXTINF:-1 tvg-name="History 2 Latin America Brazil" group-title="Documentary",History 2 Latin America Brazil
+http://45.162.231.38:7779/History_2/index.m3u8
+#EXTINF:-1 tvg-name="Terra Viva" group-title="Outdoor",Terra Viva
+http://45.162.231.38:7779/Terra_Viva/index.m3u8
+#EXTINF:-1 tvg-name="History Latin America South" group-title="Documentary",History Latin America South
+http://45.6.4.35/HISTORY/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic Latin America" group-title="Documentary",National Geographic Latin America
+http://177.234.249.178:8888/NATGEO/index.m3u8

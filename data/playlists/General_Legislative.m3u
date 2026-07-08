@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-07 23:58:17
-# Всего каналов: 19057
-# Новых за сессию: 0
+# Обновлено: 2026-07-08 01:04:00
+# Всего каналов: 19178
+# Новых за сессию: 121
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Legislative
 # Каналов: 1
-# Обновлено: 2026-07-07 23:58:18
+# Обновлено: 2026-07-08 01:04:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ATXN2" group-title="General;Legislative",ATXN2
@@ -5877,3 +5877,31 @@ https://v1.tustreaming.cl/frecuencia1tv/index.m3u8
 https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
 #EXTINF:-1 tvg-name="Alawla TV" group-title="General",Alawla TV
 https://live.alawla.tv/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Record" group-title="General",Record
+http://45.162.231.38:7779/RECORDTV/index.m3u8
+#EXTINF:-1 tvg-name="Rede TV!" group-title="General",Rede TV!
+http://45.162.231.38:7779/Rede_TV/index.m3u8
+#EXTINF:-1 tvg-name="Ciudad Magazine (576p)" group-title="General",Ciudad Magazine (576p)
+http://45.6.4.35/MAGAZINE/index.m3u8
+#EXTINF:-1 tvg-name="Eurochannel" group-title="General",Eurochannel
+http://177.245.131.133:8080/EUROCHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="Gamavision" group-title="General",Gamavision
+http://45.224.97.181:9999/Gamavision/index.m3u8
+#EXTINF:-1 tvg-name="Globovision" group-title="General",Globovision
+http://138.186.23.7:8082/GLOBOVISION/index.m3u8
+#EXTINF:-1 tvg-name="IVC (576p)" group-title="General",IVC (576p)
+http://138.186.23.7:8082/IVC/index.m3u8
+#EXTINF:-1 tvg-name="RTS" group-title="General",RTS
+http://177.234.249.178:8888/RTS/index.m3u8
+#EXTINF:-1 tvg-name="TC Television" group-title="General",TC Television
+http://177.234.249.178:8888/TC/index.m3u8
+#EXTINF:-1 tvg-name="Tele Antillas" group-title="General",Tele Antillas
+http://45.171.108.253:8888/TELEANTILLAS/index.m3u8
+#EXTINF:-1 tvg-name="Telemundo Internacional Central America" group-title="General",Telemundo Internacional Central America
+http://190.60.46.156:8089/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-name="Televen" group-title="General",Televen
+http://138.186.23.7:8082/TELEVEN/index.m3u8
+#EXTINF:-1 tvg-name="Venevision" group-title="General",Venevision
+http://177.234.249.178:8888/VENEVISION/index.m3u8
+#EXTINF:-1 tvg-name="Viva Nicaragua Canal 13" group-title="General",Viva Nicaragua Canal 13
+http://45.171.108.253:8888/VIVA/index.m3u8

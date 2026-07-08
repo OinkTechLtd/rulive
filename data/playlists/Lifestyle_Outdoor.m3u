@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-07 23:58:17
-# Всего каналов: 19057
-# Новых за сессию: 0
+# Обновлено: 2026-07-08 01:04:00
+# Всего каналов: 19178
+# Новых за сессию: 121
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Lifestyle;Outdoor
 # Каналов: 1
-# Обновлено: 2026-07-07 23:58:18
+# Обновлено: 2026-07-08 01:04:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Cottage Life" group-title="Lifestyle;Outdoor",Cottage Life
@@ -423,3 +423,11 @@ http://40.160.24.53/HGTV/index.m3u8
 https://2-fss-2.streamhoster.com/pl_120/206858-4404552-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bizz TV" group-title="Lifestyle",Bizz TV
 https://stream.bizzmedia.biz/bizz_tv/index.m3u8
+#EXTINF:-1 tvg-name="AgroCanal" group-title="Education;Outdoor",AgroCanal
+http://45.162.64.114/AGRO_CANAL/index.m3u8
+#EXTINF:-1 tvg-name="FashionTV" group-title="Lifestyle",FashionTV
+http://167.250.126.140:7777/FASHIONTV-HD/index.m3u8
+#EXTINF:-1 tvg-name="Fish TV" group-title="Outdoor",Fish TV
+http://45.162.231.38:7779/Fish_TV/index.m3u8
+#EXTINF:-1 tvg-name="Terra Viva" group-title="Outdoor",Terra Viva
+http://45.162.231.38:7779/Terra_Viva/index.m3u8

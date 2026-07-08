@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-07 23:58:17
-# Всего каналов: 19057
-# Новых за сессию: 0
+# Обновлено: 2026-07-08 01:04:00
+# Всего каналов: 19178
+# Новых за сессию: 121
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Documentary;Travel
 # Каналов: 1
-# Обновлено: 2026-07-07 23:58:18
+# Обновлено: 2026-07-08 01:04:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="China Travel" group-title="Culture;Documentary;Travel",China Travel
@@ -843,3 +843,15 @@ https://ktvlive.online/stream/hls/ch3.m3u8
 https://2-fss-2.streamhoster.com/pl_120/206858-4404552-1/playlist.m3u8
 #EXTINF:-1 tvg-name="KPVM Story Television" group-title="Documentary",KPVM Story Television
 https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/playlist.m3u8
+#EXTINF:-1 tvg-name="Curta!" group-title="Culture",Curta!
+http://45.162.231.38:7779/Curta/index.m3u8
+#EXTINF:-1 tvg-name="History 2 Latin America Brazil" group-title="Documentary",History 2 Latin America Brazil
+http://45.162.231.38:7779/History_2/index.m3u8
+#EXTINF:-1 tvg-name="Modo Viagem" group-title="Travel",Modo Viagem
+http://45.162.231.38:7779/Modo_Viagem/index.m3u8
+#EXTINF:-1 tvg-name="Travel Box Brazil" group-title="Travel",Travel Box Brazil
+http://167.250.126.140:7777/TRAVELBOX-HD/index.m3u8
+#EXTINF:-1 tvg-name="History Latin America South" group-title="Documentary",History Latin America South
+http://45.6.4.35/HISTORY/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic Latin America" group-title="Documentary",National Geographic Latin America
+http://177.234.249.178:8888/NATGEO/index.m3u8

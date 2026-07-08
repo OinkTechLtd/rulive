@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-07 23:58:17
-# Всего каналов: 19057
-# Новых за сессию: 0
+# Обновлено: 2026-07-08 01:04:00
+# Всего каналов: 19178
+# Новых за сессию: 121
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Entertainment
 # Каналов: 1
-# Обновлено: 2026-07-07 23:58:18
+# Обновлено: 2026-07-08 01:04:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Kanade" group-title="Animation;Entertainment",Kanade
@@ -1959,3 +1959,23 @@ https://streamvidex.qzz.io/videx/universo/index.m3u8
 http://cdn.haititivi.com/TELETOON-HD/index.m3u8
 #EXTINF:-1 tvg-name="Sun+ TV" group-title="Entertainment",Sun+ TV
 https://livemaraboo.com/hls/stream.m3u8
+#EXTINF:-1 tvg-name="A&E Latin America Brazil" group-title="Entertainment",A&E Latin America Brazil
+http://45.162.231.38:7779/AE/index.m3u8
+#EXTINF:-1 tvg-name="E! Latin America Brazil" group-title="Entertainment;News",E! Latin America Brazil
+http://45.162.231.38:7779/E/index.m3u8
+#EXTINF:-1 tvg-name="FX Latin America Brazil" group-title="Entertainment",FX Latin America Brazil
+http://167.250.126.140:7777/FX-HD/index.m3u8
+#EXTINF:-1 tvg-name="Lifetime Latin America Brazil" group-title="Entertainment",Lifetime Latin America Brazil
+http://45.162.231.38:7779/Lifetime/index.m3u8
+#EXTINF:-1 tvg-name="A&E Latin America South" group-title="Entertainment",A&E Latin America South
+http://45.6.4.35/AE/index.m3u8
+#EXTINF:-1 tvg-name="Disney Channel Latin America South" group-title="Animation;Kids",Disney Channel Latin America South
+http://45.6.4.35/DISNEY/index.m3u8
+#EXTINF:-1 tvg-name="FX Latin America South" group-title="Entertainment",FX Latin America South
+http://45.6.4.35/FX/index.m3u8
+#EXTINF:-1 tvg-name="Disney Jr. Latin America" group-title="Animation;Kids",Disney Jr. Latin America
+http://177.234.249.178:8888/DISNEY-JR/index.m3u8
+#EXTINF:-1 tvg-name="E! Latin America Mexico" group-title="Entertainment;News",E! Latin America Mexico
+http://72.1.184.5:8089/play/a05d/index.m3u8
+#EXTINF:-1 tvg-name="Lifetime Latin America Mexico" group-title="Entertainment",Lifetime Latin America Mexico
+http://177.245.131.133:8080/LIFETIME/index.m3u8

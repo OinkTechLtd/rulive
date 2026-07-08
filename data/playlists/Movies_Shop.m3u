@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-07 23:58:17
-# Всего каналов: 19057
-# Новых за сессию: 0
+# Обновлено: 2026-07-08 01:04:00
+# Всего каналов: 19178
+# Новых за сессию: 121
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;Shop
 # Каналов: 1
-# Обновлено: 2026-07-07 23:58:18
+# Обновлено: 2026-07-08 01:04:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Magnificent Movies Network" group-title="Movies;Shop",Magnificent Movies Network
@@ -1525,3 +1525,43 @@ https://stirr.b-cdn.net/stirr/playlist.m3u8
 http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
 #EXTINF:-1 tvg-name="Village Cinemas" group-title="Movies",Village Cinemas
 http://185.102.171.218/Village/index.m3u8
+#EXTINF:-1 tvg-name="Cine Mexicano" group-title="Movies",Cine Mexicano
+http://177.234.249.178:8888/AMERICA/index.m3u8
+#EXTINF:-1 tvg-name="De Pelicula US" group-title="Movies",De Pelicula US
+http://138.121.15.230:9002/DEPELICULA/index.m3u8
+#EXTINF:-1 tvg-name="AXN" group-title="Movies",AXN
+http://45.162.231.38:7779/AXN/index.m3u8
+#EXTINF:-1 tvg-name="Polishop" group-title="Shop",Polishop
+http://45.162.231.38:7779/Polishop_TV/index.m3u8
+#EXTINF:-1 tvg-name="Telecine Action" group-title="Movies",Telecine Action
+http://45.162.231.38:7779/Telecine_Action/index.m3u8
+#EXTINF:-1 tvg-name="Telecine Cult" group-title="Movies",Telecine Cult
+http://45.162.231.38:7779/Telecine_Cult/index.m3u8
+#EXTINF:-1 tvg-name="Telecine Fun" group-title="Movies",Telecine Fun
+http://45.162.231.38:7779/Telecine_Fun/index.m3u8
+#EXTINF:-1 tvg-name="Telecine Pipoca" group-title="Movies",Telecine Pipoca
+http://45.162.231.38:7779/Telecine_Pipoca/index.m3u8
+#EXTINF:-1 tvg-name="Telecine Premium" group-title="Movies",Telecine Premium
+http://45.162.231.38:7779/Telecine_Premium/index.m3u8
+#EXTINF:-1 tvg-name="Telecine Touch" group-title="Movies",Telecine Touch
+http://45.162.231.38:7779/Telecine_Touch/index.m3u8
+#EXTINF:-1 tvg-name="AMC Latin America" group-title="Movies",AMC Latin America
+http://177.234.249.178:8888/AMC/index.m3u8
+#EXTINF:-1 tvg-name="Cinecanal South" group-title="Movies",Cinecanal South
+http://45.6.4.35/CINECANAL/index.m3u8
+#EXTINF:-1 tvg-name="Star Channel Latin America South" group-title="Movies;Series",Star Channel Latin America South
+http://45.6.4.35/FOX/index.m3u8
+#EXTINF:-1 tvg-name="Cinecanal Mexico" group-title="Movies",Cinecanal Mexico
+http://177.245.131.133:8080/CINECANAL/index.m3u8
+#EXTINF:-1 tvg-name="AXN Latin America" group-title="Movies",AXN Latin America
+http://138.121.15.230:9002/AXN/index.m3u8
+#EXTINF:-1 tvg-name="AXN Latin America Andes" group-title="Movies",AXN Latin America Andes
+http://177.234.249.178:8888/AXN/index.m3u8
+#EXTINF:-1 tvg-name="Cinecanal Pacific" group-title="Movies",Cinecanal Pacific
+http://138.121.15.230:9002/CINECANAL/index.m3u8
+#EXTINF:-1 tvg-name="Film & Arts" group-title="Movies",Film & Arts
+http://45.6.4.35/FILM_AND_ARTS/index.m3u8
+#EXTINF:-1 tvg-name="Paramount Network Latin America" group-title="Movies;Series",Paramount Network Latin America
+http://138.186.23.7:8082/PARAMOUNT/index.m3u8
+#EXTINF:-1 tvg-name="Star Channel" group-title="Movies;Series",Star Channel
+http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8

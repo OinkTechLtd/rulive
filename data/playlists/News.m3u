@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-07 23:58:17
-# Всего каналов: 19057
-# Новых за сессию: 0
+# Обновлено: 2026-07-08 01:04:00
+# Всего каналов: 19178
+# Новых за сессию: 121
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News
-# Каналов: 1068
-# Обновлено: 2026-07-07 23:58:17
+# Каналов: 1074
+# Обновлено: 2026-07-08 01:04:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Дождь (альтернативный)" group-title="News",Дождь (альтернативный)
@@ -2998,6 +2998,24 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/i24newsarabic-cdn.enco
 #EXTINF:-1 tvg-name="Euro TV (432p)" group-title="News",Euro TV (432p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/lbgo.bozztv.com/ssh101/ssh101/eurotvlive/playlist.m3u8
 
+#EXTINF:-1 tvg-name="AgroMais" group-title="News",AgroMais
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/167.250.126.140:7777/AGROMAIS-HD/index.m3u8
+
+#EXTINF:-1 tvg-name="C5N" group-title="News",C5N
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.6.4.35/C5N/index.m3u8
+
+#EXTINF:-1 tvg-name="Cablenoticias" group-title="News",Cablenoticias
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/138.186.23.7:8082/CABLENOTICIAS/index.m3u8
+
+#EXTINF:-1 tvg-name="CGTN Spanish" group-title="News",CGTN Spanish
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.6.4.35/CGTN/index.m3u8
+
+#EXTINF:-1 tvg-name="Exitosa TV" group-title="News",Exitosa TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/187.102.210.46/EXITOSA/index.m3u8
+
+#EXTINF:-1 tvg-name="RTU" group-title="News",RTU
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.224.97.181:9999/RTU/index.m3u8
+
 #EXTINF:-1 tvg-name="Беларусь 24" group-title="News",Беларусь 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 
@@ -3488,3 +3506,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fuegotv.stream/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="ESPNews" group-title="News;Sports",ESPNews
 http://41.223.30.230/ESPNNEWS/index.m3u8
+#EXTINF:-1 tvg-name="E! Latin America Brazil" group-title="Entertainment;News",E! Latin America Brazil
+http://45.162.231.38:7779/E/index.m3u8
+#EXTINF:-1 tvg-name="E! Latin America Mexico" group-title="Entertainment;News",E! Latin America Mexico
+http://72.1.184.5:8089/play/a05d/index.m3u8

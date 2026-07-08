@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-07 23:58:17
-# Всего каналов: 19057
-# Новых за сессию: 0
+# Обновлено: 2026-07-08 01:04:00
+# Всего каналов: 19178
+# Новых за сессию: 121
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Business;News
 # Каналов: 8
-# Обновлено: 2026-07-07 23:58:18
+# Обновлено: 2026-07-08 01:04:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="Business;News",like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -2334,3 +2334,15 @@ https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8
 https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-name="Euro TV (432p)" group-title="News",Euro TV (432p)
 https://lbgo.bozztv.com/ssh101/ssh101/eurotvlive/playlist.m3u8
+#EXTINF:-1 tvg-name="AgroMais" group-title="News",AgroMais
+http://167.250.126.140:7777/AGROMAIS-HD/index.m3u8
+#EXTINF:-1 tvg-name="E! Latin America Brazil" group-title="Entertainment;News",E! Latin America Brazil
+http://45.162.231.38:7779/E/index.m3u8
+#EXTINF:-1 tvg-name="C5N" group-title="News",C5N
+http://45.6.4.35/C5N/index.m3u8
+#EXTINF:-1 tvg-name="E! Latin America Mexico" group-title="Entertainment;News",E! Latin America Mexico
+http://72.1.184.5:8089/play/a05d/index.m3u8
+#EXTINF:-1 tvg-name="Cablenoticias" group-title="News",Cablenoticias
+http://138.186.23.7:8082/CABLENOTICIAS/index.m3u8
+#EXTINF:-1 tvg-name="CGTN Spanish" group-title="News",CGTN Spanish
+http://45.6.4.35/CGTN/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-07 23:58:17
-# Всего каналов: 19057
-# Новых за сессию: 0
+# Обновлено: 2026-07-08 01:04:00
+# Всего каналов: 19178
+# Новых за сессию: 121
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Lifestyle;Music;News
 # Каналов: 1
-# Обновлено: 2026-07-07 23:58:18
+# Обновлено: 2026-07-08 01:04:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CEACOM TV" group-title="General;Lifestyle;Music;News",CEACOM TV
@@ -9413,3 +9413,53 @@ https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/eurotvlive/playlist.m3u8
 #EXTINF:-1 tvg-name="Messatida TV" group-title="Music",Messatida TV
 https://rtmp.streams.ovh:8081/mtv/index.m3u8
+#EXTINF:-1 tvg-name="Bandamax USA" group-title="Music",Bandamax USA
+http://177.234.249.135:8888/Bandamax/index.m3u8
+#EXTINF:-1 tvg-name="TeleHit Estados Unidos" group-title="Music",TeleHit Estados Unidos
+http://177.234.249.135:8888/Telehit/index.m3u8
+#EXTINF:-1 tvg-name="Telehit Musica Estados Unidos" group-title="Music",Telehit Musica Estados Unidos
+http://177.234.249.135:8888/TelehitMusica/index.m3u8
+#EXTINF:-1 tvg-name="AgroMais" group-title="News",AgroMais
+http://167.250.126.140:7777/AGROMAIS-HD/index.m3u8
+#EXTINF:-1 tvg-name="E! Latin America Brazil" group-title="Entertainment;News",E! Latin America Brazil
+http://45.162.231.38:7779/E/index.m3u8
+#EXTINF:-1 tvg-name="FashionTV" group-title="Lifestyle",FashionTV
+http://167.250.126.140:7777/FASHIONTV-HD/index.m3u8
+#EXTINF:-1 tvg-name="Record" group-title="General",Record
+http://45.162.231.38:7779/RECORDTV/index.m3u8
+#EXTINF:-1 tvg-name="Rede TV!" group-title="General",Rede TV!
+http://45.162.231.38:7779/Rede_TV/index.m3u8
+#EXTINF:-1 tvg-name="C5N" group-title="News",C5N
+http://45.6.4.35/C5N/index.m3u8
+#EXTINF:-1 tvg-name="Ciudad Magazine (576p)" group-title="General",Ciudad Magazine (576p)
+http://45.6.4.35/MAGAZINE/index.m3u8
+#EXTINF:-1 tvg-name="Quiero Musica en mi Idioma" group-title="Music",Quiero Musica en mi Idioma
+http://177.234.249.178:8888/MTV/index.m3u8
+#EXTINF:-1 tvg-name="E! Latin America Mexico" group-title="Entertainment;News",E! Latin America Mexico
+http://72.1.184.5:8089/play/a05d/index.m3u8
+#EXTINF:-1 tvg-name="Eurochannel" group-title="General",Eurochannel
+http://177.245.131.133:8080/EUROCHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="Cablenoticias" group-title="News",Cablenoticias
+http://138.186.23.7:8082/CABLENOTICIAS/index.m3u8
+#EXTINF:-1 tvg-name="CGTN Spanish" group-title="News",CGTN Spanish
+http://45.6.4.35/CGTN/index.m3u8
+#EXTINF:-1 tvg-name="Gamavision" group-title="General",Gamavision
+http://45.224.97.181:9999/Gamavision/index.m3u8
+#EXTINF:-1 tvg-name="Globovision" group-title="General",Globovision
+http://138.186.23.7:8082/GLOBOVISION/index.m3u8
+#EXTINF:-1 tvg-name="IVC (576p)" group-title="General",IVC (576p)
+http://138.186.23.7:8082/IVC/index.m3u8
+#EXTINF:-1 tvg-name="RTS" group-title="General",RTS
+http://177.234.249.178:8888/RTS/index.m3u8
+#EXTINF:-1 tvg-name="TC Television" group-title="General",TC Television
+http://177.234.249.178:8888/TC/index.m3u8
+#EXTINF:-1 tvg-name="Tele Antillas" group-title="General",Tele Antillas
+http://45.171.108.253:8888/TELEANTILLAS/index.m3u8
+#EXTINF:-1 tvg-name="Telemundo Internacional Central America" group-title="General",Telemundo Internacional Central America
+http://190.60.46.156:8089/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-name="Televen" group-title="General",Televen
+http://138.186.23.7:8082/TELEVEN/index.m3u8
+#EXTINF:-1 tvg-name="Venevision" group-title="General",Venevision
+http://177.234.249.178:8888/VENEVISION/index.m3u8
+#EXTINF:-1 tvg-name="Viva Nicaragua Canal 13" group-title="General",Viva Nicaragua Canal 13
+http://45.171.108.253:8888/VIVA/index.m3u8

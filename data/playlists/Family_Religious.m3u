@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-07 23:58:17
-# Всего каналов: 19057
-# Новых за сессию: 0
+# Обновлено: 2026-07-08 01:04:00
+# Всего каналов: 19178
+# Новых за сессию: 121
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Family;Religious
 # Каналов: 1
-# Обновлено: 2026-07-07 23:58:18
+# Обновлено: 2026-07-08 01:04:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="TV Famille" group-title="Family;Religious",TV Famille
@@ -1669,3 +1669,13 @@ https://6zklxwavdw9b-hls-live.5centscdn.com/RIDDIMNHOPE/0954119dc19d9003dd5f4bb3
 https://channels.trace.plus/Traceprod/GOSPEL_ROA/index.m3u8
 #EXTINF:-1 tvg-name="Trace Gospel Southern Africa" group-title="Music;Religious",Trace Gospel Southern Africa
 https://channels.trace.plus/Traceprod/GOSPEL_SA_ld/index.m3u8
+#EXTINF:-1 tvg-name="Rede Seculo 21" group-title="Religious",Rede Seculo 21
+http://45.162.64.114/REDE_SECULO_21/index.m3u8
+#EXTINF:-1 tvg-name="Rede Vida" group-title="Religious",Rede Vida
+http://45.162.231.38:7779/Rede_Vida/index.m3u8
+#EXTINF:-1 tvg-name="TV Evangelizar" group-title="Religious",TV Evangelizar
+http://45.162.64.114/EVANGELIZAR/index.m3u8
+#EXTINF:-1 tvg-name="TV Pai Eterno" group-title="Religious",TV Pai Eterno
+http://45.162.231.38:7779/Pai_Eterno/index.m3u8
+#EXTINF:-1 tvg-name="Canal IPe" group-title="Family",Canal IPe
+http://187.102.210.46/IPE/index.m3u8

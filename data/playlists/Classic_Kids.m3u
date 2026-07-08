@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-07 23:58:17
-# Всего каналов: 19057
-# Новых за сессию: 0
+# Обновлено: 2026-07-08 01:04:00
+# Всего каналов: 19178
+# Новых за сессию: 121
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;Kids
 # Каналов: 2
-# Обновлено: 2026-07-07 23:58:18
+# Обновлено: 2026-07-08 01:04:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="PBS Retro [Geo-blocked]" group-title="Classic;Kids",PBS Retro [Geo-blocked]
@@ -922,3 +922,13 @@ https://stream8.cinerama.uz/1502/playlist.m3u8
 https://rutvkids.ru/live/efir/index.m3u8
 #EXTINF:-1 tvg-name="ducktv PLUS" group-title="Kids",ducktv PLUS
 https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
+#EXTINF:-1 tvg-name="BabyTV Brazil" group-title="Kids",BabyTV Brazil
+http://167.250.126.140:7777/BABYTV-HD/index.m3u8
+#EXTINF:-1 tvg-name="Box Kids TV" group-title="Kids",Box Kids TV
+http://167.250.126.140:7777/NICKJR-HD/index.m3u8
+#EXTINF:-1 tvg-name="DumDum" group-title="Kids",DumDum
+http://45.162.231.38:7779/ZooMoo/index.m3u8
+#EXTINF:-1 tvg-name="Disney Channel Latin America South" group-title="Animation;Kids",Disney Channel Latin America South
+http://45.6.4.35/DISNEY/index.m3u8
+#EXTINF:-1 tvg-name="Disney Jr. Latin America" group-title="Animation;Kids",Disney Jr. Latin America
+http://177.234.249.178:8888/DISNEY-JR/index.m3u8

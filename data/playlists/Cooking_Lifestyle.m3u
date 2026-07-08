@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-07 23:58:17
-# Всего каналов: 19057
-# Новых за сессию: 0
+# Обновлено: 2026-07-08 01:04:00
+# Всего каналов: 19178
+# Новых за сессию: 121
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Cooking;Lifestyle
 # Каналов: 17
-# Обновлено: 2026-07-07 23:58:18
+# Обновлено: 2026-07-08 01:04:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Food Food (576p)" group-title="Cooking;Lifestyle",Food Food (576p)
@@ -375,3 +375,9 @@ http://40.160.24.53/HGTV/index.m3u8
 https://2-fss-2.streamhoster.com/pl_120/206858-4404552-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bizz TV" group-title="Lifestyle",Bizz TV
 https://stream.bizzmedia.biz/bizz_tv/index.m3u8
+#EXTINF:-1 tvg-name="FashionTV" group-title="Lifestyle",FashionTV
+http://167.250.126.140:7777/FASHIONTV-HD/index.m3u8
+#EXTINF:-1 tvg-name="El Gourmet South" group-title="Cooking",El Gourmet South
+http://45.6.4.35/GOURMET/index.m3u8
+#EXTINF:-1 tvg-name="El Gourmet" group-title="Cooking",El Gourmet
+http://177.234.249.178:8888/EL-GOURMET/index.m3u8

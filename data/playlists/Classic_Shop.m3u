@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-07 23:58:17
-# Всего каналов: 19057
-# Новых за сессию: 0
+# Обновлено: 2026-07-08 01:04:00
+# Всего каналов: 19178
+# Новых за сессию: 121
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;Shop
 # Каналов: 1
-# Обновлено: 2026-07-07 23:58:18
+# Обновлено: 2026-07-08 01:04:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Timeless TV" group-title="Classic;Shop",Timeless TV
@@ -355,3 +355,5 @@ https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8
 https://jmp2.uk/plu-6964bc3806d76f50db3e315e.m3u8
 #EXTINF:-1 tvg-name="OnTV4U [Geo-blocked]" group-title="Shop",OnTV4U [Geo-blocked]
 https://stirr.b-cdn.net/stirr/playlist.m3u8
+#EXTINF:-1 tvg-name="Polishop" group-title="Shop",Polishop
+http://45.162.231.38:7779/Polishop_TV/index.m3u8
