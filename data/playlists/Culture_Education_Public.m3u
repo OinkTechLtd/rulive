@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-08 01:04:00
-# Всего каналов: 19178
-# Новых за сессию: 121
+# Обновлено: 2026-07-08 03:21:37
+# Всего каналов: 19196
+# Новых за сессию: 18
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Education;Public
 # Каналов: 1
-# Обновлено: 2026-07-08 01:04:01
+# Обновлено: 2026-07-08 03:21:38
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="TV UFOP" group-title="Culture;Education;Public",TV UFOP
@@ -951,3 +951,5 @@ http://45.162.64.114/FUTURA/index.m3u8
 http://45.162.231.38:7779/Curta/index.m3u8
 #EXTINF:-1 tvg-name="Futura" group-title="Education",Futura
 http://45.162.231.38:7779/Futura/index.m3u8
+#EXTINF:-1 tvg-name="ITV Brazil" group-title="Education",ITV Brazil
+https://video24.mais.uol.com.br/live/6146.m3u8
