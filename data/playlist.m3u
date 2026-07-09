@@ -1,7 +1,7 @@
 #EXTM3U
-# Обновлено: 2026-07-09 14:04:48
-# Всего каналов: 19214
-# Новых за сессию: 0
+# Обновлено: 2026-07-09 16:14:35
+# Всего каналов: 19216
+# Новых за сессию: 2
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
@@ -49501,6 +49501,12 @@ https://secure-272717.tatnet.app/nl.livekadeh.com/hls2/vilayet.m3u8
 
 #EXTINF:-1 tvg-name="PK Sports" group-title="Sports",PK Sports
 https://secure-272717.tatnet.app/lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Общественный канал" group-title="IPTV",Общественный канал
+https://secure-272717.tatnet.app/public-broadcaster.com/stream.m3u8
+
+#EXTINF:-1 tvg-name="best TV Channel" group-title="IPTV",best TV Channel
+https://secure-272717.tatnet.app/stream/stream.m3u8
 
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="IPTV",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8
