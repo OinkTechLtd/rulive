@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-09 00:08:21
-# Всего каналов: 19196
-# Новых за сессию: 0
+# Обновлено: 2026-07-09 02:58:12
+# Всего каналов: 19214
+# Новых за сессию: 18
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Religious
 # Каналов: 1
-# Обновлено: 2026-07-09 00:08:22
+# Обновлено: 2026-07-09 02:58:12
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Karbala Documentary" group-title="Documentary;Religious",Karbala Documentary
@@ -1933,3 +1933,5 @@ http://45.162.231.38:7779/Pai_Eterno/index.m3u8
 http://45.6.4.35/HISTORY/index.m3u8
 #EXTINF:-1 tvg-name="National Geographic Latin America" group-title="Documentary",National Geographic Latin America
 http://177.234.249.178:8888/NATGEO/index.m3u8
+#EXTINF:-1 tvg-name="KSTV Uganda" group-title="Religious",KSTV Uganda
+https://live.esteem.africa/kstv/hls/0/stream.m3u8

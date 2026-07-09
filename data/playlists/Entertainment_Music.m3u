@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-09 00:08:21
-# Всего каналов: 19196
-# Новых за сессию: 0
+# Обновлено: 2026-07-09 02:58:12
+# Всего каналов: 19214
+# Новых за сессию: 18
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Music
 # Каналов: 6
-# Обновлено: 2026-07-09 00:08:22
+# Обновлено: 2026-07-09 02:58:12
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Radio Carnaval TV" group-title="Entertainment;Music",Radio Carnaval TV
@@ -3274,3 +3274,5 @@ http://177.234.249.178:8888/MTV/index.m3u8
 http://72.1.184.5:8089/play/a05d/index.m3u8
 #EXTINF:-1 tvg-name="Lifetime Latin America Mexico" group-title="Entertainment",Lifetime Latin America Mexico
 http://177.245.131.133:8080/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-name="Antena 21 (480p)" group-title="Entertainment",Antena 21 (480p)
+https://d1ypfac91iuc9g.cloudfront.net/ts:abr.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-09 00:08:21
-# Всего каналов: 19196
-# Новых за сессию: 0
+# Обновлено: 2026-07-09 02:58:12
+# Всего каналов: 19214
+# Новых за сессию: 18
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Sports
 # Каналов: 3
-# Обновлено: 2026-07-09 00:08:22
+# Обновлено: 2026-07-09 02:58:12
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Entertainment;Sports",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -2669,3 +2669,7 @@ https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 http://143.14.134.107:80/167/index.m3u8
 #EXTINF:-1 tvg-name="Premiere Clubes" group-title="Sports",Premiere Clubes
 http://45.162.231.38:7779/Premiere_Clubes/index.m3u8
+#EXTINF:-1 tvg-name="Antena 21 (480p)" group-title="Entertainment",Antena 21 (480p)
+https://d1ypfac91iuc9g.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-name="PK Sports" group-title="Sports",PK Sports
+https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
