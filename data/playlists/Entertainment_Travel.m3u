@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-10 00:03:26
-# Всего каналов: 19216
-# Новых за сессию: 0
+# Обновлено: 2026-07-10 01:09:24
+# Всего каналов: 19273
+# Новых за сессию: 57
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Travel
 # Каналов: 1
-# Обновлено: 2026-07-10 00:03:26
+# Обновлено: 2026-07-10 01:09:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Chile Channel" group-title="Entertainment;Travel",Chile Channel
@@ -1833,3 +1833,7 @@ http://72.1.184.5:8089/play/a05d/index.m3u8
 http://177.245.131.133:8080/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-name="Antena 21 (480p)" group-title="Entertainment",Antena 21 (480p)
 https://d1ypfac91iuc9g.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-name="Rede Premium TV" group-title="Entertainment",Rede Premium TV
+https://cdn-tiva-stmv2-samcast-com-br.smartbit.co/leonardo9878/leonardo9878/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Universitaria San Andres" group-title="Culture;Education;Entertainment",Radio Universitaria San Andres
+https://edge.enhdtv.com/8054/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-10 00:03:26
-# Всего каналов: 19216
-# Новых за сессию: 0
+# Обновлено: 2026-07-10 01:09:24
+# Всего каналов: 19273
+# Новых за сессию: 57
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: IPTV
 # Каналов: 164
-# Обновлено: 2026-07-10 00:03:26
+# Обновлено: 2026-07-10 01:09:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="A2 CNN Albania" group-title="IPTV",A2 CNN Albania
@@ -253,9 +253,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/46.8.46.14/eurosport/i
 #EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/91.194.191.241:8081/chid53/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Extreme Sports Channel (576p)" group-title="IPTV",Extreme Sports Channel (576p)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/46.32.176.50/extremesport/index.m3u8
-
 #EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/vcdn1.produck.company/out/ngrp:dtv_all/playlist.m3u8
 
@@ -273,6 +270,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/public-broadcaster.com
 
 #EXTINF:-1 tvg-name="best TV Channel" group-title="IPTV",best TV Channel
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream/stream.m3u8
+
+#EXTINF:-1 tvg-name="5 minut tishiny" group-title="IPTV",5 minut tishiny
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
+
+#EXTINF:-1 tvg-name="ART (576p)" group-title="IPTV",ART (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/89.104.114.24:8080/art/index.m3u8
+
+#EXTINF:-1 tvg-name="Balabol" group-title="IPTV",Balabol
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-dvr.ntv.ru/Balabol/index.m3u8
 
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="IPTV",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8
@@ -475,14 +481,8 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/English_c
 #EXTINF:-1 tvg-name="Euronews Russian (576p)" group-title="IPTV",Euronews Russian (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tmptv.sunduk.tv/CH31/index.m3u8
 
-#EXTINF:-1 tvg-name="Europa Plus TV" group-title="IPTV",Europa Plus TV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Europa_Plus_HD/index.m3u8
-
 #EXTINF:-1 tvg-name="Evrokino (576p)" group-title="IPTV",Evrokino (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tmptv.sunduk.tv/CH163/index.m3u8
-
-#EXTINF:-1 tvg-name="FAN" group-title="IPTV",FAN
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Fan/index.m3u8
 
 #EXTINF:-1 tvg-name="Indiyskoye Kino" group-title="IPTV",Indiyskoye Kino
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tmptv.sunduk.tv/CH107/index.m3u8

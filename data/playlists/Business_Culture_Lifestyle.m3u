@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-10 00:03:26
-# Всего каналов: 19216
-# Новых за сессию: 0
+# Обновлено: 2026-07-10 01:09:24
+# Всего каналов: 19273
+# Новых за сессию: 57
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Business;Culture;Lifestyle
 # Каналов: 1
-# Обновлено: 2026-07-10 00:03:26
+# Обновлено: 2026-07-10 01:09:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="apart TV" group-title="Business;Culture;Lifestyle",apart TV
@@ -727,8 +727,6 @@ https://playtv4k.live/live/EVTELE/index.m3u8
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
 #EXTINF:-1 tvg-name="Senal U" group-title="Culture",Senal U
 https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
-#EXTINF:-1 tvg-name="Agenda Minera TV" group-title="Business",Agenda Minera TV
-https://stv2.boliviaplay.com.bo/hls/stream.m3u8
 #EXTINF:-1 tvg-name="BAM-TV" group-title="Culture",BAM-TV
 https://belafrikamediatv.vedge.infomaniak.com/livecast/ik:belafrikamediatv/manifest.m3u8
 #EXTINF:-1 tvg-name="Le Nouveau Manager TV" group-title="Business",Le Nouveau Manager TV
@@ -831,3 +829,7 @@ https://stream.bizzmedia.biz/bizz_tv/index.m3u8
 http://45.162.231.38:7779/Curta/index.m3u8
 #EXTINF:-1 tvg-name="FashionTV" group-title="Lifestyle",FashionTV
 http://167.250.126.140:7777/FASHIONTV-HD/index.m3u8
+#EXTINF:-1 tvg-name="Pro Business" group-title="Business",Pro Business
+https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Universitaria San Andres" group-title="Culture;Education;Entertainment",Radio Universitaria San Andres
+https://edge.enhdtv.com/8054/index.m3u8

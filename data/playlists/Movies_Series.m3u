@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-10 00:03:26
-# Всего каналов: 19216
-# Новых за сессию: 0
+# Обновлено: 2026-07-10 01:09:24
+# Всего каналов: 19273
+# Новых за сессию: 57
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;Series
 # Каналов: 89
-# Обновлено: 2026-07-10 00:03:26
+# Обновлено: 2026-07-10 01:09:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Ebony TV by Lionsgate" group-title="Movies;Series",Ebony TV by Lionsgate
@@ -325,6 +325,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d5
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=115&deviceId=591105034c1806b47438342c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Film Detective" group-title="VOD Movies (EN)",Film Detective
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
+#EXTINF:-1 tvg-name="FAN" group-title="Animation;Movies",FAN
+http://31.148.48.15/Fan/index.m3u8
 #EXTINF:-1 tvg-name="Hollywood" group-title="Movies",Hollywood
 http://31.148.48.15/MGM_HD/index.m3u8
 #EXTINF:-1 tvg-name="312 Кино (406p)" group-title="Movies",312 Кино (406p)
@@ -2237,3 +2239,21 @@ http://177.234.249.178:8888/AXN/index.m3u8
 http://138.121.15.230:9002/CINECANAL/index.m3u8
 #EXTINF:-1 tvg-name="Film & Arts" group-title="Movies",Film & Arts
 http://45.6.4.35/FILM_AND_ARTS/index.m3u8
+#EXTINF:-1 tvg-name="Horoshee Kino" group-title="Movies",Horoshee Kino
+https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
+#EXTINF:-1 tvg-name="Indiyskoye Kino (576p)" group-title="Movies",Indiyskoye Kino (576p)
+http://188.113.190.12/329/index.m3u8
+#EXTINF:-1 tvg-name="Kinomix (576p)" group-title="Movies",Kinomix (576p)
+http://93.170.254.17/Kinomiks/index.m3u8
+#EXTINF:-1 tvg-name="Nevskiy" group-title="Series",Nevskiy
+https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
+#EXTINF:-1 tvg-name="Perviy otdel" group-title="Series",Perviy otdel
+https://cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8
+#EXTINF:-1 tvg-name="Pes" group-title="Series",Pes
+https://cdn-dvr.ntv.ru/Pes/index.m3u8
+#EXTINF:-1 tvg-name="Shef" group-title="Series",Shef
+https://cdn-dvr.ntv.ru/Shef/index.m3u8
+#EXTINF:-1 tvg-name="Skoraya pomoshch" group-title="Series",Skoraya pomoshch
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
+#EXTINF:-1 tvg-name="TNT Novelas Brazil" group-title="Series",TNT Novelas Brazil
+http://167.250.126.140:7777/TBS-HD/index.m3u8

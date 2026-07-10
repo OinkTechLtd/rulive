@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-10 00:03:26
-# Всего каналов: 19216
-# Новых за сессию: 0
+# Обновлено: 2026-07-10 01:09:24
+# Всего каналов: 19273
+# Новых за сессию: 57
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Kids;Music
 # Каналов: 1
-# Обновлено: 2026-07-10 00:03:26
+# Обновлено: 2026-07-10 01:09:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="MCN6 Music Channel" group-title="Animation;Kids;Music",MCN6 Music Channel
@@ -83,6 +83,10 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 https://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 tvg-name="Муз ТВ (450p) [Geo-blocked]" group-title="Music",Муз ТВ (450p) [Geo-blocked]
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 tvg-name="Europa Plus TV" group-title="Music",Europa Plus TV
+http://31.148.48.15/Europa_Plus_HD/index.m3u8
+#EXTINF:-1 tvg-name="FAN" group-title="Animation;Movies",FAN
+http://31.148.48.15/Fan/index.m3u8
 #EXTINF:-1 tvg-name="FON Music" group-title="Music",FON Music
 https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
 #EXTINF:-1 tvg-name="Gulli Girl" group-title="Kids",Gulli Girl
@@ -2459,3 +2463,7 @@ http://45.6.4.35/DISNEY/index.m3u8
 http://177.234.249.178:8888/MTV/index.m3u8
 #EXTINF:-1 tvg-name="Disney Jr. Latin America" group-title="Animation;Kids",Disney Jr. Latin America
 http://177.234.249.178:8888/DISNEY-JR/index.m3u8
+#EXTINF:-1 tvg-name="Trace Urban International" group-title="Music",Trace Urban International
+https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8
+#EXTINF:-1 tvg-name="Busuioc TV" group-title="Music",Busuioc TV
+https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/master.m3u8

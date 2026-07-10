@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-10 00:03:26
-# Всего каналов: 19216
-# Новых за сессию: 0
+# Обновлено: 2026-07-10 01:09:24
+# Всего каналов: 19273
+# Новых за сессию: 57
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Business;Documentary
 # Каналов: 3
-# Обновлено: 2026-07-10 00:03:26
+# Обновлено: 2026-07-10 01:09:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Bloomberg Originals" group-title="Business;Documentary",Bloomberg Originals
@@ -483,8 +483,6 @@ http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7049/index.m3u8
 http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12101/index.m3u8
 #EXTINF:-1 tvg-name="Viasat Nature" group-title="Documentary",Viasat Nature
 http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12084/index.m3u8
-#EXTINF:-1 tvg-name="Agenda Minera TV" group-title="Business",Agenda Minera TV
-https://stv2.boliviaplay.com.bo/hls/stream.m3u8
 #EXTINF:-1 tvg-name="viju Nature" group-title="Documentary",viju Nature
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Le Nouveau Manager TV" group-title="Business",Le Nouveau Manager TV
@@ -543,3 +541,5 @@ http://45.162.231.38:7779/History_2/index.m3u8
 http://45.6.4.35/HISTORY/index.m3u8
 #EXTINF:-1 tvg-name="National Geographic Latin America" group-title="Documentary",National Geographic Latin America
 http://177.234.249.178:8888/NATGEO/index.m3u8
+#EXTINF:-1 tvg-name="Pro Business" group-title="Business",Pro Business
+https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8

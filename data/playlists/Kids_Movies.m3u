@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-10 00:03:26
-# Всего каналов: 19216
-# Новых за сессию: 0
+# Обновлено: 2026-07-10 01:09:24
+# Всего каналов: 19273
+# Новых за сессию: 57
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Movies
 # Каналов: 2
-# Обновлено: 2026-07-10 00:03:26
+# Обновлено: 2026-07-10 01:09:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="KidsFlix" group-title="Kids;Movies",KidsFlix
@@ -80,6 +80,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d5
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=115&deviceId=591105034c1806b47438342c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Film Detective" group-title="VOD Movies (EN)",Film Detective
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
+#EXTINF:-1 tvg-name="FAN" group-title="Animation;Movies",FAN
+http://31.148.48.15/Fan/index.m3u8
 #EXTINF:-1 tvg-name="Gulli Girl" group-title="Kids",Gulli Girl
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Hollywood" group-title="Movies",Hollywood
@@ -2140,3 +2142,9 @@ http://45.6.4.35/FILM_AND_ARTS/index.m3u8
 http://138.186.23.7:8082/PARAMOUNT/index.m3u8
 #EXTINF:-1 tvg-name="Star Channel" group-title="Movies;Series",Star Channel
 http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="Horoshee Kino" group-title="Movies",Horoshee Kino
+https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
+#EXTINF:-1 tvg-name="Indiyskoye Kino (576p)" group-title="Movies",Indiyskoye Kino (576p)
+http://188.113.190.12/329/index.m3u8
+#EXTINF:-1 tvg-name="Kinomix (576p)" group-title="Movies",Kinomix (576p)
+http://93.170.254.17/Kinomiks/index.m3u8

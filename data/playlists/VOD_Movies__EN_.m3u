@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-10 00:03:26
-# Всего каналов: 19216
-# Новых за сессию: 0
+# Обновлено: 2026-07-10 01:09:24
+# Всего каналов: 19273
+# Новых за сессию: 57
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: VOD Movies (EN)
 # Каналов: 25
-# Обновлено: 2026-07-10 00:03:26
+# Обновлено: 2026-07-10 01:09:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="FilmRise Movies" group-title="VOD Movies (EN)",FilmRise Movies
@@ -481,6 +481,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63c923944
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6536608b4f123d000876b78b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="Le vite degli altri – Pluto TV" group-title="VOD Italy",Le vite degli altri – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/653660b4295b840008a70ba3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="FAN" group-title="Animation;Movies",FAN
+http://31.148.48.15/Fan/index.m3u8
 #EXTINF:-1 tvg-name="Hollywood" group-title="Movies",Hollywood
 http://31.148.48.15/MGM_HD/index.m3u8
 #EXTINF:-1 tvg-name="312 Кино (406p)" group-title="Movies",312 Кино (406p)
@@ -1815,3 +1817,9 @@ http://45.6.4.35/FILM_AND_ARTS/index.m3u8
 http://138.186.23.7:8082/PARAMOUNT/index.m3u8
 #EXTINF:-1 tvg-name="Star Channel" group-title="Movies;Series",Star Channel
 http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="Horoshee Kino" group-title="Movies",Horoshee Kino
+https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
+#EXTINF:-1 tvg-name="Indiyskoye Kino (576p)" group-title="Movies",Indiyskoye Kino (576p)
+http://188.113.190.12/329/index.m3u8
+#EXTINF:-1 tvg-name="Kinomix (576p)" group-title="Movies",Kinomix (576p)
+http://93.170.254.17/Kinomiks/index.m3u8

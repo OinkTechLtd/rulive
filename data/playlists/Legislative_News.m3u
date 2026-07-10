@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-10 00:03:26
-# Всего каналов: 19216
-# Новых за сессию: 0
+# Обновлено: 2026-07-10 01:09:24
+# Всего каналов: 19273
+# Новых за сессию: 57
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Legislative;News
 # Каналов: 1
-# Обновлено: 2026-07-10 00:03:26
+# Обновлено: 2026-07-10 01:09:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Korea TV" group-title="Legislative;News",Korea TV
@@ -2575,3 +2575,7 @@ http://138.121.15.230:9002/BBC-NEWS/index.m3u8
 https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8
 #EXTINF:-1 tvg-name="Canal Congreso" group-title="Legislative",Canal Congreso
 http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8
+#EXTINF:-1 tvg-name="TV Assembleia Piaui" group-title="Legislative",TV Assembleia Piaui
+https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
+#EXTINF:-1 tvg-name="Guatevision" group-title="News",Guatevision
+https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8

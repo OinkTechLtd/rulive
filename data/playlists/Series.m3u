@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-10 00:03:26
-# Всего каналов: 19216
-# Новых за сессию: 0
+# Обновлено: 2026-07-10 01:09:24
+# Всего каналов: 19273
+# Новых за сессию: 57
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Series
-# Каналов: 402
-# Обновлено: 2026-07-10 00:03:26
+# Каналов: 408
+# Обновлено: 2026-07-10 01:09:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Смотрим Честный Детектив" group-title="Series",Смотрим Честный Детектив
@@ -1206,6 +1206,24 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.6.4.35/EUROPA/index
 
 #EXTINF:-1 tvg-name="TNT Novelas" group-title="Series",TNT Novelas
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/138.186.23.7:8082/TNTNOVELAS/index.m3u8
+
+#EXTINF:-1 tvg-name="Nevskiy" group-title="Series",Nevskiy
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-dvr.ntv.ru/Nevskiy/index.m3u8
+
+#EXTINF:-1 tvg-name="Perviy otdel" group-title="Series",Perviy otdel
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8
+
+#EXTINF:-1 tvg-name="Pes" group-title="Series",Pes
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-dvr.ntv.ru/Pes/index.m3u8
+
+#EXTINF:-1 tvg-name="Shef" group-title="Series",Shef
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-dvr.ntv.ru/Shef/index.m3u8
+
+#EXTINF:-1 tvg-name="Skoraya pomoshch" group-title="Series",Skoraya pomoshch
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT Novelas Brazil" group-title="Series",TNT Novelas Brazil
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/167.250.126.140:7777/TBS-HD/index.m3u8
 
 #EXTINF:-1 tvg-name="13 Teleseries" group-title="Series",13 Teleseries
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8

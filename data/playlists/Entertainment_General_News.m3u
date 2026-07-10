@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-10 00:03:26
-# Всего каналов: 19216
-# Новых за сессию: 0
+# Обновлено: 2026-07-10 01:09:24
+# Всего каналов: 19273
+# Новых за сессию: 57
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;General;News
 # Каналов: 3
-# Обновлено: 2026-07-10 00:03:26
+# Обновлено: 2026-07-10 01:09:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="TV Modelo" group-title="Entertainment;General;News",TV Modelo
@@ -8143,6 +8143,8 @@ https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
 https://online.radiomelody.com.ar:2443/hls/mediospublicos.m3u8
 #EXTINF:-1 tvg-name="Pointe TV" group-title="General",Pointe TV
 https://tv.pointville.ag/hls/mystream.m3u8
+#EXTINF:-1 tvg-name="Amitel TV" group-title="General",Amitel TV
+https://stv2.boliviaplay.com.bo/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Canal 51" group-title="General",Canal 51
 https://live.cn51hn.com/live/cn51.m3u8
 #EXTINF:-1 tvg-name="Coral TV" group-title="General",Coral TV
@@ -8943,7 +8945,7 @@ https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8
 https://master.tucableip.com/pstbolivia/index.m3u8
 #EXTINF:-1 tvg-name="SPC Canal 15" group-title="General",SPC Canal 15
 https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8
-#EXTINF:-1 tvg-name="Television Azanaque" group-title="General",Television Azanaque
+#EXTINF:-1 tvg-name="Radio San Gabriel" group-title="General",Radio San Gabriel
 https://twitch-m3u8.bastypro112.workers.dev/radiosangabrielbolivia/index.m3u8
 #EXTINF:-1 tvg-name="TVU Sucre" group-title="General",TVU Sucre
 https://edge.enhdtv.com/8214/index.m3u8
@@ -9331,3 +9333,45 @@ https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8
 https://live.zitata.tv/direct-hls/playlist.m3u8
 #EXTINF:-1 tvg-name="Vilayet TV" group-title="General",Vilayet TV
 https://nl.livekadeh.com/hls2/vilayet.m3u8
+#EXTINF:-1 tvg-name="NTV Vitrina" group-title="General",NTV Vitrina
+https://cdn.ntv.ru/vitrina/index.m3u8
+#EXTINF:-1 tvg-name="Radio Mir" group-title="General",Radio Mir
+https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="KATC 3.1" group-title="General",KATC 3.1
+http://stream.cammonitorplus.net/1753/index.m3u8
+#EXTINF:-1 tvg-name="Rede Metropole" group-title="General",Rede Metropole
+https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/metropole/index.m3u8
+#EXTINF:-1 tvg-name="Rede Premium TV" group-title="Entertainment",Rede Premium TV
+https://cdn-tiva-stmv2-samcast-com-br.smartbit.co/leonardo9878/leonardo9878/playlist.m3u8
+#EXTINF:-1 tvg-name="Vivax TV" group-title="General",Vivax TV
+https://video11.logicahost.com.br/redevivaxtv/redevivaxtv/playlist.m3u8
+#EXTINF:-1 tvg-name="CFTO-DT" group-title="General",CFTO-DT
+http://stream.cammonitorplus.net/1712/index.m3u8
+#EXTINF:-1 tvg-name="CTV 2 Atlantic" group-title="General",CTV 2 Atlantic
+http://stream.cammonitorplus.net/1731/index.m3u8
+#EXTINF:-1 tvg-name="Three +1" group-title="General",Three +1
+https://i.mjh.nz/.r/three-plus1.m3u8
+#EXTINF:-1 tvg-name="Dr Pal TV" group-title="General",Dr Pal TV
+https://stream.cisk.tech/drpal/index.m3u8
+#EXTINF:-1 tvg-name="Canal 2" group-title="General",Canal 2
+https://d2hha8xu9trvi8.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-name="Canal 6" group-title="General",Canal 6
+https://d3xpfoln9sj56.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-name="Canal 12 (480i)" group-title="General",Canal 12 (480i)
+https://d2b5h5wyivfnfl.cloudfront.net/live/53108ffe-0b7e-46ab-bc14-3a9c30010939/ts:abr.m3u8
+#EXTINF:-1 tvg-name="CNC Valledupar" group-title="General",CNC Valledupar
+https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8
+#EXTINF:-1 tvg-name="Guatevision" group-title="News",Guatevision
+https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/150.0.0.0 Safari/537.36" group-title="General",Juntos TV" group-title="General",like Gecko) Chrome/150.0.0.0 Safari/537.36" group-title="General",Juntos TV
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/juntos_tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Nuble" group-title="General",Radio Nuble
+https://tv.telselec.cl:3376/live/nublefmlive.m3u8
+#EXTINF:-1 tvg-name="Radio Universitaria San Andres" group-title="Culture;Education;Entertainment",Radio Universitaria San Andres
+https://edge.enhdtv.com/8054/index.m3u8
+#EXTINF:-1 tvg-name="Red Rubi" group-title="General",Red Rubi
+https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8
+#EXTINF:-1 tvg-name="Telepasto" group-title="General",Telepasto
+https://hvtraficonew.ddns.net/telepastobrowser/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Show Fortaleza" group-title="General",TV Show Fortaleza
+https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8

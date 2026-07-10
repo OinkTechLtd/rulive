@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-10 00:03:26
-# Всего каналов: 19216
-# Новых за сессию: 0
+# Обновлено: 2026-07-10 01:09:24
+# Всего каналов: 19273
+# Новых за сессию: 57
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Business
 # Каналов: 75
-# Обновлено: 2026-07-10 00:03:26
+# Обновлено: 2026-07-10 01:09:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Bloomberg TV Europe" group-title="Business",Bloomberg TV Europe
@@ -184,9 +184,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/s-pl-01.mediatool.tv/p
 #EXTINF:-1 tvg-name="Trends Z" group-title="Business",Trends Z
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8
 
-#EXTINF:-1 tvg-name="Agenda Minera TV" group-title="Business",Agenda Minera TV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/stv2.boliviaplay.com.bo/hls/stream.m3u8
-
 #EXTINF:-1 tvg-name="Le Nouveau Manager TV" group-title="Business",Le Nouveau Manager TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/lnmlive.com/live/lnmtv.m3u8
 
@@ -213,6 +210,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/206.212.244.63/66/inde
 
 #EXTINF:-1 tvg-name="CNBC World (576p)" group-title="Business",CNBC World (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/206.212.244.63/42/index.m3u8
+
+#EXTINF:-1 tvg-name="Pro Business" group-title="Business",Pro Business
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Negocios TV" group-title="Business",Negocios TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming013.gestec-video.com/hls/negociostv.m3u8

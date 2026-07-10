@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-10 00:03:26
-# Всего каналов: 19216
-# Новых за сессию: 0
+# Обновлено: 2026-07-10 01:09:24
+# Всего каналов: 19273
+# Новых за сессию: 57
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education
 # Каналов: 206
-# Обновлено: 2026-07-10 00:03:26
+# Обновлено: 2026-07-10 01:09:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Кто есть Кто (576p)" group-title="Education",Кто есть Кто (576p)
@@ -724,3 +724,5 @@ http://45.189.62.33:8002/play/a0p7/index.m3u8
 https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
 #EXTINF:-1 tvg-name="AgroCanal" group-title="Education;Outdoor",AgroCanal
 http://45.162.64.114/AGRO_CANAL/index.m3u8
+#EXTINF:-1 tvg-name="Radio Universitaria San Andres" group-title="Culture;Education;Entertainment",Radio Universitaria San Andres
+https://edge.enhdtv.com/8054/index.m3u8
