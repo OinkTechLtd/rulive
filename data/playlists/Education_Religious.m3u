@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-10 23:29:35
-# Всего каналов: 19332
-# Новых за сессию: 2
+# Обновлено: 2026-07-11 00:57:06
+# Всего каналов: 19427
+# Новых за сессию: 95
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Religious
 # Каналов: 2
-# Обновлено: 2026-07-10 23:29:35
+# Обновлено: 2026-07-11 00:57:07
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Paighan TV" group-title="Education;Religious",Paighan TV
@@ -2076,3 +2076,9 @@ https://tgn.bozztv.com/watc57/watc57-theloop/watc57-theloop/index.m3u8
 https://radiomaria.inovanex.stream/stream.m3u8
 #EXTINF:-1 tvg-name="Radio Universitaria San Andres" group-title="Culture;Education;Entertainment",Radio Universitaria San Andres
 https://edge.enhdtv.com/8054/index.m3u8
+#EXTINF:-1 tvg-name="KWHY 63.1" group-title="Religious",KWHY 63.1
+https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/dad6a736-9efb-40ce-89b6-81d1d54f92bd/master.m3u8
+#EXTINF:-1 tvg-name="Trace Gospel Africa Franco" group-title="Music;Religious",Trace Gospel Africa Franco
+https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
+#EXTINF:-1 tvg-name="Vision Latina" group-title="Religious",Vision Latina
+https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/64917431-2f51-0a46-d4d0-04d111b2393f/master.m3u8

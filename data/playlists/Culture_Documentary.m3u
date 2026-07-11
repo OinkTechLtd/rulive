@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-10 23:29:35
-# Всего каналов: 19332
-# Новых за сессию: 2
+# Обновлено: 2026-07-11 00:57:06
+# Всего каналов: 19427
+# Новых за сессию: 95
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Documentary
 # Каналов: 8
-# Обновлено: 2026-07-10 23:29:35
+# Обновлено: 2026-07-11 00:57:07
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="BBC Four [Geo-blocked]" group-title="Culture;Documentary",BBC Four [Geo-blocked]
@@ -770,3 +770,5 @@ http://45.6.4.35/HISTORY/index.m3u8
 http://177.234.249.178:8888/NATGEO/index.m3u8
 #EXTINF:-1 tvg-name="Radio Universitaria San Andres" group-title="Culture;Education;Entertainment",Radio Universitaria San Andres
 https://edge.enhdtv.com/8054/index.m3u8
+#EXTINF:-1 tvg-name="Encuentro" group-title="Culture",Encuentro
+http://200.91.32.158:8080/encuentro/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-10 23:29:35
-# Всего каналов: 19332
-# Новых за сессию: 2
+# Обновлено: 2026-07-11 00:57:06
+# Всего каналов: 19427
+# Новых за сессию: 95
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Travel
 # Каналов: 1
-# Обновлено: 2026-07-10 23:29:35
+# Обновлено: 2026-07-11 00:57:07
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Costa Rica Channel (576p)" group-title="Culture;Travel",Costa Rica Channel (576p)
@@ -501,3 +501,5 @@ http://45.162.231.38:7779/Modo_Viagem/index.m3u8
 http://167.250.126.140:7777/TRAVELBOX-HD/index.m3u8
 #EXTINF:-1 tvg-name="Radio Universitaria San Andres" group-title="Culture;Education;Entertainment",Radio Universitaria San Andres
 https://edge.enhdtv.com/8054/index.m3u8
+#EXTINF:-1 tvg-name="Encuentro" group-title="Culture",Encuentro
+http://200.91.32.158:8080/encuentro/index.m3u8

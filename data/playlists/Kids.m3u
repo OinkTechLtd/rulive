@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-10 23:29:35
-# Всего каналов: 19332
-# Новых за сессию: 2
+# Обновлено: 2026-07-11 00:57:06
+# Всего каналов: 19427
+# Новых за сессию: 95
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids
-# Каналов: 371
-# Обновлено: 2026-07-10 23:29:35
+# Каналов: 374
+# Обновлено: 2026-07-11 00:57:07
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Mama (576p)" group-title="Kids",Mama (576p)
@@ -1059,6 +1059,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/206.212.244.63/650/ind
 
 #EXTINF:-1 tvg-name="France 4" group-title="Kids",France 4
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/176.65.146.100:8047/play/a074/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney Channel East" group-title="Kids",Disney Channel East
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.52/Disney_Channel_HD/index.m3u8
+
+#EXTINF:-1 tvg-name="TeenNick" group-title="Kids",TeenNick
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.55/TEEN_NICK/index.m3u8
+
+#EXTINF:-1 tvg-name="Pakapaka" group-title="Kids",Pakapaka
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/200.91.32.158:8080/pakapaka/index.m3u8
 
 #EXTINF:-1 tvg-name="TNT Kids (288p)" group-title="Kids",TNT Kids (288p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/restreamer1.tnt.ba/hls/tntkids.m3u8

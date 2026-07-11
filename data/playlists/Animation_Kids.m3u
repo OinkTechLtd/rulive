@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-10 23:29:35
-# Всего каналов: 19332
-# Новых за сессию: 2
+# Обновлено: 2026-07-11 00:57:06
+# Всего каналов: 19427
+# Новых за сессию: 95
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Kids
 # Каналов: 60
-# Обновлено: 2026-07-10 23:29:35
+# Обновлено: 2026-07-11 00:57:07
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Мультимания (576p)" group-title="Animation;Kids",Мультимания (576p)
@@ -978,3 +978,5 @@ http://167.250.126.140:7777/BABYTV-HD/index.m3u8
 http://167.250.126.140:7777/NICKJR-HD/index.m3u8
 #EXTINF:-1 tvg-name="DumDum" group-title="Kids",DumDum
 http://45.162.231.38:7779/ZooMoo/index.m3u8
+#EXTINF:-1 tvg-name="Pakapaka" group-title="Kids",Pakapaka
+http://200.91.32.158:8080/pakapaka/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-10 23:29:35
-# Всего каналов: 19332
-# Новых за сессию: 2
+# Обновлено: 2026-07-11 00:57:06
+# Всего каналов: 19427
+# Новых за сессию: 95
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Education;Outdoor;Relax
 # Каналов: 1
-# Обновлено: 2026-07-10 23:29:35
+# Обновлено: 2026-07-11 00:57:07
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="WildEarth" group-title="Documentary;Education;Outdoor;Relax",WildEarth
@@ -1021,3 +1021,7 @@ http://177.234.249.178:8888/NATGEO/index.m3u8
 https://video24.mais.uol.com.br/live/6146.m3u8
 #EXTINF:-1 tvg-name="Radio Universitaria San Andres" group-title="Culture;Education;Entertainment",Radio Universitaria San Andres
 https://edge.enhdtv.com/8054/index.m3u8
+#EXTINF:-1 tvg-name="World Fishing Network" group-title="Outdoor",World Fishing Network
+http://40.160.24.55/WORLD_FISHING_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="Canal Rural (576p)" group-title="Outdoor",Canal Rural (576p)
+http://200.91.32.158:8080/rural/index.m3u8

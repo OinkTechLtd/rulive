@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-10 23:29:35
-# Всего каналов: 19332
-# Новых за сессию: 2
+# Обновлено: 2026-07-11 00:57:06
+# Всего каналов: 19427
+# Новых за сессию: 95
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Outdoor;Travel
 # Каналов: 3
-# Обновлено: 2026-07-10 23:29:35
+# Обновлено: 2026-07-11 00:57:07
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Peer TV Alto Adige (1280p)" group-title="Outdoor;Travel",Peer TV Alto Adige (1280p)
@@ -251,3 +251,7 @@ http://45.162.231.38:7779/Modo_Viagem/index.m3u8
 http://45.162.231.38:7779/Terra_Viva/index.m3u8
 #EXTINF:-1 tvg-name="Travel Box Brazil" group-title="Travel",Travel Box Brazil
 http://167.250.126.140:7777/TRAVELBOX-HD/index.m3u8
+#EXTINF:-1 tvg-name="World Fishing Network" group-title="Outdoor",World Fishing Network
+http://40.160.24.55/WORLD_FISHING_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="Canal Rural (576p)" group-title="Outdoor",Canal Rural (576p)
+http://200.91.32.158:8080/rural/index.m3u8

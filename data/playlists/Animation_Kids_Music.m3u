@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-10 23:29:35
-# Всего каналов: 19332
-# Новых за сессию: 2
+# Обновлено: 2026-07-11 00:57:06
+# Всего каналов: 19427
+# Новых за сессию: 95
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Kids;Music
 # Каналов: 1
-# Обновлено: 2026-07-10 23:29:35
+# Обновлено: 2026-07-11 00:57:07
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="MCN6 Music Channel" group-title="Animation;Kids;Music",MCN6 Music Channel
@@ -2151,7 +2151,7 @@ http://41.223.30.230/BABYTV/index.m3u8
 http://99.27.51.147:8080/Gulli/index.m3u8
 #EXTINF:-1 tvg-name="Trace Africa" group-title="Music",Trace Africa
 https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
-#EXTINF:-1 tvg-name="Trace Afrikora" group-title="Music",Trace Afrikora
+#EXTINF:-1 tvg-name="Trace Teranga" group-title="Music",Trace Teranga
 https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8
 #EXTINF:-1 tvg-name="Trace Ayiti" group-title="Music",Trace Ayiti
 https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8
@@ -2283,7 +2283,7 @@ https://adpnetworkhd-cmd.github.io/iptv/NicktoonsRussia.m3u8
 https://adpnetworkhd-cmd.github.io/iptv/Pingvin.m3u8
 #EXTINF:-1 tvg-name="Pixel TV" group-title="Kids",Pixel TV
 https://adpnetworkhd-cmd.github.io/iptv/PikselTV.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Music",Trace Urban" group-title="Music",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Music",Trace Urban
+#EXTINF:-1 tvg-name="Trace Urban France" group-title="Music",Trace Urban France
 https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
 #EXTINF:-1 tvg-name="Nick Jr." group-title="Kids",Nick Jr.
 https://adpnetworkhd-cmd.github.io/iptv/NickJrSpain.m3u8
@@ -2359,7 +2359,7 @@ http://179.60.51.134:8888/BABY-TV/index.m3u8
 https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Trace Urban Africa Franco" group-title="Music",Trace Urban Africa Franco
 https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8
-#EXTINF:-1 tvg-name="Trace Urban Caribbean And Indian Ocean" group-title="Music",Trace Urban Caribbean And Indian Ocean
+#EXTINF:-1 tvg-name="Trace Urban Caribbean and Indian Ocean" group-title="Music",Trace Urban Caribbean and Indian Ocean
 https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8
 #EXTINF:-1 tvg-name="Trace Urban Southern Africa" group-title="Music",Trace Urban Southern Africa
 https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8
@@ -2463,7 +2463,19 @@ http://45.6.4.35/DISNEY/index.m3u8
 http://177.234.249.178:8888/MTV/index.m3u8
 #EXTINF:-1 tvg-name="Disney Jr. Latin America" group-title="Animation;Kids",Disney Jr. Latin America
 http://177.234.249.178:8888/DISNEY-JR/index.m3u8
-#EXTINF:-1 tvg-name="Trace Urban International" group-title="Music",Trace Urban International
-https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8
 #EXTINF:-1 tvg-name="Busuioc TV" group-title="Music",Busuioc TV
 https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/master.m3u8
+#EXTINF:-1 tvg-name="California Music Channel" group-title="Music",California Music Channel
+https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="CMC-USA Country Music Channel" group-title="Music",CMC-USA Country Music Channel
+https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
+#EXTINF:-1 tvg-name="VH1 West" group-title="Music",VH1 West
+http://40.160.24.55/VH1_WEST/index.m3u8
+#EXTINF:-1 tvg-name="Trace Gospel Africa Franco" group-title="Music;Religious",Trace Gospel Africa Franco
+https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
+#EXTINF:-1 tvg-name="CM El Canal de la Musica" group-title="Music",CM El Canal de la Musica
+http://200.91.32.158:8080/cm/index.m3u8
+#EXTINF:-1 tvg-name="Pakapaka" group-title="Kids",Pakapaka
+http://200.91.32.158:8080/pakapaka/index.m3u8
+#EXTINF:-1 tvg-name="Much" group-title="Music",Much
+http://40.160.24.53/MUCH/index.m3u8
