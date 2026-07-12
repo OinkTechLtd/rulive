@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-11 23:27:43
-# Всего каналов: 19427
-# Новых за сессию: 0
+# Обновлено: 2026-07-12 01:06:07
+# Всего каналов: 19479
+# Новых за сессию: 52
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Series
 # Каналов: 410
-# Обновлено: 2026-07-11 23:27:44
+# Обновлено: 2026-07-12 01:06:08
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Смотрим Честный Детектив" group-title="Series",Смотрим Честный Детектив
@@ -1374,6 +1374,8 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/TL_Novelas.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="USA Network" group-title="Comedy;Movies;Series;Sports",USA Network
 http://185.246.209.113/DISCOVERYHD/index.m3u8
+#EXTINF:-1 tvg-name="Fillka TV" group-title="Entertainment;Movies;Series",Fillka TV
+https://live-evg5.tv360.bitel.com.pe/bitel/fillka/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies;Series",AXN Asia Thailand" group-title="Movies;Series",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies;Series",AXN Asia Thailand
 http://54.37.19.157/axn/playlist.m3u8
 #EXTINF:-1 tvg-name="Bolt (576p)" group-title="Movies;Series",Bolt (576p)

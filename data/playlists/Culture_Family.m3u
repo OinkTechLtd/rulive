@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-11 23:27:43
-# Всего каналов: 19427
-# Новых за сессию: 0
+# Обновлено: 2026-07-12 01:06:07
+# Всего каналов: 19479
+# Новых за сессию: 52
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Family
 # Каналов: 1
-# Обновлено: 2026-07-11 23:27:44
+# Обновлено: 2026-07-12 01:06:08
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Superscreen TV (412p)" group-title="Culture;Family",Superscreen TV (412p)
@@ -515,3 +515,7 @@ http://187.102.210.46/IPE/index.m3u8
 https://edge.enhdtv.com/8054/index.m3u8
 #EXTINF:-1 tvg-name="Encuentro" group-title="Culture",Encuentro
 http://200.91.32.158:8080/encuentro/index.m3u8
+#EXTINF:-1 tvg-name="ARTV" group-title="Culture",ARTV
+http://45.162.193.35:80/ARTV/index.m3u8
+#EXTINF:-1 tvg-name="Hakka TV" group-title="Culture",Hakka TV
+https://hc9lby9bzw8zcar.wcetv.com/hls/hakkatv.m3u8

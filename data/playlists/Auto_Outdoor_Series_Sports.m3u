@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-11 23:27:43
-# Всего каналов: 19427
-# Новых за сессию: 0
+# Обновлено: 2026-07-12 01:06:07
+# Всего каналов: 19479
+# Новых за сессию: 52
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Auto;Outdoor;Series;Sports
 # Каналов: 1
-# Обновлено: 2026-07-11 23:27:44
+# Обновлено: 2026-07-12 01:06:08
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="REV'N Action" group-title="Auto;Outdoor;Series;Sports",REV'N Action
@@ -1735,6 +1735,8 @@ https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
 https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8
 #EXTINF:-1 tvg-name="Sqala TV" group-title="Sports",Sqala TV
 https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8
+#EXTINF:-1 tvg-name="Fillka TV" group-title="Entertainment;Movies;Series",Fillka TV
+https://live-evg5.tv360.bitel.com.pe/bitel/fillka/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies;Series",AXN Asia Thailand" group-title="Movies;Series",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies;Series",AXN Asia Thailand
 http://54.37.19.157/axn/playlist.m3u8
 #EXTINF:-1 tvg-name="L1" group-title="Sports",L1
@@ -1941,3 +1943,9 @@ http://200.91.32.158:8080/americasports/index.m3u8
 https://k227.jk-cdn.com/watch/live.m3u8?video=spotv_2_540&sid=XkIyTIIqKP3Fs73qReebDp2lNTxFrvHkspsskgSW&secret=9e6b3b3f49e4adfd39c58411da2e69cc&time=1782993175
 #EXTINF:-1 tvg-name="SPOTV [Geo-blocked]" group-title="Sports",SPOTV [Geo-blocked]
 https://k227.jk-cdn.com/watch/live.m3u8?video=spotv_540&sid=YmMlJRlYUof2EQnjQgd1CKfPDM1aNVqmBceclNLI&secret=5f9dee3350b9a93032ba9acd7e0fd556&time=1783689251
+#EXTINF:-1 tvg-name="Slopes TV" group-title="Sports",Slopes TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2241
+#EXTINF:-1 tvg-name="XFC TV" group-title="Sports",XFC TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2247
+#EXTINF:-1 tvg-name="FUTV" group-title="Sports",FUTV
+http://190.61.90.17:40000/play/a03v/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-11 23:27:43
-# Всего каналов: 19427
-# Новых за сессию: 0
+# Обновлено: 2026-07-12 01:06:07
+# Всего каналов: 19479
+# Новых за сессию: 52
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;Religious
 # Каналов: 1
-# Обновлено: 2026-07-11 23:27:44
+# Обновлено: 2026-07-12 01:06:08
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ABN Bible Movies" group-title="Movies;Religious",ABN Bible Movies
@@ -2709,6 +2709,8 @@ https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8
 http://41.223.30.230/ZEEAFLAM/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN CEE Czech Republic" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN CEE Czech Republic
 http://88.212.15.19/live/test_axn/playlist.m3u8
+#EXTINF:-1 tvg-name="Fillka TV" group-title="Entertainment;Movies;Series",Fillka TV
+https://live-evg5.tv360.bitel.com.pe/bitel/fillka/playlist.m3u8
 #EXTINF:-1 tvg-name="Rede Vida (576p)" group-title="Religious",Rede Vida (576p)
 https://cdn-5.nxplay.com.br/REDE_VIDA/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Adria" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Adria
@@ -2977,3 +2979,21 @@ https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
 http://200.91.32.158:8080/cinear/index.m3u8
 #EXTINF:-1 tvg-name="Vision Latina" group-title="Religious",Vision Latina
 https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/64917431-2f51-0a46-d4d0-04d111b2393f/master.m3u8
+#EXTINF:-1 tvg-name="El Sembrador Nueva Evangelizacion ESNE" group-title="Religious",El Sembrador Nueva Evangelizacion ESNE
+http://190.61.90.17:40000/play/a025/index.m3u8
+#EXTINF:-1 tvg-name="Flix" group-title="Movies",Flix
+http://40.160.24.52/FLIX/index.m3u8
+#EXTINF:-1 tvg-name="FrightFlix" group-title="Movies",FrightFlix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2229
+#EXTINF:-1 tvg-name="MGM+" group-title="Movies",MGM+
+http://40.160.24.52/EPIX/index.m3u8
+#EXTINF:-1 tvg-name="MGM+ Hits" group-title="Movies",MGM+ Hits
+http://40.160.24.52/EPIX_2/index.m3u8
+#EXTINF:-1 tvg-name="NRBTV" group-title="Religious",NRBTV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=15811
+#EXTINF:-1 tvg-name="Watch it Scream!" group-title="Movies",Watch it Scream!
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2246
+#EXTINF:-1 tvg-name="Sony Movies" group-title="Movies",Sony Movies
+http://45.162.64.114/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-name="CineLatino" group-title="Movies",CineLatino
+http://45.162.193.35:80/CINELATINO_HD/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-11 23:27:43
-# Всего каналов: 19427
-# Новых за сессию: 0
+# Обновлено: 2026-07-12 01:06:07
+# Всего каналов: 19479
+# Новых за сессию: 52
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: VOD Movies (EN)
 # Каналов: 25
-# Обновлено: 2026-07-11 23:27:44
+# Обновлено: 2026-07-12 01:06:08
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="FilmRise Movies" group-title="VOD Movies (EN)",FilmRise Movies
@@ -1659,6 +1659,8 @@ http://88.212.15.19/live/test_filmbox_family_atk_1200/playlist.m3u8
 http://41.223.30.230/ZEEAFLAM/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN CEE Czech Republic" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN CEE Czech Republic
 http://88.212.15.19/live/test_axn/playlist.m3u8
+#EXTINF:-1 tvg-name="Fillka TV" group-title="Entertainment;Movies;Series",Fillka TV
+https://live-evg5.tv360.bitel.com.pe/bitel/fillka/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Adria" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Adria
 http://5.57.74.130:8000/play/a0at/index.m3u8
 #EXTINF:-1 tvg-name="Sony Movies Latin America" group-title="Movies",Sony Movies Latin America
@@ -1831,3 +1833,17 @@ http://200.91.32.158:8080/universalpremierehd/index.m3u8
 http://40.160.24.55/USA_NETWORK_WEST/index.m3u8
 #EXTINF:-1 tvg-name="Cine.Ar (576p)" group-title="Movies",Cine.Ar (576p)
 http://200.91.32.158:8080/cinear/index.m3u8
+#EXTINF:-1 tvg-name="Flix" group-title="Movies",Flix
+http://40.160.24.52/FLIX/index.m3u8
+#EXTINF:-1 tvg-name="FrightFlix" group-title="Movies",FrightFlix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2229
+#EXTINF:-1 tvg-name="MGM+" group-title="Movies",MGM+
+http://40.160.24.52/EPIX/index.m3u8
+#EXTINF:-1 tvg-name="MGM+ Hits" group-title="Movies",MGM+ Hits
+http://40.160.24.52/EPIX_2/index.m3u8
+#EXTINF:-1 tvg-name="Watch it Scream!" group-title="Movies",Watch it Scream!
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2246
+#EXTINF:-1 tvg-name="Sony Movies" group-title="Movies",Sony Movies
+http://45.162.64.114/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-name="CineLatino" group-title="Movies",CineLatino
+http://45.162.193.35:80/CINELATINO_HD/index.m3u8

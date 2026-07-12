@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-11 23:27:43
-# Всего каналов: 19427
-# Новых за сессию: 0
+# Обновлено: 2026-07-12 01:06:07
+# Всего каналов: 19479
+# Новых за сессию: 52
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;Music
 # Каналов: 1
-# Обновлено: 2026-07-11 23:27:44
+# Обновлено: 2026-07-12 01:06:08
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Persiana Nostalgia" group-title="Classic;Music",Persiana Nostalgia
@@ -1753,6 +1753,8 @@ http://177.234.249.135:8888/Telehit/index.m3u8
 http://177.234.249.135:8888/TelehitMusica/index.m3u8
 #EXTINF:-1 tvg-name="Quiero Musica en mi Idioma" group-title="Music",Quiero Musica en mi Idioma
 http://177.234.249.178:8888/MTV/index.m3u8
+#EXTINF:-1 tvg-name="Trace Urban International" group-title="Music",Trace Urban International
+https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8
 #EXTINF:-1 tvg-name="Busuioc TV" group-title="Music",Busuioc TV
 https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/master.m3u8
 #EXTINF:-1 tvg-name="California Music Channel" group-title="Music",California Music Channel
@@ -1769,3 +1771,7 @@ https://fast-channels.atresmedia.com/161689f1897ccaaef9a6039cc591f292b259b62e/64
 http://200.91.32.158:8080/cm/index.m3u8
 #EXTINF:-1 tvg-name="Much" group-title="Music",Much
 http://40.160.24.53/MUCH/index.m3u8
+#EXTINF:-1 tvg-name="Rumba TV" group-title="Music",Rumba TV
+http://45.162.193.35:80/RUMBATV/index.m3u8
+#EXTINF:-1 tvg-name="ZICO TV" group-title="Music",ZICO TV
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8

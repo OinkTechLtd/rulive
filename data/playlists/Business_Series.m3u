@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-11 23:27:43
-# Всего каналов: 19427
-# Новых за сессию: 0
+# Обновлено: 2026-07-12 01:06:07
+# Всего каналов: 19479
+# Новых за сессию: 52
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Business;Series
 # Каналов: 1
-# Обновлено: 2026-07-11 23:27:44
+# Обновлено: 2026-07-12 01:06:08
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CNBC-e" group-title="Business;Series",CNBC-e
@@ -881,6 +881,8 @@ http://185.246.209.113/DISCOVERYHD/index.m3u8
 http://185.246.209.113/T+E/index.m3u8
 #EXTINF:-1 tvg-name="Bloomberg TV" group-title="Business",Bloomberg TV
 http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
+#EXTINF:-1 tvg-name="Fillka TV" group-title="Entertainment;Movies;Series",Fillka TV
+https://live-evg5.tv360.bitel.com.pe/bitel/fillka/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies;Series",AXN Asia Thailand" group-title="Movies;Series",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies;Series",AXN Asia Thailand
 http://54.37.19.157/axn/playlist.m3u8
 #EXTINF:-1 tvg-name="Smotrim 100% Lyubov" group-title="Series",Smotrim 100% Lyubov
@@ -953,3 +955,7 @@ http://167.250.126.140:7777/TBS-HD/index.m3u8
 http://40.160.24.55/USA_NETWORK_WEST/index.m3u8
 #EXTINF:-1 tvg-name="Aqui No Hay Quien Viva [_Geo-blocked_]" group-title="Classic;Comedy;Series",Aqui No Hay Quien Viva [_Geo-blocked_]
 https://fast-channels.atresmedia.com/161689f1897ccaaef9a6039cc591f292b259b62e/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/3.m3u8
+#EXTINF:-1 tvg-name="Business Rockstars" group-title="Business",Business Rockstars
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2220
+#EXTINF:-1 tvg-name="EntrepreneurTV" group-title="Business",EntrepreneurTV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2506

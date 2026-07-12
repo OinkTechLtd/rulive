@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-11 23:27:43
-# Всего каналов: 19427
-# Новых за сессию: 0
+# Обновлено: 2026-07-12 01:06:07
+# Всего каналов: 19479
+# Новых за сессию: 52
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;General;News
 # Каналов: 3
-# Обновлено: 2026-07-11 23:27:44
+# Обновлено: 2026-07-12 01:06:08
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="TV Modelo" group-title="Entertainment;General;News",TV Modelo
@@ -8455,6 +8455,8 @@ http://playcom.trapemn.tv:1935/transcoderip/america.stream/playlist.m3u8
 http://playcom.trapemn.tv:1935/transcoderip/canal9.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="La Nacion + (576p)" group-title="General",La Nacion + (576p)
 http://playcom.trapemn.tv:1935/transcoderip/lanacionplus.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Telefe" group-title="General",Telefe
+http://playcom.trapemn.tv:1935/transcoderip/telefe.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC One East Midlands" group-title="General",BBC One East Midlands
 http://149.102.245.111/1263/index.m3u8
 #EXTINF:-1 tvg-name="BBC One North West" group-title="General",BBC One North West
@@ -8525,6 +8527,8 @@ https://2-fss-1.streamhoster.com/pl_154/amlst:205432-2055980/playlist.m3u8
 https://stream.smotrim.ru/hls2/planeta_rtr_usa/playlist_4.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Culture;News",Ost West (576p)" group-title="Culture;News",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Culture;News",Ost West (576p)
 http://hls127.freeott.top:8080/OstWest/video.m3u8
+#EXTINF:-1 tvg-name="Fillka TV" group-title="Entertainment;Movies;Series",Fillka TV
+https://live-evg5.tv360.bitel.com.pe/bitel/fillka/playlist.m3u8
 #EXTINF:-1 tvg-name="BandNews" group-title="News",BandNews
 https://cdn-5.nxplay.com.br/BAND_NEWS/index.m3u8
 #EXTINF:-1 tvg-name="TV Migrante" group-title="General",TV Migrante
@@ -9227,9 +9231,9 @@ https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8
 https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-name="Bio Bio TV" group-title="General",Bio Bio TV
 https://jireh-7-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Borjana de Television" group-title="General",Borjana de Television
+#EXTINF:-1 tvg-name="Radio Gente" group-title="General",Radio Gente
 https://edge.enhdtv.com/8068/index.m3u8
-#EXTINF:-1 tvg-name="Canal 6 Master TV Carapari" group-title="General",Canal 6 Master TV Carapari
+#EXTINF:-1 tvg-name="TransMedia" group-title="General",TransMedia
 https://edge.enhdtv.com/8064/index.m3u8
 #EXTINF:-1 tvg-name="Radio Frecuencia Uno" group-title="General",Radio Frecuencia Uno
 https://v1.tustreaming.cl/frecuencia1tv/index.m3u8
@@ -9307,6 +9311,8 @@ http://45.171.108.253:8888/VIVA/index.m3u8
 http://45.6.4.35/IP_NOTICIAS/index.m3u8
 #EXTINF:-1 tvg-name="La Nacion +" group-title="General",La Nacion +
 http://45.6.4.35/LA_NACION/index.m3u8
+#EXTINF:-1 tvg-name="Telefe Buenos Aires" group-title="General",Telefe Buenos Aires
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTINF:-1 tvg-name="BBC News Latin America" group-title="News",BBC News Latin America
 http://138.121.15.230:9002/BBC-NEWS/index.m3u8
 #EXTINF:-1 tvg-name="Alerta Bogota [Geo-blocked]" group-title="General",Alerta Bogota [Geo-blocked]
@@ -9413,3 +9419,37 @@ https://origin-us.streaminghd.cl/telecanal/telecanal/playlist.m3u8
 https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 tvg-name="NAN TV" group-title="News",NAN TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Ace TV (480p)" group-title="Entertainment",Ace TV (480p)
+https://c.streamhoster.com/link/hls/W5s3fS/inLo5pcsHjo/iqg9wps0m1x_5/playlist.m3u8
+#EXTINF:-1 tvg-name="AMC+" group-title="Entertainment",AMC+
+http://40.160.24.52/AMC_PLUS/index.m3u8
+#EXTINF:-1 tvg-name="Antenna TV (576p)" group-title="Entertainment",Antenna TV (576p)
+http://40.160.24.52/ANTENNA_TV/index.m3u8
+#EXTINF:-1 tvg-name="CW" group-title="General",CW
+http://40.160.24.52/CW/index.m3u8
+#EXTINF:-1 tvg-name="E! West" group-title="Entertainment",E! West
+http://40.160.24.52/E_ENTERTAINMENT_WEST/index.m3u8
+#EXTINF:-1 tvg-name="Galxy TV" group-title="Entertainment",Galxy TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2230
+#EXTINF:-1 tvg-name="Lindell TV" group-title="News",Lindell TV
+https://rumble.com/live-hls/6v67mu/playlist.m3u8
+#EXTINF:-1 tvg-name="Overcomers TV" group-title="General",Overcomers TV
+https://glorystartv.live/Overcomers/index.m3u8
+#EXTINF:-1 tvg-name="Pasiones" group-title="Entertainment",Pasiones
+http://190.61.43.123:8081/PasionesHD/index.m3u8
+#EXTINF:-1 tvg-name="Salem News Channel" group-title="News",Salem News Channel
+https://amg00732-salemmediagroup-snc-ono-ekp8j.amagi.tv/playlist/amg00732-salemmediagroup-snc-ono/playlist.m3u8
+#EXTINF:-1 tvg-name="SBT News" group-title="News",SBT News
+http://167.250.126.140:7777/COMEDYCENTRAL-HD/index.m3u8
+#EXTINF:-1 tvg-name="Acustik TV" group-title="News",Acustik TV
+https://s5.mexside.net:1936/clientetv/clientetv/playlist.m3u8
+#EXTINF:-1 tvg-name="CTV Drama Channel" group-title="Entertainment",CTV Drama Channel
+http://40.160.24.52/DISCOVERY_SCIENCE_HD/index.m3u8
+#EXTINF:-1 tvg-name="Dmoda Channel" group-title="General",Dmoda Channel
+https://master.tucableip.com/dmoda/index.m3u8
+#EXTINF:-1 tvg-name="RCN Novelas" group-title="Entertainment",RCN Novelas
+http://190.61.43.123:8081/RCNNOVELAS/index.m3u8
+#EXTINF:-1 tvg-name="Teve Empresa" group-title="General",Teve Empresa
+https://live-evg8.tv360.bitel.com.pe/bitel/tvempresaSRT/playlist.m3u8
+#EXTINF:-1 tvg-name="Newsmax Balkans" group-title="News",Newsmax Balkans
+https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-11 23:27:43
-# Всего каналов: 19427
-# Новых за сессию: 0
+# Обновлено: 2026-07-12 01:06:07
+# Всего каналов: 19479
+# Новых за сессию: 52
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Education;Entertainment
 # Каналов: 2
-# Обновлено: 2026-07-11 23:27:44
+# Обновлено: 2026-07-12 01:06:08
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Manas TV" group-title="Culture;Education;Entertainment",Manas TV
@@ -2356,6 +2356,8 @@ http://41.223.30.230/PASSIONTV/index.m3u8
 https://2-fss-1.streamhoster.com/pl_154/amlst:205432-2055980/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Culture;News",Ost West (576p)" group-title="Culture;News",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Culture;News",Ost West (576p)
 http://hls127.freeott.top:8080/OstWest/video.m3u8
+#EXTINF:-1 tvg-name="Fillka TV" group-title="Entertainment;Movies;Series",Fillka TV
+https://live-evg5.tv360.bitel.com.pe/bitel/fillka/playlist.m3u8
 #EXTINF:-1 tvg-name="Bolivia Punto TV" group-title="Entertainment",Bolivia Punto TV
 https://streaming.hostpannel.lat/hls/fc517baca1d452f22f56a2563f93f500/index.m3u8
 #EXTINF:-1 tvg-name="Gaviota TV" group-title="Entertainment",Gaviota TV
@@ -2586,3 +2588,23 @@ http://40.160.24.58/LIFETIME_REAL_WOMEN/index.m3u8
 http://200.91.32.158:8080/universalrealityhd/index.m3u8
 #EXTINF:-1 tvg-name="Encuentro" group-title="Culture",Encuentro
 http://200.91.32.158:8080/encuentro/index.m3u8
+#EXTINF:-1 tvg-name="Ace TV (480p)" group-title="Entertainment",Ace TV (480p)
+https://c.streamhoster.com/link/hls/W5s3fS/inLo5pcsHjo/iqg9wps0m1x_5/playlist.m3u8
+#EXTINF:-1 tvg-name="AMC+" group-title="Entertainment",AMC+
+http://40.160.24.52/AMC_PLUS/index.m3u8
+#EXTINF:-1 tvg-name="Antenna TV (576p)" group-title="Entertainment",Antenna TV (576p)
+http://40.160.24.52/ANTENNA_TV/index.m3u8
+#EXTINF:-1 tvg-name="E! West" group-title="Entertainment",E! West
+http://40.160.24.52/E_ENTERTAINMENT_WEST/index.m3u8
+#EXTINF:-1 tvg-name="Galxy TV" group-title="Entertainment",Galxy TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2230
+#EXTINF:-1 tvg-name="Pasiones" group-title="Entertainment",Pasiones
+http://190.61.43.123:8081/PasionesHD/index.m3u8
+#EXTINF:-1 tvg-name="CTV Drama Channel" group-title="Entertainment",CTV Drama Channel
+http://40.160.24.52/DISCOVERY_SCIENCE_HD/index.m3u8
+#EXTINF:-1 tvg-name="ARTV" group-title="Culture",ARTV
+http://45.162.193.35:80/ARTV/index.m3u8
+#EXTINF:-1 tvg-name="RCN Novelas" group-title="Entertainment",RCN Novelas
+http://190.61.43.123:8081/RCNNOVELAS/index.m3u8
+#EXTINF:-1 tvg-name="Hakka TV" group-title="Culture",Hakka TV
+https://hc9lby9bzw8zcar.wcetv.com/hls/hakkatv.m3u8

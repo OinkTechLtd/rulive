@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-11 23:27:43
-# Всего каналов: 19427
-# Новых за сессию: 0
+# Обновлено: 2026-07-12 01:06:07
+# Всего каналов: 19479
+# Новых за сессию: 52
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General
-# Каналов: 2890
-# Обновлено: 2026-07-11 23:27:44
+# Каналов: 2898
+# Обновлено: 2026-07-12 01:06:08
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="БелРос (576p)" group-title="General",БелРос (576p)
@@ -7237,6 +7237,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/playcom.trapemn.tv:193
 #EXTINF:-1 tvg-name="La Nacion + (576p)" group-title="General",La Nacion + (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/playcom.trapemn.tv:1935/transcoderip/lanacionplus.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Telefe" group-title="General",Telefe
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/playcom.trapemn.tv:1935/transcoderip/telefe.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-name="BBC One" group-title="General",BBC One
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/149.102.245.111/1196/index.m3u8
 
@@ -8158,10 +8161,10 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stmvideo3.livecastv.co
 #EXTINF:-1 tvg-name="Bio Bio TV" group-title="General",Bio Bio TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jireh-7-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Borjana de Television" group-title="General",Borjana de Television
+#EXTINF:-1 tvg-name="Radio Gente" group-title="General",Radio Gente
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/edge.enhdtv.com/8068/index.m3u8
 
-#EXTINF:-1 tvg-name="Canal 6 Master TV Carapari" group-title="General",Canal 6 Master TV Carapari
+#EXTINF:-1 tvg-name="TransMedia" group-title="General",TransMedia
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/edge.enhdtv.com/8064/index.m3u8
 
 #EXTINF:-1 tvg-name="Radio Frecuencia Uno" group-title="General",Radio Frecuencia Uno
@@ -8235,6 +8238,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.171.108.253:8888/VI
 
 #EXTINF:-1 tvg-name="La Nacion +" group-title="General",La Nacion +
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.6.4.35/LA_NACION/index.m3u8
+
+#EXTINF:-1 tvg-name="Telefe Buenos Aires" group-title="General",Telefe Buenos Aires
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 
 #EXTINF:-1 tvg-name="Alerta Bogota [Geo-blocked]" group-title="General",Alerta Bogota [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/mdstrm.com/live-stream-playlist/69b2cdf98815b9b6c48c2532.m3u8
@@ -8361,6 +8367,24 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/200.91.32.158:8080/tvp
 
 #EXTINF:-1 tvg-name="Taiwan Indigenous TV" group-title="General",Taiwan Indigenous TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+
+#EXTINF:-1 tvg-name="CW" group-title="General",CW
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.52/CW/index.m3u8
+
+#EXTINF:-1 tvg-name="Overcomers TV" group-title="General",Overcomers TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/glorystartv.live/Overcomers/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal 1" group-title="General",Canal 1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/190.61.43.123:8081/CANAL1HD/index.m3u8
+
+#EXTINF:-1 tvg-name="ChileVision" group-title="General",ChileVision
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.162.193.35:80/CHILEVISION/index.m3u8
+
+#EXTINF:-1 tvg-name="Dmoda Channel" group-title="General",Dmoda Channel
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/master.tucableip.com/dmoda/index.m3u8
+
+#EXTINF:-1 tvg-name="Teve Empresa" group-title="General",Teve Empresa
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-evg8.tv360.bitel.com.pe/bitel/tvempresaSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ОНТ (576p)" group-title="General",ОНТ (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.dc.beltelecom.by/ont/ont/playlist.m3u8

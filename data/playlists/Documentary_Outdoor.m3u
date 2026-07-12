@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-11 23:27:43
-# Всего каналов: 19427
-# Новых за сессию: 0
+# Обновлено: 2026-07-12 01:06:07
+# Всего каналов: 19479
+# Новых за сессию: 52
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Outdoor
 # Каналов: 2
-# Обновлено: 2026-07-11 23:27:44
+# Обновлено: 2026-07-12 01:06:08
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="WaterBear" group-title="Documentary;Outdoor",WaterBear
@@ -518,3 +518,5 @@ http://177.234.249.178:8888/NATGEO/index.m3u8
 http://40.160.24.55/WORLD_FISHING_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="Canal Rural (576p)" group-title="Outdoor",Canal Rural (576p)
 http://200.91.32.158:8080/rural/index.m3u8
+#EXTINF:-1 tvg-name="Docu." group-title="Documentary",Docu.
+http://45.162.193.35:80/DOCU/index.m3u8
