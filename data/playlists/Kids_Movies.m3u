@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-12 23:54:46
-# Всего каналов: 19481
-# Новых за сессию: 0
+# Обновлено: 2026-07-13 02:45:21
+# Всего каналов: 19574
+# Новых за сессию: 93
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Movies
 # Каналов: 2
-# Обновлено: 2026-07-12 23:54:47
+# Обновлено: 2026-07-13 02:45:22
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="KidsFlix" group-title="Kids;Movies",KidsFlix
@@ -2176,3 +2176,17 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2246
 http://45.162.64.114/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-name="CineLatino" group-title="Movies",CineLatino
 http://45.162.193.35:80/CINELATINO_HD/index.m3u8
+#EXTINF:-1 tvg-name="Bolt" group-title="Movies;Series",Bolt
+http://176.122.125.10:8080/bolt/index.m3u8
+#EXTINF:-1 tvg-name="Cine+" group-title="Movies",Cine+
+http://176.122.125.10:8080/CinePlusHD/index.m3u8
+#EXTINF:-1 tvg-name="Cine+ Hit" group-title="Movies",Cine+ Hit
+http://176.122.125.10:8080/CinePlusHitHD/index.m3u8
+#EXTINF:-1 tvg-name="Cine+ Kids" group-title="Kids",Cine+ Kids
+http://176.122.125.10:8080/CinePlusKids/index.m3u8
+#EXTINF:-1 tvg-name="KinoKazka" group-title="Kids",KinoKazka
+http://176.122.125.10:8080/KinoKazka/index.m3u8
+#EXTINF:-1 tvg-name="Nick Jr. Asia (360p) [Geo-blocked]" group-title="Kids",Nick Jr. Asia (360p) [Geo-blocked]
+https://phcornerultralast.qzz.io/hls/laslo-serverless/dr_nickjr/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies;Series",AXN Asia Indonesia" group-title="Movies;Series",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies;Series",AXN Asia Indonesia
+http://103.137.83.62:9090/play/21/index.m3u8

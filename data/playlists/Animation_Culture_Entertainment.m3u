@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-12 23:54:46
-# Всего каналов: 19481
-# Новых за сессию: 0
+# Обновлено: 2026-07-13 02:45:21
+# Всего каналов: 19574
+# Новых за сессию: 93
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Culture;Entertainment
 # Каналов: 1
-# Обновлено: 2026-07-12 23:54:47
+# Обновлено: 2026-07-13 02:45:22
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="GikTVMX" group-title="Animation;Culture;Entertainment",GikTVMX
@@ -2391,3 +2391,15 @@ http://45.162.193.35:80/ARTV/index.m3u8
 http://190.61.43.123:8081/RCNNOVELAS/index.m3u8
 #EXTINF:-1 tvg-name="Hakka TV" group-title="Culture",Hakka TV
 https://hc9lby9bzw8zcar.wcetv.com/hls/hakkatv.m3u8
+#EXTINF:-1 tvg-name="Zoom" group-title="Entertainment",Zoom
+http://176.122.125.10:8080/zoom/index.m3u8
+#EXTINF:-1 tvg-name="Adult Swim Latin America Brazil" group-title="Entertainment",Adult Swim Latin America Brazil
+http://45.190.28.50/TRUTV_HD/index.m3u8
+#EXTINF:-1 tvg-name="Petlovers TV" group-title="Entertainment",Petlovers TV
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+#EXTINF:-1 tvg-name="TV+Pet" group-title="Entertainment",TV+Pet
+https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Animation",DreamWorks Channel Asia" group-title="Animation",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Animation",DreamWorks Channel Asia
+http://103.137.83.62:9090/play/30/index.m3u8
+#EXTINF:-1 tvg-name="Nick Jr. Indonesia" group-title="Animation",Nick Jr. Indonesia
+http://103.137.83.62:9090/play/27/index.m3u8

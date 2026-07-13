@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-12 23:54:46
-# Всего каналов: 19481
-# Новых за сессию: 0
+# Обновлено: 2026-07-13 02:45:21
+# Всего каналов: 19574
+# Новых за сессию: 93
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Public;Weather
 # Каналов: 1
-# Обновлено: 2026-07-12 23:54:47
+# Обновлено: 2026-07-13 02:45:22
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="3Cat Càmeres del temps" group-title="Public;Weather",3Cat Càmeres del temps
@@ -126,6 +126,6 @@ https://cdn1.etbon.eus/etb1/index.m3u8
 #EXTINF:-1 tvg-name="ETB 2 [Geo-blocked]" group-title="General;Public",ETB 2 [Geo-blocked]
 https://cdn1.etbon.eus/etb2/index.m3u8
 #EXTINF:-1 tvg-name="AccuWeather Network" group-title="Weather",AccuWeather Network
-http://206.212.244.63/674/index.m3u8
+http://40.160.24.52/AccuWeather/index.m3u8
 #EXTINF:-1 tvg-name="Alabama Weather Network" group-title="Weather",Alabama Weather Network
 https://alwxnet-ott-proxy.cloud9streaming.com/alwxnet/live/playlist.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-12 23:54:46
-# Всего каналов: 19481
-# Новых за сессию: 0
+# Обновлено: 2026-07-13 02:45:21
+# Всего каналов: 19574
+# Новых за сессию: 93
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Series
 # Каналов: 14
-# Обновлено: 2026-07-12 23:54:47
+# Обновлено: 2026-07-13 02:45:22
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Сити Эдем КиноДок" group-title="Documentary;Series",Сити Эдем КиноДок
@@ -1186,3 +1186,7 @@ http://40.160.24.55/USA_NETWORK_WEST/index.m3u8
 https://fast-channels.atresmedia.com/161689f1897ccaaef9a6039cc591f292b259b62e/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/3.m3u8
 #EXTINF:-1 tvg-name="Docu." group-title="Documentary",Docu.
 http://45.162.193.35:80/DOCU/index.m3u8
+#EXTINF:-1 tvg-name="Bolt" group-title="Movies;Series",Bolt
+http://176.122.125.10:8080/bolt/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies;Series",AXN Asia Indonesia" group-title="Movies;Series",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies;Series",AXN Asia Indonesia
+http://103.137.83.62:9090/play/21/index.m3u8

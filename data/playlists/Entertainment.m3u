@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-12 23:54:46
-# Всего каналов: 19481
-# Новых за сессию: 0
+# Обновлено: 2026-07-13 02:45:21
+# Всего каналов: 19574
+# Новых за сессию: 93
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment
-# Каналов: 949
-# Обновлено: 2026-07-12 23:54:46
+# Каналов: 961
+# Обновлено: 2026-07-13 02:45:22
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Arte [Geo-blocked]" group-title="Entertainment",Arte [Geo-blocked]
@@ -2742,6 +2742,42 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.52/DISCOVERY
 
 #EXTINF:-1 tvg-name="RCN Novelas" group-title="Entertainment",RCN Novelas
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/190.61.43.123:8081/RCNNOVELAS/index.m3u8
+
+#EXTINF:-1 tvg-name="ICTV2" group-title="Entertainment",ICTV2
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/176.122.125.10:8080/ictv2/index.m3u8
+
+#EXTINF:-1 tvg-name="K1" group-title="Entertainment",K1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/176.122.125.10:8080/k1/index.m3u8
+
+#EXTINF:-1 tvg-name="K2" group-title="Entertainment",K2
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/176.122.125.10:8080/k2/index.m3u8
+
+#EXTINF:-1 tvg-name="OTSE" group-title="Entertainment",OTSE
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/176.122.125.10:8080/oce/index.m3u8
+
+#EXTINF:-1 tvg-name="Svarozhychy" group-title="Entertainment",Svarozhychy
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/176.122.125.10:8080/svarogichi/index.m3u8
+
+#EXTINF:-1 tvg-name="Zoom" group-title="Entertainment",Zoom
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/176.122.125.10:8080/zoom/index.m3u8
+
+#EXTINF:-1 tvg-name="Adult Swim Latin America Brazil" group-title="Entertainment",Adult Swim Latin America Brazil
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.190.28.50/TRUTV_HD/index.m3u8
+
+#EXTINF:-1 tvg-name="Petlovers TV" group-title="Entertainment",Petlovers TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV+Pet" group-title="Entertainment",TV+Pet
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+
+#EXTINF:-1 tvg-name="A&E Latin America South" group-title="Entertainment",A&E Latin America South
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/200.91.32.158:8080/ae/index.m3u8
+
+#EXTINF:-1 tvg-name="FX Latin America South" group-title="Entertainment",FX Latin America South
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/72.1.184.5:8089/play/a05i/index.m3u8
+
+#EXTINF:-1 tvg-name="ROCK Entertainment" group-title="Entertainment",ROCK Entertainment
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/103.137.83.62:9090/play/19/index.m3u8
 
 #EXTINF:-1 tvg-name="Беларусь 2" group-title="Entertainment",Беларусь 2
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8

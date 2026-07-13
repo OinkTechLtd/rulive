@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-12 23:54:46
-# Всего каналов: 19481
-# Новых за сессию: 0
+# Обновлено: 2026-07-13 02:45:21
+# Всего каналов: 19574
+# Новых за сессию: 93
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Movies
 # Каналов: 1
-# Обновлено: 2026-07-12 23:54:47
+# Обновлено: 2026-07-13 02:45:22
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="KCM [Geo-blocked]" group-title="Entertainment;Movies",KCM [Geo-blocked]
@@ -3169,3 +3169,19 @@ http://45.162.193.35:80/CINELATINO_HD/index.m3u8
 http://40.160.24.52/DISCOVERY_SCIENCE_HD/index.m3u8
 #EXTINF:-1 tvg-name="RCN Novelas" group-title="Entertainment",RCN Novelas
 http://190.61.43.123:8081/RCNNOVELAS/index.m3u8
+#EXTINF:-1 tvg-name="Bolt" group-title="Movies;Series",Bolt
+http://176.122.125.10:8080/bolt/index.m3u8
+#EXTINF:-1 tvg-name="Cine+" group-title="Movies",Cine+
+http://176.122.125.10:8080/CinePlusHD/index.m3u8
+#EXTINF:-1 tvg-name="Cine+ Hit" group-title="Movies",Cine+ Hit
+http://176.122.125.10:8080/CinePlusHitHD/index.m3u8
+#EXTINF:-1 tvg-name="Zoom" group-title="Entertainment",Zoom
+http://176.122.125.10:8080/zoom/index.m3u8
+#EXTINF:-1 tvg-name="Adult Swim Latin America Brazil" group-title="Entertainment",Adult Swim Latin America Brazil
+http://45.190.28.50/TRUTV_HD/index.m3u8
+#EXTINF:-1 tvg-name="Petlovers TV" group-title="Entertainment",Petlovers TV
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+#EXTINF:-1 tvg-name="TV+Pet" group-title="Entertainment",TV+Pet
+https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies;Series",AXN Asia Indonesia" group-title="Movies;Series",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies;Series",AXN Asia Indonesia
+http://103.137.83.62:9090/play/21/index.m3u8

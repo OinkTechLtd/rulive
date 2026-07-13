@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-12 23:54:46
-# Всего каналов: 19481
-# Новых за сессию: 0
+# Обновлено: 2026-07-13 02:45:21
+# Всего каналов: 19574
+# Новых за сессию: 93
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News;Weather
 # Каналов: 2
-# Обновлено: 2026-07-12 23:54:47
+# Обновлено: 2026-07-13 02:45:22
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="WBRZ Weather Channel Baton Rouge LA (480p)" group-title="News;Weather",WBRZ Weather Channel Baton Rouge LA (480p)
@@ -2170,7 +2170,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c05
 https://contact.gostreaming.tv/Con-11/index.m3u8
 #EXTINF:-1 tvg-name="ACN TV" group-title="News",ACN TV
 https://cdn.acnlive.net/LiveApp/streams/hold_the_line.m3u8
-#EXTINF:-1 tvg-name="AccuWeather Network" group-title="Weather",AccuWeather Network
+#EXTINF:-1 tvg-name="Samay National (576p)" group-title="News",Samay National (576p)
 http://206.212.244.63/674/index.m3u8
 #EXTINF:-1 tvg-name="ESPNews" group-title="News;Sports",ESPNews
 http://41.223.30.230/ESPNNEWS/index.m3u8
@@ -2232,6 +2232,8 @@ http://138.121.15.230:9002/BBC-NEWS/index.m3u8
 https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8
 #EXTINF:-1 tvg-name="My-Ukraina TV" group-title="News",My-Ukraina TV
 https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/WEUKRAINETV.m3u8
+#EXTINF:-1 tvg-name="AccuWeather Network" group-title="Weather",AccuWeather Network
+http://40.160.24.52/AccuWeather/index.m3u8
 #EXTINF:-1 tvg-name="Amu TV" group-title="News",Amu TV
 https://jmc-live.ercdn.net/amutv/amutv.m3u8
 #EXTINF:-1 tvg-name="Newsmax Spanish" group-title="News",Newsmax Spanish
@@ -2256,3 +2258,5 @@ https://s5.mexside.net:1936/clientetv/clientetv/playlist.m3u8
 https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8
 #EXTINF:-1 tvg-name="ntv" group-title="News",ntv
 https://protokolldns.xyz/ntv.l.i.v.e5547892023/index.m3u8
+#EXTINF:-1 tvg-name="Sky News Urdu" group-title="News",Sky News Urdu
+https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-12 23:54:46
-# Всего каналов: 19481
-# Новых за сессию: 0
+# Обновлено: 2026-07-13 02:45:21
+# Всего каналов: 19574
+# Новых за сессию: 93
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;News
 # Каналов: 3
-# Обновлено: 2026-07-12 23:54:47
+# Обновлено: 2026-07-13 02:45:22
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Onda 15 TV (224p)" group-title="Music;News",Onda 15 TV (224p)
@@ -3651,6 +3651,8 @@ https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
 https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Retromusica Television" group-title="Music",Retromusica Television
 https://vdochile.com:3864/stream/play.m3u8
+#EXTINF:-1 tvg-name="Samay National (576p)" group-title="News",Samay National (576p)
+http://206.212.244.63/674/index.m3u8
 #EXTINF:-1 tvg-name="ESPNews" group-title="News;Sports",ESPNews
 http://41.223.30.230/ESPNNEWS/index.m3u8
 #EXTINF:-1 tvg-name="One America News Network" group-title="News",One America News Network
@@ -3801,3 +3803,7 @@ https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8
 https://protokolldns.xyz/ntv.l.i.v.e5547892023/index.m3u8
 #EXTINF:-1 tvg-name="ZICO TV" group-title="Music",ZICO TV
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
+#EXTINF:-1 tvg-name="Sky News Urdu" group-title="News",Sky News Urdu
+https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8
+#EXTINF:-1 tvg-name="Ultra TV 4K" group-title="Music",Ultra TV 4K
+http://45.190.28.50/ULTRA/index.m3u8

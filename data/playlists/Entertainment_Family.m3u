@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-12 23:54:46
-# Всего каналов: 19481
-# Новых за сессию: 0
+# Обновлено: 2026-07-13 02:45:21
+# Всего каналов: 19574
+# Новых за сессию: 93
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Family
 # Каналов: 2
-# Обновлено: 2026-07-12 23:54:47
+# Обновлено: 2026-07-13 02:45:22
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Estrella Games" group-title="Entertainment;Family",Estrella Games
@@ -1864,3 +1864,11 @@ http://190.61.43.123:8081/PasionesHD/index.m3u8
 http://40.160.24.52/DISCOVERY_SCIENCE_HD/index.m3u8
 #EXTINF:-1 tvg-name="RCN Novelas" group-title="Entertainment",RCN Novelas
 http://190.61.43.123:8081/RCNNOVELAS/index.m3u8
+#EXTINF:-1 tvg-name="Zoom" group-title="Entertainment",Zoom
+http://176.122.125.10:8080/zoom/index.m3u8
+#EXTINF:-1 tvg-name="Adult Swim Latin America Brazil" group-title="Entertainment",Adult Swim Latin America Brazil
+http://45.190.28.50/TRUTV_HD/index.m3u8
+#EXTINF:-1 tvg-name="Petlovers TV" group-title="Entertainment",Petlovers TV
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+#EXTINF:-1 tvg-name="TV+Pet" group-title="Entertainment",TV+Pet
+https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8

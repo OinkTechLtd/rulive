@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-12 23:54:46
-# Всего каналов: 19481
-# Новых за сессию: 0
+# Обновлено: 2026-07-13 02:45:21
+# Всего каналов: 19574
+# Новых за сессию: 93
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;News
 # Каналов: 2
-# Обновлено: 2026-07-12 23:54:47
+# Обновлено: 2026-07-13 02:45:22
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Indywood TV" group-title="Movies;News",Indywood TV
@@ -3482,6 +3482,8 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c05
 https://contact.gostreaming.tv/Con-11/index.m3u8
 #EXTINF:-1 tvg-name="ACN TV" group-title="News",ACN TV
 https://cdn.acnlive.net/LiveApp/streams/hold_the_line.m3u8
+#EXTINF:-1 tvg-name="Samay National (576p)" group-title="News",Samay National (576p)
+http://206.212.244.63/674/index.m3u8
 #EXTINF:-1 tvg-name="ESPNews" group-title="News;Sports",ESPNews
 http://41.223.30.230/ESPNNEWS/index.m3u8
 #EXTINF:-1 tvg-name="One America News Network" group-title="News",One America News Network
@@ -3638,3 +3640,13 @@ http://45.162.193.35:80/CINELATINO_HD/index.m3u8
 https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8
 #EXTINF:-1 tvg-name="ntv" group-title="News",ntv
 https://protokolldns.xyz/ntv.l.i.v.e5547892023/index.m3u8
+#EXTINF:-1 tvg-name="Bolt" group-title="Movies;Series",Bolt
+http://176.122.125.10:8080/bolt/index.m3u8
+#EXTINF:-1 tvg-name="Cine+" group-title="Movies",Cine+
+http://176.122.125.10:8080/CinePlusHD/index.m3u8
+#EXTINF:-1 tvg-name="Cine+ Hit" group-title="Movies",Cine+ Hit
+http://176.122.125.10:8080/CinePlusHitHD/index.m3u8
+#EXTINF:-1 tvg-name="Sky News Urdu" group-title="News",Sky News Urdu
+https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies;Series",AXN Asia Indonesia" group-title="Movies;Series",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies;Series",AXN Asia Indonesia
+http://103.137.83.62:9090/play/21/index.m3u8
