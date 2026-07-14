@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-13 23:57:02
-# Всего каналов: 19574
-# Новых за сессию: 0
+# Обновлено: 2026-07-14 00:54:57
+# Всего каналов: 19812
+# Новых за сессию: 238
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Sports
 # Каналов: 1
-# Обновлено: 2026-07-13 23:57:02
+# Обновлено: 2026-07-14 00:54:58
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ADO TV" group-title="Kids;Sports",ADO TV
@@ -1775,3 +1775,11 @@ http://znty.dyndns.org:5010/hls/stv3.m3u8
 http://znty.dyndns.org:5010/hls/stv5.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Sport TV+" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Sport TV+
 http://znty.dyndns.org:5010/hls/sportv+.m3u8
+#EXTINF:-1 tvg-name="Solnce (576p)" group-title="Animation;Kids",Solnce (576p)
+http://31.148.48.15/Solnce/index.m3u8
+#EXTINF:-1 tvg-name="Balapan" group-title="Kids",Balapan
+https://live-3.otcnet.ru/Balapan/index.m3u8
+#EXTINF:-1 tvg-name="Cartoon Classics (576p)" group-title="Animation;Kids",Cartoon Classics (576p)
+http://5.188.159.128:8070/Cartoon_Network/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Arena Esport" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Arena Esport
+https://webtvstream.bhtelecom.ba/arena_esport.m3u8

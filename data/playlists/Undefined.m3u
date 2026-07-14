@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-13 23:57:02
-# Всего каналов: 19574
-# Новых за сессию: 0
+# Обновлено: 2026-07-14 00:54:57
+# Всего каналов: 19812
+# Новых за сессию: 238
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Undefined
-# Каналов: 4099
-# Обновлено: 2026-07-13 23:57:02
+# Каналов: 4126
+# Обновлено: 2026-07-14 00:54:58
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Дождь [Geo-blocked]" group-title="Undefined",Дождь [Geo-blocked]
@@ -11893,6 +11893,87 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.162.193.35/VIAX/ind
 #EXTINF:-1 tvg-name="Zona Latina" group-title="Undefined",Zona Latina
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.162.193.35/ZONALATINA/index.m3u8
 
+#EXTINF:-1 tvg-name="NST (576p)" group-title="Undefined",NST (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls127.freeott.top:8080/HCTV/video.m3u8
+
+#EXTINF:-1 tvg-name="Prosveshchenie (576p)" group-title="Undefined",Prosveshchenie (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
+
+#EXTINF:-1 tvg-name="BET" group-title="Undefined",BET
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.52/BET_EAST/index.m3u8
+
+#EXTINF:-1 tvg-name="BET Jams (576p)" group-title="Undefined",BET Jams (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.52/BET_JAMS/index.m3u8
+
+#EXTINF:-1 tvg-name="BET Soul (576p)" group-title="Undefined",BET Soul (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.52/BET_SOUL/index.m3u8
+
+#EXTINF:-1 tvg-name="BET West" group-title="Undefined",BET West
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.52/BET_WEST/index.m3u8
+
+#EXTINF:-1 tvg-name="SEC Network" group-title="Undefined",SEC Network
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.55/SEC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Undefined",like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/wzstreaming.rai.it/TVlive/smil:liveStream.smil/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal Off" group-title="Undefined",Canal Off
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/143.14.178.40:7777/OFF_HD/index.m3u8
+
+#EXTINF:-1 tvg-name="Globoplay Novelas" group-title="Undefined",Globoplay Novelas
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/143.14.178.40:7777/Globoplay_Novelas_HD/index.m3u8
+
+#EXTINF:-1 tvg-name="Play TV" group-title="Undefined",Play TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.162.64.114/PLAY_TV/index.m3u8
+
+#EXTINF:-1 tvg-name="SBT Nacional" group-title="Undefined",SBT Nacional
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.190.28.50/SBT_HD/index.m3u8
+
+#EXTINF:-1 tvg-name="Sony Channel" group-title="Undefined",Sony Channel
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.190.28.50/SONY_HD/index.m3u8
+
+#EXTINF:-1 tvg-name="TV Brasil" group-title="Undefined",TV Brasil
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.162.64.114/TV_BRASIL/index.m3u8
+
+#EXTINF:-1 tvg-name="TV Cancao Nova" group-title="Undefined",TV Cancao Nova
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.162.64.114/CANCAO_NOVA/index.m3u8
+
+#EXTINF:-1 tvg-name="TV Cultura" group-title="Undefined",TV Cultura
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.162.64.114/TV_CULTURA/index.m3u8
+
+#EXTINF:-1 tvg-name="TV Gazeta" group-title="Undefined",TV Gazeta
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.162.64.114/GAZETA/index.m3u8
+
+#EXTINF:-1 tvg-name="TNA Wrestling" group-title="Undefined",TNA Wrestling
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-59b722526996084038c01e1b.m3u8
+
+#EXTINF:-1 tvg-name="VTV1" group-title="Undefined",VTV1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-a.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
+
+#EXTINF:-1 tvg-name="Invasiva TV" group-title="Undefined",Invasiva TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.cl.scl.edge.01.zplay.cl/Invasiva/video.m3u8?token=l1kw8GqMdTR5_3
+
+#EXTINF:-1 tvg-name="Pucon TV" group-title="Undefined",Pucon TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/redirector.dps.live/hls/pucontv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sony Channel Andes" group-title="Undefined",Sony Channel Andes
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/138.186.23.7:8082/SONYCHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-name="Studio Universal Latin America" group-title="Undefined",Studio Universal Latin America
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.162.193.35/STUDIO-UNIVERSAL/index.m3u8
+
+#EXTINF:-1 tvg-name="Tipik" group-title="Undefined",Tipik
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/193.111.198.85:8589/stream/mstv/rtbftipiklive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+
+#EXTINF:-1 tvg-name="TV5Monde Africa" group-title="Undefined",TV5Monde Africa
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/5.9.121.178/tv5monde/index.m3u8
+
+#EXTINF:-1 tvg-name="TV5Monde Asia" group-title="Undefined",TV5Monde Asia
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/54.37.19.157/TV5MONDE/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Undefined",like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8
+
 #EXTINF:-1 tvg-name="R9" group-title="Undefined",R9
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
 
@@ -12647,5 +12728,9 @@ https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
 https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Undefined",Rai Italia" group-title="Undefined",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Undefined",Rai Italia
 https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Undefined",Rai Italia Americas" group-title="Undefined",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Undefined",Rai Italia Americas
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Undefined",Rai Italia North Americas" group-title="Undefined",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Undefined",Rai Italia North Americas
 https://d3k8wzt41aflvx.cloudfront.net/RAIUSA/Live.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Undefined",Rai Sudtirol" group-title="Undefined",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Undefined",Rai Sudtirol
+https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Undefined",Rai Italia South Americas" group-title="Undefined",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Undefined",Rai Italia South Americas
+https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8

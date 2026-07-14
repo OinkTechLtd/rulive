@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-13 23:57:02
-# Всего каналов: 19574
-# Новых за сессию: 0
+# Обновлено: 2026-07-14 00:54:57
+# Всего каналов: 19812
+# Новых за сессию: 238
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Series
-# Каналов: 411
-# Обновлено: 2026-07-13 23:57:02
+# Каналов: 416
+# Обновлено: 2026-07-14 00:54:58
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Смотрим Честный Детектив" group-title="Series",Смотрим Честный Детектив
@@ -1234,6 +1234,21 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/200.91.32.158:8080/tnt
 #EXTINF:-1 tvg-name="Europa Europa" group-title="Series",Europa Europa
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/200.91.32.158:8080/europa/index.m3u8
 
+#EXTINF:-1 tvg-name="Saphire" group-title="Series",Saphire
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/77.232.131.211/Sapfir/manifest.m3u8
+
+#EXTINF:-1 tvg-name="Start TV" group-title="Series",Start TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.55/START_TV/index.m3u8
+
+#EXTINF:-1 tvg-name="We TV" group-title="Series",We TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.55/WE_TV/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT Novelas Brazil" group-title="Series",TNT Novelas Brazil
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.162.64.114/TNT_NOVELAS/index.m3u8
+
+#EXTINF:-1 tvg-name="Tlnovelas Latin America" group-title="Series",Tlnovelas Latin America
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/177.234.249.135:8888/Telenovelas/index.m3u8
+
 #EXTINF:-1 tvg-name="13 Teleseries" group-title="Series",13 Teleseries
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
@@ -1411,3 +1426,5 @@ https://fast-channels.atresmedia.com/161689f1897ccaaef9a6039cc591f292b259b62e/64
 http://176.122.125.10:8080/bolt/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies;Series",AXN Asia Indonesia" group-title="Movies;Series",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies;Series",AXN Asia Indonesia
 http://103.137.83.62:9090/play/21/index.m3u8
+#EXTINF:-1 tvg-name="Star Channel Latin America" group-title="Movies;Series",Star Channel Latin America
+http://45.162.193.35/STAR_CHANNEL/index.m3u8

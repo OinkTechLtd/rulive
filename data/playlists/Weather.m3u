@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-13 23:57:02
-# Всего каналов: 19574
-# Новых за сессию: 0
+# Обновлено: 2026-07-14 00:54:57
+# Всего каналов: 19812
+# Новых за сессию: 238
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Weather
-# Каналов: 22
-# Обновлено: 2026-07-13 23:57:02
+# Каналов: 24
+# Обновлено: 2026-07-14 00:54:58
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Weathernews" group-title="Weather",Weathernews
@@ -63,6 +63,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.52/AccuWeath
 
 #EXTINF:-1 tvg-name="Alabama Weather Network" group-title="Weather",Alabama Weather Network
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/alwxnet-ott-proxy.cloud9streaming.com/alwxnet/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NorCast Weather" group-title="Weather",NorCast Weather
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/norcast-weather.streamology.live/api/v1/streams/c1b5b114698e1ad4687153c4402d5ef0/live.m3u8
+
+#EXTINF:-1 tvg-name="WeatherNation" group-title="Weather",WeatherNation
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.55/WEATHER_NATION/index.m3u8
 
 #EXTINF:-1 tvg-name="AccuWeather Now" group-title="Weather",AccuWeather Now
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-13 23:57:02
-# Всего каналов: 19574
-# Новых за сессию: 0
+# Обновлено: 2026-07-14 00:54:57
+# Всего каналов: 19812
+# Новых за сессию: 238
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: VOD Movies (EN)
 # Каналов: 25
-# Обновлено: 2026-07-13 23:57:02
+# Обновлено: 2026-07-14 00:54:58
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="FilmRise Movies" group-title="VOD Movies (EN)",FilmRise Movies
@@ -1855,3 +1855,13 @@ http://176.122.125.10:8080/CinePlusHD/index.m3u8
 http://176.122.125.10:8080/CinePlusHitHD/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies;Series",AXN Asia Indonesia" group-title="Movies;Series",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies;Series",AXN Asia Indonesia
 http://103.137.83.62:9090/play/21/index.m3u8
+#EXTINF:-1 tvg-name="AMC Latin America Brazil" group-title="Movies",AMC Latin America Brazil
+http://45.190.156.152/AMC/index.m3u8
+#EXTINF:-1 tvg-name="Allo Cine" group-title="Movies",Allo Cine
+https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
+#EXTINF:-1 tvg-name="Cinecanal" group-title="Movies",Cinecanal
+http://138.186.23.7:8082/CINECANAL/index.m3u8
+#EXTINF:-1 tvg-name="Star Channel Latin America" group-title="Movies;Series",Star Channel Latin America
+http://45.162.193.35/STAR_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Movie Star" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Movie Star
+https://shift03.isp.bg/MovieStar/index.m3u8

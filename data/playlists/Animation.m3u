@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-13 23:57:02
-# Всего каналов: 19574
-# Новых за сессию: 0
+# Обновлено: 2026-07-14 00:54:57
+# Всего каналов: 19812
+# Новых за сессию: 238
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation
 # Каналов: 57
-# Обновлено: 2026-07-13 23:57:02
+# Обновлено: 2026-07-14 00:54:58
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Animation+ [Geo-blocked]" group-title="Animation",Animation+ [Geo-blocked]
@@ -369,3 +369,7 @@ http://45.6.4.35/DISNEY/index.m3u8
 http://177.234.249.178:8888/DISNEY-JR/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Animation",DreamWorks Channel Asia" group-title="Animation",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Animation",DreamWorks Channel Asia
 http://103.137.83.62:9090/play/30/index.m3u8
+#EXTINF:-1 tvg-name="Solnce (576p)" group-title="Animation;Kids",Solnce (576p)
+http://31.148.48.15/Solnce/index.m3u8
+#EXTINF:-1 tvg-name="Cartoon Classics (576p)" group-title="Animation;Kids",Cartoon Classics (576p)
+http://5.188.159.128:8070/Cartoon_Network/index.m3u8

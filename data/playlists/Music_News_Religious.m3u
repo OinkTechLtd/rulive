@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-13 23:57:02
-# Всего каналов: 19574
-# Новых за сессию: 0
+# Обновлено: 2026-07-14 00:54:57
+# Всего каналов: 19812
+# Новых за сессию: 238
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;News;Religious
 # Каналов: 1
-# Обновлено: 2026-07-13 23:57:02
+# Обновлено: 2026-07-14 00:54:58
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Lingkar TV" group-title="Music;News;Religious",Lingkar TV
@@ -5063,7 +5063,7 @@ https://live.ondadigitaltv.com/RADIOODTV/index.m3u8
 https://stream.mediacorp.pe/srt/3/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Peruanisima" group-title="Music",TV Peruanisima
 https://k20.usastreams.com:8081/tvperuanisima/index.m3u8
-#EXTINF:-1 tvg-name="Vision" group-title="Religious",Vision
+#EXTINF:-1 tvg-name="Vision (480p)" group-title="Religious",Vision (480p)
 https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8
 #EXTINF:-1 tvg-name="Ocko Black" group-title="Music",Ocko Black
 https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
@@ -5351,3 +5351,19 @@ https://tv.arkeo.cl:1936/preludio/preludio/playlist.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8
 #EXTINF:-1 tvg-name="Ultra TV 4K" group-title="Music",Ultra TV 4K
 http://45.190.28.50/ULTRA/index.m3u8
+#EXTINF:-1 tvg-name="First Music Channel Russia" group-title="Music",First Music Channel Russia
+http://hls127.freeott.top:8080/1muz_HD/video.m3u8
+#EXTINF:-1 tvg-name="KN Music TV" group-title="Music",KN Music TV
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="24 Kanal" group-title="News",24 Kanal
+http://176.122.125.10:8080/news24/index.m3u8
+#EXTINF:-1 tvg-name="A24" group-title="News",A24
+http://200.91.32.158:8080/a24/index.m3u8
+#EXTINF:-1 tvg-name="Montones TV" group-title="Music",Montones TV
+https://lbgo.bozztv.com/ssh101/ssh101/montonestv1/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="News",RPP TV" group-title="News",like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="News",RPP TV
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/RPP/playlist.m3u8
+#EXTINF:-1 tvg-name="Sterk TV" group-title="News",Sterk TV
+https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Music",TV Rodina" group-title="Music",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Music",TV Rodina
+https://shift03.isp.bg/RodinaTV/index.m3u8

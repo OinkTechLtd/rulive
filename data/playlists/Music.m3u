@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-13 23:57:02
-# Всего каналов: 19574
-# Новых за сессию: 0
+# Обновлено: 2026-07-14 00:54:57
+# Всего каналов: 19812
+# Новых за сессию: 238
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music
-# Каналов: 801
-# Обновлено: 2026-07-13 23:57:02
+# Каналов: 813
+# Обновлено: 2026-07-14 00:54:58
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Deluxe Music" group-title="Music",Deluxe Music
@@ -2326,6 +2326,42 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/176.122.125.10:8080/m2
 #EXTINF:-1 tvg-name="Ultra TV 4K" group-title="Music",Ultra TV 4K
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.190.28.50/ULTRA/index.m3u8
 
+#EXTINF:-1 tvg-name="First Music Channel Russia" group-title="Music",First Music Channel Russia
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls127.freeott.top:8080/1muz_HD/video.m3u8
+
+#EXTINF:-1 tvg-name="KN Music TV" group-title="Music",KN Music TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Muz-TV (576p)" group-title="Music",Muz-TV (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/46.32.176.50/muztv/index.m3u8
+
+#EXTINF:-1 tvg-name="Shanson TV (576p)" group-title="Music",Shanson TV (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/catchup.videoline.ru/shanson/index.m3u8
+
+#EXTINF:-1 tvg-name="VH1" group-title="Music",VH1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.55/VH1/index.m3u8
+
+#EXTINF:-1 tvg-name="Vantage Dance" group-title="Music",Vantage Dance
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-backup.lulzy.eu/vdance_stream/index.m3u8
+
+#EXTINF:-1 tvg-name="Vantage Music [Geo-blocked]" group-title="Music",Vantage Music [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-backup.lulzy.eu/vmusic_stream/index.m3u8
+
+#EXTINF:-1 tvg-name="Montones TV" group-title="Music",Montones TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/lbgo.bozztv.com/ssh101/ssh101/montonestv1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Radio La Serena TV" group-title="Music",Radio La Serena TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/5ff3d9babae13.streamlock.net/chrgkqgkyb/chrgkqgkyb/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Rumba TV" group-title="Music",Rumba TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.162.193.35/RUMBATV/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Music",like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/shift03.isp.bg/RodinaTV/index.m3u8
+
+#EXTINF:-1 tvg-name="Wavez FM" group-title="Music",Wavez FM
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/media.streambrothers.com:1936/uszqnhpjpa/uszqnhpjpa/playlist.m3u8
+
 #EXTINF:-1 tvg-name="City TV (576p)" group-title="Music",City TV (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.city.bg/play/tshls/citytv/index.m3u8
 
@@ -2521,3 +2557,5 @@ https://channels.trace.plus/Traceprod/GOSPEL_ROA/index.m3u8
 https://channels.trace.plus/Traceprod/GOSPEL_SA_ld/index.m3u8
 #EXTINF:-1 tvg-name="Trace Gospel Africa Franco" group-title="Music;Religious",Trace Gospel Africa Franco
 https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Music",TV Rodina" group-title="Music",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Music",TV Rodina
+https://shift03.isp.bg/RodinaTV/index.m3u8
