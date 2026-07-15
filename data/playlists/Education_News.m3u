@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-15 00:01:04
-# Всего каналов: 19812
-# Новых за сессию: 0
+# Обновлено: 2026-07-15 02:13:26
+# Всего каналов: 19866
+# Новых за сессию: 54
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;News
 # Каналов: 1
-# Обновлено: 2026-07-15 00:01:05
+# Обновлено: 2026-07-15 02:13:26
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Dabanga TV" group-title="Education;News",Dabanga TV
@@ -2689,8 +2689,6 @@ http://72.1.184.5:8089/play/a05d/index.m3u8
 http://138.186.23.7:8082/CABLENOTICIAS/index.m3u8
 #EXTINF:-1 tvg-name="CGTN Spanish" group-title="News",CGTN Spanish
 http://45.6.4.35/CGTN/index.m3u8
-#EXTINF:-1 tvg-name="ITV Brazil" group-title="Education",ITV Brazil
-https://video24.mais.uol.com.br/live/6146.m3u8
 #EXTINF:-1 tvg-name="Argentina/12" group-title="News",Argentina/12
 http://45.6.4.35/IP_NOTICIAS/index.m3u8
 #EXTINF:-1 tvg-name="BBC News Latin America" group-title="News",BBC News Latin America
@@ -2735,3 +2733,7 @@ http://200.91.32.158:8080/a24/index.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/RPP/playlist.m3u8
 #EXTINF:-1 tvg-name="Sterk TV" group-title="News",Sterk TV
 https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8
+#EXTINF:-1 tvg-name="Vesti FM" group-title="News",Vesti FM
+https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
+#EXTINF:-1 tvg-name="CGTN French" group-title="News",CGTN French
+http://145.239.5.177/214/index.m3u8

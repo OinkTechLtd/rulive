@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-15 00:01:04
-# Всего каналов: 19812
-# Новых за сессию: 0
+# Обновлено: 2026-07-15 02:13:26
+# Всего каналов: 19866
+# Новых за сессию: 54
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Music
 # Каналов: 5
-# Обновлено: 2026-07-15 00:01:05
+# Обновлено: 2026-07-15 02:13:26
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pamir TV" group-title="Culture;Music",Pamir TV
@@ -1991,3 +1991,7 @@ https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/montonestv1/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Music",TV Rodina" group-title="Music",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Music",TV Rodina
 https://shift03.isp.bg/RodinaTV/index.m3u8
+#EXTINF:-1 tvg-name="M6 Music" group-title="Music",M6 Music
+http://145.239.5.177/320/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Music",DM Sat (576p)" group-title="Music",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Music",DM Sat (576p)
+https://shift03.isp.bg/DMSat/index.m3u8

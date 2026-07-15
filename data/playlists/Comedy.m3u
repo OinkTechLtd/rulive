@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-15 00:01:04
-# Всего каналов: 19812
-# Новых за сессию: 0
+# Обновлено: 2026-07-15 02:13:26
+# Всего каналов: 19866
+# Новых за сессию: 54
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy
-# Каналов: 145
-# Обновлено: 2026-07-15 00:01:05
+# Каналов: 146
+# Обновлено: 2026-07-15 02:13:26
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Kinokomedija (576p)" group-title="Comedy",Kinokomedija (576p)
@@ -439,6 +439,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.53/LAFF_TV/i
 #EXTINF:-1 tvg-name="Comedy TV" group-title="Comedy",Comedy TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.52/COMEDY_TV/index.m3u8
 
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Comedy",like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/znty.dyndns.org:5010/hls/foxcomedy.m3u8
+
 #EXTINF:-1 tvg-name="Failarmy" group-title="Comedy",Failarmy
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 
@@ -555,3 +558,5 @@ https://jmp2.uk/plu-664f0d373d173b0008164948.m3u8
 http://40.160.24.55/USA_NETWORK_WEST/index.m3u8
 #EXTINF:-1 tvg-name="Aqui No Hay Quien Viva [_Geo-blocked_]" group-title="Classic;Comedy;Series",Aqui No Hay Quien Viva [_Geo-blocked_]
 https://fast-channels.atresmedia.com/161689f1897ccaaef9a6039cc591f292b259b62e/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/3.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Comedy",Star Comedy" group-title="Comedy",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Comedy",Star Comedy
+http://znty.dyndns.org:5010/hls/foxcomedy.m3u8

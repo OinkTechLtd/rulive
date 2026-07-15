@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-15 00:01:04
-# Всего каналов: 19812
-# Новых за сессию: 0
+# Обновлено: 2026-07-15 02:13:26
+# Всего каналов: 19866
+# Новых за сессию: 54
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Movies
 # Каналов: 1
-# Обновлено: 2026-07-15 00:01:05
+# Обновлено: 2026-07-15 02:13:26
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="KCM [Geo-blocked]" group-title="Entertainment;Movies",KCM [Geo-blocked]
@@ -3207,3 +3207,15 @@ http://45.162.193.35/FX/index.m3u8
 http://45.162.193.35/STAR_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Movie Star" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Movie Star
 https://shift03.isp.bg/MovieStar/index.m3u8
+#EXTINF:-1 tvg-name="Patriot" group-title="Movies",Patriot
+https://stream.smotrim.ru/hls2/static/playlist_4.m3u8
+#EXTINF:-1 tvg-name="MGM+ Drive-In" group-title="Movies",MGM+ Drive-In
+http://40.160.24.52/EPIX_DRIVE-IN/index.m3u8
+#EXTINF:-1 tvg-name="AB1" group-title="Entertainment",AB1
+http://145.239.5.177/332/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",AXN" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",AXN
+http://znty.dyndns.org:5010/hls/axn.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",Star Channel" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",Star Channel
+http://znty.dyndns.org:5010/hls/fox.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Star Movies" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Star Movies
+http://znty.dyndns.org:5010/hls/foxm.m3u8

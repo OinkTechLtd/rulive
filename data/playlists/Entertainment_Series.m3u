@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-15 00:01:04
-# Всего каналов: 19812
-# Новых за сессию: 0
+# Обновлено: 2026-07-15 02:13:26
+# Всего каналов: 19866
+# Новых за сессию: 54
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Series
 # Каналов: 8
-# Обновлено: 2026-07-15 00:01:05
+# Обновлено: 2026-07-15 02:13:26
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Rakuten Viki" group-title="Entertainment;Series",Rakuten Viki
@@ -2558,3 +2558,9 @@ http://45.162.193.35/FX/index.m3u8
 http://45.162.193.35/STAR_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-name="Tlnovelas Latin America" group-title="Series",Tlnovelas Latin America
 http://177.234.249.135:8888/Telenovelas/index.m3u8
+#EXTINF:-1 tvg-name="AB1" group-title="Entertainment",AB1
+http://145.239.5.177/332/index.m3u8
+#EXTINF:-1 tvg-name="Series Classic" group-title="Series",Series Classic
+https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",Star Channel" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",Star Channel
+http://znty.dyndns.org:5010/hls/fox.m3u8

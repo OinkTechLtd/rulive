@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-15 00:01:04
-# Всего каналов: 19812
-# Новых за сессию: 0
+# Обновлено: 2026-07-15 02:13:26
+# Всего каналов: 19866
+# Новых за сессию: 54
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Religious
-# Каналов: 773
-# Обновлено: 2026-07-15 00:01:05
+# Каналов: 776
+# Обновлено: 2026-07-15 02:13:26
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Спас (450p) [Geo-blocked]" group-title="Religious",Спас (450p) [Geo-blocked]
@@ -2274,6 +2274,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-evg10.tv360.bitel
 
 #EXTINF:-1 tvg-name="Canal TV Radio Maya TGBA (480p)" group-title="Religious",Canal TV Radio Maya TGBA (480p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.emisoras.tv:8081/radiomaya/index.m3u8
+
+#EXTINF:-1 tvg-name="CTN" group-title="Religious",CTN
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d3k5y954fiztgy.cloudfront.net/FREECAST/CTN-2b0dd347-f7b0-e7ed-9096-68966d29db50/index.m3u8
+
+#EXTINF:-1 tvg-name="Imam Hussein TV 3" group-title="Religious",Imam Hussein TV 3
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/en.imamhossaintv.com/live/ih3.m3u8
+
+#EXTINF:-1 tvg-name="Imam Hussein TV 2" group-title="Religious",Imam Hussein TV 2
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ar.imamhossaintv.com/live/ih2.m3u8
 
 #EXTINF:-1 tvg-name="Aghapy TV" group-title="Religious",Aghapy TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8

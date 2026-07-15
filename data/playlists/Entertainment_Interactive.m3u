@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-15 00:01:04
-# Всего каналов: 19812
-# Новых за сессию: 0
+# Обновлено: 2026-07-15 02:13:26
+# Всего каналов: 19866
+# Новых за сессию: 54
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Interactive
-# Каналов: 2
-# Обновлено: 2026-07-15 00:01:05
+# Каналов: 3
+# Обновлено: 2026-07-15 02:13:26
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RMC Life [Geo-Blocked]" group-title="Entertainment;Interactive",RMC Life [Geo-Blocked]
@@ -15,6 +15,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/viamotionhsi.netplus.c
 
 #EXTINF:-1 tvg-name="RMC Life" group-title="Entertainment;Interactive",RMC Life
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/41.205.77.102/CHERIE25/index.m3u8
+
+#EXTINF:-1 tvg-name="RMC Life" group-title="Entertainment;Interactive",RMC Life
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/145.239.5.177/333/index.m3u8
 
 #EXTINF:-1 tvg-name="Беларусь 2" group-title="Entertainment",Беларусь 2
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
@@ -1782,3 +1785,7 @@ https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8
 https://shift03.isp.bg/MTVEurope/index.m3u8
 #EXTINF:-1 tvg-name="FX Latin America" group-title="Entertainment",FX Latin America
 http://45.162.193.35/FX/index.m3u8
+#EXTINF:-1 tvg-name="AB1" group-title="Entertainment",AB1
+http://145.239.5.177/332/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",Star Channel" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",Star Channel
+http://znty.dyndns.org:5010/hls/fox.m3u8

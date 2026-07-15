@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-15 00:01:04
-# Всего каналов: 19812
-# Новых за сессию: 0
+# Обновлено: 2026-07-15 02:13:26
+# Всего каналов: 19866
+# Новых за сессию: 54
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Lifestyle
 # Каналов: 3
-# Обновлено: 2026-07-15 00:01:05
+# Обновлено: 2026-07-15 02:13:26
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Доктор" group-title="Education;Lifestyle",Доктор
@@ -789,8 +789,6 @@ http://45.162.64.114/FUTURA/index.m3u8
 http://167.250.126.140:7777/FASHIONTV-HD/index.m3u8
 #EXTINF:-1 tvg-name="Futura" group-title="Education",Futura
 http://45.162.231.38:7779/Futura/index.m3u8
-#EXTINF:-1 tvg-name="ITV Brazil" group-title="Education",ITV Brazil
-https://video24.mais.uol.com.br/live/6146.m3u8
 #EXTINF:-1 tvg-name="Radio Universitaria San Andres" group-title="Culture;Education;Entertainment",Radio Universitaria San Andres
 https://edge.enhdtv.com/8054/index.m3u8
 #EXTINF:-1 tvg-name="Dabl" group-title="Lifestyle",Dabl
@@ -801,3 +799,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2223
 https://plex-xumoent-ch485-e7l5l.fast.nbcuni.com/live/master_5.m3u8
 #EXTINF:-1 tvg-name="Canal Educacao" group-title="Education",Canal Educacao
 http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Lifestyle",Star Crime" group-title="Lifestyle",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Lifestyle",Star Crime
+http://znty.dyndns.org:5010/hls/foxcrime.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Lifestyle",Star Life" group-title="Lifestyle",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Lifestyle",Star Life
+http://znty.dyndns.org:5010/hls/foxlife.m3u8

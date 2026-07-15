@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-15 00:01:04
-# Всего каналов: 19812
-# Новых за сессию: 0
+# Обновлено: 2026-07-15 02:13:26
+# Всего каналов: 19866
+# Новых за сессию: 54
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Cooking;Documentary
 # Каналов: 2
-# Обновлено: 2026-07-15 00:01:05
+# Обновлено: 2026-07-15 02:13:26
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pluto TV Food" group-title="Cooking;Documentary",Pluto TV Food
@@ -486,3 +486,5 @@ http://177.234.249.178:8888/NATGEO/index.m3u8
 http://45.162.193.35:80/DOCU/index.m3u8
 #EXTINF:-1 tvg-name="Chef TV" group-title="Cooking",Chef TV
 http://45.190.28.50/CHEF_TV/index.m3u8
+#EXTINF:-1 tvg-name="Cap Terre" group-title="Documentary",Cap Terre
+http://145.239.5.177/359a/index.m3u8
