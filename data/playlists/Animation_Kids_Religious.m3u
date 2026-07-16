@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-15 23:07:01
-# Всего каналов: 19866
-# Новых за сессию: 0
+# Обновлено: 2026-07-16 00:56:56
+# Всего каналов: 19952
+# Новых за сессию: 86
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Kids;Religious
 # Каналов: 2
-# Обновлено: 2026-07-15 23:07:01
+# Обновлено: 2026-07-16 00:56:57
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="3ABN Kids Network" group-title="Animation;Kids;Religious",3ABN Kids Network
@@ -2440,7 +2440,7 @@ https://hlspackager.akamaized.net/live/DB/AMAZING_FACTS/HLS/AMAZING_FACTS.m3u8
 https://tgn.bozztv.com/watc57/watc57-theloop/watc57-theloop/index.m3u8
 #EXTINF:-1 tvg-name="Radio Maria TV" group-title="Religious",Radio Maria TV
 https://radiomaria.inovanex.stream/stream.m3u8
-#EXTINF:-1 tvg-name="KWHY 63.1" group-title="Religious",KWHY 63.1
+#EXTINF:-1 tvg-name="Canal de la Fe" group-title="Religious",Canal de la Fe
 https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/dad6a736-9efb-40ce-89b6-81d1d54f92bd/master.m3u8
 #EXTINF:-1 tvg-name="Trace Gospel Africa Franco" group-title="Music;Religious",Trace Gospel Africa Franco
 https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
@@ -2476,3 +2476,19 @@ https://live-3.otcnet.ru/Balapan/index.m3u8
 http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 #EXTINF:-1 tvg-name="CTN" group-title="Religious",CTN
 https://d3k5y954fiztgy.cloudfront.net/FREECAST/CTN-2b0dd347-f7b0-e7ed-9096-68966d29db50/index.m3u8
+#EXTINF:-1 tvg-name="Disney Junior" group-title="Kids",Disney Junior
+http://40.160.24.52/Disney_JR/index.m3u8
+#EXTINF:-1 tvg-name="Disney XD West (480p)" group-title="Kids",Disney XD West (480p)
+http://tvsen5.aynascope.net/disneyxd/index.m3u8
+#EXTINF:-1 tvg-name="JBS" group-title="Religious",JBS
+https://rpn3.bozztv.com/jbstv-srt/srt-push/jbstv/playlist.m3u8
+#EXTINF:-1 tvg-name="Jewish Life Television" group-title="Culture;Religious",Jewish Life Television
+https://jlt-jltv-strimm.otteravision.com/jlt/jltv/jltv.m3u8
+#EXTINF:-1 tvg-name="Aadinath TV (396p)" group-title="Religious",Aadinath TV (396p)
+https://keralive.com/yupp/tv.php?c=aadinath-tv&e=.m3u8
+#EXTINF:-1 tvg-name="Dharm Sandesh" group-title="Religious",Dharm Sandesh
+https://cdn-2.pishow.tv/live/1455/master.m3u8
+#EXTINF:-1 tvg-name="Madha TV" group-title="Religious",Madha TV
+https://cdn-3.pishow.tv/live/1265/master.m3u8
+#EXTINF:-1 tvg-name="Sairam TV" group-title="Religious",Sairam TV
+https://cdn-3.pishow.tv/live/1611/master.m3u8

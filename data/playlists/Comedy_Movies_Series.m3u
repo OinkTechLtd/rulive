@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-15 23:07:01
-# Всего каналов: 19866
-# Новых за сессию: 0
+# Обновлено: 2026-07-16 00:56:56
+# Всего каналов: 19952
+# Новых за сессию: 86
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Movies;Series
 # Каналов: 2
-# Обновлено: 2026-07-15 23:07:01
+# Обновлено: 2026-07-16 00:56:57
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Comedy;Movies;Series",like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -1378,6 +1378,8 @@ https://jmp2.uk/plu-65775af3b3801200084a3aa4.m3u8
 https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8
 #EXTINF:-1 tvg-name="GEM Comedy" group-title="Comedy",GEM Comedy
 https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-name="Ghost Dimension" group-title="Series",Ghost Dimension
+https://jmp2.uk/plu-619e1bb3e9af5a0007f235ad.m3u8
 #EXTINF:-1 tvg-name="Gunsmoke" group-title="Series",Gunsmoke
 https://jmp2.uk/plu-62e916affb29c60007211c8a.m3u8
 #EXTINF:-1 tvg-name="Hélène et les garçons" group-title="Series",Hélène et les garçons
@@ -2386,3 +2388,9 @@ http://znty.dyndns.org:5010/hls/axn.m3u8
 http://znty.dyndns.org:5010/hls/foxcomedy.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Star Movies" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Star Movies
 http://znty.dyndns.org:5010/hls/foxm.m3u8
+#EXTINF:-1 tvg-name="Revry Her" group-title="Movies",Revry Her
+https://linear-73.frequency.stream/dist/24i/73/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Cine+ Emotion" group-title="Movies",Cine+ Emotion
+http://145.239.5.177/337/index.m3u8
+#EXTINF:-1 tvg-name="Kantipur Max [Geo-blocked]" group-title="Movies",Kantipur Max [Geo-blocked]
+https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match2/playlist.m3u8

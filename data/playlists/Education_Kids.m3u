@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-15 23:07:01
-# Всего каналов: 19866
-# Новых за сессию: 0
+# Обновлено: 2026-07-16 00:56:56
+# Всего каналов: 19952
+# Новых за сессию: 86
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Kids
 # Каналов: 12
-# Обновлено: 2026-07-15 23:07:01
+# Обновлено: 2026-07-16 00:56:57
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="NCM Educational & Kids Channel" group-title="Education;Kids",NCM Educational & Kids Channel
@@ -1272,3 +1272,7 @@ https://live-3.otcnet.ru/Balapan/index.m3u8
 http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
 #EXTINF:-1 tvg-name="Cartoon Classics (576p)" group-title="Animation;Kids",Cartoon Classics (576p)
 http://5.188.159.128:8070/Cartoon_Network/index.m3u8
+#EXTINF:-1 tvg-name="Disney Junior" group-title="Kids",Disney Junior
+http://40.160.24.52/Disney_JR/index.m3u8
+#EXTINF:-1 tvg-name="Disney XD West (480p)" group-title="Kids",Disney XD West (480p)
+http://tvsen5.aynascope.net/disneyxd/index.m3u8

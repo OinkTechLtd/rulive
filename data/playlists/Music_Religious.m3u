@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-15 23:07:01
-# Всего каналов: 19866
-# Новых за сессию: 0
+# Обновлено: 2026-07-16 00:56:56
+# Всего каналов: 19952
+# Новых за сессию: 86
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;Religious
 # Каналов: 11
-# Обновлено: 2026-07-15 23:07:01
+# Обновлено: 2026-07-16 00:56:57
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Муз союз (576p)" group-title="Music;Religious",Муз союз (576p)
@@ -3143,7 +3143,7 @@ https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d7
 https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="CMC-USA Country Music Channel" group-title="Music",CMC-USA Country Music Channel
 https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
-#EXTINF:-1 tvg-name="KWHY 63.1" group-title="Religious",KWHY 63.1
+#EXTINF:-1 tvg-name="Canal de la Fe" group-title="Religious",Canal de la Fe
 https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/dad6a736-9efb-40ce-89b6-81d1d54f92bd/master.m3u8
 #EXTINF:-1 tvg-name="VH1 West" group-title="Music",VH1 West
 http://40.160.24.55/VH1_WEST/index.m3u8
@@ -3179,3 +3179,17 @@ https://d3k5y954fiztgy.cloudfront.net/FREECAST/CTN-2b0dd347-f7b0-e7ed-9096-68966
 http://145.239.5.177/320/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Music",DM Sat (576p)" group-title="Music",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Music",DM Sat (576p)
 https://shift03.isp.bg/DMSat/index.m3u8
+#EXTINF:-1 tvg-name="JBS" group-title="Religious",JBS
+https://rpn3.bozztv.com/jbstv-srt/srt-push/jbstv/playlist.m3u8
+#EXTINF:-1 tvg-name="Jewish Life Television" group-title="Culture;Religious",Jewish Life Television
+https://jlt-jltv-strimm.otteravision.com/jlt/jltv/jltv.m3u8
+#EXTINF:-1 tvg-name="Aadinath TV (396p)" group-title="Religious",Aadinath TV (396p)
+https://keralive.com/yupp/tv.php?c=aadinath-tv&e=.m3u8
+#EXTINF:-1 tvg-name="Dharm Sandesh" group-title="Religious",Dharm Sandesh
+https://cdn-2.pishow.tv/live/1455/master.m3u8
+#EXTINF:-1 tvg-name="Madha TV" group-title="Religious",Madha TV
+https://cdn-3.pishow.tv/live/1265/master.m3u8
+#EXTINF:-1 tvg-name="Sairam TV" group-title="Religious",Sairam TV
+https://cdn-3.pishow.tv/live/1611/master.m3u8
+#EXTINF:-1 tvg-name="AMusic Channel" group-title="Music",AMusic Channel
+http://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8

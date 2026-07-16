@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-15 23:07:01
-# Всего каналов: 19866
-# Новых за сессию: 0
+# Обновлено: 2026-07-16 00:56:56
+# Всего каналов: 19952
+# Новых за сессию: 86
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Movies
 # Каналов: 1
-# Обновлено: 2026-07-15 23:07:01
+# Обновлено: 2026-07-16 00:56:57
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="FAN" group-title="Animation;Movies",FAN
@@ -1721,3 +1721,9 @@ http://40.160.24.52/EPIX_DRIVE-IN/index.m3u8
 http://znty.dyndns.org:5010/hls/axn.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Star Movies" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Star Movies
 http://znty.dyndns.org:5010/hls/foxm.m3u8
+#EXTINF:-1 tvg-name="Revry Her" group-title="Movies",Revry Her
+https://linear-73.frequency.stream/dist/24i/73/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Cine+ Emotion" group-title="Movies",Cine+ Emotion
+http://145.239.5.177/337/index.m3u8
+#EXTINF:-1 tvg-name="Kantipur Max [Geo-blocked]" group-title="Movies",Kantipur Max [Geo-blocked]
+https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match2/playlist.m3u8

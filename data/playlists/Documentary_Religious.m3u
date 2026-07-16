@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-15 23:07:01
-# Всего каналов: 19866
-# Новых за сессию: 0
+# Обновлено: 2026-07-16 00:56:56
+# Всего каналов: 19952
+# Новых за сессию: 86
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Religious
 # Каналов: 1
-# Обновлено: 2026-07-15 23:07:01
+# Обновлено: 2026-07-16 00:56:57
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Karbala Documentary" group-title="Documentary;Religious",Karbala Documentary
@@ -1521,6 +1521,8 @@ https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGN
 http://43.252.18.195:5080/live/streams/CITVChannel.playlist.m3u8
 #EXTINF:-1 tvg-name="Credo TV" group-title="Religious",Credo TV
 http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
+#EXTINF:-1 tvg-name="Crime 360" group-title="Documentary",Crime 360
+https://jmp2.uk/plu-657880c46e4f6a00087404d0.m3u8
 #EXTINF:-1 tvg-name="Damsathara TV" group-title="Religious",Damsathara TV
 https://mini.allinonereborn.fun/tata.php?id=11591
 #EXTINF:-1 tvg-name="Detetives Médicos" group-title="Documentary",Detetives Médicos
@@ -1941,7 +1943,7 @@ https://hlspackager.akamaized.net/live/DB/AMAZING_FACTS/HLS/AMAZING_FACTS.m3u8
 https://tgn.bozztv.com/watc57/watc57-theloop/watc57-theloop/index.m3u8
 #EXTINF:-1 tvg-name="Radio Maria TV" group-title="Religious",Radio Maria TV
 https://radiomaria.inovanex.stream/stream.m3u8
-#EXTINF:-1 tvg-name="KWHY 63.1" group-title="Religious",KWHY 63.1
+#EXTINF:-1 tvg-name="Canal de la Fe" group-title="Religious",Canal de la Fe
 https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/dad6a736-9efb-40ce-89b6-81d1d54f92bd/master.m3u8
 #EXTINF:-1 tvg-name="Trace Gospel Africa Franco" group-title="Music;Religious",Trace Gospel Africa Franco
 https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
@@ -1959,3 +1961,15 @@ https://tv.arkeo.cl:1936/preludio/preludio/playlist.m3u8
 https://d3k5y954fiztgy.cloudfront.net/FREECAST/CTN-2b0dd347-f7b0-e7ed-9096-68966d29db50/index.m3u8
 #EXTINF:-1 tvg-name="Cap Terre" group-title="Documentary",Cap Terre
 http://145.239.5.177/359a/index.m3u8
+#EXTINF:-1 tvg-name="JBS" group-title="Religious",JBS
+https://rpn3.bozztv.com/jbstv-srt/srt-push/jbstv/playlist.m3u8
+#EXTINF:-1 tvg-name="Jewish Life Television" group-title="Culture;Religious",Jewish Life Television
+https://jlt-jltv-strimm.otteravision.com/jlt/jltv/jltv.m3u8
+#EXTINF:-1 tvg-name="Aadinath TV (396p)" group-title="Religious",Aadinath TV (396p)
+https://keralive.com/yupp/tv.php?c=aadinath-tv&e=.m3u8
+#EXTINF:-1 tvg-name="Dharm Sandesh" group-title="Religious",Dharm Sandesh
+https://cdn-2.pishow.tv/live/1455/master.m3u8
+#EXTINF:-1 tvg-name="Madha TV" group-title="Religious",Madha TV
+https://cdn-3.pishow.tv/live/1265/master.m3u8
+#EXTINF:-1 tvg-name="Sairam TV" group-title="Religious",Sairam TV
+https://cdn-3.pishow.tv/live/1611/master.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-15 23:07:01
-# Всего каналов: 19866
-# Новых за сессию: 0
+# Обновлено: 2026-07-16 00:56:56
+# Всего каналов: 19952
+# Новых за сессию: 86
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Lifestyle;Travel
 # Каналов: 2
-# Обновлено: 2026-07-15 23:07:01
+# Обновлено: 2026-07-16 00:56:57
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Voyages & Saveurs" group-title="Lifestyle;Travel",Voyages & Saveurs
@@ -410,3 +410,7 @@ https://plex-xumoent-ch485-e7l5l.fast.nbcuni.com/live/master_5.m3u8
 http://znty.dyndns.org:5010/hls/foxcrime.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Lifestyle",Star Life" group-title="Lifestyle",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Lifestyle",Star Life
 http://znty.dyndns.org:5010/hls/foxlife.m3u8
+#EXTINF:-1 tvg-name="JOURNY TV" group-title="Travel",JOURNY TV
+https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-name="Pocono Television Network" group-title="Travel",Pocono Television Network
+https://dfoiz3dv1euv7.cloudfront.net/ptnlive-s3/live1.m3u8
