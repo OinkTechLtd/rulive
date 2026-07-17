@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-16 23:25:48
-# Всего каналов: 19952
-# Новых за сессию: 0
+# Обновлено: 2026-07-17 01:01:42
+# Всего каналов: 19970
+# Новых за сессию: 18
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Movies
 # Каналов: 10
-# Обновлено: 2026-07-16 23:25:48
+# Обновлено: 2026-07-17 01:01:42
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pluto TV Comedias Románticas" group-title="Comedy;Movies",Pluto TV Comedias Románticas
@@ -1748,3 +1748,9 @@ https://linear-73.frequency.stream/dist/24i/73/hls/master/playlist.m3u8
 http://145.239.5.177/337/index.m3u8
 #EXTINF:-1 tvg-name="Kantipur Max [Geo-blocked]" group-title="Movies",Kantipur Max [Geo-blocked]
 https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match2/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FilmBox Family Hungary (576p)" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FilmBox Family Hungary (576p)
+http://88.212.15.19/live/test_filmbox_family_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-name="Star Channel Latin America Central America" group-title="Movies;Series",Star Channel Latin America Central America
+https://streamer.metronethn.com/StarChannel/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FilmBox Extra Hungary" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FilmBox Extra Hungary
+http://88.212.15.19/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8

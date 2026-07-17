@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-16 23:25:48
-# Всего каналов: 19952
-# Новых за сессию: 0
+# Обновлено: 2026-07-17 01:01:42
+# Всего каналов: 19970
+# Новых за сессию: 18
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Family;General
 # Каналов: 3
-# Обновлено: 2026-07-16 23:25:48
+# Обновлено: 2026-07-17 01:01:42
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="1KZN TV (576p)" group-title="Entertainment;Family;General",1KZN TV (576p)
@@ -7573,3 +7573,7 @@ https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=5
 https://stream.smotrim.ru/hls/planeta_rtr_sng/playlist.m3u8?entity=channel&id=512&sign=2abaa592de074d65809a10b6bacc4410
 #EXTINF:-1 tvg-name="CRTV (576p)" group-title="General",CRTV (576p)
 http://145.239.5.177/147/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",TF1 (576p)" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",TF1 (576p)
+https://futbol9865.ultratv13.workers.dev/deportivo111/24.m3u8
+#EXTINF:-1 tvg-name="RTS 3" group-title="General",RTS 3
+http://145.239.5.177/224/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-16 23:25:48
-# Всего каналов: 19952
-# Новых за сессию: 0
+# Обновлено: 2026-07-17 01:01:42
+# Всего каналов: 19970
+# Новых за сессию: 18
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Series
 # Каналов: 421
-# Обновлено: 2026-07-16 23:25:48
+# Обновлено: 2026-07-17 01:01:42
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Смотрим Честный Детектив" group-title="Series",Смотрим Честный Детектив
@@ -1443,3 +1443,5 @@ http://176.122.125.10:8080/bolt/index.m3u8
 http://103.137.83.62:9090/play/21/index.m3u8
 #EXTINF:-1 tvg-name="Star Channel Latin America" group-title="Movies;Series",Star Channel Latin America
 http://45.162.193.35/STAR_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="Star Channel Latin America Central America" group-title="Movies;Series",Star Channel Latin America Central America
+https://streamer.metronethn.com/StarChannel/index.m3u8
