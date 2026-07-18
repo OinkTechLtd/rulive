@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-17 23:24:38
-# Всего каналов: 19970
-# Новых за сессию: 0
+# Обновлено: 2026-07-18 00:56:26
+# Всего каналов: 20058
+# Новых за сессию: 88
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids
-# Каналов: 393
-# Обновлено: 2026-07-17 23:24:38
+# Каналов: 400
+# Обновлено: 2026-07-18 00:56:27
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Mama (576p)" group-title="Kids",Mama (576p)
@@ -1125,6 +1125,27 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.52/DISNEY_XD
 
 #EXTINF:-1 tvg-name="Disney XD West (480p)" group-title="Kids",Disney XD West (480p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvsen5.aynascope.net/disneyxd/index.m3u8
+
+#EXTINF:-1 tvg-name="Mama (576p)" group-title="Kids",Mama (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/79/index.m3u8
+
+#EXTINF:-1 tvg-name="Nickelodeon (576p)" group-title="Kids",Nickelodeon (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/443/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney Channel West" group-title="Kids",Disney Channel West
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/206.212.244.63/3146/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney Junior" group-title="Kids",Disney Junior
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/190.14.10.19:16000/play/a02d/index.m3u8
+
+#EXTINF:-1 tvg-name="Nicktoons" group-title="Kids",Nicktoons
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/206.212.244.63/3151/index.m3u8
+
+#EXTINF:-1 tvg-name="Nicktoons West" group-title="Kids",Nicktoons West
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/206.212.244.63/3152/index.m3u8
+
+#EXTINF:-1 tvg-name="4Kids TV (576p)" group-title="Kids",4Kids TV (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvsen5.aynascope.net/4KidsTV/index.m3u8
 
 #EXTINF:-1 tvg-name="TNT Kids (288p)" group-title="Kids",TNT Kids (288p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/restreamer1.tnt.ba/hls/tntkids.m3u8

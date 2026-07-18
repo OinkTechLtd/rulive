@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-17 23:24:38
-# Всего каналов: 19970
-# Новых за сессию: 0
+# Обновлено: 2026-07-18 00:56:26
+# Всего каналов: 20058
+# Новых за сессию: 88
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Entertainment;News
 # Каналов: 2
-# Обновлено: 2026-07-17 23:24:38
+# Обновлено: 2026-07-18 00:56:27
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Unifranz" group-title="Education;Entertainment;News",Unifranz
@@ -228,6 +228,12 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="ТВ-3 (540p) [Geo-blocked]" group-title="Entertainment",ТВ-3 (540p) [Geo-blocked]
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1 tvg-name="DTR Zona 1" group-title="Entertainment",DTR Zona 1
+https://kino-stream.online/hls/DTRZONA1.m3u8
+#EXTINF:-1 tvg-name="DTR Zona 2" group-title="Entertainment",DTR Zona 2
+https://kino-stream.online/hls/DTRZONA2.m3u8
+#EXTINF:-1 tvg-name="English Class" group-title="Education",English Class
+http://31.148.48.15/English_club_TV_HD/index.m3u8
 #EXTINF:-1 tvg-name="24KZ" group-title="News",24KZ
 https://tvcdn01.oktv.kz/tv/24kz/index.m3u8
 #EXTINF:-1 tvg-name="100% News (576p)" group-title="Business;News",100% News (576p)
@@ -4130,8 +4136,6 @@ http://8.243.126.131:8000/play/a0fg/index.m3u8
 https://edgectc.com/TELESUR/index.m3u8
 #EXTINF:-1 tvg-name="Panafrican Media TV" group-title="News",Panafrican Media TV
 https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8
-#EXTINF:-1 tvg-name="English Class" group-title="Education",English Class
-https://adpnetworkhd-cmd.github.io/iptv/EnglishClass.m3u8
 #EXTINF:-1 tvg-name="Friday!" group-title="Entertainment",Friday!
 https://adpnetworkhd-cmd.github.io/iptv/FridayHD_Moskva.m3u8
 #EXTINF:-1 tvg-name="K1" group-title="Entertainment",K1
@@ -4520,3 +4524,21 @@ https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5
 https://futbol9865.ultratv13.workers.dev/deportivo111/24.m3u8
 #EXTINF:-1 tvg-name="VEJA+ TV" group-title="News",VEJA+ TV
 https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
+#EXTINF:-1 tvg-name="Fox (576p)" group-title="Entertainment",Fox (576p)
+http://stream.mcquack.net/182/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="News",My-Ukraina TV" group-title="News",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="News",My-Ukraina TV
+http://stream.mcquack.net/442/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",Novyi Channel" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",Novyi Channel
+http://stream.mcquack.net/157/index.m3u8
+#EXTINF:-1 tvg-name="Logo" group-title="Entertainment",Logo
+http://206.212.244.63/4242/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Culture;News",Ost West 24" group-title="Culture;News",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Culture;News",Ost West 24
+http://stream.mcquack.net/455/index.m3u8
+#EXTINF:-1 tvg-name="News India 24x7 (576p)" group-title="News",News India 24x7 (576p)
+http://tvsen5.aynascope.net/NewsIndia24x7/index.m3u8
+#EXTINF:-1 tvg-name="Time TV (576p)" group-title="News",Time TV (576p)
+http://tvsen5.aynascope.net/timetv/index.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera English (576p)" group-title="News",Al Jazeera English (576p)
+http://stream.mcquack.net/131/index.m3u8
+#EXTINF:-1 tvg-name="News of the World" group-title="News",News of the World
+https://nowhls.wns.live/hls/stream.m3u8

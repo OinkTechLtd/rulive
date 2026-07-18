@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-17 23:24:38
-# Всего каналов: 19970
-# Новых за сессию: 0
+# Обновлено: 2026-07-18 00:56:26
+# Всего каналов: 20058
+# Новых за сессию: 88
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;General
 # Каналов: 2
-# Обновлено: 2026-07-17 23:24:38
+# Обновлено: 2026-07-18 00:56:27
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="DerryTV 23" group-title="Education;General",DerryTV 23
@@ -210,6 +210,8 @@ https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
 #EXTINF:-1 tvg-name="Кубань 24 [Geo-blocked]" group-title="General",Кубань 24 [Geo-blocked]
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+#EXTINF:-1 tvg-name="English Class" group-title="Education",English Class
+http://31.148.48.15/English_club_TV_HD/index.m3u8
 #EXTINF:-1 tvg-name="ARTN TV" group-title="General",ARTN TV
 https://streamer1.connectto.com/ARTN_mobile/index.m3u8
 #EXTINF:-1 tvg-name="Bălţi TV [Geo-blocked]" group-title="General",Bălţi TV [Geo-blocked]
@@ -5636,8 +5638,6 @@ https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8
 https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8
 #EXTINF:-1 tvg-name="ORF 1" group-title="General",ORF 1
 http://88.212.15.19/live/test_orf_eins_tizen/playlist.m3u8
-#EXTINF:-1 tvg-name="English Class" group-title="Education",English Class
-https://adpnetworkhd-cmd.github.io/iptv/EnglishClass.m3u8
 #EXTINF:-1 tvg-name="Access 4 PAC" group-title="General",Access 4 PAC
 https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-16/live/stream-4/live.m3u8
 #EXTINF:-1 tvg-name="Gillette Public Access Television Channel 189" group-title="Education",Gillette Public Access Television Channel 189
@@ -6246,3 +6246,21 @@ https://stream.smotrim.ru/hls/planeta_rtr_sng/playlist.m3u8?entity=channel&id=51
 http://145.239.5.177/147/index.m3u8
 #EXTINF:-1 tvg-name="RTS 3" group-title="General",RTS 3
 http://145.239.5.177/224/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",Suspilne. Krym" group-title="General",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",Suspilne. Krym
+http://stream.mcquack.net/436/index.m3u8
+#EXTINF:-1 tvg-name="31 Kanal (576p)" group-title="General",31 Kanal (576p)
+http://stream.mcquack.net/388/index.m3u8
+#EXTINF:-1 tvg-name="Astana TV (576p)" group-title="General",Astana TV (576p)
+http://stream.mcquack.net/28/index.m3u8
+#EXTINF:-1 tvg-name="NTK (576p)" group-title="General",NTK (576p)
+http://stream.mcquack.net/389/index.m3u8
+#EXTINF:-1 tvg-name="Qazaqstan" group-title="General",Qazaqstan
+http://stream.mcquack.net/71/index.m3u8
+#EXTINF:-1 tvg-name="IBTV USA (576p)" group-title="General",IBTV USA (576p)
+http://tvsen7.aynascope.net/ibtvusa/index.m3u8
+#EXTINF:-1 tvg-name="NTV Kohalpur (576p)" group-title="General",NTV Kohalpur (576p)
+http://tvsen7.aynascope.net/NTV_Kohalpur/index.m3u8
+#EXTINF:-1 tvg-name="Rapid TV" group-title="General",Rapid TV
+https://stream-hls.castr-cdn.com/6a05a899db0ebd344a759542/live_9655bc604f8211f19e748901a3f596d0/index.m3u8
+#EXTINF:-1 tvg-name="Tele Regency TV (576p)" group-title="General",Tele Regency TV (576p)
+https://streams.playtv.com.ng/Tele-Regency_TRTV/index.m3u8

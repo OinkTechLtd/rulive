@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-17 23:24:38
-# Всего каналов: 19970
-# Новых за сессию: 0
+# Обновлено: 2026-07-18 00:56:26
+# Всего каналов: 20058
+# Новых за сессию: 88
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;News
-# Каналов: 12
-# Обновлено: 2026-07-17 23:24:38
+# Каналов: 13
+# Обновлено: 2026-07-18 00:56:27
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Channel One" group-title="Culture;News",Channel One
@@ -45,6 +45,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/iptv.prosto.tv/ch237/i
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Culture;News",like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls127.freeott.top:8080/OstWest/video.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Culture;News",like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/455/index.m3u8
 
 #EXTINF:-1 tvg-name="Дождь (альтернативный)" group-title="News",Дождь (альтернативный)
 https://stream.tvrain.tv/live/tvrain.m3u8
@@ -2674,3 +2677,17 @@ https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u
 https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
 #EXTINF:-1 tvg-name="ShowVen TV" group-title="Culture;Music",ShowVen TV
 https://cdnbarinas.tvzamora.com/showven/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="News",My-Ukraina TV" group-title="News",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="News",My-Ukraina TV
+http://stream.mcquack.net/442/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Culture;News",Ost West 24" group-title="Culture;News",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Culture;News",Ost West 24
+http://stream.mcquack.net/455/index.m3u8
+#EXTINF:-1 tvg-name="News India 24x7 (576p)" group-title="News",News India 24x7 (576p)
+http://tvsen5.aynascope.net/NewsIndia24x7/index.m3u8
+#EXTINF:-1 tvg-name="Time TV (576p)" group-title="News",Time TV (576p)
+http://tvsen5.aynascope.net/timetv/index.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera English (576p)" group-title="News",Al Jazeera English (576p)
+http://stream.mcquack.net/131/index.m3u8
+#EXTINF:-1 tvg-name="News of the World" group-title="News",News of the World
+https://nowhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="LRT Plius" group-title="Culture;Sports",LRT Plius
+http://stream.mcquack.net/353/index.m3u8

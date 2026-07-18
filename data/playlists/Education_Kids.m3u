@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-17 23:24:38
-# Всего каналов: 19970
-# Новых за сессию: 0
+# Обновлено: 2026-07-18 00:56:26
+# Всего каналов: 20058
+# Новых за сессию: 88
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Kids
 # Каналов: 12
-# Обновлено: 2026-07-17 23:24:38
+# Обновлено: 2026-07-18 00:56:27
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="NCM Educational & Kids Channel" group-title="Education;Kids",NCM Educational & Kids Channel
@@ -76,6 +76,8 @@ https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT EBA Lise" group-title="Education",TRT EBA Lise
 https://tv-e-okul02.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="English Class" group-title="Education",English Class
+http://31.148.48.15/English_club_TV_HD/index.m3u8
 #EXTINF:-1 tvg-name="Gulli Girl" group-title="Kids",Gulli Girl
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Detski mir (576p)" group-title="Kids",Detski mir (576p)
@@ -1170,8 +1172,6 @@ http://bethoven.af-stream.com:1600/s/kwtlxswl/hop-childhood-il/video.m3u8
 http://bethoven.af-stream.com:1600/s/kwtlxswl/junior-il/video.m3u8
 #EXTINF:-1 tvg-name="TVP ABC 2" group-title="Kids",TVP ABC 2
 https://raw.githubusercontent.com/seyfettinaskar7-sudo/polish-iptv/refs/heads/main/streams/tvpabc2.m3u
-#EXTINF:-1 tvg-name="English Class" group-title="Education",English Class
-https://adpnetworkhd-cmd.github.io/iptv/EnglishClass.m3u8
 #EXTINF:-1 tvg-name="Kapitan Fantastika" group-title="Kids",Kapitan Fantastika
 https://adpnetworkhd-cmd.github.io/iptv/KapitanFantastikaHD.m3u8
 #EXTINF:-1 tvg-name="Gillette Public Access Television Channel 189" group-title="Education",Gillette Public Access Television Channel 189
@@ -1276,3 +1276,9 @@ http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 http://40.160.24.52/Disney_JR/index.m3u8
 #EXTINF:-1 tvg-name="Disney XD West (480p)" group-title="Kids",Disney XD West (480p)
 http://tvsen5.aynascope.net/disneyxd/index.m3u8
+#EXTINF:-1 tvg-name="Disney Channel West" group-title="Kids",Disney Channel West
+http://206.212.244.63/3146/index.m3u8
+#EXTINF:-1 tvg-name="Nicktoons West" group-title="Kids",Nicktoons West
+http://206.212.244.63/3152/index.m3u8
+#EXTINF:-1 tvg-name="4Kids TV (576p)" group-title="Kids",4Kids TV (576p)
+http://tvsen5.aynascope.net/4KidsTV/index.m3u8

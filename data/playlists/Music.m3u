@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-17 23:24:38
-# Всего каналов: 19970
-# Новых за сессию: 0
+# Обновлено: 2026-07-18 00:56:26
+# Всего каналов: 20058
+# Новых за сессию: 88
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music
-# Каналов: 819
-# Обновлено: 2026-07-17 23:24:38
+# Каналов: 823
+# Обновлено: 2026-07-18 00:56:27
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Deluxe Music" group-title="Music",Deluxe Music
@@ -24,6 +24,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/4c4b867c89244861ac2164
 
 #EXTINF:-1 tvg-name="Star Plus Music" group-title="Music",Star Plus Music
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.muzickatv.mk/live/StarMusic2.m3u8
+
+#EXTINF:-1 tvg-name="DTR Music 1" group-title="Music",DTR Music 1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/kino-stream.online/hls/DTRMUSIC1.m3u8
 
 #EXTINF:-1 tvg-name="FON Music" group-title="Music",FON Music
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
@@ -2380,6 +2383,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/mn-nl.mncdn.com/amusic
 #EXTINF:-1 tvg-name="Stingray iConcerts" group-title="Music",Stingray iConcerts
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Muzyka Live (576p)" group-title="Music",Muzyka Live (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/303/index.m3u8
+
+#EXTINF:-1 tvg-name="Russian MusicBox (576p)" group-title="Music",Russian MusicBox (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/319/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Music",like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/147/index.m3u8
+
 #EXTINF:-1 tvg-name="City TV (576p)" group-title="Music",City TV (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.city.bg/play/tshls/citytv/index.m3u8
 
@@ -2581,3 +2593,5 @@ https://shift03.isp.bg/RodinaTV/index.m3u8
 https://shift03.isp.bg/DMSat/index.m3u8
 #EXTINF:-1 tvg-name="ShowVen TV" group-title="Culture;Music",ShowVen TV
 https://cdnbarinas.tvzamora.com/showven/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Music",InRating TV" group-title="Music",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Music",InRating TV
+http://stream.mcquack.net/147/index.m3u8

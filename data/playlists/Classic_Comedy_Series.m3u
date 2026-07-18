@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-17 23:24:38
-# Всего каналов: 19970
-# Новых за сессию: 0
+# Обновлено: 2026-07-18 00:56:26
+# Всего каналов: 20058
+# Новых за сессию: 88
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;Comedy;Series
 # Каналов: 1
-# Обновлено: 2026-07-17 23:24:38
+# Обновлено: 2026-07-18 00:56:27
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Aqui No Hay Quien Viva [_Geo-blocked_]" group-title="Classic;Comedy;Series",Aqui No Hay Quien Viva [_Geo-blocked_]
@@ -1223,3 +1223,11 @@ https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic
 http://znty.dyndns.org:5010/hls/foxcomedy.m3u8
 #EXTINF:-1 tvg-name="Star Channel Latin America Central America" group-title="Movies;Series",Star Channel Latin America Central America
 https://streamer.metronethn.com/StarChannel/index.m3u8
+#EXTINF:-1 tvg-name="Fox Life (576p)" group-title="Series",Fox Life (576p)
+http://stream.mcquack.net/129/index.m3u8
+#EXTINF:-1 tvg-name="Komedia (576p)" group-title="Comedy",Komedia (576p)
+http://stream.mcquack.net/68/index.m3u8
+#EXTINF:-1 tvg-name="Nashe (576p)" group-title="Movies;Series",Nashe (576p)
+http://stream.mcquack.net/217/index.m3u8
+#EXTINF:-1 tvg-name="Retro (576p)" group-title="Classic",Retro (576p)
+http://stream.mcquack.net/191/index.m3u8

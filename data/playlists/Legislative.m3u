@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-17 23:24:38
-# Всего каналов: 19970
-# Новых за сессию: 0
+# Обновлено: 2026-07-18 00:56:26
+# Всего каналов: 20058
+# Новых за сессию: 88
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Legislative
-# Каналов: 196
-# Обновлено: 2026-07-17 23:24:38
+# Каналов: 197
+# Обновлено: 2026-07-18 00:56:27
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Legislative",like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -580,6 +580,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.52/C-SPAN_2/
 #EXTINF:-1 tvg-name="TVSA Government Channel" group-title="Legislative",TVSA Government Channel
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/edge-f.swagit.com/live/sanantoniotx/live-1-a/playlist.m3u8
 
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Legislative",like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/246/index.m3u8
+
 #EXTINF:-1 tvg-name="TV Câmara" group-title="Legislative",TV Câmara
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream3.camara.gov.br/tv1/manifest.m3u8
 
@@ -608,3 +611,5 @@ https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 https://cdn4.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd
 #EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Legislative",Justicia TV" group-title="Legislative",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Legislative",Justicia TV
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/justicia.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Legislative",Pershyi Zahidnyi" group-title="Legislative",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Legislative",Pershyi Zahidnyi
+http://stream.mcquack.net/246/index.m3u8

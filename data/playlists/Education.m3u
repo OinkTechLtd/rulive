@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-17 23:24:38
-# Всего каналов: 19970
-# Новых за сессию: 0
+# Обновлено: 2026-07-18 00:56:26
+# Всего каналов: 20058
+# Новых за сессию: 88
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education
-# Каналов: 206
-# Обновлено: 2026-07-17 23:24:38
+# Каналов: 207
+# Обновлено: 2026-07-18 00:56:27
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Кто есть Кто (576p)" group-title="Education",Кто есть Кто (576p)
@@ -618,6 +618,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv-e-okul01.medya.trt.
 
 #EXTINF:-1 tvg-name="TRT EBA Lise" group-title="Education",TRT EBA Lise
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv-e-okul02.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="English Class" group-title="Education",English Class
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/English_club_TV_HD/index.m3u8
 
 #EXTINF:-1 tvg-name="Animaux [Geo-Blocked]" group-title="Education",Animaux [Geo-Blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/viamotionhsi.netplus.ch/live/eds/animaux/browser-dash/animaux.mpd

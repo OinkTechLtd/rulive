@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-17 23:24:38
-# Всего каналов: 19970
-# Новых за сессию: 0
+# Обновлено: 2026-07-18 00:56:26
+# Всего каналов: 20058
+# Новых за сессию: 88
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment
-# Каналов: 997
-# Обновлено: 2026-07-17 23:24:38
+# Каналов: 1004
+# Обновлено: 2026-07-18 00:56:27
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Arte [Geo-blocked]" group-title="Entertainment",Arte [Geo-blocked]
@@ -15,6 +15,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/artesimulcast.akamaize
 
 #EXTINF:-1 tvg-name="ARTE [Geo-blocked]" group-title="Entertainment",ARTE [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+
+#EXTINF:-1 tvg-name="DTR Zona 1" group-title="Entertainment",DTR Zona 1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/kino-stream.online/hls/DTRZONA1.m3u8
+
+#EXTINF:-1 tvg-name="DTR Zona 2" group-title="Entertainment",DTR Zona 2
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/kino-stream.online/hls/DTRZONA2.m3u8
 
 #EXTINF:-1 tvg-name="NSC+" group-title="Entertainment",NSC+
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8
@@ -2887,6 +2893,21 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/futbol9865.ultratv13.w
 #EXTINF:-1 tvg-name="A&E Latin America Brazil" group-title="Entertainment",A&E Latin America Brazil
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.190.28.50/AE_HD/index.m3u8
 
+#EXTINF:-1 tvg-name="Fox (576p)" group-title="Entertainment",Fox (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/182/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/157/index.m3u8
+
+#EXTINF:-1 tvg-name="Game Show Network" group-title="Entertainment",Game Show Network
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/206.212.244.63/4237/index.m3u8
+
+#EXTINF:-1 tvg-name="Logo" group-title="Entertainment",Logo
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/206.212.244.63/4242/index.m3u8
+
+#EXTINF:-1 tvg-name="Star Jalsha" group-title="Entertainment",Star Jalsha
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvsen7.aynascope.net/sjhdbd/index.m3u8
+
 #EXTINF:-1 tvg-name="Беларусь 2" group-title="Entertainment",Беларусь 2
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 
@@ -3193,3 +3214,5 @@ https://shift03.isp.bg/MTVEurope/index.m3u8
 http://znty.dyndns.org:5010/hls/fox.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",TF1 (576p)" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",TF1 (576p)
 https://futbol9865.ultratv13.workers.dev/deportivo111/24.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",Novyi Channel" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",Novyi Channel
+http://stream.mcquack.net/157/index.m3u8

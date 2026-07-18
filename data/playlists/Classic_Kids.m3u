@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-17 23:24:38
-# Всего каналов: 19970
-# Новых за сессию: 0
+# Обновлено: 2026-07-18 00:56:26
+# Всего каналов: 20058
+# Новых за сессию: 88
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;Kids
 # Каналов: 2
-# Обновлено: 2026-07-17 23:24:38
+# Обновлено: 2026-07-18 00:56:27
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="PBS Retro [Geo-blocked]" group-title="Classic;Kids",PBS Retro [Geo-blocked]
@@ -954,3 +954,11 @@ http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 http://40.160.24.52/Disney_JR/index.m3u8
 #EXTINF:-1 tvg-name="Disney XD West (480p)" group-title="Kids",Disney XD West (480p)
 http://tvsen5.aynascope.net/disneyxd/index.m3u8
+#EXTINF:-1 tvg-name="Retro (576p)" group-title="Classic",Retro (576p)
+http://stream.mcquack.net/191/index.m3u8
+#EXTINF:-1 tvg-name="Disney Channel West" group-title="Kids",Disney Channel West
+http://206.212.244.63/3146/index.m3u8
+#EXTINF:-1 tvg-name="Nicktoons West" group-title="Kids",Nicktoons West
+http://206.212.244.63/3152/index.m3u8
+#EXTINF:-1 tvg-name="4Kids TV (576p)" group-title="Kids",4Kids TV (576p)
+http://tvsen5.aynascope.net/4KidsTV/index.m3u8

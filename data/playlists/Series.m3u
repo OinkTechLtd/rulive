@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-17 23:24:38
-# Всего каналов: 19970
-# Новых за сессию: 0
+# Обновлено: 2026-07-18 00:56:26
+# Всего каналов: 20058
+# Новых за сессию: 88
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Series
-# Каналов: 421
-# Обновлено: 2026-07-17 23:24:38
+# Каналов: 422
+# Обновлено: 2026-07-18 00:56:27
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Смотрим Честный Детектив" group-title="Series",Смотрим Честный Детектив
@@ -1264,6 +1264,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-tiva-video10-logic
 #EXTINF:-1 tvg-name="The Bob Ross Channel" group-title="Series",The Bob Ross Channel
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/aegis-cloudfront-1.tubi.video/45301c94-0d40-4cbb-b342-f5dc7949d76c/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Fox Life (576p)" group-title="Series",Fox Life (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/129/index.m3u8
+
 #EXTINF:-1 tvg-name="13 Teleseries" group-title="Series",13 Teleseries
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
@@ -1445,3 +1448,5 @@ http://103.137.83.62:9090/play/21/index.m3u8
 http://45.162.193.35/STAR_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-name="Star Channel Latin America Central America" group-title="Movies;Series",Star Channel Latin America Central America
 https://streamer.metronethn.com/StarChannel/index.m3u8
+#EXTINF:-1 tvg-name="Nashe (576p)" group-title="Movies;Series",Nashe (576p)
+http://stream.mcquack.net/217/index.m3u8
