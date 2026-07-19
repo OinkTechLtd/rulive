@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-19 02:41:12
+# Обновлено: 2026-07-19 04:28:48
 # Всего каналов: 20617
-# Новых за сессию: 511
+# Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Movies
 # Каналов: 2
-# Обновлено: 2026-07-19 02:41:12
+# Обновлено: 2026-07-19 04:28:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="KidsFlix" group-title="Kids;Movies",KidsFlix
@@ -1742,8 +1742,12 @@ https://jmp2.uk/plu-6994800c470389f33df8e090.m3u8
 https://jmp2.uk/plu-699d87093d5dba980705cca8.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Retro Action Movies" group-title="Classic;Movies",Pluto TV Retro Action Movies
 https://jmp2.uk/plu-69a9ae4d3bd16a4ed04240d7.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FILMBOX+ Emotion Adria" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FILMBOX+ Emotion Adria
+https://webtvstream.bhtelecom.ba/hls7/filmbox_extra.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FILMBOX+ Hits Adria" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FILMBOX+ Hits Adria
 https://webtvstream.bhtelecom.ba/hls7/filmbox_premium.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FILMBOX+ Love & Crime Adria" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FILMBOX+ Love & Crime Adria
+https://webtvstream.bhtelecom.ba/hls7/filmbox_stars.m3u8
 #EXTINF:-1 tvg-name="Hit" group-title="Movies",Hit
 http://hls127.freeott.top:8080/XitHD/video.m3u8
 #EXTINF:-1 tvg-name="Kinopokaz" group-title="Movies",Kinopokaz
@@ -1778,6 +1782,10 @@ http://99.27.51.147:8080/CineFrisson/index.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinecanal.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Zee Cinema UK (576p)" group-title="Movies",Zee Cinema UK (576p)
 http://41.223.30.230/ZEECINEMA/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Disney Channel" group-title="Kids",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Disney Channel
+http://86.87.15.10:8004/play/a02g/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment;Kids",Veronica / Disney Jr." group-title="Entertainment;Kids",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment;Kids",Veronica / Disney Jr.
+http://86.87.15.10:8003/play/a01x/index.m3u8
 #EXTINF:-1 tvg-name="Mosfilm Gold Collection (576p)" group-title="Movies",Mosfilm Gold Collection (576p)
 http://31.222.235.15/mosfilm/index.m3u8
 #EXTINF:-1 tvg-name="Radost Moya (576p)" group-title="Kids",Radost Moya (576p)
@@ -1812,6 +1820,8 @@ http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8
 http://88.212.15.19/live/test_filmbox/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FILMBOX+ Emotion Czechia" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FILMBOX+ Emotion Czechia
 http://88.212.15.19/live/test_film_boxextra_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FILMBOX+ Hits Czechia" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FILMBOX+ Hits Czechia
+http://88.212.15.19/live/test_film_boxpremium_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FILMBOX+ Love & Crime" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FILMBOX+ Love & Crime
 http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-name="BabyTV France" group-title="Kids",BabyTV France
@@ -1856,6 +1866,8 @@ http://5.57.74.130:8000/play/a0at/index.m3u8
 http://116.90.120.157:8000/play/a0qo/index.m3u8
 #EXTINF:-1 tvg-name="God Stands Kids Club TV English" group-title="Kids;Religious",God Stands Kids Club TV English
 https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Nickelodeon" group-title="Kids",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Nickelodeon
+http://193.239.186.231/NICK/index.m3u8
 #EXTINF:-1 tvg-name="Sony Movies Latin America" group-title="Movies",Sony Movies Latin America
 https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Movies" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Movies
@@ -1868,8 +1880,6 @@ https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
 http://54.37.19.157/axn/playlist.m3u8
 #EXTINF:-1 tvg-name="God Stands Kids Club TV Urdu" group-title="Kids;Religious",God Stands Kids Club TV Urdu
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Nickelodeon" group-title="Kids",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Nickelodeon
-http://82.78.243.219:45739/play/a00o/index.m3u8
 #EXTINF:-1 tvg-name="Leva" group-title="Kids",Leva
 http://de.russkoe-iptv.com:88/s/s-e3dc39e0/ljova-hd.m3u8
 #EXTINF:-1 tvg-name="V gostyakh u skazki" group-title="Kids",V gostyakh u skazki

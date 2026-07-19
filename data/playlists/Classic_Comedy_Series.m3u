@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-19 02:41:12
+# Обновлено: 2026-07-19 04:28:48
 # Всего каналов: 20617
-# Новых за сессию: 511
+# Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;Comedy;Series
 # Каналов: 1
-# Обновлено: 2026-07-19 02:41:12
+# Обновлено: 2026-07-19 04:28:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Aqui No Hay Quien Viva [_Geo-blocked_]" group-title="Classic;Comedy;Series",Aqui No Hay Quien Viva [_Geo-blocked_]
@@ -1099,6 +1099,8 @@ http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1 tvg-name="We TV" group-title="Series",We TV
 https://streamer1.nexgen.bz/WE_TV/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Comedy",Comedy Central" group-title="Comedy",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Comedy",Comedy Central
+http://86.87.15.10:8002/play/a02k/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Series",Tlnovelas Latin America" group-title="Series",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Series",Tlnovelas Latin America
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/TL_Novelas.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Land" group-title="Classic",TV Land
@@ -1109,8 +1111,6 @@ http://185.246.209.113/DISCOVERYHD/index.m3u8
 http://185.246.209.113/T+E/index.m3u8
 #EXTINF:-1 tvg-name="Fillka TV" group-title="Entertainment;Movies;Series",Fillka TV
 https://live-evg5.tv360.bitel.com.pe/bitel/fillka/playlist.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Comedy",Comedy Central" group-title="Comedy",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Comedy",Comedy Central
-http://82.78.243.219:45739/play/a00f/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies;Series",AXN Asia Thailand" group-title="Movies;Series",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies;Series",AXN Asia Thailand
 http://54.37.19.157/axn/playlist.m3u8
 #EXTINF:-1 tvg-name="13Rec (576p)" group-title="Classic",13Rec (576p)
