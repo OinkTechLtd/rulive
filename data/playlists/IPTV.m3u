@@ -1,14 +1,17 @@
 #EXTM3U
-# Обновлено: 2026-07-19 01:01:08
-# Всего каналов: 20106
-# Новых за сессию: 48
+# Обновлено: 2026-07-19 02:41:12
+# Всего каналов: 20617
+# Новых за сессию: 511
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: IPTV
-# Каналов: 225
-# Обновлено: 2026-07-19 01:01:09
+# Каналов: 856
+# Обновлено: 2026-07-19 02:41:12
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="TV Rain" group-title="IPTV",TV Rain
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 
 #EXTINF:-1 tvg-name="A2 CNN Albania" group-title="IPTV",A2 CNN Albania
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
@@ -67,6 +70,288 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/bl.rutube.ru/livestrea
 #EXTINF:-1 tvg-name="Cinema" group-title="IPTV",Cinema
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/catchup.videoline.ru/cinema/playlist.m3u8
 
+#EXTINF:-1 tvg-name="INFAST" group-title="IPTV",INFAST
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-name="XITE Classic Country" group-title="IPTV",XITE Classic Country
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/pb-wgi5ljoabjgdm.akamaized.net/XITE_Countrys_Finest.m3u8
+
+#EXTINF:-1 tvg-name="XITE Just Chill" group-title="IPTV",XITE Just Chill
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
+
+#EXTINF:-1 tvg-name="XITE Reggae Vibes" group-title="IPTV",XITE Reggae Vibes
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
+
+#EXTINF:-1 tvg-name="XITE Hits" group-title="IPTV",XITE Hits
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
+
+#EXTINF:-1 tvg-name="InWonder" group-title="IPTV",InWonder
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Hype Visual Radio" group-title="IPTV",Hype Visual Radio
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streammix.alsolnet.com/hyperadio/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="INTRAVEL" group-title="IPTV",INTRAVEL
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BEATTV" group-title="IPTV",BEATTV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.beatfm.nl/live.m3u8
+
+#EXTINF:-1 tvg-name="Deep House District" group-title="IPTV",Deep House District
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+
+#EXTINF:-1 tvg-name="FomixTV" group-title="IPTV",FomixTV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.fomixmedia.nl/FomixTV/video.m3u8
+
+#EXTINF:-1 tvg-name="Gigant FM" group-title="IPTV",Gigant FM
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/video.uitzending.tv:19360/gigantfm/gigantfm.m3u8
+
+#EXTINF:-1 tvg-name="Qmusic" group-title="IPTV",Qmusic
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.qmusic.nl/qmusic/videohls.m3u8
+
+#EXTINF:-1 tvg-name="Radio JND" group-title="IPTV",Radio JND
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Salto Brasa Music" group-title="IPTV",Salto Brasa Music
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/salto-streams.nl/hls/sotv1.m3u8
+
+#EXTINF:-1 tvg-name="ZFM Zoetermeer TV" group-title="IPTV",ZFM Zoetermeer TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zfmzoetermeer.nl/live/master.m3u8
+
+#EXTINF:-1 tvg-name="Magic PowerRadio" group-title="IPTV",Magic PowerRadio
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/server-23.stream-server.nl:1936/Magic-PowerRadio/Magic-PowerRadio/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RadioToppers" group-title="IPTV",RadioToppers
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/server-67.stream-server.nl:1936/RadioToppers/RadioToppers/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Salto 1" group-title="IPTV",Salto 1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/2103d417/index.m3u8
+
+#EXTINF:-1 tvg-name="MaLive" group-title="IPTV",MaLive
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.salto.nl/hls/malive_high.m3u8
+
+#EXTINF:-1 tvg-name="Jin TV" group-title="IPTV",Jin TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.jintv.org/medialive/jintv.m3u8
+
+#EXTINF:-1 tvg-name="Salto 2" group-title="IPTV",Salto 2
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8
+
+#EXTINF:-1 tvg-name="1AlmereTV" group-title="IPTV",1AlmereTV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
+
+#EXTINF:-1 tvg-name="1Twente TV" group-title="IPTV",1Twente TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8
+
+#EXTINF:-1 tvg-name="A1 TV" group-title="IPTV",A1 TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.a1mediagroep.nl/hls/a1tv.m3u8
+
+#EXTINF:-1 tvg-name="Altena TV" group-title="IPTV",Altena TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8
+
+#EXTINF:-1 tvg-name="BNR Nieuwsradio" group-title="IPTV",BNR Nieuwsradio
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/bnr-cache-cdp.triple-it.nl/studio/index.m3u8
+
+#EXTINF:-1 tvg-name="Dit is Helmond" group-title="IPTV",Dit is Helmond
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms2.mx-cd.net/tv/Omroep_Helmond.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Haarlem105 TV" group-title="IPTV",Haarlem105 TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d2qm50imcbcfqx.cloudfront.net/nlpo/clr-nlpo/haarlem105/index.m3u8
+
+#EXTINF:-1 tvg-name="Ideaal TV" group-title="IPTV",Ideaal TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="KempenTV" group-title="IPTV",KempenTV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms7.mx-cd.net/tv/Omroep_de_Kempen.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="L1 TV" group-title="IPTV",L1 TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
+
+#EXTINF:-1 tvg-name="Langstraat TV" group-title="IPTV",Langstraat TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d1qpgfi3ivud4k.cloudfront.net/nlpo/clr-nlpo/langstraat/index.m3u8
+
+#EXTINF:-1 tvg-name="Lansingerland TV" group-title="IPTV",Lansingerland TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms7.mx-cd.net/tv/278-3414514/RTV_Lansingerland.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="LEO Middelse TV" group-title="IPTV",LEO Middelse TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms7.mx-cd.net/tv/238-2061506/Omroep_LEO_TV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="LON TV" group-title="IPTV",LON TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streamingserver02.omroepnuenen.nl/lon/lonweb/chunklist_w1463772894.m3u8
+
+#EXTINF:-1 tvg-name="Lokale Omroep Zeewolde" group-title="IPTV",Lokale Omroep Zeewolde
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MerweTV" group-title="IPTV",MerweTV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d2ycaxub5x98iw.cloudfront.net/nlpo/clr-nlpo/merwetv/index.m3u8
+
+#EXTINF:-1 tvg-name="NOOS TV" group-title="IPTV",NOOS TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Omroep Brabant" group-title="IPTV",Omroep Brabant
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
+
+#EXTINF:-1 tvg-name="Omroep Brabant Radio" group-title="IPTV",Omroep Brabant Radio
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8
+
+#EXTINF:-1 tvg-name="Omroep Dommelland" group-title="IPTV",Omroep Dommelland
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/de68fck4398ez.cloudfront.net/nlpo/clr-nlpo/omroepdommelland/index.m3u8
+
+#EXTINF:-1 tvg-name="Omroep Hoeksche Waard" group-title="IPTV",Omroep Hoeksche Waard
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Omroep Hulst" group-title="IPTV",Omroep Hulst
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms7.mx-cd.net/tv/280-2963002/Omroep_Hulst_TV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Omroep Land van Cuijk" group-title="IPTV",Omroep Land van Cuijk
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d3go236bg358u.cloudfront.net/nlpo/clr-nlpo/omroeplandvancuijk/index.m3u8
+
+#EXTINF:-1 tvg-name="Omroep Lingewaard" group-title="IPTV",Omroep Lingewaard
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/highvolume02.streampartner.nl/omroeplingewaard_1/omroeplingewaard_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Omroep Sudwest" group-title="IPTV",Omroep Sudwest
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d2ecwd3cgy6wo0.cloudfront.net/nlpo/clr-nlpo/omroepsudwest/index.m3u8
+
+#EXTINF:-1 tvg-name="Omroep Venlo" group-title="IPTV",Omroep Venlo
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d2pqcu7r58rgg1.cloudfront.net/nlpo/clr-nlpo/omroepvenlo/index.m3u8
+
+#EXTINF:-1 tvg-name="Omroep Venray" group-title="IPTV",Omroep Venray
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d3j015sg8r68y.cloudfront.net/nlpo/clr-nlpo/omroepvenray/index.m3u8
+
+#EXTINF:-1 tvg-name="Omroep Zeeland" group-title="IPTV",Omroep Zeeland
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
+
+#EXTINF:-1 tvg-name="Omrop Fryslan" group-title="IPTV",Omrop Fryslan
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s-d15f8b0b.b.cdn.bluebillywig.com/live/omropfryslan/f8f68bd5/index.m3u8
+
+#EXTINF:-1 tvg-name="OOG TV" group-title="IPTV",OOG TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d1xcc1603wntzx.cloudfront.net/nlpo/clr-nlpo/oogtv/index.m3u8
+
+#EXTINF:-1 tvg-name="OPEN Rotterdam TV" group-title="IPTV",OPEN Rotterdam TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ORTS TV" group-title="IPTV",ORTS TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Radio 10" group-title="IPTV",Radio 10
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/radio10.prd1.talpatvcdn.nl/2b725bc7c93f477eaf0e43955ea8a6c1/index.m3u8
+
+#EXTINF:-1 tvg-name="Radio 350" group-title="IPTV",Radio 350
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.radio350.nl/hls/radio350.m3u8
+
+#EXTINF:-1 tvg-name="Radio 538" group-title="IPTV",Radio 538
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
+
+#EXTINF:-1 tvg-name="Radio Aalsmeer TV" group-title="IPTV",Radio Aalsmeer TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/radioaalsmeer.nl:4443/live/tv.m3u8
+
+#EXTINF:-1 tvg-name="Regio90 TV" group-title="IPTV",Regio90 TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms2.mx-cd.net/dtv-02/260-2403096/Regio90TV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Regio TV De Bilt" group-title="IPTV",Regio TV De Bilt
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d3ud9qm9b5yby9.cloudfront.net/nlpo/clr-nlpo/76ecd122/index.m3u8
+
+#EXTINF:-1 tvg-name="RPL Woerden" group-title="IPTV",RPL Woerden
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8
+
+#EXTINF:-1 tvg-name="RTV 1" group-title="IPTV",RTV 1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dy7fxpkq4ggk8.cloudfront.net/nlpo/clr-nlpo/rtv1/index.m3u8
+
+#EXTINF:-1 tvg-name="RTV Drenthe" group-title="IPTV",RTV Drenthe
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
+
+#EXTINF:-1 tvg-name="RTV Horizon" group-title="IPTV",RTV Horizon
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.rtvhorizon.nl/hls/horizon/1_2/index.m3u8
+
+#EXTINF:-1 tvg-name="RTV LOVE" group-title="IPTV",RTV LOVE
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d2o8iss0ldenh4.cloudfront.net/nlpo/clr-nlpo/rtvlove/index.m3u8
+
+#EXTINF:-1 tvg-name="RTV Maastricht" group-title="IPTV",RTV Maastricht
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RTV Meppel" group-title="IPTV",RTV Meppel
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d2eanln3bsfb0d.cloudfront.net/nlpo/clr-nlpo/rtvmeppel/index.m3u8
+
+#EXTINF:-1 tvg-name="RTV Noord" group-title="IPTV",RTV Noord
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
+
+#EXTINF:-1 tvg-name="RTV Noord Extra" group-title="IPTV",RTV Noord Extra
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
+
+#EXTINF:-1 tvg-name="RTV Nunspeet" group-title="IPTV",RTV Nunspeet
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms7.mx-cd.net/tv/262-2600774/RTV_Nunspeet.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RTV Parkstad" group-title="IPTV",RTV Parkstad
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.streamteam.eu:8443/parkstad/parkstad/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RTV Purmerend" group-title="IPTV",RTV Purmerend
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms2.mx-cd.net/dtv-10/268-2641474/RTV_Purmerend_TV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RTV Rijnmond Extra" group-title="IPTV",RTV Rijnmond Extra
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv-extra/index.m3u8
+
+#EXTINF:-1 tvg-name="RTV Rijnstreek TV" group-title="IPTV",RTV Rijnstreek TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms7.mx-cd.net/tv/290-3222276/RTV_Rijnstreek.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RTV SLOS" group-title="IPTV",RTV SLOS
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d3b6teev8t7bb2.cloudfront.net/nlpo/clr-nlpo/rtvslos/index.m3u8
+
+#EXTINF:-1 tvg-name="RTV Utrecht" group-title="IPTV",RTV Utrecht
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
+
+#EXTINF:-1 tvg-name="RTV Veluwezoom TV" group-title="IPTV",RTV Veluwezoom TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dt4pogjgi3q8s.cloudfront.net/nlpo/clr-nlpo/rtvveluwezoom/index.m3u8
+
+#EXTINF:-1 tvg-name="RTV Westerwolde" group-title="IPTV",RTV Westerwolde
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/media.rtvwesterwolde.nl/hls/live/index.m3u8
+
+#EXTINF:-1 tvg-name="RTV Zulthe" group-title="IPTV",RTV Zulthe
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms7.mx-cd.net/tv/212-1299944/RTV-Zulthe.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Samen1 TV" group-title="IPTV",Samen1 TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/server-67.stream-server.nl:1936/Samen1TV/Samen1TV/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Schie TV" group-title="IPTV",Schie TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d2n2i1jp4j20kw.cloudfront.net/nlpo/clr-nlpo/schietv/index.m3u8
+
+#EXTINF:-1 tvg-name="Sleutelstad TV" group-title="IPTV",Sleutelstad TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/samson.streamerr.co:8081/sleutelstad/index.m3u8
+
+#EXTINF:-1 tvg-name="Slotstad TV" group-title="IPTV",Slotstad TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d3eq9mufmyqgh4.cloudfront.net/nlpo/clr-nlpo/slotstadtv/index.m3u8
+
+#EXTINF:-1 tvg-name="SOL2" group-title="IPTV",SOL2
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.streamteam.eu:8443/sol2playout/sol2/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SRC TV" group-title="IPTV",SRC TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/highvolume155.streampartner.nl/adminsrc/adminsrc/playlist.m3u8
+
+#EXTINF:-1 tvg-name="StreekTV" group-title="IPTV",StreekTV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn22.streampartner.nl/streektv/streektv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Streekstad Central" group-title="IPTV",Streekstad Central
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/videostreams.streekstadcentraal.nl/hls/streekstad_alkmaar/streekstad_alkmaar.m3u8
+
+#EXTINF:-1 tvg-name="Studio040 TV" group-title="IPTV",Studio040 TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.m3u8
+
+#EXTINF:-1 tvg-name="Studio Rheden" group-title="IPTV",Studio Rheden
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.studiorhedenlive.nl/hlstv/stream.m3u8
+
+#EXTINF:-1 tvg-name="UStad" group-title="IPTV",UStad
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/media.rtvutrecht.nl/live/rtvutrecht/ustad/index.m3u8
+
+#EXTINF:-1 tvg-name="Vechtdal TV" group-title="IPTV",Vechtdal TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="WeertFM TV" group-title="IPTV",WeertFM TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="WOS" group-title="IPTV",WOS
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ZO!34" group-title="IPTV",ZO!34
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/video.uitzending.tv:19360/zo34/zo34.m3u8
+
 #EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 
@@ -124,11 +409,38 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/example.com/stream2.m3
 #EXTINF:-1 tvg-name="Dom kino" group-title="IPTV",Dom kino
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-name="FilmBox Family" group-title="IPTV",FilmBox Family
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7044/index.m3u8
+
+#EXTINF:-1 tvg-name="360TuneBox" group-title="IPTV",360TuneBox
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/iptv.prosto.tv/ch141/index.m3u8
+
+#EXTINF:-1 tvg-name="FashionBox" group-title="IPTV",FashionBox
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/iptv.prosto.tv/ch369/index.m3u8
+
+#EXTINF:-1 tvg-name="FilmBox Arthouse" group-title="IPTV",FilmBox Arthouse
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/iptv.prosto.tv/ch63/index.m3u8
+
+#EXTINF:-1 tvg-name="FilmBox Baltics" group-title="IPTV",FilmBox Baltics
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/iptv.prosto.tv/ch64/index.m3u8
+
+#EXTINF:-1 tvg-name="Gametoon" group-title="IPTV",Gametoon
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/iptv.prosto.tv/ch256/index.m3u8
+
 #EXTINF:-1 tvg-name="2x2 (576i)" group-title="IPTV",2x2 (576i)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
 
 #EXTINF:-1 tvg-name="Channel 10 (576i)" group-title="IPTV",Channel 10 (576i)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?e=2072611029&s=eqlTXebDP9wSWTZgre6BwQ&scheme=https
+
+#EXTINF:-1 tvg-name="DocuBox" group-title="IPTV",DocuBox
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/iptv.prosto.tv/ch93/index.m3u8
+
+#EXTINF:-1 tvg-name="FightBox" group-title="IPTV",FightBox
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/iptv.prosto.tv/ch118/index.m3u8
+
+#EXTINF:-1 tvg-name="FunBox U" group-title="IPTV",FunBox U
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/webtvstream.bhtelecom.ba/hls15/funbox.m3u8
 
 #EXTINF:-1 tvg-name="Da Vinci" group-title="IPTV",Da Vinci
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
@@ -139,14 +451,41 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.telecloud.tv/CH441
 #EXTINF:-1 tvg-name="BelRos" group-title="IPTV",BelRos
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 
+#EXTINF:-1 tvg-name="FilmBox Extra" group-title="IPTV",FilmBox Extra
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/webtvstream.bhtelecom.ba/hls7/filmbox_extra.m3u8
+
+#EXTINF:-1 tvg-name="FilmBox Stars" group-title="IPTV",FilmBox Stars
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/webtvstream.bhtelecom.ba/hls7/filmbox_stars.m3u8
+
+#EXTINF:-1 tvg-name="Comedy Central" group-title="IPTV",Comedy Central
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/86.87.15.10:8002/play/a02k/index.m3u8
+
 #EXTINF:-1 tvg-name="Channel 5 +2 (576p)" group-title="IPTV",Channel 5 +2 (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/94.230.128.107:8080/5_kanal/index.m3u8
+
+#EXTINF:-1 tvg-name="Ziggo Sport" group-title="IPTV",Ziggo Sport
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/86.87.15.10:8004/play/a02d/index.m3u8
+
+#EXTINF:-1 tvg-name="Ziggo Sport 2" group-title="IPTV",Ziggo Sport 2
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/86.87.15.10:8004/play/a02b/index.m3u8
+
+#EXTINF:-1 tvg-name="Ziggo Sport 3" group-title="IPTV",Ziggo Sport 3
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/86.87.15.10:8003/play/a02k/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney Channel" group-title="IPTV",Disney Channel
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/86.87.15.10:8004/play/a02g/index.m3u8
+
+#EXTINF:-1 tvg-name="Veronica / Disney Jr." group-title="IPTV",Veronica / Disney Jr.
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/86.87.15.10:8003/play/a01x/index.m3u8
 
 #EXTINF:-1 tvg-name="Bolt (576p)" group-title="IPTV",Bolt (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls127.freeott.top:8080/Bolt/video.m3u8
 
 #EXTINF:-1 tvg-name="Dikij (576p)" group-title="IPTV",Dikij (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls127.freeott.top:8080/Dikiy/video.m3u8
+
+#EXTINF:-1 tvg-name="FilmBox Premium" group-title="IPTV",FilmBox Premium
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/88.212.15.19/live/test_film_boxpremium_hd_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Channel One" group-title="IPTV",Channel One
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
@@ -162,6 +501,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/tchaikovsky.af-stream.
 
 #EXTINF:-1 tvg-name="Dom kino" group-title="IPTV",Dom kino
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tchaikovsky.af-stream.com:991/s/xzztutfc/dom-kino-hd/video.m3u8
+
+#EXTINF:-1 tvg-name="Nickelodeon" group-title="IPTV",Nickelodeon
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/193.239.186.231/NICK/index.m3u8
 
 #EXTINF:-1 tvg-name="Big Planet" group-title="IPTV",Big Planet
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/de.russkoe-iptv.com:88/s/s-e3dc39e0/big-planet-hd.m3u8
@@ -463,6 +805,1539 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/312
 #EXTINF:-1 tvg-name="Dikaya okhota" group-title="IPTV",Dikaya okhota
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/274/index.m3u8
 
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/yandexwebcache.net/yandbtm?fmode=inject&tm=1784428813&tld=ru&lang=en&la=1781075584&text=tvrain.tv+playlist.m3u8&url=https%3A//publiciptv.com/countries/nl/m3u&l10n=ru&mime=html&sign=d597728b7a7f9210c3690ad77109111c&keyno=0&quot;},{&quot;variant&quot;:&quot;more&quot;,&quot;url&quot;:&quot;/search/?text=site%3Apubliciptv.com%20tvrain.tv%20playlist.m3u8&lr=213&noreask=1&quot;,&quot;target&quot;:&quot;_self&quot;},{&quot;variant&quot;:&quot;info&quot;,&quot;url&quot;:&quot;https://webmaster.yandex.ru/siteinfo/?site=publiciptv.com&quot;},{&quot;variant&quot;:&quot;reportFeedback&quot;,&quot;reportFeedback&quot;:{&quot;feature&quot;:&quot;Органика&quot;,&quot;customMetaFields&quot;:[{&quot;name&quot;:&quot;url-complaint&quot;,&quot;value&quot;:&quot;https://publiciptv.com/countries/nl/m3u&quot;},{&quot;name&quot;:&quot;docId&quot;,&quot;value&quot;:&quot;2&quot;}],&quot;title&quot;:&quot;Что
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/yandexwebcache.net/yandbtm?fmode=inject&tm=1784428813&tld=ru&lang=ru&la=1783956864&text=tvrain.tv+playlist.m3u8&url=https%3A//zayatzfilm.ru/plejlisty-dlya-iptv-1000-kanalov/&l10n=ru&mime=html&sign=2563aa9b5e2db009eaa538c208e59729&keyno=0&quot;},{&quot;variant&quot;:&quot;more&quot;,&quot;url&quot;:&quot;/search/?text=site%3Azayatzfilm.ru%20tvrain.tv%20playlist.m3u8&lr=213&noreask=1&quot;,&quot;target&quot;:&quot;_self&quot;},{&quot;variant&quot;:&quot;info&quot;,&quot;url&quot;:&quot;https://webmaster.yandex.ru/siteinfo/?site=zayatzfilm.ru&quot;},{&quot;variant&quot;:&quot;reportFeedback&quot;,&quot;reportFeedback&quot;:{&quot;feature&quot;:&quot;Органика&quot;,&quot;customMetaFields&quot;:[{&quot;name&quot;:&quot;url-complaint&quot;,&quot;value&quot;:&quot;https://zayatzfilm.ru/plejlisty-dlya-iptv-1000-kanalov/&quot;},{&quot;name&quot;:&quot;docId&quot;,&quot;value&quot;:&quot;4&quot;}],&quot;title&quot;:&quot;Что
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/yandexwebcache.net/yandbtm?fmode=inject&tm=1784428813&tld=ru&lang=ru&la=1783099648&text=tvrain.tv+playlist.m3u8&url=https%3A//www.zona-iptv.ru/2019/01/iptv-playlist-m3u-yandex-llc.html&l10n=ru&mime=html&sign=c9c328e88bc4102eba7d43ebcee2ff58&keyno=0&quot;},{&quot;variant&quot;:&quot;more&quot;,&quot;url&quot;:&quot;/search/?text=site%3Awww.zona-iptv.ru%20tvrain.tv%20playlist.m3u8&lr=213&noreask=1&quot;,&quot;target&quot;:&quot;_self&quot;},{&quot;variant&quot;:&quot;info&quot;,&quot;url&quot;:&quot;https://webmaster.yandex.ru/siteinfo/?site=www.zona-iptv.ru&quot;},{&quot;variant&quot;:&quot;reportFeedback&quot;,&quot;reportFeedback&quot;:{&quot;feature&quot;:&quot;Органика&quot;,&quot;customMetaFields&quot;:[{&quot;name&quot;:&quot;url-complaint&quot;,&quot;value&quot;:&quot;https://www.zona-iptv.ru/2019/01/iptv-playlist-m3u-yandex-llc.html&quot;},{&quot;name&quot;:&quot;docId&quot;,&quot;value&quot;:&quot;12&quot;}],&quot;title&quot;:&quot;Что
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/yandexwebcache.net/yandbtm?fmode=inject&tm=1784428813&tld=ru&lang=ru&la=1783933184&text=tvrain.tv+playlist.m3u8&url=https%3A//pikniktv.info/viewtopic.php%3Ft%3D6737%26start%3D10200&l10n=ru&mime=html&sign=e1424de1b4e47b7f5f0c86570776eed3&keyno=0&quot;},{&quot;variant&quot;:&quot;more&quot;,&quot;url&quot;:&quot;/search/?text=site%3Apikniktv.info%20tvrain.tv%20playlist.m3u8&lr=213&noreask=1&quot;,&quot;target&quot;:&quot;_self&quot;},{&quot;variant&quot;:&quot;info&quot;,&quot;url&quot;:&quot;https://webmaster.yandex.ru/siteinfo/?site=pikniktv.info&quot;},{&quot;variant&quot;:&quot;reportFeedback&quot;,&quot;reportFeedback&quot;:{&quot;feature&quot;:&quot;Органика&quot;,&quot;customMetaFields&quot;:[{&quot;name&quot;:&quot;url-complaint&quot;,&quot;value&quot;:&quot;https://pikniktv.info/viewtopic.php?t=6737&start=10200&quot;},{&quot;name&quot;:&quot;docId&quot;,&quot;value&quot;:&quot;1&quot;}],&quot;title&quot;:&quot;Что
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/yandex.ru/search/?text=tvrain.tv%20playlist.m3u8&lr=213&ncrnd=92438
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/yandexwebcache.net/yandbtm?fmode=inject&tm=1784428813&tld=ru&lang=ru&la=1784032384&text=tvrain.tv+playlist.m3u8&url=https%3A//vk.com/ip_dmitry_tv&l10n=ru&mime=html&sign=81e7016ffffbe54b95dd3bde3e3d6713&keyno=0&quot;},{&quot;variant&quot;:&quot;more&quot;,&quot;url&quot;:&quot;/search/?text=site%3Avk.com%20tvrain.tv%20playlist.m3u8&lr=213&noreask=1&quot;,&quot;target&quot;:&quot;_self&quot;},{&quot;variant&quot;:&quot;info&quot;,&quot;url&quot;:&quot;https://webmaster.yandex.ru/siteinfo/?site=vk.com&quot;},{&quot;variant&quot;:&quot;reportFeedback&quot;,&quot;reportFeedback&quot;:{&quot;feature&quot;:&quot;Органика&quot;,&quot;customMetaFields&quot;:[{&quot;name&quot;:&quot;url-complaint&quot;,&quot;value&quot;:&quot;https://vk.com/ip_dmitry_tv&quot;},{&quot;name&quot;:&quot;docId&quot;,&quot;value&quot;:&quot;10&quot;}],&quot;title&quot;:&quot;Что
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/yandexwebcache.net/yandbtm?fmode=inject&tm=1784428813&tld=ru&lang=ru&la=1782130176&text=tvrain.tv+playlist.m3u8&url=https%3A//vip-tv.online/forum/67-1467-447&l10n=ru&mime=html&sign=b4cae70fe9656a4f4d9322af1588bb92&keyno=0&quot;},{&quot;variant&quot;:&quot;more&quot;,&quot;url&quot;:&quot;/search/?text=site%3Avip-tv.online%20tvrain.tv%20playlist.m3u8&lr=213&noreask=1&quot;,&quot;target&quot;:&quot;_self&quot;},{&quot;variant&quot;:&quot;info&quot;,&quot;url&quot;:&quot;https://webmaster.yandex.ru/siteinfo/?site=vip-tv.online&quot;},{&quot;variant&quot;:&quot;reportFeedback&quot;,&quot;reportFeedback&quot;:{&quot;feature&quot;:&quot;Органика&quot;,&quot;customMetaFields&quot;:[{&quot;name&quot;:&quot;url-complaint&quot;,&quot;value&quot;:&quot;https://vip-tv.online/forum/67-1467-447&quot;},{&quot;name&quot;:&quot;docId&quot;,&quot;value&quot;:&quot;3&quot;}],&quot;title&quot;:&quot;Что
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/yandex.ru/search/og-image?text=tvrain.tv+playlist.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/yandexwebcache.net/yandbtm?fmode=inject&tm=1784428813&tld=ru&lang=ru&la=1784043392&text=tvrain.tv+playlist.m3u8&url=https%3A//m3u.su/&l10n=ru&mime=html&sign=99e253cf952f5564982a938bbd8b03fb&keyno=0&quot;},{&quot;variant&quot;:&quot;more&quot;,&quot;url&quot;:&quot;/search/?text=site%3Am3u.su%20tvrain.tv%20playlist.m3u8&lr=213&noreask=1&quot;,&quot;target&quot;:&quot;_self&quot;},{&quot;variant&quot;:&quot;info&quot;,&quot;url&quot;:&quot;https://webmaster.yandex.ru/siteinfo/?site=m3u.su&quot;},{&quot;variant&quot;:&quot;reportFeedback&quot;,&quot;reportFeedback&quot;:{&quot;feature&quot;:&quot;Органика&quot;,&quot;customMetaFields&quot;:[{&quot;name&quot;:&quot;url-complaint&quot;,&quot;value&quot;:&quot;https://m3u.su/&quot;},{&quot;name&quot;:&quot;docId&quot;,&quot;value&quot;:&quot;8&quot;}],&quot;title&quot;:&quot;Что
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/yandex.ru/search/?text=tvrain.tv%20playlist.m3u8&lr=213
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/yandexwebcache.net/yandbtm?fmode=inject&tm=1784428813&tld=ru&lang=ru&la=1784032128&text=tvrain.tv+playlist.m3u8&url=https%3A//sat-portal.com/plejlisty/4107-besplatnyi-plejlisty-dlya-iptv-m3u-m3u8-2026-g&l10n=ru&mime=html&sign=500a676a1fd2ac899cbc031dafffdc56&keyno=0&quot;},{&quot;variant&quot;:&quot;more&quot;,&quot;url&quot;:&quot;/search/?text=site%3Asat-portal.com%20tvrain.tv%20playlist.m3u8&lr=213&noreask=1&quot;,&quot;target&quot;:&quot;_self&quot;},{&quot;variant&quot;:&quot;info&quot;,&quot;url&quot;:&quot;https://webmaster.yandex.ru/siteinfo/?site=sat-portal.com&quot;},{&quot;variant&quot;:&quot;reportFeedback&quot;,&quot;reportFeedback&quot;:{&quot;feature&quot;:&quot;Органика&quot;,&quot;customMetaFields&quot;:[{&quot;name&quot;:&quot;url-complaint&quot;,&quot;value&quot;:&quot;https://sat-portal.com/plejlisty/4107-besplatnyi-plejlisty-dlya-iptv-m3u-m3u8-2026-g&quot;},{&quot;name&quot;:&quot;docId&quot;,&quot;value&quot;:&quot;6&quot;}],&quot;title&quot;:&quot;Что
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/yandexwebcache.net/yandbtm?fmode=inject&tm=1784428813&tld=ru&lang=ru&la=1783425152&text=tvrain.tv+playlist.m3u8&url=https%3A//iptvm3u8world.blogspot.com/2021/05/russia-iptv-m3u-playlist-update-052021.html&l10n=ru&mime=html&sign=a25bac7ebe32bc182293fda9893a2ecc&keyno=0&quot;},{&quot;variant&quot;:&quot;more&quot;,&quot;url&quot;:&quot;/search/?text=site%3Aiptvm3u8world.blogspot.com%20tvrain.tv%20playlist.m3u8&lr=213&noreask=1&quot;,&quot;target&quot;:&quot;_self&quot;},{&quot;variant&quot;:&quot;info&quot;,&quot;url&quot;:&quot;https://webmaster.yandex.ru/siteinfo/?site=iptvm3u8world.blogspot.com&quot;},{&quot;variant&quot;:&quot;reportFeedback&quot;,&quot;reportFeedback&quot;:{&quot;feature&quot;:&quot;Органика&quot;,&quot;customMetaFields&quot;:[{&quot;name&quot;:&quot;url-complaint&quot;,&quot;value&quot;:&quot;https://iptvm3u8world.blogspot.com/2021/05/russia-iptv-m3u-playlist-update-052021.html&quot;},{&quot;name&quot;:&quot;docId&quot;,&quot;value&quot;:&quot;13&quot;}],&quot;title&quot;:&quot;Что
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/yandexwebcache.net/yandbtm?fmode=inject&tm=1784428813&tld=ru&lang=ru&la=1783709952&text=tvrain.tv+playlist.m3u8&url=https%3A//forum.hdtv.ru/index.php%3Fshowtopic%3D16744&l10n=ru&mime=html&sign=dcb6276047866eea96e092f589cf3fc8&keyno=0&quot;},{&quot;variant&quot;:&quot;more&quot;,&quot;url&quot;:&quot;/search/?text=site%3Aforum.hdtv.ru%20tvrain.tv%20playlist.m3u8&lr=213&noreask=1&quot;,&quot;target&quot;:&quot;_self&quot;},{&quot;variant&quot;:&quot;info&quot;,&quot;url&quot;:&quot;https://webmaster.yandex.ru/siteinfo/?site=forum.hdtv.ru&quot;},{&quot;variant&quot;:&quot;reportFeedback&quot;,&quot;reportFeedback&quot;:{&quot;feature&quot;:&quot;Органика&quot;,&quot;customMetaFields&quot;:[{&quot;name&quot;:&quot;url-complaint&quot;,&quot;value&quot;:&quot;https://forum.hdtv.ru/index.php?showtopic=16744&quot;},{&quot;name&quot;:&quot;docId&quot;,&quot;value&quot;:&quot;11&quot;}],&quot;title&quot;:&quot;Что
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/yandexwebcache.net/yandbtm?fmode=inject&tm=1784428813&tld=ru&lang=ru&la=1784397824&text=tvrain.tv+playlist.m3u8&url=https%3A//iptv.org.ua/samoobnovlyaemyy-full-playlist-iptv.html&l10n=ru&mime=html&sign=992b0b87b11a310d0432758bd9b6ab22&keyno=0&quot;},{&quot;variant&quot;:&quot;more&quot;,&quot;url&quot;:&quot;/search/?text=site%3Aiptv.org.ua%20tvrain.tv%20playlist.m3u8&lr=213&noreask=1&quot;,&quot;target&quot;:&quot;_self&quot;},{&quot;variant&quot;:&quot;info&quot;,&quot;url&quot;:&quot;https://webmaster.yandex.ru/siteinfo/?site=iptv.org.ua&quot;},{&quot;variant&quot;:&quot;reportFeedback&quot;,&quot;reportFeedback&quot;:{&quot;feature&quot;:&quot;Органика&quot;,&quot;customMetaFields&quot;:[{&quot;name&quot;:&quot;url-complaint&quot;,&quot;value&quot;:&quot;https://iptv.org.ua/samoobnovlyaemyy-full-playlist-iptv.html&quot;},{&quot;name&quot;:&quot;docId&quot;,&quot;value&quot;:&quot;5&quot;}],&quot;title&quot;:&quot;Что
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/yandexwebcache.net/yandbtm?fmode=inject&tm=1784428813&tld=ru&lang=ru&la=1784015104&text=tvrain.tv+playlist.m3u8&url=https%3A//tva.in.ua/samoobnovlyaemyy-polnyy-full-playlist-iptv.html&l10n=ru&mime=html&sign=93653a9ddc31824b602dea631d0576d2&keyno=0&quot;},{&quot;variant&quot;:&quot;more&quot;,&quot;url&quot;:&quot;/search/?text=site%3Atva.in.ua%20tvrain.tv%20playlist.m3u8&lr=213&noreask=1&quot;,&quot;target&quot;:&quot;_self&quot;},{&quot;variant&quot;:&quot;info&quot;,&quot;url&quot;:&quot;https://webmaster.yandex.ru/siteinfo/?site=tva.in.ua&quot;},{&quot;variant&quot;:&quot;reportFeedback&quot;,&quot;reportFeedback&quot;:{&quot;feature&quot;:&quot;Органика&quot;,&quot;customMetaFields&quot;:[{&quot;name&quot;:&quot;url-complaint&quot;,&quot;value&quot;:&quot;https://tva.in.ua/samoobnovlyaemyy-polnyy-full-playlist-iptv.html&quot;},{&quot;name&quot;:&quot;docId&quot;,&quot;value&quot;:&quot;9&quot;}],&quot;title&quot;:&quot;Что
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/yandexwebcache.net/yandbtm?fmode=inject&tm=1784428813&tld=ru&lang=ru&la=1783684864&text=tvrain.tv+playlist.m3u8&url=http%3A//forum.ru-board.com/topic.cgi%3Fforum%3D1%26topic%3D9766%26start%3D240&l10n=ru&mime=html&sign=99fdc316fb132c865ec84d487db687ac&keyno=0&quot;},{&quot;variant&quot;:&quot;more&quot;,&quot;url&quot;:&quot;/search/?text=site%3Aforum.ru-board.com%20tvrain.tv%20playlist.m3u8&lr=213&noreask=1&quot;,&quot;target&quot;:&quot;_self&quot;},{&quot;variant&quot;:&quot;info&quot;,&quot;url&quot;:&quot;https://webmaster.yandex.ru/siteinfo/?site=forum.ru-board.com&quot;},{&quot;variant&quot;:&quot;reportFeedback&quot;,&quot;reportFeedback&quot;:{&quot;feature&quot;:&quot;Органика&quot;,&quot;customMetaFields&quot;:[{&quot;name&quot;:&quot;url-complaint&quot;,&quot;value&quot;:&quot;http://forum.ru-board.com/topic.cgi?forum=1&topic=9766&start=240&quot;},{&quot;name&quot;:&quot;docId&quot;,&quot;value&quot;:&quot;7&quot;}],&quot;title&quot;:&quot;Что
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://yandexwebcache.net/yandbtm?fmode=inject&tm=1784428813&tld=ru&lang=ru&la=1783389952&text=tvrain.tv+playlist.m3u8&url=https%3A//github.com/OinktechLLC/livem3u&l10n=ru&mime=html&sign=f3f833ae4013fb5780d7dc3911664488&keyno=0&quot;},{&quot;variant&quot;:&quot;more&quot;,&quot;url&quot;:&quot;/search/?text=site%3Agithub.com%20tvrain.tv%20playlist.m3u8&lr=213&noreask=1&quot;,&quot;target&quot;:&quot;_self&quot;},{&quot;variant&quot;:&quot;info&quot;,&quot;url&quot;:&quot;https://webmaster.yandex.ru/siteinfo/?site=github.com&quot;},{&quot;variant&quot;:&quot;reportFeedback&quot;,&quot;reportFeedback&quot;:{&quot;feature&quot;:&quot;Органика&quot;,&quot;customMetaFields&quot;:[{&quot;name&quot;:&quot;url-complaint&quot;,&quot;value&quot;:&quot;https://github.com/OinktechLLC/livem3u&quot;},{&quot;name&quot;:&quot;docId&quot;,&quot;value&quot;:&quot;0&quot;}],&quot;title&quot;:&quot;Что
+
+#EXTINF:-1 tvg-name="INWILD" group-title="IPTV",INWILD
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-name="XITE Rock x Metal" group-title="IPTV",XITE Rock x Metal
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/amg01243-xite-amg01243c21-tcl-us-6483.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="InTrouble" group-title="IPTV",InTrouble
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Omroep Tilburg" group-title="IPTV",Omroep Tilburg
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AT5" group-title="IPTV",AT5
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/takeoff.jetstre.am/?account=atvijf&amp;file=live&amp;output=playlist.m3u8&amp;protocol=https&amp;service=wowza&amp;type=live
+
+#EXTINF:-1 tvg-name="Podium.TV" group-title="IPTV",Podium.TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rrr.sz.xlcdn.com/?account=ndc_mediagroep&amp;file=NDC1&amp;output=playlist.m3u8&amp;service=wowza&amp;type=live
+
+#EXTINF:-1 tvg-name="Tweede Kamer: Suze Groenewegzaal" group-title="IPTV",Tweede Kamer: Suze Groenewegzaal
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/livestreaming.b67buv2.tweedekamer.nl/live/suzegroenewegzaal/index.m3u8?hd=1&amp;keyframes=1&amp;subtitles=live
+
+#EXTINF:-1 tvg-name="Tweede Kamer: Thorbeckezaal" group-title="IPTV",Tweede Kamer: Thorbeckezaal
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/livestreaming.b67buv2.tweedekamer.nl/live/thorbeckezaal/index.m3u8?hd=1&amp;keyframes=1&amp;subtitles=live
+
+#EXTINF:-1 tvg-name="Tweede Kamer: Troelstrazaal" group-title="IPTV",Tweede Kamer: Troelstrazaal
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&amp;keyframes=1&amp;subtitles=live
+
+#EXTINF:-1 tvg-name="WEEFF TV" group-title="IPTV",WEEFF TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/takeoff.jetstre.am/?account=weeff&amp;file=weeffradio&amp;output=playlist.m3u8&amp;protocol=https&amp;service=wowza&amp;type=live
+
+#EXTINF:-1 tvg-name="TV Ellef" group-title="IPTV",TV Ellef
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/61ae39677a1ab.streamlock.net/tvellef/tvellef/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tweede Kamer: Actualiteitenkanaal" group-title="IPTV",Tweede Kamer: Actualiteitenkanaal
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/livestreaming.b67buv2.tweedekamer.nl/live/evenementenkanaal/index.m3u8?hd=1&amp;keyframes=1&amp;subtitles=live
+
+#EXTINF:-1 tvg-name="Tweede Kamer: Aletta Jacobszaal" group-title="IPTV",Tweede Kamer: Aletta Jacobszaal
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/livestreaming.b67buv2.tweedekamer.nl/live/alettajacobszaal/index.m3u8?hd=1&amp;keyframes=1&amp;subtitles=live
+
+#EXTINF:-1 tvg-name="STAR Channel" group-title="IPTV",STAR Channel
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/86.87.15.10:8003/play/a024/index.m3u8
+
+#EXTINF:-1 tvg-name="Tweede Kamer: Enquetezaal" group-title="IPTV",Tweede Kamer: Enquetezaal
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/livestreaming.b67buv2.tweedekamer.nl/live/enquetezaal/index.m3u8?hd=1&amp;keyframes=1&amp;subtitles=live
+
+#EXTINF:-1 tvg-name="Tweede Kamer: Groen van Prinstererzaal" group-title="IPTV",Tweede Kamer: Groen van Prinstererzaal
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/livestreaming.b67buv2.tweedekamer.nl/live/groenvanprinstererzaal/index.m3u8?hd=1&amp;keyframes=1&amp;subtitles=live
+
+#EXTINF:-1 tvg-name="Assen TV" group-title="IPTV",Assen TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/takeoff.jetstre.am/?account=OmroepAssen&amp;file=OmroepAssenTV/playlist.m3u8&amp;output=playlist.m3u8&amp;protocol=https&amp;service=webdav&amp;type=live
+
+#EXTINF:-1 tvg-name="Tweede Kamer: Klompezaal" group-title="IPTV",Tweede Kamer: Klompezaal
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/livestreaming.b67buv2.tweedekamer.nl/live/klompezaal/index.m3u8?hd=1&amp;keyframes=1&amp;subtitles=live
+
+#EXTINF:-1 tvg-name="NH" group-title="IPTV",NH
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/takeoff.jetstre.am/?account=nhnieuws&amp;file=live&amp;output=playlist.m3u8&amp;protocol=https&amp;service=wowza&amp;type=live
+
+#EXTINF:-1 tvg-name="Tweede Kamer: Max van der Stoelzaal" group-title="IPTV",Tweede Kamer: Max van der Stoelzaal
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/livestreaming.b67buv2.tweedekamer.nl/live/maxvanderstoelzaal/index.m3u8?hd=1&amp;keyframes=1&amp;subtitles=live
+
+#EXTINF:-1 tvg-name="Tweede Kamer: Plenaire zaal" group-title="IPTV",Tweede Kamer: Plenaire zaal
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/livestreaming.b67buv2.tweedekamer.nl/live/plenairezaal/index.m3u8?hd=1&amp;keyframes=1&amp;subtitles=live
+
+#EXTINF:-1 tvg-name="Tweede Kamer: Wttewaall van Stoetwegenzaal" group-title="IPTV",Tweede Kamer: Wttewaall van Stoetwegenzaal
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&amp;keyframes=1&amp;subtitles=live
+
+#EXTINF:-1 tvg-name="XITE" group-title="IPTV",XITE
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Podium.TV 2" group-title="IPTV",Podium.TV 2
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rrr.sz.xlcdn.com/?account=ndc_mediagroep&amp;file=NDC2&amp;output=playlist.m3u8&amp;service=wowza&amp;type=live
+
+#EXTINF:-1 tvg-name="Podium.TV 3" group-title="IPTV",Podium.TV 3
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rrr.sz.xlcdn.com/?account=ndc_mediagroep&amp;file=NDC3&amp;output=playlist.m3u8&amp;service=wowza&amp;type=live
+
+#EXTINF:-1 tvg-name="DTV Den Bosch" group-title="IPTV",DTV Den Bosch
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rrr.sz.xlcdn.com/?account=dtvmaasland&amp;file=dtv2&amp;output=playlist.m3u8&amp;protocol=https&amp;service=wowza&amp;type=live
+
+#EXTINF:-1 tvg-name="DTV Maashorst" group-title="IPTV",DTV Maashorst
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rrr.sz.xlcdn.com/?account=dtvmaasland&amp;file=dtv3&amp;output=playlist.m3u8&amp;protocol=https&amp;service=wowza&amp;type=live
+
+#EXTINF:-1 tvg-name="DTV Oss &amp; Bernheze" group-title="IPTV",DTV Oss &amp; Bernheze
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rrr.sz.xlcdn.com/?account=dtvmaasland&amp;file=dtv1&amp;output=playlist.m3u8&amp;protocol=https&amp;service=wowza&amp;type=live
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8</p><script data-noptimize="" data-wpfc-render="false">
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-mirror-01.ott.tricolor.tv/live/live/1TV_hd/hls_enc/1TV_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-mirror-01.ott.tricolor.tv/live/live/Rossia_1_0_hd/hls_enc/Rossia_1_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/edge52.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w499524774_b5160000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDI0IDEwOjA0OjA4IEFNJmhhc2hfdmFsdWU9SDJKZTBvbkthK0M0RG14b3JWdkNzZz09JnZhbGlkbWludXRlcz0xMjA%3D</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-15.ott.tricolor.tv/dtv/id923_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.23.80.28:8080/Rezonans/index.m3u8?token=test</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-3.otcnet.ru/congresstv/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-stream-22.ott.tricolor.tv/live/live/NTV_0_hd/hls_enc/NTV_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-14.ott.tricolor.tv/dtv/id938_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-15.ott.tricolor.tv/dtv/id940_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming.goodstream.cyou/live/213.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-07.ott.tricolor.tv/dtv/id896_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rusbrics.mediacdn.ru/cdn/brics/russian/chunklist.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-stream-09.ott.tricolor.tv/live/live/REN-TV_0_hd/hls_enc/REN-TV_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.159.74.14:80/RenTv/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-stream-19.ott.tricolor.tv/live/live/Mir_HD/hls_enc/Mir_HD.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-mirror-01.ott.tricolor.tv/live/live/TV_Center_HD/hls_enc/TV_Center_HD.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-stream-09.ott.tricolor.tv/live/live/5_kanal/hls_enc/5_kanal-avc1_2000000=10002_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=domashny.m3u8&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=rossia_k.m3u8&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-stream-06.ott.tricolor.tv/live/live/zvezda_hd/hls_enc/zvezda_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-11.ott.tricolor.tv/dtv/id699_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live1.trkcrimea.ru/1tvcrimea.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-05.ott.tricolor.tv/dtv/id656_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=otr.m3u8&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-07.ott.tricolor.tv/dtv/id191_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/online.video.rbc.ru/online/rbctv_1080p/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/playlist.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/93.189.224.246:52900/play/a009/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/46.17.41.254:2020/channel/n75e0f82c/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-17.ott.tricolor.tv/dtv/id979_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dumatv.iptv2022.com/tracks-v1a1/mono.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/176.107.219.20:9000/play/a003/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.admuspeh.my/8084/index.m3u8?token=iptvshared</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/m3u8.ott.blue/watch/92/video.m3u8?geo=auto&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-10.ott.tricolor.tv/dtv/id357_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-04.ott.tricolor.tv/dtv/id289_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-01.bonus-tv.ru/RussiaToday/tracks-v1a1/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-13.ott.tricolor.tv/dtv/id658_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-14.ott.tricolor.tv/dtv/id657_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-13.ott.tricolor.tv/dtv/id254_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-stream-13.ott.tricolor.tv/live/live/rossia_24/hls_enc/rossia_24.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live24.trkcrimea.ru/24tvcrimea.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/sevas.1tvcrimea.ru/legendarniy24.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-17.ott.tricolor.tv/dtv/id947_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.movielab.pro/4111/video.m3u8?token=cad1711bf75287fc674173a923413212ee74cb25-bbf6dd802b2f7b83f9c83c2d610d3f0a-1739347760-1739261360</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream01.vnet.am/Fightbox/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/martial_arts_4k.stream4k.ru/martial_arts_4k/video.m3u8?token=PETWQvXOn7uIh3</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream01.vnet.am/BoksTv/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-10.ott.tricolor.tv/dtv/id524_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-03.ott.tricolor.tv/dtv/id629_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-09.ott.tricolor.tv/dtv/id628_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-04.ott.tricolor.tv/dtv/id633_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream01.vnet.am/Channel_131/mono.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.movielab.pro/145/video.m3u8?token=8be44d561b71edfbb942b8ca827eb8535a8ee9ba-74bc8b80e51a33c7a38ed3f48d964f89-1739347760-1739261360</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/194.26.229.213:3080/channel/10ccfa1/index.m3u8?q=963f66a62081211920e45aea3294bb9f</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ost.ru-tv.site/zdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA0LjM1Ojg4ODcvODAxNC90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoiN2Y2NmM0MzciLCJwIjoiN2Y2NmM0MzczODJkMDM0YyIsImMiOiIxNCIsInQiOiI2NDg0NjNkMzdjNWQ0ZThlODIyNTcyMDhlNmI0NzE5YyIsImQiOiIzMTEyNjUiLCJyIjoiMzE2ODU2IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuODEvODAxNC9pbmRleC5tM3U4P3Rva2VuPVt/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.admuspeh.my/8014/index.m3u8?token=iptvshared</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/iptv-hls.idc.md:8200/hls/260/live1.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-11.ott.tricolor.tv/dtv/id625_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-15.ott.tricolor.tv/dtv/id902_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-05.ott.tricolor.tv/dtv/id686_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-06.ott.tricolor.tv/dtv/id294_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/edge3.1internet.tv/dash-live2/streams/sport-1/sport-1.mpd</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.23.80.28:8080/MATCH!_HD/index.m3u8?token=test</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-mirror-01.ott.tricolor.tv/live/live/match/hls_enc/match-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.movielab.pro/146/video.m3u8?token=6aae9f481c37fb27480f8b8da771c3ee776e72c6-4b3a885e6de1bec0429a8cf85eedbfcd-1739347760-1739261360</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/api.peers.tv/timeshift/boets/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzkzNTM1ODAsImlhdCI6MTczOTI2NzE4MCwiY2lkIjo2LCJ1aWQiOjg5MzAwMzA1NiwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.suiNMvsRy92ATMswD4i6ISJ_h8jmrBh8BY0iJRxFzLk&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.admuspeh.my/8027/index.m3u8?token=iiptvshared</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/flu.ttk.mx:90/Strana/mono.m3u8?token=hs06e</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream02.vnet.am/MatchPlaneta/playlist.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.admuspeh.my/8023/index.m3u8?token=iptvshared</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.movielab.pro/250/video.m3u8?token=0f7298e3508fa36ef162251bc32d8d1cc59fb898-0682f98d5e1ca061db099f01fcbc6f71-1739347760-1739261360</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.admuspeh.my/8021/index.m3u8?token=iptvshared</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.movielab.pro/260/video.m3u8?token=e9dc6268d81672a0807e7d6aa08389626e4dcaea-de16fd403a5f572fca8ee18d83022c23-1739347760-1739261360</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/141.95.55.143/CH3839/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.movielab.pro/271/video.m3u8?token=8cd9dd07ce417bc4f4effbfbe63683200cff12c0-ff98670eca87fd67fd849be520fedd0f-1739347760-1739261360</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.movielab.pro/329/video.m3u8?token=258379867f38be584ebc15b5b5f749082da4dd48-59439d17c58bd754f300f5f96274b5e4-1739347760-1739261360</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.admuspeh.my/8565/index.m3u8?token=iptvshared</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.movielab.pro/942/video.m3u8?token=9a5c4d7b4026225c399c1ca674373ea9a2283de7-dd25674d13c13f6c6ed8e2c3ac3faa29-1739347760-1739261360</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.admuspeh.my/8676/index.m3u8?token=iptvshared</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.movielab.pro/943/video.m3u8?token=617b50ec63c276c31df55b4806cc8155154f9d45-65fdd1d6f5844c43bd866f97d5069bfc-1739347760-1739261360</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.movielab.pro/5094/video.m3u8?token=3b3a1f8cff1927ecc1732424ef14d1c25c8ed258-e698e8f44bbc5ad7c7549cfb9127f7b4-1739347760-1739261360</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.50.148.2:7703/ViasatSport/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-08.ott.tricolor.tv:443/dtv/id734_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.23.80.28:8080/Football/index.m3u8?token=test</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.movielab.pro/9984/video.m3u8?token=8e50b2ac7cf9208e59ea128c2d5c3c2ceeea0116-18bc75164685cfcb391d6093f6dfb22b-1739347760-1739261360</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/178.57.121.38:8080/khl/index.m3u8?token=test</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/178.124.179.122:8088/KHL_HD/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-09.ott.tricolor.tv/dtv/id700_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/nhl-firetv.amagi.tv/playlist.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-06.ott.tricolor.tv/dtv/id733_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-10.ott.tricolor.tv/dtv/id621_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-03.ott.tricolor.tv/dtv/id632_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-16.ott.tricolor.tv/dtv/id989_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-01.bonus-tv.ru/kmir/mono.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/chunklist_w601692199_b2660000_sleng.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.a21network.ru/content/37909/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/digicom.hls.iptvdc.com/canalmotor/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d3rl6ns7c3ilda.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-AdventureSportsTV/438.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tennischannel-int-samsunguk.amagi.tv/playlist.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/unbeaten-tcl.amagi.tv/playlist.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.admuspeh.my/8828/index.m3u8?token=4gPHp5ZVYqDAR4oz</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vs1758.vcdn.biz/2a89fb5c1ea0e32fc03ff26e7c46fc8f_megogo/live/hls/b/4000/u_sid/0/o/140085841/rsid/73723949-6c32-43e3-aa6a-80c33e100322/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/84.54.73.172*asn/u_srvc/83576/u_did/web_U9ij9aVdY2r1FMHFZmJd2CoxXvGlCGgX/type.live/chunklist-sid230322689978648235-b4000000-a72531.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/88.212.7.10/live/test_rtvs_sport_hevc/playlist.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/146.59.85.40:89/novasport2/mono.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/146.59.85.40:89/novasport3/mono.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/146.59.85.40:89/novasport4/mono.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.admuspeh.my/8917/index.m3u8?token=iptvshared</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.admuspeh.my/8674/index.m3u8?token=iptvshared</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.admuspeh.my/8688/index.m3u8?token=iptvshared</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.admuspeh.my/8687/index.m3u8?token=iptvshared</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.admuspeh.my/8918/index.m3u8?token=iptvshared</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/bein-esp-xumo.amagi.tv/playlistR1080p.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-nvm-chicago3.lolokoko.tv/NickMusic.stream/chunks.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-nvm-chicago3.lolokoko.tv/polsatsportextra.stream/chunks.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-nvm-chicago3.lolokoko.tv/polsatsportp1.stream/chunks.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-nvm-chicago3.lolokoko.tv/polsatsportp2.stream/chunks.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-14.ott.tricolor.tv/dtv/id794_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-07.ott.tricolor.tv/dtv/id732_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-05.ott.tricolor.tv/dtv/id728_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-07.ott.tricolor.tv/dtv/id834_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-03.ott.tricolor.tv/dtv/id730_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-08.ott.tricolor.tv/dtv/id740_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-09.ott.tricolor.tv/dtv/id741_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-04.ott.tricolor.tv/dtv/id747_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-08.ott.tricolor.tv/dtv/id749_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-04.ott.tricolor.tv/dtv/id797_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-11.ott.tricolor.tv/dtv/id798_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-05.ott.tricolor.tv/dtv/id799_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-10.ott.tricolor.tv/dtv/id800_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-08.ott.tricolor.tv/dtv/id817_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-10.ott.tricolor.tv/dtv/id804_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-13.ott.tricolor.tv/dtv/id806_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-03.ott.tricolor.tv/dtv/id807_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-12.ott.tricolor.tv/dtv/id808_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-07.ott.tricolor.tv/dtv/id809_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-08.ott.tricolor.tv/dtv/id810_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-05.ott.tricolor.tv/dtv/id814_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-13.ott.tricolor.tv/dtv/id812_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-09.ott.tricolor.tv/dtv/id813_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-09.ott.tricolor.tv:443/dtv/id813_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-13.ott.tricolor.tv:443/dtv/id881_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-14.ott.tricolor.tv:443/dtv/id875_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-01.ott.tricolor.tv:443/dtv/id876_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-09.ott.tricolor.tv:443/dtv/id877_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-11.ott.tricolor.tv:443/dtv/id878_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-18.ott.tricolor.tv/dtv/id1026_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-stream-10.ott.tricolor.tv/live/live/Friday_0_hd/hls_enc/Friday_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-stream-12.ott.tricolor.tv/live/live/STS_0_hd/hls_enc/STS_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-stream-20.ott.tricolor.tv/live/live/tnt_hd/hls_enc/tnt_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-06.ott.tricolor.tv/dtv/id588_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-08.ott.tricolor.tv/dtv/id282_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-mirror-06.ott.tricolor.tv/live/live/tv3_hd/hls_enc/tv3_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTc4OTgxMiwiaHdpZCI6ImZhNjY0OGMwMDM0NzQ4YTZiZGIwNGVjZmRmMTEwZTQzYTk2YWNjZjk4ZmM0NjQzNDk1OGZjMmYwM2ZkMzlhYTIiLCJsYXN0X3JlcV9kYXRlIjoxNzM5MTg1MDEyLCJzZXNzaW9uX2lkIjoiN2JmMDA5MTBiODk2MGIxMTViODJmZGYyZDNmMzg2OWUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RP3RwzFcaklYUSNZQyIiP113eBmbjan-W7sALADc_e8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/93.189.224.246:52900/play/a00f/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-09.ott.tricolor.tv/dtv/id247_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/93.189.224.246:52900/play/a003/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-20.ott.tricolor.tv/dtv/id1028_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-20.ott.tricolor.tv/dtv/id1020_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/217.79.179.127:8081/RuOIYxwHD7sQiL2MnAnBaWaJsoF2Q4f9m0D43wVo2Wso/live/tvrus/stream0.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/87.99.87.203:2020/channel/5aedb841/index.m3u8?q=c155fd146caa671acca6c6873fe5c176</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/flu.ttk.mx:90/Teatr/mono.m3u8?token=hs06e</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-11.ott.tricolor.tv/dtv/id655_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvoetv.space:8080/tvoetv_humor/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/87.99.87.203:2020/channel/n4b42cb77/index.m3u8?q=c155fd146caa671acca6c6873fe5c176</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vm4984530.52ssd.had.wf/memfs/c31f67cb-ba7a-44e7-bffa-828c3a205f80.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.23.80.28:8080/RodnoyKanal/index.m3u8?token=test</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn3.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-06.ott.tricolor.tv:443/dtv/id697_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream01.vnet.am/Filmzone/tracks-v1a1/mono.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-08.ott.tricolor.tv/dtv/id862_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream01.vnet.am/Bober/mono.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-09.ott.tricolor.tv/dtv/id484_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/api.alpaca.t62a.com/hls/9110/stream0.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-10.ott.tricolor.tv/dtv/id380_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-04.ott.tricolor.tv/dtv/id170_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/213.226.137.140:81/tl/l65/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.50.148.2:7703/Motorsport/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-06.ott.tricolor.tv/dtv/id358_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-12.ott.tricolor.tv/dtv/id258_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/195.18.23.20:8000/play/10/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-11.ott.tricolor.tv/dtv/id670_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/moymir.ru/hls/onair.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/v4.proofix.ru/vitrina-live/tracks-v1a1/mono.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/shoppinglive.mediacdn.ru/cdn/shopping/playlist_sdhigh.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/s1.tv-nano.com/Magnat_HD_5119705/video.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.50.148.2:7703/ViasatHistory/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/api.peers.tv/timeshift/viasat_history/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzkzNTM1ODAsImlhdCI6MTczOTI2NzE4MCwiY2lkIjo2LCJ1aWQiOjg5MzAwMzA1NiwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.suiNMvsRy92ATMswD4i6ISJ_h8jmrBh8BY0iJRxFzLk&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.50.148.2:7703/ViasatNature/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/api.peers.tv/timeshift/viasat_nature/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzkzNTM1ODAsImlhdCI6MTczOTI2NzE4MCwiY2lkIjo2LCJ1aWQiOjg5MzAwMzA1NiwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.suiNMvsRy92ATMswD4i6ISJ_h8jmrBh8BY0iJRxFzLk&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.50.148.2:7703/ViasatExplorer/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/api.peers.tv/timeshift/viasat_explorer/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzkzNTM1ODAsImlhdCI6MTczOTI2NzE4MCwiY2lkIjo2LCJ1aWQiOjg5MzAwMzA1NiwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.suiNMvsRy92ATMswD4i6ISJ_h8jmrBh8BY0iJRxFzLk&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.23.80.28:8080/Tayna/index.m3u8?token=test</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-09.ott.tricolor.tv/dtv/id872_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.23.80.28:8080/Galaxy/index.m3u8?token=test</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/api.peers.tv/timeshift/galaxy_tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzkzNTM1ODAsImlhdCI6MTczOTI2NzE4MCwiY2lkIjo2LCJ1aWQiOjg5MzAwMzA1NiwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.suiNMvsRy92ATMswD4i6ISJ_h8jmrBh8BY0iJRxFzLk&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.sunset-media.ru:443/AfBrazXsUK/J9hGT3vYuv/3.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.159.74.14:80/NatGeoWild/tracks-v1a1/mono.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.movielab.pro/162/video.m3u8?token=b86291068c148d57a0cc876f5d416bf20a43ee03-665c3917b50b8d3706baaec3b4912273-1739347760-1739261360</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.159.74.14:80/NationalGeographic/tracks-v1a1/mono.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.movielab.pro/143/video.m3u8?token=ae54d14cf7a851a4b13f0922999be5e7305ba3a6-bda4dce3a05d57804eac03a8da38b7cd-1739347760-1739261360</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.159.74.14:80/DiscoveryChannel/tracks-v1a2/mono.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.movielab.pro/147/video.m3u8?token=82b4bbe3a369878a238a6901d1c0e50e63350504-49cd97228ba5d5de6a1aa42593b11058-1739347760-1739261360</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.159.74.14/InvestigationDiscovery/tracks-v1a2/mono.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.admuspeh.my/8686/video.m3u8?token=iptvshared</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.admuspeh.my/8355/index.m3u8?token=iptvshared</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ost.ru-tv.site/zdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA0LjM2Ojg4ODcvODM1NS90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoiN2Y2NmM0MzciLCJwIjoiN2Y2NmM0MzczODJkMDM0YyIsImMiOiIyNzQiLCJ0IjoiNjQ4NDYzZDM3YzVkNGU4ZTgyMjU3MjA4ZTZiNDcxOWMiLCJkIjoiMzExMjY1IiwiciI6IjMxNjg1NiIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuODEvODM1NS9pbmRleC5tM3U4P3Rva2VuPVt/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/65.21.85.175:8000/play/a01s/index.m3u8?token=livetv</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.admuspeh.my/8356/index.m3u8?token=iptvshared</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream01.vnet.am/Channel_123/mono.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.184.197.124/museum_hd/mono.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.184.197.124/home_hd/mono.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.admuspeh.my/8681/video.m3u8?token=iptvshared</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/api.peers.tv/timeshift/the_explorers/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzkzNTM1ODAsImlhdCI6MTczOTI2NzE4MCwiY2lkIjo2LCJ1aWQiOjg5MzAwMzA1NiwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.suiNMvsRy92ATMswD4i6ISJ_h8jmrBh8BY0iJRxFzLk&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/api.peers.tv/timeshift/docubox_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzkzNTM1ODAsImlhdCI6MTczOTI2NzE4MCwiY2lkIjo2LCJ1aWQiOjg5MzAwMzA1NiwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.suiNMvsRy92ATMswD4i6ISJ_h8jmrBh8BY0iJRxFzLk&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/flu.ttk.mx:90/Voprosy_i_otvety/mono.m3u8?token=hs06e</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/iptv-hls.idc.md:8200/hls/2/live1.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/api.peers.tv/timeshift/mir_uvlecheniy/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzkzNTM1ODAsImlhdCI6MTczOTI2NzE4MCwiY2lkIjo2LCJ1aWQiOjg5MzAwMzA1NiwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.suiNMvsRy92ATMswD4i6ISJ_h8jmrBh8BY0iJRxFzLk&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-mirror-18.ott.tricolor.tv/dtv/id990_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-05.ott.tricolor.tv:443/dtv/id367_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn3.skygo.mn/live/disk1/Poehali/HLS-FTA/Poehali.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream01.vnet.am/TLC/mono.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.admuspeh.my/8060/index.m3u8?token=iptvshared</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-10.ott.tricolor.tv:443/dtv/id162_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-10.ott.tricolor.tv/dtv/id471_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-07.ott.tricolor.tv/dtv/id680_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-07.ott.tricolor.tv/dtv/id616_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-05.ott.tricolor.tv/dtv/id630_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/amg01492-secomsasmediart-myzen-fr-rakuten-spvgz.amagi.tv/hls/amagi_hls_data_rakutenAA-myzen-fr-rakuten/CDN/master.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-06.ott.tricolor.tv/dtv/id836_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/194.158.218.123:8880/ZdorovoeTV/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-04.ott.tricolor.tv/dtv/id158_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.23.80.28:8080/Draiv/index.m3u8?token=test</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.23.80.28:8080/AVTO24/index.m3u8?token=test</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-03.ott.tricolor.tv/dtv/id283_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.streams.baikal-telecom.net:8080/Moya_Planeta/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-04.ott.tricolor.tv/dtv/id623_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-16.ott.tricolor.tv/dtv/id930_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-14.ott.tricolor.tv/dtv/id941_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/mono.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-03.ott.tricolor.tv/dtv/id159_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-13.ott.tricolor.tv/dtv/id671_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.50.148.2:7703/PSIHOLOGIYA21/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-04.ott.tricolor.tv/dtv/id155_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-06.ott.tricolor.tv:443/dtv/id615_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.23.80.28:8080/ZhivayaPriroda_HD/index.m3u8?token=test</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/flu.ttk.mx:90/Psihologiya21/mono.m3u8?token=hs06e</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/213.226.137.140:81/tl/l13/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.50.148.2:7703/BigPlanet/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.210.208.171:8080/ktoestkto/index.m3u8?token=+W2MSER</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-03.ott.tricolor.tv/dtv/id698_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.streams.baikal-telecom.net:8080/RTG_HD/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.admuspeh.my/8208/index.m3u8?token=iptv50na50</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/livetv.mylifeisgood.net.ru/channels/glazamiturista.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-08.ott.tricolor.tv:443/dtv/id369_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-03.ott.tricolor.tv:443/dtv/id634_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-11.ott.tricolor.tv/dtv/id654_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.23.80.28:8080/Muzhskoy/index.m3u8?token=test</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.23.80.28:8080/Dikiy/index.m3u8?token=test</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.23.80.28:8080/Dikaya_Ohota/index.m3u8?token=test</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.23.80.28:8080/Dikaya_Rybalka/index.m3u8?token=test</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/flu.ttk.mx:90/Ohota_i_rybalka/mono.m3u8?token=hs06e</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.admuspeh.my/8065/index.m3u8?token=iptvshared</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.23.80.28:8080/DialogiORybalke/index.m3u8?token=test</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Oh_Rbl.m3u8&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-14.ott.tricolor.tv:443/dtv/id614_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-12.ott.tricolor.tv:443/dtv/id665_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-04.ott.tricolor.tv/dtv/id590_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.23.80.28:8080/Klyuch/index.m3u8?token=test</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-04.ott.tricolor.tv/dtv/id160_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-14.ott.tricolor.tv/dtv/id926_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-04.ott.tricolor.tv:443/dtv/id154_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-mirror-19.ott.tricolor.tv/dtv/id1019_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/213.226.137.140:81/tl/l305/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/flussonic.salomtv.uz/ZooPark/video.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-05.ott.tricolor.tv:443/dtv/id267_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-04.ott.tricolor.tv/dtv/id259_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.23.80.28:8080/TochkoOtryva/index.m3u8?token=test</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-10.ott.tricolor.tv/dtv/id653_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-04.ott.tricolor.tv:443/dtv/id152_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-05.ott.tricolor.tv/dtv/id690_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.streams.baikal-telecom.net:8080/RT_DOC/tracks-v1a1/mono.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-06.ott.tricolor.tv/dtv/id936_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/retrtb.educom.ru/mosobrtv/tv2/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.23.80.28:8080/NashaSibir/index.m3u8?token=test</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/213.226.137.140:81/tl/l319/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzkzNTM1ODAsImlhdCI6MTczOTI2NzE4MCwiY2lkIjo2LCJ1aWQiOjg5MzAwMzA1NiwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.suiNMvsRy92ATMswD4i6ISJ_h8jmrBh8BY0iJRxFzLk&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.admuspeh.my/8109/index.m3u8?token=iptvshared</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzkzNTM1ODAsImlhdCI6MTczOTI2NzE4MCwiY2lkIjo2LCJ1aWQiOjg5MzAwMzA1NiwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.suiNMvsRy92ATMswD4i6ISJ_h8jmrBh8BY0iJRxFzLk&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.admuspeh.my/8108/index.m3u8?token=iptvshared</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzkzNTM1ODAsImlhdCI6MTczOTI2NzE4MCwiY2lkIjo2LCJ1aWQiOjg5MzAwMzA1NiwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.suiNMvsRy92ATMswD4i6ISJ_h8jmrBh8BY0iJRxFzLk&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/194.26.229.213:3080/channel/n4ccee02c/index.m3u8?q=963f66a62081211920e45aea3294bb9f</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzkzNTM1ODAsImlhdCI6MTczOTI2NzE4MCwiY2lkIjo2LCJ1aWQiOjg5MzAwMzA1NiwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.suiNMvsRy92ATMswD4i6ISJ_h8jmrBh8BY0iJRxFzLk&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.admuspeh.my/8682/video.m3u8?token=iptvshared</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/158.101.211.157:2020/channel/30e32928/index.m3u8?q=fbd037f5f317272809a6470ae115f9fe</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.210.208.171:8080/fenixkino/index.m3u8?token=+W2MSER</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mhd116.iptv2022.com/p/MgdzS1aXVtaAT-7ZVUaMLg,1739307609/streaming/fenixkino/324/1/tracks-v5a1/mono.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mhd116.iptv2022.com/p/4KjBajqRXzL9T4N3xl3NMg,1739307622/streaming/eh_tv/324/1/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-18.ott.tricolor.tv:443/dtv/id992_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-20.ott.tricolor.tv/dtv/id991_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/132544.edgevideo.ru/streams/132544_839765/1325441080/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.admuspeh.my/8947/index.m3u8?token=iptvshared</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.50.148.2:7703/TV1000RusKino/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/flussonic.salomtv.uz/TV1000rus/video.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.50.148.2:7703/TV1000/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.50.148.2:7703/TV1000Action/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.50.148.2:7707/A1/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.50.148.2:7707/A2/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/213.226.137.140:81/tl/l90/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream01.vnet.am/Nauka/tracks-v1a1/mono.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.50.148.2:7707/AmediaPremium/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/195.18.23.20:8000/play/3/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.50.148.2:7703/Sony_Turbo/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.47.199.45:1401/red/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.50.148.2:7703/Sony_Sci-Fi/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.50.148.2:7703/Detskiy/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/flu.ttk.mx:90/TV21/mono.m3u8?token=hs06e</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/176.126.166.43:1935/live/312kino/playlist.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/livetv.mylifeisgood.net.ru/channels/strwc.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.admuspeh.my/8398/index.m3u8?token=iptvshared</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/livetv.mylifeisgood.net.ru/channels/strvf.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.admuspeh.my/8402/index.m3u8?token=iptvshared</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.23.80.28:8080/StarCinema/index.m3u8?token=test</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.admuspeh.my/8935/index.m3u8?token=iptvshared</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.23.80.28:8080/StarFamily/index.m3u8?token=test</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.admuspeh.my/8936/index.m3u8?token=iptvshared</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/194.158.218.123:8880/Retrotv/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.23.80.28:8080/Bolt/index.m3u8?token=test</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/api.peers.tv/timeshift/bolt_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzkzNTM1ODAsImlhdCI6MTczOTI2NzE4MCwiY2lkIjo2LCJ1aWQiOjg5MzAwMzA1NiwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.suiNMvsRy92ATMswD4i6ISJ_h8jmrBh8BY0iJRxFzLk&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-20.ott.tricolor.tv/dtv/id1032_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-16.ott.tricolor.tv/dtv/id982_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-17.ott.tricolor.tv/dtv/id984_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-04.ott.tricolor.tv/dtv/id645_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-10.ott.tricolor.tv/dtv/id277_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-14.ott.tricolor.tv/dtv/id895_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.admuspeh.my/8932/index.m3u8?token=iptvshared</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-08.ott.tricolor.tv/dtv/id642_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-06.ott.tricolor.tv/dtv/id513_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-09.ott.tricolor.tv/dtv/id422_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-05.ott.tricolor.tv/dtv/id602_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-06.ott.tricolor.tv/dtv/id603_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-06.ott.tricolor.tv/dtv/id280_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-14.ott.tricolor.tv/dtv/id646_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-05.ott.tricolor.tv/dtv/id525_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-12.ott.tricolor.tv/dtv/id871_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-07.ott.tricolor.tv/dtv/id643_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-08.ott.tricolor.tv/dtv/id330_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-12.ott.tricolor.tv/dtv/id652_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-12.ott.tricolor.tv/dtv/id647_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-05.ott.tricolor.tv/dtv/id496_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-06.ott.tricolor.tv/dtv/id395_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-14.ott.tricolor.tv/dtv/id931_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-03.ott.tricolor.tv/dtv/id601_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-05.ott.tricolor.tv/dtv/id497_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/87.99.87.203:2020/channel/n216d0c1/index.m3u8?q=c155fd146caa671acca6c6873fe5c176</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/87.99.87.203:2020/channel/n4adcc4fb/index.m3u8?q=c155fd146caa671acca6c6873fe5c176</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/87.99.87.203:2020/channel/n3e4e8f4e/index.m3u8?q=c155fd146caa671acca6c6873fe5c176</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/87.99.87.203:2020/channel/627232cf/index.m3u8?q=c155fd146caa671acca6c6873fe5c176</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-mirror-01.ott.tricolor.tv/dtv/id415_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-mirror-04.ott.tricolor.tv/dtv/id860_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-mirror-11.ott.tricolor.tv/dtv/id861_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.47.199.45:1402/kinoman/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream02.vnet.am/Channel_118/tracks-v1a1/mono.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.23.80.28:8080/TRASH/index.m3u8?token=test</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.23.80.28:8080/KinoSat/index.m3u8?token=test</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-09.ott.tricolor.tv/dtv/id644_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.admuspeh.my/8971/index.m3u8?token=iptvshared</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.admuspeh.my/8962/video.m3u8?token=iptvshared</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/api.peers.tv/timeshift/filmbox/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzkzNTM1ODAsImlhdCI6MTczOTI2NzE4MCwiY2lkIjo2LCJ1aWQiOjg5MzAwMzA1NiwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.suiNMvsRy92ATMswD4i6ISJ_h8jmrBh8BY0iJRxFzLk&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/api.peers.tv/timeshift/filmbox_arthouse/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzkzNTM1ODAsImlhdCI6MTczOTI2NzE4MCwiY2lkIjo2LCJ1aWQiOjg5MzAwMzA1NiwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.suiNMvsRy92ATMswD4i6ISJ_h8jmrBh8BY0iJRxFzLk&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/api.peers.tv/timeshift/timeless_dizi_channel/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzkzNTM1ODAsImlhdCI6MTczOTI2NzE4MCwiY2lkIjo2LCJ1aWQiOjg5MzAwMzA1NiwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.suiNMvsRy92ATMswD4i6ISJ_h8jmrBh8BY0iJRxFzLk&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-09.ott.tricolor.tv/dtv/id366_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream01.vnet.am/ZeeTV/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream01.vnet.am/Fox/mono.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.admuspeh.my/8168/index.m3u8?token=iptvshared</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream01.vnet.am/KXLTV/mono.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.admuspeh.my/8052/index.m3u8?token=iptvshared</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-msk-06.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/api.peers.tv/timeshift/favmovie/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzkzNTM1ODAsImlhdCI6MTczOTI2NzE4MCwiY2lkIjo2LCJ1aWQiOjg5MzAwMzA1NiwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.suiNMvsRy92ATMswD4i6ISJ_h8jmrBh8BY0iJRxFzLk&
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/193.242.190.6:8099/35/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.50.148.2:7711/Kinohit/index.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/flussonic.salomtv.uz/Kinoxit/video.m3u8</p>
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/193.242.190.6:8099/85/index.m3u8</p>
+
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="IPTV",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8
 
@@ -588,6 +2463,24 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/iptv.rtv-ooe.at/stream
 
 #EXTINF:-1 tvg-name="RTS Ⓖ" group-title="IPTV",RTS Ⓖ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/58b42f6c8c9bf.streamlock.net:8080/live/RTS2015/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Dance Television" group-title="IPTV",Dance Television
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+
+#EXTINF:-1 tvg-name="RTV Oost" group-title="IPTV",RTV Oost
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
+
+#EXTINF:-1 tvg-name="Omroep Gelderland" group-title="IPTV",Omroep Gelderland
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d2od87akyl46nm.cloudfront.net/live/omroepgelderland/tvgelderland-hls/index.m3u8
+
+#EXTINF:-1 tvg-name="Omroep Flevoland" group-title="IPTV",Omroep Flevoland
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
+
+#EXTINF:-1 tvg-name="RTV Rijnmond" group-title="IPTV",RTV Rijnmond
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv/index.m3u8
+
+#EXTINF:-1 tvg-name="Omroep West" group-title="IPTV",Omroep West
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d1axml5ozykh3g.cloudfront.net/live/omroepwest/tv/index.m3u8
 
 #EXTINF:-1 tvg-name="ИНФОКАНАЛ" group-title="IPTV",ИНФОКАНАЛ
 https://github.com/CrocoUser/files/raw/refs/heads/main/infokanal.m3u8
