@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-19 13:17:27
-# Всего каналов: 20617
-# Новых за сессию: 0
+# Обновлено: 2026-07-19 14:39:40
+# Всего каналов: 20651
+# Новых за сессию: 34
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies
-# Каналов: 738
-# Обновлено: 2026-07-19 13:17:27
+# Каналов: 742
+# Обновлено: 2026-07-19 14:39:40
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="312 Кино (406p)" group-title="Movies",312 Кино (406p)
@@ -1768,7 +1768,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/206.212.244.63/147/ind
 #EXTINF:-1 tvg-name="FILMBOX+ Festival" group-title="Movies",FILMBOX+ Festival
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
 
-#EXTINF:-1 tvg-name="FilmBox Baltics (450p) [Geo-blocked]" group-title="Movies",FilmBox Baltics (450p) [Geo-blocked]
+#EXTINF:-1 tvg-name="FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked]" group-title="Movies",FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/s70378.cdn.ngenix.net/filmbox/index.m3u8
 
 #EXTINF:-1 tvg-name="Cinemo (480p)" group-title="Movies",Cinemo (480p)
@@ -2070,6 +2070,18 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/aes.m3u8simplu.workers
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/aes.m3u8simplu.workers.dev/filmbox/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/322/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/webtvstream.bhtelecom.ba/filmbox_extra.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/webtvstream.bhtelecom.ba/filmbox_premium.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/webtvstream.bhtelecom.ba/filmbox_stars.m3u8
 
 #EXTINF:-1 tvg-name="Hollywood" group-title="Movies",Hollywood
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/MGM_HD/index.m3u8
@@ -2572,3 +2584,7 @@ https://aes.m3u8simplu.workers.dev/filmboxextra/index.m3u8
 https://aes.m3u8simplu.workers.dev/filmboxpremium/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ One Romania (576p)" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ One Romania (576p)
 https://aes.m3u8simplu.workers.dev/filmbox/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies;Series",Bolt" group-title="Movies;Series",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies;Series",Bolt
+http://stream.mcquack.net/73/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Enter-Film" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Enter-Film
+http://stream.mcquack.net/322/index.m3u8

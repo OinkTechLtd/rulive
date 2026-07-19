@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-19 13:17:27
-# Всего каналов: 20617
-# Новых за сессию: 0
+# Обновлено: 2026-07-19 14:39:40
+# Всего каналов: 20651
+# Новых за сессию: 34
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News
-# Каналов: 1156
-# Обновлено: 2026-07-19 13:17:27
+# Каналов: 1160
+# Обновлено: 2026-07-19 14:39:40
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Дождь (альтернативный)" group-title="News",Дождь (альтернативный)
@@ -3262,6 +3262,18 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/131
 #EXTINF:-1 tvg-name="News of the World" group-title="News",News of the World
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/nowhls.wns.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-name="24 Kanal" group-title="News",24 Kanal
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/103.175.73.12:8080/live/182/master.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/103.175.73.12:8080/live/237/master.m3u8
+
+#EXTINF:-1 tvg-name="Tamil Janam (576p)" group-title="News",Tamil Janam (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mumt01.tangotv.in/O5aw8Zn3JANAMTVTAMIL/index.m3u8
+
 #EXTINF:-1 tvg-name="Беларусь 24" group-title="News",Беларусь 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 
@@ -3764,3 +3776,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://stream.mcquack.net/442/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Culture;News",Ost West 24" group-title="Culture;News",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Culture;News",Ost West 24
 http://stream.mcquack.net/455/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",PTC News (576p)" group-title="News",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",PTC News (576p)
+http://103.175.73.12:8080/live/182/master.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",Public First (576p)" group-title="News",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",Public First (576p)
+http://103.175.73.12:8080/live/237/master.m3u8
+#EXTINF:-1 tvg-name="QBC" group-title="Business;News",QBC
+https://googlecdn1.alkassdigital.net/livestream/qbc4/main.m3u8

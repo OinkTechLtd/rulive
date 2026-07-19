@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-19 13:17:27
-# Всего каналов: 20617
-# Новых за сессию: 0
+# Обновлено: 2026-07-19 14:39:40
+# Всего каналов: 20651
+# Новых за сессию: 34
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Undefined
-# Каналов: 4117
-# Обновлено: 2026-07-19 13:17:27
+# Каналов: 4120
+# Обновлено: 2026-07-19 14:39:40
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Дождь [Geo-blocked]" group-title="Undefined",Дождь [Geo-blocked]
@@ -11947,6 +11947,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/402
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Undefined",like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/aes.m3u8simplu.workers.dev/protvint/index.m3u8
 
+#EXTINF:-1 tvg-name="Mega" group-title="Undefined",Mega
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/338/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Undefined",like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/103.175.73.12:8080/live/709/master.m3u8
+
 #EXTINF:-1 tvg-name="R9" group-title="Undefined",R9
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
 
@@ -12715,3 +12724,7 @@ http://stream.mcquack.net/449/index.m3u8
 http://stream.mcquack.net/402/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Undefined",PRO TV International" group-title="Undefined",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Undefined",PRO TV International
 https://aes.m3u8simplu.workers.dev/protvint/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",TET" group-title="Undefined",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",TET
+http://stream.mcquack.net/338/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Undefined",Rengoni (576p)" group-title="Undefined",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Undefined",Rengoni (576p)
+http://103.175.73.12:8080/live/709/master.m3u8

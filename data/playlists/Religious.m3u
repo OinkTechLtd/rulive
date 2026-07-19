@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-19 13:17:27
-# Всего каналов: 20617
-# Новых за сессию: 0
+# Обновлено: 2026-07-19 14:39:40
+# Всего каналов: 20651
+# Новых за сессию: 34
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Religious
-# Каналов: 784
-# Обновлено: 2026-07-19 13:17:27
+# Каналов: 786
+# Обновлено: 2026-07-19 14:39:40
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Спас (450p) [Geo-blocked]" group-title="Religious",Спас (450p) [Geo-blocked]
@@ -2308,6 +2308,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/1601580044.rsc.cdn77.o
 #EXTINF:-1 tvg-name="Mahaasin TV" group-title="Religious",Mahaasin TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/mahaasintv.livebox.co.in/mahaasintvhls/mahaasintv.m3u8
 
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Religious",like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/103.175.73.12:8080/live/183/master.m3u8
+
+#EXTINF:-1 tvg-name="Qatar TV The Holy Quran" group-title="Religious",Qatar TV The Holy Quran
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8
+
 #EXTINF:-1 tvg-name="Aghapy TV" group-title="Religious",Aghapy TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
 
@@ -2446,3 +2452,5 @@ https://channels.trace.plus/Traceprod/GOSPEL_SA_ld/index.m3u8
 https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
 #EXTINF:-1 tvg-name="Jewish Life Television" group-title="Culture;Religious",Jewish Life Television
 https://jlt-jltv-strimm.otteravision.com/jlt/jltv/jltv.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Religious",PTC Simran (576p)" group-title="Religious",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Religious",PTC Simran (576p)
+http://103.175.73.12:8080/live/183/master.m3u8

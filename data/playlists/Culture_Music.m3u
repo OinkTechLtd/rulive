@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-19 13:17:27
-# Всего каналов: 20617
-# Новых за сессию: 0
+# Обновлено: 2026-07-19 14:39:40
+# Всего каналов: 20651
+# Новых за сессию: 34
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Music
 # Каналов: 6
-# Обновлено: 2026-07-19 13:17:27
+# Обновлено: 2026-07-19 14:39:40
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pamir TV" group-title="Culture;Music",Pamir TV
@@ -2016,3 +2016,7 @@ http://stream.mcquack.net/455/index.m3u8
 http://stream.mcquack.net/353/index.m3u8
 #EXTINF:-1 tvg-name="Suspilne. Kultura" group-title="Culture",Suspilne. Kultura
 http://stream.mcquack.net/435/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Music",Insync (576p)" group-title="Music",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Music",Insync (576p)
+http://103.175.73.12:8080/live/160/master.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Music",B4U Music (576p)" group-title="Music",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Music",B4U Music (576p)
+http://103.175.73.12:8080/live/157/master.m3u8

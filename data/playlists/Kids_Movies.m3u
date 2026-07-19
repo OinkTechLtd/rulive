@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-19 13:17:27
-# Всего каналов: 20617
-# Новых за сессию: 0
+# Обновлено: 2026-07-19 14:39:40
+# Всего каналов: 20651
+# Новых за сессию: 34
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Movies
 # Каналов: 2
-# Обновлено: 2026-07-19 13:17:27
+# Обновлено: 2026-07-19 14:39:40
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="KidsFlix" group-title="Kids;Movies",KidsFlix
@@ -2074,7 +2074,7 @@ http://45.189.62.33:8002/play/a0p7/index.m3u8
 http://45.189.62.33:8002/play/a0bz/index.m3u8
 #EXTINF:-1 tvg-name="Akili Kids!" group-title="Kids",Akili Kids!
 https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="FilmBox Baltics (450p) [Geo-blocked]" group-title="Movies",FilmBox Baltics (450p) [Geo-blocked]
+#EXTINF:-1 tvg-name="FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked]" group-title="Movies",FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked]
 https://s70378.cdn.ngenix.net/filmbox/index.m3u8
 #EXTINF:-1 tvg-name="Cinemo (480p)" group-title="Movies",Cinemo (480p)
 https://streams.comclark.com/pknsd/cinemo/playlist.m3u8
@@ -2280,3 +2280,9 @@ https://aes.m3u8simplu.workers.dev/filmboxpremium/index.m3u8
 https://aes.m3u8simplu.workers.dev/filmbox/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Kids",Zoom (576p)" group-title="Kids",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Kids",Zoom (576p)
 http://stream.mcquack.net/377/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies;Series",Bolt" group-title="Movies;Series",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies;Series",Bolt
+http://stream.mcquack.net/73/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Enter-Film" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Enter-Film
+http://stream.mcquack.net/322/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",KinoKazka" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",KinoKazka
+http://stream.mcquack.net/167/index.m3u8

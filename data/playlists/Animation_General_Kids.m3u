@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-19 13:17:27
-# Всего каналов: 20617
-# Новых за сессию: 0
+# Обновлено: 2026-07-19 14:39:40
+# Всего каналов: 20651
+# Новых за сессию: 34
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;General;Kids
 # Каналов: 2
-# Обновлено: 2026-07-19 13:17:27
+# Обновлено: 2026-07-19 14:39:40
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="BBC Four/CBeebies [Geo-Blocked]" group-title="Animation;General;Kids",BBC Four/CBeebies [Geo-Blocked]
@@ -6608,3 +6608,7 @@ http://stream.mcquack.net/39/index.m3u8
 https://stream.fortistv.com/hls/fortis-news/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Kids",Zoom (576p)" group-title="Kids",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Kids",Zoom (576p)
 http://stream.mcquack.net/377/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",KinoKazka" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",KinoKazka
+http://stream.mcquack.net/167/index.m3u8
+#EXTINF:-1 tvg-name="YOL TV" group-title="General",YOL TV
+https://live.yoltv.com/hls/stream.m3u8

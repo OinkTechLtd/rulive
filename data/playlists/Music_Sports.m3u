@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-19 13:17:27
-# Всего каналов: 20617
-# Новых за сессию: 0
+# Обновлено: 2026-07-19 14:39:40
+# Всего каналов: 20651
+# Новых за сессию: 34
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;Sports
 # Каналов: 1
-# Обновлено: 2026-07-19 13:17:27
+# Обновлено: 2026-07-19 14:39:40
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RTI La 3" group-title="Music;Sports",RTI La 3
@@ -2693,3 +2693,13 @@ http://38.194.226.190:8000/play/a02r/index.m3u8
 http://stream.mcquack.net/41/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Go3 Sport 1" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Go3 Sport 1
 http://stream.mcquack.net/416/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Music",Insync (576p)" group-title="Music",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Music",Insync (576p)
+http://103.175.73.12:8080/live/160/master.m3u8
+#EXTINF:-1 tvg-name="Cytavision Sports 3" group-title="Sports",Cytavision Sports 3
+http://185.102.171.218/Cytavisionsports3/index.m3u8
+#EXTINF:-1 tvg-name="Cytavision Sports 4" group-title="Sports",Cytavision Sports 4
+http://185.102.171.218/Cytavisionsports4/index.m3u8
+#EXTINF:-1 tvg-name="Cytavision Sports 5" group-title="Sports",Cytavision Sports 5
+http://185.102.171.218/Cytavisionsports5/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Music",B4U Music (576p)" group-title="Music",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Music",B4U Music (576p)
+http://103.175.73.12:8080/live/157/master.m3u8

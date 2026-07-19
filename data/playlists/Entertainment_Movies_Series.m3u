@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-19 13:17:27
-# Всего каналов: 20617
-# Новых за сессию: 0
+# Обновлено: 2026-07-19 14:39:40
+# Всего каналов: 20651
+# Новых за сессию: 34
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Movies;Series
 # Каналов: 2
-# Обновлено: 2026-07-19 13:17:27
+# Обновлено: 2026-07-19 14:39:40
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Fillka TV" group-title="Entertainment;Movies;Series",Fillka TV
@@ -3660,7 +3660,7 @@ http://151.80.18.177:86/TF1_HD/index.m3u8
 https://streams.comclark.com/pknsd/alltv/playlist.m3u8
 #EXTINF:-1 tvg-name="AP TV" group-title="Entertainment",AP TV
 https://59nyqg8elwap-hls-live.5centscdn.com/APTV/85c20905211659d143febd7c32592ee0.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="FilmBox Baltics (450p) [Geo-blocked]" group-title="Movies",FilmBox Baltics (450p) [Geo-blocked]
+#EXTINF:-1 tvg-name="FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked]" group-title="Movies",FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked]
 https://s70378.cdn.ngenix.net/filmbox/index.m3u8
 #EXTINF:-1 tvg-name="Zona Play TV" group-title="Entertainment",Zona Play TV
 https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8
@@ -3946,3 +3946,15 @@ https://aes.m3u8simplu.workers.dev/filmboxextra/index.m3u8
 https://aes.m3u8simplu.workers.dev/filmboxpremium/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ One Romania (576p)" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ One Romania (576p)
 https://aes.m3u8simplu.workers.dev/filmbox/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies;Series",Bolt" group-title="Movies;Series",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies;Series",Bolt
+http://stream.mcquack.net/73/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Enter-Film" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Enter-Film
+http://stream.mcquack.net/322/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",ICTV2" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",ICTV2
+http://stream.mcquack.net/368/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",K1" group-title="Entertainment",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",K1
+http://stream.mcquack.net/270/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",OTSE" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",OTSE
+http://stream.mcquack.net/329/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",Zoom" group-title="Entertainment",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",Zoom
+http://stream.mcquack.net/327/index.m3u8
