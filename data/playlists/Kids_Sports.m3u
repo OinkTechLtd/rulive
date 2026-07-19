@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-18 23:54:10
-# Всего каналов: 20058
-# Новых за сессию: 0
+# Обновлено: 2026-07-19 01:01:08
+# Всего каналов: 20106
+# Новых за сессию: 48
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Sports
 # Каналов: 1
-# Обновлено: 2026-07-18 23:54:11
+# Обновлено: 2026-07-19 01:01:09
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ADO TV" group-title="Kids;Sports",ADO TV
@@ -219,7 +219,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Disney Channel East" group-title="Kids",Disney Channel East
 https://tvpass.org/live/DisneyChannelEast/hd
-#EXTINF:-1 tvg-name="Disney Junior (1080i)" group-title="Kids",Disney Junior (1080i)
+#EXTINF:-1 tvg-name="Disney Junior" group-title="Kids",Disney Junior
 http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
 #EXTINF:-1 tvg-name="Disney XD" group-title="Kids",Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
@@ -1795,8 +1795,6 @@ http://zntx.dyndns.org:8085/hls/stv7.m3u8
 http://145.239.5.177/349/index.m3u8
 #EXTINF:-1 tvg-name="Billiard TV [Geo-blocked]" group-title="Sports",Billiard TV [Geo-blocked]
 https://pb-wm04vonaerv0k.akamaized.net/billi.m3u8
-#EXTINF:-1 tvg-name="Disney Junior" group-title="Kids",Disney Junior
-http://40.160.24.52/Disney_JR/index.m3u8
 #EXTINF:-1 tvg-name="Disney XD West (480p)" group-title="Kids",Disney XD West (480p)
 http://tvsen5.aynascope.net/disneyxd/index.m3u8
 #EXTINF:-1 tvg-name="SportsGrid" group-title="Sports",SportsGrid
@@ -1835,3 +1833,25 @@ http://tvsen5.aynascope.net/4KidsTV/index.m3u8
 http://stream.mcquack.net/353/index.m3u8
 #EXTINF:-1 tvg-name="PokerGo" group-title="Sports",PokerGo
 http://206.212.244.63/4249/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Dynamo Kyiv TV" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Dynamo Kyiv TV
+http://stream.mcquack.net/396/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Equalympic" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Equalympic
+http://stream.mcquack.net/485/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Sport 1 (576p)" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Sport 1 (576p)
+http://stream.mcquack.net/391/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Sport 2" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Sport 2
+http://stream.mcquack.net/392/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Sport 3" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Sport 3
+http://stream.mcquack.net/393/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Sport 4 (576p)" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Sport 4 (576p)
+http://stream.mcquack.net/394/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Suspilne. Sport" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Suspilne. Sport
+http://stream.mcquack.net/444/index.m3u8
+#EXTINF:-1 tvg-name="Azteca Deportes Network" group-title="Sports",Azteca Deportes Network
+http://38.194.226.190:8000/play/a02r/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",5Sport" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",5Sport
+http://stream.mcquack.net/41/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Go3 Sport 1" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Go3 Sport 1
+http://stream.mcquack.net/416/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Kids",Zoom (576p)" group-title="Kids",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Kids",Zoom (576p)
+http://stream.mcquack.net/377/index.m3u8

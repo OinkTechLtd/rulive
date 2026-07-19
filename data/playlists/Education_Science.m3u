@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-18 23:54:10
-# Всего каналов: 20058
-# Новых за сессию: 0
+# Обновлено: 2026-07-19 01:01:08
+# Всего каналов: 20106
+# Новых за сессию: 48
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Science
 # Каналов: 4
-# Обновлено: 2026-07-18 23:54:10
+# Обновлено: 2026-07-19 01:01:09
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="滁州科教 (450p)" group-title="Education;Science",滁州科教 (450p)
@@ -550,3 +550,7 @@ http://45.162.231.38:7779/Futura/index.m3u8
 https://edge.enhdtv.com/8054/index.m3u8
 #EXTINF:-1 tvg-name="Canal Educacao" group-title="Education",Canal Educacao
 http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Education",Fauna (576p)" group-title="Education",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Education",Fauna (576p)
+http://stream.mcquack.net/401/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Science",Nauka (576p)" group-title="Science",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Science",Nauka (576p)
+http://stream.mcquack.net/403/index.m3u8

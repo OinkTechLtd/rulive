@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-18 23:54:10
-# Всего каналов: 20058
-# Новых за сессию: 0
+# Обновлено: 2026-07-19 01:01:08
+# Всего каналов: 20106
+# Новых за сессию: 48
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Series
 # Каналов: 1
-# Обновлено: 2026-07-18 23:54:11
+# Обновлено: 2026-07-19 01:01:09
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Inazuma Eleven" group-title="Kids;Series",Inazuma Eleven
@@ -147,7 +147,7 @@ https://d3537vnymvfque.cloudfront.net/playlist.m3u8
 https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Disney Channel East" group-title="Kids",Disney Channel East
 https://tvpass.org/live/DisneyChannelEast/hd
-#EXTINF:-1 tvg-name="Disney Junior (1080i)" group-title="Kids",Disney Junior (1080i)
+#EXTINF:-1 tvg-name="Disney Junior" group-title="Kids",Disney Junior
 http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
 #EXTINF:-1 tvg-name="Disney XD" group-title="Kids",Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
@@ -1569,8 +1569,6 @@ http://45.162.193.35/STAR_CHANNEL/index.m3u8
 http://177.234.249.135:8888/Telenovelas/index.m3u8
 #EXTINF:-1 tvg-name="Series Classic" group-title="Series",Series Classic
 https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic/playlist.m3u8
-#EXTINF:-1 tvg-name="Disney Junior" group-title="Kids",Disney Junior
-http://40.160.24.52/Disney_JR/index.m3u8
 #EXTINF:-1 tvg-name="Disney XD West (480p)" group-title="Kids",Disney XD West (480p)
 http://tvsen5.aynascope.net/disneyxd/index.m3u8
 #EXTINF:-1 tvg-name="Star Channel Latin America Central America" group-title="Movies;Series",Star Channel Latin America Central America
@@ -1585,3 +1583,7 @@ http://206.212.244.63/3146/index.m3u8
 http://206.212.244.63/3152/index.m3u8
 #EXTINF:-1 tvg-name="4Kids TV (576p)" group-title="Kids",4Kids TV (576p)
 http://tvsen5.aynascope.net/4KidsTV/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Series",Tviy serial" group-title="Series",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Series",Tviy serial
+http://stream.mcquack.net/466/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Kids",Zoom (576p)" group-title="Kids",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Kids",Zoom (576p)
+http://stream.mcquack.net/377/index.m3u8
