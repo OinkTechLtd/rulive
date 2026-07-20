@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-20 12:31:55
-# Всего каналов: 20653
-# Новых за сессию: 0
+# Обновлено: 2026-07-20 13:26:07
+# Всего каналов: 20672
+# Новых за сессию: 19
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Lifestyle;Movies
 # Каналов: 2
-# Обновлено: 2026-07-20 12:31:56
+# Обновлено: 2026-07-20 13:26:07
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Great American Faith & Living" group-title="Lifestyle;Movies",Great American Faith & Living
@@ -1490,6 +1490,8 @@ https://live.dionelysterrero.com/senalestv/stream.m3u8
 http://41.223.30.230/ZEEAFLAM/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN CEE Czech Republic" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN CEE Czech Republic
 http://88.212.15.19/live/test_axn/playlist.m3u8
+#EXTINF:-1 tvg-name="Dom kino" group-title="Movies",Dom kino
+https://tchaikovsky.af-stream.com:991/s/xzztutfc/dom-kino-hd/video.m3u8
 #EXTINF:-1 tvg-name="Zdorovoe TV" group-title="Lifestyle",Zdorovoe TV
 http://de.russkoe-iptv.com:88/s/s-e3dc39e0/zdorovoe-tv-hd.m3u8
 #EXTINF:-1 tvg-name="Kaloopy TV" group-title="Lifestyle",Kaloopy TV
@@ -1606,6 +1608,8 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinefamiliar.stream/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinehispano.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Cine Premium" group-title="Movies",Cine Premium
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Domashniy (576p)" group-title="Lifestyle",Domashniy (576p)
+http://94.230.129.31:8080/Domashnii/index.m3u8
 #EXTINF:-1 tvg-name="AMC East" group-title="Movies",AMC East
 http://41.223.30.230/AMC/index.m3u8
 #EXTINF:-1 tvg-name="Cleo TV" group-title="Lifestyle",Cleo TV
@@ -1810,3 +1814,7 @@ https://aes.m3u8simplu.workers.dev/filmbox/index.m3u8
 http://stream.mcquack.net/73/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Enter-Film" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Enter-Film
 http://stream.mcquack.net/322/index.m3u8
+#EXTINF:-1 tvg-name="Punjabi Shorts" group-title="Movies",Punjabi Shorts
+https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Festival" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Festival
+https://webtvstream.bhtelecom.ba/filmbox_arthouse.m3u8

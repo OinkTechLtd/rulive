@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-20 12:31:55
-# Всего каналов: 20653
-# Новых за сессию: 0
+# Обновлено: 2026-07-20 13:26:07
+# Всего каналов: 20672
+# Новых за сессию: 19
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;General;Kids
 # Каналов: 2
-# Обновлено: 2026-07-20 12:31:56
+# Обновлено: 2026-07-20 13:26:07
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="BBC Four/CBeebies [Geo-Blocked]" group-title="Animation;General;Kids",BBC Four/CBeebies [Geo-Blocked]
@@ -5774,7 +5774,7 @@ https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8
 http://de.russkoe-iptv.com:88/s/s-e3dc39e0/ljova-hd.m3u8
 #EXTINF:-1 tvg-name="V gostyakh u skazki" group-title="Kids",V gostyakh u skazki
 http://de.russkoe-iptv.com:88/s/s-e3dc39e0/gosti-skazka-hd.m3u8
-#EXTINF:-1 tvg-name="LBC International" group-title="General",LBC International
+#EXTINF:-1 tvg-name="LBC" group-title="General",LBC
 http://185.9.2.18/chid_327/index.m3u8
 #EXTINF:-1 tvg-name="Disney Channel Latin America" group-title="Animation;Kids",Disney Channel Latin America
 http://45.185.163.75:8000/play/a02j/index.m3u8
@@ -6612,3 +6612,7 @@ http://stream.mcquack.net/377/index.m3u8
 http://stream.mcquack.net/167/index.m3u8
 #EXTINF:-1 tvg-name="YOL TV" group-title="General",YOL TV
 https://live.yoltv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-name="LBC International" group-title="General",LBC International
+http://185.9.2.18/chid_521/index.m3u8
+#EXTINF:-1 tvg-name="Keedoo (576p)" group-title="Kids",Keedoo (576p)
+http://185.102.171.218/Nickelodeon/index.m3u8

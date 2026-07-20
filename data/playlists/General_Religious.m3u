@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-20 12:31:55
-# Всего каналов: 20653
-# Новых за сессию: 0
+# Обновлено: 2026-07-20 13:26:07
+# Всего каналов: 20672
+# Новых за сессию: 19
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Religious
 # Каналов: 7
-# Обновлено: 2026-07-20 12:31:56
+# Обновлено: 2026-07-20 13:26:07
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Сити Эдем ТВ Христианский" group-title="General;Religious",Сити Эдем ТВ Христианский
@@ -6473,7 +6473,7 @@ https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
 https://hlspackager.akamaized.net/live/DB/ZAGROS_TV/HLS/ZAGROS_TV.m3u8
 #EXTINF:-1 tvg-name="God Stands Kids Club TV Urdu" group-title="Kids;Religious",God Stands Kids Club TV Urdu
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8
-#EXTINF:-1 tvg-name="LBC International" group-title="General",LBC International
+#EXTINF:-1 tvg-name="LBC" group-title="General",LBC
 http://185.9.2.18/chid_327/index.m3u8
 #EXTINF:-1 tvg-name="El Siete" group-title="General",El Siete
 https://edgectc.com/CANAL7_MZA/index.m3u8
@@ -7277,3 +7277,7 @@ https://live.yoltv.com/hls/stream.m3u8
 http://103.175.73.12:8080/live/183/master.m3u8
 #EXTINF:-1 tvg-name="Qatar TV The Holy Quran" group-title="Religious",Qatar TV The Holy Quran
 https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8
+#EXTINF:-1 tvg-name="LBC International" group-title="General",LBC International
+http://185.9.2.18/chid_521/index.m3u8
+#EXTINF:-1 tvg-name="Seraj TV (1080i)" group-title="Religious",Seraj TV (1080i)
+https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-20 12:31:55
-# Всего каналов: 20653
-# Новых за сессию: 0
+# Обновлено: 2026-07-20 13:26:07
+# Всего каналов: 20672
+# Новых за сессию: 19
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Family;General
 # Каналов: 2
-# Обновлено: 2026-07-20 12:31:56
+# Обновлено: 2026-07-20 13:26:07
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CWB TV" group-title="Family;General",CWB TV
@@ -5098,7 +5098,7 @@ https://kali.vdopanel.com:3090/hybrid/play.m3u8
 https://ip.webcamcaboverde.com/memfs/20a13649-f95a-4eeb-a498-e6d3e7bbedcc.m3u8
 #EXTINF:-1 tvg-name="Zagros TV" group-title="General",Zagros TV
 https://hlspackager.akamaized.net/live/DB/ZAGROS_TV/HLS/ZAGROS_TV.m3u8
-#EXTINF:-1 tvg-name="LBC International" group-title="General",LBC International
+#EXTINF:-1 tvg-name="LBC" group-title="General",LBC
 http://185.9.2.18/chid_327/index.m3u8
 #EXTINF:-1 tvg-name="El Siete" group-title="General",El Siete
 https://edgectc.com/CANAL7_MZA/index.m3u8
@@ -5802,3 +5802,5 @@ http://stream.mcquack.net/39/index.m3u8
 https://stream.fortistv.com/hls/fortis-news/index.m3u8
 #EXTINF:-1 tvg-name="YOL TV" group-title="General",YOL TV
 https://live.yoltv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-name="LBC International" group-title="General",LBC International
+http://185.9.2.18/chid_521/index.m3u8
