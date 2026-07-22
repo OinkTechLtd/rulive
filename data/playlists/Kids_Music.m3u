@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-21 23:31:34
-# Всего каналов: 20685
-# Новых за сессию: 1
+# Обновлено: 2026-07-22 00:59:08
+# Всего каналов: 20801
+# Новых за сессию: 116
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Music
 # Каналов: 1
-# Обновлено: 2026-07-21 23:31:35
+# Обновлено: 2026-07-22 00:59:08
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Zhara Kids TV (576p)" group-title="Kids;Music",Zhara Kids TV (576p)
@@ -2405,3 +2405,23 @@ http://103.175.73.12:8080/live/157/master.m3u8
 http://149.100.11.235:8080/Mazzika/index.m3u8
 #EXTINF:-1 tvg-name="Keedoo (576p)" group-title="Kids",Keedoo (576p)
 http://185.102.171.218/Nickelodeon/index.m3u8
+#EXTINF:-1 tvg-name="Clubland TV" group-title="Music",Clubland TV
+http://bore.pub:14073/live.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Disney Junior (576p)" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Disney Junior (576p)
+https://aes.m3u8simplu.workers.dev/disneyjunior/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",JimJam (576p)" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",JimJam (576p)
+https://aes.m3u8simplu.workers.dev/jimjam/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Nick Jr. (576p)" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Nick Jr. (576p)
+https://aes.m3u8simplu.workers.dev/nickjr/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Nicktoons (576p)" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Nicktoons (576p)
+https://aes.m3u8simplu.workers.dev/nicktoons/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Disney Channel (576p)" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Disney Channel (576p)
+https://aes.m3u8simplu.workers.dev/disneychannel/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Nickelodeon (576p)" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Nickelodeon (576p)
+https://aes.m3u8simplu.workers.dev/nickelodeon/index.m3u8
+#EXTINF:-1 tvg-name="EMI TV" group-title="Music",EMI TV
+https://astra.emitv.ro/hls/emi/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",Music Channel (576p)" group-title="Music",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",Music Channel (576p)
+https://aes.m3u8simplu.workers.dev/musicchannel/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",ZU TV" group-title="Music",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",ZU TV
+https://aes.m3u8simplu.workers.dev/zutv/index.m3u8

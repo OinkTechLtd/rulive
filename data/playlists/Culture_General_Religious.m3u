@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-21 23:31:34
-# Всего каналов: 20685
-# Новых за сессию: 1
+# Обновлено: 2026-07-22 00:59:08
+# Всего каналов: 20801
+# Новых за сессию: 116
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;General;Religious
 # Каналов: 1
-# Обновлено: 2026-07-21 23:31:35
+# Обновлено: 2026-07-22 00:59:08
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Sercem TV" group-title="Culture;General;Religious",Sercem TV
@@ -7651,5 +7651,27 @@ http://103.175.73.12:8080/live/183/master.m3u8
 https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8
 #EXTINF:-1 tvg-name="LBC International" group-title="General",LBC International
 http://185.9.2.18/chid_521/index.m3u8
-#EXTINF:-1 tvg-name="Seraj TV (1080i)" group-title="Religious",Seraj TV (1080i)
+#EXTINF:-1 tvg-name="Seraj TV (1080i)" group-title="General;News",Seraj TV (1080i)
 https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="General",2+2" group-title="General",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="General",2+2
+http://stream.mcquack.net/173/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="General",Inter" group-title="General",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="General",Inter
+http://stream.mcquack.net/174/index.m3u8
+#EXTINF:-1 tvg-name="Muslim Network TV" group-title="Religious",Muslim Network TV
+https://afghantv.app/hls2/muslimnetwork/index.m3u8
+#EXTINF:-1 tvg-name="Cultura Para" group-title="General",Cultura Para
+http://170.84.165.204:80/CANAL_21_HD/index.m3u8
+#EXTINF:-1 tvg-name="Telefe Interior" group-title="General",Telefe Interior
+http://200.91.32.158:8080/telefehdvalle/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="General",Prima TV Moldova" group-title="General",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="General",Prima TV Moldova
+https://aes.m3u8simplu.workers.dev/primatvmd/index.m3u8
+#EXTINF:-1 tvg-name="Canal 7" group-title="General",Canal 7
+https://d1zq2gydd8y59v.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="General",Digital 15" group-title="General",like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="General",Digital 15
+https://live4.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8
+#EXTINF:-1 tvg-name="TvOro" group-title="General",TvOro
+http://45.187.0.19:9090/tvusa/index.m3u8
+#EXTINF:-1 tvg-name="DRTV International" group-title="General",DRTV International
+https://vps122407.serveur-vps.net/hls/drtv.m3u8
+#EXTINF:-1 tvg-name="Prime" group-title="General;Sports",Prime
+https://mn-nl.mncdn.com/primetv/live/index.m3u8

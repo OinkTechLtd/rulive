@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-21 23:31:34
-# Всего каналов: 20685
-# Новых за сессию: 1
+# Обновлено: 2026-07-22 00:59:08
+# Всего каналов: 20801
+# Новых за сессию: 116
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Education;News
 # Каналов: 2
-# Обновлено: 2026-07-21 23:31:35
+# Обновлено: 2026-07-22 00:59:08
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="UMSA TVU LP" group-title="Culture;Education;News",UMSA TVU LP
@@ -3138,7 +3138,7 @@ http://tvsen5.aynascope.net/NewsIndia24x7/index.m3u8
 http://tvsen5.aynascope.net/timetv/index.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera English (576p)" group-title="News",Al Jazeera English (576p)
 http://stream.mcquack.net/131/index.m3u8
-#EXTINF:-1 tvg-name="News of the World" group-title="News",News of the World
+#EXTINF:-1 tvg-name="NOW News Global" group-title="News",NOW News Global
 https://nowhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="LRT Plius" group-title="Culture;Sports",LRT Plius
 http://stream.mcquack.net/353/index.m3u8
@@ -3154,3 +3154,23 @@ http://103.175.73.12:8080/live/237/master.m3u8
 https://googlecdn1.alkassdigital.net/livestream/qbc4/main.m3u8
 #EXTINF:-1 tvg-name="Alikhbaria Syria" group-title="News",Alikhbaria Syria
 http://185.9.2.18/chid_423/index.m3u8
+#EXTINF:-1 tvg-name="Seraj TV (1080i)" group-title="General;News",Seraj TV (1080i)
+https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Documentary;Education",Chemodan TV" group-title="Documentary;Education",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Documentary;Education",Chemodan TV
+http://stream.mcquack.net/399/index.m3u8
+#EXTINF:-1 tvg-name="Fox News International" group-title="News",Fox News International
+https://gpuserver3.tier1streams.com/FOX/index.m3u8
+#EXTINF:-1 tvg-name="NOW News Arabic" group-title="News",NOW News Arabic
+https://live.nowtelly.com/now_arabic/live/playlist.m3u8
+#EXTINF:-1 tvg-name="NOW News Spanish" group-title="News",NOW News Spanish
+https://live.nowtelly.com/now_spanish/live/playlist.m3u8
+#EXTINF:-1 tvg-name="NOW News USA" group-title="News",NOW News USA
+https://live.nowtelly.com/now_usa/live_usa/playlist.m3u8
+#EXTINF:-1 tvg-name="TN23" group-title="News",TN23
+https://d3qt8k30mpy8xx.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="News",B1" group-title="News",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="News",B1
+https://aes.m3u8simplu.workers.dev/b1/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="News",Euronews Romania" group-title="News",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="News",Euronews Romania
+https://aes.m3u8simplu.workers.dev/euronews/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="News",Prima News (576p)" group-title="News",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="News",Prima News (576p)
+https://aes.m3u8simplu.workers.dev/primanews/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-21 23:31:34
-# Всего каналов: 20685
-# Новых за сессию: 1
+# Обновлено: 2026-07-22 00:59:08
+# Всего каналов: 20801
+# Новых за сессию: 116
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids
-# Каналов: 405
-# Обновлено: 2026-07-21 23:31:35
+# Каналов: 411
+# Обновлено: 2026-07-22 00:59:08
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Mama (576p)" group-title="Kids",Mama (576p)
@@ -1162,6 +1162,24 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn15.live-tv.cloud/ua
 #EXTINF:-1 tvg-name="Keedoo (576p)" group-title="Kids",Keedoo (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.102.171.218/Nickelodeon/index.m3u8
 
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/aes.m3u8simplu.workers.dev/disneyjunior/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/aes.m3u8simplu.workers.dev/jimjam/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/aes.m3u8simplu.workers.dev/nickjr/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/aes.m3u8simplu.workers.dev/nicktoons/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/aes.m3u8simplu.workers.dev/disneychannel/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/aes.m3u8simplu.workers.dev/nickelodeon/index.m3u8
+
 #EXTINF:-1 tvg-name="TNT Kids (288p)" group-title="Kids",TNT Kids (288p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/restreamer1.tnt.ba/hls/tntkids.m3u8
 
@@ -1441,3 +1459,15 @@ http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 http://stream.mcquack.net/377/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",KinoKazka" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",KinoKazka
 http://stream.mcquack.net/167/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Disney Junior (576p)" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Disney Junior (576p)
+https://aes.m3u8simplu.workers.dev/disneyjunior/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",JimJam (576p)" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",JimJam (576p)
+https://aes.m3u8simplu.workers.dev/jimjam/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Nick Jr. (576p)" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Nick Jr. (576p)
+https://aes.m3u8simplu.workers.dev/nickjr/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Nicktoons (576p)" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Nicktoons (576p)
+https://aes.m3u8simplu.workers.dev/nicktoons/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Disney Channel (576p)" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Disney Channel (576p)
+https://aes.m3u8simplu.workers.dev/disneychannel/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Nickelodeon (576p)" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Nickelodeon (576p)
+https://aes.m3u8simplu.workers.dev/nickelodeon/index.m3u8

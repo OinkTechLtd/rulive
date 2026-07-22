@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-21 23:31:34
-# Всего каналов: 20685
-# Новых за сессию: 1
+# Обновлено: 2026-07-22 00:59:08
+# Всего каналов: 20801
+# Новых за сессию: 116
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News;Sports
 # Каналов: 5
-# Обновлено: 2026-07-21 23:31:35
+# Обновлено: 2026-07-22 00:59:08
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Africa 24 Sport" group-title="News;Sports",Africa 24 Sport
@@ -3339,7 +3339,7 @@ http://stream.mcquack.net/235/index.m3u8
 http://stream.mcquack.net/461/index.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera English (576p)" group-title="News",Al Jazeera English (576p)
 http://stream.mcquack.net/131/index.m3u8
-#EXTINF:-1 tvg-name="News of the World" group-title="News",News of the World
+#EXTINF:-1 tvg-name="NOW News Global" group-title="News",NOW News Global
 https://nowhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="LRT Plius" group-title="Culture;Sports",LRT Plius
 http://stream.mcquack.net/353/index.m3u8
@@ -3383,7 +3383,43 @@ http://59.103.38.46:8000/play/a125/index.m3u8
 http://59.103.38.46:8000/play/a126/index.m3u8
 #EXTINF:-1 tvg-name="Alikhbaria Syria" group-title="News",Alikhbaria Syria
 http://185.9.2.18/chid_423/index.m3u8
+#EXTINF:-1 tvg-name="Seraj TV (1080i)" group-title="General;News",Seraj TV (1080i)
+https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
 #EXTINF:-1 tvg-name="Cytavision Sports 1" group-title="Sports",Cytavision Sports 1
 http://185.102.171.218/Cytavisionsports1/index.m3u8
 #EXTINF:-1 tvg-name="Cytavision Sports 2" group-title="Sports",Cytavision Sports 2
 http://185.102.171.218/Cytavisionsports2/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Sport 5" group-title="Sports",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Sport 5
+http://stream.mcquack.net/212/index.m3u8
+#EXTINF:-1 tvg-name="Fox News International" group-title="News",Fox News International
+https://gpuserver3.tier1streams.com/FOX/index.m3u8
+#EXTINF:-1 tvg-name="NBA TV" group-title="Sports",NBA TV
+https://cdn1.ayitistream.com/NBATV/index.m3u8
+#EXTINF:-1 tvg-name="NOW News Arabic" group-title="News",NOW News Arabic
+https://live.nowtelly.com/now_arabic/live/playlist.m3u8
+#EXTINF:-1 tvg-name="NOW News Spanish" group-title="News",NOW News Spanish
+https://live.nowtelly.com/now_spanish/live/playlist.m3u8
+#EXTINF:-1 tvg-name="NOW News USA" group-title="News",NOW News USA
+https://live.nowtelly.com/now_usa/live_usa/playlist.m3u8
+#EXTINF:-1 tvg-name="TN23" group-title="News",TN23
+https://d3qt8k30mpy8xx.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-name="Prime" group-title="General;Sports",Prime
+https://mn-nl.mncdn.com/primetv/live/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="News",B1" group-title="News",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="News",B1
+https://aes.m3u8simplu.workers.dev/b1/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="News",Euronews Romania" group-title="News",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="News",Euronews Romania
+https://aes.m3u8simplu.workers.dev/euronews/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="News",Prima News (576p)" group-title="News",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="News",Prima News (576p)
+https://aes.m3u8simplu.workers.dev/primanews/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",AntenaSport" group-title="Sports",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",AntenaSport
+https://aes.m3u8simplu.workers.dev/antneassport/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Digi Sport 3" group-title="Sports",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Digi Sport 3
+https://aes.m3u8simplu.workers.dev/digi3/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Digi Sport 4" group-title="Sports",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Digi Sport 4
+https://aes.m3u8simplu.workers.dev/digi4/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Prima 4K" group-title="Sports",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Prima 4K
+https://aes.m3u8simplu.workers.dev/prima4kk/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Prima Sport 5" group-title="Sports",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Prima Sport 5
+https://aes.m3u8simplu.workers.dev/primasp5/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Sport Extra" group-title="Sports",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Sport Extra
+https://aes.m3u8simplu.workers.dev/sportextra/index.m3u8

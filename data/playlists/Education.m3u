@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-21 23:31:34
-# Всего каналов: 20685
-# Новых за сессию: 1
+# Обновлено: 2026-07-22 00:59:08
+# Всего каналов: 20801
+# Новых за сессию: 116
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education
-# Каналов: 208
-# Обновлено: 2026-07-21 23:31:35
+# Каналов: 209
+# Обновлено: 2026-07-22 00:59:08
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Кто есть Кто (576p)" group-title="Education",Кто есть Кто (576p)
@@ -601,6 +601,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.162.64.114/CANAL_ED
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Education",like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/401/index.m3u8
 
+#EXTINF:-1 tvg-name="Futura" group-title="Education",Futura
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/168.197.104.22:80/FUTURA/index.m3u8
+
 #EXTINF:-1 tvg-name="Canal Savoir (360p)" group-title="Education",Canal Savoir (360p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls.savoir.media/live/stream.m3u8
 
@@ -734,3 +737,5 @@ http://45.162.64.114/AGRO_CANAL/index.m3u8
 https://edge.enhdtv.com/8054/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Education",Fauna (576p)" group-title="Education",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Education",Fauna (576p)
 http://stream.mcquack.net/401/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Documentary;Education",Chemodan TV" group-title="Documentary;Education",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Documentary;Education",Chemodan TV
+http://stream.mcquack.net/399/index.m3u8

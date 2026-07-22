@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-21 23:31:34
-# Всего каналов: 20685
-# Новых за сессию: 1
+# Обновлено: 2026-07-22 00:59:08
+# Всего каналов: 20801
+# Новых за сессию: 116
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Business
-# Каналов: 83
-# Обновлено: 2026-07-21 23:31:35
+# Каналов: 85
+# Обновлено: 2026-07-22 00:59:08
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Bloomberg TV Europe" group-title="Business",Bloomberg TV Europe
@@ -237,6 +237,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.52/CNBC_WORL
 
 #EXTINF:-1 tvg-name="CNBC" group-title="Business",CNBC
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/206.212.244.63/41/index.m3u8
+
+#EXTINF:-1 tvg-name="Cheddar Business" group-title="Business",Cheddar Business
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/gpuserver3.tier1streams.com/CHEDDAR_BUSINESS/index.m3u8
+
+#EXTINF:-1 tvg-name="CNBC" group-title="Business",CNBC
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/gpuserver3.tier1streams.com/CNBC/index.m3u8
 
 #EXTINF:-1 tvg-name="Negocios TV" group-title="Business",Negocios TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming013.gestec-video.com/hls/negociostv.m3u8
