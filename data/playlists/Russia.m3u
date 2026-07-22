@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-22 20:38:40
-# Всего каналов: 20819
-# Новых за сессию: 1
+# Обновлено: 2026-07-22 21:37:18
+# Всего каналов: 20862
+# Новых за сессию: 43
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Russia
-# Каналов: 47
-# Обновлено: 2026-07-22 20:38:41
+# Каналов: 44
+# Обновлено: 2026-07-22 21:37:19
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Россия 1" group-title="Russia",Россия 1
@@ -52,9 +52,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming.televizor-24
 #EXTINF:-1 tvg-name="Пятница! Ⓢ" group-title="Russia",Пятница! Ⓢ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming.televizor-24-tochka.ru/live/19.m3u8
 
-#EXTINF:-1 tvg-name="Звезда" group-title="Russia",Звезда
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-
 #EXTINF:-1 tvg-name="ТНТ Ⓢ" group-title="Russia",ТНТ Ⓢ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ott-cdn.ucom.am/s19/index.m3u8
 
@@ -90,9 +87,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.gtrklnr.ru/hls/Luga
 
 #EXTINF:-1 tvg-name="Москва 24" group-title="Russia",Москва 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/player.smotrim.ru/iframe/stream/live_id/1661
-
-#EXTINF:-1 tvg-name="Нижний Новгород 24" group-title="Russia",Нижний Новгород 24
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Самара 24" group-title="Russia",Самара 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion.cdnvideo.ru/vgtrk/samara/regionHD/playlist.m3u8
@@ -132,9 +126,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/212.0.211.102:9999/pla
 
 #EXTINF:-1 tvg-name="ТВ Центр Ⓢ" group-title="Russia",ТВ Центр Ⓢ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ott-cdn.ucom.am/s54/index.m3u8
-
-#EXTINF:-1 tvg-name="РБК" group-title="Russia",РБК
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/92.50.128.180/utv/1358/index.m3u8
 
 #EXTINF:-1 tvg-name="RT Д Русский Ⓖ" group-title="Russia",RT Д Русский Ⓖ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls.rt.com/hls/rtdru.m3u8
