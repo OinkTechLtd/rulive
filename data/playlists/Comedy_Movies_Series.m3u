@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-23 00:10:08
-# Всего каналов: 20864
-# Новых за сессию: 0
+# Обновлено: 2026-07-23 01:05:44
+# Всего каналов: 20905
+# Новых за сессию: 41
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Movies;Series
 # Каналов: 2
-# Обновлено: 2026-07-23 00:10:09
+# Обновлено: 2026-07-23 01:05:44
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Comedy;Movies;Series",like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -2330,8 +2330,6 @@ https://cdn-dvr.ntv.ru/Shef/index.m3u8
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
 #EXTINF:-1 tvg-name="TNT Novelas Brazil" group-title="Series",TNT Novelas Brazil
 http://167.250.126.140:7777/TBS-HD/index.m3u8
-#EXTINF:-1 tvg-name="FXM" group-title="Movies",FXM
-http://40.160.24.52/FXM/index.m3u8
 #EXTINF:-1 tvg-name="Universal Premiere" group-title="Movies",Universal Premiere
 http://200.91.32.158:8080/universalpremierehd/index.m3u8
 #EXTINF:-1 tvg-name="USA Network West" group-title="Comedy;Movies;Series;Sports",USA Network West
@@ -2466,6 +2464,8 @@ http://185.102.171.218/FOX_Life/index.m3u8
 http://stream.mcquack.net/465/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Nashe Lubimoe Kino Ukraine" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Nashe Lubimoe Kino Ukraine
 http://stream.mcquack.net/456/index.m3u8
+#EXTINF:-1 tvg-name="FXM" group-title="Movies",FXM
+https://gpuserver3.tier1streams.com/FXM/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",AMC Europe Romania (576p)" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",AMC Europe Romania (576p)
 https://aes.m3u8simplu.workers.dev/amc/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",AXN Black Romania (406p)" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",AXN Black Romania (406p)
@@ -2486,3 +2486,13 @@ http://s08.wsbof.com:8090/s/dc2d537d/hot-cinema1-il.m3u8
 https://aes.m3u8simplu.workers.dev/procinema/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",TV1000" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",TV1000
 https://aes.m3u8simplu.workers.dev/viasatkino/index.m3u8
+#EXTINF:-1 tvg-name="Sony Max 1" group-title="Movies",Sony Max 1
+http://103.159.180.34:5001/live/3418.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Viasat Film" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Viasat Film
+http://88.212.15.19/live/viasat_film/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Film+" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Film+
+http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Mozi+" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Mozi+
+http://88.212.15.19/live/mozi_plusz/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Moziverzum" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Moziverzum
+http://88.212.15.19/live/moziverzum/index.m3u8

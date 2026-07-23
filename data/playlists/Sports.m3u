@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-23 00:10:08
-# Всего каналов: 20864
-# Новых за сессию: 0
+# Обновлено: 2026-07-23 01:05:44
+# Всего каналов: 20905
+# Новых за сессию: 41
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Sports
-# Каналов: 635
-# Обновлено: 2026-07-23 00:10:09
+# Каналов: 638
+# Обновлено: 2026-07-23 01:05:44
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CBC Sport [Geo-blocked]" group-title="Sports",CBC Sport [Geo-blocked]
@@ -1788,6 +1788,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/aes.m3u8simplu.workers
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/aes.m3u8simplu.workers.dev/sportextra/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports en Espanol" group-title="Sports",beIN Sports en Espanol
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/futbol9865.ultratv13.workers.dev/deportivo111/69.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports" group-title="Sports",Fox Sports
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/futbol9865.ultratv13.workers.dev/deportivo111/78.m3u8
+
+#EXTINF:-1 tvg-name="Azteca Deportes Network" group-title="Sports",Azteca Deportes Network
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
 
 #EXTINF:-1 tvg-name="Беларусь 5" group-title="Sports",Беларусь 5
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8

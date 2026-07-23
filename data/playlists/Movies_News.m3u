@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-23 00:10:08
-# Всего каналов: 20864
-# Новых за сессию: 0
+# Обновлено: 2026-07-23 01:05:44
+# Всего каналов: 20905
+# Новых за сессию: 41
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;News
 # Каналов: 2
-# Обновлено: 2026-07-23 00:10:09
+# Обновлено: 2026-07-23 01:05:44
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Indywood TV" group-title="Movies;News",Indywood TV
@@ -3498,6 +3498,8 @@ http://151.80.18.177:86/LCI_HD/index.m3u8
 https://streams.comclark.com/pknsd/anc/playlist.m3u8
 #EXTINF:-1 tvg-name="FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked]" group-title="Movies",FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked]
 https://s70378.cdn.ngenix.net/filmbox/index.m3u8
+#EXTINF:-1 tvg-name="Latina Noticias 24/7" group-title="News",Latina Noticias 24/7
+https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
 #EXTINF:-1 tvg-name="CRTV News" group-title="News",CRTV News
 https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
 #EXTINF:-1 tvg-name="GTV (480p)" group-title="News",GTV (480p)
@@ -3506,8 +3508,6 @@ https://streams.comclark.com/pknsd/gtv/playlist.m3u8
 https://streams.comclark.com/pknsd/cinemo/playlist.m3u8
 #EXTINF:-1 tvg-name="Le Monde en 24h" group-title="News",Le Monde en 24h
 https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8
-#EXTINF:-1 tvg-name="Latina Noticias 24/7" group-title="News",Latina Noticias 24/7
-https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="KPVM Newsmax 2" group-title="News",KPVM Newsmax 2
 https://2-fss-2.streamhoster.com/pl_120/206858-4404556-1/playlist.m3u8
 #EXTINF:-1 tvg-name="KPVM Real America's Voice" group-title="News",KPVM Real America's Voice
@@ -3598,8 +3598,6 @@ https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8
 https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/WEUKRAINETV.m3u8
 #EXTINF:-1 tvg-name="Amu TV" group-title="News",Amu TV
 https://jmc-live.ercdn.net/amutv/amutv.m3u8
-#EXTINF:-1 tvg-name="FXM" group-title="Movies",FXM
-http://40.160.24.52/FXM/index.m3u8
 #EXTINF:-1 tvg-name="Newsmax Spanish" group-title="News",Newsmax Spanish
 https://n1ottesorkatv.akamaized.net/hls/live/2113795/Live_1/index.m3u8
 #EXTINF:-1 tvg-name="Universal Premiere" group-title="Movies",Universal Premiere
@@ -3818,6 +3816,8 @@ http://stream.mcquack.net/465/index.m3u8
 http://stream.mcquack.net/456/index.m3u8
 #EXTINF:-1 tvg-name="Fox News International" group-title="News",Fox News International
 https://gpuserver3.tier1streams.com/FOX/index.m3u8
+#EXTINF:-1 tvg-name="FXM" group-title="Movies",FXM
+https://gpuserver3.tier1streams.com/FXM/index.m3u8
 #EXTINF:-1 tvg-name="NOW News Arabic" group-title="News",NOW News Arabic
 https://live.nowtelly.com/now_arabic/live/playlist.m3u8
 #EXTINF:-1 tvg-name="NOW News Spanish" group-title="News",NOW News Spanish
@@ -3850,3 +3850,15 @@ http://s08.wsbof.com:8090/s/dc2d537d/hot-cinema1-il.m3u8
 https://aes.m3u8simplu.workers.dev/procinema/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",TV1000" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",TV1000
 https://aes.m3u8simplu.workers.dev/viasatkino/index.m3u8
+#EXTINF:-1 tvg-name="24 Horas" group-title="News;Public",24 Horas
+http://185.47.212.25:8080/24h_HD/index.m3u8
+#EXTINF:-1 tvg-name="Sony Max 1" group-title="Movies",Sony Max 1
+http://103.159.180.34:5001/live/3418.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Viasat Film" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Viasat Film
+http://88.212.15.19/live/viasat_film/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Film+" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Film+
+http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Mozi+" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Mozi+
+http://88.212.15.19/live/mozi_plusz/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Moziverzum" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Moziverzum
+http://88.212.15.19/live/moziverzum/index.m3u8

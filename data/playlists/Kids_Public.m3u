@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-23 00:10:08
-# Всего каналов: 20864
-# Новых за сессию: 0
+# Обновлено: 2026-07-23 01:05:44
+# Всего каналов: 20905
+# Новых за сессию: 41
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Public
-# Каналов: 2
-# Обновлено: 2026-07-23 00:10:09
+# Каналов: 3
+# Обновлено: 2026-07-23 01:05:44
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Clan TVE [Geo-blocked]" group-title="Kids;Public",Clan TVE [Geo-blocked]
@@ -15,6 +15,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/ztnr.rtve.es/ztnr/5466
 
 #EXTINF:-1 tvg-name="Clan Internacional Americas [Geo-blocked]" group-title="Kids;Public",Clan Internacional Americas [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
+
+#EXTINF:-1 tvg-name="Clan" group-title="Kids;Public",Clan
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.47.212.25:8080/Clan_HD/index.m3u8
 
 #EXTINF:-1 tvg-name="TNT Kids (288p)" group-title="Kids",TNT Kids (288p)
 https://restreamer1.tnt.ba/hls/tntkids.m3u8
@@ -882,3 +885,9 @@ https://aes.m3u8simplu.workers.dev/nicktoons/index.m3u8
 https://aes.m3u8simplu.workers.dev/disneychannel/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Nickelodeon (576p)" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Nickelodeon (576p)
 https://aes.m3u8simplu.workers.dev/nickelodeon/index.m3u8
+#EXTINF:-1 tvg-name="KidOO" group-title="Animation;Kids",KidOO
+http://15.204.246.24:8080/KidooHD/index.m3u8
+#EXTINF:-1 tvg-name="24 Horas" group-title="News;Public",24 Horas
+http://185.47.212.25:8080/24h_HD/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Disney Channel" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Disney Channel
+http://88.212.15.19/live/disney_channel_hun/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-23 00:10:08
-# Всего каналов: 20864
-# Новых за сессию: 0
+# Обновлено: 2026-07-23 01:05:44
+# Всего каналов: 20905
+# Новых за сессию: 41
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;Comedy;Public;Series
 # Каналов: 1
-# Обновлено: 2026-07-23 00:10:09
+# Обновлено: 2026-07-23 01:05:44
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="3Cat Plats bruts" group-title="Classic;Comedy;Public;Series",3Cat Plats bruts
@@ -1323,3 +1323,7 @@ http://185.102.171.218/FOX_Life/index.m3u8
 https://aes.m3u8simplu.workers.dev/comedycentral/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Classic;Movies",Bollywood Classic" group-title="Classic;Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Classic;Movies",Bollywood Classic
 https://aes.m3u8simplu.workers.dev/bollywood/index.m3u8
+#EXTINF:-1 tvg-name="24 Horas" group-title="News;Public",24 Horas
+http://185.47.212.25:8080/24h_HD/index.m3u8
+#EXTINF:-1 tvg-name="Clan" group-title="Kids;Public",Clan
+http://185.47.212.25:8080/Clan_HD/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-23 00:10:08
-# Всего каналов: 20864
-# Новых за сессию: 0
+# Обновлено: 2026-07-23 01:05:44
+# Всего каналов: 20905
+# Новых за сессию: 41
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;Music
 # Каналов: 3
-# Обновлено: 2026-07-23 00:10:09
+# Обновлено: 2026-07-23 01:05:44
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Shemaroo Filmi Gaane" group-title="Movies;Music",Shemaroo Filmi Gaane
@@ -1957,7 +1957,7 @@ https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
 https://bss1.neterra.tv/magictv/magictv.m3u8
 #EXTINF:-1 tvg-name="MNM" group-title="Music",MNM
 https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Mooz Dance" group-title="Music",Mooz Dance
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",Mooz Dance" group-title="Music",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",Mooz Dance
 https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
 #EXTINF:-1 tvg-name="Mooz Hits" group-title="Music",Mooz Hits
 https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
@@ -2969,8 +2969,6 @@ https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d7
 https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="CMC-USA Country Music Channel" group-title="Music",CMC-USA Country Music Channel
 https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
-#EXTINF:-1 tvg-name="FXM" group-title="Movies",FXM
-http://40.160.24.52/FXM/index.m3u8
 #EXTINF:-1 tvg-name="Universal Premiere" group-title="Movies",Universal Premiere
 http://200.91.32.158:8080/universalpremierehd/index.m3u8
 #EXTINF:-1 tvg-name="USA Network West" group-title="Comedy;Movies;Series;Sports",USA Network West
@@ -3133,6 +3131,8 @@ http://149.100.11.235:8080/Mazzika/index.m3u8
 http://stream.mcquack.net/465/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Nashe Lubimoe Kino Ukraine" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Nashe Lubimoe Kino Ukraine
 http://stream.mcquack.net/456/index.m3u8
+#EXTINF:-1 tvg-name="FXM" group-title="Movies",FXM
+https://gpuserver3.tier1streams.com/FXM/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",AMC Europe Romania (576p)" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",AMC Europe Romania (576p)
 https://aes.m3u8simplu.workers.dev/amc/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",AXN Black Romania (406p)" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",AXN Black Romania (406p)
@@ -3159,3 +3159,13 @@ https://astra.emitv.ro/hls/emi/index.m3u8
 https://aes.m3u8simplu.workers.dev/musicchannel/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",ZU TV" group-title="Music",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",ZU TV
 https://aes.m3u8simplu.workers.dev/zutv/index.m3u8
+#EXTINF:-1 tvg-name="Sony Max 1" group-title="Movies",Sony Max 1
+http://103.159.180.34:5001/live/3418.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Viasat Film" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Viasat Film
+http://88.212.15.19/live/viasat_film/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Film+" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Film+
+http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Mozi+" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Mozi+
+http://88.212.15.19/live/mozi_plusz/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Moziverzum" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Moziverzum
+http://88.212.15.19/live/moziverzum/index.m3u8

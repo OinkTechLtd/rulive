@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-23 00:10:08
-# Всего каналов: 20864
-# Новых за сессию: 0
+# Обновлено: 2026-07-23 01:05:44
+# Всего каналов: 20905
+# Новых за сессию: 41
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;General
 # Каналов: 6
-# Обновлено: 2026-07-23 00:10:09
+# Обновлено: 2026-07-23 01:05:44
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="MCN6" group-title="Entertainment;General",MCN6
@@ -7490,3 +7490,11 @@ http://45.187.0.19:9090/tvusa/index.m3u8
 https://vps122407.serveur-vps.net/hls/drtv.m3u8
 #EXTINF:-1 tvg-name="Prime" group-title="General;Sports",Prime
 https://mn-nl.mncdn.com/primetv/live/index.m3u8
+#EXTINF:-1 tvg-name="ATB La Paz" group-title="General",ATB La Paz
+http://15.204.246.24:8080/ATBHD/index.m3u8
+#EXTINF:-1 tvg-name="Extra TV 42" group-title="General",Extra TV 42
+https://d2n1wzrr0aogf5.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-name="F10" group-title="General",F10
+http://15.204.246.24:8080/F10HD/index.m3u8
+#EXTINF:-1 tvg-name="Nuestra Tele Internacional" group-title="General",Nuestra Tele Internacional
+http://170.238.200.199:80/nuestra-tele/index.m3u8

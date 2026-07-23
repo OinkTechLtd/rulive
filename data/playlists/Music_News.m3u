@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-23 00:10:08
-# Всего каналов: 20864
-# Новых за сессию: 0
+# Обновлено: 2026-07-23 01:05:44
+# Всего каналов: 20905
+# Новых за сессию: 41
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;News
 # Каналов: 3
-# Обновлено: 2026-07-23 00:10:09
+# Обновлено: 2026-07-23 01:05:44
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Onda 15 TV (224p)" group-title="Music;News",Onda 15 TV (224p)
@@ -3073,7 +3073,7 @@ https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
 https://bss1.neterra.tv/magictv/magictv.m3u8
 #EXTINF:-1 tvg-name="MNM" group-title="Music",MNM
 https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Mooz Dance" group-title="Music",Mooz Dance
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",Mooz Dance" group-title="Music",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",Mooz Dance
 https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
 #EXTINF:-1 tvg-name="Mooz Hits" group-title="Music",Mooz Hits
 https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
@@ -3671,6 +3671,8 @@ http://45.189.62.33:8002/play/a0ls/index.m3u8
 https://streams.comclark.com/pknsd/anc/playlist.m3u8
 #EXTINF:-1 tvg-name="Genial TV" group-title="Music",Genial TV
 https://v1.tustreaming.cl/genialtv/index.m3u8
+#EXTINF:-1 tvg-name="Latina Noticias 24/7" group-title="News",Latina Noticias 24/7
+https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
 #EXTINF:-1 tvg-name="Patagonia Radio TV" group-title="Music",Patagonia Radio TV
 https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8
 #EXTINF:-1 tvg-name="CRTV News" group-title="News",CRTV News
@@ -3685,8 +3687,6 @@ https://master.tucableip.com/audiokisstv/index.m3u8
 https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8
 #EXTINF:-1 tvg-name="Corazon TV" group-title="Music",Corazon TV
 https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8
-#EXTINF:-1 tvg-name="Latina Noticias 24/7" group-title="News",Latina Noticias 24/7
-https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Edelweiss" group-title="Music",Radio Edelweiss
 https://vmix.dyndns.biz/Edelweiss/index.m3u8
 #EXTINF:-1 tvg-name="Radio Fiessta" group-title="Music",Radio Fiessta
@@ -3937,3 +3937,5 @@ https://astra.emitv.ro/hls/emi/index.m3u8
 https://aes.m3u8simplu.workers.dev/musicchannel/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",ZU TV" group-title="Music",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",ZU TV
 https://aes.m3u8simplu.workers.dev/zutv/index.m3u8
+#EXTINF:-1 tvg-name="24 Horas" group-title="News;Public",24 Horas
+http://185.47.212.25:8080/24h_HD/index.m3u8

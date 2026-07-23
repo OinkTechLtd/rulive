@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-23 00:10:08
-# Всего каналов: 20864
-# Новых за сессию: 0
+# Обновлено: 2026-07-23 01:05:44
+# Всего каналов: 20905
+# Новых за сессию: 41
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Music
 # Каналов: 3
-# Обновлено: 2026-07-23 00:10:09
+# Обновлено: 2026-07-23 01:05:44
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ACW UG TV (480p)" group-title="General;Music",ACW UG TV (480p)
@@ -4681,7 +4681,7 @@ https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
 https://bss1.neterra.tv/magictv/magictv.m3u8
 #EXTINF:-1 tvg-name="MNM" group-title="Music",MNM
 https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Mooz Dance" group-title="Music",Mooz Dance
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",Mooz Dance" group-title="Music",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",Mooz Dance
 https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
 #EXTINF:-1 tvg-name="Mooz Hits" group-title="Music",Mooz Hits
 https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
@@ -7323,3 +7323,11 @@ https://astra.emitv.ro/hls/emi/index.m3u8
 https://aes.m3u8simplu.workers.dev/musicchannel/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",ZU TV" group-title="Music",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",ZU TV
 https://aes.m3u8simplu.workers.dev/zutv/index.m3u8
+#EXTINF:-1 tvg-name="ATB La Paz" group-title="General",ATB La Paz
+http://15.204.246.24:8080/ATBHD/index.m3u8
+#EXTINF:-1 tvg-name="Extra TV 42" group-title="General",Extra TV 42
+https://d2n1wzrr0aogf5.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-name="F10" group-title="General",F10
+http://15.204.246.24:8080/F10HD/index.m3u8
+#EXTINF:-1 tvg-name="Nuestra Tele Internacional" group-title="General",Nuestra Tele Internacional
+http://170.238.200.199:80/nuestra-tele/index.m3u8

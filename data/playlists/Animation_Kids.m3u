@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-23 00:10:08
-# Всего каналов: 20864
-# Новых за сессию: 0
+# Обновлено: 2026-07-23 01:05:44
+# Всего каналов: 20905
+# Новых за сессию: 41
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Kids
-# Каналов: 66
-# Обновлено: 2026-07-23 00:10:09
+# Каналов: 67
+# Обновлено: 2026-07-23 01:05:44
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Мультимания (576p)" group-title="Animation;Kids",Мультимания (576p)
@@ -204,6 +204,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/181.78.14.26:4000/play
 
 #EXTINF:-1 tvg-name="Cartoon Classics (576p)" group-title="Animation;Kids",Cartoon Classics (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/5.188.159.128:8070/Cartoon_Network/index.m3u8
+
+#EXTINF:-1 tvg-name="KidOO" group-title="Animation;Kids",KidOO
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/15.204.246.24:8080/KidooHD/index.m3u8
 
 #EXTINF:-1 tvg-name="Nickelodeon (576p)" group-title="Animation;Kids",Nickelodeon (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/195.64.140.147:10121/121
@@ -1042,3 +1045,7 @@ https://aes.m3u8simplu.workers.dev/nicktoons/index.m3u8
 https://aes.m3u8simplu.workers.dev/disneychannel/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Nickelodeon (576p)" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Nickelodeon (576p)
 https://aes.m3u8simplu.workers.dev/nickelodeon/index.m3u8
+#EXTINF:-1 tvg-name="Clan" group-title="Kids;Public",Clan
+http://185.47.212.25:8080/Clan_HD/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Disney Channel" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Disney Channel
+http://88.212.15.19/live/disney_channel_hun/index.m3u8

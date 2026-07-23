@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-23 00:10:08
-# Всего каналов: 20864
-# Новых за сессию: 0
+# Обновлено: 2026-07-23 01:05:44
+# Всего каналов: 20905
+# Новых за сессию: 41
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Series
-# Каналов: 424
-# Обновлено: 2026-07-23 00:10:09
+# Каналов: 426
+# Обновлено: 2026-07-23 01:05:44
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Смотрим Честный Детектив" group-title="Series",Смотрим Честный Детектив
@@ -1255,6 +1255,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.55/WE_TV/ind
 #EXTINF:-1 tvg-name="TNT Novelas Brazil" group-title="Series",TNT Novelas Brazil
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.162.64.114/TNT_NOVELAS/index.m3u8
 
+#EXTINF:-1 tvg-name="Latina Clasicos" group-title="Series",Latina Clasicos
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.171.108.253:8888/LATINA/index.m3u8
+
 #EXTINF:-1 tvg-name="Tlnovelas Latin America" group-title="Series",Tlnovelas Latin America
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/177.234.249.135:8888/Telenovelas/index.m3u8
 
@@ -1272,6 +1275,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/466
 
 #EXTINF:-1 tvg-name="FX Life" group-title="Series",FX Life
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.102.171.218/FOX_Life/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT Novelas" group-title="Series",TNT Novelas
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/15.204.246.24:8080/TNTNovelasHD/index.m3u8
 
 #EXTINF:-1 tvg-name="13 Teleseries" group-title="Series",13 Teleseries
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8

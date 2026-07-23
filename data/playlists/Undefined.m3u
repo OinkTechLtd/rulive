@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-23 00:10:08
-# Всего каналов: 20864
-# Новых за сессию: 0
+# Обновлено: 2026-07-23 01:05:44
+# Всего каналов: 20905
+# Новых за сессию: 41
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Undefined
-# Каналов: 4129
-# Обновлено: 2026-07-23 00:10:09
+# Каналов: 4140
+# Обновлено: 2026-07-23 01:05:44
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Дождь [Geo-blocked]" group-title="Undefined",Дождь [Geo-blocked]
@@ -11983,6 +11983,39 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/aes.m3u8simplu.workers
 #EXTINF:-1 tvg-name="Golden" group-title="Undefined",Golden
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/38.19.41.46:8081/MTV/index.m3u8
 
+#EXTINF:-1 tvg-name="Showtime Extreme" group-title="Undefined",Showtime Extreme
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.55/SHOWTIME_EXTREME/index.m3u8
+
+#EXTINF:-1 tvg-name="Showtime Next" group-title="Undefined",Showtime Next
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.55/SHOWTIME_NEXT/index.m3u8
+
+#EXTINF:-1 tvg-name="Showtime West" group-title="Undefined",Showtime West
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.55/SHOWTIME_WEST/index.m3u8
+
+#EXTINF:-1 tvg-name="Starz Edge" group-title="Undefined",Starz Edge
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.55/STARZ_EDGE/index.m3u8
+
+#EXTINF:-1 tvg-name="Starz Encore" group-title="Undefined",Starz Encore
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.55/STARZ_ENCORE/index.m3u8
+
+#EXTINF:-1 tvg-name="Starz West" group-title="Undefined",Starz West
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.55/STARZ_WEST/index.m3u8
+
+#EXTINF:-1 tvg-name="Plus TLT" group-title="Undefined",Plus TLT
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/15.204.246.24:8080/PlusTLTHD/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/88.212.15.19/live/viasat2/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/88.212.15.19/live/viasat3/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/88.212.15.19/live/viasat6/index.m3u8
+
+#EXTINF:-1 tvg-name="Vos TV" group-title="Undefined",Vos TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/15.204.246.24:8080/VOSTVHD/index.m3u8
+
 #EXTINF:-1 tvg-name="R9" group-title="Undefined",R9
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
 
@@ -12759,3 +12792,9 @@ http://103.175.73.12:8080/live/709/master.m3u8
 http://stream.mcquack.net/398/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",PRO TV" group-title="Undefined",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",PRO TV
 https://aes.m3u8simplu.workers.dev/protv/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",Viasat2" group-title="Undefined",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",Viasat2
+http://88.212.15.19/live/viasat2/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",Viasat 3" group-title="Undefined",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",Viasat 3
+http://88.212.15.19/live/viasat3/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",Viasat 6" group-title="Undefined",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",Viasat 6
+http://88.212.15.19/live/viasat6/index.m3u8
