@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-23 23:59:00
-# Всего каналов: 20928
-# Новых за сессию: 1
+# Обновлено: 2026-07-24 00:57:40
+# Всего каналов: 20955
+# Новых за сессию: 27
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Movies;Series;Sports
 # Каналов: 4
-# Обновлено: 2026-07-23 23:59:01
+# Обновлено: 2026-07-24 00:57:40
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="USA Network East" group-title="Comedy;Movies;Series;Sports",USA Network East
@@ -24,7 +24,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.55/USA_NETWO
 
 #EXTINF:-1 tvg-name="CBC Sport [Geo-blocked]" group-title="Sports",CBC Sport [Geo-blocked]
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
-#EXTINF:-1 tvg-name="Беларусь 5" group-title="Sports",Беларусь 5
+#EXTINF:-1 tvg-name="Belarus-5" group-title="Sports",Belarus-5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="13 Teleseries" group-title="Series",13 Teleseries
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
@@ -3006,8 +3006,6 @@ https://adpnetworkhd-cmd.github.io/iptv/LubimoeHD.m3u8
 https://adpnetworkhd-cmd.github.io/iptv/BoltUA.m3u8
 #EXTINF:-1 tvg-name="Enter-Film" group-title="Movies",Enter-Film
 https://adpnetworkhd-cmd.github.io/iptv/Enterfilm.m3u8
-#EXTINF:-1 tvg-name="Belarus-5" group-title="Sports",Belarus-5
-https://adpnetworkhd-cmd.github.io/iptv/Belarus5.m3u8
 #EXTINF:-1 tvg-name="Atreseries" group-title="Series",Atreseries
 https://adpnetworkhd-cmd.github.io/iptv/A3Series.m3u8
 #EXTINF:-1 tvg-name="AXN Movies" group-title="Movies",AXN Movies
@@ -3594,3 +3592,9 @@ http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8
 http://88.212.15.19/live/mozi_plusz/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Moziverzum" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Moziverzum
 http://88.212.15.19/live/moziverzum/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Festival Russia" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Festival Russia
+http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/31807/index.m3u8
+#EXTINF:-1 tvg-name="+SBT Novelas [Geo-blocked]" group-title="Series",+SBT Novelas [Geo-blocked]
+https://novelas.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/Novelas_cmaf/index.m3u8
+#EXTINF:-1 tvg-name="VSBet" group-title="Sports",VSBet
+https://live05.meung.app/live/90865415.m3u8

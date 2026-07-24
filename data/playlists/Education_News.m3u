@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-23 23:59:00
-# Всего каналов: 20928
-# Новых за сессию: 1
+# Обновлено: 2026-07-24 00:57:40
+# Всего каналов: 20955
+# Новых за сессию: 27
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;News
 # Каналов: 1
-# Обновлено: 2026-07-23 23:59:01
+# Обновлено: 2026-07-24 00:57:40
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Dabanga TV" group-title="Education;News",Dabanga TV
@@ -17,7 +17,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls.dabangasudan.org/h
 https://stream.tvrain.tv/live/tvrain.m3u8
 #EXTINF:-1 tvg-name="Дождь (резервный)" group-title="News",Дождь (резервный)
 https://stream.tvrain.tv/hls/tvrain_live.m3u8
-#EXTINF:-1 tvg-name="Беларусь 24" group-title="News",Беларусь 24
+#EXTINF:-1 tvg-name="Belarus-24" group-title="News",Belarus-24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="ICI RDI" group-title="News",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
@@ -2509,8 +2509,6 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
 https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
 #EXTINF:-1 tvg-name="Opinionsur" group-title="News",Opinionsur
 https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
-#EXTINF:-1 tvg-name="Belarus-24" group-title="News",Belarus-24
-http://178.124.179.122:8080/Belarus24/index.m3u8
 #EXTINF:-1 tvg-name="Canal I" group-title="News",Canal I
 https://streaming.canal-i.com/canal-i/live/master.m3u8
 #EXTINF:-1 tvg-name="CN3 Television" group-title="News",CN3 Television
@@ -2823,3 +2821,7 @@ https://aes.m3u8simplu.workers.dev/euronews/index.m3u8
 https://aes.m3u8simplu.workers.dev/primanews/index.m3u8
 #EXTINF:-1 tvg-name="24 Horas" group-title="News;Public",24 Horas
 http://185.47.212.25:8080/24h_HD/index.m3u8
+#EXTINF:-1 tvg-name="Belarus-24 (576p)" group-title="News",Belarus-24 (576p)
+http://ott-7.sevstar.net/belarus24/index.m3u8
+#EXTINF:-1 tvg-name="Lanzhou Comprehensive News Channel" group-title="News",Lanzhou Comprehensive News Channel
+https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-23 23:59:00
-# Всего каналов: 20928
-# Новых за сессию: 1
+# Обновлено: 2026-07-24 00:57:40
+# Всего каналов: 20955
+# Новых за сессию: 27
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Sports
 # Каналов: 1
-# Обновлено: 2026-07-23 23:59:01
+# Обновлено: 2026-07-24 00:57:40
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ADO TV" group-title="Kids;Sports",ADO TV
@@ -15,7 +15,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/strhls.streamakaci.tv/
 
 #EXTINF:-1 tvg-name="CBC Sport [Geo-blocked]" group-title="Sports",CBC Sport [Geo-blocked]
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
-#EXTINF:-1 tvg-name="Беларусь 5" group-title="Sports",Беларусь 5
+#EXTINF:-1 tvg-name="Belarus-5" group-title="Sports",Belarus-5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TNT Kids (288p)" group-title="Kids",TNT Kids (288p)
 https://restreamer1.tnt.ba/hls/tntkids.m3u8
@@ -199,7 +199,7 @@ http://31.148.48.15/Futbol_HD/index.m3u8
 https://streamer.filmowo.xyz/memfs/cd3264be-9df6-43cb-91ca-364082c257eb.m3u8
 #EXTINF:-1 tvg-name="Беларусь 5 Интернет" group-title="Sports",Беларусь 5 Интернет
 https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Balapan TV" group-title="Kids",Balapan TV
+#EXTINF:-1 tvg-name="Balapan" group-title="Kids",Balapan
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 #EXTINF:-1 tvg-name="QazSport (480p) [Geo-blocked]" group-title="Sports",QazSport (480p) [Geo-blocked]
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
@@ -1555,8 +1555,6 @@ http://bethoven.af-stream.com:1600/s/kwtlxswl/junior-il/video.m3u8
 https://raw.githubusercontent.com/seyfettinaskar7-sudo/polish-iptv/refs/heads/main/streams/tvpabc2.m3u
 #EXTINF:-1 tvg-name="Kapitan Fantastika" group-title="Kids",Kapitan Fantastika
 https://adpnetworkhd-cmd.github.io/iptv/KapitanFantastikaHD.m3u8
-#EXTINF:-1 tvg-name="Belarus-5" group-title="Sports",Belarus-5
-https://adpnetworkhd-cmd.github.io/iptv/Belarus5.m3u8
 #EXTINF:-1 tvg-name="Gol" group-title="Sports",Gol
 https://adpnetworkhd-cmd.github.io/iptv/GOL.m3u8
 #EXTINF:-1 tvg-name="Cocuk Smart" group-title="Kids",Cocuk Smart
@@ -1775,7 +1773,7 @@ http://znty.dyndns.org:5010/hls/stv5.m3u8
 http://znty.dyndns.org:5010/hls/sportv+.m3u8
 #EXTINF:-1 tvg-name="Solnce (576p)" group-title="Animation;Kids",Solnce (576p)
 http://31.148.48.15/Solnce/index.m3u8
-#EXTINF:-1 tvg-name="Balapan" group-title="Kids",Balapan
+#EXTINF:-1 tvg-name="Balapan International" group-title="Kids",Balapan International
 https://live-3.otcnet.ru/Balapan/index.m3u8
 #EXTINF:-1 tvg-name="Cartoon Classics (576p)" group-title="Animation;Kids",Cartoon Classics (576p)
 http://5.188.159.128:8070/Cartoon_Network/index.m3u8
@@ -1909,3 +1907,7 @@ http://15.204.246.24:8080/KidooHD/index.m3u8
 http://185.47.212.25:8080/Clan_HD/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Disney Channel" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Disney Channel
 http://88.212.15.19/live/disney_channel_hun/index.m3u8
+#EXTINF:-1 tvg-name="SBT Kids [Geo-blocked]" group-title="Kids",SBT Kids [Geo-blocked]
+https://8994803e454548319ffc0775bc04e0c1.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-TVZyn/index.m3u8
+#EXTINF:-1 tvg-name="VSBet" group-title="Sports",VSBet
+https://live05.meung.app/live/90865415.m3u8

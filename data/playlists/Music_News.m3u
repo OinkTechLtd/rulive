@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-23 23:59:00
-# Всего каналов: 20928
-# Новых за сессию: 1
+# Обновлено: 2026-07-24 00:57:40
+# Всего каналов: 20955
+# Новых за сессию: 27
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;News
 # Каналов: 3
-# Обновлено: 2026-07-23 23:59:01
+# Обновлено: 2026-07-24 00:57:40
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Onda 15 TV (224p)" group-title="Music;News",Onda 15 TV (224p)
@@ -23,7 +23,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/4c4b867c89244861ac2164
 https://stream.tvrain.tv/live/tvrain.m3u8
 #EXTINF:-1 tvg-name="Дождь (резервный)" group-title="News",Дождь (резервный)
 https://stream.tvrain.tv/hls/tvrain_live.m3u8
-#EXTINF:-1 tvg-name="Беларусь 24" group-title="News",Беларусь 24
+#EXTINF:-1 tvg-name="Belarus-24" group-title="News",Belarus-24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="RTV Glas Drine (404p)" group-title="General;Music",RTV Glas Drine (404p)
 http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
@@ -3419,8 +3419,6 @@ https://streaming.purum.cl/ritoquetv/index.m3u8
 https://tv1.ruidosfm.cl/ruidostv/stream.m3u8
 #EXTINF:-1 tvg-name="Sensacion Costa" group-title="Music",Sensacion Costa
 https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8
-#EXTINF:-1 tvg-name="Belarus-24" group-title="News",Belarus-24
-http://178.124.179.122:8080/Belarus24/index.m3u8
 #EXTINF:-1 tvg-name="Canal I" group-title="News",Canal I
 https://streaming.canal-i.com/canal-i/live/master.m3u8
 #EXTINF:-1 tvg-name="CN3 Television" group-title="News",CN3 Television
@@ -3939,3 +3937,7 @@ https://aes.m3u8simplu.workers.dev/musicchannel/index.m3u8
 https://aes.m3u8simplu.workers.dev/zutv/index.m3u8
 #EXTINF:-1 tvg-name="24 Horas" group-title="News;Public",24 Horas
 http://185.47.212.25:8080/24h_HD/index.m3u8
+#EXTINF:-1 tvg-name="Belarus-24 (576p)" group-title="News",Belarus-24 (576p)
+http://ott-7.sevstar.net/belarus24/index.m3u8
+#EXTINF:-1 tvg-name="Lanzhou Comprehensive News Channel" group-title="News",Lanzhou Comprehensive News Channel
+https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8

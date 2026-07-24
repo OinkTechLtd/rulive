@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-23 23:59:00
-# Всего каналов: 20928
-# Новых за сессию: 1
+# Обновлено: 2026-07-24 00:57:40
+# Всего каналов: 20955
+# Новых за сессию: 27
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Movies
 # Каналов: 2
-# Обновлено: 2026-07-23 23:59:01
+# Обновлено: 2026-07-24 00:57:40
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="KidsFlix" group-title="Kids;Movies",KidsFlix
@@ -286,7 +286,7 @@ https://streamer.filmowo.xyz/memfs/cd3264be-9df6-43cb-91ca-364082c257eb.m3u8
 http://89.254.128.5:22280/viasat_kino/index.m3u8
 #EXTINF:-1 tvg-name="Viasat Kino Action (576p)" group-title="Movies",Viasat Kino Action (576p)
 http://89.254.128.5:22280/viasat_kino_action/index.m3u8
-#EXTINF:-1 tvg-name="Balapan TV" group-title="Kids",Balapan TV
+#EXTINF:-1 tvg-name="Balapan" group-title="Kids",Balapan
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 #EXTINF:-1 tvg-name="3ABN Kids Network" group-title="Animation;Kids;Religious",3ABN Kids Network
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
@@ -2188,7 +2188,7 @@ https://phcornerultralast.qzz.io/hls/laslo-serverless/dr_nickjr/index.m3u8
 http://103.137.83.62:9090/play/21/index.m3u8
 #EXTINF:-1 tvg-name="Solnce (576p)" group-title="Animation;Kids",Solnce (576p)
 http://31.148.48.15/Solnce/index.m3u8
-#EXTINF:-1 tvg-name="Balapan" group-title="Kids",Balapan
+#EXTINF:-1 tvg-name="Balapan International" group-title="Kids",Balapan International
 https://live-3.otcnet.ru/Balapan/index.m3u8
 #EXTINF:-1 tvg-name="AMC Latin America Brazil" group-title="Movies",AMC Latin America Brazil
 http://45.190.156.152/AMC/index.m3u8
@@ -2344,3 +2344,7 @@ http://88.212.15.19/live/mozi_plusz/index.m3u8
 http://88.212.15.19/live/moziverzum/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Disney Channel" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Disney Channel
 http://88.212.15.19/live/disney_channel_hun/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Festival Russia" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Festival Russia
+http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/31807/index.m3u8
+#EXTINF:-1 tvg-name="SBT Kids [Geo-blocked]" group-title="Kids",SBT Kids [Geo-blocked]
+https://8994803e454548319ffc0775bc04e0c1.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-TVZyn/index.m3u8

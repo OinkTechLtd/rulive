@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-23 23:59:00
-# Всего каналов: 20928
-# Новых за сессию: 1
+# Обновлено: 2026-07-24 00:57:40
+# Всего каналов: 20955
+# Новых за сессию: 27
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;Sports
 # Каналов: 1
-# Обновлено: 2026-07-23 23:59:01
+# Обновлено: 2026-07-24 00:57:40
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RTI La 3" group-title="Music;Sports",RTI La 3
@@ -15,7 +15,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/69.64.57.208/la3/index
 
 #EXTINF:-1 tvg-name="CBC Sport [Geo-blocked]" group-title="Sports",CBC Sport [Geo-blocked]
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
-#EXTINF:-1 tvg-name="Беларусь 5" group-title="Sports",Беларусь 5
+#EXTINF:-1 tvg-name="Belarus-5" group-title="Sports",Belarus-5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="RTV Glas Drine (404p)" group-title="General;Music",RTV Glas Drine (404p)
 http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
@@ -2315,8 +2315,6 @@ https://tv.mediacp.eu:8081/happyradio/index.m3u8
 http://143.14.178.40:7777/Music_Box_HD/index.m3u8
 #EXTINF:-1 tvg-name="DeporTV" group-title="Sports",DeporTV
 https://edgectc.com/DEPORTES_CTC_PLUS/index.m3u8
-#EXTINF:-1 tvg-name="Belarus-5" group-title="Sports",Belarus-5
-https://adpnetworkhd-cmd.github.io/iptv/Belarus5.m3u8
 #EXTINF:-1 tvg-name="Gol" group-title="Sports",Gol
 https://adpnetworkhd-cmd.github.io/iptv/GOL.m3u8
 #EXTINF:-1 tvg-name="Trace Urban France" group-title="Music",Trace Urban France
@@ -2739,3 +2737,5 @@ https://aes.m3u8simplu.workers.dev/musicchannel/index.m3u8
 https://aes.m3u8simplu.workers.dev/zutv/index.m3u8
 #EXTINF:-1 tvg-name="beIN Sports en Espanol" group-title="Sports",beIN Sports en Espanol
 https://futbol9865.ultratv13.workers.dev/deportivo111/69.m3u8
+#EXTINF:-1 tvg-name="VSBet" group-title="Sports",VSBet
+https://live05.meung.app/live/90865415.m3u8

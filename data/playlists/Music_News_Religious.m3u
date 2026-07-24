@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-23 23:59:00
-# Всего каналов: 20928
-# Новых за сессию: 1
+# Обновлено: 2026-07-24 00:57:40
+# Всего каналов: 20955
+# Новых за сессию: 27
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;News;Religious
 # Каналов: 1
-# Обновлено: 2026-07-23 23:59:01
+# Обновлено: 2026-07-24 00:57:40
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Lingkar TV" group-title="Music;News;Religious",Lingkar TV
@@ -17,7 +17,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/lingkartv.my.id/hls/li
 https://stream.tvrain.tv/live/tvrain.m3u8
 #EXTINF:-1 tvg-name="Дождь (резервный)" group-title="News",Дождь (резервный)
 https://stream.tvrain.tv/hls/tvrain_live.m3u8
-#EXTINF:-1 tvg-name="Беларусь 24" group-title="News",Беларусь 24
+#EXTINF:-1 tvg-name="Belarus-24" group-title="News",Belarus-24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="RTV Glas Drine (404p)" group-title="General;Music",RTV Glas Drine (404p)
 http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
@@ -4857,8 +4857,6 @@ https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8
 https://snrtworker.kharazbelaid.workers.dev/?id=assadisa.m3u8
 #EXTINF:-1 tvg-name="Spas (576p)" group-title="Religious",Spas (576p)
 https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8
-#EXTINF:-1 tvg-name="Belarus-24" group-title="News",Belarus-24
-http://178.124.179.122:8080/Belarus24/index.m3u8
 #EXTINF:-1 tvg-name="Trece TV (576p)" group-title="Religious",Trece TV (576p)
 https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal I" group-title="News",Canal I
@@ -5513,3 +5511,7 @@ https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3
 http://185.47.212.25:8080/24h_HD/index.m3u8
 #EXTINF:-1 tvg-name="CVC" group-title="Religious",CVC
 http://15.204.246.24:8080/CVCHD/index.m3u8
+#EXTINF:-1 tvg-name="Belarus-24 (576p)" group-title="News",Belarus-24 (576p)
+http://ott-7.sevstar.net/belarus24/index.m3u8
+#EXTINF:-1 tvg-name="Lanzhou Comprehensive News Channel" group-title="News",Lanzhou Comprehensive News Channel
+https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8

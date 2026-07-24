@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-23 23:59:00
-# Всего каналов: 20928
-# Новых за сессию: 1
+# Обновлено: 2026-07-24 00:57:40
+# Всего каналов: 20955
+# Новых за сессию: 27
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Series
 # Каналов: 6
-# Обновлено: 2026-07-23 23:59:01
+# Обновлено: 2026-07-24 00:57:40
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Anger Management Channel" group-title="Comedy;Series",Anger Management Channel
@@ -1102,3 +1102,5 @@ http://stream.mcquack.net/73/index.m3u8
 http://185.102.171.218/FOX_Life/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Comedy",Comedy Central (576p)" group-title="Comedy",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Comedy",Comedy Central (576p)
 https://aes.m3u8simplu.workers.dev/comedycentral/index.m3u8
+#EXTINF:-1 tvg-name="+SBT Novelas [Geo-blocked]" group-title="Series",+SBT Novelas [Geo-blocked]
+https://novelas.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/Novelas_cmaf/index.m3u8

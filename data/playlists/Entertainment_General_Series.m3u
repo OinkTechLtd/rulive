@@ -1,23 +1,23 @@
 #EXTM3U
-# Обновлено: 2026-07-23 23:59:00
-# Всего каналов: 20928
-# Новых за сессию: 1
+# Обновлено: 2026-07-24 00:57:40
+# Всего каналов: 20955
+# Новых за сессию: 27
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;General;Series
 # Каналов: 1
-# Обновлено: 2026-07-23 23:59:01
+# Обновлено: 2026-07-24 00:57:40
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="HTV3" group-title="Entertainment;General;Series",HTV3
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/vc.101vn.com/htv/htvcmb.php?id=2535
 
-#EXTINF:-1 tvg-name="Беларусь 2" group-title="Entertainment",Беларусь 2
+#EXTINF:-1 tvg-name="Belarus-2" group-title="Entertainment",Belarus-2
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="ОНТ (576p)" group-title="General",ОНТ (576p)
 https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
-#EXTINF:-1 tvg-name="СТБ" group-title="General",СТБ
+#EXTINF:-1 tvg-name="STV" group-title="General",STV
 https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="БелРос (576p)" group-title="General",БелРос (576p)
 https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
@@ -471,7 +471,7 @@ https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
 https://stream.kaztrk.kz/regional/semeytv/index.m3u8
 #EXTINF:-1 tvg-name="Silk Way" group-title="General",Silk Way
 https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
-#EXTINF:-1 tvg-name="КТК" group-title="General",КТК
+#EXTINF:-1 tvg-name="KTK" group-title="General",KTK
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="МТРК (576p)" group-title="General",МТРК (576p)
 https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
@@ -8267,3 +8267,33 @@ https://d2n1wzrr0aogf5.cloudfront.net/ts:abr.m3u8
 http://15.204.246.24:8080/F10HD/index.m3u8
 #EXTINF:-1 tvg-name="Nuestra Tele Internacional" group-title="General",Nuestra Tele Internacional
 http://170.238.200.199:80/nuestra-tele/index.m3u8
+#EXTINF:-1 tvg-name="KTK (576p)" group-title="General",KTK (576p)
+http://stream.mcquack.net/26/index.m3u8
+#EXTINF:-1 tvg-name="Armenia 1 America" group-title="General",Armenia 1 America
+https://amtvusdvr.tulix.tv/am4abr/index.m3u8
+#EXTINF:-1 tvg-name="+SBT Novelas [Geo-blocked]" group-title="Series",+SBT Novelas [Geo-blocked]
+https://novelas.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/Novelas_cmaf/index.m3u8
+#EXTINF:-1 tvg-name="Cinturao Verde" group-title="General",Cinturao Verde
+https://play.redecinturaoverde.com.br/playlist.m3u8
+#EXTINF:-1 tvg-name="MBC Brasil TV" group-title="General",MBC Brasil TV
+https://play.mbcbrasil.tv.br/playlist.m3u8
+#EXTINF:-1 tvg-name="RCTV Brasil" group-title="General",RCTV Brasil
+https://stmv.webtvninjas.com.br/rctv/rctv/playlist.m3u8
+#EXTINF:-1 tvg-name="Show do Milhao [Geo-blocked]" group-title="Entertainment",Show do Milhao [Geo-blocked]
+https://d38s7rrdbnh4oy.cloudfront.net/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Saudades/index.m3u8
+#EXTINF:-1 tvg-name="TV 3 Curitiba" group-title="General",TV 3 Curitiba
+https://stmv.webtvninjas.com.br/tv3/tv3/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",Armenia TV Satellite (576p)" group-title="General",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",Armenia TV Satellite (576p)
+http://stream.mcquack.net/175/index.m3u8
+#EXTINF:-1 tvg-name="Der TV" group-title="General",Der TV
+https://stream.berosat.live/hls/der-tv/der-tv.m3u8
+#EXTINF:-1 tvg-name="UTV Africa" group-title="General",UTV Africa
+https://oqgdro3xd4rm-hls-live.5centscdn.com/tfmediacastlivestreamUTV/8f263182c36c7e5c56a986bf770091e3.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Yobe TV" group-title="General",Yobe TV
+https://oqgdro3xd4rm-hls-live.5centscdn.com/tfmediacastlivestream24/60414fd886a863e5851f4559fb86e7f6.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Red DTV" group-title="General",Red DTV
+http://15.204.246.24:8080/DTVHD/index.m3u8
+#EXTINF:-1 tvg-name="Telemicro (480p)" group-title="General",Telemicro (480p)
+https://live2.telemicro.com.do/live/55/playlist.m3u8
+#EXTINF:-1 tvg-name="WEST" group-title="Entertainment",WEST
+https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8

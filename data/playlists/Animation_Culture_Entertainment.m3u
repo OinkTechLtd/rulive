@@ -1,21 +1,21 @@
 #EXTM3U
-# Обновлено: 2026-07-23 23:59:00
-# Всего каналов: 20928
-# Новых за сессию: 1
+# Обновлено: 2026-07-24 00:57:40
+# Всего каналов: 20955
+# Новых за сессию: 27
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Culture;Entertainment
 # Каналов: 1
-# Обновлено: 2026-07-23 23:59:01
+# Обновлено: 2026-07-24 00:57:40
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="GikTVMX" group-title="Animation;Culture;Entertainment",GikTVMX
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/pistream.ddns.net/hls/stream.m3u8
 
-#EXTINF:-1 tvg-name="Беларусь 2" group-title="Entertainment",Беларусь 2
+#EXTINF:-1 tvg-name="Belarus-2" group-title="Entertainment",Belarus-2
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Беларусь 3" group-title="Culture",Беларусь 3
+#EXTINF:-1 tvg-name="Belarus-3" group-title="Culture",Belarus-3
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="13 Entretención" group-title="Entertainment",13 Entretención
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
@@ -2479,3 +2479,9 @@ http://103.180.240.141:8080/hls/main1/playlist.m3u8
 https://cablered.iptvperu.tv:1936/cablered/bitme_new/playlist.m3u8
 #EXTINF:-1 tvg-name="KidOO" group-title="Animation;Kids",KidOO
 http://15.204.246.24:8080/KidooHD/index.m3u8
+#EXTINF:-1 tvg-name="Lanzhou Culture & Tourism Channel" group-title="Culture",Lanzhou Culture & Tourism Channel
+https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
+#EXTINF:-1 tvg-name="Show do Milhao [Geo-blocked]" group-title="Entertainment",Show do Milhao [Geo-blocked]
+https://d38s7rrdbnh4oy.cloudfront.net/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Saudades/index.m3u8
+#EXTINF:-1 tvg-name="WEST" group-title="Entertainment",WEST
+https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8

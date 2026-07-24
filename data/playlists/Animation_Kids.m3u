@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-23 23:59:00
-# Всего каналов: 20928
-# Новых за сессию: 1
+# Обновлено: 2026-07-24 00:57:40
+# Всего каналов: 20955
+# Новых за сессию: 27
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Kids
 # Каналов: 67
-# Обновлено: 2026-07-23 23:59:01
+# Обновлено: 2026-07-24 00:57:40
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Мультимания (576p)" group-title="Animation;Kids",Мультимания (576p)
@@ -257,7 +257,7 @@ https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923a
 https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" group-title="Kids",Nickelodeon
 https://streamer.filmowo.xyz/memfs/cd3264be-9df6-43cb-91ca-364082c257eb.m3u8
-#EXTINF:-1 tvg-name="Balapan TV" group-title="Kids",Balapan TV
+#EXTINF:-1 tvg-name="Balapan" group-title="Kids",Balapan
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 #EXTINF:-1 tvg-name="3ABN Kids Network" group-title="Animation;Kids;Religious",3ABN Kids Network
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
@@ -1017,7 +1017,7 @@ http://103.137.83.62:9090/play/30/index.m3u8
 https://phcornerultralast.qzz.io/hls/laslo-serverless/dr_nickjr/index.m3u8
 #EXTINF:-1 tvg-name="Nick Jr. Indonesia" group-title="Animation",Nick Jr. Indonesia
 http://103.137.83.62:9090/play/27/index.m3u8
-#EXTINF:-1 tvg-name="Balapan" group-title="Kids",Balapan
+#EXTINF:-1 tvg-name="Balapan International" group-title="Kids",Balapan International
 https://live-3.otcnet.ru/Balapan/index.m3u8
 #EXTINF:-1 tvg-name="Disney XD West (480p)" group-title="Kids",Disney XD West (480p)
 http://tvsen5.aynascope.net/disneyxd/index.m3u8
@@ -1049,3 +1049,5 @@ https://aes.m3u8simplu.workers.dev/nickelodeon/index.m3u8
 http://185.47.212.25:8080/Clan_HD/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Disney Channel" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Disney Channel
 http://88.212.15.19/live/disney_channel_hun/index.m3u8
+#EXTINF:-1 tvg-name="SBT Kids [Geo-blocked]" group-title="Kids",SBT Kids [Geo-blocked]
+https://8994803e454548319ffc0775bc04e0c1.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-TVZyn/index.m3u8

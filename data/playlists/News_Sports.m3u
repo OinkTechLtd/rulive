@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-23 23:59:00
-# Всего каналов: 20928
-# Новых за сессию: 1
+# Обновлено: 2026-07-24 00:57:40
+# Всего каналов: 20955
+# Новых за сессию: 27
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News;Sports
 # Каналов: 5
-# Обновлено: 2026-07-23 23:59:01
+# Обновлено: 2026-07-24 00:57:40
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Africa 24 Sport" group-title="News;Sports",Africa 24 Sport
@@ -31,9 +31,9 @@ https://stream.tvrain.tv/live/tvrain.m3u8
 https://stream.tvrain.tv/hls/tvrain_live.m3u8
 #EXTINF:-1 tvg-name="CBC Sport [Geo-blocked]" group-title="Sports",CBC Sport [Geo-blocked]
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
-#EXTINF:-1 tvg-name="Беларусь 5" group-title="Sports",Беларусь 5
+#EXTINF:-1 tvg-name="Belarus-5" group-title="Sports",Belarus-5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Беларусь 24" group-title="News",Беларусь 24
+#EXTINF:-1 tvg-name="Belarus-24" group-title="News",Belarus-24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="ICI RDI" group-title="News",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
@@ -2885,8 +2885,6 @@ https://nl1.nghk.ai/ArenaPremium1BH/index.m3u8
 https://nl1.nghk.ai/ArenaPremium2BH/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport Premium 3 BH" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport Premium 3 BH
 https://nl1.nghk.ai/ArenaPremium3BH/index.m3u8
-#EXTINF:-1 tvg-name="Belarus-24" group-title="News",Belarus-24
-http://178.124.179.122:8080/Belarus24/index.m3u8
 #EXTINF:-1 tvg-name="Teledeporte [Geo-blocked]" group-title="Sports",Teledeporte [Geo-blocked]
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 #EXTINF:-1 tvg-name="Canal I" group-title="News",Canal I
@@ -2963,8 +2961,6 @@ http://8.243.126.131:8000/play/a058/index.m3u8
 https://edgectc.com/TELESUR/index.m3u8
 #EXTINF:-1 tvg-name="Panafrican Media TV" group-title="News",Panafrican Media TV
 https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8
-#EXTINF:-1 tvg-name="Belarus-5" group-title="Sports",Belarus-5
-https://adpnetworkhd-cmd.github.io/iptv/Belarus5.m3u8
 #EXTINF:-1 tvg-name="Gol" group-title="Sports",Gol
 https://adpnetworkhd-cmd.github.io/iptv/GOL.m3u8
 #EXTINF:-1 tvg-name="Cosmos Tv" group-title="Movies;News",Cosmos Tv
@@ -3427,3 +3423,9 @@ https://aes.m3u8simplu.workers.dev/sportextra/index.m3u8
 https://futbol9865.ultratv13.workers.dev/deportivo111/69.m3u8
 #EXTINF:-1 tvg-name="24 Horas" group-title="News;Public",24 Horas
 http://185.47.212.25:8080/24h_HD/index.m3u8
+#EXTINF:-1 tvg-name="Belarus-24 (576p)" group-title="News",Belarus-24 (576p)
+http://ott-7.sevstar.net/belarus24/index.m3u8
+#EXTINF:-1 tvg-name="Lanzhou Comprehensive News Channel" group-title="News",Lanzhou Comprehensive News Channel
+https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
+#EXTINF:-1 tvg-name="VSBet" group-title="Sports",VSBet
+https://live05.meung.app/live/90865415.m3u8
