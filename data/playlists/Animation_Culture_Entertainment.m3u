@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-25 01:02:58
-# Всего каналов: 20977
-# Новых за сессию: 1
+# Обновлено: 2026-07-25 02:28:52
+# Всего каналов: 21058
+# Новых за сессию: 81
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Culture;Entertainment
 # Каналов: 1
-# Обновлено: 2026-07-25 01:02:59
+# Обновлено: 2026-07-25 02:28:52
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="GikTVMX" group-title="Animation;Culture;Entertainment",GikTVMX
@@ -2485,3 +2485,23 @@ https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
 https://d38s7rrdbnh4oy.cloudfront.net/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Saudades/index.m3u8
 #EXTINF:-1 tvg-name="WEST" group-title="Entertainment",WEST
 https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8
+#EXTINF:-1 tvg-name="Russia-K (576p)" group-title="Culture",Russia-K (576p)
+http://stream.mcquack.net/229/index.m3u8
+#EXTINF:-1 tvg-name="Russia-K +2" group-title="Culture",Russia-K +2
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
+#EXTINF:-1 tvg-name="Russia-K +4" group-title="Culture",Russia-K +4
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
+#EXTINF:-1 tvg-name="Russia-K +7" group-title="Culture",Russia-K +7
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
+#EXTINF:-1 tvg-name="TNT" group-title="Entertainment",TNT
+http://45.153.24.78:80/TNT/index.m3u8
+#EXTINF:-1 tvg-name="RAZ 1" group-title="Entertainment",RAZ 1
+http://stream.mcquack.net/463/index.m3u8
+#EXTINF:-1 tvg-name="RAZ 2" group-title="Entertainment",RAZ 2
+http://stream.mcquack.net/464/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",Colors" group-title="Entertainment",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",Colors
+http://59.103.38.46:8000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-name="Peretz International (576p)" group-title="Entertainment",Peretz International (576p)
+http://stream.mcquack.net/121/index.m3u8
+#EXTINF:-1 tvg-name="Voprosy i Otvety (576p)" group-title="Entertainment",Voprosy i Otvety (576p)
+http://stream.mcquack.net/76/index.m3u8

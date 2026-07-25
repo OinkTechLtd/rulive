@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-25 01:02:58
-# Всего каналов: 20977
-# Новых за сессию: 1
+# Обновлено: 2026-07-25 02:28:52
+# Всего каналов: 21058
+# Новых за сессию: 81
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;Music
 # Каналов: 1
-# Обновлено: 2026-07-25 01:02:59
+# Обновлено: 2026-07-25 02:28:52
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Persiana Nostalgia" group-title="Classic;Music",Persiana Nostalgia
@@ -1817,3 +1817,13 @@ https://astra.emitv.ro/hls/emi/index.m3u8
 https://aes.m3u8simplu.workers.dev/musicchannel/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",ZU TV" group-title="Music",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",ZU TV
 https://aes.m3u8simplu.workers.dev/zutv/index.m3u8
+#EXTINF:-1 tvg-name="Mezzo Live" group-title="Music",Mezzo Live
+http://stream.mcquack.net/276/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",M1" group-title="Music",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",M1
+http://stream.mcquack.net/218/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",M2" group-title="Music",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",M2
+http://stream.mcquack.net/330/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",Muzsika TV" group-title="Music",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",Muzsika TV
+http://88.212.15.19/live/test_muzsika_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",Slager TV" group-title="Music",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",Slager TV
+http://88.212.15.19/live/test_slager_tv_hungary_1200_atk/playlist.m3u8

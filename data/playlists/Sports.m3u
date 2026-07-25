@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-25 01:02:58
-# Всего каналов: 20977
-# Новых за сессию: 1
+# Обновлено: 2026-07-25 02:28:52
+# Всего каналов: 21058
+# Новых за сессию: 81
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Sports
-# Каналов: 639
-# Обновлено: 2026-07-25 01:02:59
+# Каналов: 649
+# Обновлено: 2026-07-25 02:28:52
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CBC Sport [Geo-blocked]" group-title="Sports",CBC Sport [Geo-blocked]
@@ -1801,6 +1801,36 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/181.119.66.28:8081/AZT
 #EXTINF:-1 tvg-name="VSBet" group-title="Sports",VSBet
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live05.meung.app/live/90865415.m3u8
 
+#EXTINF:-1 tvg-name="Match! Boets (576p)" group-title="Sports",Match! Boets (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/112/index.m3u8
+
+#EXTINF:-1 tvg-name="Okko Futbol" group-title="Sports",Okko Futbol
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/491/index.m3u8
+
+#EXTINF:-1 tvg-name="Okko Prajm Sport" group-title="Sports",Okko Prajm Sport
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/493/index.m3u8
+
+#EXTINF:-1 tvg-name="Okko Sport" group-title="Sports",Okko Sport
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/492/index.m3u8
+
+#EXTINF:-1 tvg-name="Golf Channel" group-title="Sports",Golf Channel
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/gpuserver3.tier1streams.com/GOLF_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/19106/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdtest.global.ssl.fastly.net/1785070000~b023a98e129026ee64ab87ff37011c44/channel/n110/chunks.m3u8
+
+#EXTINF:-1 tvg-name="M Sports" group-title="Sports",M Sports
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.rabta.stream/M-Sports/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/88.212.15.19/live/spiler1/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/88.212.15.19/live/spiler2/index.m3u8
+
 #EXTINF:-1 tvg-name="Belarus-5" group-title="Sports",Belarus-5
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 
@@ -2153,3 +2183,11 @@ https://aes.m3u8simplu.workers.dev/prima4kk/index.m3u8
 https://aes.m3u8simplu.workers.dev/primasp5/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Sport Extra" group-title="Sports",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Sport Extra
 https://aes.m3u8simplu.workers.dev/sportextra/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Rai Sport" group-title="Sports",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Rai Sport
+http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/19106/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Premier Sports 1" group-title="Sports",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Premier Sports 1
+https://cdtest.global.ssl.fastly.net/1785070000~b023a98e129026ee64ab87ff37011c44/channel/n110/chunks.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Spiler 1" group-title="Sports",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Spiler 1
+http://88.212.15.19/live/spiler1/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Spiler 2" group-title="Sports",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Spiler 2
+http://88.212.15.19/live/spiler2/index.m3u8

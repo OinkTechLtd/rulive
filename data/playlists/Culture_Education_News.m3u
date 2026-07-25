@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-25 01:02:58
-# Всего каналов: 20977
-# Новых за сессию: 1
+# Обновлено: 2026-07-25 02:28:52
+# Всего каналов: 21058
+# Новых за сессию: 81
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Education;News
 # Каналов: 2
-# Обновлено: 2026-07-25 01:02:59
+# Обновлено: 2026-07-25 02:28:52
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="UMSA TVU LP" group-title="Culture;Education;News",UMSA TVU LP
@@ -392,7 +392,7 @@ http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
 #EXTINF:-1 tvg-name="ЧП Инфо (576p)" group-title="News",ЧП Инфо (576p)
 http://edge3.iptv.macc.com.ua/life/magnolia_3/index.m3u8
-#EXTINF:-1 tvg-name="Первый информационный" group-title="News",Первый информационный
+#EXTINF:-1 tvg-name="Perviy Informationniy" group-title="News",Perviy Informationniy
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Abai TV" group-title="Culture",Abai TV
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
@@ -3178,3 +3178,15 @@ http://ott-7.sevstar.net/belarus24/index.m3u8
 https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
 #EXTINF:-1 tvg-name="Lanzhou Culture & Tourism Channel" group-title="Culture",Lanzhou Culture & Tourism Channel
 https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
+#EXTINF:-1 tvg-name="Russia-K (576p)" group-title="Culture",Russia-K (576p)
+http://stream.mcquack.net/229/index.m3u8
+#EXTINF:-1 tvg-name="Russia-K +2" group-title="Culture",Russia-K +2
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
+#EXTINF:-1 tvg-name="Russia-K +4" group-title="Culture",Russia-K +4
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
+#EXTINF:-1 tvg-name="Russia-K +7" group-title="Culture",Russia-K +7
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="News",M1" group-title="News",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="News",M1
+http://88.212.15.19/live/test_m_1_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-name="M News" group-title="News",M News
+https://cdn.rabta.stream/M-News/index.m3u8

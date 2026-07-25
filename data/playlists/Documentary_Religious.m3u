@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-25 01:02:58
-# Всего каналов: 20977
-# Новых за сессию: 1
+# Обновлено: 2026-07-25 02:28:52
+# Всего каналов: 21058
+# Новых за сессию: 81
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Religious
 # Каналов: 1
-# Обновлено: 2026-07-25 01:02:59
+# Обновлено: 2026-07-25 02:28:52
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Karbala Documentary" group-title="Documentary;Religious",Karbala Documentary
@@ -1999,3 +1999,7 @@ https://aes.m3u8simplu.workers.dev/natgeo/index.m3u8
 https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8
 #EXTINF:-1 tvg-name="CVC" group-title="Religious",CVC
 http://15.204.246.24:8080/CVCHD/index.m3u8
+#EXTINF:-1 tvg-name="viju Explore (576p)" group-title="Documentary",viju Explore (576p)
+http://stream.mcquack.net/239/index.m3u8
+#EXTINF:-1 tvg-name="viju+ Planet" group-title="Documentary",viju+ Planet
+http://stream.mcquack.net/240/index.m3u8

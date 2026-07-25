@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-25 01:02:58
-# Всего каналов: 20977
-# Новых за сессию: 1
+# Обновлено: 2026-07-25 02:28:52
+# Всего каналов: 21058
+# Новых за сессию: 81
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;General
 # Каналов: 2
-# Обновлено: 2026-07-25 01:02:59
+# Обновлено: 2026-07-25 02:28:52
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="DerryTV 23" group-title="Education;General",DerryTV 23
@@ -16,6 +16,8 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/livestream.telvue.com/
 #EXTINF:-1 tvg-name="Canal FDR" group-title="Education;General",Canal FDR
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 
+#EXTINF:-1 tvg-name="Belarus-1" group-title="General",Belarus-1
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="ОНТ (576p)" group-title="General",ОНТ (576p)
 https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
 #EXTINF:-1 tvg-name="STV" group-title="General",STV
@@ -5004,6 +5006,16 @@ https://videostream.shockmedia.com.ar/hls/banivision/banivision.m3u8
 https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8
 #EXTINF:-1 tvg-name="Ecos Canal 57" group-title="General",Ecos Canal 57
 https://2-fss-2.streamhoster.com/pl_138/206532-6829872-1/playlist.m3u8
+#EXTINF:-1 tvg-name="Russia-1 +4" group-title="General",Russia-1 +4
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-name="Russia-1 +5" group-title="General",Russia-1 +5
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-name="Russia-1 +6" group-title="General",Russia-1 +6
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-name="Russia-1 +7" group-title="General",Russia-1 +7
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-name="Russia-1 +8" group-title="General",Russia-1 +8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-name="HTV2" group-title="Entertainment;General",HTV2
 http://liveh12.vtvprime.vn/hls/HTV2/03.m3u8
 #EXTINF:-1 tvg-name="Las Vegas Tonight with Dale Davidson" group-title="General",Las Vegas Tonight with Dale Davidson
@@ -5052,8 +5064,6 @@ https://iptv.prosto.tv/ch211/tracks-v1a1/mono.m3u8?live=1&ip=5.63.189.224&id=921
 https://iptv.prosto.tv/ch229/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=5.63.189.224&id=921239&secret=f8z1l7gk&e=1783195240&st=4RqJ6hzZ9REJQe0f8U3fTw
 #EXTINF:-1 tvg-name="Suspilne. Vinnytsia" group-title="General",Suspilne. Vinnytsia
 https://iptv.prosto.tv/ch188/tracks-v1a1/mono.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&21yo=0&e=1783247585&st=u4uN-dkUOQb4cDe7lNCaeg
-#EXTINF:-1 tvg-name="Belarus-1" group-title="General",Belarus-1
-https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w1701491008_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-name="JORX-DTV" group-title="General",JORX-DTV
 https://tbs5.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-name="Nippon TV (540p)" group-title="General",Nippon TV (540p)
@@ -6252,3 +6262,13 @@ http://15.204.246.24:8080/DTVHD/index.m3u8
 https://live2.telemicro.com.do/live/55/playlist.m3u8
 #EXTINF:-1 tvg-name="MNTV" group-title="General",MNTV
 https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8
+#EXTINF:-1 tvg-name="Groznyj" group-title="General",Groznyj
+https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/720-3.m3u8
+#EXTINF:-1 tvg-name="Россия 1 (Адыгея)" group-title="General",Россия 1 (Адыгея)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="General",Lux TV" group-title="General",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="General",Lux TV
+https://stream.youtv.com.ua/4481/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="General",Duna World" group-title="General",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="General",Duna World
+http://88.212.15.19/live/duna_world_hun/index.m3u8
+#EXTINF:-1 tvg-name="Telesistema 11" group-title="General",Telesistema 11
+https://cdn3.wind.do/streams/telesistema/telesistema_master.m3u8
