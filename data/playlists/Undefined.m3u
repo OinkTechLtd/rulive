@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-25 23:59:37
-# Всего каналов: 21072
-# Новых за сессию: 0
+# Обновлено: 2026-07-26 02:44:53
+# Всего каналов: 21100
+# Новых за сессию: 28
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Undefined
-# Каналов: 4150
-# Обновлено: 2026-07-25 23:59:37
+# Каналов: 4151
+# Обновлено: 2026-07-26 02:44:53
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Дождь [Geo-blocked]" group-title="Undefined",Дождь [Geo-blocked]
@@ -8333,9 +8333,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/amg01720-amg01720c2-kl
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-hiphop-and-rnb/master.m3u8?ads.vf=KhFGU34ixdi
 
 #EXTINF:-1 tvg-name="Stingray Holidayscapes" group-title="Undefined",Stingray Holidayscapes
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/d10cyxntpn0bwm.cloudfront.net/master.m3u8
-
-#EXTINF:-1 tvg-name="Stingray Holidayscapes" group-title="Undefined",Stingray Holidayscapes
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-6728c70fc7626f0008b27f52.m3u8
 
 #EXTINF:-1 tvg-name="Stingray Holidayscapes" group-title="Undefined",Stingray Holidayscapes
@@ -8343,9 +8340,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-66ff1d5a56
 
 #EXTINF:-1 tvg-name="Stingray Soft Hits" group-title="Undefined",Stingray Soft Hits
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/lotus.stingray.com/manifest/ose-237ads-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1 tvg-name="Stingray ZenLIFE" group-title="Undefined",Stingray ZenLIFE
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 tvg-name="Storage Wars LA [Geo-blocked]" group-title="Undefined",Storage Wars LA [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/pb-312sgyls2cddh.akamaized.net/v1/aenetworks_storagewarsla_1/samsungheadend_us/latest/main/hls/playlist.m3u8
@@ -12046,6 +12040,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/nd106.republicaservers
 #EXTINF:-1 tvg-name="Manu Chat" group-title="Undefined",Manu Chat
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/vmi747311.contaboserver.net/hls/livetv.m3u8
 
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/340/index.m3u8
+
+#EXTINF:-1 tvg-name="Islandia" group-title="Undefined",Islandia
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn15.live-tv.cloud/ua_infinitas_tv/islandiya-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/88.212.15.19/live/test_sorozat_hungary_1200_atk/playlist.m3u8
+
 #EXTINF:-1 tvg-name="R9" group-title="Undefined",R9
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
 
@@ -12828,3 +12831,7 @@ http://88.212.15.19/live/viasat2/index.m3u8
 http://88.212.15.19/live/viasat3/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",Viasat 6" group-title="Undefined",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",Viasat 6
 http://88.212.15.19/live/viasat6/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",Bigudi (576p)" group-title="Undefined",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",Bigudi (576p)
+http://stream.mcquack.net/340/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",Sorozat+" group-title="Undefined",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",Sorozat+
+http://88.212.15.19/live/test_sorozat_hungary_1200_atk/playlist.m3u8

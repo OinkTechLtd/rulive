@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-25 23:59:37
-# Всего каналов: 21072
-# Новых за сессию: 0
+# Обновлено: 2026-07-26 02:44:53
+# Всего каналов: 21100
+# Новых за сессию: 28
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;News;Religious
 # Каналов: 1
-# Обновлено: 2026-07-25 23:59:37
+# Обновлено: 2026-07-26 02:44:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Lingkar TV" group-title="Music;News;Religious",Lingkar TV
@@ -2311,7 +2311,7 @@ https://tgn.bozztv.com/qvtv/qvtv-web/playlist.m3u8
 https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
 #EXTINF:-1 tvg-name="Stingray Classica" group-title="Music",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-name="Stingray CMusic" group-title="Music",Stingray CMusic
+#EXTINF:-1 tvg-name="Stingray Movie Music" group-title="Music",Stingray Movie Music
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-name="Stingray Euro Hits" group-title="Music",Stingray Euro Hits
 https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u8
@@ -2319,7 +2319,7 @@ https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-xitos-del-momento/master.m3u8?ads.vf=--_m-LmFeCi
 #EXTINF:-1 tvg-name="Stingray Flashback 70s" group-title="Music",Stingray Flashback 70s
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-name="Stingray Greatest Hits" group-title="Music",Stingray Greatest Hits
+#EXTINF:-1 tvg-name="Stingray Holiday Hits" group-title="Music",Stingray Holiday Hits
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-name="Stingray Hit List" group-title="Music",Stingray Hit List
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
@@ -4341,6 +4341,8 @@ https://eu.live.skyfolk.mk/live.m3u8
 https://stream-23.mazana.tv/slagrmuzika.m3u8s
 #EXTINF:-1 tvg-name="Slager Original" group-title="Music",Slager Original
 https://stream-13.mazana.tv/slagroriginal.m3u8s
+#EXTINF:-1 tvg-name="Stingray Greatest Hits" group-title="Music",Stingray Greatest Hits
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053
 #EXTINF:-1 tvg-name="Stingray Hitlist" group-title="Music",Stingray Hitlist
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883054
 #EXTINF:-1 tvg-name="Super TV (1080i)" group-title="Music",Super TV (1080i)
@@ -5529,3 +5531,13 @@ https://cdn.rabta.stream/M-News/index.m3u8
 http://88.212.15.19/live/test_muzsika_hungary_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",Slager TV" group-title="Music",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",Slager TV
 http://88.212.15.19/live/test_slager_tv_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-name="Epic Music (576p)" group-title="Music",Epic Music (576p)
+https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
+#EXTINF:-1 tvg-name="Stingray Cityscapes" group-title="Music",Stingray Cityscapes
+https://aka-live1050.delivery.roku.com/7572d640-7373-4137-8b14-a3afff395349/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 tvg-name="Stingray Cozy Cafe" group-title="Music",Stingray Cozy Cafe
+https://aka-live1050.delivery.roku.com/372c813e-1fb9-41d4-a4d0-5fbd803659c5/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Music",Stingray Greatest Hits" group-title="Music",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Music",Stingray Greatest Hits
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-greatest-hits/master.m3u8?ads.vf=7XQlh7i26u0
+#EXTINF:-1 tvg-name="Clubland TV (576i)" group-title="Music",Clubland TV (576i)
+http://109.157.194.186:4040/clublandhls/now.m3u8

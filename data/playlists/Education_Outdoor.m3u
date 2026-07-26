@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-25 23:59:37
-# Всего каналов: 21072
-# Новых за сессию: 0
+# Обновлено: 2026-07-26 02:44:53
+# Всего каналов: 21100
+# Новых за сессию: 28
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Outdoor
 # Каналов: 3
-# Обновлено: 2026-07-25 23:59:37
+# Обновлено: 2026-07-26 02:44:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CCTV-17" group-title="Education;Outdoor",CCTV-17
@@ -667,3 +667,5 @@ http://stream.mcquack.net/357/index.m3u8
 http://stream.mcquack.net/399/index.m3u8
 #EXTINF:-1 tvg-name="Dikaya rybalka" group-title="Outdoor",Dikaya rybalka
 http://stream.mcquack.net/275/index.m3u8
+#EXTINF:-1 tvg-name="Moya Planeta" group-title="Outdoor",Moya Planeta
+http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8
