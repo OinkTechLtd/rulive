@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-26 23:29:27
-# Всего каналов: 21113
-# Новых за сессию: 1
+# Обновлено: 2026-07-27 01:08:25
+# Всего каналов: 21118
+# Новых за сессию: 5
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;News
 # Каналов: 2
-# Обновлено: 2026-07-26 23:29:28
+# Обновлено: 2026-07-27 01:08:25
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Indywood TV" group-title="Movies;News",Indywood TV
@@ -3878,6 +3878,8 @@ http://stream.mcquack.net/107/index.m3u8
 http://stream.mcquack.net/362/index.m3u8
 #EXTINF:-1 tvg-name="Shokiruyushchee" group-title="Movies",Shokiruyushchee
 http://stream.mcquack.net/75/index.m3u8
+#EXTINF:-1 tvg-name="TV 21 International (576p)" group-title="Movies",TV 21 International (576p)
+http://stream.mcquack.net/152/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="News",M1" group-title="News",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="News",M1
 http://88.212.15.19/live/test_m_1_hungary_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-name="M News" group-title="News",M News
@@ -3890,3 +3892,5 @@ https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 http://de.seetv.cc/play/8041/1966B8DE7EC6FEE/video.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Yes Movies Action" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Yes Movies Action
 http://stream.mcquack.net/380/index.m3u8
+#EXTINF:-1 tvg-name="Ma'an TV" group-title="News",Ma'an TV
+https://htvmada.mada.ps:4443/maannews/index.m3u8

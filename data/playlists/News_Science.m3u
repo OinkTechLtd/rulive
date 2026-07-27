@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-26 23:29:27
-# Всего каналов: 21113
-# Новых за сессию: 1
+# Обновлено: 2026-07-27 01:08:25
+# Всего каналов: 21118
+# Новых за сессию: 5
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News;Science
 # Каналов: 1
-# Обновлено: 2026-07-26 23:29:28
+# Обновлено: 2026-07-27 01:08:25
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="News;Science",like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -2373,3 +2373,5 @@ https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
 http://88.212.15.19/live/test_m_1_hungary_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-name="M News" group-title="News",M News
 https://cdn.rabta.stream/M-News/index.m3u8
+#EXTINF:-1 tvg-name="Ma'an TV" group-title="News",Ma'an TV
+https://htvmada.mada.ps:4443/maannews/index.m3u8

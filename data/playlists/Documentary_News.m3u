@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-26 23:29:27
-# Всего каналов: 21113
-# Новых за сессию: 1
+# Обновлено: 2026-07-27 01:08:25
+# Всего каналов: 21118
+# Новых за сессию: 5
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;News
 # Каналов: 5
-# Обновлено: 2026-07-26 23:29:28
+# Обновлено: 2026-07-27 01:08:25
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="India TV Aap Ki Adalat [Geo-blocked]" group-title="Documentary;News",India TV Aap Ki Adalat [Geo-blocked]
@@ -2717,3 +2717,5 @@ http://88.212.15.19/live/test_m_1_hungary_1200_atk/playlist.m3u8
 https://cdn.rabta.stream/M-News/index.m3u8
 #EXTINF:-1 tvg-name="DocuBay TV" group-title="Documentary",DocuBay TV
 https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
+#EXTINF:-1 tvg-name="Ma'an TV" group-title="News",Ma'an TV
+https://htvmada.mada.ps:4443/maannews/index.m3u8

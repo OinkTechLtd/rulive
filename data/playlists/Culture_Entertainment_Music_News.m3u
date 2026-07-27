@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-26 23:29:27
-# Всего каналов: 21113
-# Новых за сессию: 1
+# Обновлено: 2026-07-27 01:08:25
+# Всего каналов: 21118
+# Новых за сессию: 5
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Entertainment;Music;News
 # Каналов: 1
-# Обновлено: 2026-07-26 23:29:28
+# Обновлено: 2026-07-27 01:08:25
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Vĩnh Long TV5 [Geo-blocked]" group-title="Culture;Entertainment;Music;News",Vĩnh Long TV5 [Geo-blocked]
@@ -6091,3 +6091,7 @@ https://aka-live1050.delivery.roku.com/372c813e-1fb9-41d4-a4d0-5fbd803659c5/t2-o
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-greatest-hits/master.m3u8?ads.vf=7XQlh7i26u0
 #EXTINF:-1 tvg-name="Clubland TV (576i)" group-title="Music",Clubland TV (576i)
 http://109.157.194.186:4040/clublandhls/now.m3u8
+#EXTINF:-1 tvg-name="Ma'an TV" group-title="News",Ma'an TV
+https://htvmada.mada.ps:4443/maannews/index.m3u8
+#EXTINF:-1 tvg-name="Muz TV Uzbekistan" group-title="Music",Muz TV Uzbekistan
+https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8
