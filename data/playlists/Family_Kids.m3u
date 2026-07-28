@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-28 00:08:03
-# Всего каналов: 21123
-# Новых за сессию: 0
+# Обновлено: 2026-07-28 00:55:50
+# Всего каналов: 21149
+# Новых за сессию: 26
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Family;Kids
 # Каналов: 1
-# Обновлено: 2026-07-28 00:08:04
+# Обновлено: 2026-07-28 00:55:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RiC" group-title="Family;Kids",RiC
@@ -929,3 +929,13 @@ http://stream.mcquack.net/44/index.m3u8
 http://88.212.15.19/live/tv2_kids/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",PLUSPLUS" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",PLUSPLUS
 http://stream.mcquack.net/339/index.m3u8
+#EXTINF:-1 tvg-name="O! (576p)" group-title="Kids",O! (576p)
+http://stream.mcquack.net/60/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Kids",Kolyokklub" group-title="Kids",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Kids",Kolyokklub
+http://88.212.15.19/live/kolyokklub_atk/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Kids",Nick Jr." group-title="Kids",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Kids",Nick Jr.
+http://88.212.15.19/live/nick_junior_hun/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Kids",Nickelodeon" group-title="Kids",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Kids",Nickelodeon
+http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Kids",Nicktoons" group-title="Kids",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Kids",Nicktoons
+http://88.212.15.19/live/nicktoons_hungary/index.m3u8

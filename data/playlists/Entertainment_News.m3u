@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-28 00:08:03
-# Всего каналов: 21123
-# Новых за сессию: 0
+# Обновлено: 2026-07-28 00:55:50
+# Всего каналов: 21149
+# Новых за сессию: 26
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;News
-# Каналов: 10
-# Обновлено: 2026-07-28 00:08:04
+# Каналов: 11
+# Обновлено: 2026-07-28 00:55:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Vergina TV" group-title="Entertainment;News",Vergina TV
@@ -36,6 +36,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/72.1.184.5:8089/play/a
 
 #EXTINF:-1 tvg-name="E! Latin America Brazil" group-title="Entertainment;News",E! Latin America Brazil
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.190.156.152/E/index.m3u8
+
+#EXTINF:-1 tvg-name="E! Latin America Brazil" group-title="Entertainment;News",E! Latin America Brazil
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/167.250.126.140:7777/E!-HD/index.m3u8
 
 #EXTINF:-1 tvg-name="30A Georgia Hollywood Review TV" group-title="Entertainment;News",30A Georgia Hollywood Review TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/30a-tv.com/gh.m3u8

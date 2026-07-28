@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-28 00:08:03
-# Всего каналов: 21123
-# Новых за сессию: 0
+# Обновлено: 2026-07-28 00:55:50
+# Всего каналов: 21149
+# Новых за сессию: 26
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Sports
-# Каналов: 652
-# Обновлено: 2026-07-28 00:08:04
+# Каналов: 656
+# Обновлено: 2026-07-28 00:55:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CBC Sport [Geo-blocked]" group-title="Sports",CBC Sport [Geo-blocked]
@@ -1839,6 +1839,18 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/aes.m3u8simplu.workers
 
 #EXTINF:-1 tvg-name="VSBet" group-title="Sports",VSBet
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live05.meung.app/live/16226575.m3u8
+
+#EXTINF:-1 tvg-name="DiviSport" group-title="Sports",DiviSport
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/457/index.m3u8
+
+#EXTINF:-1 tvg-name="S Sport" group-title="Sports",S Sport
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/corestream.siteyaptim.live/s-sport/index.m3u8
+
+#EXTINF:-1 tvg-name="S Sport 2" group-title="Sports",S Sport 2
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/corestream.siteyaptim.live/s-sport2/index.m3u8
+
+#EXTINF:-1 tvg-name="Combate" group-title="Sports",Combate
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/143.14.134.107/167/index.m3u8
 
 #EXTINF:-1 tvg-name="Belarus-5" group-title="Sports",Belarus-5
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8

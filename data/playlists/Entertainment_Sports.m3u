@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-28 00:08:03
-# Всего каналов: 21123
-# Новых за сессию: 0
+# Обновлено: 2026-07-28 00:55:50
+# Всего каналов: 21149
+# Новых за сессию: 26
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Sports
 # Каналов: 3
-# Обновлено: 2026-07-28 00:08:04
+# Обновлено: 2026-07-28 00:55:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Entertainment;Sports",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -2967,3 +2967,5 @@ http://88.212.15.19/live/spiler2/index.m3u8
 https://aes.m3u8simplu.workers.dev/digi1/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Digi Sport 2" group-title="Sports",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Digi Sport 2
 https://aes.m3u8simplu.workers.dev/digi2/index.m3u8
+#EXTINF:-1 tvg-name="DiviSport" group-title="Sports",DiviSport
+http://stream.mcquack.net/457/index.m3u8

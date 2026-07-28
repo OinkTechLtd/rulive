@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-28 00:08:03
-# Всего каналов: 21123
-# Новых за сессию: 0
+# Обновлено: 2026-07-28 00:55:50
+# Всего каналов: 21149
+# Новых за сессию: 26
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;Sports
 # Каналов: 1
-# Обновлено: 2026-07-28 00:08:04
+# Обновлено: 2026-07-28 00:55:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RTI La 3" group-title="Music;Sports",RTI La 3
@@ -2783,3 +2783,5 @@ https://aes.m3u8simplu.workers.dev/digi1/index.m3u8
 https://aes.m3u8simplu.workers.dev/digi2/index.m3u8
 #EXTINF:-1 tvg-name="Muz TV Uzbekistan" group-title="Music",Muz TV Uzbekistan
 https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="DiviSport" group-title="Sports",DiviSport
+http://stream.mcquack.net/457/index.m3u8
