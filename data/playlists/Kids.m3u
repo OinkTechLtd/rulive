@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-29 00:03:22
-# Всего каналов: 21163
-# Новых за сессию: 1
+# Обновлено: 2026-07-29 01:02:05
+# Всего каналов: 21196
+# Новых за сессию: 33
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids
-# Каналов: 425
-# Обновлено: 2026-07-29 00:03:23
+# Каналов: 427
+# Обновлено: 2026-07-29 01:02:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Mama (576p)" group-title="Kids",Mama (576p)
@@ -1222,6 +1222,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/88.212.15.19/live/test
 #EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Kids",like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/88.212.15.19/live/nicktoons_hungary/index.m3u8
 
+#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Kids",like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/88.212.15.19/live/minimax_hun/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/88.212.15.19/live/test_nickelodeon_hu_1200_atk/playlist.m3u8
+
 #EXTINF:-1 tvg-name="TNT Kids (288p)" group-title="Kids",TNT Kids (288p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/restreamer1.tnt.ba/hls/tntkids.m3u8
 
@@ -1531,3 +1537,7 @@ http://88.212.15.19/live/nick_junior_hun/index.m3u8
 http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Kids",Nicktoons" group-title="Kids",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Kids",Nicktoons
 http://88.212.15.19/live/nicktoons_hungary/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Kids",Minimax" group-title="Kids",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Kids",Minimax
+http://88.212.15.19/live/minimax_hun/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Nickelodeon" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Nickelodeon
+http://88.212.15.19/live/test_nickelodeon_hu_1200_atk/playlist.m3u8

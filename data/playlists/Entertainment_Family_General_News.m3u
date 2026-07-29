@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-29 00:03:22
-# Всего каналов: 21163
-# Новых за сессию: 1
+# Обновлено: 2026-07-29 01:02:05
+# Всего каналов: 21196
+# Новых за сессию: 33
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Family;General;News
 # Каналов: 1
-# Обновлено: 2026-07-29 00:03:23
+# Обновлено: 2026-07-29 01:02:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="TV Paraense" group-title="Entertainment;Family;General;News",TV Paraense
@@ -9039,6 +9039,8 @@ https://redirector.dps.live/hls/turno/playlist.m3u8
 https://twitch-m3u8.bastypro112.workers.dev/radioactiva919/index.m3u8
 #EXTINF:-1 tvg-name="News 21 Bangla TV" group-title="News",News 21 Bangla TV
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Настоящее Время" group-title="News",Настоящее Время
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 tvg-name="RT en Espanol" group-title="News",RT en Espanol
 http://179.60.51.134:8888/RT/index.m3u8
 #EXTINF:-1 tvg-name="50 Canale" group-title="General",50 Canale
@@ -9893,3 +9895,11 @@ https://telecosta.botlife.app/memfs/6ba9dc9a-aff4-4e4e-9466-a9f0c714b60b.m3u8
 https://htvmada.mada.ps:4443/maannews/index.m3u8
 #EXTINF:-1 tvg-name="JOJG-DTV (1080i)" group-title="General",JOJG-DTV (1080i)
 https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8
+#EXTINF:-1 tvg-name="Galavision" group-title="General",Galavision
+http://200.39.57.254:8008/play/a00v/index.m3u8
+#EXTINF:-1 tvg-name="Telemundo West" group-title="General",Telemundo West
+http://181.119.108.43:9001/play/a044/index.m3u8
+#EXTINF:-1 tvg-name="La 8 Mediterraneo" group-title="General",La 8 Mediterraneo
+https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8
+#EXTINF:-1 tvg-name="E! Latin America Brazil (432p)" group-title="Entertainment;News",E! Latin America Brazil (432p)
+http://145.239.5.177/111/index.m3u8

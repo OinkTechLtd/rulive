@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-29 00:03:22
-# Всего каналов: 21163
-# Новых за сессию: 1
+# Обновлено: 2026-07-29 01:02:05
+# Всего каналов: 21196
+# Новых за сессию: 33
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Public
 # Каналов: 23
-# Обновлено: 2026-07-29 00:03:22
+# Обновлено: 2026-07-29 01:02:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="La 2 Canarias" group-title="General;Public",La 2 Canarias
@@ -5851,3 +5851,9 @@ http://190.61.90.17:40000/play/a03p/index.m3u8
 https://telecosta.botlife.app/memfs/6ba9dc9a-aff4-4e4e-9466-a9f0c714b60b.m3u8
 #EXTINF:-1 tvg-name="JOJG-DTV (1080i)" group-title="General",JOJG-DTV (1080i)
 https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8
+#EXTINF:-1 tvg-name="Galavision" group-title="General",Galavision
+http://200.39.57.254:8008/play/a00v/index.m3u8
+#EXTINF:-1 tvg-name="Telemundo West" group-title="General",Telemundo West
+http://181.119.108.43:9001/play/a044/index.m3u8
+#EXTINF:-1 tvg-name="La 8 Mediterraneo" group-title="General",La 8 Mediterraneo
+https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8

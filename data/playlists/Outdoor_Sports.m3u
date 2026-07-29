@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-29 00:03:22
-# Всего каналов: 21163
-# Новых за сессию: 1
+# Обновлено: 2026-07-29 01:02:05
+# Всего каналов: 21196
+# Новых за сессию: 33
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Outdoor;Sports
 # Каналов: 10
-# Обновлено: 2026-07-29 00:03:23
+# Обновлено: 2026-07-29 01:02:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Red Bull TV US" group-title="Outdoor;Sports",Red Bull TV US
@@ -1282,3 +1282,9 @@ https://aes.m3u8simplu.workers.dev/digi1/index.m3u8
 https://aes.m3u8simplu.workers.dev/digi2/index.m3u8
 #EXTINF:-1 tvg-name="DiviSport" group-title="Sports",DiviSport
 http://stream.mcquack.net/457/index.m3u8
+#EXTINF:-1 tvg-name="Real Madrid TV English" group-title="Sports",Real Madrid TV English
+http://88.212.15.19/live/real_madrid_tv/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Sports",Sport 1" group-title="Sports",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Sports",Sport 1
+http://88.212.15.19/live/sport1_hun/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Sports",Sport 2" group-title="Sports",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Sports",Sport 2
+http://88.212.15.19/live/sport2_hun/index.m3u8

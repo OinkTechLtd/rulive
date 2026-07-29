@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-29 00:03:22
-# Всего каналов: 21163
-# Новых за сессию: 1
+# Обновлено: 2026-07-29 01:02:05
+# Всего каналов: 21196
+# Новых за сессию: 33
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;Religious
 # Каналов: 11
-# Обновлено: 2026-07-29 00:03:23
+# Обновлено: 2026-07-29 01:02:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Муз союз (576p)" group-title="Music;Religious",Муз союз (576p)
@@ -3257,3 +3257,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://109.157.194.186:4040/clublandhls/now.m3u8
 #EXTINF:-1 tvg-name="Muz TV Uzbekistan" group-title="Music",Muz TV Uzbekistan
 https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="KTO (504p)" group-title="Religious",KTO (504p)
+http://145.239.5.177/354/index.m3u8
+#EXTINF:-1 tvg-name="Exploits TV" group-title="Religious",Exploits TV
+https://stream.berosat.live/hls/exploits-tv/exploits-tv.m3u8

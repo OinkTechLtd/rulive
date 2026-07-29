@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-29 00:03:22
-# Всего каналов: 21163
-# Новых за сессию: 1
+# Обновлено: 2026-07-29 01:02:05
+# Всего каналов: 21196
+# Новых за сессию: 33
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies
-# Каналов: 791
-# Обновлено: 2026-07-29 00:03:23
+# Каналов: 797
+# Обновлено: 2026-07-29 01:02:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="312 Кино (406p)" group-title="Movies",312 Кино (406p)
@@ -2230,6 +2230,24 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/380
 #EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/88.212.15.19/live/fb_premium_hungary/index.m3u8
 
+#EXTINF:-1 tvg-name="AMC East" group-title="Movies",AMC East
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/190.11.225.124:5000/live/amc_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AMC Latin America Brazil" group-title="Movies",AMC Latin America Brazil
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/170.83.49.66:8083/AMCHD/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/88.212.15.19/live/amc_hun/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/88.212.15.19/live/axn_hun/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/88.212.15.19/live/film_cafe/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/88.212.15.19/live/mozi/index.m3u8
+
 #EXTINF:-1 tvg-name="Hollywood" group-title="Movies",Hollywood
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/MGM_HD/index.m3u8
 
@@ -2775,3 +2793,11 @@ http://de.seetv.cc/play/8041/1966B8DE7EC6FEE/video.m3u8
 http://stream.mcquack.net/380/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Hits Hungary" group-title="Movies",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Hits Hungary
 http://88.212.15.19/live/fb_premium_hungary/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",AMC Europe Hungary" group-title="Movies",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",AMC Europe Hungary
+http://88.212.15.19/live/amc_hun/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",AXN CEE" group-title="Movies",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",AXN CEE
+http://88.212.15.19/live/axn_hun/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",Film Cafe" group-title="Movies",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",Film Cafe
+http://88.212.15.19/live/film_cafe/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Magyar Mozi TV" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Magyar Mozi TV
+http://88.212.15.19/live/mozi/index.m3u8

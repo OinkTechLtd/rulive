@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-29 00:03:22
-# Всего каналов: 21163
-# Новых за сессию: 1
+# Обновлено: 2026-07-29 01:02:05
+# Всего каналов: 21196
+# Новых за сессию: 33
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Family;Religious
 # Каналов: 1
-# Обновлено: 2026-07-29 00:03:23
+# Обновлено: 2026-07-29 01:02:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="TV Famille" group-title="Family;Religious",TV Famille
@@ -1735,3 +1735,7 @@ https://afghantv.app/hls2/muslimnetwork/index.m3u8
 https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8
 #EXTINF:-1 tvg-name="CVC" group-title="Religious",CVC
 http://15.204.246.24:8080/CVCHD/index.m3u8
+#EXTINF:-1 tvg-name="KTO (504p)" group-title="Religious",KTO (504p)
+http://145.239.5.177/354/index.m3u8
+#EXTINF:-1 tvg-name="Exploits TV" group-title="Religious",Exploits TV
+https://stream.berosat.live/hls/exploits-tv/exploits-tv.m3u8

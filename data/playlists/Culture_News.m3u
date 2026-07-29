@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-29 00:03:22
-# Всего каналов: 21163
-# Новых за сессию: 1
+# Обновлено: 2026-07-29 01:02:05
+# Всего каналов: 21196
+# Новых за сессию: 33
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;News
 # Каналов: 13
-# Обновлено: 2026-07-29 00:03:23
+# Обновлено: 2026-07-29 01:02:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Channel One" group-title="Culture;News",Channel One
@@ -2501,6 +2501,8 @@ https://servilive.com:3508/stream/play.m3u8
 https://redirector.dps.live/hls/turno/playlist.m3u8
 #EXTINF:-1 tvg-name="News 21 Bangla TV" group-title="News",News 21 Bangla TV
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Настоящее Время" group-title="News",Настоящее Время
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 tvg-name="RT en Espanol" group-title="News",RT en Espanol
 http://179.60.51.134:8888/RT/index.m3u8
 #EXTINF:-1 tvg-name="Flash Haber TV" group-title="News",Flash Haber TV
@@ -2735,3 +2737,5 @@ http://88.212.15.19/live/test_m_1_hungary_1200_atk/playlist.m3u8
 https://cdn.rabta.stream/M-News/index.m3u8
 #EXTINF:-1 tvg-name="Ma'an TV" group-title="News",Ma'an TV
 https://htvmada.mada.ps:4443/maannews/index.m3u8
+#EXTINF:-1 tvg-name="E! Latin America Brazil (432p)" group-title="Entertainment;News",E! Latin America Brazil (432p)
+http://145.239.5.177/111/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-29 00:03:22
-# Всего каналов: 21163
-# Новых за сессию: 1
+# Обновлено: 2026-07-29 01:02:05
+# Всего каналов: 21196
+# Новых за сессию: 33
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;General;Kids
 # Каналов: 2
-# Обновлено: 2026-07-29 00:03:23
+# Обновлено: 2026-07-29 01:02:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="BBC Four/CBeebies [Geo-Blocked]" group-title="Animation;General;Kids",BBC Four/CBeebies [Geo-Blocked]
@@ -6734,3 +6734,13 @@ http://88.212.15.19/live/nick_junior_hun/index.m3u8
 http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Kids",Nicktoons" group-title="Kids",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Kids",Nicktoons
 http://88.212.15.19/live/nicktoons_hungary/index.m3u8
+#EXTINF:-1 tvg-name="Galavision" group-title="General",Galavision
+http://200.39.57.254:8008/play/a00v/index.m3u8
+#EXTINF:-1 tvg-name="Telemundo West" group-title="General",Telemundo West
+http://181.119.108.43:9001/play/a044/index.m3u8
+#EXTINF:-1 tvg-name="La 8 Mediterraneo" group-title="General",La 8 Mediterraneo
+https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Kids",Minimax" group-title="Kids",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Kids",Minimax
+http://88.212.15.19/live/minimax_hun/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Nickelodeon" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Nickelodeon
+http://88.212.15.19/live/test_nickelodeon_hu_1200_atk/playlist.m3u8
