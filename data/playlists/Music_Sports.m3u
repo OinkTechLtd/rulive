@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-29 23:59:39
-# Всего каналов: 21215
-# Новых за сессию: 1
+# Обновлено: 2026-07-30 00:54:33
+# Всего каналов: 21226
+# Новых за сессию: 11
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;Sports
 # Каналов: 1
-# Обновлено: 2026-07-29 23:59:39
+# Обновлено: 2026-07-30 00:54:33
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RTI La 3" group-title="Music;Sports",RTI La 3
@@ -2017,7 +2017,7 @@ https://indihuy.streamized.net/atm/DASH/pramborstv/manifest.mpd
 https://iptv.prosto.tv/ch134/tracks-v2a1/1.m3u8?21yo=1&live=1&ip=104.28.156.59&id=742347&secret=vu2y5m72&ses=ca0cfbf5db9d8003&uid=vu2y5m72&cs_track=false&e=1782900912&st=j-Ja2visdxrjH_8haQZjNg
 #EXTINF:-1 tvg-name="beIN SPORTS XTRA" group-title="Sports",beIN SPORTS XTRA
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Real Madrid TV (404p)" group-title="Sports",Real Madrid TV (404p)
+#EXTINF:-1 tvg-name="Real Madrid TV (726p)" group-title="Sports",Real Madrid TV (726p)
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-name="TAP Edge (480p) [Geo-blocked]" group-title="Sports",TAP Edge (480p) [Geo-blocked]
 https://cignalplaymaxphcorner.vwgsalvador.workers.dev/conv_local_tap_edge/cplaymax/playlist.m3u8
@@ -2791,3 +2791,5 @@ http://88.212.15.19/live/real_madrid_tv/index.m3u8
 http://88.212.15.19/live/sport1_hun/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Sports",Sport 2" group-title="Sports",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Sports",Sport 2
 http://88.212.15.19/live/sport2_hun/index.m3u8
+#EXTINF:-1 tvg-name="QazSport" group-title="Sports",QazSport
+http://stream.mcquack.net/72/index.m3u8

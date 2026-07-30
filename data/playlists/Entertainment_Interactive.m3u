@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-29 23:59:39
-# Всего каналов: 21215
-# Новых за сессию: 1
+# Обновлено: 2026-07-30 00:54:33
+# Всего каналов: 21226
+# Новых за сессию: 11
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Interactive
 # Каналов: 3
-# Обновлено: 2026-07-29 23:59:39
+# Обновлено: 2026-07-30 00:54:33
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RMC Life [Geo-Blocked]" group-title="Entertainment;Interactive",RMC Life [Geo-Blocked]
@@ -1851,3 +1851,5 @@ http://stream.mcquack.net/121/index.m3u8
 http://stream.mcquack.net/76/index.m3u8
 #EXTINF:-1 tvg-name="E! Latin America Brazil (432p)" group-title="Entertainment;News",E! Latin America Brazil (432p)
 http://145.239.5.177/111/index.m3u8
+#EXTINF:-1 tvg-name="Lifetime Asia" group-title="Entertainment",Lifetime Asia
+http://nmk.ioapk.com:5050/4gtv-live029/index.m3u8

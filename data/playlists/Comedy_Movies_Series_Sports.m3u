@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-29 23:59:39
-# Всего каналов: 21215
-# Новых за сессию: 1
+# Обновлено: 2026-07-30 00:54:33
+# Всего каналов: 21226
+# Новых за сессию: 11
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Movies;Series;Sports
 # Каналов: 4
-# Обновлено: 2026-07-29 23:59:39
+# Обновлено: 2026-07-30 00:54:33
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="USA Network East" group-title="Comedy;Movies;Series;Sports",USA Network East
@@ -2594,7 +2594,7 @@ http://181.119.93.83:8000/play/a1sr/index.m3u8
 https://indihuy.streamized.net/atm/DASH/sinpotv/manifest.mpd
 #EXTINF:-1 tvg-name="beIN SPORTS XTRA" group-title="Sports",beIN SPORTS XTRA
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Real Madrid TV (404p)" group-title="Sports",Real Madrid TV (404p)
+#EXTINF:-1 tvg-name="Real Madrid TV (726p)" group-title="Sports",Real Madrid TV (726p)
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-name="Vijay Super (576p)" group-title="Movies",Vijay Super (576p)
 http://202.70.146.135:8000/play/a008/index.m3u8
@@ -3660,3 +3660,5 @@ http://88.212.15.19/live/mozi/index.m3u8
 http://88.212.15.19/live/sport1_hun/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Sports",Sport 2" group-title="Sports",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Sports",Sport 2
 http://88.212.15.19/live/sport2_hun/index.m3u8
+#EXTINF:-1 tvg-name="QazSport" group-title="Sports",QazSport
+http://stream.mcquack.net/72/index.m3u8
