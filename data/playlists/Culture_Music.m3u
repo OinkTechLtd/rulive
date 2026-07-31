@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-30 23:04:58
-# Всего каналов: 21237
-# Новых за сессию: 0
+# Обновлено: 2026-07-31 01:05:30
+# Всего каналов: 21249
+# Новых за сессию: 12
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Music
 # Каналов: 6
-# Обновлено: 2026-07-30 23:04:59
+# Обновлено: 2026-07-31 01:05:31
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pamir TV" group-title="Culture;Music",Pamir TV
@@ -2062,3 +2062,5 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://109.157.194.186:4040/clublandhls/now.m3u8
 #EXTINF:-1 tvg-name="Muz TV Uzbekistan" group-title="Music",Muz TV Uzbekistan
 https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Tjil TV" group-title="Music",Tjil TV
+https://hls-1zdhtxpm-livepush.akamaized.net/live_cdn/nsM12Xw0C1xXdJ/em0Wx71z-ec6EWJb/rewind-3600.m3u8

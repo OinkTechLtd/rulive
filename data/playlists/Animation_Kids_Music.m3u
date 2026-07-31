@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-07-30 23:04:58
-# Всего каналов: 21237
-# Новых за сессию: 0
+# Обновлено: 2026-07-31 01:05:30
+# Всего каналов: 21249
+# Новых за сессию: 12
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Kids;Music
 # Каналов: 1
-# Обновлено: 2026-07-30 23:04:59
+# Обновлено: 2026-07-31 01:05:31
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="MCN6 Music Channel" group-title="Animation;Kids;Music",MCN6 Music Channel
@@ -2625,3 +2625,5 @@ http://88.212.15.19/live/test_nickelodeon_hu_1200_atk/playlist.m3u8
 http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon Asia" group-title="Kids",Nickelodeon Asia
 http://nmk.ioapk.com:5050/4gtv-live105/index.m3u8
+#EXTINF:-1 tvg-name="Tjil TV" group-title="Music",Tjil TV
+https://hls-1zdhtxpm-livepush.akamaized.net/live_cdn/nsM12Xw0C1xXdJ/em0Wx71z-ec6EWJb/rewind-3600.m3u8
