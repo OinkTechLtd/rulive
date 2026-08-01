@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-01 00:08:52
-# Всего каналов: 21262
-# Новых за сессию: 1
+# Обновлено: 2026-08-01 04:02:59
+# Всего каналов: 21280
+# Новых за сессию: 18
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Documentary
 # Каналов: 8
-# Обновлено: 2026-08-01 00:08:52
+# Обновлено: 2026-08-01 04:03:00
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="BBC Four [Geo-blocked]" group-title="Culture;Documentary",BBC Four [Geo-blocked]
@@ -820,3 +820,5 @@ http://stream.mcquack.net/240/index.m3u8
 https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
 #EXTINF:-1 tvg-name="Wedo Big Stories" group-title="Documentary",Wedo Big Stories
 https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8
+#EXTINF:-1 tvg-name="JTBS Classic (480p)" group-title="Culture;Religious",JTBS Classic (480p)
+https://jtbsclassic.dpdns.org/live.m3u8

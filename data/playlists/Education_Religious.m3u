@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-01 00:08:52
-# Всего каналов: 21262
-# Новых за сессию: 1
+# Обновлено: 2026-08-01 04:02:59
+# Всего каналов: 21280
+# Новых за сессию: 18
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Religious
 # Каналов: 2
-# Обновлено: 2026-08-01 00:08:52
+# Обновлено: 2026-08-01 04:03:00
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Paighan TV" group-title="Education;Religious",Paighan TV
@@ -2126,3 +2126,7 @@ http://15.204.246.24:8080/CVCHD/index.m3u8
 http://145.239.5.177/354/index.m3u8
 #EXTINF:-1 tvg-name="Exploits TV" group-title="Religious",Exploits TV
 https://stream.berosat.live/hls/exploits-tv/exploits-tv.m3u8
+#EXTINF:-1 tvg-name="It's Supernatural! Network" group-title="Religious",It's Supernatural! Network
+https://content.uplynk.com/channel/b880a791bf95426d917a509e0c44796a.m3u8
+#EXTINF:-1 tvg-name="JTBS Classic (480p)" group-title="Culture;Religious",JTBS Classic (480p)
+https://jtbsclassic.dpdns.org/live.m3u8

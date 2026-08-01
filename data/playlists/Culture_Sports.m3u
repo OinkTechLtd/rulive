@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-01 00:08:52
-# Всего каналов: 21262
-# Новых за сессию: 1
+# Обновлено: 2026-08-01 04:02:59
+# Всего каналов: 21280
+# Новых за сессию: 18
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Sports
 # Каналов: 2
-# Обновлено: 2026-08-01 00:08:52
+# Обновлено: 2026-08-01 04:03:00
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="LRT Plius [Geo-blocked]" group-title="Culture;Sports",LRT Plius [Geo-blocked]
@@ -1560,3 +1560,13 @@ http://stream.mcquack.net/72/index.m3u8
 https://messi.damitv.st/papi/ts/fox-sports-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 2 [Geo-blocked]" group-title="Sports",Fox Sports 2 [Geo-blocked]
 https://messi.damitv.st/papi/ts/fox-sports-2/playlist.m3u8
+#EXTINF:-1 tvg-name="beIN Sports USA [Geo-blocked]" group-title="Sports",beIN Sports USA [Geo-blocked]
+https://messi.damitv.st/papi/ts/beinsports-usa/playlist.m3u8
+#EXTINF:-1 tvg-name="NBC Sports Bay Area [Geo-blocked]" group-title="Sports",NBC Sports Bay Area [Geo-blocked]
+https://messi.damitv.st/papi/ts/nbc-sports-bayarea/playlist.m3u8
+#EXTINF:-1 tvg-name="NBC Sports Philadelphia [Geo-blocked]" group-title="Sports",NBC Sports Philadelphia [Geo-blocked]
+https://messi.damitv.st/papi/ts/nbc-sports-philly/playlist.m3u8
+#EXTINF:-1 tvg-name="NFL Network [Geo-blocked]" group-title="Sports",NFL Network [Geo-blocked]
+https://messi.damitv.st/papi/ts/nflnetwork-usa/playlist.m3u8
+#EXTINF:-1 tvg-name="JTBS Classic (480p)" group-title="Culture;Religious",JTBS Classic (480p)
+https://jtbsclassic.dpdns.org/live.m3u8

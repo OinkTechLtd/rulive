@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-01 00:08:52
-# Всего каналов: 21262
-# Новых за сессию: 1
+# Обновлено: 2026-08-01 04:02:59
+# Всего каналов: 21280
+# Новых за сессию: 18
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General
-# Каналов: 3060
-# Обновлено: 2026-08-01 00:08:52
+# Каналов: 3064
+# Обновлено: 2026-08-01 04:03:00
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="БелРос (576p)" group-title="General",БелРос (576p)
@@ -8869,6 +8869,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/89.187.185.76:8080/Fra
 #EXTINF:-1 tvg-name="France 3 Lorraine" group-title="General",France 3 Lorraine
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/5.180.164.197:8080/FRANCE3/index.m3u8
 
+#EXTINF:-1 tvg-name="CW [Geo-blocked]" group-title="General",CW [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/messi.damitv.st/papi/ts/cw-usa/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Telemundo" group-title="General",Telemundo
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.190.13.8/TelemundoHD/index.m3u8
+
+#EXTINF:-1 tvg-name="Telemundo West [Geo-blocked]" group-title="General",Telemundo West [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/messi.damitv.st/papi/ts/telemundo-usa/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Belarus-1" group-title="General",Belarus-1
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 
@@ -8964,6 +8973,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/tsw.streamingwebtv24.i
 
 #EXTINF:-1 tvg-name="La C TV" group-title="General",La C TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Lombardia TV" group-title="General",Lombardia TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NTN" group-title="General",NTN
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-01 00:08:52
-# Всего каналов: 21262
-# Новых за сессию: 1
+# Обновлено: 2026-08-01 04:02:59
+# Всего каналов: 21280
+# Новых за сессию: 18
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;News
-# Каналов: 2
-# Обновлено: 2026-08-01 00:08:52
+# Каналов: 3
+# Обновлено: 2026-08-01 04:03:00
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Indywood TV" group-title="Movies;News",Indywood TV
@@ -15,6 +15,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/43wrzjnpqoxe-hls-live.
 
 #EXTINF:-1 tvg-name="Cosmos Tv" group-title="Movies;News",Cosmos Tv
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/canaletaplus.com:3922/live/cosmoslive.m3u8
+
+#EXTINF:-1 tvg-name="Cosmos Tv" group-title="Movies;News",Cosmos Tv
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 #EXTINF:-1 tvg-name="Дождь (альтернативный)" group-title="News",Дождь (альтернативный)
 https://stream.tvrain.tv/live/tvrain.m3u8
