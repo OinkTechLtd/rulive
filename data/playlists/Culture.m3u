@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-01 23:58:13
-# Всего каналов: 21295
-# Новых за сессию: 0
+# Обновлено: 2026-08-02 02:34:48
+# Всего каналов: 21325
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture
 # Каналов: 154
-# Обновлено: 2026-08-01 23:58:14
+# Обновлено: 2026-08-02 02:34:48
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Aurora Arte (480p)" group-title="Culture",Aurora Arte (480p)
@@ -608,5 +608,5 @@ https://cdnbarinas.tvzamora.com/showven/index.m3u8
 http://stream.mcquack.net/455/index.m3u8
 #EXTINF:-1 tvg-name="LRT Plius" group-title="Culture;Sports",LRT Plius
 http://stream.mcquack.net/353/index.m3u8
-#EXTINF:-1 tvg-name="JTBS Classic (480p)" group-title="Culture;Religious",JTBS Classic (480p)
+#EXTINF:-1 tvg-name="JTBS Classic" group-title="Culture;Religious",JTBS Classic
 https://jtbsclassic.dpdns.org/live.m3u8

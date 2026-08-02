@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-01 23:58:13
-# Всего каналов: 21295
-# Новых за сессию: 0
+# Обновлено: 2026-08-02 02:34:48
+# Всего каналов: 21325
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Sports
 # Каналов: 1
-# Обновлено: 2026-08-01 23:58:14
+# Обновлено: 2026-08-02 02:34:48
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ADO TV" group-title="Kids;Sports",ADO TV
@@ -1977,3 +1977,9 @@ https://messi.damitv.st/papi/ts/nbc-sports-bayarea/playlist.m3u8
 https://messi.damitv.st/papi/ts/nbc-sports-philly/playlist.m3u8
 #EXTINF:-1 tvg-name="NFL Network [Geo-blocked]" group-title="Sports",NFL Network [Geo-blocked]
 https://messi.damitv.st/papi/ts/nflnetwork-usa/playlist.m3u8
+#EXTINF:-1 tvg-name="Maincast Cybersport" group-title="Sports",Maincast Cybersport
+http://stream.mcquack.net/487/index.m3u8
+#EXTINF:-1 tvg-name="Maincast Sport" group-title="Sports",Maincast Sport
+http://stream.mcquack.net/490/index.m3u8
+#EXTINF:-1 tvg-name="Futbol TV" group-title="Sports",Futbol TV
+http://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8

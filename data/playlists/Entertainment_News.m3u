@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-01 23:58:13
-# Всего каналов: 21295
-# Новых за сессию: 0
+# Обновлено: 2026-08-02 02:34:48
+# Всего каналов: 21325
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;News
 # Каналов: 12
-# Обновлено: 2026-08-01 23:58:14
+# Обновлено: 2026-08-02 02:34:48
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Vergina TV" group-title="Entertainment;News",Vergina TV
@@ -4154,3 +4154,9 @@ https://skynewsau-live-premium.akamaized.net/hls/live/2105299/skynews/live.m3u8
 http://nmk.ioapk.com:5050/4gtv-live029/index.m3u8
 #EXTINF:-1 tvg-name="ArubaTV +" group-title="Entertainment",ArubaTV +
 https://rtmpcontrol.com:1936/atvplus/ngrp:atvplus_all/playlist.m3u8
+#EXTINF:-1 tvg-name="FREEDOM" group-title="News",FREEDOM
+https://dash4.antik.sk/live/test_uatv/playlist.m3u8
+#EXTINF:-1 tvg-name="TV 24" group-title="News",TV 24
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:-1 tvg-name="Kanal D Drama" group-title="Entertainment",Kanal D Drama
+http://8.243.126.131:8000/play/a0mn/index.m3u8

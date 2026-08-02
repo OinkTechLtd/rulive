@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-01 23:58:13
-# Всего каналов: 21295
-# Новых за сессию: 0
+# Обновлено: 2026-08-02 02:34:48
+# Всего каналов: 21325
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Education;News
 # Каналов: 2
-# Обновлено: 2026-08-01 23:58:14
+# Обновлено: 2026-08-02 02:34:48
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="UMSA TVU LP" group-title="Culture;Education;News",UMSA TVU LP
@@ -3198,5 +3198,9 @@ https://htvmada.mada.ps:4443/maannews/index.m3u8
 http://145.239.5.177/111/index.m3u8
 #EXTINF:-1 tvg-name="News24" group-title="News",News24
 https://skynewsau-live-premium.akamaized.net/hls/live/2105299/skynews/live.m3u8
-#EXTINF:-1 tvg-name="JTBS Classic (480p)" group-title="Culture;Religious",JTBS Classic (480p)
+#EXTINF:-1 tvg-name="JTBS Classic" group-title="Culture;Religious",JTBS Classic
 https://jtbsclassic.dpdns.org/live.m3u8
+#EXTINF:-1 tvg-name="FREEDOM" group-title="News",FREEDOM
+https://dash4.antik.sk/live/test_uatv/playlist.m3u8
+#EXTINF:-1 tvg-name="TV 24" group-title="News",TV 24
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8

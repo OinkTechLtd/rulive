@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-01 23:58:13
-# Всего каналов: 21295
-# Новых за сессию: 0
+# Обновлено: 2026-08-02 02:34:48
+# Всего каналов: 21325
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Undefined
-# Каналов: 4168
-# Обновлено: 2026-08-01 23:58:14
+# Каналов: 4175
+# Обновлено: 2026-08-02 02:34:48
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Дождь [Geo-blocked]" group-title="Undefined",Дождь [Geo-blocked]
@@ -12096,6 +12096,27 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.arcast.com.ar/c
 
 #EXTINF:-1 tvg-name="Takbeer TV" group-title="Undefined",Takbeer TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cd198.anystream.uk:9092/iqapp/t5kb86tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Beyaz TV" group-title="Undefined",Beyaz TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
+
+#EXTINF:-1 tvg-name="Bursa TV" group-title="Undefined",Bursa TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/win1.yayin.com.tr/bursatv/bursatv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Icel TV" group-title="Undefined",Icel TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TMB" group-title="Undefined",TMB
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m3u8
+
+#EXTINF:-1 tvg-name="TV 41" group-title="Undefined",TV 41
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8
+
+#EXTINF:-1 tvg-name="TV 52" group-title="Undefined",TV 52
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/edge1.socialsmart.tv/tv52/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Alwesam TV" group-title="Undefined",Alwesam TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.addresses-sat.com/Alwesam/index.m3u8
 
 #EXTINF:-1 tvg-name="R9" group-title="Undefined",R9
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
