@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-02 23:57:31
-# Всего каналов: 21337
-# Новых за сессию: 0
+# Обновлено: 2026-08-03 02:53:18
+# Всего каналов: 21350
+# Новых за сессию: 13
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Entertainment;News
 # Каналов: 2
-# Обновлено: 2026-08-02 23:57:32
+# Обновлено: 2026-08-03 02:53:19
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Unifranz" group-title="Education;Entertainment;News",Unifranz
@@ -4636,3 +4636,11 @@ https://dash4.antik.sk/live/test_uatv/playlist.m3u8
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1 tvg-name="Kanal D Drama" group-title="Entertainment",Kanal D Drama
 http://8.243.126.131:8000/play/a0mn/index.m3u8
+#EXTINF:-1 tvg-name="Lara en Redes" group-title="Entertainment",Lara en Redes
+https://streamtv.laraenredes.com:3020/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="Tra Vinh TV" group-title="Culture;Entertainment;Music;News",Tra Vinh TV
+https://freem3u.xyz/api/live/play.m3u8?vid=91
+#EXTINF:-1 tvg-name="Vinh Long TV 1 (576p)" group-title="General;News",Vinh Long TV 1 (576p)
+http://125hvt.ddns.net:21585/thvl1/playlist.m3u8
+#EXTINF:-1 tvg-name="Dong Nai TV 2" group-title="Entertainment;Sports",Dong Nai TV 2
+https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8

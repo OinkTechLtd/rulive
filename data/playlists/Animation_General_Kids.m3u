@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-02 23:57:31
-# Всего каналов: 21337
-# Новых за сессию: 0
+# Обновлено: 2026-08-03 02:53:18
+# Всего каналов: 21350
+# Новых за сессию: 13
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;General;Kids
 # Каналов: 2
-# Обновлено: 2026-08-02 23:57:32
+# Обновлено: 2026-08-03 02:53:19
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="BBC Four/CBeebies [Geo-Blocked]" group-title="Animation;General;Kids",BBC Four/CBeebies [Geo-Blocked]
@@ -186,7 +186,7 @@ https://ztnr.rtve.es/ztnr/5468585.m3u8
 http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1 tvg-name="FTV One (民視第一台)" group-title="General",FTV One (民視第一台)
 http://seb.sason.top/ptv/ftv.php?id=dy
-#EXTINF:-1 tvg-name="TRT Çocuk" group-title="Kids",TRT Çocuk
+#EXTINF:-1 tvg-name="TRT Cocuk (1440p)" group-title="Kids",TRT Cocuk (1440p)
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="Suspilne. Kyiv" group-title="General",Suspilne. Kyiv
 https://ext.cdn.nashnet.tv/228.0.0.41/index.m3u8
@@ -6774,3 +6774,7 @@ https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8
 https://cdnfox.hostlagarto.com/cct49/index.m3u8
 #EXTINF:-1 tvg-name="RB TV" group-title="General",RB TV
 https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8
+#EXTINF:-1 tvg-name="Vinh Long TV 1 (576p)" group-title="General;News",Vinh Long TV 1 (576p)
+http://125hvt.ddns.net:21585/thvl1/playlist.m3u8
+#EXTINF:-1 tvg-name="Green Gold TV" group-title="Kids",Green Gold TV
+https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/4.m3u8

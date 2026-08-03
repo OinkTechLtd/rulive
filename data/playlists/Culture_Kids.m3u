@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-02 23:57:31
-# Всего каналов: 21337
-# Новых за сессию: 0
+# Обновлено: 2026-08-03 02:53:18
+# Всего каналов: 21350
+# Новых за сессию: 13
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Kids
 # Каналов: 1
-# Обновлено: 2026-08-02 23:57:32
+# Обновлено: 2026-08-03 02:53:19
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ETV2" group-title="Culture;Kids",ETV2
@@ -37,7 +37,7 @@ https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-name="SX3 [Geo-blocked]" group-title="Animation;Kids;Public",SX3 [Geo-blocked]
 https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
-#EXTINF:-1 tvg-name="TRT Çocuk" group-title="Kids",TRT Çocuk
+#EXTINF:-1 tvg-name="TRT Cocuk (1440p)" group-title="Kids",TRT Cocuk (1440p)
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/143.0.7499.109 Safari/537.36" group-title="Culture",Suspilne. Kultura [Geo-blocked]" group-title="Culture",like Gecko) Chrome/143.0.7499.109 Safari/537.36" group-title="Culture",Suspilne. Kultura [Geo-blocked]
 https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
@@ -1247,3 +1247,7 @@ http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live105/index.m3u8
 #EXTINF:-1 tvg-name="JTBS Classic" group-title="Culture;Religious",JTBS Classic
 https://jtbsclassic.dpdns.org/live.m3u8
+#EXTINF:-1 tvg-name="Tra Vinh TV" group-title="Culture;Entertainment;Music;News",Tra Vinh TV
+https://freem3u.xyz/api/live/play.m3u8?vid=91
+#EXTINF:-1 tvg-name="Green Gold TV" group-title="Kids",Green Gold TV
+https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/4.m3u8

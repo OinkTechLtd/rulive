@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-02 23:57:31
-# Всего каналов: 21337
-# Новых за сессию: 0
+# Обновлено: 2026-08-03 02:53:18
+# Всего каналов: 21350
+# Новых за сессию: 13
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment
-# Каналов: 1049
-# Обновлено: 2026-08-02 23:57:31
+# Каналов: 1050
+# Обновлено: 2026-08-03 02:53:19
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Arte [Geo-blocked]" group-title="Entertainment",Arte [Geo-blocked]
@@ -3043,6 +3043,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rtmpcontrol.com:1936/a
 #EXTINF:-1 tvg-name="Kanal D Drama" group-title="Entertainment",Kanal D Drama
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/8.243.126.131:8000/play/a0mn/index.m3u8
 
+#EXTINF:-1 tvg-name="Lara en Redes" group-title="Entertainment",Lara en Redes
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streamtv.laraenredes.com:3020/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-name="Belarus-2" group-title="Entertainment",Belarus-2
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 
@@ -3371,3 +3374,7 @@ http://stream.mcquack.net/397/index.m3u8
 http://59.103.38.46:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-name="E! Latin America Brazil (432p)" group-title="Entertainment;News",E! Latin America Brazil (432p)
 http://145.239.5.177/111/index.m3u8
+#EXTINF:-1 tvg-name="Tra Vinh TV" group-title="Culture;Entertainment;Music;News",Tra Vinh TV
+https://freem3u.xyz/api/live/play.m3u8?vid=91
+#EXTINF:-1 tvg-name="Dong Nai TV 2" group-title="Entertainment;Sports",Dong Nai TV 2
+https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8

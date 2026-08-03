@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-02 23:57:31
-# Всего каналов: 21337
-# Новых за сессию: 0
+# Обновлено: 2026-08-03 02:53:18
+# Всего каналов: 21350
+# Новых за сессию: 13
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Kids
 # Каналов: 3
-# Обновлено: 2026-08-02 23:57:32
+# Обновлено: 2026-08-03 02:53:19
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Unique TV (576p)" group-title="Entertainment;Kids",Unique TV (576p)
@@ -53,7 +53,7 @@ https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-name="SX3 [Geo-blocked]" group-title="Animation;Kids;Public",SX3 [Geo-blocked]
 https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
-#EXTINF:-1 tvg-name="TRT Çocuk" group-title="Kids",TRT Çocuk
+#EXTINF:-1 tvg-name="TRT Cocuk (1440p)" group-title="Kids",TRT Cocuk (1440p)
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="CG Entertainment" group-title="Entertainment",CG Entertainment
 https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
@@ -2677,3 +2677,11 @@ http://nmk.ioapk.com:5050/4gtv-live105/index.m3u8
 https://rtmpcontrol.com:1936/atvplus/ngrp:atvplus_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Kanal D Drama" group-title="Entertainment",Kanal D Drama
 http://8.243.126.131:8000/play/a0mn/index.m3u8
+#EXTINF:-1 tvg-name="Lara en Redes" group-title="Entertainment",Lara en Redes
+https://streamtv.laraenredes.com:3020/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="Tra Vinh TV" group-title="Culture;Entertainment;Music;News",Tra Vinh TV
+https://freem3u.xyz/api/live/play.m3u8?vid=91
+#EXTINF:-1 tvg-name="Dong Nai TV 2" group-title="Entertainment;Sports",Dong Nai TV 2
+https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8
+#EXTINF:-1 tvg-name="Green Gold TV" group-title="Kids",Green Gold TV
+https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/4.m3u8
