@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-04 00:15:08
-# Всего каналов: 21353
-# Новых за сессию: 0
+# Обновлено: 2026-08-04 03:49:23
+# Всего каналов: 21393
+# Новых за сессию: 40
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Education;Lifestyle
 # Каналов: 1
-# Обновлено: 2026-08-04 00:15:08
+# Обновлено: 2026-08-04 03:49:23
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Woman TV" group-title="Culture;Education;Lifestyle",Woman TV
@@ -1193,3 +1193,5 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
 https://jtbsclassic.dpdns.org/live.m3u8
 #EXTINF:-1 tvg-name="Tra Vinh TV" group-title="Culture;Entertainment;Music;News",Tra Vinh TV
 https://freem3u.xyz/api/live/play.m3u8?vid=91
+#EXTINF:-1 tvg-name="Mega 2" group-title="Culture",Mega 2
+http://15.204.246.24:8080/Mega2HD/index.m3u8

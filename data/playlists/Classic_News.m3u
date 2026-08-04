@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-04 00:15:08
-# Всего каналов: 21353
-# Новых за сессию: 0
+# Обновлено: 2026-08-04 03:49:23
+# Всего каналов: 21393
+# Новых за сессию: 40
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;News
 # Каналов: 1
-# Обновлено: 2026-08-04 00:15:08
+# Обновлено: 2026-08-04 03:49:23
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ZillarBarta News" group-title="Classic;News",ZillarBarta News
@@ -2527,3 +2527,7 @@ https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=91
 #EXTINF:-1 tvg-name="Vinh Long TV 1 (576p)" group-title="General;News",Vinh Long TV 1 (576p)
 http://125hvt.ddns.net:21585/thvl1/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Peru Noticias" group-title="News",TV Peru Noticias
+http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Classic;Movies",Bollywood Classic (576p)" group-title="Classic;Movies",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Classic;Movies",Bollywood Classic (576p)
+http://starcius-cinema.com/20653/index.m3u8

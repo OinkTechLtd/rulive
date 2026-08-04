@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-04 00:15:08
-# Всего каналов: 21353
-# Новых за сессию: 0
+# Обновлено: 2026-08-04 03:49:23
+# Всего каналов: 21393
+# Новых за сессию: 40
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Family;Religious
 # Каналов: 1
-# Обновлено: 2026-08-04 00:15:08
+# Обновлено: 2026-08-04 03:49:23
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="TV Famille" group-title="Family;Religious",TV Famille
@@ -1743,3 +1743,5 @@ https://stream.berosat.live/hls/exploits-tv/exploits-tv.m3u8
 https://content.uplynk.com/channel/b880a791bf95426d917a509e0c44796a.m3u8
 #EXTINF:-1 tvg-name="JTBS Classic" group-title="Culture;Religious",JTBS Classic
 https://jtbsclassic.dpdns.org/live.m3u8
+#EXTINF:-1 tvg-name="Showtime Family Zone [Geo-blocked]" group-title="Family",Showtime Family Zone [Geo-blocked]
+https://messi.damitv.st/papi/ts/showtimefamilyzone-usa/playlist.m3u8
