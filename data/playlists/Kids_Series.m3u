@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-04 23:03:42
-# Всего каналов: 21397
-# Новых за сессию: 0
+# Обновлено: 2026-08-05 00:55:11
+# Всего каналов: 21429
+# Новых за сессию: 32
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Series
 # Каналов: 1
-# Обновлено: 2026-08-04 23:03:43
+# Обновлено: 2026-08-05 00:55:12
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Inazuma Eleven" group-title="Kids;Series",Inazuma Eleven
@@ -1647,3 +1647,9 @@ http://nmk.ioapk.com:5050/4gtv-live105/index.m3u8
 https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/4.m3u8
 #EXTINF:-1 tvg-name="Giggle Mug (576p)" group-title="Kids",Giggle Mug (576p)
 https://tvsen6.aynaott.com/ytv/index.m3u8
+#EXTINF:-1 tvg-name="Nicktoons [Geo-blocked]" group-title="Kids",Nicktoons [Geo-blocked]
+https://messi.damitv.st/papi/ts/nicktoons-usa/playlist.m3u8
+#EXTINF:-1 tvg-name="Groovia Kids (576p)" group-title="Kids",Groovia Kids (576p)
+https://gist.githubusercontent.com/iptvonlinetv/244b66c61f162a7c0c2b4fa59b528139/raw/2376b7ba1989ebbd383301ec7d645e222a6c9338/udp780.510.345:4545.m3u8
+#EXTINF:-1 tvg-name="ON Kids" group-title="Kids",ON Kids
+https://freem3u.xyz/api/live/play.m3u8?vid=179

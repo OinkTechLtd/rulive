@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-04 23:03:42
-# Всего каналов: 21397
-# Новых за сессию: 0
+# Обновлено: 2026-08-05 00:55:11
+# Всего каналов: 21429
+# Новых за сессию: 32
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Sports
-# Каналов: 683
-# Обновлено: 2026-08-04 23:03:43
+# Каналов: 686
+# Обновлено: 2026-08-05 00:55:12
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CBC Sport [Geo-blocked]" group-title="Sports",CBC Sport [Geo-blocked]
@@ -1932,6 +1932,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/190.93.224.42/LIGA-1-M
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/151.0.0.0 Safari/537.36" group-title="Sports",like Gecko) Chrome/151.0.0.0 Safari/537.36
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/budapest-cache-1.antik.sk/stream/m4_sport_hun/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-name="ACC Network" group-title="Sports",ACC Network
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/gpuserver3.tier1streams.com/ACC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-name="CCTV-5+" group-title="Sports",CCTV-5+
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
+
+#EXTINF:-1 tvg-name="Arena (576p)" group-title="Sports",Arena (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/gist.githubusercontent.com/iptvonlinetv/b9e0c530348c2a14bf2de025bcfec053/raw/96db8c5e17807ab5a22212f289b53afd6edb0966/udp310.910.810:1050.m3u8
 
 #EXTINF:-1 tvg-name="Belarus-5" group-title="Sports",Belarus-5
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8

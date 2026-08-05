@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-04 23:03:42
-# Всего каналов: 21397
-# Новых за сессию: 0
+# Обновлено: 2026-08-05 00:55:11
+# Всего каналов: 21429
+# Новых за сессию: 32
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Family;Movies
 # Каналов: 10
-# Обновлено: 2026-08-04 23:03:43
+# Обновлено: 2026-08-05 00:55:12
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Rakuten TV Family Movies Germany" group-title="Family;Movies",Rakuten TV Family Movies Germany
@@ -1720,9 +1720,21 @@ https://messi.damitv.st/papi/ts/starzcinema-usa/playlist.m3u8
 http://starcius-cinema.com/20653/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Hits" group-title="Movies",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Hits
 http://starcius-cinema.com/11582/index.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Hits Romania (404p)" group-title="Movies",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Hits Romania (404p)
+#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",Patriot (726p)" group-title="Movies",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",Patriot (726p)
 http://starcius-cinema.com/10244/index.m3u8
 #EXTINF:-1 tvg-name="ON Movies" group-title="Movies",ON Movies
 https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",Polsat Film" group-title="Movies",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",Polsat Film
 http://starcius-cinema.com/11579/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-6 [Geo-blocked]" group-title="Movies",CCTV-6 [Geo-blocked]
+https://live.eac-news.com/CCTV/streams/cctv6.m3u8
+#EXTINF:-1 tvg-name="Bioskop TelkomVision (576p)" group-title="Movies",Bioskop TelkomVision (576p)
+https://gist.githubusercontent.com/iptvonlinetv/8bf6f2e766091c54a07743ac6827f0f4/raw/afa1fdc6afa1fed44a29458da114bf98c2f9a0d6/udp810.710.800:2000.m3u8
+#EXTINF:-1 tvg-name="Eros Universe Bollywood Cinema" group-title="Movies",Eros Universe Bollywood Cinema
+https://prod-runn.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8
+#EXTINF:-1 tvg-name="Eros Universe Entertainment" group-title="Movies",Eros Universe Entertainment
+https://prod-runn.cdn.runn.tv/eros/stream/ersent/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Hits Romania" group-title="Movies",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Hits Romania
+http://starcius-cinema.com/20655/index.m3u8
+#EXTINF:-1 tvg-name="NH BollyFlix" group-title="Movies",NH BollyFlix
+https://cc-r5hupcym5oehh.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/d47d1910-8862-4b83-a8a6-00ac11307859/0.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-04 23:03:42
-# Всего каналов: 21397
-# Новых за сессию: 0
+# Обновлено: 2026-08-05 00:55:11
+# Всего каналов: 21429
+# Новых за сессию: 32
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Family;General;News
 # Каналов: 1
-# Обновлено: 2026-08-04 23:03:43
+# Обновлено: 2026-08-05 00:55:12
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="TV Paraense" group-title="Entertainment;Family;General;News",TV Paraense
@@ -9961,3 +9961,7 @@ http://15.204.246.24:8080/PalenqueTVSD/index.m3u8
 http://15.204.246.24:8080/PATSD/index.m3u8
 #EXTINF:-1 tvg-name="TV Peru Noticias" group-title="News",TV Peru Noticias
 http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8
+#EXTINF:-1 tvg-name="Marla Vision (576p)" group-title="General",Marla Vision (576p)
+https://soportedvb.click:3877/live/merlavisionlive.m3u8
+#EXTINF:-1 tvg-name="UVA TV" group-title="General",UVA TV
+https://www.uvatvhd.com/hls.php?file=live.m3u8

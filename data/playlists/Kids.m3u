@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-04 23:03:42
-# Всего каналов: 21397
-# Новых за сессию: 0
+# Обновлено: 2026-08-05 00:55:11
+# Всего каналов: 21429
+# Новых за сессию: 32
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids
-# Каналов: 431
-# Обновлено: 2026-08-04 23:03:43
+# Каналов: 436
+# Обновлено: 2026-08-05 00:55:12
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Mama (576p)" group-title="Kids",Mama (576p)
@@ -1239,6 +1239,21 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/vglivessai.akamaized.n
 
 #EXTINF:-1 tvg-name="Giggle Mug (576p)" group-title="Kids",Giggle Mug (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvsen6.aynaott.com/ytv/index.m3u8
+
+#EXTINF:-1 tvg-name="BabyFirst" group-title="Kids",BabyFirst
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
+
+#EXTINF:-1 tvg-name="Disney Channel" group-title="Kids",Disney Channel
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/190.14.10.19:16000/play/a06z/index.m3u8
+
+#EXTINF:-1 tvg-name="Nicktoons [Geo-blocked]" group-title="Kids",Nicktoons [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/messi.damitv.st/papi/ts/nicktoons-usa/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Groovia Kids (576p)" group-title="Kids",Groovia Kids (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/gist.githubusercontent.com/iptvonlinetv/244b66c61f162a7c0c2b4fa59b528139/raw/2376b7ba1989ebbd383301ec7d645e222a6c9338/udp780.510.345:4545.m3u8
+
+#EXTINF:-1 tvg-name="ON Kids" group-title="Kids",ON Kids
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/freem3u.xyz/api/live/play.m3u8?vid=179
 
 #EXTINF:-1 tvg-name="TNT Kids (288p)" group-title="Kids",TNT Kids (288p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/restreamer1.tnt.ba/hls/tntkids.m3u8

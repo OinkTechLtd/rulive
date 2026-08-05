@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-04 23:03:42
-# Всего каналов: 21397
-# Новых за сессию: 0
+# Обновлено: 2026-08-05 00:55:11
+# Всего каналов: 21429
+# Новых за сессию: 32
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Entertainment;Music
 # Каналов: 1
-# Обновлено: 2026-08-04 23:03:43
+# Обновлено: 2026-08-05 00:55:12
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="MBC America" group-title="Culture;Entertainment;Music",MBC America
@@ -3879,3 +3879,7 @@ http://88.212.15.29/live/bbc_first/index.m3u8
 http://15.204.246.24:8080/Mega2HD/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Music",VOX Music TV" group-title="Music",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Music",VOX Music TV
 http://starcius-cinema.com/11581/index.m3u8
+#EXTINF:-1 tvg-name="MTV Classic (576p)" group-title="Music",MTV Classic (576p)
+http://40.160.24.53/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-name="NH BollyRaga" group-title="Music",NH BollyRaga
+https://cc-up9j649x4thrj.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/f935ee75-bf1b-4bf6-a30c-1f096a0083c5/0.m3u8
