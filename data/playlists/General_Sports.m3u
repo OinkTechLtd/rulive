@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-06 00:04:39
-# Всего каналов: 21447
-# Новых за сессию: 1
+# Обновлено: 2026-08-06 03:27:38
+# Всего каналов: 21451
+# Новых за сессию: 4
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Sports
 # Каналов: 3
-# Обновлено: 2026-08-06 00:04:39
+# Обновлено: 2026-08-06 03:27:38
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="TVR Sport" group-title="General;Sports",TVR Sport
@@ -6993,3 +6993,5 @@ https://soportedvb.click:3877/live/merlavisionlive.m3u8
 https://www.uvatvhd.com/hls.php?file=live.m3u8
 #EXTINF:-1 tvg-name="Arena (576p)" group-title="Sports",Arena (576p)
 https://gist.githubusercontent.com/iptvonlinetv/b9e0c530348c2a14bf2de025bcfec053/raw/96db8c5e17807ab5a22212f289b53afd6edb0966/udp310.910.810:1050.m3u8
+#EXTINF:-1 tvg-name="Telecentro (480p)" group-title="General",Telecentro (480p)
+https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8

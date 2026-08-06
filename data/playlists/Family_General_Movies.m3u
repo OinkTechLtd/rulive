@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-06 00:04:39
-# Всего каналов: 21447
-# Новых за сессию: 1
+# Обновлено: 2026-08-06 03:27:38
+# Всего каналов: 21451
+# Новых за сессию: 4
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Family;General;Movies
 # Каналов: 1
-# Обновлено: 2026-08-06 00:04:39
+# Обновлено: 2026-08-06 03:27:38
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="MCI Televisión" group-title="Family;General;Movies",MCI Televisión
@@ -7521,3 +7521,5 @@ https://prod-runn.cdn.runn.tv/eros/stream/ersent/playlist.m3u8
 http://starcius-cinema.com/20655/index.m3u8
 #EXTINF:-1 tvg-name="NH BollyFlix" group-title="Movies",NH BollyFlix
 https://cc-r5hupcym5oehh.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/d47d1910-8862-4b83-a8a6-00ac11307859/0.m3u8
+#EXTINF:-1 tvg-name="Telecentro (480p)" group-title="General",Telecentro (480p)
+https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8
