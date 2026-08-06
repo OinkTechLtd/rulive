@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-06 06:31:04
-# Всего каналов: 21454
-# Новых за сессию: 2
+# Обновлено: 2026-08-06 09:21:53
+# Всего каналов: 21455
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Series
 # Каналов: 6
-# Обновлено: 2026-08-06 06:31:05
+# Обновлено: 2026-08-06 09:21:53
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Anger Management Channel" group-title="Comedy;Series",Anger Management Channel
@@ -58,6 +58,8 @@ https://cityeden.catcast.tv/content/46209/index.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
 #EXTINF:-1 tvg-name="Смотрим 100% Мужское" group-title="Series",Смотрим 100% Мужское
 https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d
+#EXTINF:-1 tvg-name="Твое ТВ Юмор" group-title="Comedy",Твое ТВ Юмор
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-name="30A Ridiculous TV" group-title="Comedy",30A Ridiculous TV
 https://30a-tv.com/feeds/720p/63.m3u8
 #EXTINF:-1 tvg-name="48 Hours" group-title="Series",48 Hours

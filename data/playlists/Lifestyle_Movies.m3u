@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-06 06:31:04
-# Всего каналов: 21454
-# Новых за сессию: 2
+# Обновлено: 2026-08-06 09:21:53
+# Всего каналов: 21455
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Lifestyle;Movies
 # Каналов: 3
-# Обновлено: 2026-08-06 06:31:05
+# Обновлено: 2026-08-06 09:21:53
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Great American Faith & Living" group-title="Lifestyle;Movies",Great American Faith & Living
@@ -163,12 +163,16 @@ https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8?ads.vf=l_Bw4LbbQO8
 #EXTINF:-1 tvg-name="Bravo Farsi TV (360p)" group-title="Movies",Bravo Farsi TV (360p)
 https://bravoohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Kino 24" group-title="Movies",Kino 24
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 tvg-name="KinoHit (576p)" group-title="Movies",KinoHit (576p)
 http://tmptv.sunduk.tv/CH57/index.m3u8
 #EXTINF:-1 tvg-name="Kinosemja (576p)" group-title="Movies",Kinosemja (576p)
 http://tmptv.sunduk.tv/CH25/index.m3u8
 #EXTINF:-1 tvg-name="Kinosvidanie (576p)" group-title="Movies",Kinosvidanie (576p)
 http://tmptv.sunduk.tv/CH21/index.m3u8
+#EXTINF:-1 tvg-name="Pro100TV (576p)" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV (576p)
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-name="Rodnoe Kino (576p)" group-title="Movies",Rodnoe Kino (576p)
 http://tmptv.sunduk.tv/CH23/index.m3u8
 #EXTINF:-1 tvg-name="START Air" group-title="Movies",START Air

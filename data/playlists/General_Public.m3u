@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-06 06:31:04
-# Всего каналов: 21454
-# Новых за сессию: 2
+# Обновлено: 2026-08-06 09:21:53
+# Всего каналов: 21455
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Public
 # Каналов: 23
-# Обновлено: 2026-08-06 06:31:05
+# Обновлено: 2026-08-06 09:21:53
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="La 2 Canarias" group-title="General;Public",La 2 Canarias
@@ -215,6 +215,10 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="Al Rayyan Al Qadeem" group-title="General",Al Rayyan Al Qadeem
 https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="Channel One" group-title="General",Channel One
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 tvg-name="Mir" group-title="General",Mir
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Saudiya" group-title="General",Al Saudiya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
 #EXTINF:-1 tvg-name="SBC" group-title="General",SBC
@@ -279,14 +283,28 @@ http://tmptv.sunduk.tv/CH317/index.m3u8
 http://tmptv.sunduk.tv/CH189/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/146.0.0.0 Safari/537.36 OPR/130.0.0.0 (Edition std-2)" group-title="General",Rossiya 1 Vainah (576i)" group-title="General",like Gecko) Chrome/146.0.0.0 Safari/537.36 OPR/130.0.0.0 (Edition std-2)" group-title="General",Rossiya 1 Vainah (576i)
 https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
+#EXTINF:-1 tvg-name="Sochi Live" group-title="General",Sochi Live
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 tvg-name="TV BRICS Russian" group-title="General",TV BRICS Russian
 https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
+#EXTINF:-1 tvg-name="Аист ТВ" group-title="General",Аист ТВ
+http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Арис 24" group-title="General",Арис 24
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 #EXTINF:-1 tvg-name="Арктика 24 (Архангельск)" group-title="General",Арктика 24 (Архангельск)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 #EXTINF:-1 tvg-name="Башкортостан 24" group-title="General",Башкортостан 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
+#EXTINF:-1 tvg-name="Белгород 24" group-title="General",Белгород 24
+https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 #EXTINF:-1 tvg-name="Восток 24 (Владивосток)" group-title="General",Восток 24 (Владивосток)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
+#EXTINF:-1 tvg-name="Губерния (Самара) (576p)" group-title="General",Губерния (Самара) (576p)
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Евразия (Орск)" group-title="General",Евразия (Орск)
+https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+#EXTINF:-1 tvg-name="Енисей" group-title="General",Енисей
+https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-name="За!ТВ" group-title="General",За!ТВ
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
 #EXTINF:-1 tvg-name="Запад 24 (Калининград)" group-title="General",Запад 24 (Калининград)
@@ -295,28 +313,48 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-name="Ингушетия ТВ" group-title="General",Ингушетия ТВ
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
+#EXTINF:-1 tvg-name="К16 (Саров) (406p)" group-title="General",К16 (Саров) (406p)
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
 #EXTINF:-1 tvg-name="Кавказ 24 (Ставрополь) (576p)" group-title="General",Кавказ 24 (Ставрополь) (576p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 #EXTINF:-1 tvg-name="Курай (Уфа) (576p)" group-title="General",Курай (Уфа) (576p)
 https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+#EXTINF:-1 tvg-name="ЛДПР ТВ" group-title="General",ЛДПР ТВ
+http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Луганск 24" group-title="General",Луганск 24
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
 #EXTINF:-1 tvg-name="Луч" group-title="General",Луч
 https://mow-9-ll.facecast.io:8443/hls_re/c631505e4fd6d14665c0.m3u8
 #EXTINF:-1 tvg-name="Мир (+4) (576p)" group-title="General",Мир (+4) (576p)
 http://31.148.48.15/Mir/index.m3u8
+#EXTINF:-1 tvg-name="Мир +2 (540p)" group-title="General",Мир +2 (540p)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
+#EXTINF:-1 tvg-name="Мир +7 (540p)" group-title="General",Мир +7 (540p)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
 #EXTINF:-1 tvg-name="Москва 24" group-title="General",Москва 24
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
+#EXTINF:-1 tvg-name="МТВ (Волгоград)" group-title="General",МТВ (Волгоград)
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="НВК Саха" group-title="General",НВК Саха
+https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:-1 tvg-name="Нижний Новгород 24" group-title="General",Нижний Новгород 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
+#EXTINF:-1 tvg-name="Ника ТВ (576p)" group-title="General",Ника ТВ (576p)
+https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Новый Век" group-title="General",Новый Век
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8
 #EXTINF:-1 tvg-name="НТВ (+4) (576p)" group-title="General",НТВ (+4) (576p)
 http://31.148.48.15/NTV/index.m3u8
 #EXTINF:-1 tvg-name="НТК 21 (Биробиджан) [Geo-blocked]" group-title="General",НТК 21 (Биробиджан) [Geo-blocked]
 https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
+#EXTINF:-1 tvg-name="НТМ (Народное телевидение Мордовии)" group-title="General",НТМ (Народное телевидение Мордовии)
+https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="НТС (Севастополь)" group-title="General",НТС (Севастополь)
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Осетия Ирыстон" group-title="General",Осетия Ирыстон
 https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8
+#EXTINF:-1 tvg-name="ОСН" group-title="General",ОСН
+http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1 tvg-name="Первый канал" group-title="General",Первый канал
 http://31.148.48.15/Pervii_kanal_HD/index.m3u8
 #EXTINF:-1 tvg-name="Первый Крымский" group-title="General",Первый Крымский
@@ -339,8 +377,12 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
 https://simf.1tvcrimea.ru/simferopol24.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем ТВ Христианский" group-title="General;Religious",Сити Эдем ТВ Христианский
 https://cityeden.catcast.tv/content/34246/index.m3u8
+#EXTINF:-1 tvg-name="Сочи 24" group-title="General;News",Сочи 24
+http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Таврия" group-title="General",Таврия
 https://streaming.televizor-24-tochka.ru/live/24.m3u8
+#EXTINF:-1 tvg-name="Телеканал 86 (Сургут)" group-title="General",Телеканал 86 (Сургут)
+https://sitv.ru/hls/s86.m3u8
 #EXTINF:-1 tvg-name="Телеканал Краснодар" group-title="General",Телеканал Краснодар
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Телерадиокомпания 555 (Алушта)" group-title="General",Телерадиокомпания 555 (Алушта)
@@ -2139,8 +2181,6 @@ https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
 https://streamer2.nexgen.bz/07-CHANNEL7/index.m3u8
 #EXTINF:-1 tvg-name="Channel247" group-title="General",Channel247
 https://tv.localstreamgh.com/Channel247/index.m3u8
-#EXTINF:-1 tvg-name="Channel One" group-title="General",Channel One
-https://mini.allinonereborn.fun/tata.php?id=11589
 #EXTINF:-1 tvg-name="CLTV 36" group-title="General",CLTV 36
 https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
 #EXTINF:-1 tvg-name="CMTv Kenya (576p)" group-title="General",CMTv Kenya (576p)

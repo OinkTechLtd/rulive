@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-06 06:31:04
-# Всего каналов: 21454
-# Новых за сессию: 2
+# Обновлено: 2026-08-06 09:21:53
+# Всего каналов: 21455
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: IPTV
-# Каналов: 956
-# Обновлено: 2026-08-06 06:31:05
+# Каналов: 897
+# Обновлено: 2026-08-06 09:21:53
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="A2 CNN Albania" group-title="IPTV",A2 CNN Albania
@@ -34,23 +34,8 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/abc-iview-mediapackage
 #EXTINF:-1 tvg-name="ORF Sport + Ⓖ" group-title="IPTV",ORF Sport + Ⓖ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/orfs.mdn.ors.at/out/u/orfs/q8c/manifest.m3u8
 
-#EXTINF:-1 tvg-name="Первый канал" group-title="IPTV",Первый канал
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-
 #EXTINF:-1 tvg-name="Звезда" group-title="IPTV",Звезда
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Мир" group-title="IPTV",Мир
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Астрахань 24" group-title="IPTV",Астрахань 24
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming.astrakhan.ru/astrakhan24/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Волгоград 24" group-title="IPTV",Волгоград 24
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
-
-#EXTINF:-1 tvg-name="Мир Белагорья [Geo-blocked]" group-title="IPTV",Мир Белагорья [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/mirbelogorya.ru:8080/mirbelogorya/index.m3u8
 
 #EXTINF:-1 tvg-name="Нижний Новгород 24" group-title="IPTV",Нижний Новгород 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
@@ -88,182 +73,23 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/bl.rutube.ru/livestrea
 #EXTINF:-1 tvg-name="Cinema" group-title="IPTV",Cinema
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/catchup.videoline.ru/cinema/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Kino 24" group-title="IPTV",Kino 24
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/sirius.greenhosting.ru/Kino24Ru/video.m3u8
-
-#EXTINF:-1 tvg-name="Pro100TV" group-title="IPTV",Pro100TV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/sirius.greenhosting.ru/Pro100tvRu/video.m3u8
-
 #EXTINF:-1 tvg-name="Shopping Live (576p)" group-title="IPTV",Shopping Live (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Sochi Live" group-title="IPTV",Sochi Live
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Univer TV" group-title="IPTV",Univer TV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Аист ТВ" group-title="IPTV",Аист ТВ
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Арис 24" group-title="IPTV",Арис 24
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/serv25.vintera.tv:8081/test/aris/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Астрахань.Ru Sport" group-title="IPTV",Астрахань.Ru Sport
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Астрахань.Ru TV (480p)" group-title="IPTV",Астрахань.Ru TV (480p)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Белгород 24" group-title="IPTV",Белгород 24
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
-
-#EXTINF:-1 tvg-name="Большая Азия" group-title="IPTV",Большая Азия
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Волга ( )" group-title="IPTV",Волга ( )
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Губерния (Самара) (576p)" group-title="IPTV",Губерния (Самара) (576p)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Евразия (Орск)" group-title="IPTV",Евразия (Орск)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
-
-#EXTINF:-1 tvg-name="Енисей" group-title="IPTV",Енисей
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Известия" group-title="IPTV",Известия
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-
-#EXTINF:-1 tvg-name="К16 (Саров) (406p)" group-title="IPTV",К16 (Саров) (406p)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/serv25.vintera.tv:8081/test/k16/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Красная линия" group-title="IPTV",Красная линия
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
-
-#EXTINF:-1 tvg-name="ЛДПР ТВ" group-title="IPTV",ЛДПР ТВ
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Легендарный 24" group-title="IPTV",Легендарный 24
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/sevas.1tvcrimea.ru/legendarniy24.m3u8
-
-#EXTINF:-1 tvg-name="Матур ТВ" group-title="IPTV",Матур ТВ
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-
-#EXTINF:-1 tvg-name="Мир 24" group-title="IPTV",Мир 24
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Мир +2 (540p)" group-title="IPTV",Мир +2 (540p)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Мир +7 (540p)" group-title="IPTV",Мир +7 (540p)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-name="MOSOBR.TV" group-title="IPTV",MOSOBR.TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/retc.educom.ru/mosobrtv/tv1/index.m3u8
 
-#EXTINF:-1 tvg-name="МТВ (Волгоград)" group-title="IPTV",МТВ (Волгоград)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Муз союз (576p)" group-title="IPTV",Муз союз (576p)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Мультимания (576p)" group-title="IPTV",Мультимания (576p)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="Надежда" group-title="IPTV",Надежда
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Нано ТВ" group-title="IPTV",Нано ТВ
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/s1.tv-nano.com/Nano_rec/index.m3u8
-
-#EXTINF:-1 tvg-name="НВК Саха" group-title="IPTV",НВК Саха
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ника ТВ (576p)" group-title="IPTV",Ника ТВ (576p)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="НТМ (Народное телевидение Мордовии)" group-title="IPTV",НТМ (Народное телевидение Мордовии)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="НТС (Севастополь)" group-title="IPTV",НТС (Севастополь)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="ОСН" group-title="IPTV",ОСН
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Прима" group-title="IPTV",Прима
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
-
-#EXTINF:-1 tvg-name="Радио Говорит Москва (Веб-камера)" group-title="IPTV",Радио Говорит Москва (Веб-камера)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/video.govoritmoskva.ru/rufm/index.m3u8
-
-#EXTINF:-1 tvg-name="Радио Хит (Орск)" group-title="IPTV",Радио Хит (Орск)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/lova.me/hls/hithd.m3u8
-
-#EXTINF:-1 tvg-name="Радио Шансон" group-title="IPTV",Радио Шансон
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
-
 #EXTINF:-1 tvg-name="РБК (576p)" group-title="IPTV",РБК (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/uiptv.do.am/1ufc/701293058/playlist.m3u8
-
-#EXTINF:-1 tvg-name="РЖД ТВ [Geo-blocked]" group-title="IPTV",РЖД ТВ [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="С1 (Сургут)" group-title="IPTV",С1 (Сургут)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/sitv.ru/hls/stv.m3u8
-
-#EXTINF:-1 tvg-name="Sochi 24" group-title="IPTV",Sochi 24
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Союз (576p)" group-title="IPTV",Союз (576p)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Страна FM" group-title="IPTV",Страна FM
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Сургут 24" group-title="IPTV",Сургут 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/video1.in-news.ru/c24/index.m3u8
 
-#EXTINF:-1 tvg-name="ТВК 24 (576p)" group-title="IPTV",ТВК 24 (576p)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/air.tvk6.ru/tvk24/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Tvoe TV" group-title="IPTV",Tvoe TV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvoetv.space:8080/tvoetv/index.m3u8
-
-#EXTINF:-1 tvg-name="Твое ТВ Юмор" group-title="IPTV",Твое ТВ Юмор
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvoetv.space:8080/tvoetv_humor/index.m3u8
-
-#EXTINF:-1 tvg-name="Телеканал 86 (Сургут)" group-title="IPTV",Телеканал 86 (Сургут)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/sitv.ru/hls/s86.m3u8
-
-#EXTINF:-1 tvg-name="Телплюс ТВ (Астрахань) (360p)" group-title="IPTV",Телплюс ТВ (Астрахань) (360p)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming.astrakhan.ru/telplushd/playlist.m3u8
-
 #EXTINF:-1 tvg-name="ТК Алмазный край (576p)" group-title="IPTV",ТК Алмазный край (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.almaz-media.tv:8080/hls/576.m3u8
 
-#EXTINF:-1 tvg-name="ТКР (Рязань)" group-title="IPTV",ТКР (Рязань)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Толк" group-title="IPTV",Толк
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Три Ангела" group-title="IPTV",Три Ангела
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls.tv.3angels.ru/stream.m3u8
-
 #EXTINF:-1 tvg-name="Шансон ТВ (576p) [Geo-blocked]" group-title="IPTV",Шансон ТВ (576p) [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/uiptv.do.am/1ufc/602079679/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Щёлковское ТВ (576p)" group-title="IPTV",Щёлковское ТВ (576p)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream0.tv41.ru/live.m3u8
-
-#EXTINF:-1 tvg-name="Ювелирочка ТВ (576p)" group-title="IPTV",Ювелирочка ТВ (576p)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Хузур ТВ" group-title="IPTV",Хузур ТВ
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Magic PowerRadio" group-title="IPTV",Magic PowerRadio
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/server-23.stream-server.nl:1936/Magic-PowerRadio/Magic-PowerRadio/playlist.m3u8
@@ -2778,9 +2604,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/d1axml5ozykh3g.cloudfr
 
 #EXTINF:-1 tvg-name="РБК (560p)" group-title="IPTV",РБК (560p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/92.50.128.180/utv/1358/index.m3u8
-
-#EXTINF:-1 tvg-name="Ветта 24 (Пермь) (576p)" group-title="IPTV",Ветта 24 (Пермь) (576p)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ИНФОКАНАЛ" group-title="IPTV",ИНФОКАНАЛ
 https://github.com/CrocoUser/files/raw/refs/heads/main/infokanal.m3u8

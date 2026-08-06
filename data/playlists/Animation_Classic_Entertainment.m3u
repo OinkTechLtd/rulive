@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-06 06:31:04
-# Всего каналов: 21454
-# Новых за сессию: 2
+# Обновлено: 2026-08-06 09:21:53
+# Всего каналов: 21455
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Classic;Entertainment
 # Каналов: 1
-# Обновлено: 2026-08-06 06:31:05
+# Обновлено: 2026-08-06 09:21:53
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="LAMIL35 TV" group-title="Animation;Classic;Entertainment",LAMIL35 TV
@@ -65,12 +65,16 @@ http://103.213.31.109:90/BollywoodClassic/playlist.m3u8
 http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="NSC+" group-title="Entertainment",NSC+
 https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8
+#EXTINF:-1 tvg-name="Pro100TV (576p)" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV (576p)
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-name="Retro" group-title="Classic",Retro
 http://tmptv.sunduk.tv/CH149/index.m3u8
 #EXTINF:-1 tvg-name="U" group-title="Entertainment",U
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=9cPc1rCGu6M932eqrifRhQ&e=2066519758&scheme=https
 #EXTINF:-1 tvg-name="Индия (576p)" group-title="Entertainment",Индия (576p)
 http://31.148.48.15/Zee_TV_Russia/index.m3u8
+#EXTINF:-1 tvg-name="Мультимания (576p)" group-title="Animation;Kids",Мультимания (576p)
+https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Ностальгия (576p)" group-title="Classic",Ностальгия (576p)
 http://31.148.48.15/Nostalgiya/index.m3u8
 #EXTINF:-1 tvg-name="ОТВ Приморье" group-title="Entertainment",ОТВ Приморье
@@ -87,6 +91,8 @@ https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c9
 https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
 #EXTINF:-1 tvg-name="Солнце (576p)" group-title="Animation;Kids",Солнце (576p)
 http://tv.mediacdn.ru/live/solntse/playlist.m3u8
+#EXTINF:-1 tvg-name="Твое TV" group-title="Entertainment",Твое TV
+http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-name="ТНТ4 (576p)" group-title="Entertainment",ТНТ4 (576p)
 http://31.148.48.15/TNT4/index.m3u8
 #EXTINF:-1 tvg-name="ТНТ (+4) (576p)" group-title="Entertainment",ТНТ (+4) (576p)

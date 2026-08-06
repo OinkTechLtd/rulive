@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-06 06:31:04
-# Всего каналов: 21454
-# Новых за сессию: 2
+# Обновлено: 2026-08-06 09:21:53
+# Всего каналов: 21455
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Lifestyle;Music
 # Каналов: 1
-# Обновлено: 2026-08-06 06:31:05
+# Обновлено: 2026-08-06 09:21:53
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="PRIDEtv LATAM" group-title="Entertainment;Lifestyle;Music",PRIDEtv LATAM
@@ -127,6 +127,8 @@ http://tmptv.sunduk.tv/CH77/index.m3u8
 http://tmptv.sunduk.tv/CH81/index.m3u8
 #EXTINF:-1 tvg-name="NSC+" group-title="Entertainment",NSC+
 https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8
+#EXTINF:-1 tvg-name="Pro100TV (576p)" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV (576p)
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-name="RU.TV" group-title="Music",RU.TV
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=d-E-bxKy2v3EEJ94RQX9CA&e=2069285076&scheme=https
 #EXTINF:-1 tvg-name="SONGTV Russia" group-title="Music",SONGTV Russia
@@ -147,6 +149,10 @@ http://31.148.48.15/Zhivi/index.m3u8
 http://31.148.48.15/Zdorovoe_TV/index.m3u8
 #EXTINF:-1 tvg-name="Индия (576p)" group-title="Entertainment",Индия (576p)
 http://31.148.48.15/Zee_TV_Russia/index.m3u8
+#EXTINF:-1 tvg-name="Матур ТВ" group-title="Music",Матур ТВ
+https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1 tvg-name="Муз союз (576p)" group-title="Music;Religious",Муз союз (576p)
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 tvg-name="Музыка 1 International" group-title="Music",Музыка 1 International
 https://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-name="Музыка Live (576p)" group-title="Music",Музыка Live (576p)
@@ -171,6 +177,10 @@ http://31.148.48.15/Poehali/index.m3u8
 https://vod.tuva.ru/friday/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Entertainment",Пятница! International (576p)" group-title="Entertainment",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Entertainment",Пятница! International (576p)
 https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
+#EXTINF:-1 tvg-name="Радио Хит (Орск)" group-title="Music",Радио Хит (Орск)
+http://lova.me/hls/hithd.m3u8
+#EXTINF:-1 tvg-name="Радио Шансон" group-title="Music",Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем Meditation Music" group-title="Music",Сити Эдем Meditation Music
 https://cityeden.catcast.tv/content/47410/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем Play Христианский Музыкальный" group-title="Music",Сити Эдем Play Христианский Музыкальный
@@ -185,6 +195,10 @@ https://cityeden.catcast.tv/content/47519/index.m3u8
 https://cityeden.catcast.tv/content/46421/index.m3u8
 #EXTINF:-1 tvg-name="Смотрим 100% Праздник" group-title="Entertainment",Смотрим 100% Праздник
 https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
+#EXTINF:-1 tvg-name="Страна FM" group-title="Music",Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Твое TV" group-title="Entertainment",Твое TV
+http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-name="ТНТ4 (576p)" group-title="Entertainment",ТНТ4 (576p)
 http://31.148.48.15/TNT4/index.m3u8
 #EXTINF:-1 tvg-name="ТНТ (+4) (576p)" group-title="Entertainment",ТНТ (+4) (576p)

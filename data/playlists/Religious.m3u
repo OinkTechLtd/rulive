@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-06 06:31:04
-# Всего каналов: 21454
-# Новых за сессию: 2
+# Обновлено: 2026-08-06 09:21:53
+# Всего каналов: 21455
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Religious
-# Каналов: 791
-# Обновлено: 2026-08-06 06:31:05
+# Каналов: 795
+# Обновлено: 2026-08-06 09:21:53
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Спас (450p) [Geo-blocked]" group-title="Religious",Спас (450p) [Geo-blocked]
@@ -18,6 +18,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/bl.rutube.ru/livestrea
 
 #EXTINF:-1 tvg-name="Вера 24" group-title="Religious",Вера 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Надежда" group-title="Religious",Надежда
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Союз (576p)" group-title="Religious",Союз (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Три Ангела" group-title="Religious",Три Ангела
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls.tv.3angels.ru/stream.m3u8
 
 #EXTINF:-1 tvg-name="EWTN Ukraine" group-title="Religious",EWTN Ukraine
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
@@ -780,6 +789,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/w2.manasat.com/tserkov
 
 #EXTINF:-1 tvg-name="TV Maná Russkiy" group-title="Religious",TV Maná Russkiy
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Хузур ТВ" group-title="Religious",Хузур ТВ
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="3ABN International Network" group-title="Religious",3ABN International Network
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
@@ -2391,6 +2403,8 @@ https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6
 https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="ABN Bible Movies" group-title="Movies;Religious",ABN Bible Movies
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+#EXTINF:-1 tvg-name="Муз союз (576p)" group-title="Music;Religious",Муз союз (576p)
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем ТВ Христианский" group-title="General;Religious",Сити Эдем ТВ Христианский
 https://cityeden.catcast.tv/content/34246/index.m3u8
 #EXTINF:-1 tvg-name="3ABN Kids Network" group-title="Animation;Kids;Religious",3ABN Kids Network

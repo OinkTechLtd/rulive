@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-06 06:31:04
-# Всего каналов: 21454
-# Новых за сессию: 2
+# Обновлено: 2026-08-06 09:21:53
+# Всего каналов: 21455
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Sports
 # Каналов: 1
-# Обновлено: 2026-08-06 06:31:05
+# Обновлено: 2026-08-06 09:21:53
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ADO TV" group-title="Kids;Sports",ADO TV
@@ -165,6 +165,8 @@ https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
 http://tmptv.sunduk.tv/CH131/index.m3u8
 #EXTINF:-1 tvg-name="VITAL Drive" group-title="Sports",VITAL Drive
 https://autopilot.catcast.tv/content/37909/index.m3u8
+#EXTINF:-1 tvg-name="Астрахань.Ru Sport" group-title="Sports",Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 tvg-name="Бокс ТВ" group-title="Sports",Бокс ТВ
 http://31.148.48.15/Boks_TV/index.m3u8
 #EXTINF:-1 tvg-name="МАТЧ! Арена" group-title="Sports",МАТЧ! Арена
@@ -177,6 +179,8 @@ https://cdn4.skygo.mn/live/disk1/Match_Planeta/HLSv3-FTA/Match_Planeta.m3u8
 http://31.148.48.15/Mult_HD/index.m3u8
 #EXTINF:-1 tvg-name="Мульт и Музыка (576p)" group-title="Kids",Мульт и Музыка (576p)
 http://31.148.48.15/Multimuzika/index.m3u8
+#EXTINF:-1 tvg-name="Мультимания (576p)" group-title="Animation;Kids",Мультимания (576p)
+https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Радость моя (576p)" group-title="Kids",Радость моя (576p)
 https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
 #EXTINF:-1 tvg-name="Смайл ТВ" group-title="Kids",Смайл ТВ

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-06 06:31:04
-# Всего каналов: 21454
-# Новых за сессию: 2
+# Обновлено: 2026-08-06 09:21:53
+# Всего каналов: 21455
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment
-# Каналов: 1056
-# Обновлено: 2026-08-06 06:31:05
+# Каналов: 1057
+# Обновлено: 2026-08-06 09:21:53
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Arte [Geo-blocked]" group-title="Entertainment",Arte [Geo-blocked]
@@ -42,6 +42,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn4.skygo.mn/live/dis
 
 #EXTINF:-1 tvg-name="Смотрим 100% Праздник" group-title="Entertainment",Смотрим 100% Праздник
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
+
+#EXTINF:-1 tvg-name="Твое TV" group-title="Entertainment",Твое TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvoetv.space:8080/tvoetv/index.m3u8
 
 #EXTINF:-1 tvg-name="ТНТ4 (576p)" group-title="Entertainment",ТНТ4 (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/TNT4/index.m3u8
@@ -3186,6 +3189,8 @@ https://30a-tv.com/gh.m3u8
 https://tv.alterna.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-name="Đồng Nai 2 (480p)" group-title="Entertainment;Sports",Đồng Nai 2 (480p)
 http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="Pro100TV (576p)" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV (576p)
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-name="Поехали!" group-title="Entertainment;Outdoor",Поехали!
 http://31.148.48.15/Poehali/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Entertainment",Пятница! International (576p)" group-title="Entertainment",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Entertainment",Пятница! International (576p)

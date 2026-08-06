@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-06 06:31:04
-# Всего каналов: 21454
-# Новых за сессию: 2
+# Обновлено: 2026-08-06 09:21:53
+# Всего каналов: 21455
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Comedy
 # Каналов: 60
-# Обновлено: 2026-08-06 06:31:05
+# Обновлено: 2026-08-06 09:21:53
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Comedy Central South Park" group-title="Animation;Comedy",Comedy Central South Park
@@ -198,12 +198,18 @@ https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 http://31.148.48.15/Fan/index.m3u8
 #EXTINF:-1 tvg-name="Kinokomedija (576p)" group-title="Comedy",Kinokomedija (576p)
 http://tmptv.sunduk.tv/CH47/index.m3u8
+#EXTINF:-1 tvg-name="Pro100TV (576p)" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV (576p)
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-name="viju+ Comedy" group-title="Comedy",viju+ Comedy
 http://tmptv.sunduk.tv/CH311/index.m3u8
 #EXTINF:-1 tvg-name="КВН ТВ (576p)" group-title="Comedy",КВН ТВ (576p)
 http://31.148.48.15/KVN_TV/index.m3u8
+#EXTINF:-1 tvg-name="Мультимания (576p)" group-title="Animation;Kids",Мультимания (576p)
+https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Солнце (576p)" group-title="Animation;Kids",Солнце (576p)
 http://tv.mediacdn.ru/live/solntse/playlist.m3u8
+#EXTINF:-1 tvg-name="Твое ТВ Юмор" group-title="Comedy",Твое ТВ Юмор
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-name="3ABN Kids Network" group-title="Animation;Kids;Religious",3ABN Kids Network
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="30A Ridiculous TV" group-title="Comedy",30A Ridiculous TV

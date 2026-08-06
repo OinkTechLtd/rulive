@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-06 06:31:04
-# Всего каналов: 21454
-# Новых за сессию: 2
+# Обновлено: 2026-08-06 09:21:53
+# Всего каналов: 21455
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;News;Religious
 # Каналов: 1
-# Обновлено: 2026-08-06 06:31:05
+# Обновлено: 2026-08-06 09:21:53
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Lingkar TV" group-title="Music;News;Religious",Lingkar TV
@@ -135,6 +135,8 @@ https://live.muzickatv.mk/live/StarMusic2.m3u8
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-name="Pro TV News" group-title="News",Pro TV News
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-name="Астрахань 24" group-title="News",Астрахань 24
+https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 #EXTINF:-1 tvg-name="Крым 24" group-title="News",Крым 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 #EXTINF:-1 tvg-name="Al Ekhbariya" group-title="News",Al Ekhbariya
@@ -403,10 +405,20 @@ https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e01
 https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8
 #EXTINF:-1 tvg-name="Жара TV (576p)" group-title="Music",Жара TV (576p)
 http://31.148.48.15/Zhara/index.m3u8
+#EXTINF:-1 tvg-name="Известия" group-title="News",Известия
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 tvg-name="КРИК-ТВ (Екатеринбург)" group-title="News",КРИК-ТВ (Екатеринбург)
 http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
+#EXTINF:-1 tvg-name="Легендарный 24" group-title="News",Легендарный 24
+https://sevas.1tvcrimea.ru/legendarniy24.m3u8
+#EXTINF:-1 tvg-name="Матур ТВ" group-title="Music",Матур ТВ
+https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 #EXTINF:-1 tvg-name="Миллет" group-title="News",Миллет
 https://live1.1tvcrimea.ru/milletlive.m3u8
+#EXTINF:-1 tvg-name="Мир 24" group-title="News",Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-name="Муз союз (576p)" group-title="Music;Religious",Муз союз (576p)
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 tvg-name="Музыка 1 International" group-title="Music",Музыка 1 International
 https://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-name="Музыка Live (576p)" group-title="Music",Музыка Live (576p)
@@ -415,6 +427,8 @@ http://31.148.48.15/La-Minor_TV/index.m3u8
 https://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 tvg-name="Музыка Первого" group-title="Music",Музыка Первого
 http://31.148.48.15/Muzika_Pervogo/index.m3u8
+#EXTINF:-1 tvg-name="Надежда" group-title="Religious",Надежда
+https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:-1 tvg-name="о2тв" group-title="Music",о2тв
 http://31.148.48.15/O2_HD/index.m3u8
 #EXTINF:-1 tvg-name="Первый Музыкальный Канал" group-title="Music",Первый Музыкальный Канал
@@ -423,6 +437,12 @@ http://rtmp.one.by:1300
 http://rtmp.one.by:2300
 #EXTINF:-1 tvg-name="Первый Республиканский" group-title="News",Первый Республиканский
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
+#EXTINF:-1 tvg-name="Радио Говорит Москва (Веб-камера)" group-title="News",Радио Говорит Москва (Веб-камера)
+https://video.govoritmoskva.ru/rufm/index.m3u8
+#EXTINF:-1 tvg-name="Радио Хит (Орск)" group-title="Music",Радио Хит (Орск)
+http://lova.me/hls/hithd.m3u8
+#EXTINF:-1 tvg-name="Радио Шансон" group-title="Music",Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 #EXTINF:-1 tvg-name="Россия 24 (Хабаровск)" group-title="News",Россия 24 (Хабаровск)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем Meditation Music" group-title="Music",Сити Эдем Meditation Music
@@ -437,6 +457,16 @@ https://cityeden.catcast.tv/content/47400/index.m3u8
 https://cityeden.catcast.tv/content/46421/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем ТВ Христианский" group-title="General;Religious",Сити Эдем ТВ Христианский
 https://cityeden.catcast.tv/content/34246/index.m3u8
+#EXTINF:-1 tvg-name="Сочи 24" group-title="General;News",Сочи 24
+http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Союз (576p)" group-title="Religious",Союз (576p)
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 tvg-name="Страна FM" group-title="Music",Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Толк" group-title="News",Толк
+http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Три Ангела" group-title="Religious",Три Ангела
+https://hls.tv.3angels.ru/stream.m3u8
 #EXTINF:-1 tvg-name="Apostrophe TV" group-title="News",Apostrophe TV
 https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8
 #EXTINF:-1 tvg-name="Army TV" group-title="News",Army TV
@@ -2359,6 +2389,8 @@ https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
 https://st2.mediabay.tv/KG_KTRK-Ala-too/playlist.m3u8
 #EXTINF:-1 tvg-name="УТРК Музыка (480p)" group-title="Music",УТРК Музыка (480p)
 https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
+#EXTINF:-1 tvg-name="Хузур ТВ" group-title="Religious",Хузур ТВ
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 #EXTINF:-1 tvg-name="3ABN International Network" group-title="Religious",3ABN International Network
 https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="3ABN TV Uganda" group-title="Religious",3ABN TV Uganda

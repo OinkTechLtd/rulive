@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-06 06:31:04
-# Всего каналов: 21454
-# Новых за сессию: 2
+# Обновлено: 2026-08-06 09:21:53
+# Всего каналов: 21455
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Movies
 # Каналов: 10
-# Обновлено: 2026-08-06 06:31:05
+# Обновлено: 2026-08-06 09:21:53
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pluto TV Comedias Románticas" group-title="Comedy;Movies",Pluto TV Comedias Románticas
@@ -180,6 +180,8 @@ https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8?ads.vf=l_Bw4LbbQO8
 #EXTINF:-1 tvg-name="Bravo Farsi TV (360p)" group-title="Movies",Bravo Farsi TV (360p)
 https://bravoohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Kino 24" group-title="Movies",Kino 24
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 tvg-name="KinoHit (576p)" group-title="Movies",KinoHit (576p)
 http://tmptv.sunduk.tv/CH57/index.m3u8
 #EXTINF:-1 tvg-name="Kinokomedija (576p)" group-title="Comedy",Kinokomedija (576p)
@@ -188,6 +190,8 @@ http://tmptv.sunduk.tv/CH47/index.m3u8
 http://tmptv.sunduk.tv/CH25/index.m3u8
 #EXTINF:-1 tvg-name="Kinosvidanie (576p)" group-title="Movies",Kinosvidanie (576p)
 http://tmptv.sunduk.tv/CH21/index.m3u8
+#EXTINF:-1 tvg-name="Pro100TV (576p)" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV (576p)
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-name="Rodnoe Kino (576p)" group-title="Movies",Rodnoe Kino (576p)
 http://tmptv.sunduk.tv/CH23/index.m3u8
 #EXTINF:-1 tvg-name="START Air" group-title="Movies",START Air
@@ -262,6 +266,8 @@ https://cityeden.catcast.tv/content/45268/index.m3u8
 https://cityeden.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1 tvg-name="Смотрим 100% Классика" group-title="Classic;Movies",Смотрим 100% Классика
 https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
+#EXTINF:-1 tvg-name="Твое ТВ Юмор" group-title="Comedy",Твое ТВ Юмор
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-name="Феникс плюс Кино (576p)" group-title="Movies",Феникс плюс Кино (576p)
 http://31.148.48.15/Feniks_plus_kino/index.m3u8
 #EXTINF:-1 tvg-name="Viasat Kino (576p)" group-title="Movies",Viasat Kino (576p)
