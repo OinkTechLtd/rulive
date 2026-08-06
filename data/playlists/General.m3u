@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-06 06:11:42
-# Всего каналов: 21452
-# Новых за сессию: 0
+# Обновлено: 2026-08-06 06:31:04
+# Всего каналов: 21454
+# Новых за сессию: 2
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General
-# Каналов: 3086
-# Обновлено: 2026-08-06 06:11:43
+# Каналов: 3066
+# Обновлено: 2026-08-06 06:31:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="БелРос (576p)" group-title="General",БелРос (576p)
@@ -30,12 +30,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/6zklxkbbdw9b-hls-live.
 
 #EXTINF:-1 tvg-name="RTL Zwee" group-title="General",RTL Zwee
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Channel One" group-title="General",Channel One
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-
-#EXTINF:-1 tvg-name="Mir" group-title="General",Mir
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Telekanal RAI (480p)" group-title="General",Telekanal RAI (480p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.rai.ua/rai/stream.m3u8
@@ -61,17 +55,8 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/tmptv.sunduk.tv/CH189/
 #EXTINF:-1 tvg-name="like Gecko) Chrome/146.0.0.0 Safari/537.36 OPR/130.0.0.0 (Edition std-2)" group-title="General",like Gecko) Chrome/146.0.0.0 Safari/537.36 OPR/130.0.0.0 (Edition std-2)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Sochi Live" group-title="General",Sochi Live
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-
 #EXTINF:-1 tvg-name="TV BRICS Russian" group-title="General",TV BRICS Russian
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Аист ТВ" group-title="General",Аист ТВ
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Арис 24" group-title="General",Арис 24
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/serv25.vintera.tv:8081/test/aris/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Арктика 24 (Архангельск)" group-title="General",Арктика 24 (Архангельск)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
@@ -79,20 +64,8 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvid
 #EXTINF:-1 tvg-name="Башкортостан 24" group-title="General",Башкортостан 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
 
-#EXTINF:-1 tvg-name="Белгород 24" group-title="General",Белгород 24
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
-
 #EXTINF:-1 tvg-name="Восток 24 (Владивосток)" group-title="General",Восток 24 (Владивосток)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
-
-#EXTINF:-1 tvg-name="Губерния (Самара) (576p)" group-title="General",Губерния (Самара) (576p)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Евразия (Орск)" group-title="General",Евразия (Орск)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
-
-#EXTINF:-1 tvg-name="Енисей" group-title="General",Енисей
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="За!ТВ" group-title="General",За!ТВ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming.televizor-24-tochka.ru/live/25.m3u8
@@ -106,17 +79,11 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvzvezda.bonus-tv.ru/c
 #EXTINF:-1 tvg-name="Ингушетия ТВ" group-title="General",Ингушетия ТВ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
 
-#EXTINF:-1 tvg-name="К16 (Саров) (406p)" group-title="General",К16 (Саров) (406p)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/serv25.vintera.tv:8081/test/k16/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Кавказ 24 (Ставрополь) (576p)" group-title="General",Кавказ 24 (Ставрополь) (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Курай (Уфа) (576p)" group-title="General",Курай (Уфа) (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
-
-#EXTINF:-1 tvg-name="ЛДПР ТВ" group-title="General",ЛДПР ТВ
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Луганск 24" group-title="General",Луганск 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming.televizor-24-tochka.ru/live/29.m3u8
@@ -127,26 +94,11 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/mow-9-ll.facecast.io:8
 #EXTINF:-1 tvg-name="Мир (+4) (576p)" group-title="General",Мир (+4) (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Mir/index.m3u8
 
-#EXTINF:-1 tvg-name="Мир +2 (540p)" group-title="General",Мир +2 (540p)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Мир +7 (540p)" group-title="General",Мир +7 (540p)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Москва 24" group-title="General",Москва 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
 
-#EXTINF:-1 tvg-name="МТВ (Волгоград)" group-title="General",МТВ (Волгоград)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="НВК Саха" group-title="General",НВК Саха
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Нижний Новгород 24" group-title="General",Нижний Новгород 24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
-
-#EXTINF:-1 tvg-name="Ника ТВ (576p)" group-title="General",Ника ТВ (576p)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Новый Век" group-title="General",Новый Век
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8
@@ -157,17 +109,8 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/NTV/index
 #EXTINF:-1 tvg-name="НТК 21 (Биробиджан) [Geo-blocked]" group-title="General",НТК 21 (Биробиджан) [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
 
-#EXTINF:-1 tvg-name="НТМ (Народное телевидение Мордовии)" group-title="General",НТМ (Народное телевидение Мордовии)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="НТС (Севастополь)" group-title="General",НТС (Севастополь)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Осетия Ирыстон" group-title="General",Осетия Ирыстон
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/osir.mediacdn.ru/cdn/osetia/playlist.m3u8
-
-#EXTINF:-1 tvg-name="ОСН" group-title="General",ОСН
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Первый канал" group-title="General",Первый канал
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Pervii_kanal_HD/index.m3u8
@@ -201,9 +144,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/simf.1tvcrimea.ru/simf
 
 #EXTINF:-1 tvg-name="Таврия" group-title="General",Таврия
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming.televizor-24-tochka.ru/live/24.m3u8
-
-#EXTINF:-1 tvg-name="Телеканал 86 (Сургут)" group-title="General",Телеканал 86 (Сургут)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/sitv.ru/hls/s86.m3u8
 
 #EXTINF:-1 tvg-name="Телеканал Краснодар" group-title="General",Телеканал Краснодар
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
@@ -9288,8 +9228,6 @@ https://tv.alterna.ar/stream/hls/live.m3u8
 https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем ТВ Христианский" group-title="General;Religious",Сити Эдем ТВ Христианский
 https://cityeden.catcast.tv/content/34246/index.m3u8
-#EXTINF:-1 tvg-name="Сочи 24" group-title="General;News",Сочи 24
-http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="General",Qazaqstan" group-title="General",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="General",Qazaqstan
 https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_2490_4000/u_sid/0/o/229009131/rsid/15fbd560-a86a-45ca-8058-baf9f5f61c8e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/45.80.208.174*asn/u_srvc/84416/u_did/web_MjE7M10AtBKsWN3CHzhzNBgiG7LkULPx/type.live/chunklist-sid8840242905769027046-b4000000.m3u8
 #EXTINF:-1 tvg-name="AssyriaSat" group-title="General;Religious",AssyriaSat
