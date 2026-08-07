@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-07 00:24:57
-# Всего каналов: 21460
-# Новых за сессию: 1
+# Обновлено: 2026-08-07 03:28:53
+# Всего каналов: 21487
+# Новых за сессию: 27
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;News
 # Каналов: 3
-# Обновлено: 2026-08-07 00:24:57
+# Обновлено: 2026-08-07 03:28:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Indywood TV" group-title="Movies;News",Indywood TV
@@ -3961,3 +3961,17 @@ https://prod-runn.cdn.runn.tv/eros/stream/ersent/playlist.m3u8
 http://starcius-cinema.com/20655/index.m3u8
 #EXTINF:-1 tvg-name="NH BollyFlix" group-title="Movies",NH BollyFlix
 https://cc-r5hupcym5oehh.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/d47d1910-8862-4b83-a8a6-00ac11307859/0.m3u8
+#EXTINF:-1 tvg-name="ETV Cinema (396p)" group-title="Movies",ETV Cinema (396p)
+https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-name="like Gecko) Chrome/150.0.0.0 Safari/537.36" group-title="Movies",Sony Pix" group-title="Movies",like Gecko) Chrome/150.0.0.0 Safari/537.36" group-title="Movies",Sony Pix
+https://playyonogames.in/sliv/stream.m3u8?id=1000009258
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Zee Action (576p)" group-title="Movies",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Zee Action (576p)
+http://103.175.73.12:8080/live/270/master.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Zee Biskope (576p)" group-title="Movies",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Zee Biskope (576p)
+http://103.175.73.12:8080/live/347/master.m3u8
+#EXTINF:-1 tvg-name="BBC News Asia Pacific (576p)" group-title="News",BBC News Asia Pacific (576p)
+https://thinkkast.dpdns.org/thinkkast/bbcworld_news_sd/versiglia/index.m3u8
+#EXTINF:-1 tvg-name="Observator News (360p)" group-title="News",Observator News (360p)
+https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
+#EXTINF:-1 tvg-name="AXN Asia Philippines (576p)" group-title="Movies;Series",AXN Asia Philippines (576p)
+https://thinkkast.dpdns.org/thinkkast/cg_axn_sd/versiglia/index.m3u8

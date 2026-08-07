@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-07 00:24:57
-# Всего каналов: 21460
-# Новых за сессию: 1
+# Обновлено: 2026-08-07 03:28:53
+# Всего каналов: 21487
+# Новых за сессию: 27
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Religious
 # Каналов: 7
-# Обновлено: 2026-08-07 00:24:57
+# Обновлено: 2026-08-07 03:28:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Сити Эдем ТВ Христианский" group-title="General;Religious",Сити Эдем ТВ Христианский
@@ -7423,3 +7423,9 @@ https://soportedvb.click:3877/live/merlavisionlive.m3u8
 https://www.uvatvhd.com/hls.php?file=live.m3u8
 #EXTINF:-1 tvg-name="Telecentro (480p)" group-title="General",Telecentro (480p)
 https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8
+#EXTINF:-1 tvg-name="Aruljothi TV (576p)" group-title="Religious",Aruljothi TV (576p)
+https://jothi.inet.moe/jothitv/index.m3u8
+#EXTINF:-1 tvg-name="Vision (576p)" group-title="General",Vision (576p)
+http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Today Janakpur" group-title="Entertainment;General",TV Today Janakpur
+https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8

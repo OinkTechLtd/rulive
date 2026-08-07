@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-07 00:24:57
-# Всего каналов: 21460
-# Новых за сессию: 1
+# Обновлено: 2026-08-07 03:28:53
+# Всего каналов: 21487
+# Новых за сессию: 27
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;General;Music;News
 # Каналов: 1
-# Обновлено: 2026-08-07 00:24:57
+# Обновлено: 2026-08-07 03:28:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Online TV Nusantara" group-title="Culture;General;Music;News",Online TV Nusantara
@@ -10093,3 +10093,11 @@ https://www.uvatvhd.com/hls.php?file=live.m3u8
 https://cc-up9j649x4thrj.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/f935ee75-bf1b-4bf6-a30c-1f096a0083c5/0.m3u8
 #EXTINF:-1 tvg-name="Telecentro (480p)" group-title="General",Telecentro (480p)
 https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8
+#EXTINF:-1 tvg-name="Vision (576p)" group-title="General",Vision (576p)
+http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC News Asia Pacific (576p)" group-title="News",BBC News Asia Pacific (576p)
+https://thinkkast.dpdns.org/thinkkast/bbcworld_news_sd/versiglia/index.m3u8
+#EXTINF:-1 tvg-name="TV Today Janakpur" group-title="Entertainment;General",TV Today Janakpur
+https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8
+#EXTINF:-1 tvg-name="Observator News (360p)" group-title="News",Observator News (360p)
+https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8

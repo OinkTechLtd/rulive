@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-07 00:24:57
-# Всего каналов: 21460
-# Новых за сессию: 1
+# Обновлено: 2026-08-07 03:28:53
+# Всего каналов: 21487
+# Новых за сессию: 27
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Entertainment
 # Каналов: 3
-# Обновлено: 2026-08-07 00:24:57
+# Обновлено: 2026-08-07 03:28:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Jaya Max (576p)" group-title="Culture;Entertainment",Jaya Max (576p)
@@ -673,7 +673,7 @@ https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8
 #EXTINF:-1 tvg-name="Star Maa Gold (576p)" group-title="Entertainment",Star Maa Gold (576p)
 http://103.121.6.5:8000/play/a063/index.m3u8
-#EXTINF:-1 tvg-name="Star Maa" group-title="Entertainment",Star Maa
+#EXTINF:-1 tvg-name="like Gecko) Chrome/150.0.0.0 Safari/537.36" group-title="Entertainment",Star Maa" group-title="Entertainment",like Gecko) Chrome/150.0.0.0 Safari/537.36" group-title="Entertainment",Star Maa
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starmaa1_live_https/index.m3u8
 #EXTINF:-1 tvg-name="Star Pravah" group-title="Entertainment",Star Pravah
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starpravah_live_https/index.m3u8
@@ -1879,6 +1879,8 @@ http://rezofoot.tv/rtl-9/index.m3u8
 http://103.175.73.12:8080/live/173/master.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Entertainment",Colors Infinity (576p)" group-title="Entertainment",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Entertainment",Colors Infinity (576p)
 http://103.175.73.12:8080/live/29/29_0.m3u8
+#EXTINF:-1 tvg-name="Star Maa" group-title="Entertainment",Star Maa
+http://217.20.112.199:8080/maatv/index.m3u8
 #EXTINF:-1 tvg-name="StarPlus (576p)" group-title="Entertainment",StarPlus (576p)
 http://41.205.93.154/STAR-PLUS/index.m3u8
 #EXTINF:-1 tvg-name="Zee Bangla" group-title="Entertainment",Zee Bangla
@@ -2261,3 +2263,15 @@ https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8
 http://88.212.15.29/live/bbc_first/index.m3u8
 #EXTINF:-1 tvg-name="Mega 2" group-title="Culture",Mega 2
 http://15.204.246.24:8080/Mega2HD/index.m3u8
+#EXTINF:-1 tvg-name="ETV Plus (396p)" group-title="Entertainment",ETV Plus (396p)
+https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-name="ETV Plus" group-title="Entertainment",ETV Plus
+https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8
+#EXTINF:-1 tvg-name="Pulari TV" group-title="Entertainment",Pulari TV
+https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
+#EXTINF:-1 tvg-name="Raj TV" group-title="Entertainment",Raj TV
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8
+#EXTINF:-1 tvg-name="Zee Kannada" group-title="Entertainment",Zee Kannada
+https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-name="TV Today Janakpur" group-title="Entertainment;General",TV Today Janakpur
+https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8

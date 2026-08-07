@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-07 00:24:57
-# Всего каналов: 21460
-# Новых за сессию: 1
+# Обновлено: 2026-08-07 03:28:53
+# Всего каналов: 21487
+# Новых за сессию: 27
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Classic;Entertainment;Family;Movies
 # Каналов: 1
-# Обновлено: 2026-08-07 00:24:57
+# Обновлено: 2026-08-07 03:28:53
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pro100TV (576p)" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV (576p)
@@ -1217,7 +1217,7 @@ http://103.253.18.58:8000/play/a02u
 http://103.253.18.58:8000/play/a00o
 #EXTINF:-1 tvg-name="Star Maa Gold (576p)" group-title="Entertainment",Star Maa Gold (576p)
 http://103.121.6.5:8000/play/a063/index.m3u8
-#EXTINF:-1 tvg-name="Star Maa" group-title="Entertainment",Star Maa
+#EXTINF:-1 tvg-name="like Gecko) Chrome/150.0.0.0 Safari/537.36" group-title="Entertainment",Star Maa" group-title="Entertainment",like Gecko) Chrome/150.0.0.0 Safari/537.36" group-title="Entertainment",Star Maa
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starmaa1_live_https/index.m3u8
 #EXTINF:-1 tvg-name="Star Maa Movies" group-title="Movies",Star Maa Movies
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/maamovies_live_https/index.m3u8
@@ -3147,6 +3147,8 @@ http://103.175.73.12:8080/live/173/master.m3u8
 http://103.175.73.12:8080/live/29/29_0.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Goldmines Bollywood (576p)" group-title="Movies",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Goldmines Bollywood (576p)
 http://103.175.73.12:8080/live/52/52_0.m3u8
+#EXTINF:-1 tvg-name="Star Maa" group-title="Entertainment",Star Maa
+http://217.20.112.199:8080/maatv/index.m3u8
 #EXTINF:-1 tvg-name="StarPlus (576p)" group-title="Entertainment",StarPlus (576p)
 http://41.205.93.154/STAR-PLUS/index.m3u8
 #EXTINF:-1 tvg-name="Zee Bangla" group-title="Entertainment",Zee Bangla
@@ -3961,3 +3963,27 @@ https://prod-runn.cdn.runn.tv/eros/stream/ersent/playlist.m3u8
 http://starcius-cinema.com/20655/index.m3u8
 #EXTINF:-1 tvg-name="NH BollyFlix" group-title="Movies",NH BollyFlix
 https://cc-r5hupcym5oehh.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/d47d1910-8862-4b83-a8a6-00ac11307859/0.m3u8
+#EXTINF:-1 tvg-name="ETV Cinema (396p)" group-title="Movies",ETV Cinema (396p)
+https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-name="ETV Plus (396p)" group-title="Entertainment",ETV Plus (396p)
+https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-name="ETV Plus" group-title="Entertainment",ETV Plus
+https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8
+#EXTINF:-1 tvg-name="Pulari TV" group-title="Entertainment",Pulari TV
+https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
+#EXTINF:-1 tvg-name="Raj TV" group-title="Entertainment",Raj TV
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/150.0.0.0 Safari/537.36" group-title="Movies",Sony Pix" group-title="Movies",like Gecko) Chrome/150.0.0.0 Safari/537.36" group-title="Movies",Sony Pix
+https://playyonogames.in/sliv/stream.m3u8?id=1000009258
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Zee Action (576p)" group-title="Movies",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Zee Action (576p)
+http://103.175.73.12:8080/live/270/master.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Zee Biskope (576p)" group-title="Movies",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Zee Biskope (576p)
+http://103.175.73.12:8080/live/347/master.m3u8
+#EXTINF:-1 tvg-name="Zee Kannada" group-title="Entertainment",Zee Kannada
+https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-name="Animax Asia Philippines (576p)" group-title="Animation",Animax Asia Philippines (576p)
+https://thinkkast.dpdns.org/thinkkast/cg_animax_sd_new/versiglia/index.m3u8
+#EXTINF:-1 tvg-name="TV Today Janakpur" group-title="Entertainment;General",TV Today Janakpur
+https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8
+#EXTINF:-1 tvg-name="AXN Asia Philippines (576p)" group-title="Movies;Series",AXN Asia Philippines (576p)
+https://thinkkast.dpdns.org/thinkkast/cg_axn_sd/versiglia/index.m3u8
