@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-07 23:58:55
-# Всего каналов: 21527
-# Новых за сессию: 1
+# Обновлено: 2026-08-08 01:30:15
+# Всего каналов: 21543
+# Новых за сессию: 16
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Classic;Entertainment
 # Каналов: 1
-# Обновлено: 2026-08-07 23:58:56
+# Обновлено: 2026-08-08 01:30:16
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="LAMIL35 TV" group-title="Animation;Classic;Entertainment",LAMIL35 TV
@@ -2127,6 +2127,8 @@ https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 https://streamvidex.qzz.io/videx/universo/index.m3u8
 #EXTINF:-1 tvg-name="Teletoon+" group-title="Animation;Kids",Teletoon+
 http://cdn.haititivi.com/TELETOON-HD/index.m3u8
+#EXTINF:-1 tvg-name="NickOnline" group-title="Animation;Kids",NickOnline
+https://x1colegal.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Sun+ TV" group-title="Entertainment",Sun+ TV
 https://livemaraboo.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="A&E Latin America Brazil" group-title="Entertainment",A&E Latin America Brazil
@@ -2321,3 +2323,9 @@ https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u
 https://thinkkast.dpdns.org/thinkkast/cg_animax_sd_new/versiglia/index.m3u8
 #EXTINF:-1 tvg-name="TV Today Janakpur" group-title="Entertainment;General",TV Today Janakpur
 https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8
+#EXTINF:-1 tvg-name="One Paschima (400p)" group-title="Entertainment",One Paschima (400p)
+https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8
+#EXTINF:-1 tvg-name="WOW Kidz" group-title="Animation;Kids",WOW Kidz
+https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-name="Thikrayat TV [Geo-blocked]" group-title="Classic",Thikrayat TV [Geo-blocked]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8

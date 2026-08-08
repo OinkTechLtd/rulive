@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-07 23:58:55
-# Всего каналов: 21527
-# Новых за сессию: 1
+# Обновлено: 2026-08-08 01:30:15
+# Всего каналов: 21543
+# Новых за сессию: 16
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;Kids
 # Каналов: 2
-# Обновлено: 2026-08-07 23:58:56
+# Обновлено: 2026-08-08 01:30:16
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="PBS Retro [Geo-blocked]" group-title="Classic;Kids",PBS Retro [Geo-blocked]
@@ -920,6 +920,8 @@ https://stream8.cinerama.uz/1500/playlist.m3u8
 https://stream8.cinerama.uz/1502/playlist.m3u8
 #EXTINF:-1 tvg-name="RU.TV Kids" group-title="Kids",RU.TV Kids
 https://rutvkids.ru/live/efir/index.m3u8
+#EXTINF:-1 tvg-name="NickOnline" group-title="Animation;Kids",NickOnline
+https://x1colegal.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="ducktv PLUS" group-title="Kids",ducktv PLUS
 https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
 #EXTINF:-1 tvg-name="BabyTV Brazil" group-title="Kids",BabyTV Brazil
@@ -1024,3 +1026,7 @@ https://messi.damitv.st/papi/ts/nicktoons-usa/playlist.m3u8
 https://gist.githubusercontent.com/iptvonlinetv/244b66c61f162a7c0c2b4fa59b528139/raw/2376b7ba1989ebbd383301ec7d645e222a6c9338/udp780.510.345:4545.m3u8
 #EXTINF:-1 tvg-name="ON Kids" group-title="Kids",ON Kids
 https://freem3u.xyz/api/live/play.m3u8?vid=179
+#EXTINF:-1 tvg-name="WOW Kidz" group-title="Animation;Kids",WOW Kidz
+https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-name="Thikrayat TV [Geo-blocked]" group-title="Classic",Thikrayat TV [Geo-blocked]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8

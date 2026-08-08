@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-07 23:58:55
-# Всего каналов: 21527
-# Новых за сессию: 1
+# Обновлено: 2026-08-08 01:30:15
+# Всего каналов: 21543
+# Новых за сессию: 16
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;News
 # Каналов: 3
-# Обновлено: 2026-08-07 23:58:56
+# Обновлено: 2026-08-08 01:30:16
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Onda 15 TV (224p)" group-title="Music;News",Onda 15 TV (224p)
@@ -4005,3 +4005,7 @@ https://cc-up9j649x4thrj.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73d
 https://thinkkast.dpdns.org/thinkkast/bbcworld_news_sd/versiglia/index.m3u8
 #EXTINF:-1 tvg-name="Observator News (360p)" group-title="News",Observator News (360p)
 https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
+#EXTINF:-1 tvg-name="Ekamra Bharat Odia (400p)" group-title="News",Ekamra Bharat Odia (400p)
+https://live.ekamraott.com/bharat/bharat/index.m3u8
+#EXTINF:-1 tvg-name="Retroclub" group-title="Music",Retroclub
+https://video03.logicahost.com.br/retroclub02/retroclub02/playlist.m3u8

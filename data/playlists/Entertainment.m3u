@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-07 23:58:55
-# Всего каналов: 21527
-# Новых за сессию: 1
+# Обновлено: 2026-08-08 01:30:15
+# Всего каналов: 21543
+# Новых за сессию: 16
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment
-# Каналов: 1063
-# Обновлено: 2026-08-07 23:58:56
+# Каналов: 1067
+# Обновлено: 2026-08-08 01:30:16
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Arte [Geo-blocked]" group-title="Entertainment",Arte [Geo-blocked]
@@ -3084,6 +3084,18 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/livestream.rajtv.tv/hl
 
 #EXTINF:-1 tvg-name="Zee Kannada" group-title="Entertainment",Zee Kannada
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-name="Colors Tamil" group-title="Entertainment",Colors Tamil
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="One Paschima (400p)" group-title="Entertainment",One Paschima (400p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.ekamraott.com/onepaschima/onepaschima/index.m3u8
+
+#EXTINF:-1 tvg-name="Zee Bangla" group-title="Entertainment",Zee Bangla
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
+
+#EXTINF:-1 tvg-name="Zee Marathi" group-title="Entertainment",Zee Marathi
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8
 
 #EXTINF:-1 tvg-name="Belarus-2" group-title="Entertainment",Belarus-2
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-07 23:58:55
-# Всего каналов: 21527
-# Новых за сессию: 1
+# Обновлено: 2026-08-08 01:30:15
+# Всего каналов: 21543
+# Новых за сессию: 16
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Kids
 # Каналов: 3
-# Обновлено: 2026-08-07 23:58:56
+# Обновлено: 2026-08-08 01:30:16
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Unique TV (576p)" group-title="Entertainment;Kids",Unique TV (576p)
@@ -2445,6 +2445,8 @@ https://stream8.cinerama.uz/1500/playlist.m3u8
 https://stream8.cinerama.uz/1502/playlist.m3u8
 #EXTINF:-1 tvg-name="RU.TV Kids" group-title="Kids",RU.TV Kids
 https://rutvkids.ru/live/efir/index.m3u8
+#EXTINF:-1 tvg-name="NickOnline" group-title="Animation;Kids",NickOnline
+https://x1colegal.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Sun+ TV" group-title="Entertainment",Sun+ TV
 https://livemaraboo.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="ducktv PLUS" group-title="Kids",ducktv PLUS
@@ -2709,3 +2711,7 @@ https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8
 https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-name="TV Today Janakpur" group-title="Entertainment;General",TV Today Janakpur
 https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8
+#EXTINF:-1 tvg-name="One Paschima (400p)" group-title="Entertainment",One Paschima (400p)
+https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8
+#EXTINF:-1 tvg-name="WOW Kidz" group-title="Animation;Kids",WOW Kidz
+https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b

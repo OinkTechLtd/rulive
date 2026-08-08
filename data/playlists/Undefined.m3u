@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-07 23:58:55
-# Всего каналов: 21527
-# Новых за сессию: 1
+# Обновлено: 2026-08-08 01:30:15
+# Всего каналов: 21543
+# Новых за сессию: 16
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Undefined
-# Каналов: 4189
-# Обновлено: 2026-08-07 23:58:56
+# Каналов: 4191
+# Обновлено: 2026-08-08 01:30:16
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Дождь [Geo-blocked]" group-title="Undefined",Дождь [Geo-blocked]
@@ -12159,6 +12159,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/starcius-cinema.com/12
 
 #EXTINF:-1 tvg-name="Zee TV Asia Pacific" group-title="Undefined",Zee TV Asia Pacific
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8
+
+#EXTINF:-1 tvg-name="S4C [Geo-blocked]" group-title="Undefined",S4C [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/v2.uk.live.s4c-cdn.co.uk/out/v1/S4C/UK_TX/uk_live/uk-tx-hls.m3u8
+
+#EXTINF:-1 tvg-name="Golden Edge" group-title="Undefined",Golden Edge
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/38.19.41.46:8081/GOLDENEDGE/index.m3u8
 
 #EXTINF:-1 tvg-name="R9" group-title="Undefined",R9
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8

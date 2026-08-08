@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-07 23:58:55
-# Всего каналов: 21527
-# Новых за сессию: 1
+# Обновлено: 2026-08-08 01:30:15
+# Всего каналов: 21543
+# Новых за сессию: 16
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General
-# Каналов: 3087
-# Обновлено: 2026-08-07 23:58:56
+# Каналов: 3088
+# Обновлено: 2026-08-08 01:30:16
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="БелРос (576p)" group-title="General",БелРос (576p)
@@ -8946,6 +8946,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/streamtv.intervenhosti
 
 #EXTINF:-1 tvg-name="Vision (576p)" group-title="General",Vision (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Colors Rishtey Americas (396p)" group-title="General",Colors Rishtey Americas (396p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Belarus-1" group-title="General",Belarus-1
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8

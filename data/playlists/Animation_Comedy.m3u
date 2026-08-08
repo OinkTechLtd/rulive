@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-07 23:58:55
-# Всего каналов: 21527
-# Новых за сессию: 1
+# Обновлено: 2026-08-08 01:30:15
+# Всего каналов: 21543
+# Новых за сессию: 16
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Comedy
 # Каналов: 60
-# Обновлено: 2026-08-07 23:58:56
+# Обновлено: 2026-08-08 01:30:16
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Comedy Central South Park" group-title="Animation;Comedy",Comedy Central South Park
@@ -638,6 +638,8 @@ http://45.189.62.33:8002/play/a0bz/index.m3u8
 http://cdn.haititivi.com/TELETOON-HD/index.m3u8
 #EXTINF:-1 tvg-name="KVN TV (576p)" group-title="Comedy",KVN TV (576p)
 http://178.124.179.122:8080/KVN-TV/index.m3u8
+#EXTINF:-1 tvg-name="NickOnline" group-title="Animation;Kids",NickOnline
+https://x1colegal.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Disney Channel Latin America South" group-title="Animation;Kids",Disney Channel Latin America South
 http://45.6.4.35/DISNEY/index.m3u8
 #EXTINF:-1 tvg-name="Disney Jr. Latin America" group-title="Animation;Kids",Disney Jr. Latin America
@@ -668,3 +670,5 @@ https://aes.m3u8simplu.workers.dev/comedycentral/index.m3u8
 http://15.204.246.24:8080/KidooHD/index.m3u8
 #EXTINF:-1 tvg-name="Animax Asia Philippines (576p)" group-title="Animation",Animax Asia Philippines (576p)
 https://thinkkast.dpdns.org/thinkkast/cg_animax_sd_new/versiglia/index.m3u8
+#EXTINF:-1 tvg-name="WOW Kidz" group-title="Animation;Kids",WOW Kidz
+https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
