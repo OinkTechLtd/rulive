@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-09 13:01:22
+# Обновлено: 2026-08-09 13:48:18
 # Всего каналов: 21610
-# Новых за сессию: 14
+# Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Science
 # Каналов: 1
-# Обновлено: 2026-08-09 13:01:23
+# Обновлено: 2026-08-09 13:48:18
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ЭлТР Билим Илим (480p)" group-title="Kids;Science",ЭлТР Билим Илим (480p)
@@ -249,6 +249,8 @@ http://103.122.249.134:8000/play/a05f
 http://149.71.34.166:8002/play/a01p/index.m3u8
 #EXTINF:-1 tvg-name="Hungama TV (576p)" group-title="Kids",Hungama TV (576p)
 http://149.71.34.166:8000/play/a075/index.m3u8
+#EXTINF:-1 tvg-name="InWonder" group-title="Science",InWonder
+https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-name="Nick +" group-title="Kids",Nick +
 http://103.72.101.252:8080/live/1226.m3u8
 #EXTINF:-1 tvg-name="Nick Jr. (576p)" group-title="Kids",Nick Jr. (576p)
@@ -633,6 +635,8 @@ http://31.148.48.15/Malish_TV/index.m3u8
 http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
 #EXTINF:-1 tvg-name="Smile TV" group-title="Kids",Smile TV
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Disney Channel" group-title="Kids",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Disney Channel
+http://86.87.15.10:8004/play/a02g/index.m3u8
 #EXTINF:-1 tvg-name="Radost Moya (576p)" group-title="Kids",Radost Moya (576p)
 http://31.148.48.15/Radost_moya/index.m3u8
 #EXTINF:-1 tvg-name="Kids Street" group-title="Kids",Kids Street
