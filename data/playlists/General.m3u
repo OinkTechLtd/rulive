@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-10 00:01:23
-# Всего каналов: 21625
-# Новых за сессию: 0
+# Обновлено: 2026-08-10 02:27:55
+# Всего каналов: 21670
+# Новых за сессию: 45
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General
-# Каналов: 3089
-# Обновлено: 2026-08-10 00:01:23
+# Каналов: 3093
+# Обновлено: 2026-08-10 02:27:56
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="БелРос (576p)" group-title="General",БелРос (576p)
@@ -8953,6 +8953,18 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/manatv.akamaized.net/0
 #EXTINF:-1 tvg-name="NBT World" group-title="General",NBT World
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-name="ABC" group-title="General",ABC
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/190.11.225.124:5000/live/abc_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="UTV Palakkad" group-title="General",UTV Palakkad
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="General",like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/7nyaler.streamhostingcdn.top/stream/50/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="General",like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/7nyaler.streamhostingcdn.top/stream/65/index.m3u8
+
 #EXTINF:-1 tvg-name="Belarus-1" group-title="General",Belarus-1
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 
@@ -9653,3 +9665,9 @@ http://125hvt.ddns.net:21585/thvl1/playlist.m3u8
 https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8
 #EXTINF:-1 tvg-name="La 1 U (2160p)" group-title="General;Public",La 1 U (2160p)
 http://185.47.212.25:8080/tdp_HD/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="General;Public",La 1" group-title="General;Public",like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="General;Public",La 1
+https://7nyaler.streamhostingcdn.top/stream/40/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="General",ORF 1" group-title="General",like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="General",ORF 1
+https://7nyaler.streamhostingcdn.top/stream/50/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="General",RTL Club" group-title="General",like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="General",RTL Club
+https://7nyaler.streamhostingcdn.top/stream/65/index.m3u8

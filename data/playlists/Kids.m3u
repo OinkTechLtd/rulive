@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-10 00:01:23
-# Всего каналов: 21625
-# Новых за сессию: 0
+# Обновлено: 2026-08-10 02:27:55
+# Всего каналов: 21670
+# Новых за сессию: 45
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids
-# Каналов: 440
-# Обновлено: 2026-08-10 00:01:23
+# Каналов: 442
+# Обновлено: 2026-08-10 02:27:56
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Mama (576p)" group-title="Kids",Mama (576p)
@@ -1267,6 +1267,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/177.234.249.178:8888/N
 #EXTINF:-1 tvg-name="Nickelodeon Latin America" group-title="Kids",Nickelodeon Latin America
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/177.234.249.178:8888/NICK/index.m3u8
 
+#EXTINF:-1 tvg-name="BeJoy.kids" group-title="Kids",BeJoy.kids
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.paroledivita.org/bejoy.m3u8
+
+#EXTINF:-1 tvg-name="Nickelodeon" group-title="Kids",Nickelodeon
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/176.61.157.250/Nickelodeon/index.m3u8
+
 #EXTINF:-1 tvg-name="TNT Kids (288p)" group-title="Kids",TNT Kids (288p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/restreamer1.tnt.ba/hls/tntkids.m3u8
 
@@ -1582,3 +1588,5 @@ http://88.212.15.19/live/minimax_hun/index.m3u8
 http://88.212.15.19/live/test_nickelodeon_hu_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-name="WOW Kidz" group-title="Animation;Kids",WOW Kidz
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-name="NickOnline Bob Esponja" group-title="Animation;Kids",NickOnline Bob Esponja
+https://bob.x1colegal.com/hls/stream.m3u8
