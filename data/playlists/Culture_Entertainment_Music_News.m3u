@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-11 13:03:24
-# Всего каналов: 21733
-# Новых за сессию: 1
+# Обновлено: 2026-08-11 14:22:04
+# Всего каналов: 21900
+# Новых за сессию: 167
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Entertainment;Music;News
 # Каналов: 2
-# Обновлено: 2026-08-11 13:03:25
+# Обновлено: 2026-08-11 14:22:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Vĩnh Long TV5 [Geo-blocked]" group-title="Culture;Entertainment;Music;News",Vĩnh Long TV5 [Geo-blocked]
@@ -5374,7 +5374,7 @@ http://8.243.126.131:8000/play/a0fg/index.m3u8
 https://edgectc.com/TELESUR/index.m3u8
 #EXTINF:-1 tvg-name="Kemet TV" group-title="Culture",Kemet TV
 https://kemettv.cm/memfs/4e7fb105-9f92-4e8d-a7cd-09923f17a577.m3u8
-#EXTINF:-1 tvg-name="Panafrican Media TV" group-title="News",Panafrican Media TV
+#EXTINF:-1 tvg-name="Panafrican Media TV (480p)" group-title="News",Panafrican Media TV (480p)
 https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8
 #EXTINF:-1 tvg-name="Friday!" group-title="Entertainment",Friday!
 https://adpnetworkhd-cmd.github.io/iptv/FridayHD_Moskva.m3u8
@@ -6180,7 +6180,55 @@ https://zweiapp.b-cdn.net/1080p/index.m3u8
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Boom TV" group-title="Music",Boom TV
 https://tvboom.ro/live-tv/live.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",MTV (396p)" group-title="Entertainment",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",MTV (396p)
+https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
 #EXTINF:-1 tvg-name="Impact TV" group-title="Music",Impact TV
 https://live.tvimpact.ro:8088/hevc/index.m3u8
 #EXTINF:-1 tvg-name="Radio Chisinau (576p)" group-title="Music",Radio Chisinau (576p)
 https://radiochisinau.md/hls/RChisinau.m3u8
+#EXTINF:-1 tvg-name="Muzyka Pervogo (576p)" group-title="Music",Muzyka Pervogo (576p)
+http://stream.mcquack.net/153/index.m3u8
+#EXTINF:-1 tvg-name="TNT SD (576p)" group-title="Entertainment",TNT SD (576p)
+http://stream.mcquack.net/135/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="News",Channel 5" group-title="News",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="News",Channel 5
+http://stream.mcquack.net/291/index.m3u8
+#EXTINF:-1 tvg-name="Megogo Music" group-title="Music",Megogo Music
+https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8
+#EXTINF:-1 tvg-name="Sonce" group-title="Entertainment",Sonce
+https://ext.cdn.nashnet.tv/228.0.0.165/index.m3u8
+#EXTINF:-1 tvg-name="RightNow TV" group-title="Entertainment;Sports",RightNow TV
+https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Music",7S Music (576p)" group-title="Music",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Music",7S Music (576p)
+http://103.175.73.12:8080/live/771/master.m3u8
+#EXTINF:-1 tvg-name="Balle Balle" group-title="Music",Balle Balle
+https://mcncdndigital.com/balleballetv/index.m3u8
+#EXTINF:-1 tvg-name="Bharat Express (480p)" group-title="News",Bharat Express (480p)
+https://stream1.livebox.co.in/VCAREhls/live.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Entertainment",Big Magic (576p)" group-title="Entertainment",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Entertainment",Big Magic (576p)
+http://103.175.73.12:8080/live/13/13_0.m3u8
+#EXTINF:-1 tvg-name="Colors Gujarati (396p)" group-title="Entertainment",Colors Gujarati (396p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Entertainment",Pasand TV (576p)" group-title="Entertainment",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Entertainment",Pasand TV (576p)
+http://103.175.73.12:8080/live/708/master.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Entertainment",Pear TV (576p)" group-title="Entertainment",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Entertainment",Pear TV (576p)
+http://103.175.73.12:8080/live/695/master.m3u8
+#EXTINF:-1 tvg-name="Pratham Khabar 24x7 (576p)" group-title="News",Pratham Khabar 24x7 (576p)
+https://livelegitpro.in/hls2/newstime/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Entertainment;Kids",Unique TV (576p)" group-title="Entertainment;Kids",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Entertainment;Kids",Unique TV (576p)
+http://103.175.73.12:8080/live/688/master.m3u8
+#EXTINF:-1 tvg-name="TN" group-title="News",TN
+http://15.204.246.24:8080/TNHD/index.m3u8
+#EXTINF:-1 tvg-name="Exa TV" group-title="Music",Exa TV
+http://190.61.90.17:40000/play/a0hk/index.m3u8
+#EXTINF:-1 tvg-name="Girasol TV (1080i)" group-title="Entertainment",Girasol TV (1080i)
+https://s.emisoras.tv:8081/girasoltv/index.m3u8
+#EXTINF:-1 tvg-name="D3 TV" group-title="Music",D3 TV
+https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8
+#EXTINF:-1 tvg-name="Baku.TV" group-title="News",Baku.TV
+https://rtmp.baku.tv/hls/bakutv.m3u8
+#EXTINF:-1 tvg-name="TOLOnews" group-title="News",TOLOnews
+https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolonews/index.m3u8
+#EXTINF:-1 tvg-name="Klara" group-title="Music",Klara
+https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/.m3u8
+#EXTINF:-1 tvg-name="Radio Romania Antena Satelor" group-title="Music",Radio Romania Antena Satelor
+https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8

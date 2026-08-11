@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-11 13:03:24
-# Всего каналов: 21733
-# Новых за сессию: 1
+# Обновлено: 2026-08-11 14:22:04
+# Всего каналов: 21900
+# Новых за сессию: 167
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Religious
-# Каналов: 800
-# Обновлено: 2026-08-11 13:03:25
+# Каналов: 808
+# Обновлено: 2026-08-11 14:22:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Спас (450p) [Geo-blocked]" group-title="Religious",Спас (450p) [Geo-blocked]
@@ -2356,6 +2356,30 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/m.live.net.sa:1935/liv
 #EXTINF:-1 tvg-name="Parole di Vita" group-title="Religious",Parole di Vita
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.paroledivita.org/paroledivita.m3u8
 
+#EXTINF:-1 tvg-name="Spas (576p)" group-title="Religious",Spas (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls127.freeott.top:8080/Spas/video.m3u8
+
+#EXTINF:-1 tvg-name="NRBTV" group-title="Religious",NRBTV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/145.239.5.177/215/index.m3u8
+
+#EXTINF:-1 tvg-name="Trece TV (576p)" group-title="Religious",Trece TV (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Religious",like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/103.175.73.12:8080/live/339/master.m3u8
+
+#EXTINF:-1 tvg-name="Rede Gospel" group-title="Religious",Rede Gospel
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Unife TV" group-title="Religious",Unife TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
+
+#EXTINF:-1 tvg-name="Madani Channel English" group-title="Religious",Madani Channel English
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvsen7.aynascope.net/MadaniTV/index.m3u8
+
+#EXTINF:-1 tvg-name="MOGPA TV" group-title="Religious",MOGPA TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/bk7l2r2nyx53-hls-live.5centscdn.com/ablazetv/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Aghapy TV" group-title="Religious",Aghapy TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
 
@@ -2498,3 +2522,5 @@ https://jlt-jltv-strimm.otteravision.com/jlt/jltv/jltv.m3u8
 http://103.175.73.12:8080/live/183/master.m3u8
 #EXTINF:-1 tvg-name="JTBS Classic" group-title="Culture;Religious",JTBS Classic
 https://jtbsclassic.dpdns.org/live.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Religious",Aastha Bhajan (576p)" group-title="Religious",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Religious",Aastha Bhajan (576p)
+http://103.175.73.12:8080/live/339/master.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-11 13:03:24
-# Всего каналов: 21733
-# Новых за сессию: 1
+# Обновлено: 2026-08-11 14:22:04
+# Всего каналов: 21900
+# Новых за сессию: 167
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Auto;Travel
 # Каналов: 2
-# Обновлено: 2026-08-11 13:03:25
+# Обновлено: 2026-08-11 14:22:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Fun Roads TV" group-title="Auto;Travel",Fun Roads TV
@@ -22,6 +22,8 @@ https://iptv.peer.biz/live/peertv-it.m3u8
 https://iptv.peer.biz/live/peertv.m3u8
 #EXTINF:-1 tvg-name="Peer TV South Tyrol (1280p)" group-title="Outdoor;Travel",Peer TV South Tyrol (1280p)
 https://iptv.peer.biz/live/peertv-en.m3u8
+#EXTINF:-1 tvg-name="Drive (576i)" group-title="Auto",Drive (576i)
+https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Glazami Turista (576i)" group-title="Travel",Glazami Turista (576i)
 https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="RTG TV" group-title="Travel",RTG TV
@@ -186,3 +188,5 @@ http://stream.mcquack.net/404/index.m3u8
 https://gpuserver3.tier1streams.com/MOTORTREND/index.m3u8
 #EXTINF:-1 tvg-name="CTV Speed Channel" group-title="Auto",CTV Speed Channel
 https://gpuserver3.tier1streams.com/DISCOVERY_SCIENCE_HD/index.m3u8
+#EXTINF:-1 tvg-name="DroneTV" group-title="Relax;Travel",DroneTV
+https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8

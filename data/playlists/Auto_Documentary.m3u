@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-11 13:03:24
-# Всего каналов: 21733
-# Новых за сессию: 1
+# Обновлено: 2026-08-11 14:22:04
+# Всего каналов: 21900
+# Новых за сессию: 167
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Auto;Documentary
 # Каналов: 1
-# Обновлено: 2026-08-11 13:03:25
+# Обновлено: 2026-08-11 14:22:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pluto TV Turbo" group-title="Auto;Documentary",Pluto TV Turbo
@@ -17,6 +17,8 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-6014761dfb
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="RT Documentary English [Geo-blocked]" group-title="Documentary",RT Documentary English [Geo-blocked]
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-name="Drive (576i)" group-title="Auto",Drive (576i)
+https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="L" group-title="Documentary",L
 http://31.148.48.15/HD_Life/index.m3u8
 #EXTINF:-1 tvg-name="30A Loomered TV" group-title="Documentary;News",30A Loomered TV
@@ -471,3 +473,5 @@ https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg0073
 http://starcius-cinema.com/11586/index.m3u8
 #EXTINF:-1 tvg-name="BBC Earth Asia" group-title="Documentary",BBC Earth Asia
 https://thinkkast.dpdns.org/thinkkast/cg_bbcearth_hd1/versiglia/index.m3u8
+#EXTINF:-1 tvg-name="Reelz" group-title="Documentary",Reelz
+http://23.237.104.106:8080/USA_REELZ/index.m3u8

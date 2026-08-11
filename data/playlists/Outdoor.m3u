@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-11 13:03:24
-# Всего каналов: 21733
-# Новых за сессию: 1
+# Обновлено: 2026-08-11 14:22:04
+# Всего каналов: 21900
+# Новых за сессию: 167
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Outdoor
-# Каналов: 63
-# Обновлено: 2026-08-11 13:03:25
+# Каналов: 61
+# Обновлено: 2026-08-11 14:22:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Ohotnik i rybolov (576i)" group-title="Outdoor",Ohotnik i rybolov (576i)
@@ -133,9 +133,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/5f700d5b2c46f.streamlo
 #EXTINF:-1 tvg-name="Outdoor Channel" group-title="Outdoor",Outdoor Channel
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/23.237.104.106:8080/USA_OUTDOOR/index.m3u8
 
-#EXTINF:-1 tvg-name="Dikij (576p)" group-title="Outdoor",Dikij (576p)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls127.freeott.top:8080/Dikiy/video.m3u8
-
 #EXTINF:-1 tvg-name="Love Nature" group-title="Outdoor",Love Nature
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.246.209.113/LOVENATUREHD/index.m3u8
 
@@ -175,9 +172,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.162.64.114/TERRAVIV
 #EXTINF:-1 tvg-name="Fish TV" group-title="Outdoor",Fish TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.162.64.114/FISH_TV/index.m3u8
 
-#EXTINF:-1 tvg-name="Dikaya okhota" group-title="Outdoor",Dikaya okhota
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/274/index.m3u8
-
 #EXTINF:-1 tvg-name="Ohotnik i rybolov" group-title="Outdoor",Ohotnik i rybolov
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/194/index.m3u8
 
@@ -190,11 +184,11 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/264
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Outdoor",like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/357/index.m3u8
 
-#EXTINF:-1 tvg-name="Dikaya rybalka" group-title="Outdoor",Dikaya rybalka
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/275/index.m3u8
-
 #EXTINF:-1 tvg-name="Moya Planeta" group-title="Outdoor",Moya Planeta
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/91.226.120.120/chid210/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Outside TV" group-title="Outdoor",Outside TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/outsidetv-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Sihai Fishing Channel" group-title="Outdoor",Sihai Fishing Channel
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/49.113.179.174:4022/udp/238.125.2.172:5140

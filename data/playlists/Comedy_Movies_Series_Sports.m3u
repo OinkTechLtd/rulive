@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-11 13:03:24
-# Всего каналов: 21733
-# Новых за сессию: 1
+# Обновлено: 2026-08-11 14:22:04
+# Всего каналов: 21900
+# Новых за сессию: 167
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Movies;Series;Sports
 # Каналов: 4
-# Обновлено: 2026-08-11 13:03:25
+# Обновлено: 2026-08-11 14:22:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="USA Network East" group-title="Comedy;Movies;Series;Sports",USA Network East
@@ -360,6 +360,8 @@ https://cdn4.skygo.mn/live/disk1/Match_Planeta/HLSv3-FTA/Match_Planeta.m3u8
 http://31.148.48.15/Mir_Seriala/index.m3u8
 #EXTINF:-1 tvg-name="Новый Русский" group-title="Movies",Новый Русский
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
+#EXTINF:-1 tvg-name="НТВ Хит (576p)" group-title="Series",НТВ Хит (576p)
+https://cdn.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-name="Патриот (576i)" group-title="Movies",Патриот (576i)
 http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 tvg-name="Русский Бестселлер (576p)" group-title="Movies",Русский Бестселлер (576p)
@@ -3596,8 +3598,6 @@ http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/31807/index.m3u8
 https://novelas.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/Novelas_cmaf/index.m3u8
 #EXTINF:-1 tvg-name="VSBet" group-title="Sports",VSBet
 https://live05.meung.app/live/90865415.m3u8
-#EXTINF:-1 tvg-name="Dom kino Premium" group-title="Movies",Dom kino Premium
-http://stream.mcquack.net/108/index.m3u8
 #EXTINF:-1 tvg-name="Kinopokaz (576p)" group-title="Movies",Kinopokaz (576p)
 http://stream.mcquack.net/64/index.m3u8
 #EXTINF:-1 tvg-name="Kinouzhas (576p)" group-title="Movies",Kinouzhas (576p)
@@ -3630,8 +3630,6 @@ https://cdn.rabta.stream/M-Sports/index.m3u8
 http://88.212.15.19/live/spiler1/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Spiler 2" group-title="Sports",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Spiler 2
 http://88.212.15.19/live/spiler2/index.m3u8
-#EXTINF:-1 tvg-name="Dorama" group-title="Movies",Dorama
-https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Movies",FilmBox" group-title="Movies",like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Movies",FilmBox
 http://de.seetv.cc/play/8041/1966B8DE7EC6FEE/video.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Yes Movies Action" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Yes Movies Action
@@ -3792,3 +3790,27 @@ https://7nyaler.streamhostingcdn.top/stream/79/index.m3u8
 https://7nyaler.streamhostingcdn.top/stream/57/index.m3u8
 #EXTINF:-1 tvg-name="Zee Bollywood (580p)" group-title="Movies",Zee Bollywood (580p)
 https://s3.itcnbd.live/channel/a5979fd53c01d1b2.m3u8
+#EXTINF:-1 tvg-name="Fox Deportes" group-title="Sports",Fox Deportes
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1 tvg-name="LOL! Network" group-title="Comedy",LOL! Network
+https://d1kt53vrikzr5o.cloudfront.net/v1/lol_lolnetwork_5/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-name="RightNow TV" group-title="Entertainment;Sports",RightNow TV
+https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",All Time Movies (576p)" group-title="Movies",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",All Time Movies (576p)
+http://103.175.73.12:8080/live/54/54_0.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Goldmines (576p)" group-title="Movies",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Goldmines (576p)
+http://103.175.73.12:8080/live/53/53_0.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",MoviePlex (576p)" group-title="Movies",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",MoviePlex (576p)
+http://103.175.73.12:8080/live/583/master.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Public Movies (576p)" group-title="Movies",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Public Movies (576p)
+http://103.175.73.12:8080/live/239/master.m3u8
+#EXTINF:-1 tvg-name="Fuel TV [Geo-blocked]" group-title="Sports",Fuel TV [Geo-blocked]
+https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Premier Sports 1" group-title="Sports",like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Premier Sports 1
+https://7nyaler.streamhostingcdn.top/stream/47/index.m3u8
+#EXTINF:-1 tvg-name="El-Heddaf TV" group-title="Sports",El-Heddaf TV
+https://live.elheddaftv.com:8081/elheddaftv/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Arena Sport Premium 1 BH" group-title="Sports",like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Arena Sport Premium 1 BH
+https://7nyaler.streamhostingcdn.top/stream/33/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Sports",TVRI Sport [Geo-blocked]" group-title="Sports",like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Sports",TVRI Sport [Geo-blocked]
+https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8

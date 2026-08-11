@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-11 13:03:24
-# Всего каналов: 21733
-# Новых за сессию: 1
+# Обновлено: 2026-08-11 14:22:04
+# Всего каналов: 21900
+# Новых за сессию: 167
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Series
 # Каналов: 14
-# Обновлено: 2026-08-11 13:03:25
+# Обновлено: 2026-08-11 14:22:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Сити Эдем КиноДок" group-title="Documentary;Series",Сити Эдем КиноДок
@@ -88,6 +88,8 @@ http://31.148.48.15/Mir_Seriala/index.m3u8
 http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-name="НАУКА" group-title="Documentary",НАУКА
 http://31.148.48.15/Nauka_2.0/index.m3u8
+#EXTINF:-1 tvg-name="НТВ Хит (576p)" group-title="Series",НТВ Хит (576p)
+https://cdn.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-name="Сапфир" group-title="Series",Сапфир
 http://31.148.48.15/Sapfir_HD/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем ТелеНовелла" group-title="Series",Сити Эдем ТелеНовелла
@@ -1242,3 +1244,5 @@ http://starcius-cinema.com/11586/index.m3u8
 https://thinkkast.dpdns.org/thinkkast/cg_bbcearth_hd1/versiglia/index.m3u8
 #EXTINF:-1 tvg-name="AXN Asia Philippines (576p)" group-title="Movies;Series",AXN Asia Philippines (576p)
 https://thinkkast.dpdns.org/thinkkast/cg_axn_sd/versiglia/index.m3u8
+#EXTINF:-1 tvg-name="Reelz" group-title="Documentary",Reelz
+http://23.237.104.106:8080/USA_REELZ/index.m3u8

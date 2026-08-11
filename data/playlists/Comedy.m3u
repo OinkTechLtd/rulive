@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-11 13:03:24
-# Всего каналов: 21733
-# Новых за сессию: 1
+# Обновлено: 2026-08-11 14:22:04
+# Всего каналов: 21900
+# Новых за сессию: 167
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy
-# Каналов: 152
-# Обновлено: 2026-08-11 13:03:25
+# Каналов: 154
+# Обновлено: 2026-08-11 14:22:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Kinokomedija (576p)" group-title="Comedy",Kinokomedija (576p)
@@ -459,6 +459,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/74/
 
 #EXTINF:-1 tvg-name="viju+ Comedy" group-title="Comedy",viju+ Comedy
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/201/index.m3u8
+
+#EXTINF:-1 tvg-name="LOL! Network" group-title="Comedy",LOL! Network
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d1kt53vrikzr5o.cloudfront.net/v1/lol_lolnetwork_5/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Comedy Central Latin America" group-title="Comedy",Comedy Central Latin America
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/15.204.246.24:8080/ComedyCentralHD/index.m3u8
 
 #EXTINF:-1 tvg-name="Failarmy" group-title="Comedy",Failarmy
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/failarmy-international-it.samsung.wurl.tv/playlist.m3u8

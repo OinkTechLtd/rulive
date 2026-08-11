@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-11 13:03:24
-# Всего каналов: 21733
-# Новых за сессию: 1
+# Обновлено: 2026-08-11 14:22:04
+# Всего каналов: 21900
+# Новых за сессию: 167
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;Comedy
 # Каналов: 3
-# Обновлено: 2026-08-11 13:03:25
+# Обновлено: 2026-08-11 14:22:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="I Love Lucy" group-title="Classic;Comedy",I Love Lucy
@@ -499,3 +499,7 @@ https://aes.m3u8simplu.workers.dev/bollywood/index.m3u8
 http://starcius-cinema.com/20653/index.m3u8
 #EXTINF:-1 tvg-name="Thikrayat TV [Geo-blocked]" group-title="Classic",Thikrayat TV [Geo-blocked]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8
+#EXTINF:-1 tvg-name="Cinevault Westerns (540p) [Geo-blocked]" group-title="Classic",Cinevault Westerns (540p) [Geo-blocked]
+https://gsn-cinevault-westerns-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="LOL! Network" group-title="Comedy",LOL! Network
+https://d1kt53vrikzr5o.cloudfront.net/v1/lol_lolnetwork_5/samsungheadend_us/latest/main/hls/playlist.m3u8

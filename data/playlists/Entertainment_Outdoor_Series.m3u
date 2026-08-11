@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-11 13:03:24
-# Всего каналов: 21733
-# Новых за сессию: 1
+# Обновлено: 2026-08-11 14:22:04
+# Всего каналов: 21900
+# Новых за сессию: 167
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Outdoor;Series
 # Каналов: 2
-# Обновлено: 2026-08-11 13:03:25
+# Обновлено: 2026-08-11 14:22:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pluto TV Adventure" group-title="Entertainment;Outdoor;Series",Pluto TV Adventure
@@ -88,6 +88,8 @@ https://cdn-01.bonus-tv.ru/kmir/playlist.m3u8
 http://31.148.48.15/Mir_Seriala/index.m3u8
 #EXTINF:-1 tvg-name="Моя Планета" group-title="Outdoor",Моя Планета
 http://31.148.48.15/Moya_Planeta_HD/index.m3u8
+#EXTINF:-1 tvg-name="НТВ Хит (576p)" group-title="Series",НТВ Хит (576p)
+https://cdn.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-name="ОТВ Приморье" group-title="Entertainment",ОТВ Приморье
 https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Поехали!" group-title="Entertainment;Outdoor",Поехали!
@@ -2342,8 +2344,6 @@ https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fx.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Series",Tlnovelas Latin America" group-title="Series",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Series",Tlnovelas Latin America
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/TL_Novelas.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Dikij (576p)" group-title="Outdoor",Dikij (576p)
-http://hls127.freeott.top:8080/Dikiy/video.m3u8
 #EXTINF:-1 tvg-name="BET Her" group-title="Entertainment",BET Her
 http://41.205.93.154/BETHER/index.m3u8
 #EXTINF:-1 tvg-name="GetTV" group-title="Entertainment",GetTV
@@ -2700,8 +2700,6 @@ https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8
 https://futbol9865.ultratv13.workers.dev/deportivo111/24.m3u8
 #EXTINF:-1 tvg-name="Star Channel Latin America Central America" group-title="Movies;Series",Star Channel Latin America Central America
 https://streamer.metronethn.com/StarChannel/index.m3u8
-#EXTINF:-1 tvg-name="Dikaya okhota" group-title="Outdoor",Dikaya okhota
-http://stream.mcquack.net/274/index.m3u8
 #EXTINF:-1 tvg-name="Fox (576p)" group-title="Entertainment",Fox (576p)
 http://stream.mcquack.net/182/index.m3u8
 #EXTINF:-1 tvg-name="Fox Life (576p)" group-title="Series",Fox Life (576p)
@@ -2764,8 +2762,6 @@ https://novelas.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/N
 https://d38s7rrdbnh4oy.cloudfront.net/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Saudades/index.m3u8
 #EXTINF:-1 tvg-name="WEST" group-title="Entertainment",WEST
 https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8
-#EXTINF:-1 tvg-name="Dikaya rybalka" group-title="Outdoor",Dikaya rybalka
-http://stream.mcquack.net/275/index.m3u8
 #EXTINF:-1 tvg-name="TNT" group-title="Entertainment",TNT
 http://45.153.24.78:80/TNT/index.m3u8
 #EXTINF:-1 tvg-name="viju+ Serial" group-title="Series",viju+ Serial
@@ -2816,3 +2812,25 @@ https://thinkkast.dpdns.org/thinkkast/cg_axn_sd/versiglia/index.m3u8
 https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",MTV" group-title="Entertainment",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",MTV
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",MTV (396p)" group-title="Entertainment",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",MTV (396p)
+https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
+#EXTINF:-1 tvg-name="TNT SD (576p)" group-title="Entertainment",TNT SD (576p)
+http://stream.mcquack.net/135/index.m3u8
+#EXTINF:-1 tvg-name="Sonce" group-title="Entertainment",Sonce
+https://ext.cdn.nashnet.tv/228.0.0.165/index.m3u8
+#EXTINF:-1 tvg-name="Outside TV" group-title="Outdoor",Outside TV
+https://outsidetv-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="RightNow TV" group-title="Entertainment;Sports",RightNow TV
+https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Entertainment",Big Magic (576p)" group-title="Entertainment",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Entertainment",Big Magic (576p)
+http://103.175.73.12:8080/live/13/13_0.m3u8
+#EXTINF:-1 tvg-name="Colors Gujarati (396p)" group-title="Entertainment",Colors Gujarati (396p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Entertainment",Pasand TV (576p)" group-title="Entertainment",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Entertainment",Pasand TV (576p)
+http://103.175.73.12:8080/live/708/master.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Entertainment",Pear TV (576p)" group-title="Entertainment",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Entertainment",Pear TV (576p)
+http://103.175.73.12:8080/live/695/master.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Entertainment;Kids",Unique TV (576p)" group-title="Entertainment;Kids",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Entertainment;Kids",Unique TV (576p)
+http://103.175.73.12:8080/live/688/master.m3u8
+#EXTINF:-1 tvg-name="Girasol TV (1080i)" group-title="Entertainment",Girasol TV (1080i)
+https://s.emisoras.tv:8081/girasoltv/index.m3u8

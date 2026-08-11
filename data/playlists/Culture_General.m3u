@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-11 13:03:24
-# Всего каналов: 21733
-# Новых за сессию: 1
+# Обновлено: 2026-08-11 14:22:04
+# Всего каналов: 21900
+# Новых за сессию: 167
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;General
 # Каналов: 3
-# Обновлено: 2026-08-11 13:03:25
+# Обновлено: 2026-08-11 14:22:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ATXN3" group-title="Culture;General",ATXN3
@@ -6067,7 +6067,7 @@ http://tvsen7.aynascope.net/ibtvusa/index.m3u8
 http://stream.mcquack.net/455/index.m3u8
 #EXTINF:-1 tvg-name="NTV Kohalpur (576p)" group-title="General",NTV Kohalpur (576p)
 http://tvsen7.aynascope.net/NTV_Kohalpur/index.m3u8
-#EXTINF:-1 tvg-name="Rapid TV" group-title="General",Rapid TV
+#EXTINF:-1 tvg-name="Rapid TV (480p)" group-title="General",Rapid TV (480p)
 https://stream-hls.castr-cdn.com/6a05a899db0ebd344a759542/live_9655bc604f8211f19e748901a3f596d0/index.m3u8
 #EXTINF:-1 tvg-name="Tele Regency TV (576p)" group-title="General",Tele Regency TV (576p)
 https://streams.playtv.com.ng/Tele-Regency_TRTV/index.m3u8
@@ -6255,3 +6255,23 @@ https://7nyaler.streamhostingcdn.top/stream/65/index.m3u8
 http://194.163.157.137:8080/hls/radioalsace.m3u8
 #EXTINF:-1 tvg-name="TV Mulhouse" group-title="General",TV Mulhouse
 http://194.163.157.137:8080/hls/radiomulhouse.m3u8
+#EXTINF:-1 tvg-name="NTV SD (576p)" group-title="General",NTV SD (576p)
+http://45.153.24.78/NTV/index.m3u8
+#EXTINF:-1 tvg-name="Black Sea TV" group-title="General",Black Sea TV
+https://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="General",Jonack (576p)" group-title="General",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="General",Jonack (576p)
+http://103.175.73.12:8080/live/676/master.m3u8
+#EXTINF:-1 tvg-name="Telefe (480p)" group-title="General",Telefe (480p)
+http://201.190.41.246:8822/play/a036/index.m3u8
+#EXTINF:-1 tvg-name="Russia RTR Asia [Geo-blocked]" group-title="General",Russia RTR Asia [Geo-blocked]
+https://stream.smotrim.ru/hls/planeta_rtr_asia/playlist.m3u8?entity=channel&id=511&sign=d1fe06cd922b67e412719536998fa43d
+#EXTINF:-1 tvg-name="TV1" group-title="General",TV1
+https://live.tv1.rw/index.m3u8
+#EXTINF:-1 tvg-name="SNT (480p)" group-title="General",SNT (480p)
+https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="General",Telelima" group-title="General",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="General",Telelima
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telelima.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="TVGE" group-title="General",TVGE
+http://rtmp.ott.mx1.com/tvge1/tvge1/playlist.m3u8
+#EXTINF:-1 tvg-name="Télé Congo" group-title="General",Télé Congo
+http://51.254.199.122:8080/telecongo/index.m3u8

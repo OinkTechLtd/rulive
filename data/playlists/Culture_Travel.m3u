@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-11 13:03:24
-# Всего каналов: 21733
-# Новых за сессию: 1
+# Обновлено: 2026-08-11 14:22:04
+# Всего каналов: 21900
+# Новых за сессию: 167
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Travel
 # Каналов: 1
-# Обновлено: 2026-08-11 13:03:25
+# Обновлено: 2026-08-11 14:22:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Costa Rica Channel (576p)" group-title="Culture;Travel",Costa Rica Channel (576p)
@@ -541,3 +541,5 @@ https://jtbsclassic.dpdns.org/live.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=91
 #EXTINF:-1 tvg-name="Mega 2" group-title="Culture",Mega 2
 http://15.204.246.24:8080/Mega2HD/index.m3u8
+#EXTINF:-1 tvg-name="DroneTV" group-title="Relax;Travel",DroneTV
+https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-11 13:03:24
-# Всего каналов: 21733
-# Новых за сессию: 1
+# Обновлено: 2026-08-11 14:22:04
+# Всего каналов: 21900
+# Новых за сессию: 167
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Auto;Series
 # Каналов: 1
-# Обновлено: 2026-08-11 13:03:25
+# Обновлено: 2026-08-11 14:22:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Choppertown" group-title="Auto;Series",Choppertown
@@ -17,6 +17,8 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/linear-11.frequency.st
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-name="Смотрим Честный Детектив" group-title="Series",Смотрим Честный Детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Drive (576i)" group-title="Auto",Drive (576i)
+https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="27 TwentySeven [Geo-blocked]" group-title="Movies;Series",27 TwentySeven [Geo-blocked]
 https://live2.msf.cdn.mediaset.net/content/hls_h0_cls_vos/live/channel(ts)/index.m3u8
 #EXTINF:-1 tvg-name="50 Cent Action" group-title="Movies;Series",50 Cent Action
@@ -25,6 +27,8 @@ https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
 http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 #EXTINF:-1 tvg-name="Мир Сериала (576p)" group-title="Series",Мир Сериала (576p)
 http://31.148.48.15/Mir_Seriala/index.m3u8
+#EXTINF:-1 tvg-name="НТВ Хит (576p)" group-title="Series",НТВ Хит (576p)
+https://cdn.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-name="Сапфир" group-title="Series",Сапфир
 http://31.148.48.15/Sapfir_HD/index.m3u8
 #EXTINF:-1 tvg-name="Сити Эдем АвтоГид" group-title="Auto",Сити Эдем АвтоГид

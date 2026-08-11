@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-11 13:03:24
-# Всего каналов: 21733
-# Новых за сессию: 1
+# Обновлено: 2026-08-11 14:22:04
+# Всего каналов: 21900
+# Новых за сессию: 167
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music
-# Каналов: 867
-# Обновлено: 2026-08-11 13:03:25
+# Каналов: 877
+# Обновлено: 2026-08-11 14:22:04
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Deluxe Music" group-title="Music",Deluxe Music
@@ -2524,6 +2524,36 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.tvimpact.ro:8088/
 #EXTINF:-1 tvg-name="Radio Chisinau (576p)" group-title="Music",Radio Chisinau (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/radiochisinau.md/hls/RChisinau.m3u8
 
+#EXTINF:-1 tvg-name="Muzyka Pervogo (576p)" group-title="Music",Muzyka Pervogo (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/153/index.m3u8
+
+#EXTINF:-1 tvg-name="Megogo Music" group-title="Music",Megogo Music
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ext.cdn.nashnet.tv/228.0.2.214/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Music",like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/103.175.73.12:8080/live/771/master.m3u8
+
+#EXTINF:-1 tvg-name="Balle Balle" group-title="Music",Balle Balle
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mcncdndigital.com/balleballetv/index.m3u8
+
+#EXTINF:-1 tvg-name="Exa TV" group-title="Music",Exa TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/190.61.90.17:40000/play/a0hk/index.m3u8
+
+#EXTINF:-1 tvg-name="Stingray Remember the 80s" group-title="Music",Stingray Remember the 80s
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8
+
+#EXTINF:-1 tvg-name="D3 TV" group-title="Music",D3 TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Eska TV" group-title="Music",Eska TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/lowa8026-cmyk.github.io/PL/eskatv.php.m3u8
+
+#EXTINF:-1 tvg-name="Klara" group-title="Music",Klara
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/.m3u8
+
+#EXTINF:-1 tvg-name="Radio Romania Antena Satelor" group-title="Music",Radio Romania Antena Satelor
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
+
 #EXTINF:-1 tvg-name="City TV (576p)" group-title="Music",City TV (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.city.bg/play/tshls/citytv/index.m3u8
 
@@ -2749,3 +2779,5 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://freem3u.xyz/api/live/play.m3u8?vid=91
 #EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Music",VOX Music TV" group-title="Music",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Music",VOX Music TV
 http://starcius-cinema.com/11581/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Music",7S Music (576p)" group-title="Music",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Music",7S Music (576p)
+http://103.175.73.12:8080/live/771/master.m3u8
