@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-11 21:46:36
-# Всего каналов: 21908
+# Обновлено: 2026-08-11 22:41:28
+# Всего каналов: 21909
 # Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Business
-# Каналов: 92
-# Обновлено: 2026-08-11 21:46:37
+# Каналов: 93
+# Обновлено: 2026-08-11 22:41:29
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Bloomberg TV Europe" group-title="Business",Bloomberg TV Europe
@@ -150,6 +150,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls.newworldtv.com/nw-
 
 #EXTINF:-1 tvg-name="Trends Z" group-title="Business",Trends Z
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
+
+#EXTINF:-1 tvg-name="CNBC Arabiya" group-title="Business",CNBC Arabiya
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cnbc-live.akamaized.net/cnbc/master.m3u8
 
 #EXTINF:-1 tvg-name="Aleph Business (1280p)" group-title="Business",Aleph Business (1280p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
