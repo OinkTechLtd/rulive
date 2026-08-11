@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-11 00:01:50
-# Всего каналов: 21700
-# Новых за сессию: 4
+# Обновлено: 2026-08-11 01:27:52
+# Всего каналов: 21720
+# Новых за сессию: 20
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music
-# Каналов: 865
-# Обновлено: 2026-08-11 00:01:50
+# Каналов: 867
+# Обновлено: 2026-08-11 01:27:53
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Deluxe Music" group-title="Music",Deluxe Music
@@ -2517,6 +2517,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/folxsloapp.b-cdn.net/1
 
 #EXTINF:-1 tvg-name="Boom TV" group-title="Music",Boom TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvboom.ro/live-tv/live.m3u8
+
+#EXTINF:-1 tvg-name="Impact TV" group-title="Music",Impact TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.tvimpact.ro:8088/hevc/index.m3u8
+
+#EXTINF:-1 tvg-name="Radio Chisinau (576p)" group-title="Music",Radio Chisinau (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/radiochisinau.md/hls/RChisinau.m3u8
 
 #EXTINF:-1 tvg-name="City TV (576p)" group-title="Music",City TV (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.city.bg/play/tshls/citytv/index.m3u8

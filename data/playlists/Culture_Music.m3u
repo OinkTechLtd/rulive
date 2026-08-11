@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-11 00:01:50
-# Всего каналов: 21700
-# Новых за сессию: 4
+# Обновлено: 2026-08-11 01:27:52
+# Всего каналов: 21720
+# Новых за сессию: 20
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Music
 # Каналов: 6
-# Обновлено: 2026-08-11 00:01:50
+# Обновлено: 2026-08-11 01:27:53
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pamir TV" group-title="Culture;Music",Pamir TV
@@ -2098,3 +2098,7 @@ https://oneapp.b-cdn.net/1080p/index.m3u8
 https://zweiapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-name="Boom TV" group-title="Music",Boom TV
 https://tvboom.ro/live-tv/live.m3u8
+#EXTINF:-1 tvg-name="Impact TV" group-title="Music",Impact TV
+https://live.tvimpact.ro:8088/hevc/index.m3u8
+#EXTINF:-1 tvg-name="Radio Chisinau (576p)" group-title="Music",Radio Chisinau (576p)
+https://radiochisinau.md/hls/RChisinau.m3u8

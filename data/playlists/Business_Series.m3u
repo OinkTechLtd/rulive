@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-11 00:01:50
-# Всего каналов: 21700
-# Новых за сессию: 4
+# Обновлено: 2026-08-11 01:27:52
+# Всего каналов: 21720
+# Новых за сессию: 20
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Business;Series
 # Каналов: 1
-# Обновлено: 2026-08-11 00:01:50
+# Обновлено: 2026-08-11 01:27:53
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CNBC-e" group-title="Business;Series",CNBC-e
@@ -1001,3 +1001,5 @@ https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8
 https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-name="AXN Asia Philippines (576p)" group-title="Movies;Series",AXN Asia Philippines (576p)
 https://thinkkast.dpdns.org/thinkkast/cg_axn_sd/versiglia/index.m3u8
+#EXTINF:-1 tvg-name="CNBC World" group-title="Business",CNBC World
+http://40.160.24.56/CNBC_WORLD_SD/index.m3u8

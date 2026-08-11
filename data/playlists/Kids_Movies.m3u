@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-11 00:01:50
-# Всего каналов: 21700
-# Новых за сессию: 4
+# Обновлено: 2026-08-11 01:27:52
+# Всего каналов: 21720
+# Новых за сессию: 20
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Movies
 # Каналов: 2
-# Обновлено: 2026-08-11 00:01:50
+# Обновлено: 2026-08-11 01:27:53
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="KidsFlix" group-title="Kids;Movies",KidsFlix
@@ -2470,3 +2470,7 @@ http://103.175.73.12:8080/live/43/43_0.m3u8
 https://bob.x1colegal.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Action" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Action
 https://polska.hach.workers.dev/14864.m3u8
+#EXTINF:-1 tvg-name="Sony Yay!" group-title="Animation;Kids",Sony Yay!
+https://s3.itcnbd.live/channel/b22941f1341d7243.m3u8
+#EXTINF:-1 tvg-name="Zee Bollywood (580p)" group-title="Movies",Zee Bollywood (580p)
+https://s3.itcnbd.live/channel/a5979fd53c01d1b2.m3u8
