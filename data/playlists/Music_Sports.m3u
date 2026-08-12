@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-11 23:40:31
-# Всего каналов: 21914
+# Обновлено: 2026-08-12 01:45:38
+# Всего каналов: 21919
 # Новых за сессию: 5
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;Sports
 # Каналов: 1
-# Обновлено: 2026-08-11 23:40:31
+# Обновлено: 2026-08-12 01:45:39
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RTI La 3" group-title="Music;Sports",RTI La 3
@@ -2935,3 +2935,7 @@ https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
 https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/.m3u8
 #EXTINF:-1 tvg-name="Radio Romania Antena Satelor" group-title="Music",Radio Romania Antena Satelor
 https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
+#EXTINF:-1 tvg-name="Golf Channel [Geo-blocked]" group-title="Sports",Golf Channel [Geo-blocked]
+https://messi.damitv.st/papi/ts/golfchannel-usa/playlist.m3u8
+#EXTINF:-1 tvg-name="MLB Network [Geo-blocked]" group-title="Sports",MLB Network [Geo-blocked]
+https://messi.damitv.st/papi/ts/mlbnetwork-usa/playlist.m3u8
