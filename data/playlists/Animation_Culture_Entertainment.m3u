@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-12 23:41:02
-# Всего каналов: 21934
-# Новых за сессию: 1
+# Обновлено: 2026-08-13 01:47:53
+# Всего каналов: 21945
+# Новых за сессию: 11
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Culture;Entertainment
 # Каналов: 1
-# Обновлено: 2026-08-12 23:41:03
+# Обновлено: 2026-08-13 01:47:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="GikTVMX" group-title="Animation;Culture;Entertainment",GikTVMX
@@ -473,6 +473,8 @@ http://animezonetv.net/hls/stream.m3u8
 https://cloudvideo.servers10.com:8081/8024/index.m3u8
 #EXTINF:-1 tvg-name="Condavisión" group-title="Culture",Condavisión
 https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8
+#EXTINF:-1 tvg-name="Dreiko TV" group-title="Animation",Dreiko TV
+https://cloudvideo.servers10.com:8081/8020/index.m3u8
 #EXTINF:-1 tvg-name="El 33 [Geo-blocked]" group-title="Culture;Public",El 33 [Geo-blocked]
 https://directes-tv-cat.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
 #EXTINF:-1 tvg-name="El 33 Originals" group-title="Culture;Public",El 33 Originals
@@ -2571,3 +2573,5 @@ http://103.175.73.12:8080/live/695/master.m3u8
 http://103.175.73.12:8080/live/688/master.m3u8
 #EXTINF:-1 tvg-name="Girasol TV (1080i)" group-title="Entertainment",Girasol TV (1080i)
 https://s.emisoras.tv:8081/girasoltv/index.m3u8
+#EXTINF:-1 tvg-name="PBO (480p)" group-title="Entertainment",PBO (480p)
+https://streams.comclark.com/pknsd/pbo/playlist.m3u8

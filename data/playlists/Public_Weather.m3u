@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-12 23:41:02
-# Всего каналов: 21934
-# Новых за сессию: 1
+# Обновлено: 2026-08-13 01:47:53
+# Всего каналов: 21945
+# Новых за сессию: 11
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Public;Weather
 # Каналов: 1
-# Обновлено: 2026-08-12 23:41:03
+# Обновлено: 2026-08-13 01:47:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="3Cat Càmeres del temps" group-title="Public;Weather",3Cat Càmeres del temps
@@ -133,7 +133,7 @@ https://alwxnet-ott-proxy.cloud9streaming.com/alwxnet/live/playlist.m3u8
 https://norcast-weather.streamology.live/api/v1/streams/c1b5b114698e1ad4687153c4402d5ef0/live.m3u8
 #EXTINF:-1 tvg-name="FOX Weather [Geo-blocked]" group-title="Weather",FOX Weather [Geo-blocked]
 https://pb-hum8cczphcrpf.akamaized.net/FOX_Weather.m3u8
-#EXTINF:-1 tvg-name="24 Horas" group-title="News;Public",24 Horas
+#EXTINF:-1 tvg-name="24 Horas Canarias" group-title="News;Public",24 Horas Canarias
 http://185.47.212.25:8080/24h_HD/index.m3u8
 #EXTINF:-1 tvg-name="Clan" group-title="Kids;Public",Clan
 http://185.47.212.25:8080/Clan_HD/index.m3u8

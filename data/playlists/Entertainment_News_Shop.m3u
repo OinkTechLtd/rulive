@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-12 23:41:02
-# Всего каналов: 21934
-# Новых за сессию: 1
+# Обновлено: 2026-08-13 01:47:53
+# Всего каналов: 21945
+# Новых за сессию: 11
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;News;Shop
 # Каналов: 1
-# Обновлено: 2026-08-12 23:41:03
+# Обновлено: 2026-08-13 01:47:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Extra ProNews (576p)" group-title="Entertainment;News;Shop",Extra ProNews (576p)
@@ -963,8 +963,6 @@ https://ztnr.rtve.es/ztnr/4952053.m3u8
 https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Ciudades Del Ocio TV" group-title="Entertainment",Ciudades Del Ocio TV
 https://cloudvideo.servers10.com:8081/8024/index.m3u8
-#EXTINF:-1 tvg-name="Córdoba TV" group-title="News",Córdoba TV
-https://cloudvideo.servers10.com:8081/8020/index.m3u8
 #EXTINF:-1 tvg-name="Energy" group-title="Entertainment",Energy
 http://92.176.119.180:2095/play/a17a
 #EXTINF:-1 tvg-name="FDF" group-title="Entertainment",FDF
@@ -4271,7 +4269,7 @@ https://aes.m3u8simplu.workers.dev/b1/index.m3u8
 https://aes.m3u8simplu.workers.dev/euronews/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="News",Prima News (576p)" group-title="News",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="News",Prima News (576p)
 https://aes.m3u8simplu.workers.dev/primanews/index.m3u8
-#EXTINF:-1 tvg-name="24 Horas" group-title="News;Public",24 Horas
+#EXTINF:-1 tvg-name="24 Horas Canarias" group-title="News;Public",24 Horas Canarias
 http://185.47.212.25:8080/24h_HD/index.m3u8
 #EXTINF:-1 tvg-name="Belarus-24 (576p)" group-title="News",Belarus-24 (576p)
 http://ott-7.sevstar.net/belarus24/index.m3u8
@@ -4379,3 +4377,5 @@ https://s.emisoras.tv:8081/girasoltv/index.m3u8
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 tvg-name="TOLOnews" group-title="News",TOLOnews
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolonews/index.m3u8
+#EXTINF:-1 tvg-name="PBO (480p)" group-title="Entertainment",PBO (480p)
+https://streams.comclark.com/pknsd/pbo/playlist.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-12 23:41:02
-# Всего каналов: 21934
-# Новых за сессию: 1
+# Обновлено: 2026-08-13 01:47:53
+# Всего каналов: 21945
+# Новых за сессию: 11
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News;Sports
 # Каналов: 6
-# Обновлено: 2026-08-12 23:41:03
+# Обновлено: 2026-08-13 01:47:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Africa 24 Sport" group-title="News;Sports",Africa 24 Sport
@@ -876,8 +876,6 @@ https://ztnr.rtve.es/ztnr/5473142.m3u8
 https://ztnr.rtve.es/ztnr/4952053.m3u8
 #EXTINF:-1 tvg-name="Canal Sur Noticias" group-title="News;Public",Canal Sur Noticias
 https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Córdoba TV" group-title="News",Córdoba TV
-https://cloudvideo.servers10.com:8081/8020/index.m3u8
 #EXTINF:-1 tvg-name="Esport3" group-title="Public;Sports",Esport3
 https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
 #EXTINF:-1 tvg-name="Esport3 [Geo-blocked]" group-title="Public;Sports",Esport3 [Geo-blocked]
@@ -3424,7 +3422,7 @@ https://aes.m3u8simplu.workers.dev/primasp5/index.m3u8
 https://aes.m3u8simplu.workers.dev/sportextra/index.m3u8
 #EXTINF:-1 tvg-name="beIN Sports en Espanol" group-title="Sports",beIN Sports en Espanol
 https://futbol9865.ultratv13.workers.dev/deportivo111/69.m3u8
-#EXTINF:-1 tvg-name="24 Horas" group-title="News;Public",24 Horas
+#EXTINF:-1 tvg-name="24 Horas Canarias" group-title="News;Public",24 Horas Canarias
 http://185.47.212.25:8080/24h_HD/index.m3u8
 #EXTINF:-1 tvg-name="Belarus-24 (576p)" group-title="News",Belarus-24 (576p)
 http://ott-7.sevstar.net/belarus24/index.m3u8

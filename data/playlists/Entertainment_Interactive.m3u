@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-12 23:41:02
-# Всего каналов: 21934
-# Новых за сессию: 1
+# Обновлено: 2026-08-13 01:47:53
+# Всего каналов: 21945
+# Новых за сессию: 11
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Interactive
 # Каналов: 3
-# Обновлено: 2026-08-12 23:41:03
+# Обновлено: 2026-08-13 01:47:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RMC Life [Geo-Blocked]" group-title="Entertainment;Interactive",RMC Life [Geo-Blocked]
@@ -1899,3 +1899,5 @@ http://103.175.73.12:8080/live/695/master.m3u8
 http://103.175.73.12:8080/live/688/master.m3u8
 #EXTINF:-1 tvg-name="Girasol TV (1080i)" group-title="Entertainment",Girasol TV (1080i)
 https://s.emisoras.tv:8081/girasoltv/index.m3u8
+#EXTINF:-1 tvg-name="PBO (480p)" group-title="Entertainment",PBO (480p)
+https://streams.comclark.com/pknsd/pbo/playlist.m3u8

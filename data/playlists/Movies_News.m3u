@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-12 23:41:02
-# Всего каналов: 21934
-# Новых за сессию: 1
+# Обновлено: 2026-08-13 01:47:53
+# Всего каналов: 21945
+# Новых за сессию: 11
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;News
 # Каналов: 3
-# Обновлено: 2026-08-12 23:41:03
+# Обновлено: 2026-08-13 01:47:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Indywood TV" group-title="Movies;News",Indywood TV
@@ -945,8 +945,6 @@ https://ztnr.rtve.es/ztnr/4952053.m3u8
 https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Cine comedia" group-title="Movies",Cine comedia
 https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8
-#EXTINF:-1 tvg-name="Córdoba TV" group-title="News",Córdoba TV
-https://cloudvideo.servers10.com:8081/8020/index.m3u8
 #EXTINF:-1 tvg-name="France 24 Español" group-title="News",France 24 Español
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-name="M95 Televisión Marbella" group-title="News",M95 Televisión Marbella
@@ -3853,7 +3851,7 @@ http://s08.wsbof.com:8090/s/dc2d537d/hot-cinema1-il.m3u8
 https://aes.m3u8simplu.workers.dev/procinema/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",TV1000" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",TV1000
 https://aes.m3u8simplu.workers.dev/viasatkino/index.m3u8
-#EXTINF:-1 tvg-name="24 Horas" group-title="News;Public",24 Horas
+#EXTINF:-1 tvg-name="24 Horas Canarias" group-title="News;Public",24 Horas Canarias
 http://185.47.212.25:8080/24h_HD/index.m3u8
 #EXTINF:-1 tvg-name="Sony Max 1" group-title="Movies",Sony Max 1
 http://103.159.180.34:5001/live/3418.m3u8
@@ -3999,3 +3997,7 @@ http://15.204.246.24:8080/TNHD/index.m3u8
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 tvg-name="TOLOnews" group-title="News",TOLOnews
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolonews/index.m3u8
+#EXTINF:-1 tvg-name="AXN Asia Taiwan" group-title="Movies;Series",AXN Asia Taiwan
+http://125.227.210.55:4050/VideoInput/play.ts
+#EXTINF:-1 tvg-name="Viva Cinema (480p)" group-title="Movies",Viva Cinema (480p)
+https://streams.comclark.com/pknsd/viva/playlist.m3u8

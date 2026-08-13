@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-12 23:41:02
-# Всего каналов: 21934
-# Новых за сессию: 1
+# Обновлено: 2026-08-13 01:47:53
+# Всего каналов: 21945
+# Новых за сессию: 11
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation
-# Каналов: 61
-# Обновлено: 2026-08-12 23:41:03
+# Каналов: 62
+# Обновлено: 2026-08-13 01:47:54
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Animation+ [Geo-blocked]" group-title="Animation",Animation+ [Geo-blocked]
@@ -69,6 +69,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/d82pyvmcw2kdc.cloudfro
 
 #EXTINF:-1 tvg-name="Anime Zone TV (480p)" group-title="Animation",Anime Zone TV (480p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/animezonetv.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="Dreiko TV" group-title="Animation",Dreiko TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cloudvideo.servers10.com:8081/8020/index.m3u8
 
 #EXTINF:-1 tvg-name="One Piece" group-title="Animation",One Piece
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
