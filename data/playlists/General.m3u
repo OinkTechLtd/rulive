@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-14 00:07:55
-# Всего каналов: 21971
-# Новых за сессию: 0
+# Обновлено: 2026-08-14 01:53:26
+# Всего каналов: 22003
+# Новых за сессию: 32
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General
-# Каналов: 3130
-# Обновлено: 2026-08-14 00:07:56
+# Каналов: 3138
+# Обновлено: 2026-08-14 01:53:27
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="БелРос (576p)" group-title="General",БелРос (576p)
@@ -9075,6 +9075,30 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/5.180.164.197:8080/TV5
 
 #EXTINF:-1 tvg-name="Chada TV" group-title="General",Chada TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/edge13.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8
+
+#EXTINF:-1 tvg-name="Kongress TV" group-title="General",Kongress TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-3.otcnet.ru/congresstv/index.m3u8
+
+#EXTINF:-1 tvg-name="Ulytau" group-title="General",Ulytau
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ulytau.tv/hls/master.m3u8
+
+#EXTINF:-1 tvg-name="黑龙江" group-title="General",黑龙江
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8
+
+#EXTINF:-1 tvg-name="Aliw Channel 23 (480p)" group-title="General",Aliw Channel 23 (480p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streams.comclark.com/pknsd/aliw/playlist.m3u8
+
+#EXTINF:-1 tvg-name="GMA TV (480p)" group-title="General",GMA TV (480p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streams.comclark.com/pknsd/gma_7/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NET25 (480p)" group-title="General",NET25 (480p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streams.comclark.com/pknsd/net_25/playlist.m3u8
+
+#EXTINF:-1 tvg-name="UNTV (480p)" group-title="General",UNTV (480p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streams.comclark.com/pknsd/untv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV Peru" group-title="General",TV Peru
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/190.93.224.42/TV-PERU/index.m3u8
 
 #EXTINF:-1 tvg-name="Belarus-1" group-title="General",Belarus-1
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8

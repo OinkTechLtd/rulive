@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-14 00:07:55
-# Всего каналов: 21971
-# Новых за сессию: 0
+# Обновлено: 2026-08-14 01:53:26
+# Всего каналов: 22003
+# Новых за сессию: 32
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Undefined
-# Каналов: 4219
-# Обновлено: 2026-08-14 00:07:56
+# Каналов: 4223
+# Обновлено: 2026-08-14 01:53:27
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Дождь [Geo-blocked]" group-title="Undefined",Дождь [Geo-blocked]
@@ -12250,6 +12250,18 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.bradosti.net/live
 #EXTINF:-1 tvg-name="The Cowboy Channel" group-title="Undefined",The Cowboy Channel
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.56/THE_COWBOY_CHANNEL_SD/index.m3u8
 
+#EXTINF:-1 tvg-name="TDK 42" group-title="Undefined",TDK 42
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streamer.metronethn.com/Cinemax/index.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streamer.metronethn.com/TVE/index.m3u8
+
+#EXTINF:-1 tvg-name="Guangdong Satellite TV" group-title="Undefined",Guangdong Satellite TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8
+
 #EXTINF:-1 tvg-name="R9" group-title="Undefined",R9
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
 
@@ -13051,3 +13063,7 @@ https://7nyaler.streamhostingcdn.top/stream/41/index.m3u8
 https://7nyaler.streamhostingcdn.top/stream/51/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Undefined",The Q India (576p)" group-title="Undefined",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Undefined",The Q India (576p)
 http://103.175.73.12:8080/live/25/25_0.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",Cinemax Latino (480p)" group-title="Undefined",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",Cinemax Latino (480p)
+https://streamer.metronethn.com/Cinemax/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",TVE Internacional America" group-title="Undefined",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",TVE Internacional America
+https://streamer.metronethn.com/TVE/index.m3u8

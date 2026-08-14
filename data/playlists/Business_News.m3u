@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-14 00:07:55
-# Всего каналов: 21971
-# Новых за сессию: 0
+# Обновлено: 2026-08-14 01:53:26
+# Всего каналов: 22003
+# Новых за сессию: 32
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Business;News
 # Каналов: 9
-# Обновлено: 2026-08-14 00:07:56
+# Обновлено: 2026-08-14 01:53:27
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="Business;News",like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -2535,3 +2535,7 @@ https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 tvg-name="TOLOnews" group-title="News",TOLOnews
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolonews/index.m3u8
+#EXTINF:-1 tvg-name="DZRHTV (480p)" group-title="News",DZRHTV (480p)
+https://streams.comclark.com/pknsd/dzrh/playlist.m3u8
+#EXTINF:-1 tvg-name="DZMM TeleRadyo (480p)" group-title="News",DZMM TeleRadyo (480p)
+https://streams.comclark.com/pknsd/teleradyo/playlist.m3u8

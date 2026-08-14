@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-14 00:07:55
-# Всего каналов: 21971
-# Новых за сессию: 0
+# Обновлено: 2026-08-14 01:53:26
+# Всего каналов: 22003
+# Новых за сессию: 32
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Series
 # Каналов: 1
-# Обновлено: 2026-08-14 00:07:56
+# Обновлено: 2026-08-14 01:53:27
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Super TV" group-title="General;Series",Super TV
@@ -6683,3 +6683,15 @@ http://rtmp.ott.mx1.com/tvge1/tvge1/playlist.m3u8
 http://51.254.199.122:8080/telecongo/index.m3u8
 #EXTINF:-1 tvg-name="AXN Asia Taiwan" group-title="Movies;Series",AXN Asia Taiwan
 http://125.227.210.55:4050/VideoInput/play.ts
+#EXTINF:-1 tvg-name="Ulytau" group-title="General",Ulytau
+https://ulytau.tv/hls/master.m3u8
+#EXTINF:-1 tvg-name="黑龙江" group-title="General",黑龙江
+http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8
+#EXTINF:-1 tvg-name="Aliw Channel 23 (480p)" group-title="General",Aliw Channel 23 (480p)
+https://streams.comclark.com/pknsd/aliw/playlist.m3u8
+#EXTINF:-1 tvg-name="GMA TV (480p)" group-title="General",GMA TV (480p)
+https://streams.comclark.com/pknsd/gma_7/playlist.m3u8
+#EXTINF:-1 tvg-name="NET25 (480p)" group-title="General",NET25 (480p)
+https://streams.comclark.com/pknsd/net_25/playlist.m3u8
+#EXTINF:-1 tvg-name="UNTV (480p)" group-title="General",UNTV (480p)
+https://streams.comclark.com/pknsd/untv/playlist.m3u8
