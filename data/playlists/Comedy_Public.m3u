@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 19:21:00
-# Всего каналов: 22099
-# Новых за сессию: 1
+# Обновлено: 2026-08-15 19:25:41
+# Всего каналов: 22301
+# Новых за сессию: 202
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Public
 # Каналов: 1
-# Обновлено: 2026-08-15 19:21:01
+# Обновлено: 2026-08-15 19:25:42
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="3Cat El búnquer" group-title="Comedy;Public",3Cat El búnquer
@@ -203,8 +203,6 @@ https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
 https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-name="Roya Comedy" group-title="Comedy",Roya Comedy
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8
-#EXTINF:-1 tvg-name="FomixTV" group-title="General;Music;Public",FomixTV
-https://stream.fomixmedia.nl/FomixTV/video.m3u8
 #EXTINF:-1 tvg-name="Alle hassen Chris" group-title="Comedy",Alle hassen Chris
 https://jmp2.uk/plu-622f6e1e2792150007e0b2ff.m3u8
 #EXTINF:-1 tvg-name="Awkward" group-title="Comedy",Awkward
@@ -411,3 +409,33 @@ http://185.47.212.25:8080/tdp_HD/index.m3u8
 https://7nyaler.streamhostingcdn.top/stream/40/index.m3u8
 #EXTINF:-1 tvg-name="LOL! Network" group-title="Comedy",LOL! Network
 https://d1kt53vrikzr5o.cloudfront.net/v1/lol_lolnetwork_5/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-name="Adult Swim" group-title="International;Comedy",Adult Swim
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
+#EXTINF:-1 tvg-name="Adult Swim (Rick and Morty Marathon)" group-title="International;Comedy",Adult Swim (Rick and Morty Marathon)
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
+#EXTINF:-1 tvg-name="Adult Swim (Last Stream on the Left Marathon)" group-title="International;Comedy",Adult Swim (Last Stream on the Left Marathon)
+https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream_7.m3u8
+#EXTINF:-1 tvg-name="Adult Swim (Off the Air Marathon)" group-title="International;Comedy",Adult Swim (Off the Air Marathon)
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_7.m3u8
+#EXTINF:-1 tvg-name="Adult Swim (Metalocalypse Marathon)" group-title="International;Comedy",Adult Swim (Metalocalypse Marathon)
+https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream_7.m3u8
+#EXTINF:-1 tvg-name="Adult Swim (Robot Chicken Marathon)" group-title="International;Comedy",Adult Swim (Robot Chicken Marathon)
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_7.m3u8
+#EXTINF:-1 tvg-name="Adult Swim (Samurai Jack Marathon)" group-title="International;Comedy",Adult Swim (Samurai Jack Marathon)
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_7.m3u8
+#EXTINF:-1 tvg-name="Adult Swim (Aqua Teen Hunger Force Marathon)" group-title="International;Comedy",Adult Swim (Aqua Teen Hunger Force Marathon)
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_7.m3u8
+#EXTINF:-1 tvg-name="Adult Swim (The Eric Andre Show Marathon)" group-title="International;Comedy",Adult Swim (The Eric Andre Show Marathon)
+https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_7.m3u8
+#EXTINF:-1 tvg-name="Adult Swim (The Venture Brothers Marathon)" group-title="International;Comedy",Adult Swim (The Venture Brothers Marathon)
+https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream_7.m3u8
+#EXTINF:-1 tvg-name="Adult Swim (Channel 5 Marathon)" group-title="International;Comedy",Adult Swim (Channel 5 Marathon)
+https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream_7.m3u8
+#EXTINF:-1 tvg-name="Adult Swim (Infomercials Marathon)" group-title="International;Comedy",Adult Swim (Infomercials Marathon)
+https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream_7.m3u8
+#EXTINF:-1 tvg-name="Adult Swim (Black Jesus Marathon)" group-title="International;Comedy",Adult Swim (Black Jesus Marathon)
+https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream_7.m3u8
+#EXTINF:-1 tvg-name="Adult Swim (Your Pretty Face is Going to Hell Marathon)" group-title="International;Comedy",Adult Swim (Your Pretty Face is Going to Hell Marathon)
+https://adultswim-vodlive.cdn.turner.com/live/ypf/stream_7.m3u8
+#EXTINF:-1 tvg-name="Adult Swim (Dream Corp LLC Marathon)" group-title="International;Comedy",Adult Swim (Dream Corp LLC Marathon)
+https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream_7.m3u8

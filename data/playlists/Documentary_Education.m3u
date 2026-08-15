@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 19:21:00
-# Всего каналов: 22099
-# Новых за сессию: 1
+# Обновлено: 2026-08-15 19:25:41
+# Всего каналов: 22301
+# Новых за сессию: 202
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Education
 # Каналов: 2
-# Обновлено: 2026-08-15 19:21:01
+# Обновлено: 2026-08-15 19:25:42
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Asharq Discovery" group-title="Documentary;Education",Asharq Discovery
@@ -18,8 +18,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/399
 
 #EXTINF:-1 tvg-name="Canal Savoir (360p)" group-title="Education",Canal Savoir (360p)
 https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 tvg-name="ARD-alpha" group-title="Education",ARD-alpha
-https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="Telepace 3" group-title="Education;Religious",Telepace 3
 https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="EBS+ 2 (400p)" group-title="Education",EBS+ 2 (400p)
@@ -228,8 +226,6 @@ https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
 https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
 #EXTINF:-1 tvg-name="ARD-alpha (576p) [Geo-Blocked]" group-title="Education",ARD-alpha (576p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8
-#EXTINF:-1 tvg-name="Dokusat" group-title="Documentary",Dokusat
-https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 #EXTINF:-1 tvg-name="iSTUFF" group-title="Education",iSTUFF
 https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
 #EXTINF:-1 tvg-name="kabel eins Doku (576p)" group-title="Documentary",kabel eins Doku (576p)

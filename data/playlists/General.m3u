@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 19:21:00
-# Всего каналов: 22099
-# Новых за сессию: 1
+# Обновлено: 2026-08-15 19:25:41
+# Всего каналов: 22301
+# Новых за сессию: 202
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General
-# Каналов: 3141
-# Обновлено: 2026-08-15 19:21:01
+# Каналов: 3109
+# Обновлено: 2026-08-15 19:25:42
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="БелРос (576p)" group-title="General",БелРос (576p)
@@ -871,9 +871,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/zdf-hls-18.akamaized.n
 #EXTINF:-1 tvg-name="3sat [Geo-Blocked]" group-title="General",3sat [Geo-Blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
 
-#EXTINF:-1 tvg-name="Allgäu TV" group-title="General",Allgäu TV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Altenburg TV" group-title="General",Altenburg TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8
 
@@ -892,12 +889,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/s6.hopslan.com/ardX/tr
 #EXTINF:-1 tvg-name="Das Erste" group-title="General",Das Erste
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 
-#EXTINF:-1 tvg-name="ems TV Lingen" group-title="General",ems TV Lingen
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Erz-TV Stollberg (576p)" group-title="General",Erz-TV Stollberg (576p)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Filstalwelle" group-title="General",Filstalwelle
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
 
@@ -913,9 +904,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/dash4.antik.sk/live/te
 #EXTINF:-1 tvg-name="Kanal12 Spremberg TV (404p)" group-title="General",Kanal12 Spremberg TV (404p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-name="L-TV" group-title="General",L-TV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/live2.telvi.de/hls/l-tv_s1.m3u8
-
 #EXTINF:-1 tvg-name="MDF.1" group-title="General",MDF.1
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
 
@@ -927,9 +915,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/mdrtvsahls.akamaized.n
 
 #EXTINF:-1 tvg-name="MDR Fernsehen Thüringen [Geo-blocked]" group-title="General",MDR Fernsehen Thüringen [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8
-
-#EXTINF:-1 tvg-name="München TV" group-title="General",München TV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="n-tv [Geo-Blocked]" group-title="General",n-tv [Geo-Blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8
@@ -946,20 +931,11 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream03.welocal.strea
 #EXTINF:-1 tvg-name="Niederbayern TV Passau" group-title="General",Niederbayern TV Passau
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8
 
-#EXTINF:-1 tvg-name="Noa 4 Hamburg" group-title="General",Noa 4 Hamburg
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-
 #EXTINF:-1 tvg-name="Noa 4 Norderstedt" group-title="General",Noa 4 Norderstedt
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls1.wtnet.de/noa4/apple/wifi6500.m3u8
 
-#EXTINF:-1 tvg-name="Oberpfalz TV" group-title="General",Oberpfalz TV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
-
 #EXTINF:-1 tvg-name="OF-TV Offenbach" group-title="General",OF-TV Offenbach
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
-
-#EXTINF:-1 tvg-name="OK4 [Geo-blocked]" group-title="General",OK4 [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.ok54.de/abr_ok4/live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="OK54 [Geo-blocked]" group-title="General",OK54 [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8
@@ -967,26 +943,11 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.ok54.de/ott/webstrea
 #EXTINF:-1 tvg-name="OK Dessau" group-title="General",OK Dessau
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
 
-#EXTINF:-1 tvg-name="OK Flensburg (576p)" group-title="General",OK Flensburg (576p)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
-
-#EXTINF:-1 tvg-name="OK Kaiserslautern [Geo-blocked]" group-title="General",OK Kaiserslautern [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.ok54.de/abr_okkl/webstream/playlist.m3u8
-
-#EXTINF:-1 tvg-name="OK Kassel [Geo-blocked]" group-title="General",OK Kassel [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.ok54.de/mok-ks/kassel/playlist.m3u8
-
-#EXTINF:-1 tvg-name="OK Kiel (576p)" group-title="General",OK Kiel (576p)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-cdn.oksh.de/play/hls/kieltv/index.m3u8
-
 #EXTINF:-1 tvg-name="OK Magdeburg" group-title="General",OK Magdeburg
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
 
 #EXTINF:-1 tvg-name="OK Merseburg-Querfurt" group-title="General",OK Merseburg-Querfurt
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
-
-#EXTINF:-1 tvg-name="OK Rhein-Main (576p) [Geo-blocked]" group-title="General",OK Rhein-Main (576p) [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.ok54.de/mok-rm/mok-rm/playlist.m3u8
 
 #EXTINF:-1 tvg-name="OK Salzwedel" group-title="General",OK Salzwedel
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
@@ -1003,9 +964,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.ok54.de/okweinstrass
 #EXTINF:-1 tvg-name="OK Wernigerode" group-title="General",OK Wernigerode
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
 
-#EXTINF:-1 tvg-name="OK-TV Ludwigshafen [Geo-blocked]" group-title="General",OK-TV Ludwigshafen [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/s.ok54.de/oklu/livestream/playlist.m3u8
-
 #EXTINF:-1 tvg-name="RFH" group-title="General",RFH
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
 
@@ -1018,41 +976,8 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/58de7a369a9c4.streamlo
 #EXTINF:-1 tvg-name="Stimmungsgarten TV" group-title="General",Stimmungsgarten TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live20.bozztv.com/akamaissh101/ssh101/stimmungsgarten/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TV Oberfranken (TVO)" group-title="General",TV Oberfranken (TVO)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
-
 #EXTINF:-1 tvg-name="WDR Fernsehen [Geo-Blocked]" group-title="General",WDR Fernsehen [Geo-Blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/viamotionhsi.netplus.ch/live/eds/wdrhd/browser-HLS8/wdrhd.m3u8
-
-#EXTINF:-1 tvg-name="WDR Fernsehen Aachen [Geo-blocked]" group-title="General",WDR Fernsehen Aachen [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
-
-#EXTINF:-1 tvg-name="WDR Fernsehen Bielefeld [Geo-blocked]" group-title="General",WDR Fernsehen Bielefeld [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
-
-#EXTINF:-1 tvg-name="WDR Fernsehen Bonn [Geo-blocked]" group-title="General",WDR Fernsehen Bonn [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
-
-#EXTINF:-1 tvg-name="WDR Fernsehen Dortmund [Geo-blocked]" group-title="General",WDR Fernsehen Dortmund [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
-
-#EXTINF:-1 tvg-name="WDR Fernsehen Duisburg [Geo-blocked]" group-title="General",WDR Fernsehen Duisburg [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8
-
-#EXTINF:-1 tvg-name="WDR Fernsehen Düsseldorf [Geo-blocked]" group-title="General",WDR Fernsehen Düsseldorf [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
-
-#EXTINF:-1 tvg-name="WDR Fernsehen Essen [Geo-blocked]" group-title="General",WDR Fernsehen Essen [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8
-
-#EXTINF:-1 tvg-name="WDR Fernsehen Münster [Geo-blocked]" group-title="General",WDR Fernsehen Münster [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
-
-#EXTINF:-1 tvg-name="WDR Fernsehen Siegen [Geo-blocked]" group-title="General",WDR Fernsehen Siegen [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
-
-#EXTINF:-1 tvg-name="WDR Fernsehen Wuppertal [Geo-blocked]" group-title="General",WDR Fernsehen Wuppertal [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
 
 #EXTINF:-1 tvg-name="20 Minutes TV" group-title="General",20 Minutes TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-20minutestv.digiteka.com/1961167769/index.m3u8
@@ -2613,9 +2538,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/edge.socialsmart.tv/na
 
 #EXTINF:-1 tvg-name="Ajman TV" group-title="General",Ajman TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn1.logichost.in/ajmantv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-name="AlbUK TV" group-title="General",AlbUK TV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Apna Channel (576p)" group-title="General",Apna Channel (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/115.42.65.142:9981/stream/channelid/1273966657
@@ -4443,9 +4365,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/edge21.vedge.infomania
 
 #EXTINF:-1 tvg-name="Ländle TV" group-title="General",Ländle TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
-
-#EXTINF:-1 tvg-name="Okto TV" group-title="General",Okto TV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ORF 2" group-title="General",ORF 2
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/dash4.antik.sk/live/test_orf_zwei_tizen/playlist.m3u8
@@ -6603,9 +6522,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/v4.proofix.ru/8tv-euro
 
 #EXTINF:-1 tvg-name="2+2" group-title="General",2+2
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6378/index.m3u8
-
-#EXTINF:-1 tvg-name="WDR Fernsehen" group-title="General",WDR Fernsehen
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
 
 #EXTINF:-1 tvg-name="Euro D" group-title="General",Euro D
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
@@ -9136,18 +9052,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/protvradiostream.com:1
 #EXTINF:-1 tvg-name="Watan TV" group-title="General",Watan TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rp.tactivemedia.com/watantv_source/live/playlist.m3u8
 
-#EXTINF:-1 tvg-name="NDR Hamburg" group-title="General",NDR Hamburg
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
-
-#EXTINF:-1 tvg-name="NDR Mecklenburg-Vorpommern" group-title="General",NDR Mecklenburg-Vorpommern
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
-
-#EXTINF:-1 tvg-name="NDR Niedersachsen" group-title="General",NDR Niedersachsen
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
-
-#EXTINF:-1 tvg-name="NDR Schleswig-Holstein" group-title="General",NDR Schleswig-Holstein
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
-
 #EXTINF:-1 tvg-name="NDR Fernsehen International" group-title="General",NDR Fernsehen International
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
 
@@ -9657,8 +9561,6 @@ https://stream.tvkstella.pl/stella/stella.m3u8
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="TVR Sport" group-title="General;Sports",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-name="FomixTV" group-title="General;Music;Public",FomixTV
-https://stream.fomixmedia.nl/FomixTV/video.m3u8
 #EXTINF:-1 tvg-name="TVR Folclor" group-title="General;Music",TVR Folclor
 https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="HTV3" group-title="Entertainment;General;Series",HTV3

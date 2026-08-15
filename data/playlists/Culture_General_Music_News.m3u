@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 19:21:00
-# Всего каналов: 22099
-# Новых за сессию: 1
+# Обновлено: 2026-08-15 19:25:41
+# Всего каналов: 22301
+# Новых за сессию: 202
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;General;Music;News
 # Каналов: 1
-# Обновлено: 2026-08-15 19:21:01
+# Обновлено: 2026-08-15 19:25:42
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Online TV Nusantara" group-title="Culture;General;Music;News",Online TV Nusantara
@@ -75,20 +75,6 @@ https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m
 https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8
 #EXTINF:-1 tvg-name="Formula" group-title="News",Formula
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1 tvg-name="Deluxe Music" group-title="Music",Deluxe Music
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-name="Deluxe Dance" group-title="Music",Deluxe Dance
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1 tvg-name="Deluxe Rap" group-title="Music",Deluxe Rap
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 tvg-name="NDR Hamburg" group-title="General",NDR Hamburg
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
-#EXTINF:-1 tvg-name="NDR Mecklenburg-Vorpommern" group-title="General",NDR Mecklenburg-Vorpommern
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
-#EXTINF:-1 tvg-name="NDR Niedersachsen" group-title="General",NDR Niedersachsen
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
-#EXTINF:-1 tvg-name="NDR Schleswig-Holstein" group-title="General",NDR Schleswig-Holstein
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
 #EXTINF:-1 tvg-name="NDR Fernsehen International" group-title="General",NDR Fernsehen International
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
 #EXTINF:-1 tvg-name="Alert (576p)" group-title="News",Alert (576p)
@@ -103,8 +89,6 @@ https://acheloostv.streamings.gr/live/stream/index.m3u8
 https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
 #EXTINF:-1 tvg-name="Start TV (480p)" group-title="News",Start TV (480p)
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
-#EXTINF:-1 tvg-name="Dance Television" group-title="Music",Dance Television
-https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1 tvg-name="Al Alam (360p)" group-title="News",Al Alam (360p)
 https://live2.alalam.ir/alalam.m3u8
 #EXTINF:-1 tvg-name="Al Iraqia [Geo-blocked]" group-title="General",Al Iraqia [Geo-blocked]
@@ -181,8 +165,6 @@ https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
 #EXTINF:-1 tvg-name="Promovideo TV (486p)" group-title="General",Promovideo TV (486p)
 https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8
-#EXTINF:-1 tvg-name="m2o TV" group-title="Music",m2o TV
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-name="Rete 8" group-title="General",Rete 8
 https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
 #EXTINF:-1 tvg-name="Rete TV Italia" group-title="General",Rete TV Italia
@@ -231,8 +213,6 @@ http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
 http://tv1.intv.mk:1935/live/intv/index.m3u8
 #EXTINF:-1 tvg-name="Star Plus Music" group-title="Music",Star Plus Music
 https://live.muzickatv.mk/live/StarMusic2.m3u8
-#EXTINF:-1 tvg-name="4 Fun TV (576i)" group-title="Music",4 Fun TV (576i)
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-name="RTP 2" group-title="General",RTP 2
 https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="SIC" group-title="General",SIC
@@ -295,8 +275,6 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT Arabi" group-title="News",TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRT World" group-title="News",TRT World
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="NOW Rock" group-title="Music",NOW Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/143.0.7499.109 Safari/537.36" group-title="Culture",Suspilne. Kultura [Geo-blocked]" group-title="Culture",like Gecko) Chrome/143.0.7499.109 Safari/537.36" group-title="Culture",Suspilne. Kultura [Geo-blocked]
@@ -321,8 +299,6 @@ https://tv7plus.com/hls/tv7_site.m3u8
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Latina TV" group-title="General",Latina TV
 https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera العربية" group-title="News (AR)",Al Jazeera العربية
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-name="Al Arabiya" group-title="News",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="France 24 العربية Ⓨ" group-title="News (AR)",France 24 العربية Ⓨ
@@ -343,8 +319,6 @@ https://www.youtube.com/euronews/live
 https://www.youtube.com/africanews/live
 #EXTINF:-1 tvg-name="France 24 Ⓨ" group-title="News",France 24 Ⓨ
 https://www.youtube.com/france24english/live
-#EXTINF:-1 tvg-name="DW" group-title="News",DW
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera English" group-title="News",Al Jazeera English
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-name="CGTN" group-title="News",CGTN
@@ -375,6 +349,8 @@ https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
 https://www.youtube.com/@abcnewsaustralia/live
 #EXTINF:-1 tvg-name="NDTV 24x7" group-title="News",NDTV 24x7
 https://ythls.armelin.one/channel/UCZFMm1mMw0F81Z37aaEzTUA.m3u8
+#EXTINF:-1 tvg-name="TRT World" group-title="News",TRT World
+https://ythls.armelin.one/channel/UC7fWeaHhqgM4Ry-RMpM2YYw.m3u8
 #EXTINF:-1 tvg-name="NHK World Japan" group-title="News",NHK World Japan
 https://ythls.armelin.one/channel/UCSPEjw8F2nQDtmUKPFNF7_A.m3u8
 #EXTINF:-1 tvg-name="DD India" group-title="News",DD India
@@ -403,8 +379,6 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-name="CNN" group-title="News",CNN
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8
-#EXTINF:-1 tvg-name="CNN International" group-title="News",CNN International
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-name="GB News" group-title="News",GB News
 https://ythls.armelin.one/channel/UC0vn8ISa4LKMunLbzaXLnOQ.m3u8
 #EXTINF:-1 tvg-name="Joy News" group-title="News",Joy News
@@ -1527,12 +1501,8 @@ https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8
 https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
 #EXTINF:-1 tvg-name="XITE Classic Country [Geo-blocked]" group-title="Music",XITE Classic Country [Geo-blocked]
 https://pb-wgi5ljoabjgdm.akamaized.net/XITE_Countrys_Finest.m3u8
-#EXTINF:-1 tvg-name="XITE Just Chill" group-title="Music",XITE Just Chill
-https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
 #EXTINF:-1 tvg-name="XITE Nuevo Latino" group-title="Music",XITE Nuevo Latino
 https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
-#EXTINF:-1 tvg-name="XITE Reggae Vibes" group-title="Music",XITE Reggae Vibes
-https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
 #EXTINF:-1 tvg-name="XITE Rock x Metal" group-title="Music",XITE Rock x Metal
 https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
 #EXTINF:-1 tvg-name="XITE Siempre Latino" group-title="Music",XITE Siempre Latino
@@ -1545,8 +1515,6 @@ https://fl1002.bozztv.com/gf-zarintv/index.m3u8
 https://live.zoomnews.info/live/Zoom_playlist.m3u8
 #EXTINF:-1 tvg-name="3sat [Geo-blocked]" group-title="General",3sat [Geo-blocked]
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
-#EXTINF:-1 tvg-name="Allgäu TV" group-title="General",Allgäu TV
-https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Altenburg TV" group-title="General",Altenburg TV
 https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8
 #EXTINF:-1 tvg-name="Augsburg TV" group-title="General",Augsburg TV
@@ -1559,16 +1527,8 @@ https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8
 https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="Das Erste" group-title="General",Das Erste
 https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="DASDING 90.8" group-title="Music",DASDING 90.8
-https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
 #EXTINF:-1 tvg-name="Deluxe Lounge" group-title="Music",Deluxe Lounge
 https://jmp2.uk/stvp-CHAJ0500413A
-#EXTINF:-1 tvg-name="DMF" group-title="Music",DMF
-https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
-#EXTINF:-1 tvg-name="ems TV Lingen" group-title="General",ems TV Lingen
-https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Erz-TV Stollberg (576p)" group-title="General",Erz-TV Stollberg (576p)
-https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Filstalwelle" group-title="General",Filstalwelle
 https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Finest TV (288p)" group-title="Music",Finest TV (288p)
@@ -1583,8 +1543,6 @@ https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
 https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="KulturMD" group-title="Culture",KulturMD
 http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
-#EXTINF:-1 tvg-name="L-TV" group-title="General",L-TV
-https://live2.telvi.de/hls/l-tv_s1.m3u8
 #EXTINF:-1 tvg-name="Lausitzwelle" group-title="Music",Lausitzwelle
 https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
 #EXTINF:-1 tvg-name="Magenta Musik 360" group-title="Music",Magenta Musik 360
@@ -1597,8 +1555,6 @@ https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
 https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8
 #EXTINF:-1 tvg-name="MDR Fernsehen Thüringen [Geo-blocked]" group-title="General",MDR Fernsehen Thüringen [Geo-blocked]
 https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8
-#EXTINF:-1 tvg-name="München TV" group-title="General",München TV
-https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="n-tv [Geo-Blocked]" group-title="General",n-tv [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8
 #EXTINF:-1 tvg-name="Nachrichten 360 [Geo-blocked]" group-title="News",Nachrichten 360 [Geo-blocked]
@@ -1611,34 +1567,18 @@ https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/i
 https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8
 #EXTINF:-1 tvg-name="Niederbayern TV Passau" group-title="General",Niederbayern TV Passau
 https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8
-#EXTINF:-1 tvg-name="Noa 4 Hamburg" group-title="General",Noa 4 Hamburg
-https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
 #EXTINF:-1 tvg-name="Noa 4 Norderstedt" group-title="General",Noa 4 Norderstedt
 https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-#EXTINF:-1 tvg-name="Oberpfalz TV" group-title="General",Oberpfalz TV
-https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="OF-TV Offenbach" group-title="General",OF-TV Offenbach
 https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
-#EXTINF:-1 tvg-name="OK4 [Geo-blocked]" group-title="General",OK4 [Geo-blocked]
-https://s.ok54.de/abr_ok4/live/playlist.m3u8
 #EXTINF:-1 tvg-name="OK54 [Geo-blocked]" group-title="General",OK54 [Geo-blocked]
 https://s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="OK Dessau" group-title="General",OK Dessau
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Flensburg (576p)" group-title="General",OK Flensburg (576p)
-https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
-#EXTINF:-1 tvg-name="OK Kaiserslautern [Geo-blocked]" group-title="General",OK Kaiserslautern [Geo-blocked]
-https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Kassel [Geo-blocked]" group-title="General",OK Kassel [Geo-blocked]
-https://s.ok54.de/mok-ks/kassel/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Kiel (576p)" group-title="General",OK Kiel (576p)
-https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
 #EXTINF:-1 tvg-name="OK Magdeburg" group-title="General",OK Magdeburg
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
 #EXTINF:-1 tvg-name="OK Merseburg-Querfurt" group-title="General",OK Merseburg-Querfurt
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Rhein-Main (576p) [Geo-blocked]" group-title="General",OK Rhein-Main (576p) [Geo-blocked]
-https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
 #EXTINF:-1 tvg-name="OK Salzwedel" group-title="General",OK Salzwedel
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
 #EXTINF:-1 tvg-name="OK Stendal" group-title="General",OK Stendal
@@ -1649,8 +1589,6 @@ https://s.ok54.de/ott/webstream/playlist.m3u8
 https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
 #EXTINF:-1 tvg-name="OK Wernigerode" group-title="General",OK Wernigerode
 http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
-#EXTINF:-1 tvg-name="OK-TV Ludwigshafen [Geo-blocked]" group-title="General",OK-TV Ludwigshafen [Geo-blocked]
-https://s.ok54.de/oklu/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="ONE1 Music" group-title="Music",ONE1 Music
 https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8
 #EXTINF:-1 tvg-name="One Adria" group-title="Music",One Adria
@@ -1669,36 +1607,12 @@ https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Stimmungsgarten TV" group-title="General",Stimmungsgarten TV
 https://live20.bozztv.com/akamaissh101/ssh101/stimmungsgarten/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Oberfranken (TVO)" group-title="General",TV Oberfranken (TVO)
-https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="Volksmusik TV" group-title="Music",Volksmusik TV
 https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
 #EXTINF:-1 tvg-name="WDR Fernsehen [Geo-Blocked]" group-title="General",WDR Fernsehen [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-HLS8/wdrhd.m3u8
-#EXTINF:-1 tvg-name="WDR Fernsehen Aachen [Geo-blocked]" group-title="General",WDR Fernsehen Aachen [Geo-blocked]
-https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
-#EXTINF:-1 tvg-name="WDR Fernsehen Bielefeld [Geo-blocked]" group-title="General",WDR Fernsehen Bielefeld [Geo-blocked]
-https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
-#EXTINF:-1 tvg-name="WDR Fernsehen Bonn [Geo-blocked]" group-title="General",WDR Fernsehen Bonn [Geo-blocked]
-https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
-#EXTINF:-1 tvg-name="WDR Fernsehen Dortmund [Geo-blocked]" group-title="General",WDR Fernsehen Dortmund [Geo-blocked]
-https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
-#EXTINF:-1 tvg-name="WDR Fernsehen Duisburg [Geo-blocked]" group-title="General",WDR Fernsehen Duisburg [Geo-blocked]
-https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8
-#EXTINF:-1 tvg-name="WDR Fernsehen Düsseldorf [Geo-blocked]" group-title="General",WDR Fernsehen Düsseldorf [Geo-blocked]
-https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
-#EXTINF:-1 tvg-name="WDR Fernsehen Essen [Geo-blocked]" group-title="General",WDR Fernsehen Essen [Geo-blocked]
-https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8
-#EXTINF:-1 tvg-name="WDR Fernsehen Münster [Geo-blocked]" group-title="General",WDR Fernsehen Münster [Geo-blocked]
-https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
-#EXTINF:-1 tvg-name="WDR Fernsehen Siegen [Geo-blocked]" group-title="General",WDR Fernsehen Siegen [Geo-blocked]
-https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
-#EXTINF:-1 tvg-name="WDR Fernsehen Wuppertal [Geo-blocked]" group-title="General",WDR Fernsehen Wuppertal [Geo-blocked]
-https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
 #EXTINF:-1 tvg-name="WELT [Geo-Blocked]" group-title="News",WELT [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
-#EXTINF:-1 tvg-name="XITE Hits Germany" group-title="Music",XITE Hits Germany
-https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
 #EXTINF:-1 tvg-name="ZWEI2 Music" group-title="Music",ZWEI2 Music
 https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8
 #EXTINF:-1 tvg-name="20 Minutes TV" group-title="General",20 Minutes TV
@@ -1867,8 +1781,6 @@ https://streaming101tv.es:19360/cadiz/cadiz.m3u8
 https://liveingesta318.cdnmedia.tv/101weblive/smil:sevilla.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="À Punt" group-title="General;Public",À Punt
 http://92.176.119.180:2095/play/a17d
-#EXTINF:-1 tvg-name="Activa TV" group-title="Music",Activa TV
-https://streamtv.mediasector.es/hls/activatv/index.m3u8
 #EXTINF:-1 tvg-name="Actualidad 360 [Geo-blocked]" group-title="News",Actualidad 360 [Geo-blocked]
 https://amg01821-lovetv-amg01821c27-lg-es-6726.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-lges/playlist.m3u8
 #EXTINF:-1 tvg-name="Alacantí TV (576p)" group-title="General",Alacantí TV (576p)
@@ -3863,8 +3775,6 @@ https://juicex.nz/hls/mystream.m3u8
 https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky News Extra 1 (540p)" group-title="News",Sky News Extra 1 (540p)
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 tvg-name="Sky News Extra 2 (540p)" group-title="News",Sky News Extra 2 (540p)
-https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 #EXTINF:-1 tvg-name="Sky News Extra 3" group-title="News",Sky News Extra 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 tvg-name="TVNZ 1 [Geo-blocked]" group-title="General",TVNZ 1 [Geo-blocked]
@@ -3945,8 +3855,6 @@ https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8
 #EXTINF:-1 tvg-name="Al Arabiya English" group-title="News",Al Arabiya English
 https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
-#EXTINF:-1 tvg-name="AlbUK TV" group-title="General",AlbUK TV
-http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Music",AMusic Channel" group-title="Music",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Music",AMusic Channel
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/LVP8DMYRYH6F6Y5UUO8J/hls3/now,-1m/m.m3u8?ads.vf=McCy6HuluFe
 #EXTINF:-1 tvg-name="ANC" group-title="News",ANC
@@ -4189,14 +4097,10 @@ https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/8424fb7f-99a9-87a
 https://streamer2.nexgen.bz/13-HITZ/index.m3u8
 #EXTINF:-1 tvg-name="HLC TV (480p)" group-title="General",HLC TV (480p)
 https://goliveafrica.media:9998/live/627d06e001aaf/index.m3u8
-#EXTINF:-1 tvg-name="Hype Visual Radio" group-title="Music",Hype Visual Radio
-https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
 #EXTINF:-1 tvg-name="I24 News English" group-title="News",I24 News English
 https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 tvg-name="Ignite Television" group-title="General",Ignite Television
 https://rpn.bozztv.com/ignitelive/ignitetv/ignitetv/playlist.m3u8
-#EXTINF:-1 tvg-name="Iran Press" group-title="News",Iran Press
-https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:-1 tvg-name="ITV1" group-title="General",ITV1
 http://80.194.62.172:50002/stream/channelid/95929545
 #EXTINF:-1 tvg-name="ITV2" group-title="General",ITV2
@@ -4823,8 +4727,6 @@ https://vs20.live.opencaster.com/duacavision_092f3447/index.m3u8
 https://live.fansplay.tv/livestreams/21.GdPGZIRcwzZ9vgE5.m3u8
 #EXTINF:-1 tvg-name="Durán TV (480p)" group-title="General",Durán TV (480p)
 https://cloudvideo.servers10.com:8081/8074/index.m3u8
-#EXTINF:-1 tvg-name="DW Espanol" group-title="News",DW Espanol
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-name="E40" group-title="Music",E40
 https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-name="ECO Television" group-title="General",ECO Television
@@ -5805,12 +5707,8 @@ http://stream.fs1.tv:8080/hls/webstream.m3u8
 https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd
 #EXTINF:-1 tvg-name="Kanal 9 auf Deutsch" group-title="General",Kanal 9 auf Deutsch
 https://edge21.vedge.infomaniak.com/livecast/ik:livesd2/manifest.m3u8
-#EXTINF:-1 tvg-name="Kronehit" group-title="Music",Kronehit
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-name="Ländle TV" group-title="General",Ländle TV
 https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
-#EXTINF:-1 tvg-name="Okto TV" group-title="General",Okto TV
-https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-name="ORF 2" group-title="General",ORF 2
 https://dash4.antik.sk/live/test_orf_zwei_tizen/playlist.m3u8
 #EXTINF:-1 tvg-name="ORF 2 Tirol [Geo-Blocked]" group-title="General",ORF 2 Tirol [Geo-Blocked]
@@ -6699,8 +6597,6 @@ https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 #EXTINF:-1 tvg-name="Barbud Music" group-title="Music",Barbud Music
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolomusic.m3u8
-#EXTINF:-1 tvg-name="BE@TTV" group-title="Entertainment;Music",BE@TTV
-https://tv.beatfm.nl/live.m3u8
 #EXTINF:-1 tvg-name="BIZ Music" group-title="Music",BIZ Music
 https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8
 #EXTINF:-1 tvg-name="Bravo! TV" group-title="Music",Bravo! TV
@@ -6713,8 +6609,6 @@ https://busuioctv.iforward.eu/hls/busuioc.m3u8
 https://mini.allinonereborn.fun/tata.php?id=11588
 #EXTINF:-1 tvg-name="D Music (1280p)" group-title="Music",D Music (1280p)
 http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8
-#EXTINF:-1 tvg-name="DeepHouse District" group-title="Music",DeepHouse District
-https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1 tvg-name="DM Sat (576p) [Geo-Blocked]" group-title="Music",DM Sat (576p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-dash/dmsat.mpd
 #EXTINF:-1 tvg-name="DSTV (614p)" group-title="Music",DSTV (614p)
@@ -6725,8 +6619,6 @@ https://rtmp.win:3603/live/ellinikosfmlive.m3u8
 https://ythls.armelin.one/channel/UCXxTnMoETkhNTmsqZc0JMhQ.m3u8
 #EXTINF:-1 tvg-name="Extra TV" group-title="Music",Extra TV
 https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
-#EXTINF:-1 tvg-name="FomixTV" group-title="General;Music;Public",FomixTV
-https://stream.fomixmedia.nl/FomixTV/video.m3u8
 #EXTINF:-1 tvg-name="FTV (576p)" group-title="Music",FTV (576p)
 https://stream8.cinerama.uz/1018/playlist.m3u8
 #EXTINF:-1 tvg-name="GEM 24B" group-title="Music",GEM 24B
@@ -6735,8 +6627,6 @@ https://ca-rt.onetv.app/gem24b/index-0.m3u8?token=onetv202
 https://ca-rt.onetv.app/gemmifa/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-name="GEM Mifa Plus" group-title="Music",GEM Mifa Plus
 https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-name="Gigant FM" group-title="Music",Gigant FM
-https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8
 #EXTINF:-1 tvg-name="GugakTV 국악방송" group-title="Music",GugakTV 국악방송
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="H!T Music Channel (480p)" group-title="Music",H!T Music Channel (480p)
@@ -6809,16 +6699,12 @@ https://pmcrohls.wns.live/hls/stream.m3u8
 https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDczNDU2NjEsInBhdGgiOiIvbGl2ZS9lZHMvUFdSX0xUVV9MaXZlL0dPM19MSVZFX0hMUy8iLCJzaXAiOiI3Mi4xMS4xNTcuMTEyIiwiZGV2aWNlX2lkIjoiMCIsInNlc3Npb25faWQiOiIwIiwiY2xpZW50X2lkIjoiMCJ9.oHc5wUgwNPQ-4P7wJy_WvWQh0muFg9Lprhc4STS3cUHi0FI4tAKGdZOOeE-dOhVBHKFUYETmoXSMrrVHOeLC3g
 #EXTINF:-1 tvg-name="Q-Music (Belgium)" group-title="Music",Q-Music (Belgium)
 https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8
-#EXTINF:-1 tvg-name="Qmusic" group-title="Music",Qmusic
-https://stream.qmusic.nl/qmusic/videohls.m3u8
 #EXTINF:-1 tvg-name="Radio Hit FM TV" group-title="Music",Radio Hit FM TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
 #EXTINF:-1 tvg-name="Radio Italia Trend" group-title="Music",Radio Italia Trend
 https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-name="Radio Javan TV" group-title="Music",Radio Javan TV
 https://rjtvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Radio JND" group-title="Music",Radio JND
-https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Karolina TV" group-title="Music",Radio Karolina TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
 #EXTINF:-1 tvg-name="Radio Lola" group-title="Music",Radio Lola
@@ -6835,8 +6721,6 @@ https://fr.crystalweb.net:1936/redmusic/redmusic/playlist.m3u8
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-name="RTL Gold" group-title="Music",RTL Gold
 https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
-#EXTINF:-1 tvg-name="Salto Brasa Music" group-title="Music",Salto Brasa Music
-https://salto-streams.nl/hls/sotv1.m3u8
 #EXTINF:-1 tvg-name="Sky Folk TV" group-title="Music",Sky Folk TV
 https://eu.live.skyfolk.mk/live.m3u8
 #EXTINF:-1 tvg-name="Slager Muzika" group-title="Music",Slager Muzika
@@ -6889,8 +6773,6 @@ https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6
 https://vs20.live.opencaster.com/wavezfm1075aruba_37766c9d/index.m3u8
 #EXTINF:-1 tvg-name="XITE" group-title="Music",XITE
 https://xite-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="ZFM Zoetermeer" group-title="Music",ZFM Zoetermeer
-https://zfmzoetermeer.nl/live/master.m3u8
 #EXTINF:-1 tvg-name="ZU TV" group-title="Music",ZU TV
 https://hls.rundletv.eu.org/LIVE$RadioZU/6.m3u8/Level/300720051?end=END&start=LIVE
 #EXTINF:-1 tvg-name="like Gecko) Chrome/81.0.4044.138 Safari/537.36" group-title="Culture;Documentary",HRT 3" group-title="Culture;Documentary",like Gecko) Chrome/81.0.4044.138 Safari/537.36" group-title="Culture;Documentary",HRT 3
@@ -7965,6 +7847,8 @@ https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b6
 https://2-fss-2.streamhoster.com/pl_138/206532-6829872-1/playlist.m3u8
 #EXTINF:-1 tvg-name="RNN DOS" group-title="News",RNN DOS
 https://2-fss-2.streamhoster.com/pl_138/206532-6829912-1/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN International" group-title="News",CNN International
+http://stream-server.com:8080/live/username/password/12346.ts</code></pre> </div> <p>Every IPTV player — whether it's IPTV Smarters Pro, TiviMate, XCIPTV, VLC, or Smart IPTV — can read M3U files. It's the universal format for IPTV channel lists.</p> <!-- M3U vs Xtream Codes --> <h2 class="text-2xl font-bold text-white !mt-12 !mb-6">M3U Playlist vs. Xtream Codes API: What's the Difference?</h2> <p>When you subscribe to an IPTV service, you'll typically receive your credentials in one of two formats:</p> <div class="grid grid-cols-1 sm:grid-cols-2 gap-5 !my-8"> <div class="glass-card rounded-xl p-6"> <h4 class="text-lg font-semibold text-accent mb-3">M3U Playlist URL</h4> <p class="text-base text-text-muted mb-3">A single URL that points to your full channel list. You paste it directly into your IPTV app.</p> <div class="bg-black/40 rounded-lg p-3 text-xs text-text-dim overflow-x-auto"> <code>http://server.com:8080/get.php?username=USER&password=PASS&type=m3u_plus</code> </div> <ul class="list-disc pl-5 space-y-1 text-sm text-text-muted mt-3"> <li>Works with every IPTV player</li> <li>Simple to set up</li> <li>No EPG integration by default</li> </ul> </div> <div class="glass-card rounded-xl p-6"> <h4 class="text-lg font-semibold text-accent mb-3">Xtream Codes API</h4> <p class="text-base text-text-muted mb-3">Server URL + username + password. The app connects directly to the IPTV server for a richer experience.</p> <div class="bg-black/40 rounded-lg p-3 text-xs text-text-dim overflow-x-auto"> <code>Server: http://server.com:8080<br>User: your_username<br>Pass: your_password</code> </div> <ul class="list-disc pl-5 space-y-1 text-sm text-text-muted mt-3"> <li>Built-in EPG (TV guide)</li> <li>Organized categories</li> <li>Catch-up TV support</li> </ul> </div> </div> <p><strong>Which should you use?</strong> If your IPTV app supports Xtream Codes (most do), use that — it provides a better experience with EPG and organized channel categories. If not, the <strong>M3U playlist URL</strong> works universally.</p> <!-- How to use M3U playlists --> <h2 class="text-3xl font-bold text-white !mt-14 !mb-6">How to Use M3U Playlists in IPTV Apps</h2> <p>Once you have your <strong>M3U URL</strong> or M3U file, here's how to load it into the most popular IPTV players.</p> <!-- TiviMate --> <h3 class="text-xl font-semibold text-white !mt-10 !mb-4">TiviMate — Best M3U Player for Fire Stick</h3> <p>TiviMate is widely considered the best IPTV player for <a href="/iptv/test-iptv-fire-stick/" class="text-accent hover:text-accent-hover transition underline">Amazon Fire Stick</a> and Android TV. Here's how to add a <strong>TiviMate playlist M3U</strong>:</p> <div class="space-y-3 !my-6"> <div class="flex items-start gap-4 glass-card rounded-xl p-5"> <div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">1</div> <p class="text-text-muted leading-relaxed">Open TiviMate and go to <strong class="text-white">Settings → Playlists</strong>.</p> </div> <div class="flex items-start gap-4 glass-card rounded-xl p-5"> <div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">2</div> <p class="text-text-muted leading-relaxed">Select <strong class="text-white">Add Playlist</strong> and choose <strong class="text-white">M3U Playlist</strong> or <strong class="text-white">Xtream Codes</strong>.</p> </div> <div class="flex items-start gap-4 glass-card rounded-xl p-5"> <div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">3</div> <p class="text-text-muted leading-relaxed">Paste your <strong class="text-white">TiviMate playlist URL</strong> (M3U URL from your IPTV provider).</p> </div> <div class="flex items-start gap-4 glass-card rounded-xl p-5"> <div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">4</div> <p class="text-text-muted leading-relaxed">Wait for channels to load. Add an EPG URL if your provider gave you one separately.</p> </div> <div class="flex items-start gap-4 glass-card rounded-xl p-5"> <div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">5</div> <p class="text-text-muted leading-relaxed">Done. Browse channels by category and start streaming.</p> </div> </div> <!-- IPTV Smarters Pro --> <h3 class="text-xl font-semibold text-white !mt-10 !mb-4">IPTV Smarters Pro — Load M3U Playlist</h3> <p>IPTV Smarters Pro supports both M3U and Xtream Codes. To load an <strong>IPTV M3U playlist</strong>:</p> <div class="space-y-3 !my-6"> <div class="flex items-start gap-4 glass-card rounded-xl p-5"> <div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">1</div> <p class="text-text-muted leading-relaxed">Open IPTV Smarters Pro and select <strong class="text-white">Add User → Load Your Playlist or File/URL</strong>.</p> </div> <div class="flex items-start gap-4 glass-card rounded-xl p-5"> <div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">2</div> <p class="text-text-muted leading-relaxed">Choose <strong class="text-white">M3U URL</strong> and paste your playlist URL.</p> </div> <div class="flex items-start gap-4 glass-card rounded-xl p-5"> <div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">3</div> <p class="text-text-muted leading-relaxed">Give it a name (e.g., "My IPTV") and tap <strong class="text-white">Add User</strong>.</p> </div> <div class="flex items-start gap-4 glass-card rounded-xl p-5"> <div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">4</div> <p class="text-text-muted leading-relaxed">Channels load automatically. Navigate via Live TV, Movies, or Series sections.</p> </div> </div> <!-- VLC --> <h3 class="text-xl font-semibold text-white !mt-10 !mb-4">VLC Media Player — Open M3U Files on PC or Mac</h3> <p>VLC is a free, open-source media player that can play <strong>M3U files</strong> directly on your computer.</p> <div class="space-y-3 !my-6"> <div class="flex items-start gap-4 glass-card rounded-xl p-5"> <div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">1</div> <p class="text-text-muted leading-relaxed">Download and install <a href="https://www.videolan.org/" class="text-accent hover:text-accent-hover transition underline" target="_blank" rel="noopener noreferrer">VLC Media Player</a>.</p> </div> <div class="flex items-start gap-4 glass-card rounded-xl p-5"> <div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">2</div> <p class="text-text-muted leading-relaxed">Go to <strong class="text-white">Media → Open Network Stream</strong>.</p> </div> <div class="flex items-start gap-4 glass-card rounded-xl p-5"> <div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">3</div> <p class="text-text-muted leading-relaxed">Paste your <strong class="text-white">M3U playlist URL</strong> and click Play.</p> </div> <div class="flex items-start gap-4 glass-card rounded-xl p-5"> <div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">4</div> <p class="text-text-muted leading-relaxed">Or drag a downloaded <code class="bg-white/10 px-2 py-0.5 rounded text-sm">.m3u</code> file directly into VLC.</p> </div> </div> <!-- Free vs Paid M3U --> <h2 class="text-3xl font-bold text-white !mt-14 !mb-6">Free M3U Playlists vs. Paid IPTV Subscriptions</h2> <p>There are two ways to get IPTV playlists: free public lists scattered around the internet, or paid subscriptions from IPTV providers.</p> <p>Here's the honest comparison:</p> <div class="grid grid-cols-1 sm:grid-cols-2 gap-5 !my-8"> <div class="glass-card rounded-xl p-6"> <h4 class="text-lg font-semibold text-red-400 mb-3">Free M3U Playlists</h4> <ul class="list-disc pl-5 space-y-2 text-base text-text-muted"> <li>Channels go offline constantly</li> <li>No EPG or TV guide</li> <li>Low quality — many are SD or 480p</li> <li>No support or reliability</li> <li>Often outdated within hours or days</li> <li>Security risks from unknown sources</li> <li>No catch-up TV or VOD</li> </ul> </div> <div class="glass-card rounded-xl p-6 border border-accent/20"> <h4 class="text-lg font-semibold text-green mb-3">Paid IPTV Subscription</h4> <ul class="list-disc pl-5 space-y-2 text-base text-text-muted"> <li>20,000+ stable, working channels</li> <li>Full EPG with program guide</li> <li>HD, FHD, and 4K quality</li> <li>24/7 customer support</li> <li>Regular updates and new channels</li> <li>Dedicated servers with anti-buffering</li> <li>VOD library + catch-up TV</li> </ul> </div> </div> <p>Free <strong>public IPTV playlists</strong> might sound appealing, but in practice they're unreliable. Channels break within hours, streams buffer constantly, and there's no support when things stop working.</p> <p>If you're serious about IPTV, a paid subscription with a <a href="/free-trial/" class="text-accent hover:text-accent-hover transition underline">free trial</a> is always the better long-term choice.</p> <!-- Where people find M3U playlists --> <h2 class="text-3xl font-bold text-white !mt-14 !mb-6">Where Do People Find Free IPTV M3U Playlists?</h2> <p>People searching for <strong>free M3U playlists</strong>, <strong>free IPTV M3U playlist HD channels download</strong>, or <strong>public IPTV playlists</strong> typically find them on:</p> <div class="space-y-3 !my-6"> <div class="glass-card rounded-xl p-5"> <strong class="text-white">GitHub Repositories</strong> — <span class="text-text-muted">Developers maintain public M3U lists on GitHub. These are the most commonly shared free IPTV lists, but channels frequently go offline.</span> </div> <div class="glass-card rounded-xl p-5"> <strong class="text-white">Reddit Communities</strong> — <span class="text-text-muted">Subreddits dedicated to IPTV sometimes share M3U links and playlist URLs. Quality varies wildly.</span> </div> <div class="glass-card rounded-xl p-5"> <strong class="text-white">IPTV Forums & Telegram Groups</strong> — <span class="text-text-muted">Community-driven groups share IPTV links, but many are unreliable or even malicious.</span> </div> <div class="glass-card rounded-xl p-5"> <strong class="text-white">Dedicated Websites</strong> — <span class="text-text-muted">Some websites curate and update <strong>free M3U lists</strong>. These tend to have the shortest lifespan as streams get taken down regularly.</span> </div> </div> <div class="glass-card rounded-xl p-6 border-l-4 border-l-yellow-400 !my-8"> <h4 class="text-lg font-semibold text-yellow-400 mb-2">Important Warning</h4> <p class="text-base text-text-muted">Free IPTV playlists from unknown sources can contain malicious URLs, tracking scripts, or redirect to harmful content. Always use a VPN, avoid downloading executable files, and never enter personal information on unknown sites. For a safe, reliable experience, use a trusted <a href="/iptv/" class="text-accent hover:text-accent-hover transition underline">IPTV provider</a> with proper support.</p> </div> <!-- IPTV Global Channels --> <h2 class="text-2xl font-bold text-white !mt-12 !mb-6">IPTV Global Channels Playlist — What's Available?</h2> <p>One of the biggest draws of IPTV is access to <strong>global channels</strong>. A quality <strong>IPTV global channels playlist</strong> typically includes:</p> <div class="grid grid-cols-2 sm:grid-cols-3 gap-3 !my-6"> <div class="glass-card rounded-xl p-4 text-center"> <span class="text-2xl block mb-1">🇺🇸</span> <span class="text-sm font-semibold text-white">USA</span> <span class="text-xs text-text-dim block">ABC, CBS, NBC, ESPN, Fox</span> </div> <div class="glass-card rounded-xl p-4 text-center"> <span class="text-2xl block mb-1">🇬🇧</span> <span class="text-sm font-semibold text-white">UK</span> <span class="text-xs text-text-dim block">BBC, ITV, Sky Sports</span> </div> <div class="glass-card rounded-xl p-4 text-center"> <span class="text-2xl block mb-1">🇨🇦</span> <span class="text-sm font-semibold text-white">Canada</span> <span class="text-xs text-text-dim block">TSN, CBC, Sportsnet</span> </div> <div class="glass-card rounded-xl p-4 text-center"> <span class="text-2xl block mb-1">🇫🇷</span> <span class="text-sm font-semibold text-white">France</span> <span class="text-xs text-text-dim block">TF1, Canal+, beIN</span> </div> <div class="glass-card rounded-xl p-4 text-center"> <span class="text-2xl block mb-1">🇩🇪</span> <span class="text-sm font-semibold text-white">Germany</span> <span class="text-xs text-text-dim block">ARD, ZDF, Sky DE</span> </div> <div class="glass-card rounded-xl p-4 text-center"> <span class="text-2xl block mb-1">🇧🇷</span> <span class="text-sm font-semibold text-white">Brazil</span> <span class="text-xs text-text-dim block">Globo, SporTV, Band</span> </div> <div class="glass-card rounded-xl p-4 text-center"> <span class="text-2xl block mb-1">🇮🇳</span> <span class="text-sm font-semibold text-white">India</span> <span class="text-xs text-text-dim block">Star, Zee, Sony</span> </div> <div class="glass-card rounded-xl p-4 text-center"> <span class="text-2xl block mb-1">🇸🇦</span> <span class="text-sm font-semibold text-white">Arabic</span> <span class="text-xs text-text-dim block">MBC, Al Jazeera, OSN</span> </div> <div class="glass-card rounded-xl p-4 text-center"> <span class="text-2xl block mb-1">🌍</span> <span class="text-sm font-semibold text-white">100+ Countries</span> <span class="text-xs text-text-dim block">Latino, Asian, African</span> </div> </div> <p>A <strong>paid IPTV subscription</strong> includes all of these in a single, organized playlist — with EPG, channel logos, and category grouping. Free M3U lists might have some of these channels, but they'll be scattered, poorly labeled, and frequently broken.</p> <!-- Live Sports M3U --> <h2 class="text-2xl font-bold text-white !mt-12 !mb-6">Live Sports M3U Playlists</h2> <p>People searching for <strong>live sports M3U</strong> playlists want access to channels like ESPN, Fox Sports, beIN Sports, Sky Sports, and PPV events.</p> <p>Free sports M3U playlists are the most unreliable type — they go down during peak demand (exactly when you need them most). During major events like the Super Bowl, NBA Finals, or UFC cards, free streams buffer, crash, or get taken offline.</p> <p>For reliable live sports streaming, a paid IPTV service is the only consistent option. Most <a href="/iptv/" class="text-accent hover:text-accent-hover transition underline">top IPTV providers</a> include every major sports network worldwide, plus PPV events, in their standard channel package.</p> <!-- Best M3U playlist --> <h2 class="text-2xl font-bold text-white !mt-12 !mb-6">What Makes the Best M3U Playlist?</h2> <p>Whether you're using a free or paid <strong>IPTV list</strong>, here's what separates a good M3U playlist from a bad one:</p> <div class="space-y-4 !my-6"> <div class="glass-card rounded-xl p-5"> <strong class="text-accent">Channel Organization</strong> — <span class="text-text-muted">Channels should be grouped by country, category (Sports, News, Entertainment, Movies), and quality (HD, FHD, 4K).</span> </div> <div class="glass-card rounded-xl p-5"> <strong class="text-accent">Working Stream URLs</strong> — <span class="text-text-muted">Every channel link should actually load. Dead links are the #1 problem with free M3U playlists.</span> </div> <div class="glass-card rounded-xl p-5"> <strong class="text-accent">EPG Support</strong> — <span class="text-text-muted">The playlist should include <code class="bg-white/10 px-2 py-0.5 rounded text-sm">tvg-id</code> tags so your IPTV player can match channels to an Electronic Program Guide.</span> </div> <div class="glass-card rounded-xl p-5"> <strong class="text-accent">Channel Logos</strong> — <span class="text-text-muted">Proper <code class="bg-white/10 px-2 py-0.5 rounded text-sm">tvg-logo</code> URLs make navigation easier in apps like TiviMate and Smarters Pro.</span> </div> <div class="glass-card rounded-xl p-5"> <strong class="text-accent">Regular Updates</strong> — <span class="text-text-muted">Stream URLs change. The best M3U playlists are updated regularly to replace dead links.</span> </div> </div> <!-- Free M3U playlist for TiviMate --> <h2 class="text-2xl font-bold text-white !mt-12 !mb-6">Free M3U Playlist for TiviMate — Does It Work?</h2> <p>Yes, you can load a <strong>free M3U playlist for TiviMate</strong> — but don't expect it to work like a paid subscription.</p> <p>TiviMate accepts any valid M3U URL. The problem isn't the player — it's the playlist quality. Free playlists typically have:</p> <ul class="list-disc pl-5 space-y-2 text-base"> <li>50–80% dead channels on any given day</li> <li>No EPG data (blank program guide)</li> <li>Constant buffering on HD streams</li> <li>Channels disappearing without warning</li> </ul> <p class="!mt-4">If you want TiviMate to actually work well, pair it with a proper IPTV subscription. Most providers give you both M3U and Xtream Codes credentials — use Xtream Codes in TiviMate for the best experience.</p> <!-- M3U download --> <h2 class="text-2xl font-bold text-white !mt-12 !mb-6">M3U Download vs. M3U URL — Which to Use?</h2> <p>You can use M3U playlists in two ways:</p> <div class="grid grid-cols-1 sm:grid-cols-2 gap-5 !my-6"> <div class="glass-card rounded-xl p-5"> <h4 class="text-lg font-semibold text-white mb-2">M3U URL (Recommended)</h4> <p class="text-sm text-text-muted">Paste the URL directly into your IPTV app. The playlist updates automatically from the server — no manual downloads needed.</p> </div> <div class="glass-card rounded-xl p-5"> <h4 class="text-lg font-semibold text-white mb-2">M3U File Download</h4> <p class="text-sm text-text-muted">Download the <code class="bg-white/10 px-1 py-0.5 rounded text-xs">.m3u</code> file to your device and load it locally. This doesn't auto-update — you'll need to re-download when channels change.</p> </div> </div> <p>For IPTV, always prefer the <strong>M3U playlist URL</strong> method. It keeps your channel list current without manual intervention.</p> <!-- 10000 M3U playlist --> <h2 class="text-2xl font-bold text-white !mt-12 !mb-6">Can You Really Get a 10,000+ Channel M3U Playlist?</h2> <p>People search for things like <strong>10000 M3U playlist</strong> hoping to find a massive free channel list. Here's the reality:</p> <p>Yes, playlists with 10,000+ channels exist — but almost exclusively through <strong>paid IPTV subscriptions</strong>. These providers operate dedicated servers that can handle thousands of concurrent streams in HD and 4K quality.</p> <p>Free M3U lists claiming 10,000+ channels typically have:</p> <ul class="list-disc pl-5 space-y-1 text-base"> <li>Thousands of duplicate entries</li> <li>Channels labeled incorrectly</li> <li>90%+ dead or non-working streams</li> <li>Mixed languages with no organization</li> </ul> <p class="!mt-4">A legitimate IPTV provider offers 20,000+ <em>working</em> channels — properly organized, with EPG, logos, and reliable streams.</p> <!-- FAQ --> <h2 class="text-3xl font-bold text-white !mt-14 !mb-6">M3U Playlist FAQ</h2> <div class="space-y-3"> <details class="glass-card rounded-xl group"> <summary class="cursor-pointer p-5 flex items-center justify-between text-white font-semibold text-sm hover:text-accent transition">
 #EXTINF:-1 tvg-name="Russia-1 +4" group-title="General",Russia-1 +4
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-name="Russia-1 +5" group-title="General",Russia-1 +5
@@ -8113,8 +7997,6 @@ http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/16020/index.m3u8
 https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8
 #EXTINF:-1 tvg-name="Ost West" group-title="Culture;News",Ost West
 http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/14021/index.m3u8
-#EXTINF:-1 tvg-name="WDR Fernsehen" group-title="General",WDR Fernsehen
-https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="WELT (576p)" group-title="News",WELT (576p)
 https://s6.hopslan.com/n24X/index.m3u8
 #EXTINF:-1 tvg-name="Franceinfo" group-title="News",Franceinfo
@@ -9647,6 +9529,8 @@ http://178.134.1.158:8081/5channel/index.m3u8
 https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 7 Talanga Vision" group-title="General",Canal 7 Talanga Vision
 https://amixtv.com:8081/talangavision/index.m3u8
+#EXTINF:-1 tvg-name="DW Espanol" group-title="News",DW Espanol
+http://177.234.249.178:8888/DW/index.m3u8
 #EXTINF:-1 tvg-name="Estacion Radio TV" group-title="General",Estacion Radio TV
 https://stmv7.voxtvhd.com.br/radiovida/radiovida/playlist.m3u8
 #EXTINF:-1 tvg-name="Las Estrellas Latin America" group-title="General",Las Estrellas Latin America

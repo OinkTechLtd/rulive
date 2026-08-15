@@ -1,7 +1,7 @@
 #EXTM3U
-# Обновлено: 2026-08-15 19:21:00
-# Всего каналов: 22099
-# Новых за сессию: 1
+# Обновлено: 2026-08-15 19:25:41
+# Всего каналов: 22301
+# Новых за сессию: 202
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
@@ -11,7 +11,7 @@ https://secure-272717.tatnet.app/stream.tvrain.tv/live/tvrain.m3u8
 #EXTINF:-1 tvg-name="Дождь (резервный)" group-title="News",Дождь (резервный) ⭐
 https://secure-272717.tatnet.app/stream.tvrain.tv/hls/tvrain_live.m3u8
 
-#EXTINF:-1 tvg-name="Дождь [Geo-blocked]" group-title="Undefined",Дождь [Geo-blocked]
+#EXTINF:-1 tvg-name="TV Rain" group-title="IPTV",TV Rain
 https://secure-272717.tatnet.app/wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 
 #EXTINF:-1 tvg-name="A2 CNN Albania" group-title="IPTV",A2 CNN Albania
@@ -191,13 +191,13 @@ https://secure-272717.tatnet.app/live2.tvg.ge/eng/EURONEWSGEORGIA/playlist.m3u8
 #EXTINF:-1 tvg-name="ARTE [Geo-blocked]" group-title="Entertainment",ARTE [Geo-blocked]
 https://secure-272717.tatnet.app/artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 
-#EXTINF:-1 tvg-name="Deluxe Music" group-title="Music",Deluxe Music
+#EXTINF:-1 tvg-name="DELUXE MUSIC" group-title="Musik",DELUXE MUSIC
 https://secure-272717.tatnet.app/sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
-#EXTINF:-1 tvg-name="Deluxe Dance" group-title="Music",Deluxe Dance
+#EXTINF:-1 tvg-name="DELUXE MUSIC DANCE" group-title="Musik",DELUXE MUSIC DANCE
 https://secure-272717.tatnet.app/sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 
-#EXTINF:-1 tvg-name="Deluxe Rap" group-title="Music",Deluxe Rap
+#EXTINF:-1 tvg-name="DELUXE MUSIC RAP" group-title="Musik",DELUXE MUSIC RAP
 https://secure-272717.tatnet.app/sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 
 #EXTINF:-1 tvg-name="Euronews Deutsch Ⓨ" group-title="Germany",Euronews Deutsch Ⓨ
@@ -416,7 +416,7 @@ https://secure-272717.tatnet.app/dc3.telesveva.com:4433/news24.mp4
 #EXTINF:-1 tvg-name="Partenope Tv" group-title="Italy",Partenope Tv
 https://secure-272717.tatnet.app/diretta.arcapuglia.it:8080/live/partenope/index.m3u8
 
-#EXTINF:-1 tvg-name="m2o TV" group-title="Music",m2o TV
+#EXTINF:-1 tvg-name="m2o Tv" group-title="International;Musik",m2o Tv
 https://secure-272717.tatnet.app/4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Radio Piter Pan Tv" group-title="Italy",Radio Piter Pan Tv
@@ -488,7 +488,7 @@ https://secure-272717.tatnet.app/live-edge.rtl.lu/channel2/smil:channel2/playlis
 #EXTINF:-1 tvg-name="TDM Sport" group-title="Macau",TDM Sport
 https://secure-272717.tatnet.app/live4.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 
-#EXTINF:-1 tvg-name="KCTV" group-title="North Korea",KCTV
+#EXTINF:-1 tvg-name="NKNews" group-title="International;Nachrichten",NKNews
 https://secure-272717.tatnet.app/tv.nknews.org/tvdash/stream.mpd
 
 #EXTINF:-1 tvg-name="Телевизија Здравкин" group-title="North Macedonia",Телевизија Здравкин
@@ -905,7 +905,7 @@ https://secure-272717.tatnet.app/www.youtube.com/c/CNBC/live
 #EXTINF:-1 tvg-name="Bloomberg" group-title="USA",Bloomberg
 https://secure-272717.tatnet.app/bloomberg.com/media-manifest/streams/us.m3u8
 
-#EXTINF:-1 tvg-name="ABC News" group-title="USA",ABC News
+#EXTINF:-1 tvg-name="ABC News" group-title="International;Nachrichten",ABC News
 https://secure-272717.tatnet.app/content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 tvg-name="CBS News" group-title="USA",CBS News
@@ -962,7 +962,7 @@ https://secure-272717.tatnet.app/www.youtube.com/africanews/live
 #EXTINF:-1 tvg-name="France 24 Ⓨ" group-title="News",France 24 Ⓨ
 https://secure-272717.tatnet.app/www.youtube.com/france24english/live
 
-#EXTINF:-1 tvg-name="DW" group-title="News",DW
+#EXTINF:-1 tvg-name="Deutsche Welle (EN)" group-title="Regional",Deutsche Welle (EN)
 https://secure-272717.tatnet.app/dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-name="CGTN" group-title="News",CGTN
@@ -1019,7 +1019,7 @@ https://secure-272717.tatnet.app/rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-name="CNN" group-title="News",CNN
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8
 
-#EXTINF:-1 tvg-name="CNN International" group-title="News",CNN International
+#EXTINF:-1 tvg-name="CNN International" group-title="International;Nachrichten",CNN International
 https://secure-272717.tatnet.app/turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-name="GB News" group-title="News",GB News
@@ -8891,7 +8891,7 @@ https://secure-272717.tatnet.app/bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="In the kitchen" group-title="Cooking;Shop",In the kitchen
 https://secure-272717.tatnet.app/qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
 
-#EXTINF:-1 tvg-name="INFAST" group-title="Lifestyle",INFAST
+#EXTINF:-1 tvg-name="INFAST" group-title="IPTV",INFAST
 https://secure-272717.tatnet.app/amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-name="InfoWars Network" group-title="News",InfoWars Network
@@ -11138,13 +11138,13 @@ https://secure-272717.tatnet.app/d284aawtm5vi48.cloudfront.net/v1/master/3722c60
 #EXTINF:-1 tvg-name="XITE Classic Country [Geo-blocked]" group-title="Music",XITE Classic Country [Geo-blocked]
 https://secure-272717.tatnet.app/pb-wgi5ljoabjgdm.akamaized.net/XITE_Countrys_Finest.m3u8
 
-#EXTINF:-1 tvg-name="XITE Just Chill" group-title="Music",XITE Just Chill
+#EXTINF:-1 tvg-name="XITE Just Chill" group-title="IPTV",XITE Just Chill
 https://secure-272717.tatnet.app/dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
 
 #EXTINF:-1 tvg-name="XITE Nuevo Latino" group-title="Music",XITE Nuevo Latino
 https://secure-272717.tatnet.app/d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
 
-#EXTINF:-1 tvg-name="XITE Reggae Vibes" group-title="Music",XITE Reggae Vibes
+#EXTINF:-1 tvg-name="XITE Reggae Vibes" group-title="IPTV",XITE Reggae Vibes
 https://secure-272717.tatnet.app/dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
 
 #EXTINF:-1 tvg-name="XITE Rock x Metal" group-title="Music",XITE Rock x Metal
@@ -11189,7 +11189,7 @@ https://secure-272717.tatnet.app/fl1002.bozztv.com/gf-zarintv/index.m3u8
 #EXTINF:-1 tvg-name="Zoom TV Kurdish" group-title="News",Zoom TV Kurdish
 https://secure-272717.tatnet.app/live.zoomnews.info/live/Zoom_playlist.m3u8
 
-#EXTINF:-1 tvg-name="1-2-3 TV (270p)" group-title="Shop",1-2-3 TV (270p)
+#EXTINF:-1 tvg-name="1-2-3.tv" group-title="Teleshopping",1-2-3.tv
 https://secure-272717.tatnet.app/123tv-mx1.flex-cdn.net/index.m3u8
 
 #EXTINF:-1 tvg-name="3sat [Geo-blocked]" group-title="General",3sat [Geo-blocked]
@@ -11204,7 +11204,7 @@ https://secure-272717.tatnet.app/a57e9c69976649b582a8d7604c00e69a.mediatailor.us
 #EXTINF:-1 tvg-name="Alex Berlin" group-title="Undefined",Alex Berlin
 https://secure-272717.tatnet.app/alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8
 
-#EXTINF:-1 tvg-name="Allgäu TV" group-title="General",Allgäu TV
+#EXTINF:-1 tvg-name="allgäu.tv" group-title="Lokal",allgäu.tv
 https://secure-272717.tatnet.app/stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Altenburg TV" group-title="General",Altenburg TV
@@ -11216,7 +11216,7 @@ https://secure-272717.tatnet.app/cdn6.goprimetime.info/feed/202306140918/LC18/in
 #EXTINF:-1 tvg-name="Anixe + (360p)" group-title="Entertainment",Anixe + (360p)
 https://secure-272717.tatnet.app/ma.anixa.tv/clips/stream/anixesd/index.m3u8
 
-#EXTINF:-1 tvg-name="Anixe Serie (360p)" group-title="Entertainment",Anixe Serie (360p)
+#EXTINF:-1 tvg-name="ANIXE" group-title="Spartenprogramm",ANIXE
 https://secure-272717.tatnet.app/ma.anixa.tv/clips/stream/anixehd/index.m3u8
 
 #EXTINF:-1 tvg-name="ARD-alpha (576p) [Geo-Blocked]" group-title="Education",ARD-alpha (576p) [Geo-Blocked]
@@ -11273,7 +11273,7 @@ https://secure-272717.tatnet.app/jmp2.uk/plu-60afbad343e3840007164348.m3u8
 #EXTINF:-1 tvg-name="Cheers" group-title="Comedy",Cheers
 https://secure-272717.tatnet.app/jmp2.uk/plu-611e7f224676bf00076a4d8d.m3u8
 
-#EXTINF:-1 tvg-name="Chemnitz Fernsehen" group-title="Undefined",Chemnitz Fernsehen
+#EXTINF:-1 tvg-name="Chemnitz Fernsehen" group-title="Lokal",Chemnitz Fernsehen
 https://secure-272717.tatnet.app/chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Cira TV" group-title="Undefined",Cira TV
@@ -11291,7 +11291,7 @@ https://secure-272717.tatnet.app/s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Das Erste" group-title="General",Das Erste
 https://secure-272717.tatnet.app/daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 
-#EXTINF:-1 tvg-name="DASDING 90.8" group-title="Music",DASDING 90.8
+#EXTINF:-1 tvg-name="DASDING-VisualRadio" group-title="Musik",DASDING-VisualRadio
 https://secure-272717.tatnet.app/swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
 
 #EXTINF:-1 tvg-name="Die Neue Zeit (576p)" group-title="Religious",Die Neue Zeit (576p)
@@ -11300,22 +11300,22 @@ https://secure-272717.tatnet.app/bild-und-ton.stream/die-neue-zeit-tv-live/smil:
 #EXTINF:-1 tvg-name="Disney Channel (576p) [Geo-Blocked]" group-title="Kids",Disney Channel (576p) [Geo-Blocked]
 https://secure-272717.tatnet.app/viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
 
-#EXTINF:-1 tvg-name="DMF" group-title="Music",DMF
+#EXTINF:-1 tvg-name="Deutsches Musik Fernsehen" group-title="Musik",Deutsches Musik Fernsehen
 https://secure-272717.tatnet.app/d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Dokusat" group-title="Documentary",Dokusat
+#EXTINF:-1 tvg-name="Dokusat" group-title="Spartenprogramm",Dokusat
 https://secure-272717.tatnet.app/muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Dresden Fernsehen" group-title="Undefined",Dresden Fernsehen
+#EXTINF:-1 tvg-name="Dresden Fernsehen" group-title="Lokal",Dresden Fernsehen
 https://secure-272717.tatnet.app/dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="EchtJetzt TV" group-title="Religious",EchtJetzt TV
 https://secure-272717.tatnet.app/bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ems TV Lingen" group-title="General",ems TV Lingen
+#EXTINF:-1 tvg-name="Ems TV" group-title="Lokal",Ems TV
 https://secure-272717.tatnet.app/h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Erz-TV Stollberg (576p)" group-title="General",Erz-TV Stollberg (576p)
+#EXTINF:-1 tvg-name="KabelJournal" group-title="Lokal",KabelJournal
 https://secure-272717.tatnet.app/5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="EuroAl TV" group-title="Undefined",EuroAl TV
@@ -11399,7 +11399,7 @@ https://secure-272717.tatnet.app/viamotionhsi.netplus.ch/live/eds/kikahd/browser
 #EXTINF:-1 tvg-name="KulturMD" group-title="Culture",KulturMD
 https://secure-272717.tatnet.app/58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
 
-#EXTINF:-1 tvg-name="L-TV" group-title="General",L-TV
+#EXTINF:-1 tvg-name="L-TV" group-title="Lokal",L-TV
 https://secure-272717.tatnet.app/live2.telvi.de/hls/l-tv_s1.m3u8
 
 #EXTINF:-1 tvg-name="labor14" group-title="Undefined",labor14
@@ -11408,7 +11408,7 @@ https://secure-272717.tatnet.app/5acade5fc0c29.streamlock.net/OKGera/tmbz_live_h
 #EXTINF:-1 tvg-name="Lausitzwelle" group-title="Music",Lausitzwelle
 https://secure-272717.tatnet.app/h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
 
-#EXTINF:-1 tvg-name="Leipzig Fernsehen" group-title="Undefined",Leipzig Fernsehen
+#EXTINF:-1 tvg-name="Leipzig Fernsehen" group-title="Lokal",Leipzig Fernsehen
 https://secure-272717.tatnet.app/leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Light Channel (576p)" group-title="Religious",Light Channel (576p)
@@ -11435,7 +11435,7 @@ https://secure-272717.tatnet.app/mdrtvsahls.akamaized.net/hls/live/2016879/mdrtv
 #EXTINF:-1 tvg-name="MDR Fernsehen Thüringen [Geo-blocked]" group-title="General",MDR Fernsehen Thüringen [Geo-blocked]
 https://secure-272717.tatnet.app/mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8
 
-#EXTINF:-1 tvg-name="More Than Sports TV" group-title="Sports",More Than Sports TV
+#EXTINF:-1 tvg-name="More than Sports TV" group-title="Sport",More than Sports TV
 https://secure-272717.tatnet.app/mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Motorvision.tv (French)" group-title="Auto",Motorvision.tv (French)
@@ -11462,7 +11462,7 @@ https://secure-272717.tatnet.app/jmp2.uk/plu-5cffcf5686dfe15595fb3f56.m3u8
 #EXTINF:-1 tvg-name="MTV The Shores" group-title="Entertainment",MTV The Shores
 https://secure-272717.tatnet.app/jmp2.uk/plu-5caf32c2a5068259a32320fc.m3u8
 
-#EXTINF:-1 tvg-name="München TV" group-title="General",München TV
+#EXTINF:-1 tvg-name="münchen.tv" group-title="Lokal",münchen.tv
 https://secure-272717.tatnet.app/muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="N24 Doku" group-title="Documentary",N24 Doku
@@ -11477,7 +11477,7 @@ https://secure-272717.tatnet.app/cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lo
 #EXTINF:-1 tvg-name="Naruto" group-title="Animation",Naruto
 https://secure-272717.tatnet.app/jmp2.uk/plu-65d5fc39a25d5e00082895c4.m3u8
 
-#EXTINF:-1 tvg-name="Nick Germany [Geo-blocked]" group-title="Kids",Nick Germany [Geo-blocked]
+#EXTINF:-1 tvg-name="Nickelodeon" group-title="Kinder / Jugend",Nickelodeon
 https://secure-272717.tatnet.app/0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
 
 #EXTINF:-1 tvg-name="Nick/Comedy Central +1 [Geo-Blocked]" group-title="Comedy;Kids",Nick/Comedy Central +1 [Geo-Blocked]
@@ -11498,7 +11498,7 @@ https://secure-272717.tatnet.app/stream03.welocal.stream/stream/fhd-nbypassau_49
 #EXTINF:-1 tvg-name="Nitro [Geo-Blocked]" group-title="Entertainment",Nitro [Geo-Blocked]
 https://secure-272717.tatnet.app/viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
 
-#EXTINF:-1 tvg-name="Noa 4 Hamburg" group-title="General",Noa 4 Hamburg
+#EXTINF:-1 tvg-name="noa4 Hamburg" group-title="Lokal",noa4 Hamburg
 https://secure-272717.tatnet.app/hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
 
 #EXTINF:-1 tvg-name="Noa 4 Norderstedt" group-title="General",Noa 4 Norderstedt
@@ -11507,13 +11507,13 @@ https://secure-272717.tatnet.app/hls1.wtnet.de/noa4/apple/wifi6500.m3u8
 #EXTINF:-1 tvg-name="NRWision" group-title="Education",NRWision
 https://secure-272717.tatnet.app/fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Oberpfalz TV" group-title="General",Oberpfalz TV
+#EXTINF:-1 tvg-name="Oberpfalz TV" group-title="Lokal",Oberpfalz TV
 https://secure-272717.tatnet.app/oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="OF-TV Offenbach" group-title="General",OF-TV Offenbach
 https://secure-272717.tatnet.app/5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
 
-#EXTINF:-1 tvg-name="OK4 [Geo-blocked]" group-title="General",OK4 [Geo-blocked]
+#EXTINF:-1 tvg-name="OK4 (Adenau Andernach Koblenz Neuwied)" group-title="Lokal",OK4 (Adenau Andernach Koblenz Neuwied)
 https://secure-272717.tatnet.app/s.ok54.de/abr_ok4/live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="OK54 [Geo-blocked]" group-title="General",OK54 [Geo-blocked]
@@ -11522,16 +11522,16 @@ https://secure-272717.tatnet.app/s.ok54.de/ott/webstream/tv/webstream_720p/playl
 #EXTINF:-1 tvg-name="OK Dessau" group-title="General",OK Dessau
 https://secure-272717.tatnet.app/58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
 
-#EXTINF:-1 tvg-name="OK Flensburg (576p)" group-title="General",OK Flensburg (576p)
+#EXTINF:-1 tvg-name="OK Flensburg" group-title="Lokal",OK Flensburg
 https://secure-272717.tatnet.app/live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
 
-#EXTINF:-1 tvg-name="OK Kaiserslautern [Geo-blocked]" group-title="General",OK Kaiserslautern [Geo-blocked]
+#EXTINF:-1 tvg-name="OK Kaiserslautern" group-title="Lokal",OK Kaiserslautern
 https://secure-272717.tatnet.app/s.ok54.de/abr_okkl/webstream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="OK Kassel [Geo-blocked]" group-title="General",OK Kassel [Geo-blocked]
+#EXTINF:-1 tvg-name="OK Kassel" group-title="Lokal",OK Kassel
 https://secure-272717.tatnet.app/s.ok54.de/mok-ks/kassel/playlist.m3u8
 
-#EXTINF:-1 tvg-name="OK Kiel (576p)" group-title="General",OK Kiel (576p)
+#EXTINF:-1 tvg-name="OK Kiel" group-title="Lokal",OK Kiel
 https://secure-272717.tatnet.app/live-cdn.oksh.de/play/hls/kieltv/index.m3u8
 
 #EXTINF:-1 tvg-name="OK Magdeburg" group-title="General",OK Magdeburg
@@ -11540,7 +11540,7 @@ https://secure-272717.tatnet.app/58bd5b7a98e04.streamlock.net/medienasa-live/ok-
 #EXTINF:-1 tvg-name="OK Merseburg-Querfurt" group-title="General",OK Merseburg-Querfurt
 https://secure-272717.tatnet.app/58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
 
-#EXTINF:-1 tvg-name="OK Rhein-Main (576p) [Geo-blocked]" group-title="General",OK Rhein-Main (576p) [Geo-blocked]
+#EXTINF:-1 tvg-name="OK Rhein-Main (Offenbach Frankfurt)" group-title="Lokal",OK Rhein-Main (Offenbach Frankfurt)
 https://secure-272717.tatnet.app/s.ok54.de/mok-rm/mok-rm/playlist.m3u8
 
 #EXTINF:-1 tvg-name="OK Salzwedel" group-title="General",OK Salzwedel
@@ -11558,7 +11558,7 @@ https://secure-272717.tatnet.app/s.ok54.de/okweinstrasse/okweinstrasse/playlist.
 #EXTINF:-1 tvg-name="OK Wernigerode" group-title="General",OK Wernigerode
 https://secure-272717.tatnet.app/58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
 
-#EXTINF:-1 tvg-name="OK-TV Ludwigshafen [Geo-blocked]" group-title="General",OK-TV Ludwigshafen [Geo-blocked]
+#EXTINF:-1 tvg-name="OK Ludwigshafen" group-title="Lokal",OK Ludwigshafen
 https://secure-272717.tatnet.app/s.ok54.de/oklu/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ONE1 Music" group-title="Music",ONE1 Music
@@ -11573,13 +11573,13 @@ https://secure-272717.tatnet.app/viamotionhsi.netplus.ch/live/eds/onehd/browser-
 #EXTINF:-1 tvg-name="Parlamentsfernsehen 1" group-title="Legislative",Parlamentsfernsehen 1
 https://secure-272717.tatnet.app/cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
 
-#EXTINF:-1 tvg-name="Parlamentsfernsehen 2" group-title="Legislative",Parlamentsfernsehen 2
+#EXTINF:-1 tvg-name="Parlamentsfernsehen 2" group-title="Extra;Information / Bildung",Parlamentsfernsehen 2
 https://secure-272717.tatnet.app/bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Parlamentsfernsehen 3" group-title="Legislative",Parlamentsfernsehen 3
+#EXTINF:-1 tvg-name="Parlamentsfernsehen 3" group-title="Extra;Information / Bildung",Parlamentsfernsehen 3
 https://secure-272717.tatnet.app/bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Parlamentsfernsehen 4" group-title="Legislative",Parlamentsfernsehen 4
+#EXTINF:-1 tvg-name="Parlamentsfernsehen 4" group-title="Extra;Information / Bildung",Parlamentsfernsehen 4
 https://secure-272717.tatnet.app/bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="phoenix [Geo-Blocked]" group-title="Undefined",phoenix [Geo-Blocked]
@@ -11642,7 +11642,7 @@ https://secure-272717.tatnet.app/58bd5b7a98e04.streamlock.net/medienasa-live/pun
 #EXTINF:-1 tvg-name="QVC 2 Germany (540p)" group-title="Shop",QVC 2 Germany (540p)
 https://secure-272717.tatnet.app/qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
 
-#EXTINF:-1 tvg-name="QVC Germany" group-title="Shop",QVC Germany
+#EXTINF:-1 tvg-name="QVC" group-title="Teleshopping",QVC
 https://secure-272717.tatnet.app/qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
 
 #EXTINF:-1 tvg-name="QVC Style Germany (540p)" group-title="Shop",QVC Style Germany (540p)
@@ -11684,16 +11684,16 @@ https://secure-272717.tatnet.app/58bd5b7a98e04.streamlock.net/medienasa-live/rbw
 #EXTINF:-1 tvg-name="Red Bull TV DE" group-title="Outdoor;Sports",Red Bull TV DE
 https://secure-272717.tatnet.app/46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Regio TV Bodensee" group-title="Undefined",Regio TV Bodensee
+#EXTINF:-1 tvg-name="Regio TV Bodensee" group-title="Lokal",Regio TV Bodensee
 https://secure-272717.tatnet.app/regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Regio TV Schwaben" group-title="Undefined",Regio TV Schwaben
+#EXTINF:-1 tvg-name="Regio TV Schwaben" group-title="Lokal",Regio TV Schwaben
 https://secure-272717.tatnet.app/stream05.welocal.stream/stream/fhd-regiotv_182913/ngrp:stream_all/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Regio TV Stuttgart" group-title="Undefined",Regio TV Stuttgart
+#EXTINF:-1 tvg-name="Regio TV Stuttgart" group-title="Lokal",Regio TV Stuttgart
 https://secure-272717.tatnet.app/regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Rennsteig TV" group-title="Undefined",Rennsteig TV
+#EXTINF:-1 tvg-name="Rennsteig.tv" group-title="Regional",Rennsteig.tv
 https://secure-272717.tatnet.app/wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-name="RFH" group-title="General",RFH
@@ -11705,7 +11705,7 @@ https://secure-272717.tatnet.app/stream01.stream.welocal.world/stream/fhd-rfo_66
 #EXTINF:-1 tvg-name="RiC" group-title="Family;Kids",RiC
 https://secure-272717.tatnet.app/rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RNF" group-title="Undefined",RNF
+#EXTINF:-1 tvg-name="Rhein Neckar Fernsehen" group-title="Lokal",Rhein Neckar Fernsehen
 https://secure-272717.tatnet.app/rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Rock Antenne" group-title="Undefined",Rock Antenne
@@ -11756,7 +11756,7 @@ https://secure-272717.tatnet.app/bild-und-ton.stream/snj-de/snj-de.smil/.m3u8
 #EXTINF:-1 tvg-name="sixx" group-title="Undefined",sixx
 https://secure-272717.tatnet.app/dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Sonnenklar TV" group-title="Undefined",Sonnenklar TV
+#EXTINF:-1 tvg-name="SonnenklarTV" group-title="Teleshopping",SonnenklarTV
 https://secure-272717.tatnet.app/euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
 
 #EXTINF:-1 tvg-name="Sonus FM TV" group-title="Undefined",Sonus FM TV
@@ -11795,7 +11795,7 @@ https://secure-272717.tatnet.app/h057.video-stream-hosting.de/studio47-live/_def
 #EXTINF:-1 tvg-name="Super RTL" group-title="Undefined",Super RTL
 https://secure-272717.tatnet.app/forsizero.github.io/iptv/m3u/superrtlhd.m3u
 
-#EXTINF:-1 tvg-name="SWR 3 Visual Radio" group-title="Undefined",SWR 3 Visual Radio
+#EXTINF:-1 tvg-name="SWR3-VisualRadio" group-title="Musik",SWR3-VisualRadio
 https://secure-272717.tatnet.app/swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
 
 #EXTINF:-1 tvg-name="SWR Fernsehen Baden-Wurttemberg [Geo-Blocked]" group-title="Undefined",SWR Fernsehen Baden-Wurttemberg [Geo-Blocked]
@@ -11807,7 +11807,7 @@ https://secure-272717.tatnet.app/jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
 #EXTINF:-1 tvg-name="Tastemade" group-title="Cooking",Tastemade
 https://secure-272717.tatnet.app/rakutenaa-tm-germany-rakuten-ger-8jboz.amagi.tv/playlist/rakutenAA-tm-germany-rakuten-ger/playlist.m3u8
 
-#EXTINF:-1 tvg-name="teltOwkanal" group-title="Undefined",teltOwkanal
+#EXTINF:-1 tvg-name="teltOwkanal" group-title="Lokal",teltOwkanal
 https://secure-272717.tatnet.app/h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Terra Mater WILD" group-title="Documentary",Terra Mater WILD
@@ -11825,16 +11825,16 @@ https://secure-272717.tatnet.app/jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8
 #EXTINF:-1 tvg-name="TV38 Südost-Niedersachen" group-title="Undefined",TV38 Südost-Niedersachen
 https://secure-272717.tatnet.app/h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref=
 
-#EXTINF:-1 tvg-name="TV Ingolstadt" group-title="Undefined",TV Ingolstadt
+#EXTINF:-1 tvg-name="tv.ingolstadt" group-title="Lokal",tv.ingolstadt
 https://secure-272717.tatnet.app/stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TV Mainfranken" group-title="Undefined",TV Mainfranken
+#EXTINF:-1 tvg-name="TV Würzburg" group-title="Lokal",TV Würzburg
 https://secure-272717.tatnet.app/tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TV Oberfranken (TVO)" group-title="General",TV Oberfranken (TVO)
+#EXTINF:-1 tvg-name="TVO" group-title="Lokal",TVO
 https://secure-272717.tatnet.app/tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TVA" group-title="Undefined",TVA
+#EXTINF:-1 tvg-name="TVA" group-title="Lokal",TVA
 https://secure-272717.tatnet.app/tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Unserding [Geo-blocked]" group-title="Undefined",Unserding [Geo-blocked]
@@ -11849,40 +11849,40 @@ https://secure-272717.tatnet.app/vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.
 #EXTINF:-1 tvg-name="WDR Fernsehen [Geo-Blocked]" group-title="General",WDR Fernsehen [Geo-Blocked]
 https://secure-272717.tatnet.app/viamotionhsi.netplus.ch/live/eds/wdrhd/browser-HLS8/wdrhd.m3u8
 
-#EXTINF:-1 tvg-name="WDR Fernsehen Aachen [Geo-blocked]" group-title="General",WDR Fernsehen Aachen [Geo-blocked]
+#EXTINF:-1 tvg-name="WDR Aachen" group-title="Regional",WDR Aachen
 https://secure-272717.tatnet.app/wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
 
-#EXTINF:-1 tvg-name="WDR Fernsehen Bielefeld [Geo-blocked]" group-title="General",WDR Fernsehen Bielefeld [Geo-blocked]
+#EXTINF:-1 tvg-name="WDR Ostwestfalen" group-title="Regional",WDR Ostwestfalen
 https://secure-272717.tatnet.app/wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
 
-#EXTINF:-1 tvg-name="WDR Fernsehen Bonn [Geo-blocked]" group-title="General",WDR Fernsehen Bonn [Geo-blocked]
+#EXTINF:-1 tvg-name="WDR Bonn" group-title="Regional",WDR Bonn
 https://secure-272717.tatnet.app/wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
 
-#EXTINF:-1 tvg-name="WDR Fernsehen Dortmund [Geo-blocked]" group-title="General",WDR Fernsehen Dortmund [Geo-blocked]
+#EXTINF:-1 tvg-name="WDR Dortmund" group-title="Regional",WDR Dortmund
 https://secure-272717.tatnet.app/wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
 
-#EXTINF:-1 tvg-name="WDR Fernsehen Duisburg [Geo-blocked]" group-title="General",WDR Fernsehen Duisburg [Geo-blocked]
+#EXTINF:-1 tvg-name="WDR Duisburg" group-title="Regional",WDR Duisburg
 https://secure-272717.tatnet.app/wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8
 
-#EXTINF:-1 tvg-name="WDR Fernsehen Düsseldorf [Geo-blocked]" group-title="General",WDR Fernsehen Düsseldorf [Geo-blocked]
+#EXTINF:-1 tvg-name="WDR Düsseldorf" group-title="Regional",WDR Düsseldorf
 https://secure-272717.tatnet.app/wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
 
-#EXTINF:-1 tvg-name="WDR Fernsehen Essen [Geo-blocked]" group-title="General",WDR Fernsehen Essen [Geo-blocked]
+#EXTINF:-1 tvg-name="WDR Ruhr" group-title="Regional",WDR Ruhr
 https://secure-272717.tatnet.app/wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8
 
-#EXTINF:-1 tvg-name="WDR Fernsehen Münster [Geo-blocked]" group-title="General",WDR Fernsehen Münster [Geo-blocked]
+#EXTINF:-1 tvg-name="WDR Münsterland" group-title="Regional",WDR Münsterland
 https://secure-272717.tatnet.app/wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
 
-#EXTINF:-1 tvg-name="WDR Fernsehen Siegen [Geo-blocked]" group-title="General",WDR Fernsehen Siegen [Geo-blocked]
+#EXTINF:-1 tvg-name="WDR Südwestfalen" group-title="Regional",WDR Südwestfalen
 https://secure-272717.tatnet.app/wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
 
-#EXTINF:-1 tvg-name="WDR Fernsehen Wuppertal [Geo-blocked]" group-title="General",WDR Fernsehen Wuppertal [Geo-blocked]
+#EXTINF:-1 tvg-name="WDR Bergisches Land" group-title="Regional",WDR Bergisches Land
 https://secure-272717.tatnet.app/wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
 
 #EXTINF:-1 tvg-name="WELT [Geo-Blocked]" group-title="News",WELT [Geo-Blocked]
 https://secure-272717.tatnet.app/viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
 
-#EXTINF:-1 tvg-name="Welt der Wunder TV (576p)" group-title="Undefined",Welt der Wunder TV (576p)
+#EXTINF:-1 tvg-name="Welt der Wunder" group-title="Spartenprogramm",Welt der Wunder
 https://secure-272717.tatnet.app/wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="World of Freesports" group-title="Sports",World of Freesports
@@ -11891,7 +11891,7 @@ https://secure-272717.tatnet.app/mainstreammedia-worldoffreesportsintl-rakuten.a
 #EXTINF:-1 tvg-name="World Poker Tour" group-title="Sports",World Poker Tour
 https://secure-272717.tatnet.app/jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8
 
-#EXTINF:-1 tvg-name="XITE Hits Germany" group-title="Music",XITE Hits Germany
+#EXTINF:-1 tvg-name="XITE Hits" group-title="IPTV",XITE Hits
 https://secure-272717.tatnet.app/d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
 
 #EXTINF:-1 tvg-name="ZDF [Geo-blocked]" group-title="Undefined",ZDF [Geo-blocked]
@@ -12395,7 +12395,7 @@ https://secure-272717.tatnet.app/streaming101tv.es:19360/cadiz/cadiz.m3u8
 #EXTINF:-1 tvg-name="101tv Sevilla" group-title="General",101tv Sevilla
 https://secure-272717.tatnet.app/liveingesta318.cdnmedia.tv/101weblive/smil:sevilla.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Activa TV" group-title="Music",Activa TV
+#EXTINF:-1 tvg-name="Activa TV" group-title="International;Musik",Activa TV
 https://secure-272717.tatnet.app/streamtv.mediasector.es/hls/activatv/index.m3u8
 
 #EXTINF:-1 tvg-name="Actualidad 360 [Geo-blocked]" group-title="News",Actualidad 360 [Geo-blocked]
@@ -14879,7 +14879,7 @@ https://secure-272717.tatnet.app/mumt01.tangotv.in/INH24X7/index.m3u8
 #EXTINF:-1 tvg-name="Insync (576p)" group-title="Music",Insync (576p)
 https://secure-272717.tatnet.app/mumt04.tangotv.in/INSYNC/index.m3u8
 
-#EXTINF:-1 tvg-name="InWonder" group-title="Science",InWonder
+#EXTINF:-1 tvg-name="InWonder" group-title="IPTV",InWonder
 https://secure-272717.tatnet.app/amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Isai Aruvi (576p)" group-title="Music",Isai Aruvi (576p)
@@ -18833,7 +18833,7 @@ https://secure-272717.tatnet.app/broadcaster-1.cclouds.in/srt-4/channel4_abr/pla
 #EXTINF:-1 tvg-name="Sky News Extra 1 (540p)" group-title="News",Sky News Extra 1 (540p)
 https://secure-272717.tatnet.app/skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 
-#EXTINF:-1 tvg-name="Sky News Extra 2 (540p)" group-title="News",Sky News Extra 2 (540p)
+#EXTINF:-1 tvg-name="Sky News Extra" group-title="International;Nachrichten",Sky News Extra
 https://secure-272717.tatnet.app/skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 
 #EXTINF:-1 tvg-name="Sky News Extra 3" group-title="News",Sky News Extra 3
@@ -19100,7 +19100,7 @@ https://secure-272717.tatnet.app/cdn.live.easybroadcast.io/abr_corp/66_al24_u4yg
 #EXTINF:-1 tvg-name="Al Arabiya English" group-title="News",Al Arabiya English
 https://secure-272717.tatnet.app/live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-name="AlbUK TV" group-title="General",AlbUK TV
+#EXTINF:-1 tvg-name="ALBUK TV" group-title="International",ALBUK TV
 https://secure-272717.tatnet.app/albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Alpha Digital (480p)" group-title="Religious",Alpha Digital (480p)
@@ -20009,7 +20009,7 @@ https://secure-272717.tatnet.app/hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 tvg-name="Hunter" group-title="Series",Hunter
 https://secure-272717.tatnet.app/jmp2.uk/plu-5c99f5810c95814ff92512f9.m3u8
 
-#EXTINF:-1 tvg-name="Hype Visual Radio" group-title="Music",Hype Visual Radio
+#EXTINF:-1 tvg-name="Hype Visual Radio" group-title="IPTV",Hype Visual Radio
 https://secure-272717.tatnet.app/streammix.alsolnet.com/hyperadio/live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="I24 News English" group-title="News",I24 News English
@@ -20042,7 +20042,7 @@ https://secure-272717.tatnet.app/aenetworks-insidecrime-rakuten.amagi.tv/playlis
 #EXTINF:-1 tvg-name="Inspector Gadget" group-title="Series",Inspector Gadget
 https://secure-272717.tatnet.app/jmp2.uk/plu-5d765786aad587cf4d0e2bf6.m3u8
 
-#EXTINF:-1 tvg-name="InTravel" group-title="Travel",InTravel
+#EXTINF:-1 tvg-name="INTRAVEL" group-title="IPTV",INTRAVEL
 https://secure-272717.tatnet.app/amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="INTROUBLE" group-title="Auto;Outdoor;Sports",INTROUBLE
@@ -20054,7 +20054,7 @@ https://secure-272717.tatnet.app/playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdc
 #EXTINF:-1 tvg-name="Iqraa Quran" group-title="Religious",Iqraa Quran
 https://secure-272717.tatnet.app/playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Iran Press" group-title="News",Iran Press
+#EXTINF:-1 tvg-name="Press TV" group-title="International;Nachrichten",Press TV
 https://secure-272717.tatnet.app/live.presstv.ir/hls/presstv_5_482/index.m3u8
 
 #EXTINF:-1 tvg-name="Isaac TV" group-title="Religious",Isaac TV
@@ -20684,7 +20684,7 @@ https://secure-272717.tatnet.app/viewmedia7219.bozztv.com/wmedia/viewmedia100/we
 #EXTINF:-1 tvg-name="Red Bull TV" group-title="Outdoor;Sports",Red Bull TV
 https://secure-272717.tatnet.app/3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Red Bull TV" group-title="Outdoor;Sports",Red Bull TV
+#EXTINF:-1 tvg-name="Red Bull TV" group-title="International;Sport",Red Bull TV
 https://secure-272717.tatnet.app/rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 tvg-name="Red Bull TV AU" group-title="Outdoor;Sports",Red Bull TV AU
@@ -22040,7 +22040,7 @@ https://secure-272717.tatnet.app/live.fansplay.tv/livestreams/21.GdPGZIRcwzZ9vgE
 #EXTINF:-1 tvg-name="Durán TV (480p)" group-title="General",Durán TV (480p)
 https://secure-272717.tatnet.app/cloudvideo.servers10.com:8081/8074/index.m3u8
 
-#EXTINF:-1 tvg-name="DW Espanol" group-title="News",DW Espanol
+#EXTINF:-1 tvg-name="Deutsche Welle (ES)" group-title="International;Nachrichten",Deutsche Welle (ES)
 https://secure-272717.tatnet.app/dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 
 #EXTINF:-1 tvg-name="E40" group-title="Music",E40
@@ -24368,7 +24368,7 @@ https://secure-272717.tatnet.app/edge21.vedge.infomaniak.com/livecast/ik:livesd2
 #EXTINF:-1 tvg-name="KIT-TV" group-title="Religious",KIT-TV
 https://secure-272717.tatnet.app/everest.pa-hosting.de:3591/live/joseflive.m3u8
 
-#EXTINF:-1 tvg-name="Kronehit" group-title="Music",Kronehit
+#EXTINF:-1 tvg-name="Kronehit TV" group-title="International;Musik",Kronehit TV
 https://secure-272717.tatnet.app/bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ländle TV" group-title="General",Ländle TV
@@ -24377,7 +24377,7 @@ https://secure-272717.tatnet.app/streaming13.huberwebmedia.at/LiveApp/streams/98
 #EXTINF:-1 tvg-name="Meteonews" group-title="Weather",Meteonews
 https://secure-272717.tatnet.app/streaming.meteonews.net/hls/stream.m3u8
 
-#EXTINF:-1 tvg-name="Okto TV" group-title="General",Okto TV
+#EXTINF:-1 tvg-name="Okto" group-title="International;Spartenprogramm",Okto
 https://secure-272717.tatnet.app/cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ORF 2" group-title="General",ORF 2
@@ -24443,7 +24443,7 @@ https://secure-272717.tatnet.app/cdnapisec.kaltura.com/p/1719221/sp/171922100/pl
 #EXTINF:-1 tvg-name="TeleZüri" group-title="Undefined",TeleZüri
 https://secure-272717.tatnet.app/klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_se36k3uk/tl/main/st/0/t/d4y_3ZXUos_JzAX3LwBI3w/index-s32.m3u8
 
-#EXTINF:-1 tvg-name="Tirol TV" group-title="Undefined",Tirol TV
+#EXTINF:-1 tvg-name="Tirol TV" group-title="International",Tirol TV
 https://secure-272717.tatnet.app/streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
 
 #EXTINF:-1 tvg-name="TV 1 Oberösterreich" group-title="Undefined",TV 1 Oberösterreich
@@ -26774,7 +26774,7 @@ https://secure-272717.tatnet.app/rtmp.streams.ovh:1936/barazarelax/barazarelax/p
 #EXTINF:-1 tvg-name="Barbud Music" group-title="Music",Barbud Music
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolomusic.m3u8
 
-#EXTINF:-1 tvg-name="BE@TTV" group-title="Entertainment;Music",BE@TTV
+#EXTINF:-1 tvg-name="BEATTV" group-title="IPTV",BEATTV
 https://secure-272717.tatnet.app/tv.beatfm.nl/live.m3u8
 
 #EXTINF:-1 tvg-name="BIZ Music" group-title="Music",BIZ Music
@@ -26792,7 +26792,7 @@ https://secure-272717.tatnet.app/busuioctv.iforward.eu/hls/busuioc.m3u8
 #EXTINF:-1 tvg-name="D Music (1280p)" group-title="Music",D Music (1280p)
 https://secure-272717.tatnet.app/43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8
 
-#EXTINF:-1 tvg-name="DeepHouse District" group-title="Music",DeepHouse District
+#EXTINF:-1 tvg-name="Deep House District" group-title="IPTV",Deep House District
 https://secure-272717.tatnet.app/eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 
 #EXTINF:-1 tvg-name="DSTV (614p)" group-title="Music",DSTV (614p)
@@ -26807,7 +26807,7 @@ https://secure-272717.tatnet.app/ythls.armelin.one/channel/UCXxTnMoETkhNTmsqZc0J
 #EXTINF:-1 tvg-name="Extra TV" group-title="Music",Extra TV
 https://secure-272717.tatnet.app/streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
 
-#EXTINF:-1 tvg-name="FomixTV" group-title="General;Music;Public",FomixTV
+#EXTINF:-1 tvg-name="FomixTV" group-title="IPTV",FomixTV
 https://secure-272717.tatnet.app/stream.fomixmedia.nl/FomixTV/video.m3u8
 
 #EXTINF:-1 tvg-name="FTV (576p)" group-title="Music",FTV (576p)
@@ -26822,7 +26822,7 @@ https://secure-272717.tatnet.app/ca-rt.onetv.app/gemmifa/index-0.m3u8?token=onet
 #EXTINF:-1 tvg-name="GEM Mifa Plus" group-title="Music",GEM Mifa Plus
 https://secure-272717.tatnet.app/ca-rt.onetv.app/gemmifaplus/index-0.m3u8?token=onetv202
 
-#EXTINF:-1 tvg-name="Gigant FM" group-title="Music",Gigant FM
+#EXTINF:-1 tvg-name="Gigant FM" group-title="IPTV",Gigant FM
 https://secure-272717.tatnet.app/video.uitzending.tv:19360/gigantfm/gigantfm.m3u8
 
 #EXTINF:-1 tvg-name="GugakTV 국악방송" group-title="Music",GugakTV 국악방송
@@ -26948,7 +26948,7 @@ https://secure-272717.tatnet.app/live-video.dpgmedia.net/e087512ad0c32643/out/v1
 #EXTINF:-1 tvg-name="Qello Concerts by Stingray" group-title="Music",Qello Concerts by Stingray
 https://secure-272717.tatnet.app/d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052
 
-#EXTINF:-1 tvg-name="Qmusic" group-title="Music",Qmusic
+#EXTINF:-1 tvg-name="Qmusic" group-title="IPTV",Qmusic
 https://secure-272717.tatnet.app/stream.qmusic.nl/qmusic/videohls.m3u8
 
 #EXTINF:-1 tvg-name="Radio Hit FM TV" group-title="Music",Radio Hit FM TV
@@ -26960,7 +26960,7 @@ https://secure-272717.tatnet.app/amg00745-radioitailaspa-radioitalia-rakuten-suc
 #EXTINF:-1 tvg-name="Radio Javan TV" group-title="Music",Radio Javan TV
 https://secure-272717.tatnet.app/rjtvhls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-name="Radio JND" group-title="Music",Radio JND
+#EXTINF:-1 tvg-name="Radio JND" group-title="IPTV",Radio JND
 https://secure-272717.tatnet.app/radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Radio Karolina TV" group-title="Music",Radio Karolina TV
@@ -26990,7 +26990,7 @@ https://secure-272717.tatnet.app/tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8
 #EXTINF:-1 tvg-name="RTL Gold" group-title="Music",RTL Gold
 https://secure-272717.tatnet.app/stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Salto Brasa Music" group-title="Music",Salto Brasa Music
+#EXTINF:-1 tvg-name="Salto Brasa Music" group-title="IPTV",Salto Brasa Music
 https://secure-272717.tatnet.app/salto-streams.nl/hls/sotv1.m3u8
 
 #EXTINF:-1 tvg-name="Sky Folk TV" group-title="Music",Sky Folk TV
@@ -27071,7 +27071,7 @@ https://secure-272717.tatnet.app/vs20.live.opencaster.com/wavezfm1075aruba_37766
 #EXTINF:-1 tvg-name="XITE" group-title="Music",XITE
 https://secure-272717.tatnet.app/xite-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ZFM Zoetermeer" group-title="Music",ZFM Zoetermeer
+#EXTINF:-1 tvg-name="ZFM Zoetermeer TV" group-title="IPTV",ZFM Zoetermeer TV
 https://secure-272717.tatnet.app/zfmzoetermeer.nl/live/master.m3u8
 
 #EXTINF:-1 tvg-name="ZU TV" group-title="Music",ZU TV
@@ -39812,13 +39812,13 @@ https://secure-272717.tatnet.app/d7vulbd7rxo7j.cloudfront.net/Yahoo_Sports_Netwo
 #EXTINF:-1 tvg-name="Yazd" group-title="Undefined",Yazd
 https://secure-272717.tatnet.app/ncdn.telewebion.ir/taban/live/playlist.m3u8
 
-#EXTINF:-1 tvg-name="YLE TV 1" group-title="Undefined",YLE TV 1
+#EXTINF:-1 tvg-name="Yle TV1" group-title="International",Yle TV1
 https://secure-272717.tatnet.app/yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
 
-#EXTINF:-1 tvg-name="YLE TV 2" group-title="Undefined",YLE TV 2
+#EXTINF:-1 tvg-name="Yle TV2" group-title="International",Yle TV2
 https://secure-272717.tatnet.app/yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8
 
-#EXTINF:-1 tvg-name="YLE TV Teema & Fem" group-title="Undefined",YLE TV Teema & Fem
+#EXTINF:-1 tvg-name="Yle Teema & Fem" group-title="International",Yle Teema & Fem
 https://secure-272717.tatnet.app/yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8
 
 #EXTINF:-1 tvg-name="Yo! MTV" group-title="Music",Yo! MTV
@@ -42071,7 +42071,7 @@ https://secure-272717.tatnet.app/zdf-hls-19.akamaized.net/hls/live/2016502/de/hi
 #EXTINF:-1 tvg-name="rbb Fernsehen" group-title="Undefined",rbb Fernsehen
 https://secure-272717.tatnet.app/dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8
 
-#EXTINF:-1 tvg-name="WDR Fernsehen" group-title="General",WDR Fernsehen
+#EXTINF:-1 tvg-name="WDR" group-title="Regional",WDR
 https://secure-272717.tatnet.app/wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
 
 #EXTINF:-1 tvg-name="WELT (576p)" group-title="News",WELT (576p)
@@ -43556,10 +43556,10 @@ https://secure-272717.tatnet.app/jmp2.uk/plu-69aee8a1acb7eb0bb68df641.m3u8
 #EXTINF:-1 tvg-name="Africanews English" group-title="News",Africanews English
 https://secure-272717.tatnet.app/cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
 
-#EXTINF:-1 tvg-name="EBS" group-title="Legislative",EBS
+#EXTINF:-1 tvg-name="EbS Live (Europe by Satellite)" group-title="Extra;Information / Bildung",EbS Live (Europe by Satellite)
 https://secure-272717.tatnet.app/streams.prd.commavservices.eu/live/ebs/index.m3u8
 
-#EXTINF:-1 tvg-name="EBS Plus" group-title="Legislative",EBS Plus
+#EXTINF:-1 tvg-name="EbS+ Live (Europe by Satellite)" group-title="Extra;Information / Bildung",EbS+ Live (Europe by Satellite)
 https://secure-272717.tatnet.app/streams.prd.commavservices.eu/live/ebsplus/index.m3u8
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FILMBOX+ Emotion Adria" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FILMBOX+ Emotion Adria
@@ -44048,16 +44048,16 @@ https://secure-272717.tatnet.app/tv3.bitstreaming.net:3680/live/zuracatvlive.m3u
 #EXTINF:-1 tvg-name="Zee Cinema UK (576p)" group-title="Movies",Zee Cinema UK (576p)
 https://secure-272717.tatnet.app/41.223.30.230/ZEECINEMA/index.m3u8
 
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Ziggo Sport" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Ziggo Sport
+#EXTINF:-1 tvg-name="Ziggo Sport" group-title="IPTV",Ziggo Sport
 https://secure-272717.tatnet.app/86.87.15.10:8004/play/a02d/index.m3u8
 
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Ziggo Sport 2" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Ziggo Sport 2
+#EXTINF:-1 tvg-name="Ziggo Sport 2" group-title="IPTV",Ziggo Sport 2
 https://secure-272717.tatnet.app/86.87.15.10:8004/play/a02b/index.m3u8
 
 #EXTINF:-1 tvg-name="Ziggo Sport 3" group-title="IPTV",Ziggo Sport 3
 https://secure-272717.tatnet.app/86.87.15.10:8003/play/a02k/index.m3u8
 
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Disney Channel" group-title="Kids",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Disney Channel
+#EXTINF:-1 tvg-name="Disney Channel" group-title="IPTV",Disney Channel
 https://secure-272717.tatnet.app/86.87.15.10:8004/play/a02g/index.m3u8
 
 #EXTINF:-1 tvg-name="Veronica / Disney Jr." group-title="IPTV",Veronica / Disney Jr.
@@ -46715,7 +46715,7 @@ https://secure-272717.tatnet.app/bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertain
 #EXTINF:-1 tvg-name="Popcorn Central" group-title="Movies",Popcorn Central
 https://secure-272717.tatnet.app/oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
 
-#EXTINF:-1 tvg-name="360TuneBox" group-title="Music",360TuneBox
+#EXTINF:-1 tvg-name="360TuneBox" group-title="IPTV",360TuneBox
 https://secure-272717.tatnet.app/dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Kool TV" group-title="Music",Kool TV
@@ -47042,7 +47042,7 @@ https://secure-272717.tatnet.app/206.212.244.63/32/index.m3u8
 #EXTINF:-1 tvg-name="WDAF-TV 4.2 (576p)" group-title="Undefined",WDAF-TV 4.2 (576p)
 https://secure-272717.tatnet.app/206.212.244.63/9/index.m3u8
 
-#EXTINF:-1 tvg-name="BR Fernsehen Sud" group-title="Undefined",BR Fernsehen Sud
+#EXTINF:-1 tvg-name="BR Fernsehen Süd" group-title="Regional",BR Fernsehen Süd
 https://secure-272717.tatnet.app/mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 
 #EXTINF:-1 tvg-name="Nova" group-title="Lifestyle",Nova
@@ -47456,7 +47456,7 @@ https://secure-272717.tatnet.app/176.107.219.20:9000/play/a003/index.m3u8
 #EXTINF:-1 tvg-name="RTVi" group-title="Новости",RTVi
 https://secure-272717.tatnet.app/178.134.1.158:8081/rtvi/index.m3u8
 
-#EXTINF:-1 tvg-name="DW Russia" group-title="Новости",DW Russia
+#EXTINF:-1 tvg-name="Deutsche Welle+" group-title="Regional",Deutsche Welle+
 https://secure-272717.tatnet.app/dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 
 #EXTINF:-1 tvg-name="CNN" group-title="Новости",CNN
@@ -48380,10 +48380,10 @@ https://secure-272717.tatnet.app/cdn.acnlive.net/LiveApp/streams/hold_the_line.m
 #EXTINF:-1 tvg-name="Afaq TV" group-title="General",Afaq TV
 https://secure-272717.tatnet.app/stream.afaq.iq/live/channel/afaqtv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="DocuBox" group-title="Documentary",DocuBox
+#EXTINF:-1 tvg-name="DocuBox" group-title="IPTV",DocuBox
 https://secure-272717.tatnet.app/dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Fast&FunBox" group-title="Sports",Fast&FunBox
+#EXTINF:-1 tvg-name="Fast&amp;FunBox" group-title="IPTV",Fast&amp;FunBox
 https://secure-272717.tatnet.app/dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 
 #EXTINF:-1 tvg-name="FILMBOX+ Festival" group-title="Movies",FILMBOX+ Festival
@@ -51449,7 +51449,7 @@ https://secure-272717.tatnet.app/znty.dyndns.org:5010/hls/foxm.m3u8
 #EXTINF:-1 tvg-name="Imam Hussein TV 2" group-title="Religious",Imam Hussein TV 2
 https://secure-272717.tatnet.app/ar.imamhossaintv.com/live/ih2.m3u8
 
-#EXTINF:-1 tvg-name="Ziggo Sport 5" group-title="Sports",Ziggo Sport 5
+#EXTINF:-1 tvg-name="Ziggo Sport 5" group-title="IPTV",Ziggo Sport 5
 https://secure-272717.tatnet.app/145.239.5.177/349/index.m3u8
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Music",DM Sat (576p)" group-title="Music",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Music",DM Sat (576p)
@@ -52124,10 +52124,10 @@ https://secure-272717.tatnet.app/stream.mcquack.net/39/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",AXN CEE Romania" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",AXN CEE Romania
 https://secure-272717.tatnet.app/aes.m3u8simplu.workers.dev/axn/index.m3u8
 
-#EXTINF:-1 tvg-name="FashionBox" group-title="Lifestyle",FashionBox
+#EXTINF:-1 tvg-name="FashionBox" group-title="IPTV",FashionBox
 https://secure-272717.tatnet.app/dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
 
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Film1 Action" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Film1 Action
+#EXTINF:-1 tvg-name="Film1 Action" group-title="IPTV",Film1 Action
 https://secure-272717.tatnet.app/86.87.15.10:8008/play/a01l/index.m3u8
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Love & Crime Romania (576p)" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Love & Crime Romania (576p)
@@ -52148,13 +52148,13 @@ https://secure-272717.tatnet.app/145.239.5.177/330/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Armenia Premium" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Armenia Premium
 https://secure-272717.tatnet.app/stream.mcquack.net/123/index.m3u8
 
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Film1 Drama" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Film1 Drama
+#EXTINF:-1 tvg-name="Film1 Drama" group-title="IPTV",Film1 Drama
 https://secure-272717.tatnet.app/86.87.15.10:8008/play/a01k/index.m3u8
 
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Film1 Family" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Film1 Family
+#EXTINF:-1 tvg-name="Film1 Family" group-title="IPTV",Film1 Family
 https://secure-272717.tatnet.app/86.87.15.10:8008/play/a01m/index.m3u8
 
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Film1 Premiere" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Film1 Premiere
+#EXTINF:-1 tvg-name="Film1 Premiere" group-title="IPTV",Film1 Premiere
 https://secure-272717.tatnet.app/86.87.15.10:8008/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Emotion Romania" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Emotion Romania
@@ -53774,7 +53774,7 @@ https://secure-272717.tatnet.app/mumt03.tangotv.in/Dsly5z3HSIRIKANNADA/index.m3u
 #EXTINF:-1 tvg-name="Tamil Janam (576p)" group-title="News",Tamil Janam (576p)
 https://secure-272717.tatnet.app/mumt01.tangotv.in/O5aw8Zn3JANAMTVTAMIL/index.m3u8
 
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",FightBox" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",FightBox
+#EXTINF:-1 tvg-name="FightBox" group-title="IPTV",FightBox
 https://secure-272717.tatnet.app/webtvstream.bhtelecom.ba/fightbox.m3u8
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FILMBOX+ Emotion Adria" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FILMBOX+ Emotion Adria
@@ -53786,10 +53786,10 @@ https://secure-272717.tatnet.app/webtvstream.bhtelecom.ba/filmbox_premium.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FILMBOX+ Love & Crime Adria" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FILMBOX+ Love & Crime Adria
 https://secure-272717.tatnet.app/webtvstream.bhtelecom.ba/filmbox_stars.m3u8
 
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Relax",FunBox U" group-title="Relax",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Relax",FunBox U
+#EXTINF:-1 tvg-name="FunBox U" group-title="IPTV",FunBox U
 https://secure-272717.tatnet.app/webtvstream.bhtelecom.ba/funbox.m3u8
 
-#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Entertainment",Gametoon" group-title="Entertainment",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Entertainment",Gametoon
+#EXTINF:-1 tvg-name="Gametoon" group-title="IPTV",Gametoon
 https://secure-272717.tatnet.app/webtvstream.bhtelecom.ba/gametoon.m3u8
 
 #EXTINF:-1 tvg-name="Qatar TV The Holy Quran" group-title="Religious",Qatar TV The Holy Quran
@@ -58145,6 +58145,612 @@ https://secure-272717.tatnet.app/stream-server.com:8080/live/username/password/1
 #EXTINF:-1 tvg-name="CNN International" group-title="News",CNN International
 https://secure-272717.tatnet.app/stream-server.com:8080/live/username/password/12346.ts</code></pre></div><p>Every IPTV player — whether it's IPTV Smarters Pro, TiviMate, XCIPTV, VLC, or Smart IPTV — can read M3U files. It's the universal format for IPTV channel lists.</p><!-- M3U vs Xtream Codes --><h2 class="text-2xl font-bold text-white !mt-12 !mb-6">M3U Playlist vs. Xtream Codes API: What's the Difference?</h2><p>When you subscribe to an IPTV service, you'll typically receive your credentials in one of two formats:</p><div class="grid grid-cols-1 sm:grid-cols-2 gap-5 !my-8"><div class="glass-card rounded-xl p-6"><h4 class="text-lg font-semibold text-accent mb-3">M3U Playlist URL</h4><p class="text-base text-text-muted mb-3">A single URL that points to your full channel list. You paste it directly into your IPTV app.</p><div class="bg-black/40 rounded-lg p-3 text-xs text-text-dim overflow-x-auto"><code>http://server.com:8080/get.php?username=USER&password=PASS&type=m3u_plus</code></div><ul class="list-disc pl-5 space-y-1 text-sm text-text-muted mt-3"><li>Works with every IPTV player</li><li>Simple to set up</li><li>No EPG integration by default</li></ul></div><div class="glass-card rounded-xl p-6"><h4 class="text-lg font-semibold text-accent mb-3">Xtream Codes API</h4><p class="text-base text-text-muted mb-3">Server URL + username + password. The app connects directly to the IPTV server for a richer experience.</p><div class="bg-black/40 rounded-lg p-3 text-xs text-text-dim overflow-x-auto"><code>Server: http://server.com:8080<br>User: your_username<br>Pass: your_password</code></div><ul class="list-disc pl-5 space-y-1 text-sm text-text-muted mt-3"><li>Built-in EPG (TV guide)</li><li>Organized categories</li><li>Catch-up TV support</li></ul></div></div><p><strong>Which should you use?</strong> If your IPTV app supports Xtream Codes (most do), use that — it provides a better experience with EPG and organized channel categories. If not, the <strong>M3U playlist URL</strong> works universally.</p><!-- How to use M3U playlists --><h2 class="text-3xl font-bold text-white !mt-14 !mb-6">How to Use M3U Playlists in IPTV Apps</h2><p>Once you have your <strong>M3U URL</strong> or M3U file, here's how to load it into the most popular IPTV players.</p><!-- TiviMate --><h3 class="text-xl font-semibold text-white !mt-10 !mb-4">TiviMate — Best M3U Player for Fire Stick</h3><p>TiviMate is widely considered the best IPTV player for <a href="/iptv/test-iptv-fire-stick/" class="text-accent hover:text-accent-hover transition underline">Amazon Fire Stick</a> and Android TV. Here's how to add a <strong>TiviMate playlist M3U</strong>:</p><div class="space-y-3 !my-6"><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">1</div><p class="text-text-muted leading-relaxed">Open TiviMate and go to <strong class="text-white">Settings → Playlists</strong>.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">2</div><p class="text-text-muted leading-relaxed">Select <strong class="text-white">Add Playlist</strong> and choose <strong class="text-white">M3U Playlist</strong> or <strong class="text-white">Xtream Codes</strong>.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">3</div><p class="text-text-muted leading-relaxed">Paste your <strong class="text-white">TiviMate playlist URL</strong> (M3U URL from your IPTV provider).</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">4</div><p class="text-text-muted leading-relaxed">Wait for channels to load. Add an EPG URL if your provider gave you one separately.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">5</div><p class="text-text-muted leading-relaxed">Done. Browse channels by category and start streaming.</p></div></div><!-- IPTV Smarters Pro --><h3 class="text-xl font-semibold text-white !mt-10 !mb-4">IPTV Smarters Pro — Load M3U Playlist</h3><p>IPTV Smarters Pro supports both M3U and Xtream Codes. To load an <strong>IPTV M3U playlist</strong>:</p><div class="space-y-3 !my-6"><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">1</div><p class="text-text-muted leading-relaxed">Open IPTV Smarters Pro and select <strong class="text-white">Add User → Load Your Playlist or File/URL</strong>.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">2</div><p class="text-text-muted leading-relaxed">Choose <strong class="text-white">M3U URL</strong> and paste your playlist URL.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">3</div><p class="text-text-muted leading-relaxed">Give it a name (e.g., "My IPTV") and tap <strong class="text-white">Add User</strong>.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">4</div><p class="text-text-muted leading-relaxed">Channels load automatically. Navigate via Live TV, Movies, or Series sections.</p></div></div><!-- VLC --><h3 class="text-xl font-semibold text-white !mt-10 !mb-4">VLC Media Player — Open M3U Files on PC or Mac</h3><p>VLC is a free, open-source media player that can play <strong>M3U files</strong> directly on your computer.</p><div class="space-y-3 !my-6"><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">1</div><p class="text-text-muted leading-relaxed">Download and install <a href="https://www.videolan.org/" class="text-accent hover:text-accent-hover transition underline" target="_blank" rel="noopener noreferrer">VLC Media Player</a>.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">2</div><p class="text-text-muted leading-relaxed">Go to <strong class="text-white">Media → Open Network Stream</strong>.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">3</div><p class="text-text-muted leading-relaxed">Paste your <strong class="text-white">M3U playlist URL</strong> and click Play.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">4</div><p class="text-text-muted leading-relaxed">Or drag a downloaded <code class="bg-white/10 px-2 py-0.5 rounded text-sm">.m3u</code> file directly into VLC.</p></div></div><!-- Free vs Paid M3U --><h2 class="text-3xl font-bold text-white !mt-14 !mb-6">Free M3U Playlists vs. Paid IPTV Subscriptions</h2><p>There are two ways to get IPTV playlists: free public lists scattered around the internet, or paid subscriptions from IPTV providers.</p><p>Here's the honest comparison:</p><div class="grid grid-cols-1 sm:grid-cols-2 gap-5 !my-8"><div class="glass-card rounded-xl p-6"><h4 class="text-lg font-semibold text-red-400 mb-3">Free M3U Playlists</h4><ul class="list-disc pl-5 space-y-2 text-base text-text-muted"><li>Channels go offline constantly</li><li>No EPG or TV guide</li><li>Low quality — many are SD or 480p</li><li>No support or reliability</li><li>Often outdated within hours or days</li><li>Security risks from unknown sources</li><li>No catch-up TV or VOD</li></ul></div><div class="glass-card rounded-xl p-6 border border-accent/20"><h4 class="text-lg font-semibold text-green mb-3">Paid IPTV Subscription</h4><ul class="list-disc pl-5 space-y-2 text-base text-text-muted"><li>20,000+ stable, working channels</li><li>Full EPG with program guide</li><li>HD, FHD, and 4K quality</li><li>24/7 customer support</li><li>Regular updates and new channels</li><li>Dedicated servers with anti-buffering</li><li>VOD library + catch-up TV</li></ul></div></div><p>Free <strong>public IPTV playlists</strong> might sound appealing, but in practice they're unreliable. Channels break within hours, streams buffer constantly, and there's no support when things stop working.</p><p>If you're serious about IPTV, a paid subscription with a <a href="/free-trial/" class="text-accent hover:text-accent-hover transition underline">free trial</a> is always the better long-term choice.</p><!-- Where people find M3U playlists --><h2 class="text-3xl font-bold text-white !mt-14 !mb-6">Where Do People Find Free IPTV M3U Playlists?</h2><p>People searching for <strong>free M3U playlists</strong>, <strong>free IPTV M3U playlist HD channels download</strong>, or <strong>public IPTV playlists</strong> typically find them on:</p><div class="space-y-3 !my-6"><div class="glass-card rounded-xl p-5"><strong class="text-white">GitHub Repositories</strong> — <span class="text-text-muted">Developers maintain public M3U lists on GitHub. These are the most commonly shared free IPTV lists, but channels frequently go offline.</span></div><div class="glass-card rounded-xl p-5"><strong class="text-white">Reddit Communities</strong> — <span class="text-text-muted">Subreddits dedicated to IPTV sometimes share M3U links and playlist URLs. Quality varies wildly.</span></div><div class="glass-card rounded-xl p-5"><strong class="text-white">IPTV Forums & Telegram Groups</strong> — <span class="text-text-muted">Community-driven groups share IPTV links, but many are unreliable or even malicious.</span></div><div class="glass-card rounded-xl p-5"><strong class="text-white">Dedicated Websites</strong> — <span class="text-text-muted">Some websites curate and update <strong>free M3U lists</strong>. These tend to have the shortest lifespan as streams get taken down regularly.</span></div></div><div class="glass-card rounded-xl p-6 border-l-4 border-l-yellow-400 !my-8"><h4 class="text-lg font-semibold text-yellow-400 mb-2">Important Warning</h4><p class="text-base text-text-muted">Free IPTV playlists from unknown sources can contain malicious URLs, tracking scripts, or redirect to harmful content. Always use a VPN, avoid downloading executable files, and never enter personal information on unknown sites. For a safe, reliable experience, use a trusted <a href="/iptv/" class="text-accent hover:text-accent-hover transition underline">IPTV provider</a> with proper support.</p></div><!-- IPTV Global Channels --><h2 class="text-2xl font-bold text-white !mt-12 !mb-6">IPTV Global Channels Playlist — What's Available?</h2><p>One of the biggest draws of IPTV is access to <strong>global channels</strong>. A quality <strong>IPTV global channels playlist</strong> typically includes:</p><div class="grid grid-cols-2 sm:grid-cols-3 gap-3 !my-6"><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🇺🇸</span><span class="text-sm font-semibold text-white">USA</span><span class="text-xs text-text-dim block">ABC, CBS, NBC, ESPN, Fox</span></div><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🇬🇧</span><span class="text-sm font-semibold text-white">UK</span><span class="text-xs text-text-dim block">BBC, ITV, Sky Sports</span></div><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🇨🇦</span><span class="text-sm font-semibold text-white">Canada</span><span class="text-xs text-text-dim block">TSN, CBC, Sportsnet</span></div><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🇫🇷</span><span class="text-sm font-semibold text-white">France</span><span class="text-xs text-text-dim block">TF1, Canal+, beIN</span></div><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🇩🇪</span><span class="text-sm font-semibold text-white">Germany</span><span class="text-xs text-text-dim block">ARD, ZDF, Sky DE</span></div><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🇧🇷</span><span class="text-sm font-semibold text-white">Brazil</span><span class="text-xs text-text-dim block">Globo, SporTV, Band</span></div><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🇮🇳</span><span class="text-sm font-semibold text-white">India</span><span class="text-xs text-text-dim block">Star, Zee, Sony</span></div><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🇸🇦</span><span class="text-sm font-semibold text-white">Arabic</span><span class="text-xs text-text-dim block">MBC, Al Jazeera, OSN</span></div><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🌍</span><span class="text-sm font-semibold text-white">100+ Countries</span><span class="text-xs text-text-dim block">Latino, Asian, African</span></div></div><p>A <strong>paid IPTV subscription</strong> includes all of these in a single, organized playlist — with EPG, channel logos, and category grouping. Free M3U lists might have some of these channels, but they'll be scattered, poorly labeled, and frequently broken.</p><!-- Live Sports M3U --><h2 class="text-2xl font-bold text-white !mt-12 !mb-6">Live Sports M3U Playlists</h2><p>People searching for <strong>live sports M3U</strong> playlists want access to channels like ESPN, Fox Sports, beIN Sports, Sky Sports, and PPV events.</p><p>Free sports M3U playlists are the most unreliable type — they go down during peak demand (exactly when you need them most). During major events like the Super Bowl, NBA Finals, or UFC cards, free streams buffer, crash, or get taken offline.</p><p>For reliable live sports streaming, a paid IPTV service is the only consistent option. Most <a href="/iptv/" class="text-accent hover:text-accent-hover transition underline">top IPTV providers</a> include every major sports network worldwide, plus PPV events, in their standard channel package.</p><!-- Best M3U playlist --><h2 class="text-2xl font-bold text-white !mt-12 !mb-6">What Makes the Best M3U Playlist?</h2><p>Whether you're using a free or paid <strong>IPTV list</strong>, here's what separates a good M3U playlist from a bad one:</p><div class="space-y-4 !my-6"><div class="glass-card rounded-xl p-5"><strong class="text-accent">Channel Organization</strong> — <span class="text-text-muted">Channels should be grouped by country, category (Sports, News, Entertainment, Movies), and quality (HD, FHD, 4K).</span></div><div class="glass-card rounded-xl p-5"><strong class="text-accent">Working Stream URLs</strong> — <span class="text-text-muted">Every channel link should actually load. Dead links are the 
 
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/kodi/kodi_tv.m3u
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://yandexwebcache.net/yandbtm?fmode=inject&tm=1786821897&tld=ru&lang=de&la=1781225600&text=wl.tvrain.tv+transcode+playlist&url=https%3A//raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/kodi/kodi_tv.m3u&l10n=ru&mime=html&sign=42c603147cb7b9df18a15a7d2cf35e27&keyno=0&quot;},{&quot;variant&quot;:&quot;more&quot;,&quot;url&quot;:&quot;/search/?text=site%3Araw.githubusercontent.com%20wl.tvrain.tv%20transcode%20playlist&lr=213&noreask=1&quot;,&quot;target&quot;:&quot;_self&quot;},{&quot;variant&quot;:&quot;info&quot;,&quot;url&quot;:&quot;https://webmaster.yandex.ru/siteinfo/?site=raw.githubusercontent.com&quot;},{&quot;variant&quot;:&quot;reportFeedback&quot;,&quot;reportFeedback&quot;:{&quot;feature&quot;:&quot;Органика&quot;,&quot;customMetaFields&quot;:[{&quot;name&quot;:&quot;url-complaint&quot;,&quot;value&quot;:&quot;https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/kodi/kodi_tv.m3u&quot;},{&quot;name&quot;:&quot;docId&quot;,&quot;value&quot;:&quot;12&quot;}],&quot;title&quot;:&quot;Что
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://yandexwebcache.net/yandbtm?fmode=inject&tm=1786821897&tld=ru&lang=en&la=1784585216&text=wl.tvrain.tv+transcode+playlist&url=https%3A//github.com/RomanTheQuant/IPtv/blob/main/online2.m3u&l10n=ru&mime=html&sign=44438596c7cbe2f1c5cc0b8153d19ad6&keyno=0&quot;},{&quot;variant&quot;:&quot;more&quot;,&quot;url&quot;:&quot;/search/?text=site%3Agithub.com%20wl.tvrain.tv%20transcode%20playlist&lr=213&noreask=1&quot;,&quot;target&quot;:&quot;_self&quot;},{&quot;variant&quot;:&quot;info&quot;,&quot;url&quot;:&quot;https://webmaster.yandex.ru/siteinfo/?site=github.com&quot;},{&quot;variant&quot;:&quot;reportFeedback&quot;,&quot;reportFeedback&quot;:{&quot;feature&quot;:&quot;Органика&quot;,&quot;customMetaFields&quot;:[{&quot;name&quot;:&quot;url-complaint&quot;,&quot;value&quot;:&quot;https://github.com/RomanTheQuant/IPtv/blob/main/online2.m3u&quot;},{&quot;name&quot;:&quot;docId&quot;,&quot;value&quot;:&quot;0&quot;}],&quot;title&quot;:&quot;Что
+
+#EXTINF:-1 tvg-name="ZDF" group-title="Vollprogramm",ZDF
+https://secure-272717.tatnet.app/zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-name="ARTE" group-title="Vollprogramm",ARTE
+https://secure-272717.tatnet.app/artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
+
+#EXTINF:-1 tvg-name="DF1" group-title="Spartenprogramm",DF1
+https://secure-272717.tatnet.app/d287776cjxyfeq.cloudfront.net/out/v1/08823cd7fba74508a5a577fd51dc41f6/index.m3u8
+
+#EXTINF:-1 tvg-name="WELT" group-title="Nachrichten;Dokumentationen",WELT
+https://secure-272717.tatnet.app/welt.personalstream.tv/v1/master.m3u8
+
+#EXTINF:-1 tvg-name="Bild" group-title="Nachrichten;Dokumentationen",Bild
+https://secure-272717.tatnet.app/bild.personalstream.tv/v1/master.m3u8
+
+#EXTINF:-1 tvg-name="AUTO BILD TV" group-title="Sport",AUTO BILD TV
+https://secure-272717.tatnet.app/auto-bild.personalstream.tv/v1/bildde/master.m3u8
+
+#EXTINF:-1 tvg-name="DAZN FAST+" group-title="Sport",DAZN FAST+
+https://secure-272717.tatnet.app/d2606t9eyamzl3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ia6qw6xh7nd2w-ssai-prd/out/v1/64dc66ee167d48db833377ab85217dfd/DAZN-FAST-HLS-CMAF-DRM/index.m3u8
+
+#EXTINF:-1 tvg-name="Lilo.TV" group-title="Spartenprogramm",Lilo.TV
+https://secure-272717.tatnet.app/lilo.iptv-playoutcenter.de/lilo/lilo-sat1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ö3-VisualRadio" group-title="Musik",Ö3-VisualRadio
+https://secure-272717.tatnet.app/studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest.m3u8
+
+#EXTINF:-1 tvg-name="Panoramabilder" group-title="Musik",Panoramabilder
+https://secure-272717.tatnet.app/brevent.akamaized.net/hls/live/2028222/event_05/master.m3u8
+
+#EXTINF:-1 tvg-name="NDR 1 Radio MV-VisualRadio" group-title="Musik",NDR 1 Radio MV-VisualRadio
+https://secure-272717.tatnet.app/ndrvisualradiohls.akamaized.net/hls/live/2018951/ndrvr_mv_ndr1/master.m3u8
+
+#EXTINF:-1 tvg-name="Folx TV" group-title="Musik",Folx TV
+https://secure-272717.tatnet.app/cdne.folxplay.tv/fxt/streams/ch-4/master.m3u8
+
+#EXTINF:-1 tvg-name="One 1 Music TV" group-title="Musik",One 1 Music TV
+https://secure-272717.tatnet.app/cdne.folxplay.tv/fxt/streams/ch-3/master.m3u8
+
+#EXTINF:-1 tvg-name="Zwei 2 Music TV" group-title="Musik",Zwei 2 Music TV
+https://secure-272717.tatnet.app/cdne.folxplay.tv/fxt/streams/ch-2/master.m3u8
+
+#EXTINF:-1 tvg-name="Bibel TV" group-title="Religion",Bibel TV
+https://secure-272717.tatnet.app/bibeltv01.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Bibel TV Impuls" group-title="Religion",Bibel TV Impuls
+https://secure-272717.tatnet.app/bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Bibel TV Musik" group-title="Religion",Bibel TV Musik
+https://secure-272717.tatnet.app/bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="K-TV" group-title="Religion",K-TV
+https://secure-272717.tatnet.app/streamcdnf34-a19bf41486254a3485a864c8b0c14fe1.msvdn.net/live/S28743697/LpD0q2aoyujI/playlist.m3u8
+
+#EXTINF:-1 tvg-name="EWTN katholisches TV" group-title="Religion",EWTN katholisches TV
+https://secure-272717.tatnet.app/1775071782.rsc.cdn77.org/1775071782/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="ERF 1" group-title="Religion",ERF 1
+https://secure-272717.tatnet.app/bcovlive-a.akamaihd.net/b9f68a14d78144abb5b883067a0cdb84/eu-central-1/6194387526001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="SPORT BILD TV" group-title="Sport",SPORT BILD TV
+https://secure-272717.tatnet.app/sport-bild.personalstream.tv/v1/bildde/master.m3u8
+
+#EXTINF:-1 tvg-name="VISIT-X.tv" group-title="Sonstiges",VISIT-X.tv
+https://secure-272717.tatnet.app/stream.visit-x.tv/vxtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Wir24TV" group-title="Sonstiges",Wir24TV
+https://secure-272717.tatnet.app/edge14.vedge.infomaniak.com/livecast/ik:wir24tv_hms/manifest.m3u8
+
+#EXTINF:-1 tvg-name="QVC PLUS" group-title="Teleshopping",QVC PLUS
+https://secure-272717.tatnet.app/d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/3/prog_index.m3u8
+
+#EXTINF:-1 tvg-name="QVC Beauty & Style" group-title="Teleshopping",QVC Beauty & Style
+https://secure-272717.tatnet.app/d2mn03dhv5o3g8.cloudfront.net/live/qvcde_beauty_clean/bitrate1.isml/3/prog_index.m3u8
+
+#EXTINF:-1 tvg-name="WDR Köln" group-title="Regional",WDR Köln
+https://secure-272717.tatnet.app/wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8
+
+#EXTINF:-1 tvg-name="hr-fernsehen" group-title="Regional",hr-fernsehen
+https://secure-272717.tatnet.app/hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master.m3u8
+
+#EXTINF:-1 tvg-name="Südthüringer Regionalfernsehen" group-title="Regional",Südthüringer Regionalfernsehen
+https://secure-272717.tatnet.app/wowza.telvi.de/srf/stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="h1" group-title="Regional",h1
+https://secure-272717.tatnet.app/5857499ee635b.streamlock.net/heinstv-live/_definst_/smil:livestream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="a.tv" group-title="Lokal",a.tv
+https://secure-272717.tatnet.app/augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ALEX Berlin" group-title="Lokal",ALEX Berlin
+https://secure-272717.tatnet.app/alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/manifest.mpd
+
+#EXTINF:-1 tvg-name="Baden TV" group-title="Lokal",Baden TV
+https://secure-272717.tatnet.app/cdn.icu.de/rtplive/smil:btv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Franken Fernsehen" group-title="Lokal",Franken Fernsehen
+https://secure-272717.tatnet.app/stream03.welocal.stream/stream/fhd-frankenfernsehen_199261/ngrp:stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Hamburg 1" group-title="Lokal",Hamburg 1
+https://secure-272717.tatnet.app/stream.hamburg1.de/live_abr/hamburg1_abr/live/hamburg1_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-name="MyTVplus" group-title="Lokal",MyTVplus
+https://secure-272717.tatnet.app/h056.video-stream-hosting.de/easycast10-live/_definst_/mp4:livestreamhd82/playlist.m3u8
+
+#EXTINF:-1 tvg-name="noa4 Norderstedt" group-title="Lokal",noa4 Norderstedt
+https://secure-272717.tatnet.app/hls1.wtnet.de/noa4/apple/wifi.m3u8
+
+#EXTINF:-1 tvg-name="NRWision" group-title="Lokal",NRWision
+https://secure-272717.tatnet.app/fms.nrwision.de/live/livestreamHD.stream_source/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="OK54 (Trier)" group-title="Lokal",OK54 (Trier)
+https://secure-272717.tatnet.app/s.ok54.de/ott/webstream/tv/webstream_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-name="OK naheTV (Idar-Oberstein)" group-title="Lokal",OK naheTV (Idar-Oberstein)
+https://secure-272717.tatnet.app/s.ok54.de/abr_nahetv/webstream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="OK RheinLokal (Worms)" group-title="Lokal",OK RheinLokal (Worms)
+https://secure-272717.tatnet.app/s.ok54.de/abr_rheinlokal/webstream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="OK Suedwestpfalz" group-title="Lokal",OK Suedwestpfalz
+https://secure-272717.tatnet.app/s.ok54.de/abr_okswp/webstream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="OK Weinstraße (Neustadt)" group-title="Lokal",OK Weinstraße (Neustadt)
+https://secure-272717.tatnet.app/s.ok54.de/abr_okwstr/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="OK Merseburg-Querfurt" group-title="Lokal",OK Merseburg-Querfurt
+https://secure-272717.tatnet.app/h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ok-merseburg_high/playlist.m3u8
+
+#EXTINF:-1 tvg-name="OK Dessau" group-title="Lokal",OK Dessau
+https://secure-272717.tatnet.app/h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ok-dessau_high/playlist.m3u8
+
+#EXTINF:-1 tvg-name="OK Magdeburg" group-title="Lokal",OK Magdeburg
+https://secure-272717.tatnet.app/h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ok-magdeburg_high/playlist.m3u8
+
+#EXTINF:-1 tvg-name="OK Salzwedel" group-title="Lokal",OK Salzwedel
+https://secure-272717.tatnet.app/h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ok-salzwedel_high/playlist.m3u8
+
+#EXTINF:-1 tvg-name="OK Stendal" group-title="Lokal",OK Stendal
+https://secure-272717.tatnet.app/58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-stendal_high/playlist.m3u8
+
+#EXTINF:-1 tvg-name="OK Wernigerode" group-title="Lokal",OK Wernigerode
+https://secure-272717.tatnet.app/58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-wernigerode_high/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tide TV" group-title="Lokal",Tide TV
+https://secure-272717.tatnet.app/h058.video-stream-hosting.de/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BLK Regional TV" group-title="Lokal",BLK Regional TV
+https://secure-272717.tatnet.app/h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
+
+#EXTINF:-1 tvg-name="kulturmd" group-title="Lokal",kulturmd
+https://secure-272717.tatnet.app/58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MDF.1" group-title="Lokal",MDF.1
+https://secure-272717.tatnet.app/h056.video-stream-hosting.de/medienasa-live/_definst_/mdf1_high/playlist.m3u8
+
+#EXTINF:-1 tvg-name="PUNKTum" group-title="Lokal",PUNKTum
+https://secure-272717.tatnet.app/h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:punktum_high/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RFH" group-title="Lokal",RFH
+https://secure-272717.tatnet.app/h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:RFH_high/playlist.m3u8
+
+#EXTINF:-1 tvg-name="WTV (OK Wettin)" group-title="Lokal",WTV (OK Wettin)
+https://secure-272717.tatnet.app/h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ok-wettin_high/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RAN1" group-title="Lokal",RAN1
+https://secure-272717.tatnet.app/h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ran1_high/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RBW" group-title="Lokal",RBW
+https://secure-272717.tatnet.app/h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8
+
+#EXTINF:-1 tvg-name="seenluft24" group-title="Lokal",seenluft24
+https://secure-272717.tatnet.app/h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8
+
+#EXTINF:-1 tvg-name="oldenburg eins" group-title="Lokal",oldenburg eins
+https://secure-272717.tatnet.app/cdn.oeins.de/index.m3u8
+
+#EXTINF:-1 tvg-name="RFO" group-title="Lokal",RFO
+https://secure-272717.tatnet.app/stream01.welocal.stream/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sylt1" group-title="Lokal",Sylt1
+https://secure-272717.tatnet.app/h056.video-stream-hosting.de/easycast9-live/_definst_/mp4:livestream999/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Niederbayern TV Passau" group-title="Lokal",Niederbayern TV Passau
+https://secure-272717.tatnet.app/stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV Mittelrhein" group-title="Lokal",TV Mittelrhein
+https://secure-272717.tatnet.app/wowza.telvi.de/slive/tv-mittelrhein.stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV Mainfranken" group-title="Lokal",TV Mainfranken
+https://secure-272717.tatnet.app/stream01.welocal.stream/stream/fhd-tvmainfranken_255661/ngrp:stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="tv.berlin" group-title="Lokal",tv.berlin
+https://secure-272717.tatnet.app/58de7a369a9c4.streamlock.net/tvb/7649_7Bpr2XK4zCR6jNV/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FRF24" group-title="Lokal",FRF24
+https://secure-272717.tatnet.app/ch-fra-n14.livespotting.com/vpu/so1795yx/0n5ikvr8_720.m3u8
+
+#EXTINF:-1 tvg-name="ARD Event 1" group-title="Extra",ARD Event 1
+https://secure-272717.tatnet.app/wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8
+
+#EXTINF:-1 tvg-name="WDR Event 2" group-title="Extra",WDR Event 2
+https://secure-272717.tatnet.app/ardevent2.akamaized.net/hls/live/681512/ardevent2_geo/master.m3u8
+
+#EXTINF:-1 tvg-name="ZDF Event 1" group-title="Extra",ZDF Event 1
+https://secure-272717.tatnet.app/zdf0304-lh.akamaihd.net/i/de03_v1@392855/index_3096_av-p.m3u8
+
+#EXTINF:-1 tvg-name="ZDF Event 2" group-title="Extra",ZDF Event 2
+https://secure-272717.tatnet.app/zdf0304-lh.akamaihd.net/i/de04_v1@392856/index_3096_av-p.m3u8
+
+#EXTINF:-1 tvg-name="ZDF Event 3" group-title="Extra",ZDF Event 3
+https://secure-272717.tatnet.app/zdf-hls-03.akamaized.net/hls/live/2016213/de/high/master.m3u8
+
+#EXTINF:-1 tvg-name="ZDF Event 4" group-title="Extra",ZDF Event 4
+https://secure-272717.tatnet.app/zdf0506-lh.akamaihd.net/i/de06_v1@392858/index_3096_av-p.m3u8
+
+#EXTINF:-1 tvg-name="ZDF Event 5" group-title="Extra",ZDF Event 5
+https://secure-272717.tatnet.app/zdf-hls-05.akamaized.net/hls/live/2016300/de/high/master.m3u8
+
+#EXTINF:-1 tvg-name="ZDF Event 6" group-title="Extra",ZDF Event 6
+https://secure-272717.tatnet.app/zdf0708-lh.akamaihd.net/i/de08_v1@392869/index_229_av-b.m3u8
+
+#EXTINF:-1 tvg-name="ZDF Event 7" group-title="Extra",ZDF Event 7
+https://secure-272717.tatnet.app/zdf-hls-07.akamaized.net/hls/live/2016302/de/high/master.m3u8
+
+#EXTINF:-1 tvg-name="ZDF Event 9" group-title="Extra",ZDF Event 9
+https://secure-272717.tatnet.app/zdf-hls-09.akamaized.net/hls/live/2016304/de/high/master.m3u8
+
+#EXTINF:-1 tvg-name="ZDF Event 10" group-title="Extra",ZDF Event 10
+https://secure-272717.tatnet.app/zdf-hls-10.akamaized.net/hls/live/2016305/de/high/master.m3u8
+
+#EXTINF:-1 tvg-name="ARTE Event 1" group-title="Extra",ARTE Event 1
+https://secure-272717.tatnet.app/arteconcerthls.akamaized.net/hls/live/2025494/channel01/master.m3u8
+
+#EXTINF:-1 tvg-name="ARTE Event 2" group-title="Extra",ARTE Event 2
+https://secure-272717.tatnet.app/arteconcerthls.akamaized.net/hls/live/2025495/channel02/master.m3u8
+
+#EXTINF:-1 tvg-name="ARTE Event 3" group-title="Extra",ARTE Event 3
+https://secure-272717.tatnet.app/arteconcerthls.akamaized.net/hls/live/2025496/channel03/master.m3u8
+
+#EXTINF:-1 tvg-name="ARTE Event 4" group-title="Extra",ARTE Event 4
+https://secure-272717.tatnet.app/arteconcerthls.akamaized.net/hls/live/2025497/channel04/master.m3u8
+
+#EXTINF:-1 tvg-name="ARTE Event 5" group-title="Extra",ARTE Event 5
+https://secure-272717.tatnet.app/arteconcerthls.akamaized.net/hls/live/2025498/channel05/master.m3u8
+
+#EXTINF:-1 tvg-name="ARTE Event 6" group-title="Extra",ARTE Event 6
+https://secure-272717.tatnet.app/arteconcerthls.akamaized.net/hls/live/2025499/channel06/master.m3u8
+
+#EXTINF:-1 tvg-name="WDR Event 1" group-title="Extra",WDR Event 1
+https://secure-272717.tatnet.app/wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8
+
+#EXTINF:-1 tvg-name="WDR Event 3" group-title="Extra",WDR Event 3
+https://secure-272717.tatnet.app/wdrevent.akamaized.net/hls/live/2016698/wdr_msl4_wdrevent3/master.m3u8
+
+#EXTINF:-1 tvg-name="WDR Event 7" group-title="Extra",WDR Event 7
+https://secure-272717.tatnet.app/wdrevent.akamaized.net/hls/live/2020357/wdr_msl4_wdrevent7/master.m3u8
+
+#EXTINF:-1 tvg-name="WDR Event 8" group-title="Extra",WDR Event 8
+https://secure-272717.tatnet.app/wdrevent.akamaized.net/hls/live/2020358/wdr_msl4_wdrevent8/master.m3u8
+
+#EXTINF:-1 tvg-name="WDR Event 9" group-title="Extra",WDR Event 9
+https://secure-272717.tatnet.app/wdrevent.akamaized.net/hls/live/2020359/wdr_msl4_wdrevent9/master.m3u8
+
+#EXTINF:-1 tvg-name="WDR Event 10" group-title="Extra",WDR Event 10
+https://secure-272717.tatnet.app/wdrevent.akamaized.net/hls/live/2020360/wdr_msl4_wdrevent10/master.m3u8
+
+#EXTINF:-1 tvg-name="SWR Event 1" group-title="Extra",SWR Event 1
+https://secure-272717.tatnet.app/swrevent01hls.akamaized.net/hls/live/2016766/event01/master.m3u8
+
+#EXTINF:-1 tvg-name="SWR Event 2" group-title="Extra",SWR Event 2
+https://secure-272717.tatnet.app/swrevent02hls.akamaized.net/hls/live/2016767/event02/master.m3u8
+
+#EXTINF:-1 tvg-name="SWR Event 3" group-title="Extra",SWR Event 3
+https://secure-272717.tatnet.app/swrevent03hls.akamaized.net/hls/live/2016768/event03/master.m3u8
+
+#EXTINF:-1 tvg-name="SWR Event 4" group-title="Extra",SWR Event 4
+https://secure-272717.tatnet.app/swrevent04hls.akamaized.net/hls/live/2016769/event04/master.m3u8
+
+#EXTINF:-1 tvg-name="NDR Event 1" group-title="Extra",NDR Event 1
+https://secure-272717.tatnet.app/ndrevent-lh.akamaihd.net/i/ndrevent_1@409066/master.m3u8
+
+#EXTINF:-1 tvg-name="NDR Event 2" group-title="Extra",NDR Event 2
+https://secure-272717.tatnet.app/ndrevent-lh.akamaihd.net/i/ndrevent_2@429805/master.m3u8
+
+#EXTINF:-1 tvg-name="NDR Event 3" group-title="Extra",NDR Event 3
+https://secure-272717.tatnet.app/ndrevent-lh.akamaihd.net/i/ndrevent_3@409068/master.m3u8
+
+#EXTINF:-1 tvg-name="NDR Spezial 1" group-title="Extra",NDR Spezial 1
+https://secure-272717.tatnet.app/ndrspezial-lh.akamaihd.net/i/spezial_1@430235/master.m3u8
+
+#EXTINF:-1 tvg-name="NDR Spezial 2" group-title="Extra",NDR Spezial 2
+https://secure-272717.tatnet.app/ndrspezial-lh.akamaihd.net/i/spezial_2@430236/master.m3u8
+
+#EXTINF:-1 tvg-name="NDR Spezial 3" group-title="Extra",NDR Spezial 3
+https://secure-272717.tatnet.app/ndrspezial-lh.akamaihd.net/i/spezial_3@430237/master.m3u8
+
+#EXTINF:-1 tvg-name="NDR Spezial 4" group-title="Extra",NDR Spezial 4
+https://secure-272717.tatnet.app/ndrspezial-lh.akamaihd.net/i/spezial_4@430238/master.m3u8
+
+#EXTINF:-1 tvg-name="NDR Spezial 5" group-title="Extra",NDR Spezial 5
+https://secure-272717.tatnet.app/ndrspezial-lh.akamaihd.net/i/spezial_5@430239/master.m3u8
+
+#EXTINF:-1 tvg-name="NDR Spezial 6" group-title="Extra",NDR Spezial 6
+https://secure-272717.tatnet.app/ndrspezial-lh.akamaihd.net/i/spezial_6@430240/master.m3u8
+
+#EXTINF:-1 tvg-name="NDR Spezial 7" group-title="Extra",NDR Spezial 7
+https://secure-272717.tatnet.app/ndrspezial7sp-lh.akamaihd.net/i/spezial_7@322396/master.m3u8
+
+#EXTINF:-1 tvg-name="NDR Spezial 8" group-title="Extra",NDR Spezial 8
+https://secure-272717.tatnet.app/ndrspezial8sp-lh.akamaihd.net/i/spezial_8@425044/master.m3u8
+
+#EXTINF:-1 tvg-name="NDR Spezial 9" group-title="Extra",NDR Spezial 9
+https://secure-272717.tatnet.app/ndrspezial9sp-lh.akamaihd.net/i/spezial_9@426506/master.m3u8
+
+#EXTINF:-1 tvg-name="NDR Spezial 10" group-title="Extra",NDR Spezial 10
+https://secure-272717.tatnet.app/ndrspezial10sp-lh.akamaihd.net/i/spezial_10@9732/master.m3u8
+
+#EXTINF:-1 tvg-name="BR Event 1" group-title="Extra",BR Event 1
+https://secure-272717.tatnet.app/brevent.akamaized.net/hls/live/2028218/event_01/master.m3u8
+
+#EXTINF:-1 tvg-name="BR Event 2" group-title="Extra",BR Event 2
+https://secure-272717.tatnet.app/brevent.akamaized.net/hls/live/2028219/event_02/master.m3u8
+
+#EXTINF:-1 tvg-name="BR Event 3" group-title="Extra",BR Event 3
+https://secure-272717.tatnet.app/brevent.akamaized.net/hls/live/2028220/event_03/master.m3u8
+
+#EXTINF:-1 tvg-name="BR Event 4" group-title="Extra",BR Event 4
+https://secure-272717.tatnet.app/brevent.akamaized.net/hls/live/2028221/event_04/master.m3u8
+
+#EXTINF:-1 tvg-name="MDR+ 1" group-title="Extra",MDR+ 1
+https://secure-272717.tatnet.app/mdrevent1wwhls.akamaized.net/hls/live/2025205/mdrevent1ww/master.m3u8
+
+#EXTINF:-1 tvg-name="MDR+ 2" group-title="Extra",MDR+ 2
+https://secure-272717.tatnet.app/mdrevent2wwhls.akamaized.net/hls/live/2025367/mdrevent2ww/master.m3u8
+
+#EXTINF:-1 tvg-name="MDR+ 3" group-title="Extra",MDR+ 3
+https://secure-272717.tatnet.app/mdrevent3wwhls.akamaized.net/hls/live/2025368/mdrevent3ww/master.m3u8
+
+#EXTINF:-1 tvg-name="MDR+ 4" group-title="Extra",MDR+ 4
+https://secure-272717.tatnet.app/mdrevent4wwhls.akamaized.net/hls/live/2025369/mdrevent4ww/master.m3u8
+
+#EXTINF:-1 tvg-name="MDR+ 5" group-title="Extra",MDR+ 5
+https://secure-272717.tatnet.app/mdrevent5wwhls.akamaized.net/hls/live/2025370/mdrevent5ww/master.m3u8
+
+#EXTINF:-1 tvg-name="HR Event 1" group-title="Extra",HR Event 1
+https://secure-272717.tatnet.app/hrevent-lh.akamaihd.net/i/hr_event@309239/master.m3u8
+
+#EXTINF:-1 tvg-name="HR Event 2" group-title="Extra",HR Event 2
+https://secure-272717.tatnet.app/hrevent2-lh.akamaihd.net/i/hr_event2@309240/master.m3u8
+
+#EXTINF:-1 tvg-name="rbb Event 1" group-title="Extra",rbb Event 1
+https://secure-272717.tatnet.app/rbbevent01-hls.akamaized.net/hls/live/685984/rbbevent01/master.m3u8
+
+#EXTINF:-1 tvg-name="rbb Event 2" group-title="Extra",rbb Event 2
+https://secure-272717.tatnet.app/rbbevent02-hls.akamaized.net/hls/live/685985/rbbevent02/master.m3u8
+
+#EXTINF:-1 tvg-name="Parlamentsfernsehen 1" group-title="Extra;Information / Bildung",Parlamentsfernsehen 1
+https://secure-272717.tatnet.app/bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ServusTV (AT)" group-title="International;Spartenprogramm",ServusTV (AT)
+https://secure-272717.tatnet.app/freqsyndlin.servustv.com/771_playlist.m3u8
+
+#EXTINF:-1 tvg-name="Krone.TV" group-title="International;Spartenprogramm",Krone.TV
+https://secure-272717.tatnet.app/kronetv.mdn.ors.at/live/eds/kronetv_hd/hls3_nodrm/kronetv_hd-nodrm.m3u8
+
+#EXTINF:-1 tvg-name="ORF eins" group-title="International",ORF eins
+https://secure-272717.tatnet.app/orf1.mdn.ors.at/out/u/orf1/q6a/manifest_6.m3u8
+
+#EXTINF:-1 tvg-name="ORF 2" group-title="International",ORF 2
+https://secure-272717.tatnet.app/orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
+
+#EXTINF:-1 tvg-name="ORF III" group-title="International",ORF III
+https://secure-272717.tatnet.app/orf3.mdn.ors.at/out/u/orf3/q6a/manifest_6.m3u8
+
+#EXTINF:-1 tvg-name="ORF SPORT +" group-title="International;Sport",ORF SPORT +
+https://secure-272717.tatnet.app/orfs.mdn.ors.at/out/u/orfs/q6a/manifest_6.m3u8
+
+#EXTINF:-1 tvg-name="dorf tv" group-title="International",dorf tv
+https://secure-272717.tatnet.app/stream.openplayout.org/hls/dorf_high/index.m3u8
+
+#EXTINF:-1 tvg-name="RE eins TV" group-title="International",RE eins TV
+https://secure-272717.tatnet.app/www.reeins.tv:1935/live/re1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="oe24 TV" group-title="International",oe24 TV
+https://secure-272717.tatnet.app/oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-nodrm.m3u8
+
+#EXTINF:-1 tvg-name="M4TV" group-title="International",M4TV
+https://secure-272717.tatnet.app/5a32c05065c79.streamlock.net/live/stream/chunklist_w286280757.m3u8
+
+#EXTINF:-1 tvg-name="Melodie TV" group-title="International;Musik",Melodie TV
+https://secure-272717.tatnet.app/live20.bozztv.com/akamaissh101/ssh101/melodietvlive/chunks.m3u8
+
+#EXTINF:-1 tvg-name="TeleZüri" group-title="International",TeleZüri
+https://secure-272717.tatnet.app/cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_se36k3uk/protocol/https/format/applehttp/flavorIds/1_i4zc9zv3,1_2vzxm8zl,1_yjohpwzj/a.m3u8
+
+#EXTINF:-1 tvg-name="TeleBärn" group-title="International",TeleBärn
+https://secure-272717.tatnet.app/cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_obr1n222/protocol/https/format/applehttp/flavorIds/1_ilmyd94i,1_ndclh5za,1_y4atcpo4/a.m3u8
+
+#EXTINF:-1 tvg-name="Tele M1" group-title="International",Tele M1
+https://secure-272717.tatnet.app/cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/protocol/https/format/applehttp/flavorIds/1_c3sydgl5,1_a4l5it9e,1_sc0f201h/a.m3u8
+
+#EXTINF:-1 tvg-name="TVO (CH)" group-title="International",TVO (CH)
+https://secure-272717.tatnet.app/s3.welocal.world/tvo/media/447348/videos/hls.m3u8
+
+#EXTINF:-1 tvg-name="TeleBielingue" group-title="International",TeleBielingue
+https://secure-272717.tatnet.app/edge21.vedge.infomaniak.com/livecast/ik:backup_5/manifest.m3u8
+
+#EXTINF:-1 tvg-name="TVM3" group-title="International;Musik",TVM3
+https://secure-272717.tatnet.app/edge16.vedge.infomaniak.com/livecast/tvm3/manifest.m3u8
+
+#EXTINF:-1 tvg-name="Telebasel" group-title="International",Telebasel
+https://secure-272717.tatnet.app/tb-simplex-cdn-live.akamaized.net/smsla-o-1080-720-360/ngrp:simplex-live-srt-49166.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Adult Swim" group-title="International;Comedy",Adult Swim
+https://secure-272717.tatnet.app/adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
+
+#EXTINF:-1 tvg-name="Adult Swim (Rick and Morty Marathon)" group-title="International;Comedy",Adult Swim (Rick and Morty Marathon)
+https://secure-272717.tatnet.app/adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
+
+#EXTINF:-1 tvg-name="Adult Swim (Last Stream on the Left Marathon)" group-title="International;Comedy",Adult Swim (Last Stream on the Left Marathon)
+https://secure-272717.tatnet.app/adultswim-vodlive.cdn.turner.com/live/lsotl/stream_7.m3u8
+
+#EXTINF:-1 tvg-name="Adult Swim (Off the Air Marathon)" group-title="International;Comedy",Adult Swim (Off the Air Marathon)
+https://secure-272717.tatnet.app/adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_7.m3u8
+
+#EXTINF:-1 tvg-name="Adult Swim (Metalocalypse Marathon)" group-title="International;Comedy",Adult Swim (Metalocalypse Marathon)
+https://secure-272717.tatnet.app/adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream_7.m3u8
+
+#EXTINF:-1 tvg-name="Adult Swim (Robot Chicken Marathon)" group-title="International;Comedy",Adult Swim (Robot Chicken Marathon)
+https://secure-272717.tatnet.app/adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_7.m3u8
+
+#EXTINF:-1 tvg-name="Adult Swim (Samurai Jack Marathon)" group-title="International;Comedy",Adult Swim (Samurai Jack Marathon)
+https://secure-272717.tatnet.app/adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_7.m3u8
+
+#EXTINF:-1 tvg-name="Adult Swim (Aqua Teen Hunger Force Marathon)" group-title="International;Comedy",Adult Swim (Aqua Teen Hunger Force Marathon)
+https://secure-272717.tatnet.app/adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_7.m3u8
+
+#EXTINF:-1 tvg-name="Adult Swim (The Eric Andre Show Marathon)" group-title="International;Comedy",Adult Swim (The Eric Andre Show Marathon)
+https://secure-272717.tatnet.app/adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_7.m3u8
+
+#EXTINF:-1 tvg-name="Adult Swim (The Venture Brothers Marathon)" group-title="International;Comedy",Adult Swim (The Venture Brothers Marathon)
+https://secure-272717.tatnet.app/adultswim-vodlive.cdn.turner.com/live/venture-bros/stream_7.m3u8
+
+#EXTINF:-1 tvg-name="Adult Swim (Channel 5 Marathon)" group-title="International;Comedy",Adult Swim (Channel 5 Marathon)
+https://secure-272717.tatnet.app/adultswim-vodlive.cdn.turner.com/live/channel-5/stream_7.m3u8
+
+#EXTINF:-1 tvg-name="Adult Swim (Infomercials Marathon)" group-title="International;Comedy",Adult Swim (Infomercials Marathon)
+https://secure-272717.tatnet.app/adultswim-vodlive.cdn.turner.com/live/infomercials/stream_7.m3u8
+
+#EXTINF:-1 tvg-name="Adult Swim (Black Jesus Marathon)" group-title="International;Comedy",Adult Swim (Black Jesus Marathon)
+https://secure-272717.tatnet.app/adultswim-vodlive.cdn.turner.com/live/black-jesus/stream_7.m3u8
+
+#EXTINF:-1 tvg-name="Adult Swim (Your Pretty Face is Going to Hell Marathon)" group-title="International;Comedy",Adult Swim (Your Pretty Face is Going to Hell Marathon)
+https://secure-272717.tatnet.app/adultswim-vodlive.cdn.turner.com/live/ypf/stream_7.m3u8
+
+#EXTINF:-1 tvg-name="Adult Swim (Dream Corp LLC Marathon)" group-title="International;Comedy",Adult Swim (Dream Corp LLC Marathon)
+https://secure-272717.tatnet.app/adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream_7.m3u8
+
+#EXTINF:-1 tvg-name="NASA TV" group-title="International;Information / Bildung",NASA TV
+https://secure-272717.tatnet.app/ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 tvg-name="CBSN" group-title="International;Nachrichten",CBSN
+https://secure-272717.tatnet.app/cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
+
+#EXTINF:-1 tvg-name="CBN News" group-title="International;Nachrichten",CBN News
+https://secure-272717.tatnet.app/bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_3000_av-p.m3u8
+
+#EXTINF:-1 tvg-name="Bloomberg TV" group-title="International;Wirtschaft",Bloomberg TV
+https://secure-272717.tatnet.app/www.bloomberg.com/media-manifest/streams/eu.m3u8
+
+#EXTINF:-1 tvg-name="SBN" group-title="International;Religion",SBN
+https://secure-272717.tatnet.app/sonlife7-i.akamaihd.net/hls/live/585011/ch7/ch70/ch70.m3u8
+
+#EXTINF:-1 tvg-name="GOD TV" group-title="International;Religion",GOD TV
+https://secure-272717.tatnet.app/zypelive-lh.akamaihd.net/i/default_1@745545/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-name="Voice of America" group-title="International;Nachrichten;Information / Bildung",Voice of America
+https://secure-272717.tatnet.app/voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+
+#EXTINF:-1 tvg-name="KTVU Fox 2" group-title="International;Nachrichten",KTVU Fox 2
+https://secure-272717.tatnet.app/play-prod1.live.anvato.net/server/play/ktvutestctg/master.m3u8
+
+#EXTINF:-1 tvg-name="WGN-TV" group-title="International;Nachrichten",WGN-TV
+https://secure-272717.tatnet.app/wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_2500_av-p.m3u8
+
+#EXTINF:-1 tvg-name="CMC" group-title="International;Musik",CMC
+https://secure-272717.tatnet.app/cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Hunt Channel" group-title="International;Sonstiges",Hunt Channel
+https://secure-272717.tatnet.app/1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+
+#EXTINF:-1 tvg-name="CNN International Europe" group-title="International;Nachrichten",CNN International Europe
+https://secure-272717.tatnet.app/cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Create & Craft TV" group-title="International;Teleshopping",Create & Craft TV
+https://secure-272717.tatnet.app/live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
+
+#EXTINF:-1 tvg-name="4Music" group-title="Musik",4Music
+https://secure-272717.tatnet.app/csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+
+#EXTINF:-1 tvg-name="CHCH" group-title="International;Nachrichten",CHCH
+https://secure-272717.tatnet.app/bcovlive-a.akamaihd.net/45a29af6ec4341539ddd3dd505c4b669/us-west-2/5644964886001/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TVNZ 1" group-title="International",TVNZ 1
+https://secure-272717.tatnet.app/tvnzioslive04-i.akamaihd.net/hls/live/267188/1924997895001/channel1/masterR_5.m3u8
+
+#EXTINF:-1 tvg-name="TVNZ 2" group-title="International",TVNZ 2
+https://secure-272717.tatnet.app/tvnzioslive05-i.akamaihd.net/hls/live/267189/1924997895001/channel2/masterR_55.m3u8
+
+#EXTINF:-1 tvg-name="Three" group-title="International;Nachrichten",Three
+https://secure-272717.tatnet.app/mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+
+#EXTINF:-1 tvg-name="ARTE (FR)" group-title="International;Vollprogramm",ARTE (FR)
+https://secure-272717.tatnet.app/artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master.m3u8
+
+#EXTINF:-1 tvg-name="BFMTV" group-title="International;Nachrichten",BFMTV
+https://secure-272717.tatnet.app/live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+
+#EXTINF:-1 tvg-name="XITE" group-title="International;Musik",XITE
+https://secure-272717.tatnet.app/ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="SDF" group-title="International",SDF
+https://secure-272717.tatnet.app/livestream.goinfo.it/SDFLive/sdfros/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Rai News 24" group-title="International;Nachrichten",Rai News 24
+https://secure-272717.tatnet.app/8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
+
+#EXTINF:-1 tvg-name="Fjorton" group-title="International",Fjorton
+https://secure-272717.tatnet.app/155.4.160.181:1935/fjwebb/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Digi 24" group-title="International;Nachrichten",Digi 24
+https://secure-272717.tatnet.app/82.76.40.76/digi24edge/smil:digi24.smil/chunklist_w41349427_b2830400_sleng.m3u8
+
+#EXTINF:-1 tvg-name="ProTv News" group-title="International;Nachrichten",ProTv News
+https://secure-272717.tatnet.app/185.133.64.237/news/stream:1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Realitatea TV" group-title="International;Nachrichten",Realitatea TV
+https://secure-272717.tatnet.app/livestream.realitatea.net/livestream/liverealitatea.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Romania TV" group-title="International;Nachrichten",Romania TV
+https://secure-272717.tatnet.app/ppext.arktv.ro/hls/channel6/bitrate4.m3u8
+
+#EXTINF:-1 tvg-name="Sitel" group-title="International",Sitel
+https://secure-272717.tatnet.app/51.255.92.232:1935/sitel/sitel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Kanal 5" group-title="International",Kanal 5
+https://secure-272717.tatnet.app/37.187.158.217:8081/kanal5/kanal5/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Alfa" group-title="International",Alfa
+https://secure-272717.tatnet.app/37.187.158.217:8081/alfa/tvalfa2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Telma" group-title="International",Telma
+https://secure-272717.tatnet.app/37.187.158.217:8081/telma/telma_360pp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="24 Vesti" group-title="International;Nachrichten",24 Vesti
+https://secure-272717.tatnet.app/37.187.158.217:8081/24vesti/24vesti/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MetroTV" group-title="International;Nachrichten",MetroTV
+https://secure-272717.tatnet.app/edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+
+#EXTINF:-1 tvg-name="NHK WORLD TV" group-title="International;Nachrichten;Dokumentationen",NHK WORLD TV
+https://secure-272717.tatnet.app/media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
+
+#EXTINF:-1 tvg-name="Al Jazeera English" group-title="International;Nachrichten",Al Jazeera English
+https://secure-272717.tatnet.app/live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
+
+#EXTINF:-1 tvg-name="Dubai One" group-title="International;Filme / Serien",Dubai One
+https://secure-272717.tatnet.app/dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 tvg-name="KVF" group-title="International",KVF
+https://secure-272717.tatnet.app/w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/chunklist_w121411721_b5000000_slfao.m3u8
+
+#EXTINF:-1 tvg-name="RTÉ News Now" group-title="International;Nachrichten",RTÉ News Now
+https://secure-272717.tatnet.app/wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Mello TV" group-title="International;Filme / Serien",Mello TV
+https://secure-272717.tatnet.app/wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Channel NewsAsia" group-title="International;Nachrichten",Channel NewsAsia
+https://secure-272717.tatnet.app/d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 tvg-name="Arirang TV" group-title="International",Arirang TV
+https://secure-272717.tatnet.app/amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+
+#EXTINF:-1 tvg-name="Alfa TV" group-title="International",Alfa TV
+https://secure-272717.tatnet.app/alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SferaTV" group-title="International",SferaTV
+https://secure-272717.tatnet.app/stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CNN International" group-title="News",CNN International
+https://secure-272717.tatnet.app/stream-server.com:8080/live/username/password/12346.ts</code></pre></div><p>Every IPTV player — whether it's IPTV Smarters Pro, TiviMate, XCIPTV, VLC, or Smart IPTV — can read M3U files. It's the universal format for IPTV channel lists.</p><!-- M3U vs Xtream Codes --><h2 class="text-2xl font-bold text-white !mt-12 !mb-6">M3U Playlist vs. Xtream Codes API: What's the Difference?</h2><p>When you subscribe to an IPTV service, you'll typically receive your credentials in one of two formats:</p><div class="grid grid-cols-1 sm:grid-cols-2 gap-5 !my-8"><div class="glass-card rounded-xl p-6"><h4 class="text-lg font-semibold text-accent mb-3">M3U Playlist URL</h4><p class="text-base text-text-muted mb-3">A single URL that points to your full channel list. You paste it directly into your IPTV app.</p><div class="bg-black/40 rounded-lg p-3 text-xs text-text-dim overflow-x-auto"><code>http://server.com:8080/get.php?username=USER&password=PASS&type=m3u_plus</code></div><ul class="list-disc pl-5 space-y-1 text-sm text-text-muted mt-3"><li>Works with every IPTV player</li><li>Simple to set up</li><li>No EPG integration by default</li></ul></div><div class="glass-card rounded-xl p-6"><h4 class="text-lg font-semibold text-accent mb-3">Xtream Codes API</h4><p class="text-base text-text-muted mb-3">Server URL + username + password. The app connects directly to the IPTV server for a richer experience.</p><div class="bg-black/40 rounded-lg p-3 text-xs text-text-dim overflow-x-auto"><code>Server: http://server.com:8080<br>User: your_username<br>Pass: your_password</code></div><ul class="list-disc pl-5 space-y-1 text-sm text-text-muted mt-3"><li>Built-in EPG (TV guide)</li><li>Organized categories</li><li>Catch-up TV support</li></ul></div></div><p><strong>Which should you use?</strong> If your IPTV app supports Xtream Codes (most do), use that — it provides a better experience with EPG and organized channel categories. If not, the <strong>M3U playlist URL</strong> works universally.</p><!-- How to use M3U playlists --><h2 class="text-3xl font-bold text-white !mt-14 !mb-6">How to Use M3U Playlists in IPTV Apps</h2><p>Once you have your <strong>M3U URL</strong> or M3U file, here's how to load it into the most popular IPTV players.</p><!-- TiviMate --><h3 class="text-xl font-semibold text-white !mt-10 !mb-4">TiviMate — Best M3U Player for Fire Stick</h3><p>TiviMate is widely considered the best IPTV player for <a href="/iptv/test-iptv-fire-stick/" class="text-accent hover:text-accent-hover transition underline">Amazon Fire Stick</a> and Android TV. Here's how to add a <strong>TiviMate playlist M3U</strong>:</p><div class="space-y-3 !my-6"><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">1</div><p class="text-text-muted leading-relaxed">Open TiviMate and go to <strong class="text-white">Settings → Playlists</strong>.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">2</div><p class="text-text-muted leading-relaxed">Select <strong class="text-white">Add Playlist</strong> and choose <strong class="text-white">M3U Playlist</strong> or <strong class="text-white">Xtream Codes</strong>.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">3</div><p class="text-text-muted leading-relaxed">Paste your <strong class="text-white">TiviMate playlist URL</strong> (M3U URL from your IPTV provider).</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">4</div><p class="text-text-muted leading-relaxed">Wait for channels to load. Add an EPG URL if your provider gave you one separately.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">5</div><p class="text-text-muted leading-relaxed">Done. Browse channels by category and start streaming.</p></div></div><!-- IPTV Smarters Pro --><h3 class="text-xl font-semibold text-white !mt-10 !mb-4">IPTV Smarters Pro — Load M3U Playlist</h3><p>IPTV Smarters Pro supports both M3U and Xtream Codes. To load an <strong>IPTV M3U playlist</strong>:</p><div class="space-y-3 !my-6"><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">1</div><p class="text-text-muted leading-relaxed">Open IPTV Smarters Pro and select <strong class="text-white">Add User → Load Your Playlist or File/URL</strong>.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">2</div><p class="text-text-muted leading-relaxed">Choose <strong class="text-white">M3U URL</strong> and paste your playlist URL.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">3</div><p class="text-text-muted leading-relaxed">Give it a name (e.g., "My IPTV") and tap <strong class="text-white">Add User</strong>.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">4</div><p class="text-text-muted leading-relaxed">Channels load automatically. Navigate via Live TV, Movies, or Series sections.</p></div></div><!-- VLC --><h3 class="text-xl font-semibold text-white !mt-10 !mb-4">VLC Media Player — Open M3U Files on PC or Mac</h3><p>VLC is a free, open-source media player that can play <strong>M3U files</strong> directly on your computer.</p><div class="space-y-3 !my-6"><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">1</div><p class="text-text-muted leading-relaxed">Download and install <a href="https://www.videolan.org/" class="text-accent hover:text-accent-hover transition underline" target="_blank" rel="noopener noreferrer">VLC Media Player</a>.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">2</div><p class="text-text-muted leading-relaxed">Go to <strong class="text-white">Media → Open Network Stream</strong>.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">3</div><p class="text-text-muted leading-relaxed">Paste your <strong class="text-white">M3U playlist URL</strong> and click Play.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">4</div><p class="text-text-muted leading-relaxed">Or drag a downloaded <code class="bg-white/10 px-2 py-0.5 rounded text-sm">.m3u</code> file directly into VLC.</p></div></div><!-- Free vs Paid M3U --><h2 class="text-3xl font-bold text-white !mt-14 !mb-6">Free M3U Playlists vs. Paid IPTV Subscriptions</h2><p>There are two ways to get IPTV playlists: free public lists scattered around the internet, or paid subscriptions from IPTV providers.</p><p>Here's the honest comparison:</p><div class="grid grid-cols-1 sm:grid-cols-2 gap-5 !my-8"><div class="glass-card rounded-xl p-6"><h4 class="text-lg font-semibold text-red-400 mb-3">Free M3U Playlists</h4><ul class="list-disc pl-5 space-y-2 text-base text-text-muted"><li>Channels go offline constantly</li><li>No EPG or TV guide</li><li>Low quality — many are SD or 480p</li><li>No support or reliability</li><li>Often outdated within hours or days</li><li>Security risks from unknown sources</li><li>No catch-up TV or VOD</li></ul></div><div class="glass-card rounded-xl p-6 border border-accent/20"><h4 class="text-lg font-semibold text-green mb-3">Paid IPTV Subscription</h4><ul class="list-disc pl-5 space-y-2 text-base text-text-muted"><li>20,000+ stable, working channels</li><li>Full EPG with program guide</li><li>HD, FHD, and 4K quality</li><li>24/7 customer support</li><li>Regular updates and new channels</li><li>Dedicated servers with anti-buffering</li><li>VOD library + catch-up TV</li></ul></div></div><p>Free <strong>public IPTV playlists</strong> might sound appealing, but in practice they're unreliable. Channels break within hours, streams buffer constantly, and there's no support when things stop working.</p><p>If you're serious about IPTV, a paid subscription with a <a href="/free-trial/" class="text-accent hover:text-accent-hover transition underline">free trial</a> is always the better long-term choice.</p><!-- Where people find M3U playlists --><h2 class="text-3xl font-bold text-white !mt-14 !mb-6">Where Do People Find Free IPTV M3U Playlists?</h2><p>People searching for <strong>free M3U playlists</strong>, <strong>free IPTV M3U playlist HD channels download</strong>, or <strong>public IPTV playlists</strong> typically find them on:</p><div class="space-y-3 !my-6"><div class="glass-card rounded-xl p-5"><strong class="text-white">GitHub Repositories</strong> — <span class="text-text-muted">Developers maintain public M3U lists on GitHub. These are the most commonly shared free IPTV lists, but channels frequently go offline.</span></div><div class="glass-card rounded-xl p-5"><strong class="text-white">Reddit Communities</strong> — <span class="text-text-muted">Subreddits dedicated to IPTV sometimes share M3U links and playlist URLs. Quality varies wildly.</span></div><div class="glass-card rounded-xl p-5"><strong class="text-white">IPTV Forums & Telegram Groups</strong> — <span class="text-text-muted">Community-driven groups share IPTV links, but many are unreliable or even malicious.</span></div><div class="glass-card rounded-xl p-5"><strong class="text-white">Dedicated Websites</strong> — <span class="text-text-muted">Some websites curate and update <strong>free M3U lists</strong>. These tend to have the shortest lifespan as streams get taken down regularly.</span></div></div><div class="glass-card rounded-xl p-6 border-l-4 border-l-yellow-400 !my-8"><h4 class="text-lg font-semibold text-yellow-400 mb-2">Important Warning</h4><p class="text-base text-text-muted">Free IPTV playlists from unknown sources can contain malicious URLs, tracking scripts, or redirect to harmful content. Always use a VPN, avoid downloading executable files, and never enter personal information on unknown sites. For a safe, reliable experience, use a trusted <a href="/iptv/" class="text-accent hover:text-accent-hover transition underline">IPTV provider</a> with proper support.</p></div><!-- IPTV Global Channels --><h2 class="text-2xl font-bold text-white !mt-12 !mb-6">IPTV Global Channels Playlist — What's Available?</h2><p>One of the biggest draws of IPTV is access to <strong>global channels</strong>. A quality <strong>IPTV global channels playlist</strong> typically includes:</p><div class="grid grid-cols-2 sm:grid-cols-3 gap-3 !my-6"><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🇺🇸</span><span class="text-sm font-semibold text-white">USA</span><span class="text-xs text-text-dim block">ABC, CBS, NBC, ESPN, Fox</span></div><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🇬🇧</span><span class="text-sm font-semibold text-white">UK</span><span class="text-xs text-text-dim block">BBC, ITV, Sky Sports</span></div><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🇨🇦</span><span class="text-sm font-semibold text-white">Canada</span><span class="text-xs text-text-dim block">TSN, CBC, Sportsnet</span></div><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🇫🇷</span><span class="text-sm font-semibold text-white">France</span><span class="text-xs text-text-dim block">TF1, Canal+, beIN</span></div><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🇩🇪</span><span class="text-sm font-semibold text-white">Germany</span><span class="text-xs text-text-dim block">ARD, ZDF, Sky DE</span></div><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🇧🇷</span><span class="text-sm font-semibold text-white">Brazil</span><span class="text-xs text-text-dim block">Globo, SporTV, Band</span></div><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🇮🇳</span><span class="text-sm font-semibold text-white">India</span><span class="text-xs text-text-dim block">Star, Zee, Sony</span></div><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🇸🇦</span><span class="text-sm font-semibold text-white">Arabic</span><span class="text-xs text-text-dim block">MBC, Al Jazeera, OSN</span></div><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🌍</span><span class="text-sm font-semibold text-white">100+ Countries</span><span class="text-xs text-text-dim block">Latino, Asian, African</span></div></div><p>A <strong>paid IPTV subscription</strong> includes all of these in a single, organized playlist — with EPG, channel logos, and category grouping. Free M3U lists might have some of these channels, but they'll be scattered, poorly labeled, and frequently broken.</p><!-- Live Sports M3U --><h2 class="text-2xl font-bold text-white !mt-12 !mb-6">Live Sports M3U Playlists</h2><p>People searching for <strong>live sports M3U</strong> playlists want access to channels like ESPN, Fox Sports, beIN Sports, Sky Sports, and PPV events.</p><p>Free sports M3U playlists are the most unreliable type — they go down during peak demand (exactly when you need them most). During major events like the Super Bowl, NBA Finals, or UFC cards, free streams buffer, crash, or get taken offline.</p><p>For reliable live sports streaming, a paid IPTV service is the only consistent option. Most <a href="/iptv/" class="text-accent hover:text-accent-hover transition underline">top IPTV providers</a> include every major sports network worldwide, plus PPV events, in their standard channel package.</p><!-- Best M3U playlist --><h2 class="text-2xl font-bold text-white !mt-12 !mb-6">What Makes the Best M3U Playlist?</h2><p>Whether you're using a free or paid <strong>IPTV list</strong>, here's what separates a good M3U playlist from a bad one:</p><div class="space-y-4 !my-6"><div class="glass-card rounded-xl p-5"><strong class="text-accent">Channel Organization</strong> — <span class="text-text-muted">Channels should be grouped by country, category (Sports, News, Entertainment, Movies), and quality (HD, FHD, 4K).</span></div><div class="glass-card rounded-xl p-5"><strong class="text-accent">Working Stream URLs</strong> — <span class="text-text-muted">Every channel link should actually load. Dead links are the 
+
+#EXTINF:-1 tvg-name="CNN International" group-title="News",CNN International
+https://secure-272717.tatnet.app/stream-server.com:8080/live/username/password/12346.ts</code></pre></div><p>Every IPTV player — whether it's IPTV Smarters Pro, TiviMate, XCIPTV, VLC, or Smart IPTV — can read M3U files. It's the universal format for IPTV channel lists.</p><!-- M3U vs Xtream Codes --><h2 class="text-2xl font-bold text-white !mt-12 !mb-6">M3U Playlist vs. Xtream Codes API: What's the Difference?</h2><p>When you subscribe to an IPTV service, you'll typically receive your credentials in one of two formats:</p><div class="grid grid-cols-1 sm:grid-cols-2 gap-5 !my-8"><div class="glass-card rounded-xl p-6"><h4 class="text-lg font-semibold text-accent mb-3">M3U Playlist URL</h4><p class="text-base text-text-muted mb-3">A single URL that points to your full channel list. You paste it directly into your IPTV app.</p><div class="bg-black/40 rounded-lg p-3 text-xs text-text-dim overflow-x-auto"><code>http://server.com:8080/get.php?username=USER&password=PASS&type=m3u_plus</code></div><ul class="list-disc pl-5 space-y-1 text-sm text-text-muted mt-3"><li>Works with every IPTV player</li><li>Simple to set up</li><li>No EPG integration by default</li></ul></div><div class="glass-card rounded-xl p-6"><h4 class="text-lg font-semibold text-accent mb-3">Xtream Codes API</h4><p class="text-base text-text-muted mb-3">Server URL + username + password. The app connects directly to the IPTV server for a richer experience.</p><div class="bg-black/40 rounded-lg p-3 text-xs text-text-dim overflow-x-auto"><code>Server: http://server.com:8080<br>User: your_username<br>Pass: your_password</code></div><ul class="list-disc pl-5 space-y-1 text-sm text-text-muted mt-3"><li>Built-in EPG (TV guide)</li><li>Organized categories</li><li>Catch-up TV support</li></ul></div></div><p><strong>Which should you use?</strong> If your IPTV app supports Xtream Codes (most do), use that — it provides a better experience with EPG and organized channel categories. If not, the <strong>M3U playlist URL</strong> works universally.</p><!-- How to use M3U playlists --><h2 class="text-3xl font-bold text-white !mt-14 !mb-6">How to Use M3U Playlists in IPTV Apps</h2><p>Once you have your <strong>M3U URL</strong> or M3U file, here's how to load it into the most popular IPTV players.</p><!-- TiviMate --><h3 class="text-xl font-semibold text-white !mt-10 !mb-4">TiviMate — Best M3U Player for Fire Stick</h3><p>TiviMate is widely considered the best IPTV player for <a href="/iptv/test-iptv-fire-stick/" class="text-accent hover:text-accent-hover transition underline">Amazon Fire Stick</a> and Android TV. Here's how to add a <strong>TiviMate playlist M3U</strong>:</p><div class="space-y-3 !my-6"><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">1</div><p class="text-text-muted leading-relaxed">Open TiviMate and go to <strong class="text-white">Settings → Playlists</strong>.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">2</div><p class="text-text-muted leading-relaxed">Select <strong class="text-white">Add Playlist</strong> and choose <strong class="text-white">M3U Playlist</strong> or <strong class="text-white">Xtream Codes</strong>.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">3</div><p class="text-text-muted leading-relaxed">Paste your <strong class="text-white">TiviMate playlist URL</strong> (M3U URL from your IPTV provider).</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">4</div><p class="text-text-muted leading-relaxed">Wait for channels to load. Add an EPG URL if your provider gave you one separately.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">5</div><p class="text-text-muted leading-relaxed">Done. Browse channels by category and start streaming.</p></div></div><!-- IPTV Smarters Pro --><h3 class="text-xl font-semibold text-white !mt-10 !mb-4">IPTV Smarters Pro — Load M3U Playlist</h3><p>IPTV Smarters Pro supports both M3U and Xtream Codes. To load an <strong>IPTV M3U playlist</strong>:</p><div class="space-y-3 !my-6"><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">1</div><p class="text-text-muted leading-relaxed">Open IPTV Smarters Pro and select <strong class="text-white">Add User → Load Your Playlist or File/URL</strong>.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">2</div><p class="text-text-muted leading-relaxed">Choose <strong class="text-white">M3U URL</strong> and paste your playlist URL.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">3</div><p class="text-text-muted leading-relaxed">Give it a name (e.g., "My IPTV") and tap <strong class="text-white">Add User</strong>.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">4</div><p class="text-text-muted leading-relaxed">Channels load automatically. Navigate via Live TV, Movies, or Series sections.</p></div></div><!-- VLC --><h3 class="text-xl font-semibold text-white !mt-10 !mb-4">VLC Media Player — Open M3U Files on PC or Mac</h3><p>VLC is a free, open-source media player that can play <strong>M3U files</strong> directly on your computer.</p><div class="space-y-3 !my-6"><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">1</div><p class="text-text-muted leading-relaxed">Download and install <a href="https://www.videolan.org/" class="text-accent hover:text-accent-hover transition underline" target="_blank" rel="noopener noreferrer">VLC Media Player</a>.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">2</div><p class="text-text-muted leading-relaxed">Go to <strong class="text-white">Media → Open Network Stream</strong>.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">3</div><p class="text-text-muted leading-relaxed">Paste your <strong class="text-white">M3U playlist URL</strong> and click Play.</p></div><div class="flex items-start gap-4 glass-card rounded-xl p-5"><div class="bg-accent text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-sm shadow-lg shadow-accent/20">4</div><p class="text-text-muted leading-relaxed">Or drag a downloaded <code class="bg-white/10 px-2 py-0.5 rounded text-sm">.m3u</code> file directly into VLC.</p></div></div><!-- Free vs Paid M3U --><h2 class="text-3xl font-bold text-white !mt-14 !mb-6">Free M3U Playlists vs. Paid IPTV Subscriptions</h2><p>There are two ways to get IPTV playlists: free public lists scattered around the internet, or paid subscriptions from IPTV providers.</p><p>Here's the honest comparison:</p><div class="grid grid-cols-1 sm:grid-cols-2 gap-5 !my-8"><div class="glass-card rounded-xl p-6"><h4 class="text-lg font-semibold text-red-400 mb-3">Free M3U Playlists</h4><ul class="list-disc pl-5 space-y-2 text-base text-text-muted"><li>Channels go offline constantly</li><li>No EPG or TV guide</li><li>Low quality — many are SD or 480p</li><li>No support or reliability</li><li>Often outdated within hours or days</li><li>Security risks from unknown sources</li><li>No catch-up TV or VOD</li></ul></div><div class="glass-card rounded-xl p-6 border border-accent/20"><h4 class="text-lg font-semibold text-green mb-3">Paid IPTV Subscription</h4><ul class="list-disc pl-5 space-y-2 text-base text-text-muted"><li>20,000+ stable, working channels</li><li>Full EPG with program guide</li><li>HD, FHD, and 4K quality</li><li>24/7 customer support</li><li>Regular updates and new channels</li><li>Dedicated servers with anti-buffering</li><li>VOD library + catch-up TV</li></ul></div></div><p>Free <strong>public IPTV playlists</strong> might sound appealing, but in practice they're unreliable. Channels break within hours, streams buffer constantly, and there's no support when things stop working.</p><p>If you're serious about IPTV, a paid subscription with a <a href="/free-trial/" class="text-accent hover:text-accent-hover transition underline">free trial</a> is always the better long-term choice.</p><!-- Where people find M3U playlists --><h2 class="text-3xl font-bold text-white !mt-14 !mb-6">Where Do People Find Free IPTV M3U Playlists?</h2><p>People searching for <strong>free M3U playlists</strong>, <strong>free IPTV M3U playlist HD channels download</strong>, or <strong>public IPTV playlists</strong> typically find them on:</p><div class="space-y-3 !my-6"><div class="glass-card rounded-xl p-5"><strong class="text-white">GitHub Repositories</strong> — <span class="text-text-muted">Developers maintain public M3U lists on GitHub. These are the most commonly shared free IPTV lists, but channels frequently go offline.</span></div><div class="glass-card rounded-xl p-5"><strong class="text-white">Reddit Communities</strong> — <span class="text-text-muted">Subreddits dedicated to IPTV sometimes share M3U links and playlist URLs. Quality varies wildly.</span></div><div class="glass-card rounded-xl p-5"><strong class="text-white">IPTV Forums & Telegram Groups</strong> — <span class="text-text-muted">Community-driven groups share IPTV links, but many are unreliable or even malicious.</span></div><div class="glass-card rounded-xl p-5"><strong class="text-white">Dedicated Websites</strong> — <span class="text-text-muted">Some websites curate and update <strong>free M3U lists</strong>. These tend to have the shortest lifespan as streams get taken down regularly.</span></div></div><div class="glass-card rounded-xl p-6 border-l-4 border-l-yellow-400 !my-8"><h4 class="text-lg font-semibold text-yellow-400 mb-2">Important Warning</h4><p class="text-base text-text-muted">Free IPTV playlists from unknown sources can contain malicious URLs, tracking scripts, or redirect to harmful content. Always use a VPN, avoid downloading executable files, and never enter personal information on unknown sites. For a safe, reliable experience, use a trusted <a href="/iptv/" class="text-accent hover:text-accent-hover transition underline">IPTV provider</a> with proper support.</p></div><!-- IPTV Global Channels --><h2 class="text-2xl font-bold text-white !mt-12 !mb-6">IPTV Global Channels Playlist — What's Available?</h2><p>One of the biggest draws of IPTV is access to <strong>global channels</strong>. A quality <strong>IPTV global channels playlist</strong> typically includes:</p><div class="grid grid-cols-2 sm:grid-cols-3 gap-3 !my-6"><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🇺🇸</span><span class="text-sm font-semibold text-white">USA</span><span class="text-xs text-text-dim block">ABC, CBS, NBC, ESPN, Fox</span></div><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🇬🇧</span><span class="text-sm font-semibold text-white">UK</span><span class="text-xs text-text-dim block">BBC, ITV, Sky Sports</span></div><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🇨🇦</span><span class="text-sm font-semibold text-white">Canada</span><span class="text-xs text-text-dim block">TSN, CBC, Sportsnet</span></div><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🇫🇷</span><span class="text-sm font-semibold text-white">France</span><span class="text-xs text-text-dim block">TF1, Canal+, beIN</span></div><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🇩🇪</span><span class="text-sm font-semibold text-white">Germany</span><span class="text-xs text-text-dim block">ARD, ZDF, Sky DE</span></div><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🇧🇷</span><span class="text-sm font-semibold text-white">Brazil</span><span class="text-xs text-text-dim block">Globo, SporTV, Band</span></div><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🇮🇳</span><span class="text-sm font-semibold text-white">India</span><span class="text-xs text-text-dim block">Star, Zee, Sony</span></div><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🇸🇦</span><span class="text-sm font-semibold text-white">Arabic</span><span class="text-xs text-text-dim block">MBC, Al Jazeera, OSN</span></div><div class="glass-card rounded-xl p-4 text-center"><span class="text-2xl block mb-1">🌍</span><span class="text-sm font-semibold text-white">100+ Countries</span><span class="text-xs text-text-dim block">Latino, Asian, African</span></div></div><p>A <strong>paid IPTV subscription</strong> includes all of these in a single, organized playlist — with EPG, channel logos, and category grouping. Free M3U lists might have some of these channels, but they'll be scattered, poorly labeled, and frequently broken.</p><!-- Live Sports M3U --><h2 class="text-2xl font-bold text-white !mt-12 !mb-6">Live Sports M3U Playlists</h2><p>People searching for <strong>live sports M3U</strong> playlists want access to channels like ESPN, Fox Sports, beIN Sports, Sky Sports, and PPV events.</p><p>Free sports M3U playlists are the most unreliable type — they go down during peak demand (exactly when you need them most). During major events like the Super Bowl, NBA Finals, or UFC cards, free streams buffer, crash, or get taken offline.</p><p>For reliable live sports streaming, a paid IPTV service is the only consistent option. Most <a href="/iptv/" class="text-accent hover:text-accent-hover transition underline">top IPTV providers</a> include every major sports network worldwide, plus PPV events, in their standard channel package.</p><!-- Best M3U playlist --><h2 class="text-2xl font-bold text-white !mt-12 !mb-6">What Makes the Best M3U Playlist?</h2><p>Whether you're using a free or paid <strong>IPTV list</strong>, here's what separates a good M3U playlist from a bad one:</p><div class="space-y-4 !my-6"><div class="glass-card rounded-xl p-5"><strong class="text-accent">Channel Organization</strong> — <span class="text-text-muted">Channels should be grouped by country, category (Sports, News, Entertainment, Movies), and quality (HD, FHD, 4K).</span></div><div class="glass-card rounded-xl p-5"><strong class="text-accent">Working Stream URLs</strong> — <span class="text-text-muted">Every channel link should actually load. Dead links are the 
+
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="IPTV",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8
 
@@ -58295,13 +58901,13 @@ https://secure-272717.tatnet.app/rbmn-live.akamaized.net/hls/live/2002825/geoSTV
 #EXTINF:-1 tvg-name="oe24" group-title="IPTV",oe24
 https://secure-272717.tatnet.app/varoe24live.sf.apa.at/oe24-live1/oe24.smil/chunklist_b1900000.m3u8
 
-#EXTINF:-1 tvg-name="W24" group-title="IPTV",W24
+#EXTINF:-1 tvg-name="W24 TV" group-title="International",W24 TV
 https://secure-272717.tatnet.app/ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="P3TV" group-title="IPTV",P3TV
 https://secure-272717.tatnet.app/p3-6.mov.at:1935/live/weekstream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RTV" group-title="IPTV",RTV
+#EXTINF:-1 tvg-name="RTV (AT)" group-title="International",RTV (AT)
 https://secure-272717.tatnet.app/iptv.rtv-ooe.at/stream.m3u8
 
 #EXTINF:-1 tvg-name="RTS Ⓖ" group-title="IPTV",RTS Ⓖ
@@ -59006,7 +59612,7 @@ https://secure-272717.tatnet.app/live-fi.tvkaista.net/tapahtumatv-eveo/live.m3u8
 #EXTINF:-1 tvg-name="Viaplay TV" group-title="Finland",Viaplay TV
 https://secure-272717.tatnet.app/live-fi.tvkaista.net/viaplay-tv/live.m3u8?src=freetv
 
-#EXTINF:-1 tvg-name="Taivas TV7" group-title="Finland",Taivas TV7
+#EXTINF:-1 tvg-name="Taivas TV7" group-title="International",Taivas TV7
 https://secure-272717.tatnet.app/vod.tv7.fi/tv7-fi/_definst_/smil:tv7-fi.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Himlen TV7" group-title="Finland",Himlen TV7
@@ -59081,43 +59687,43 @@ https://secure-272717.tatnet.app/c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 #EXTINF:-1 tvg-name="Pos TV" group-title="Georgia",Pos TV
 https://secure-272717.tatnet.app/live.postv.media/stream/index.m3u8
 
-#EXTINF:-1 tvg-name="Das Erste Ⓖ" group-title="Germany",Das Erste Ⓖ
+#EXTINF:-1 tvg-name="Das Erste" group-title="Vollprogramm",Das Erste
 https://secure-272717.tatnet.app/daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 
 #EXTINF:-1 tvg-name="ZDF Ⓖ" group-title="Germany",ZDF Ⓖ
 https://secure-272717.tatnet.app/zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-name="3sat Ⓖ" group-title="Germany",3sat Ⓖ
+#EXTINF:-1 tvg-name="3sat" group-title="Vollprogramm",3sat
 https://secure-272717.tatnet.app/zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-name="ARD-alpha" group-title="Education",ARD-alpha
+#EXTINF:-1 tvg-name="ARD-alpha" group-title="Spartenprogramm",ARD-alpha
 https://secure-272717.tatnet.app/mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 
-#EXTINF:-1 tvg-name="SCHLAGER DELUXE" group-title="Germany",SCHLAGER DELUXE
+#EXTINF:-1 tvg-name="Schlager Deluxe" group-title="Musik",Schlager Deluxe
 https://secure-272717.tatnet.app/sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 
-#EXTINF:-1 tvg-name="KiKa Ⓖ" group-title="Germany",KiKa Ⓖ
+#EXTINF:-1 tvg-name="KiKA" group-title="Kinder / Jugend",KiKA
 https://secure-272717.tatnet.app/kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 
-#EXTINF:-1 tvg-name="ONE Ⓖ" group-title="Germany",ONE Ⓖ
+#EXTINF:-1 tvg-name="one" group-title="Spartenprogramm",one
 https://secure-272717.tatnet.app/mcdn-one.ard.de/ardone/hls/master.m3u8
 
-#EXTINF:-1 tvg-name="Phoenix Ⓖ" group-title="Germany",Phoenix Ⓖ
+#EXTINF:-1 tvg-name="phoenix" group-title="Nachrichten",phoenix
 https://secure-272717.tatnet.app/zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-name="Tagesschau 24" group-title="Undefined",Tagesschau 24
+#EXTINF:-1 tvg-name="tagesschau24" group-title="Nachrichten",tagesschau24
 https://secure-272717.tatnet.app/tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 
 #EXTINF:-1 tvg-name="Welt" group-title="Germany",Welt
 https://secure-272717.tatnet.app/w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
 
-#EXTINF:-1 tvg-name="ZDFinfo Ⓖ" group-title="Germany",ZDFinfo Ⓖ
+#EXTINF:-1 tvg-name="ZDFinfo" group-title="Spartenprogramm",ZDFinfo
 https://secure-272717.tatnet.app/zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-name="ZDFneo Ⓖ" group-title="Germany",ZDFneo Ⓖ
+#EXTINF:-1 tvg-name="ZDFneo" group-title="Spartenprogramm",ZDFneo
 https://secure-272717.tatnet.app/zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-name="BR Fernsehen Nord" group-title="Undefined",BR Fernsehen Nord
+#EXTINF:-1 tvg-name="BR Fernsehen Nord" group-title="Regional",BR Fernsehen Nord
 https://secure-272717.tatnet.app/mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
 
 #EXTINF:-1 tvg-name="BR Süd Ⓖ" group-title="Germany",BR Süd Ⓖ
@@ -59126,43 +59732,43 @@ https://secure-272717.tatnet.app/brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master
 #EXTINF:-1 tvg-name="HR Ⓖ" group-title="Germany",HR Ⓖ
 https://secure-272717.tatnet.app/hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
 
-#EXTINF:-1 tvg-name="MDR Sachsen Ⓖ" group-title="Germany",MDR Sachsen Ⓖ
+#EXTINF:-1 tvg-name="MDR Sachsen" group-title="Regional",MDR Sachsen
 https://secure-272717.tatnet.app/mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
 
-#EXTINF:-1 tvg-name="MDR Sachsen-Anhalt Ⓖ" group-title="Germany",MDR Sachsen-Anhalt Ⓖ
+#EXTINF:-1 tvg-name="MDR Sachsen-Anhalt" group-title="Regional",MDR Sachsen-Anhalt
 https://secure-272717.tatnet.app/mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master.m3u8
 
-#EXTINF:-1 tvg-name="MDR Thüringen Ⓖ" group-title="Germany",MDR Thüringen Ⓖ
+#EXTINF:-1 tvg-name="MDR Thüringen" group-title="Regional",MDR Thüringen
 https://secure-272717.tatnet.app/mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8
 
-#EXTINF:-1 tvg-name="NDR Hamburg" group-title="General",NDR Hamburg
+#EXTINF:-1 tvg-name="NDR Hamburg" group-title="Regional",NDR Hamburg
 https://secure-272717.tatnet.app/mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
 
-#EXTINF:-1 tvg-name="NDR Mecklenburg-Vorpommern" group-title="General",NDR Mecklenburg-Vorpommern
+#EXTINF:-1 tvg-name="NDR Mecklenburg-Vorpommern" group-title="Regional",NDR Mecklenburg-Vorpommern
 https://secure-272717.tatnet.app/mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
 
-#EXTINF:-1 tvg-name="NDR Niedersachsen" group-title="General",NDR Niedersachsen
+#EXTINF:-1 tvg-name="NDR Niedersachsen" group-title="Regional",NDR Niedersachsen
 https://secure-272717.tatnet.app/mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 
-#EXTINF:-1 tvg-name="NDR Schleswig-Holstein" group-title="General",NDR Schleswig-Holstein
+#EXTINF:-1 tvg-name="NDR Schleswig-Holstein" group-title="Regional",NDR Schleswig-Holstein
 https://secure-272717.tatnet.app/mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
 
-#EXTINF:-1 tvg-name="Radio Bremen Fernsehen [Geo-blocked]" group-title="Undefined",Radio Bremen Fernsehen [Geo-blocked]
+#EXTINF:-1 tvg-name="Radio Bremen TV" group-title="Regional",Radio Bremen TV
 https://secure-272717.tatnet.app/rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
 
-#EXTINF:-1 tvg-name="RBB Berlin Ⓖ" group-title="Germany",RBB Berlin Ⓖ
+#EXTINF:-1 tvg-name="rbb Berlin" group-title="Regional",rbb Berlin
 https://secure-272717.tatnet.app/rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
 
-#EXTINF:-1 tvg-name="RBB Brandenburg [Geo-blocked]" group-title="Undefined",RBB Brandenburg [Geo-blocked]
+#EXTINF:-1 tvg-name="rbb Brandenburg" group-title="Regional",rbb Brandenburg
 https://secure-272717.tatnet.app/rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
 
-#EXTINF:-1 tvg-name="SR Fernsehen" group-title="Undefined",SR Fernsehen
+#EXTINF:-1 tvg-name="SR Fernsehen" group-title="Regional",SR Fernsehen
 https://secure-272717.tatnet.app/srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 
-#EXTINF:-1 tvg-name="SWR Fernsehen Baden-Württemberg [Geo-blocked]" group-title="Undefined",SWR Fernsehen Baden-Württemberg [Geo-blocked]
+#EXTINF:-1 tvg-name="SWR Baden-Württemberg" group-title="Regional",SWR Baden-Württemberg
 https://secure-272717.tatnet.app/swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
 
-#EXTINF:-1 tvg-name="SWR Fernsehen Rheinland-Pfalz [Geo-blocked]" group-title="Undefined",SWR Fernsehen Rheinland-Pfalz [Geo-blocked]
+#EXTINF:-1 tvg-name="SWR Rheinland-Pfalz" group-title="Regional",SWR Rheinland-Pfalz
 https://secure-272717.tatnet.app/swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
 
 #EXTINF:-1 tvg-name="WDR 1 Live" group-title="Entertainment",WDR 1 Live
@@ -59357,7 +59963,7 @@ https://secure-272717.tatnet.app/live.apostoltv.hu/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio 1 Ⓨ" group-title="Hungary",Radio 1 Ⓨ
 https://secure-272717.tatnet.app/www.youtube.com/watch?v=I8dnZoF1nOE
 
-#EXTINF:-1 tvg-name="Dance Television" group-title="Music",Dance Television
+#EXTINF:-1 tvg-name="Dance Television" group-title="IPTV",Dance Television
 https://secure-272717.tatnet.app/m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 
 #EXTINF:-1 tvg-name="Izaura TV" group-title="Hungary",Izaura TV
@@ -60068,10 +60674,10 @@ https://secure-272717.tatnet.app/tsw.streamingwebtv24.it:1936/paradisetv/paradis
 #EXTINF:-1 tvg-name="Parole di Vita" group-title="Religious",Parole di Vita
 https://secure-272717.tatnet.app/64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Peer TV Alto Adige (1280p)" group-title="Outdoor;Travel",Peer TV Alto Adige (1280p)
+#EXTINF:-1 tvg-name="Peer TV Alto Adige" group-title="International",Peer TV Alto Adige
 https://secure-272717.tatnet.app/iptv.peer.biz/live/peertv-it.m3u8
 
-#EXTINF:-1 tvg-name="Peer TV Südtirol" group-title="Outdoor;Travel",Peer TV Südtirol
+#EXTINF:-1 tvg-name="Peer TV Südtirol" group-title="International;Nachrichten",Peer TV Südtirol
 https://secure-272717.tatnet.app/iptv.peer.biz/live/peertv.m3u8
 
 #EXTINF:-1 tvg-name="Pop Tv" group-title="Italy",Pop Tv
@@ -61142,7 +61748,7 @@ https://secure-272717.tatnet.app/www.tvkaista.net/stream-forwarder/get.php?x=TVP
 #EXTINF:-1 tvg-name="TVP Kultura 2" group-title="Poland",TVP Kultura 2
 https://secure-272717.tatnet.app/www.tvkaista.net/stream-forwarder/get.php?x=TVPKultura2
 
-#EXTINF:-1 tvg-name="4 Fun TV (576i)" group-title="Music",4 Fun TV (576i)
+#EXTINF:-1 tvg-name="4 FunTV" group-title="International;Musik",4 FunTV
 https://secure-272717.tatnet.app/stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 #EXTINF:-1 tvg-name="RTP1" group-title="Portugal",RTP1
@@ -61694,7 +62300,7 @@ https://secure-272717.tatnet.app/tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT Arabi" group-title="News",TRT Arabi
 https://secure-272717.tatnet.app/tv-trtarabi.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT World" group-title="News",TRT World
+#EXTINF:-1 tvg-name="TRT World" group-title="International;Nachrichten",TRT World
 https://secure-272717.tatnet.app/tv-trtworld.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="TRT Türk" group-title="Undefined",TRT Türk
@@ -62123,7 +62729,7 @@ https://secure-272717.tatnet.app/live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1 tvg-name="RT Documentary English [Geo-blocked]" group-title="Documentary",RT Documentary English [Geo-blocked]
 https://secure-272717.tatnet.app/rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Peer TV South Tyrol (1280p)" group-title="Outdoor;Travel",Peer TV South Tyrol (1280p)
+#EXTINF:-1 tvg-name="Peer TV South Tyrol" group-title="International",Peer TV South Tyrol
 https://secure-272717.tatnet.app/iptv.peer.biz/live/peertv-en.m3u8
 
 #EXTINF:-1 tvg-name="Pluto TV Spotlight" group-title="VOD Movies (EN)",Pluto TV Spotlight
@@ -62189,7 +62795,7 @@ https://secure-272717.tatnet.app/service-stitcher.clusters.pluto.tv/stitch/hls/c
 #EXTINF:-1 tvg-name="The Asylum" group-title="VOD Movies (EN)",The Asylum
 https://secure-272717.tatnet.app/service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=115&deviceId=591105034c1806b47438342c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-name="Al Jazeera العربية" group-title="News (AR)",Al Jazeera العربية
+#EXTINF:-1 tvg-name="Al Jazeera Arabic" group-title="International;Nachrichten",Al Jazeera Arabic
 https://secure-272717.tatnet.app/live-hls-web-aja.getaj.net/AJA/index.m3u8
 
 #EXTINF:-1 tvg-name="Al Arabiya" group-title="News",Al Arabiya

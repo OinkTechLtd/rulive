@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 19:21:00
-# Всего каналов: 22099
-# Новых за сессию: 1
+# Обновлено: 2026-08-15 19:25:41
+# Всего каналов: 22301
+# Новых за сессию: 202
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Public
 # Каналов: 25
-# Обновлено: 2026-08-15 19:21:01
+# Обновлено: 2026-08-15 19:25:42
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="La 2 Canarias" group-title="General;Public",La 2 Canarias
@@ -109,14 +109,6 @@ https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Watan TV" group-title="General",Watan TV
 https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
-#EXTINF:-1 tvg-name="NDR Hamburg" group-title="General",NDR Hamburg
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
-#EXTINF:-1 tvg-name="NDR Mecklenburg-Vorpommern" group-title="General",NDR Mecklenburg-Vorpommern
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
-#EXTINF:-1 tvg-name="NDR Niedersachsen" group-title="General",NDR Niedersachsen
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
-#EXTINF:-1 tvg-name="NDR Schleswig-Holstein" group-title="General",NDR Schleswig-Holstein
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
 #EXTINF:-1 tvg-name="NDR Fernsehen International" group-title="General",NDR Fernsehen International
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
 #EXTINF:-1 tvg-name="Acheloos TV (576p)" group-title="General",Acheloos TV (576p)
@@ -851,8 +843,6 @@ https://witn.cablecast.tv/live-4/live/live.m3u8
 https://fl1002.bozztv.com/gf-zarintv/index.m3u8
 #EXTINF:-1 tvg-name="3sat [Geo-blocked]" group-title="General",3sat [Geo-blocked]
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
-#EXTINF:-1 tvg-name="Allgäu TV" group-title="General",Allgäu TV
-https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Altenburg TV" group-title="General",Altenburg TV
 https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8
 #EXTINF:-1 tvg-name="Augsburg TV" group-title="General",Augsburg TV
@@ -863,10 +853,6 @@ http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Das Erste" group-title="General",Das Erste
 https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="ems TV Lingen" group-title="General",ems TV Lingen
-https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Erz-TV Stollberg (576p)" group-title="General",Erz-TV Stollberg (576p)
-https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Filstalwelle" group-title="General",Filstalwelle
 https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Franken Fernsehen (Nürnberg)" group-title="General",Franken Fernsehen (Nürnberg)
@@ -875,8 +861,6 @@ https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
 #EXTINF:-1 tvg-name="Kanal12 Spremberg TV (404p)" group-title="General",Kanal12 Spremberg TV (404p)
 https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
-#EXTINF:-1 tvg-name="L-TV" group-title="General",L-TV
-https://live2.telvi.de/hls/l-tv_s1.m3u8
 #EXTINF:-1 tvg-name="MDF.1" group-title="General",MDF.1
 http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
 #EXTINF:-1 tvg-name="MDR Fernsehen Sachsen [Geo-blocked]" group-title="General",MDR Fernsehen Sachsen [Geo-blocked]
@@ -885,8 +869,6 @@ https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
 https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8
 #EXTINF:-1 tvg-name="MDR Fernsehen Thüringen [Geo-blocked]" group-title="General",MDR Fernsehen Thüringen [Geo-blocked]
 https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8
-#EXTINF:-1 tvg-name="München TV" group-title="General",München TV
-https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="n-tv [Geo-Blocked]" group-title="General",n-tv [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8
 #EXTINF:-1 tvg-name="Niederbayern TV" group-title="General",Niederbayern TV
@@ -897,34 +879,18 @@ https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/i
 https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8
 #EXTINF:-1 tvg-name="Niederbayern TV Passau" group-title="General",Niederbayern TV Passau
 https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8
-#EXTINF:-1 tvg-name="Noa 4 Hamburg" group-title="General",Noa 4 Hamburg
-https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
 #EXTINF:-1 tvg-name="Noa 4 Norderstedt" group-title="General",Noa 4 Norderstedt
 https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-#EXTINF:-1 tvg-name="Oberpfalz TV" group-title="General",Oberpfalz TV
-https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="OF-TV Offenbach" group-title="General",OF-TV Offenbach
 https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
-#EXTINF:-1 tvg-name="OK4 [Geo-blocked]" group-title="General",OK4 [Geo-blocked]
-https://s.ok54.de/abr_ok4/live/playlist.m3u8
 #EXTINF:-1 tvg-name="OK54 [Geo-blocked]" group-title="General",OK54 [Geo-blocked]
 https://s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="OK Dessau" group-title="General",OK Dessau
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Flensburg (576p)" group-title="General",OK Flensburg (576p)
-https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
-#EXTINF:-1 tvg-name="OK Kaiserslautern [Geo-blocked]" group-title="General",OK Kaiserslautern [Geo-blocked]
-https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Kassel [Geo-blocked]" group-title="General",OK Kassel [Geo-blocked]
-https://s.ok54.de/mok-ks/kassel/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Kiel (576p)" group-title="General",OK Kiel (576p)
-https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
 #EXTINF:-1 tvg-name="OK Magdeburg" group-title="General",OK Magdeburg
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
 #EXTINF:-1 tvg-name="OK Merseburg-Querfurt" group-title="General",OK Merseburg-Querfurt
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Rhein-Main (576p) [Geo-blocked]" group-title="General",OK Rhein-Main (576p) [Geo-blocked]
-https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
 #EXTINF:-1 tvg-name="OK Salzwedel" group-title="General",OK Salzwedel
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
 #EXTINF:-1 tvg-name="OK Stendal" group-title="General",OK Stendal
@@ -935,8 +901,6 @@ https://s.ok54.de/ott/webstream/playlist.m3u8
 https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
 #EXTINF:-1 tvg-name="OK Wernigerode" group-title="General",OK Wernigerode
 http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
-#EXTINF:-1 tvg-name="OK-TV Ludwigshafen [Geo-blocked]" group-title="General",OK-TV Ludwigshafen [Geo-blocked]
-https://s.ok54.de/oklu/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="RFH" group-title="General",RFH
 http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
 #EXTINF:-1 tvg-name="RFO" group-title="General",RFO
@@ -945,30 +909,8 @@ https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playl
 https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Stimmungsgarten TV" group-title="General",Stimmungsgarten TV
 https://live20.bozztv.com/akamaissh101/ssh101/stimmungsgarten/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Oberfranken (TVO)" group-title="General",TV Oberfranken (TVO)
-https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="WDR Fernsehen [Geo-Blocked]" group-title="General",WDR Fernsehen [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-HLS8/wdrhd.m3u8
-#EXTINF:-1 tvg-name="WDR Fernsehen Aachen [Geo-blocked]" group-title="General",WDR Fernsehen Aachen [Geo-blocked]
-https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
-#EXTINF:-1 tvg-name="WDR Fernsehen Bielefeld [Geo-blocked]" group-title="General",WDR Fernsehen Bielefeld [Geo-blocked]
-https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
-#EXTINF:-1 tvg-name="WDR Fernsehen Bonn [Geo-blocked]" group-title="General",WDR Fernsehen Bonn [Geo-blocked]
-https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
-#EXTINF:-1 tvg-name="WDR Fernsehen Dortmund [Geo-blocked]" group-title="General",WDR Fernsehen Dortmund [Geo-blocked]
-https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
-#EXTINF:-1 tvg-name="WDR Fernsehen Duisburg [Geo-blocked]" group-title="General",WDR Fernsehen Duisburg [Geo-blocked]
-https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8
-#EXTINF:-1 tvg-name="WDR Fernsehen Düsseldorf [Geo-blocked]" group-title="General",WDR Fernsehen Düsseldorf [Geo-blocked]
-https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
-#EXTINF:-1 tvg-name="WDR Fernsehen Essen [Geo-blocked]" group-title="General",WDR Fernsehen Essen [Geo-blocked]
-https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8
-#EXTINF:-1 tvg-name="WDR Fernsehen Münster [Geo-blocked]" group-title="General",WDR Fernsehen Münster [Geo-blocked]
-https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
-#EXTINF:-1 tvg-name="WDR Fernsehen Siegen [Geo-blocked]" group-title="General",WDR Fernsehen Siegen [Geo-blocked]
-https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
-#EXTINF:-1 tvg-name="WDR Fernsehen Wuppertal [Geo-blocked]" group-title="General",WDR Fernsehen Wuppertal [Geo-blocked]
-https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
 #EXTINF:-1 tvg-name="20 Minutes TV" group-title="General",20 Minutes TV
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 #EXTINF:-1 tvg-name="Alpe d’Huez TV" group-title="General",Alpe d’Huez TV
@@ -2073,8 +2015,6 @@ https://live.acwugtv.com/hls/stream.m3u8
 https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="Ajman TV" group-title="General",Ajman TV
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
-#EXTINF:-1 tvg-name="AlbUK TV" group-title="General",AlbUK TV
-http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Apna Channel (576p)" group-title="General",Apna Channel (576p)
 http://115.42.65.142:9981/stream/channelid/1273966657
 #EXTINF:-1 tvg-name="Approval TV" group-title="General;Religious",Approval TV
@@ -3299,8 +3239,6 @@ http://stream.fs1.tv:8080/hls/webstream.m3u8
 https://edge21.vedge.infomaniak.com/livecast/ik:livesd2/manifest.m3u8
 #EXTINF:-1 tvg-name="Ländle TV" group-title="General",Ländle TV
 https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
-#EXTINF:-1 tvg-name="Okto TV" group-title="General",Okto TV
-https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-name="ORF 2" group-title="General",ORF 2
 https://dash4.antik.sk/live/test_orf_zwei_tizen/playlist.m3u8
 #EXTINF:-1 tvg-name="ORF 2 Tirol [Geo-Blocked]" group-title="General",ORF 2 Tirol [Geo-Blocked]
@@ -3623,8 +3561,6 @@ https://stream.tvkstella.pl/stella/stella.m3u8
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="TVR Sport" group-title="General;Sports",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-name="FomixTV" group-title="General;Music;Public",FomixTV
-https://stream.fomixmedia.nl/FomixTV/video.m3u8
 #EXTINF:-1 tvg-name="TVR Folclor" group-title="General;Music",TVR Folclor
 https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="HTV3" group-title="Entertainment;General;Series",HTV3
@@ -4705,8 +4641,6 @@ https://amg17233-amg17233c1-wisptv-us-6409.playouts.now.amagi.tv/ts-us-w2-n2/pla
 https://v4.proofix.ru/8tv-europe/index.m3u8
 #EXTINF:-1 tvg-name="2+2" group-title="General",2+2
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6378/index.m3u8
-#EXTINF:-1 tvg-name="WDR Fernsehen" group-title="General",WDR Fernsehen
-https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="Euro D" group-title="General",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 tvg-name="RecordTV" group-title="General",RecordTV
