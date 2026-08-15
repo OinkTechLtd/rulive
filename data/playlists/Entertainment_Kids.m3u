@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 19:25:41
-# Всего каналов: 22301
-# Новых за сессию: 202
+# Обновлено: 2026-08-15 19:46:34
+# Всего каналов: 22302
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Kids
 # Каналов: 3
-# Обновлено: 2026-08-15 19:25:42
+# Обновлено: 2026-08-15 19:46:35
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Unique TV (576p)" group-title="Entertainment;Kids",Unique TV (576p)
@@ -433,6 +433,8 @@ https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.ama
 https://yta.unitedteleports.tv/hls/YTA.m3u8
 #EXTINF:-1 tvg-name="Anixe + (360p)" group-title="Entertainment",Anixe + (360p)
 https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
+#EXTINF:-1 tvg-name="Anixe Serie (360p)" group-title="Entertainment",Anixe Serie (360p)
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 #EXTINF:-1 tvg-name="arte" group-title="Entertainment",arte
 http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15171/index.m3u8
 #EXTINF:-1 tvg-name="Avatar" group-title="Kids",Avatar
@@ -1479,6 +1481,8 @@ https://live.teleradiocom.tj/3/3m.m3u8
 http://103.66.62.83:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-name="Пингвин" group-title="Animation;Kids",Пингвин
 https://sirius.greenhosting.ru/PingvinRu/video.m3u8
+#EXTINF:-1 tvg-name="BE@TTV" group-title="Entertainment;Music",BE@TTV
+https://tv.beatfm.nl/live.m3u8
 #EXTINF:-1 tvg-name="247 Box TV" group-title="Entertainment",247 Box TV
 https://hls.247box.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="A-Plus TV (576p)" group-title="Entertainment",A-Plus TV (576p)
@@ -2119,6 +2123,8 @@ http://178.124.179.122:8080/TB-3/index.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",FX Latin America" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",FX Latin America
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fx.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Disney Channel" group-title="Kids",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Disney Channel
+http://86.87.15.10:8004/play/a02g/index.m3u8
 #EXTINF:-1 tvg-name="Radost Moya (576p)" group-title="Kids",Radost Moya (576p)
 http://31.148.48.15/Radost_moya/index.m3u8
 #EXTINF:-1 tvg-name="BET Her" group-title="Entertainment",BET Her

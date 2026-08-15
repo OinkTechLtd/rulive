@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 19:25:41
-# Всего каналов: 22301
-# Новых за сессию: 202
+# Обновлено: 2026-08-15 19:46:34
+# Всего каналов: 22302
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Business;News
 # Каналов: 9
-# Обновлено: 2026-08-15 19:25:42
+# Обновлено: 2026-08-15 19:46:35
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="Business;News",like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -103,6 +103,8 @@ http://seb.sason.top/ptv/ftv.php?id=tw
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT Arabi" group-title="News",TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT World" group-title="News",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="Bloomberg TV Europe" group-title="Business",Bloomberg TV Europe
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-name="GIT" group-title="News",GIT
@@ -161,8 +163,6 @@ https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
 https://www.youtube.com/@abcnewsaustralia/live
 #EXTINF:-1 tvg-name="NDTV 24x7" group-title="News",NDTV 24x7
 https://ythls.armelin.one/channel/UCZFMm1mMw0F81Z37aaEzTUA.m3u8
-#EXTINF:-1 tvg-name="TRT World" group-title="News",TRT World
-https://ythls.armelin.one/channel/UC7fWeaHhqgM4Ry-RMpM2YYw.m3u8
 #EXTINF:-1 tvg-name="NHK World Japan" group-title="News",NHK World Japan
 https://ythls.armelin.one/channel/UCSPEjw8F2nQDtmUKPFNF7_A.m3u8
 #EXTINF:-1 tvg-name="DD India" group-title="News",DD India
@@ -1301,6 +1301,8 @@ http://name-port.to/live/Gregory123/Gregory321/2420047.ts
 https://bloomberg.com/media-manifest/streams/aus.m3u8
 #EXTINF:-1 tvg-name="Sky News Extra 1 (540p)" group-title="News",Sky News Extra 1 (540p)
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 tvg-name="Sky News Extra 2 (540p)" group-title="News",Sky News Extra 2 (540p)
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 #EXTINF:-1 tvg-name="Sky News Extra 3" group-title="News",Sky News Extra 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 tvg-name="TV-Nord" group-title="News",TV-Nord
@@ -1395,6 +1397,8 @@ https://cdn-edge1.streamcomedia.com/abr_tngr969fm/abr-tngr969fm_streams/playlist
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 tvg-name="I24 News English" group-title="News",I24 News English
 https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 tvg-name="Iran Press" group-title="News",Iran Press
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:-1 tvg-name="Jakarta Globe News Channel" group-title="News",Jakarta Globe News Channel
 https://jktglobe.secureswiftcontent.com/han/jktglobe/jktglober/srtoutput/manifest.m3u8
 #EXTINF:-1 tvg-name="KTV 2" group-title="Culture;News",KTV 2

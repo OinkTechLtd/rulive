@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 19:25:41
-# Всего каналов: 22301
-# Новых за сессию: 202
+# Обновлено: 2026-08-15 19:46:34
+# Всего каналов: 22302
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Religious
 # Каналов: 2
-# Обновлено: 2026-08-15 19:25:42
+# Обновлено: 2026-08-15 19:46:35
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Paighan TV" group-title="Education;Religious",Paighan TV
@@ -28,6 +28,8 @@ https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TBN Baltia" group-title="Religious",TBN Baltia
 http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
+#EXTINF:-1 tvg-name="ARD-alpha" group-title="Education",ARD-alpha
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="TV 2000" group-title="Religious",TV 2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTINF:-1 tvg-name="Medjugorje Italia TV (480p)" group-title="Religious",Medjugorje Italia TV (480p)

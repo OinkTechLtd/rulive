@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 19:25:41
-# Всего каналов: 22301
-# Новых за сессию: 202
+# Обновлено: 2026-08-15 19:46:34
+# Всего каналов: 22302
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;News;Shop
 # Каналов: 1
-# Обновлено: 2026-08-15 19:25:42
+# Обновлено: 2026-08-15 19:46:35
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Extra ProNews (576p)" group-title="Entertainment;News;Shop",Extra ProNews (576p)
@@ -105,6 +105,8 @@ http://seb.sason.top/ptv/ftv.php?id=tw
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT Arabi" group-title="News",TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT World" group-title="News",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TJC" group-title="Shop",TJC
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 #EXTINF:-1 tvg-name="GIT" group-title="News",GIT
@@ -161,8 +163,6 @@ https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
 https://www.youtube.com/@abcnewsaustralia/live
 #EXTINF:-1 tvg-name="NDTV 24x7" group-title="News",NDTV 24x7
 https://ythls.armelin.one/channel/UCZFMm1mMw0F81Z37aaEzTUA.m3u8
-#EXTINF:-1 tvg-name="TRT World" group-title="News",TRT World
-https://ythls.armelin.one/channel/UC7fWeaHhqgM4Ry-RMpM2YYw.m3u8
 #EXTINF:-1 tvg-name="NHK World Japan" group-title="News",NHK World Japan
 https://ythls.armelin.one/channel/UCSPEjw8F2nQDtmUKPFNF7_A.m3u8
 #EXTINF:-1 tvg-name="DD India" group-title="News",DD India
@@ -815,8 +815,12 @@ https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.ama
 https://yta.unitedteleports.tv/hls/YTA.m3u8
 #EXTINF:-1 tvg-name="Zoom TV Kurdish" group-title="News",Zoom TV Kurdish
 https://live.zoomnews.info/live/Zoom_playlist.m3u8
+#EXTINF:-1 tvg-name="1-2-3 TV (270p)" group-title="Shop",1-2-3 TV (270p)
+https://123tv-mx1.flex-cdn.net/index.m3u8
 #EXTINF:-1 tvg-name="Anixe + (360p)" group-title="Entertainment",Anixe + (360p)
 https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
+#EXTINF:-1 tvg-name="Anixe Serie (360p)" group-title="Entertainment",Anixe Serie (360p)
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 #EXTINF:-1 tvg-name="arte" group-title="Entertainment",arte
 http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15171/index.m3u8
 #EXTINF:-1 tvg-name="Handystar (404p)" group-title="Shop",Handystar (404p)
@@ -853,6 +857,8 @@ https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
 https://viamotionhsi.netplus.ch/live/eds/onehd/browser-HLS8/onehd.m3u8
 #EXTINF:-1 tvg-name="QVC 2 Germany (540p)" group-title="Shop",QVC 2 Germany (540p)
 https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
+#EXTINF:-1 tvg-name="QVC Germany" group-title="Shop",QVC Germany
+https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
 #EXTINF:-1 tvg-name="QVC Style Germany (540p)" group-title="Shop",QVC Style Germany (540p)
 https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8
 #EXTINF:-1 tvg-name="RT DE" group-title="News",RT DE
@@ -1961,6 +1967,8 @@ https://c.mjh.nz/abc-tv-plus.m3u8
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
 #EXTINF:-1 tvg-name="Sky News Extra 1 (540p)" group-title="News",Sky News Extra 1 (540p)
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 tvg-name="Sky News Extra 2 (540p)" group-title="News",Sky News Extra 2 (540p)
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 #EXTINF:-1 tvg-name="Sky News Extra 3" group-title="News",Sky News Extra 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 tvg-name="TVSN" group-title="Shop",TVSN
@@ -2087,6 +2095,8 @@ https://cdn-edge1.streamcomedia.com/abr_tngr969fm/abr-tngr969fm_streams/playlist
 https://cdn10jtedge.indihometv.com/atm/DASH/hits/manifest.mpd
 #EXTINF:-1 tvg-name="I24 News English" group-title="News",I24 News English
 https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 tvg-name="Iran Press" group-title="News",Iran Press
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:-1 tvg-name="Island Luck TV" group-title="Entertainment",Island Luck TV
 https://cdn3.wowza.com/5/dFA0TmRpeFdNVXhT/NetUp/ILTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="ITV3 [Geo-Blocked]" group-title="Entertainment",ITV3 [Geo-Blocked]
@@ -3017,6 +3027,8 @@ https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6j
 https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8
 #EXTINF:-1 tvg-name="YES" group-title="News",YES
 https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8
+#EXTINF:-1 tvg-name="BE@TTV" group-title="Entertainment;Music",BE@TTV
+https://tv.beatfm.nl/live.m3u8
 #EXTINF:-1 tvg-name="247 Box TV" group-title="Entertainment",247 Box TV
 https://hls.247box.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="A-Plus TV (576p)" group-title="Entertainment",A-Plus TV (576p)

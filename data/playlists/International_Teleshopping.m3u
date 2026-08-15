@@ -1,50 +1,34 @@
 #EXTM3U
-# Обновлено: 2026-08-15 19:25:41
-# Всего каналов: 22301
-# Новых за сессию: 202
+# Обновлено: 2026-08-15 19:46:34
+# Всего каналов: 22302
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: International;Teleshopping
 # Каналов: 1
-# Обновлено: 2026-08-15 19:25:42
+# Обновлено: 2026-08-15 19:46:35
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Create & Craft TV" group-title="International;Teleshopping",Create & Craft TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
 
-#EXTINF:-1 tvg-name="W24 TV" group-title="International",W24 TV
-https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="RTV (AT)" group-title="International",RTV (AT)
-http://iptv.rtv-ooe.at/stream.m3u8
 #EXTINF:-1 tvg-name="Taivas TV7" group-title="International",Taivas TV7
 https://vod.tv7.fi/tv7-fi/_definst_/smil:tv7-fi.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="QVC Italia (540p)" group-title="Shop",QVC Italia (540p)
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 #EXTINF:-1 tvg-name="Casa Italia 53" group-title="Shop",Casa Italia 53
 https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Peer TV Alto Adige" group-title="International",Peer TV Alto Adige
-https://iptv.peer.biz/live/peertv-it.m3u8
-#EXTINF:-1 tvg-name="Peer TV Südtirol" group-title="International;Nachrichten",Peer TV Südtirol
-https://iptv.peer.biz/live/peertv.m3u8
-#EXTINF:-1 tvg-name="m2o Tv" group-title="International;Musik",m2o Tv
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-name="Shop Channel" group-title="Shop",Shop Channel
 https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 tvg-name="QVC Japan" group-title="Shop",QVC Japan
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1 tvg-name="NKNews" group-title="International;Nachrichten",NKNews
 https://tv.nknews.org/tvdash/stream.mpd
-#EXTINF:-1 tvg-name="4 FunTV" group-title="International;Musik",4 FunTV
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 tvg-name="TRT World" group-title="International;Nachrichten",TRT World
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TJC" group-title="Shop",TJC
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 #EXTINF:-1 tvg-name="ABC News" group-title="International;Nachrichten",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-name="Peer TV South Tyrol" group-title="International",Peer TV South Tyrol
-https://iptv.peer.biz/live/peertv-en.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera Arabic" group-title="International;Nachrichten",Al Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-name="CNN International" group-title="International;Nachrichten",CNN International
@@ -83,7 +67,7 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
 https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
 #EXTINF:-1 tvg-name="TVSConsumerDirect" group-title="Shop",TVSConsumerDirect
 https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8
-#EXTINF:-1 tvg-name="1-2-3.tv" group-title="Teleshopping",1-2-3.tv
+#EXTINF:-1 tvg-name="1-2-3 TV (270p)" group-title="Shop",1-2-3 TV (270p)
 https://123tv-mx1.flex-cdn.net/index.m3u8
 #EXTINF:-1 tvg-name="Handystar (404p)" group-title="Shop",Handystar (404p)
 https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
@@ -99,12 +83,10 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3
 https://api.alpaca.t62a.com/hls/9103/index.m3u8
 #EXTINF:-1 tvg-name="QVC 2 Germany (540p)" group-title="Shop",QVC 2 Germany (540p)
 https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
+#EXTINF:-1 tvg-name="QVC Germany" group-title="Shop",QVC Germany
+https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
 #EXTINF:-1 tvg-name="QVC Style Germany (540p)" group-title="Shop",QVC Style Germany (540p)
 https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8
-#EXTINF:-1 tvg-name="SonnenklarTV" group-title="Teleshopping",SonnenklarTV
-http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
-#EXTINF:-1 tvg-name="Activa TV" group-title="International;Musik",Activa TV
-https://streamtv.mediasector.es/hls/activatv/index.m3u8
 #EXTINF:-1 tvg-name="GM24 (480p)" group-title="Shop",GM24 (480p)
 https://streaming.softwarecreation.it/GM24/GM24/playlist.m3u8
 #EXTINF:-1 tvg-name="Juwelo Italia (480p)" group-title="Shop",Juwelo Italia (480p)
@@ -121,22 +103,16 @@ https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
 #EXTINF:-1 tvg-name="Expo Channel (360p)" group-title="Shop",Expo Channel (360p)
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
-#EXTINF:-1 tvg-name="Sky News Extra" group-title="International;Nachrichten",Sky News Extra
-https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 #EXTINF:-1 tvg-name="TVSN" group-title="Shop",TVSN
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 #EXTINF:-1 tvg-name="TVSN Beauty" group-title="Shop",TVSN Beauty
 https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8
 #EXTINF:-1 tvg-name="TVSN Jewellery" group-title="Shop",TVSN Jewellery
 https://live-tvsn.simplestreamcdn.com/live13/tvsnjewellery/bitrate1.isml/.m3u8
-#EXTINF:-1 tvg-name="ALBUK TV" group-title="International",ALBUK TV
-http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Gems TV" group-title="Shop",Gems TV
 https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="GS Shop" group-title="Shop",GS Shop
 https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Press TV" group-title="International;Nachrichten",Press TV
-https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:-1 tvg-name="QVC UK (540p)" group-title="Shop",QVC UK (540p)
 https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
 #EXTINF:-1 tvg-name="QVC UK Beauty (540p)" group-title="Shop",QVC UK Beauty (540p)
@@ -145,20 +121,12 @@ https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8
 https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
 #EXTINF:-1 tvg-name="QVC UK Style (540p)" group-title="Shop",QVC UK Style (540p)
 https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
-#EXTINF:-1 tvg-name="Red Bull TV" group-title="International;Sport",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-name="Bajo Techo TV" group-title="Shop",Bajo Techo TV
 https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Deutsche Welle (ES)" group-title="International;Nachrichten",Deutsche Welle (ES)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-name="Red TV Shop" group-title="Shop",Red TV Shop
 https://master.tucableip.com/redtvshop/index.m3u8
-#EXTINF:-1 tvg-name="Kronehit TV" group-title="International;Musik",Kronehit TV
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 tvg-name="Okto" group-title="International;Spartenprogramm",Okto
-https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Tirol TV" group-title="International",Tirol TV
-https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
 #EXTINF:-1 tvg-name="耀才財經台 (576p)" group-title="Shop",耀才財經台 (576p)
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-name="CJ OnStyle (540p)" group-title="Shop",CJ OnStyle (540p)

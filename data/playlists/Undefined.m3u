@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 19:25:41
-# Всего каналов: 22301
-# Новых за сессию: 202
+# Обновлено: 2026-08-15 19:46:34
+# Всего каналов: 22302
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Undefined
-# Каналов: 4198
-# Обновлено: 2026-08-15 19:25:42
+# Каналов: 4219
+# Обновлено: 2026-08-15 19:46:35
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="UniNettuno University TV" group-title="Undefined",UniNettuno University TV
@@ -712,8 +712,14 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/58bd5b7a98e04.streamlo
 #EXTINF:-1 tvg-name="BR Fernsehen Sud [Geo-Blocked]" group-title="Undefined",BR Fernsehen Sud [Geo-Blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/viamotionhsi.netplus.ch/live/eds/brhdsud/browser-HLS8/brhdsud.m3u8
 
+#EXTINF:-1 tvg-name="Chemnitz Fernsehen" group-title="Undefined",Chemnitz Fernsehen
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Cira TV" group-title="Undefined",Cira TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cira-tv.akamaized.net/hls/stream_0.m3u8
+
+#EXTINF:-1 tvg-name="Dresden Fernsehen" group-title="Undefined",Dresden Fernsehen
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="EuroAl TV" group-title="Undefined",EuroAl TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/5.135.92.131:1935/live/euroAl/playlist.m3u8
@@ -723,6 +729,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.hamburg1.de/liv
 
 #EXTINF:-1 tvg-name="labor14" group-title="Undefined",labor14
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Leipzig Fernsehen" group-title="Undefined",Leipzig Fernsehen
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="phoenix [Geo-Blocked]" group-title="Undefined",phoenix [Geo-Blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-dash/phoenixhd.mpd
@@ -747,6 +756,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/viamotionhsi.netplus.c
 
 #EXTINF:-1 tvg-name="RBW" group-title="Undefined",RBW
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Regio TV Bodensee" group-title="Undefined",Regio TV Bodensee
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Regio TV Stuttgart" group-title="Undefined",Regio TV Stuttgart
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Rock Antenne" group-title="Undefined",Rock Antenne
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.rockantenne.de/rockantenne/stream/mp3
@@ -790,6 +805,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/bild-und-ton.stream/sn
 #EXTINF:-1 tvg-name="sixx" group-title="Undefined",sixx
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Sonnenklar TV" group-title="Undefined",Sonnenklar TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
+
 #EXTINF:-1 tvg-name="Sonus FM TV" group-title="Undefined",Sonus FM TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/www.sonus.fm:1935/public/stream_source/playlist.m3u8
 
@@ -802,8 +820,14 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/h057.video-stream-host
 #EXTINF:-1 tvg-name="Super RTL" group-title="Undefined",Super RTL
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/forsizero.github.io/iptv/m3u/superrtlhd.m3u
 
+#EXTINF:-1 tvg-name="SWR 3 Visual Radio" group-title="Undefined",SWR 3 Visual Radio
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
+
 #EXTINF:-1 tvg-name="SWR Fernsehen Baden-Wurttemberg [Geo-Blocked]" group-title="Undefined",SWR Fernsehen Baden-Wurttemberg [Geo-Blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/viamotionhsi.netplus.ch/live/eds/swrbw/browser-HLS8/swrbw.m3u8
+
+#EXTINF:-1 tvg-name="teltOwkanal" group-title="Undefined",teltOwkanal
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tide TV" group-title="Undefined",Tide TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
@@ -814,11 +838,23 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.tiviturk.de/liv
 #EXTINF:-1 tvg-name="TV38 Südost-Niedersachen" group-title="Undefined",TV38 Südost-Niedersachen
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref=
 
+#EXTINF:-1 tvg-name="TV Ingolstadt" group-title="Undefined",TV Ingolstadt
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV Mainfranken" group-title="Undefined",TV Mainfranken
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TVA" group-title="Undefined",TVA
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Unserding [Geo-blocked]" group-title="Undefined",Unserding [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/srde.akamaized.net/hls/live/2031842/visualradio-unserding/index.m3u8
 
 #EXTINF:-1 tvg-name="Victorious" group-title="Undefined",Victorious
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5e8b5e43f294f8000793c3d7.m3u8
+
+#EXTINF:-1 tvg-name="Welt der Wunder TV (576p)" group-title="Undefined",Welt der Wunder TV (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ZDF [Geo-blocked]" group-title="Undefined",ZDF [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
@@ -2544,6 +2580,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdnapisec.kaltura.com/
 
 #EXTINF:-1 tvg-name="TeleZüri" group-title="Undefined",TeleZüri
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_se36k3uk/tl/main/st/0/t/d4y_3ZXUos_JzAX3LwBI3w/index-s32.m3u8
+
+#EXTINF:-1 tvg-name="Tirol TV" group-title="Undefined",Tirol TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
 
 #EXTINF:-1 tvg-name="TV 1 Oberösterreich" group-title="Undefined",TV 1 Oberösterreich
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
@@ -11461,6 +11500,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/206.212.244.63/32/inde
 #EXTINF:-1 tvg-name="WDAF-TV 4.2 (576p)" group-title="Undefined",WDAF-TV 4.2 (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/206.212.244.63/9/index.m3u8
 
+#EXTINF:-1 tvg-name="BR Fernsehen Sud" group-title="Undefined",BR Fernsehen Sud
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+
 #EXTINF:-1 tvg-name="L!ke" group-title="Undefined",L!ke
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8
 
@@ -12219,6 +12261,27 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/player-tvcultura.strea
 
 #EXTINF:-1 tvg-name="Toronto 360 TV" group-title="Undefined",Toronto 360 TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tagesschau 24" group-title="Undefined",Tagesschau 24
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+
+#EXTINF:-1 tvg-name="BR Fernsehen Nord" group-title="Undefined",BR Fernsehen Nord
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+
+#EXTINF:-1 tvg-name="Radio Bremen Fernsehen [Geo-blocked]" group-title="Undefined",Radio Bremen Fernsehen [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+
+#EXTINF:-1 tvg-name="RBB Brandenburg [Geo-blocked]" group-title="Undefined",RBB Brandenburg [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
+
+#EXTINF:-1 tvg-name="SR Fernsehen" group-title="Undefined",SR Fernsehen
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+
+#EXTINF:-1 tvg-name="SWR Fernsehen Baden-Württemberg [Geo-blocked]" group-title="Undefined",SWR Fernsehen Baden-Württemberg [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+
+#EXTINF:-1 tvg-name="SWR Fernsehen Rheinland-Pfalz [Geo-blocked]" group-title="Undefined",SWR Fernsehen Rheinland-Pfalz [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
 
 #EXTINF:-1 tvg-name="RTHK TV 31 (港台電視31) [Geo-blocked]" group-title="Undefined",RTHK TV 31 (港台電視31) [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8

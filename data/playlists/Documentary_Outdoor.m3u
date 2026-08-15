@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 19:25:41
-# Всего каналов: 22301
-# Новых за сессию: 202
+# Обновлено: 2026-08-15 19:46:34
+# Всего каналов: 22302
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Outdoor
 # Каналов: 2
-# Обновлено: 2026-08-15 19:25:42
+# Обновлено: 2026-08-15 19:46:35
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="WaterBear" group-title="Documentary;Outdoor",WaterBear
@@ -16,10 +16,16 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/amg01415-waterbearnetw
 #EXTINF:-1 tvg-name="Pluto TV Naturaleza" group-title="Documentary;Outdoor",Pluto TV Naturaleza
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
 
+#EXTINF:-1 tvg-name="Peer TV Alto Adige (1280p)" group-title="Outdoor;Travel",Peer TV Alto Adige (1280p)
+https://iptv.peer.biz/live/peertv-it.m3u8
+#EXTINF:-1 tvg-name="Peer TV Südtirol" group-title="Outdoor;Travel",Peer TV Südtirol
+https://iptv.peer.biz/live/peertv.m3u8
 #EXTINF:-1 tvg-name="TRT Belgesel" group-title="Documentary",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="RT Documentary English [Geo-blocked]" group-title="Documentary",RT Documentary English [Geo-blocked]
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-name="Peer TV South Tyrol (1280p)" group-title="Outdoor;Travel",Peer TV South Tyrol (1280p)
+https://iptv.peer.biz/live/peertv-en.m3u8
 #EXTINF:-1 tvg-name="L" group-title="Documentary",L
 http://31.148.48.15/HD_Life/index.m3u8
 #EXTINF:-1 tvg-name="30A Loomered TV" group-title="Documentary;News",30A Loomered TV
@@ -156,6 +162,8 @@ https://waypoint-waypointtv-firetv.amagi.tv/playlist.m3u8
 https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
 #EXTINF:-1 tvg-name="ANIMAL KINGDOM" group-title="Outdoor",ANIMAL KINGDOM
 https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
+#EXTINF:-1 tvg-name="Dokusat" group-title="Documentary",Dokusat
+https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 #EXTINF:-1 tvg-name="Horse & Country TV" group-title="Outdoor",Horse & Country TV
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 #EXTINF:-1 tvg-name="kabel eins Doku (576p)" group-title="Documentary",kabel eins Doku (576p)

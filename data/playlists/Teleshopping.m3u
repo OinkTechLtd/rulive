@@ -1,23 +1,14 @@
 #EXTM3U
-# Обновлено: 2026-08-15 19:25:41
-# Всего каналов: 22301
-# Новых за сессию: 202
+# Обновлено: 2026-08-15 19:46:34
+# Всего каналов: 22302
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Teleshopping
-# Каналов: 5
-# Обновлено: 2026-08-15 19:25:42
+# Каналов: 2
+# Обновлено: 2026-08-15 19:46:35
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
-
-#EXTINF:-1 tvg-name="1-2-3.tv" group-title="Teleshopping",1-2-3.tv
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/123tv-mx1.flex-cdn.net/index.m3u8
-
-#EXTINF:-1 tvg-name="QVC" group-title="Teleshopping",QVC
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
-
-#EXTINF:-1 tvg-name="SonnenklarTV" group-title="Teleshopping",SonnenklarTV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
 
 #EXTINF:-1 tvg-name="QVC PLUS" group-title="Teleshopping",QVC PLUS
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/3/prog_index.m3u8
@@ -59,6 +50,8 @@ https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8
 https://cdn.jwplayer.com/live/broadcast/0rrJ3kkM.m3u8
 #EXTINF:-1 tvg-name="ONTV4U" group-title="Shop",ONTV4U
 https://cdn13.crtvnoc.com/ONTV4U-on-DistroTV/index.m3u8
+#EXTINF:-1 tvg-name="QVC" group-title="Shop",QVC
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 #EXTINF:-1 tvg-name="QVC 2" group-title="Shop",QVC 2
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 #EXTINF:-1 tvg-name="QVC 3" group-title="Shop",QVC 3
@@ -67,6 +60,8 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
 https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
 #EXTINF:-1 tvg-name="TVSConsumerDirect" group-title="Shop",TVSConsumerDirect
 https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8
+#EXTINF:-1 tvg-name="1-2-3 TV (270p)" group-title="Shop",1-2-3 TV (270p)
+https://123tv-mx1.flex-cdn.net/index.m3u8
 #EXTINF:-1 tvg-name="Handystar (404p)" group-title="Shop",Handystar (404p)
 https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
 #EXTINF:-1 tvg-name="HSE" group-title="Shop",HSE
@@ -81,6 +76,8 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3
 https://api.alpaca.t62a.com/hls/9103/index.m3u8
 #EXTINF:-1 tvg-name="QVC 2 Germany (540p)" group-title="Shop",QVC 2 Germany (540p)
 https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
+#EXTINF:-1 tvg-name="QVC Germany" group-title="Shop",QVC Germany
+https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
 #EXTINF:-1 tvg-name="QVC Style Germany (540p)" group-title="Shop",QVC Style Germany (540p)
 https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8
 #EXTINF:-1 tvg-name="GM24 (480p)" group-title="Shop",GM24 (480p)

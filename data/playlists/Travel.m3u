@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 19:25:41
-# Всего каналов: 22301
-# Новых за сессию: 202
+# Обновлено: 2026-08-15 19:46:34
+# Всего каналов: 22302
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Travel
-# Каналов: 47
-# Обновлено: 2026-08-15 19:25:42
+# Каналов: 48
+# Обновлено: 2026-08-15 19:46:35
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RTG TV" group-title="Travel",RTG TV
@@ -78,6 +78,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn01.setar.aw/Canal49
 
 #EXTINF:-1 tvg-name="BHA TV" group-title="Travel",BHA TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/streamer2.nexgen.bz/15-BHA/index.m3u8
+
+#EXTINF:-1 tvg-name="InTravel" group-title="Travel",InTravel
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Living Asia Channel" group-title="Travel",Living Asia Channel
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.vegasplus.us/vegas/lac/playlist.m3u8
@@ -151,6 +154,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/164
 #EXTINF:-1 tvg-name="Glazami Turista (576i)" group-title="Travel",Glazami Turista (576i)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-name="Peer TV Alto Adige (1280p)" group-title="Outdoor;Travel",Peer TV Alto Adige (1280p)
+https://iptv.peer.biz/live/peertv-it.m3u8
+#EXTINF:-1 tvg-name="Peer TV Südtirol" group-title="Outdoor;Travel",Peer TV Südtirol
+https://iptv.peer.biz/live/peertv.m3u8
+#EXTINF:-1 tvg-name="Peer TV South Tyrol (1280p)" group-title="Outdoor;Travel",Peer TV South Tyrol (1280p)
+https://iptv.peer.biz/live/peertv-en.m3u8
 #EXTINF:-1 tvg-name="Fun Roads TV" group-title="Auto;Travel",Fun Roads TV
 https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Travel",Journy" group-title="Travel",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Travel",Journy

@@ -1,17 +1,14 @@
 #EXTM3U
-# Обновлено: 2026-08-15 19:25:41
-# Всего каналов: 22301
-# Новых за сессию: 202
+# Обновлено: 2026-08-15 19:46:34
+# Всего каналов: 22302
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: International;Spartenprogramm
-# Каналов: 3
-# Обновлено: 2026-08-15 19:25:42
+# Каналов: 2
+# Обновлено: 2026-08-15 19:46:35
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
-
-#EXTINF:-1 tvg-name="Okto" group-title="International;Spartenprogramm",Okto
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ServusTV (AT)" group-title="International;Spartenprogramm",ServusTV (AT)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/freqsyndlin.servustv.com/771_playlist.m3u8
@@ -19,62 +16,24 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/freqsyndlin.servustv.c
 #EXTINF:-1 tvg-name="Krone.TV" group-title="International;Spartenprogramm",Krone.TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/kronetv.mdn.ors.at/live/eds/kronetv_hd/hls3_nodrm/kronetv_hd-nodrm.m3u8
 
-#EXTINF:-1 tvg-name="W24 TV" group-title="International",W24 TV
-https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="RTV (AT)" group-title="International",RTV (AT)
-http://iptv.rtv-ooe.at/stream.m3u8
 #EXTINF:-1 tvg-name="Taivas TV7" group-title="International",Taivas TV7
 https://vod.tv7.fi/tv7-fi/_definst_/smil:tv7-fi.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="ARD-alpha" group-title="Spartenprogramm",ARD-alpha
-https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="one" group-title="Spartenprogramm",one
 https://mcdn-one.ard.de/ardone/hls/master.m3u8
 #EXTINF:-1 tvg-name="ZDFinfo" group-title="Spartenprogramm",ZDFinfo
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="ZDFneo" group-title="Spartenprogramm",ZDFneo
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="Peer TV Alto Adige" group-title="International",Peer TV Alto Adige
-https://iptv.peer.biz/live/peertv-it.m3u8
-#EXTINF:-1 tvg-name="Peer TV Südtirol" group-title="International;Nachrichten",Peer TV Südtirol
-https://iptv.peer.biz/live/peertv.m3u8
-#EXTINF:-1 tvg-name="m2o Tv" group-title="International;Musik",m2o Tv
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-name="NKNews" group-title="International;Nachrichten",NKNews
 https://tv.nknews.org/tvdash/stream.mpd
-#EXTINF:-1 tvg-name="4 FunTV" group-title="International;Musik",4 FunTV
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 tvg-name="TRT World" group-title="International;Nachrichten",TRT World
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="ABC News" group-title="International;Nachrichten",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-name="Peer TV South Tyrol" group-title="International",Peer TV South Tyrol
-https://iptv.peer.biz/live/peertv-en.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera Arabic" group-title="International;Nachrichten",Al Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-name="CNN International" group-title="International;Nachrichten",CNN International
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-name="ANIXE" group-title="Spartenprogramm",ANIXE
-https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-#EXTINF:-1 tvg-name="Dokusat" group-title="Spartenprogramm",Dokusat
-https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-#EXTINF:-1 tvg-name="Welt der Wunder" group-title="Spartenprogramm",Welt der Wunder
-https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
-#EXTINF:-1 tvg-name="Activa TV" group-title="International;Musik",Activa TV
-https://streamtv.mediasector.es/hls/activatv/index.m3u8
-#EXTINF:-1 tvg-name="Sky News Extra" group-title="International;Nachrichten",Sky News Extra
-https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:-1 tvg-name="ALBUK TV" group-title="International",ALBUK TV
-http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Press TV" group-title="International;Nachrichten",Press TV
-https://live.presstv.ir/hls/presstv_5_482/index.m3u8
-#EXTINF:-1 tvg-name="Red Bull TV" group-title="International;Sport",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-name="Deutsche Welle (ES)" group-title="International;Nachrichten",Deutsche Welle (ES)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
-#EXTINF:-1 tvg-name="Kronehit TV" group-title="International;Musik",Kronehit TV
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 tvg-name="Tirol TV" group-title="International",Tirol TV
-https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
 #EXTINF:-1 tvg-name="Yle TV1" group-title="International",Yle TV1
 https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
 #EXTINF:-1 tvg-name="Yle TV2" group-title="International",Yle TV2

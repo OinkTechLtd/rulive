@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 19:25:41
-# Всего каналов: 22301
-# Новых за сессию: 202
+# Обновлено: 2026-08-15 19:46:34
+# Всего каналов: 22302
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Public;Weather
 # Каналов: 1
-# Обновлено: 2026-08-15 19:25:42
+# Обновлено: 2026-08-15 19:46:35
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="3Cat Càmeres del temps" group-title="Public;Weather",3Cat Càmeres del temps
@@ -115,6 +115,8 @@ https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 #EXTINF:-1 tvg-name="Meteonews" group-title="Weather",Meteonews
 https://streaming.meteonews.net/hls/stream.m3u8
+#EXTINF:-1 tvg-name="FomixTV" group-title="General;Music;Public",FomixTV
+https://stream.fomixmedia.nl/FomixTV/video.m3u8
 #EXTINF:-1 tvg-name="Weather Spy" group-title="Weather",Weather Spy
 https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8
 #EXTINF:-1 tvg-name="ETB1 On" group-title="Public",ETB1 On
