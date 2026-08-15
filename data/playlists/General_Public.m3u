@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-14 23:48:15
-# Всего каналов: 22055
-# Новых за сессию: 1
+# Обновлено: 2026-08-15 01:06:24
+# Всего каналов: 22072
+# Новых за сессию: 17
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Public
 # Каналов: 25
-# Обновлено: 2026-08-14 23:48:16
+# Обновлено: 2026-08-15 01:06:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="La 2 Canarias" group-title="General;Public",La 2 Canarias
@@ -5955,3 +5955,5 @@ https://streams.comclark.com/pknsd/gma_7/playlist.m3u8
 https://streams.comclark.com/pknsd/net_25/playlist.m3u8
 #EXTINF:-1 tvg-name="UNTV (480p)" group-title="General",UNTV (480p)
 https://streams.comclark.com/pknsd/untv/playlist.m3u8
+#EXTINF:-1 tvg-name="Telemundo West (2160p)" group-title="General",Telemundo West (2160p)
+http://168.228.44.241:9997/play/a07g/index.m3u8

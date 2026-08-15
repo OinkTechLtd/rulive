@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-14 23:48:15
-# Всего каналов: 22055
-# Новых за сессию: 1
+# Обновлено: 2026-08-15 01:06:24
+# Всего каналов: 22072
+# Новых за сессию: 17
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Music
 # Каналов: 1
-# Обновлено: 2026-08-14 23:48:16
+# Обновлено: 2026-08-15 01:06:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Zhara Kids TV (576p)" group-title="Kids;Music",Zhara Kids TV (576p)
@@ -2555,3 +2555,7 @@ https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.ism
 https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
 #EXTINF:-1 tvg-name="Lamore Rock Show WebTV" group-title="Music",Lamore Rock Show WebTV
 https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
+#EXTINF:-1 tvg-name="BabyFirst Spanish" group-title="Kids",BabyFirst Spanish
+http://168.228.44.241:9997/play/a07u/index.m3u8
+#EXTINF:-1 tvg-name="Disney Channel [Geo-blocked]" group-title="Kids",Disney Channel [Geo-blocked]
+http://212.5.144.156/disney/index.m3u8

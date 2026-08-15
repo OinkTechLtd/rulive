@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-14 23:48:15
-# Всего каналов: 22055
-# Новых за сессию: 1
+# Обновлено: 2026-08-15 01:06:24
+# Всего каналов: 22072
+# Новых за сессию: 17
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;News;Religious
 # Каналов: 1
-# Обновлено: 2026-08-14 23:48:16
+# Обновлено: 2026-08-15 01:06:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Lingkar TV" group-title="Music;News;Religious",Lingkar TV
@@ -5645,3 +5645,5 @@ https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
 https://streams.comclark.com/pknsd/dzrh/playlist.m3u8
 #EXTINF:-1 tvg-name="DZMM TeleRadyo (480p)" group-title="News",DZMM TeleRadyo (480p)
 https://streams.comclark.com/pknsd/teleradyo/playlist.m3u8
+#EXTINF:-1 tvg-name="El Pinguino TV" group-title="News",El Pinguino TV
+https://redirector.dps.live/hls/pinguinotv/playlist.m3u8
