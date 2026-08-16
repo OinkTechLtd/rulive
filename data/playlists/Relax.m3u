@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-16 22:20:48
-# Всего каналов: 22400
-# Новых за сессию: 4
+# Обновлено: 2026-08-16 22:47:50
+# Всего каналов: 22401
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Relax
-# Каналов: 6
-# Обновлено: 2026-08-16 22:20:49
+# Каналов: 7
+# Обновлено: 2026-08-16 22:47:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Better Life Nature Channel (480p)" group-title="Relax",Better Life Nature Channel (480p)
@@ -27,6 +27,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/webtvstream.bhtelecom.
 
 #EXTINF:-1 tvg-name="Screen Dreams" group-title="Relax",Screen Dreams
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2240
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Relax",like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/webtvstream.bhtelecom.ba/funbox.m3u8
 
 #EXTINF:-1 tvg-name="10 Bold Adelaide" group-title="Lifestyle;Relax",10 Bold Adelaide
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
