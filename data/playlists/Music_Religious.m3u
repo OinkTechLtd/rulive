@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 23:45:36
-# Всего каналов: 22314
-# Новых за сессию: 1
+# Обновлено: 2026-08-16 01:09:49
+# Всего каналов: 22349
+# Новых за сессию: 35
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;Religious
 # Каналов: 11
-# Обновлено: 2026-08-15 23:45:37
+# Обновлено: 2026-08-16 01:09:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Муз союз (576p)" group-title="Music;Religious",Муз союз (576p)
@@ -3321,3 +3321,7 @@ https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.ism
 https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
 #EXTINF:-1 tvg-name="Lamore Rock Show WebTV" group-title="Music",Lamore Rock Show WebTV
 https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
+#EXTINF:-1 tvg-name="TBN Asia (480p)" group-title="Religious",TBN Asia (480p)
+https://streams.comclark.com/pknsd/tbn/playlist.m3u8
+#EXTINF:-1 tvg-name="Myx (480p)" group-title="Music",Myx (480p)
+https://streams.comclark.com/pknsd/myx/playlist.m3u8

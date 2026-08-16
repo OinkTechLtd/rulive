@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 23:45:36
-# Всего каналов: 22314
-# Новых за сессию: 1
+# Обновлено: 2026-08-16 01:09:49
+# Всего каналов: 22349
+# Новых за сессию: 35
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Music;Public
 # Каналов: 1
-# Обновлено: 2026-08-15 23:45:37
+# Обновлено: 2026-08-16 01:09:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="FomixTV" group-title="General;Music;Public",FomixTV
@@ -7607,3 +7607,9 @@ https://streams.comclark.com/pknsd/net_25/playlist.m3u8
 https://streams.comclark.com/pknsd/untv/playlist.m3u8
 #EXTINF:-1 tvg-name="Telemundo West (2160p)" group-title="General",Telemundo West (2160p)
 http://168.228.44.241:9997/play/a07g/index.m3u8
+#EXTINF:-1 tvg-name="BS Fuji" group-title="General",BS Fuji
+https://streams.comclark.com/pknsd/fuji/playlist.m3u8
+#EXTINF:-1 tvg-name="Myx (480p)" group-title="Music",Myx (480p)
+https://streams.comclark.com/pknsd/myx/playlist.m3u8
+#EXTINF:-1 tvg-name="Antena 7 (480p)[Geo-blocked]" group-title="General",Antena 7 (480p)[Geo-blocked]
+https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8

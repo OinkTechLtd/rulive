@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 23:45:36
-# Всего каналов: 22314
-# Новых за сессию: 1
+# Обновлено: 2026-08-16 01:09:49
+# Всего каналов: 22349
+# Новых за сессию: 35
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Public
 # Каналов: 3
-# Обновлено: 2026-08-15 23:45:37
+# Обновлено: 2026-08-16 01:09:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Clan TVE [Geo-blocked]" group-title="Kids;Public",Clan TVE [Geo-blocked]
@@ -945,3 +945,5 @@ http://103.175.73.12:8080/live/688/master.m3u8
 http://168.228.44.241:9997/play/a07u/index.m3u8
 #EXTINF:-1 tvg-name="Disney Channel [Geo-blocked]" group-title="Kids",Disney Channel [Geo-blocked]
 http://212.5.144.156/disney/index.m3u8
+#EXTINF:-1 tvg-name="Nick Jr Asia" group-title="Kids",Nick Jr Asia
+https://streams.comclark.com/pknsd/nickjr/playlist.m3u8

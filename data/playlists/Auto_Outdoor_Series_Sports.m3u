@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 23:45:36
-# Всего каналов: 22314
-# Новых за сессию: 1
+# Обновлено: 2026-08-16 01:09:49
+# Всего каналов: 22349
+# Новых за сессию: 35
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Auto;Outdoor;Series;Sports
 # Каналов: 2
-# Обновлено: 2026-08-15 23:45:37
+# Обновлено: 2026-08-16 01:09:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="REV'N Action" group-title="Auto;Outdoor;Series;Sports",REV'N Action
@@ -2260,3 +2260,9 @@ https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
 https://d2606t9eyamzl3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ia6qw6xh7nd2w-ssai-prd/out/v1/64dc66ee167d48db833377ab85217dfd/DAZN-FAST-HLS-CMAF-DRM/index.m3u8
 #EXTINF:-1 tvg-name="SPORT BILD TV" group-title="Sport",SPORT BILD TV
 https://sport-bild.personalstream.tv/v1/bildde/master.m3u8
+#EXTINF:-1 tvg-name="EDGEsport (480p)" group-title="Sports",EDGEsport (480p)
+https://streams.comclark.com/pknsd/edgesports/playlist.m3u8
+#EXTINF:-1 tvg-name="Premier Football" group-title="Sports",Premier Football
+https://streams.comclark.com/pknhd/premier_football/playlist.m3u8
+#EXTINF:-1 tvg-name="Tap Edge (480p)" group-title="Sports",Tap Edge (480p)
+https://streams.comclark.com/pknsd/tapedge/playlist.m3u8

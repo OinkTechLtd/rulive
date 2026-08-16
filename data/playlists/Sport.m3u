@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 23:45:36
-# Всего каналов: 22314
-# Новых за сессию: 1
+# Обновлено: 2026-08-16 01:09:49
+# Всего каналов: 22349
+# Новых за сессию: 35
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Sport
 # Каналов: 3
-# Обновлено: 2026-08-15 23:45:37
+# Обновлено: 2026-08-16 01:09:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="AUTO BILD TV" group-title="Sport",AUTO BILD TV
@@ -1259,3 +1259,9 @@ https://streams.comclark.com/pknsd/solar_sports/playlist.m3u8
 https://corestream.siteyaptim.live/trt-spor/index.m3u8
 #EXTINF:-1 tvg-name="ORF SPORT +" group-title="International;Sport",ORF SPORT +
 https://orfs.mdn.ors.at/out/u/orfs/q6a/manifest_6.m3u8
+#EXTINF:-1 tvg-name="EDGEsport (480p)" group-title="Sports",EDGEsport (480p)
+https://streams.comclark.com/pknsd/edgesports/playlist.m3u8
+#EXTINF:-1 tvg-name="Premier Football" group-title="Sports",Premier Football
+https://streams.comclark.com/pknhd/premier_football/playlist.m3u8
+#EXTINF:-1 tvg-name="Tap Edge (480p)" group-title="Sports",Tap Edge (480p)
+https://streams.comclark.com/pknsd/tapedge/playlist.m3u8

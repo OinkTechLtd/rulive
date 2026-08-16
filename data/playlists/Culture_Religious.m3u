@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-15 23:45:36
-# Всего каналов: 22314
-# Новых за сессию: 1
+# Обновлено: 2026-08-16 01:09:49
+# Всего каналов: 22349
+# Новых за сессию: 35
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Religious
 # Каналов: 5
-# Обновлено: 2026-08-15 23:45:37
+# Обновлено: 2026-08-16 01:09:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Culture;Religious",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -2041,3 +2041,7 @@ http://15.204.246.24:8080/Mega2HD/index.m3u8
 https://jothi.inet.moe/jothitv/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Religious",Aastha Bhajan (576p)" group-title="Religious",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Religious",Aastha Bhajan (576p)
 http://103.175.73.12:8080/live/339/master.m3u8
+#EXTINF:-1 tvg-name="TBN Asia (480p)" group-title="Religious",TBN Asia (480p)
+https://streams.comclark.com/pknsd/tbn/playlist.m3u8
+#EXTINF:-1 tvg-name="NHK World Japan" group-title="Culture;News",NHK World Japan
+https://streams.comclark.com/pknsd/nhk_world/playlist.m3u8
