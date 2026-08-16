@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-16 18:28:20
-# Всего каналов: 22385
-# Новых за сессию: 1
+# Обновлено: 2026-08-16 18:58:57
+# Всего каналов: 22389
+# Новых за сессию: 4
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: IPTV
-# Каналов: 1010
-# Обновлено: 2026-08-16 18:28:21
+# Каналов: 1013
+# Обновлено: 2026-08-16 18:58:58
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="A2 CNN Albania" group-title="IPTV",A2 CNN Albania
@@ -90,6 +90,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.almaz-media.tv:
 
 #EXTINF:-1 tvg-name="Шансон ТВ (576p) [Geo-blocked]" group-title="IPTV",Шансон ТВ (576p) [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/uiptv.do.am/1ufc/602079679/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Надия/Новый канал (576p)" group-title="IPTV",Надия/Новый канал (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/nadiya.home-net.com.ua/mob/mystream.m3u8
 
 #EXTINF:-1 tvg-name="Magic PowerRadio" group-title="IPTV",Magic PowerRadio
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/server-23.stream-server.nl:1936/Magic-PowerRadio/Magic-PowerRadio/playlist.m3u8
@@ -2799,6 +2802,12 @@ https://yandexwebcache.net/yandbtm?fmode=inject&tm=1786872879&tld=ru&lang=en&la=
 
 #EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
 https://yandexwebcache.net/yandbtm?fmode=inject&tm=1786872879&tld=ru&lang=en&la=1785570304&text=tvrain+live+stream+m3u8&url=https%3A//github.com/kilirushi/iptv/blob/master/ru.m3u&l10n=ru&mime=html&sign=5a115ff654cb18f19e61c6c1a37c9ce3&keyno=0&quot;},{&quot;variant&quot;:&quot;more&quot;,&quot;url&quot;:&quot;/search/?text=site%3Agithub.com%20tvrain%20live%20stream%20m3u8&lr=213&noreask=1&quot;,&quot;target&quot;:&quot;_self&quot;},{&quot;variant&quot;:&quot;info&quot;,&quot;url&quot;:&quot;https://webmaster.yandex.ru/siteinfo/?site=github.com&quot;},{&quot;variant&quot;:&quot;reportFeedback&quot;,&quot;reportFeedback&quot;:{&quot;feature&quot;:&quot;Органика&quot;,&quot;customMetaFields&quot;:[{&quot;name&quot;:&quot;url-complaint&quot;,&quot;value&quot;:&quot;https://github.com/kilirushi/iptv/blob/master/ru.m3u&quot;},{&quot;name&quot;:&quot;docId&quot;,&quot;value&quot;:&quot;1&quot;}],&quot;title&quot;:&quot;Что
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-3.pishow.tv/live/234/master.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_italy.m3u8
 
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="IPTV",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8
