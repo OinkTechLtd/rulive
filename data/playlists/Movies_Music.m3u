@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-17 12:42:26
-# Всего каналов: 22435
-# Новых за сессию: 0
+# Обновлено: 2026-08-17 13:39:55
+# Всего каналов: 22436
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;Music
 # Каналов: 3
-# Обновлено: 2026-08-17 12:42:27
+# Обновлено: 2026-08-17 13:39:56
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Shemaroo Filmi Gaane" group-title="Movies;Music",Shemaroo Filmi Gaane
@@ -19,6 +19,8 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.enhdtv.com:19360/
 #EXTINF:-1 tvg-name="Orbita Chile TV" group-title="Movies;Music",Orbita Chile TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/orbitachiletv.org/hls/0/stream.m3u8
 
+#EXTINF:-1 tvg-name="AlbKanale Music TV" group-title="Music",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
 #EXTINF:-1 tvg-name="RTV Glas Drine (404p)" group-title="General;Music",RTV Glas Drine (404p)
 http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
 #EXTINF:-1 tvg-name="City TV (576p)" group-title="Music",City TV (576p)

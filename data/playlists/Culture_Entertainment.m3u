@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-17 12:42:26
-# Всего каналов: 22435
-# Новых за сессию: 0
+# Обновлено: 2026-08-17 13:39:55
+# Всего каналов: 22436
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Entertainment
 # Каналов: 3
-# Обновлено: 2026-08-17 12:42:27
+# Обновлено: 2026-08-17 13:39:56
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Jaya Max (576p)" group-title="Culture;Entertainment",Jaya Max (576p)
@@ -19,6 +19,8 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/103.72.101.252:8080/li
 #EXTINF:-1 tvg-name="Capital 21" group-title="Culture;Entertainment",Capital 21
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/video.cdmx.gob.mx/redes/stream.m3u8
 
+#EXTINF:-1 tvg-name="9Go! [Geo-blocked]" group-title="Entertainment;Kids",9Go! [Geo-blocked]
+https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
 #EXTINF:-1 tvg-name="Belarus-2" group-title="Entertainment",Belarus-2
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Belarus-3" group-title="Culture",Belarus-3
@@ -859,6 +861,8 @@ http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
 https://origin-de-y376549.cdn.nextologies.com:444/4c3caf7294b3/fbbd0aee3d9a8260/playlist.m3u8
 #EXTINF:-1 tvg-name="TCF TV" group-title="Culture;General",TCF TV
 http://66.11.33.44:8081/live/TCF/playlist.m3u8
+#EXTINF:-1 tvg-name="9Gem [Geo-blocked]" group-title="Entertainment",9Gem [Geo-blocked]
+https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
 #EXTINF:-1 tvg-name="ABC TV Plus" group-title="Entertainment",ABC TV Plus
 https://c.mjh.nz/abc-tv-plus.m3u8
 #EXTINF:-1 tvg-name="MIS Televizija" group-title="Culture",MIS Televizija

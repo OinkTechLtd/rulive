@@ -1,18 +1,22 @@
 #EXTM3U
-# Обновлено: 2026-08-17 12:42:26
-# Всего каналов: 22435
-# Новых за сессию: 0
+# Обновлено: 2026-08-17 13:39:55
+# Всего каналов: 22436
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Lifestyle;Science
 # Каналов: 1
-# Обновлено: 2026-08-17 12:42:27
+# Обновлено: 2026-08-17 13:39:56
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Jilin Rural Channel" group-title="Education;Lifestyle;Science",Jilin Rural Channel
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
 
+#EXTINF:-1 tvg-name="TV Universidad" group-title="Education",TV Universidad
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+#EXTINF:-1 tvg-name="9Life [Geo-blocked]" group-title="Lifestyle",9Life [Geo-blocked]
+https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
 #EXTINF:-1 tvg-name="Canal Savoir (360p)" group-title="Education",Canal Savoir (360p)
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-name="13 Prime" group-title="Lifestyle",13 Prime
@@ -467,6 +471,8 @@ https://5ca3e84a76d30.streamlock.net/uacj/videouacj/playlist.m3u8
 https://stream.unison.mx/hls/unisontvatem.m3u8
 #EXTINF:-1 tvg-name="Knowledge Network [Geo-blocked]" group-title="Education;Kids",Knowledge Network [Geo-blocked]
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
+#EXTINF:-1 tvg-name="10 Bold Adelaide" group-title="Lifestyle;Relax",10 Bold Adelaide
+https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
 #EXTINF:-1 tvg-name="ABC Entertains" group-title="Education;Kids",ABC Entertains
 https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1 tvg-name="Luxe TV" group-title="Lifestyle",Luxe TV

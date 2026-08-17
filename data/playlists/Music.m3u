@@ -1,14 +1,17 @@
 #EXTM3U
-# Обновлено: 2026-08-17 12:42:26
-# Всего каналов: 22435
-# Новых за сессию: 0
+# Обновлено: 2026-08-17 13:39:55
+# Всего каналов: 22436
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music
-# Каналов: 880
-# Обновлено: 2026-08-17 12:42:27
+# Каналов: 881
+# Обновлено: 2026-08-17 13:39:55
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="AlbKanale Music TV" group-title="Music",AlbKanale Music TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/albportal.net/albkanalemusic.m3u8
 
 #EXTINF:-1 tvg-name="Deluxe Music" group-title="Music",Deluxe Music
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
