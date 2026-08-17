@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-17 15:51:35
-# Всего каналов: 22440
-# Новых за сессию: 1
+# Обновлено: 2026-08-17 16:27:12
+# Всего каналов: 22442
+# Новых за сессию: 2
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;News;Science
 # Каналов: 1
-# Обновлено: 2026-08-17 15:51:36
+# Обновлено: 2026-08-17 16:27:13
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="MediBizTV" group-title="Education;News;Science",MediBizTV
@@ -17,14 +17,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/43wrzjnpqoxe-hls-live.
 https://stream.tvrain.tv/live/tvrain.m3u8
 #EXTINF:-1 tvg-name="Дождь (резервный)" group-title="News",Дождь (резервный)
 https://stream.tvrain.tv/hls/tvrain_live.m3u8
-#EXTINF:-1 tvg-name="CNA" group-title="News",CNA
-https://live1.mediadesk.al/cnatvlive.m3u8
-#EXTINF:-1 tvg-name="Ora News" group-title="News",Ora News
-https://live1.mediadesk.al/oranews.m3u8
-#EXTINF:-1 tvg-name="Report TV" group-title="News",Report TV
-https://deb10stream.duckdns.org/hls/stream.m3u8
-#EXTINF:-1 tvg-name="TV Universidad" group-title="Education",TV Universidad
-https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-1 tvg-name="Belarus-24" group-title="News",Belarus-24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="ICI RDI" group-title="News",ICI RDI
@@ -977,8 +969,6 @@ https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
 https://cdn-1.pishow.tv/live/411/master.m3u8
 #EXTINF:-1 tvg-name="INH 24x7 (576p)" group-title="News",INH 24x7 (576p)
 https://mumt01.tangotv.in/INH24X7/index.m3u8
-#EXTINF:-1 tvg-name="InWonder" group-title="Science",InWonder
-https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-name="Jai Maharashtra (576p)" group-title="News",Jai Maharashtra (576p)
 https://cdn-3.pishow.tv/live/1465/master.m3u8
 #EXTINF:-1 tvg-name="Janam TV (576p)" group-title="News",Janam TV (576p)
