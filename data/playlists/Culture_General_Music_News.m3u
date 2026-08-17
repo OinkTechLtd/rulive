@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-16 23:45:36
-# Всего каналов: 22404
-# Новых за сессию: 1
+# Обновлено: 2026-08-17 01:07:25
+# Всего каналов: 22419
+# Новых за сессию: 15
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;General;Music;News
 # Каналов: 1
-# Обновлено: 2026-08-16 23:45:37
+# Обновлено: 2026-08-17 01:07:25
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Online TV Nusantara" group-title="Culture;General;Music;News",Online TV Nusantara
@@ -4039,6 +4039,8 @@ https://streamer2.nexgen.bz/06-BBN/index.m3u8
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_001/Stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Best of Dance TV" group-title="Music",Best of Dance TV
 https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
+#EXTINF:-1 tvg-name="Bilyonaryo News Channel" group-title="News",Bilyonaryo News Channel
+https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8
 #EXTINF:-1 tvg-name="BOKTV" group-title="Music",BOKTV
 https://livestream2.bokradio.co.za/hls/Bok5c.m3u8
 #EXTINF:-1 tvg-name="BTB Info" group-title="Documentary;News",BTB Info
@@ -10031,6 +10033,8 @@ http://5.180.164.197:8080/FRANCE3/index.m3u8
 https://hls-1zdhtxpm-livepush.akamaized.net/live_cdn/nsM12Xw0C1xXdJ/em0Wx71z-ec6EWJb/rewind-3600.m3u8
 #EXTINF:-1 tvg-name="CW [Geo-blocked]" group-title="General",CW [Geo-blocked]
 https://messi.damitv.st/papi/ts/cw-usa/playlist.m3u8
+#EXTINF:-1 tvg-name="Telemundo East" group-title="General",Telemundo East
+http://45.190.13.8/TelemundoHD/index.m3u8
 #EXTINF:-1 tvg-name="Telemundo West [Geo-blocked]" group-title="General",Telemundo West [Geo-blocked]
 https://messi.damitv.st/papi/ts/telemundo-usa/playlist.m3u8
 #EXTINF:-1 tvg-name="JTBS Classic" group-title="Culture;Religious",JTBS Classic
@@ -10205,3 +10209,7 @@ https://streams.comclark.com/pknsd/channel_news_asia/playlist.m3u8
 https://streams.comclark.com/pknsd/myx/playlist.m3u8
 #EXTINF:-1 tvg-name="Antena 7 (480p)[Geo-blocked]" group-title="General",Antena 7 (480p)[Geo-blocked]
 https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-name="BBC U 3" group-title="General",BBC U 3
+http://45.14.84.37/bbc3/index.m3u8
+#EXTINF:-1 tvg-name="BBC U 4" group-title="General",BBC U 4
+http://45.14.84.37/bbc4/index.m3u8

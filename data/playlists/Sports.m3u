@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-16 23:45:36
-# Всего каналов: 22404
-# Новых за сессию: 1
+# Обновлено: 2026-08-17 01:07:25
+# Всего каналов: 22419
+# Новых за сессию: 15
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Sports
-# Каналов: 732
-# Обновлено: 2026-08-16 23:45:37
+# Каналов: 733
+# Обновлено: 2026-08-17 01:07:25
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CBC Sport [Geo-blocked]" group-title="Sports",CBC Sport [Geo-blocked]
@@ -2080,6 +2080,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/streams.comclark.com/p
 #EXTINF:-1 tvg-name="Tap Edge (480p)" group-title="Sports",Tap Edge (480p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/streams.comclark.com/pknsd/tapedge/playlist.m3u8
 
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/313/index.m3u8
+
 #EXTINF:-1 tvg-name="Belarus-5" group-title="Sports",Belarus-5
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 
@@ -2512,3 +2515,5 @@ https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
 https://d2606t9eyamzl3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ia6qw6xh7nd2w-ssai-prd/out/v1/64dc66ee167d48db833377ab85217dfd/DAZN-FAST-HLS-CMAF-DRM/index.m3u8
 #EXTINF:-1 tvg-name="SPORT BILD TV" group-title="Sport",SPORT BILD TV
 https://sport-bild.personalstream.tv/v1/bildde/master.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Setanta Sports" group-title="Sports",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Setanta Sports
+http://stream.mcquack.net/313/index.m3u8

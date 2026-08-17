@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-16 23:45:36
-# Всего каналов: 22404
-# Новых за сессию: 1
+# Обновлено: 2026-08-17 01:07:25
+# Всего каналов: 22419
+# Новых за сессию: 15
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Undefined
-# Каналов: 4222
-# Обновлено: 2026-08-16 23:45:37
+# Каналов: 4224
+# Обновлено: 2026-08-17 01:07:25
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Дождь [Geo-blocked]" group-title="Undefined",Дождь [Geo-blocked]
@@ -12258,6 +12258,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rtvclive.flumotion.clo
 
 #EXTINF:-1 tvg-name="Tap TV (480p)" group-title="Undefined",Tap TV (480p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/streams.comclark.com/pknsd/taptv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TUDN" group-title="Undefined",TUDN
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.190.13.8/TUDNHD/index.m3u8
+
+#EXTINF:-1 tvg-name="Univision East" group-title="Undefined",Univision East
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.190.13.8/UnivisionHD/index.m3u8
 
 #EXTINF:-1 tvg-name="R9" group-title="Undefined",R9
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8

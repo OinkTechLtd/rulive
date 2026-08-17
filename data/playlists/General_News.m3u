@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-16 23:45:36
-# Всего каналов: 22404
-# Новых за сессию: 1
+# Обновлено: 2026-08-17 01:07:25
+# Всего каналов: 22419
+# Новых за сессию: 15
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;News
 # Каналов: 20
-# Обновлено: 2026-08-16 23:45:37
+# Обновлено: 2026-08-17 01:07:25
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Сочи 24" group-title="General;News",Сочи 24
@@ -3328,6 +3328,8 @@ https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_
 https://streamer2.nexgen.bz/06-BBN/index.m3u8
 #EXTINF:-1 tvg-name="BCS StarCross TV (576p)" group-title="General",BCS StarCross TV (576p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_001/Stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Bilyonaryo News Channel" group-title="News",Bilyonaryo News Channel
+https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8
 #EXTINF:-1 tvg-name="BTB Info" group-title="Documentary;News",BTB Info
 https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
 #EXTINF:-1 tvg-name="BTM TV (480p)" group-title="General",BTM TV (480p)
@@ -8074,6 +8076,8 @@ http://89.187.185.76:8080/France3/index.m3u8
 http://5.180.164.197:8080/FRANCE3/index.m3u8
 #EXTINF:-1 tvg-name="CW [Geo-blocked]" group-title="General",CW [Geo-blocked]
 https://messi.damitv.st/papi/ts/cw-usa/playlist.m3u8
+#EXTINF:-1 tvg-name="Telemundo East" group-title="General",Telemundo East
+http://45.190.13.8/TelemundoHD/index.m3u8
 #EXTINF:-1 tvg-name="Telemundo West [Geo-blocked]" group-title="General",Telemundo West [Geo-blocked]
 https://messi.damitv.st/papi/ts/telemundo-usa/playlist.m3u8
 #EXTINF:-1 tvg-name="FREEDOM" group-title="News",FREEDOM
@@ -8190,3 +8194,7 @@ https://streams.comclark.com/pknsd/fuji/playlist.m3u8
 https://streams.comclark.com/pknsd/channel_news_asia/playlist.m3u8
 #EXTINF:-1 tvg-name="Antena 7 (480p)[Geo-blocked]" group-title="General",Antena 7 (480p)[Geo-blocked]
 https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-name="BBC U 3" group-title="General",BBC U 3
+http://45.14.84.37/bbc3/index.m3u8
+#EXTINF:-1 tvg-name="BBC U 4" group-title="General",BBC U 4
+http://45.14.84.37/bbc4/index.m3u8
