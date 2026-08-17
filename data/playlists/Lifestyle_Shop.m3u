@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-17 20:26:47
+# Обновлено: 2026-08-17 20:55:01
 # Всего каналов: 22452
-# Новых за сессию: 2
+# Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Lifestyle;Shop
 # Каналов: 1
-# Обновлено: 2026-08-17 20:26:47
+# Обновлено: 2026-08-17 20:55:02
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Fashion Finds" group-title="Lifestyle;Shop",Fashion Finds
@@ -77,6 +77,8 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
 #EXTINF:-1 tvg-name="In the kitchen" group-title="Cooking;Shop",In the kitchen
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
+#EXTINF:-1 tvg-name="INFAST" group-title="Lifestyle",INFAST
+https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-name="Jewelry Television" group-title="Shop",Jewelry Television
 https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8
 #EXTINF:-1 tvg-name="Jewelry TV 2" group-title="Shop",Jewelry TV 2
@@ -471,5 +473,7 @@ http://znty.dyndns.org:5010/hls/foxcrime.m3u8
 http://znty.dyndns.org:5010/hls/foxlife.m3u8
 #EXTINF:-1 tvg-name="Fashion&LifeStyle" group-title="Lifestyle",Fashion&LifeStyle
 http://stream.mcquack.net/119/index.m3u8
+#EXTINF:-1 tvg-name="FashionBox" group-title="Lifestyle",FashionBox
+https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC Lifestyle Philippines" group-title="Lifestyle",BBC Lifestyle Philippines
 https://thinkkast.dpdns.org/thinkkast/bbc_lstylehd/versiglia/index.m3u8
