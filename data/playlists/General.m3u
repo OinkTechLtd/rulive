@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-17 02:43:08
-# Всего каналов: 22422
-# Новых за сессию: 2
+# Обновлено: 2026-08-17 03:50:52
+# Всего каналов: 22427
+# Новых за сессию: 5
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General
-# Каналов: 3151
-# Обновлено: 2026-08-17 02:43:09
+# Каналов: 3146
+# Обновлено: 2026-08-17 03:50:53
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="БелРос (576p)" group-title="General",БелРос (576p)
@@ -5146,9 +5146,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/ap02.iqplay.tv:8082/iq
 #EXTINF:-1 tvg-name="DELTA TV" group-title="General",DELTA TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Den Haag TV" group-title="General",Den Haag TV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Dena" group-title="General",Dena
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ncdn.telewebion.ir/dena/live/playlist.m3u8
 
@@ -5793,18 +5790,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/livefta.malimarcdn.com
 
 #EXTINF:-1 tvg-name="OIK TV" group-title="General",OIK TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/streamer05.low-latency.cz/oiktv/index.m3u8
-
-#EXTINF:-1 tvg-name="Omroep Centraal TV (480p)" group-title="General",Omroep Centraal TV (480p)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms2.mx-cd.net/tv/208-1258878/Omroep_Centraal_GB.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Omroep Meierijstad (480p)" group-title="General",Omroep Meierijstad (480p)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms2.mx-cd.net/dtv-09/186-793530/Omroep_Meierij_TV.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Omroep Ons West Brabant (480p)" group-title="General",Omroep Ons West Brabant (480p)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms2.mx-cd.net/tv/177-710139/Ons_West_Brabant_TV.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Omroep Peelrand" group-title="General",Omroep Peelrand
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms7.mx-cd.net/dtv-11/208-1258878/Omroep_Peelrand_TV.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Omroep Tilburg TV (480p)" group-title="General",Omroep Tilburg TV (480p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
@@ -9687,8 +9672,6 @@ https://stream.tvkstella.pl/stella/stella.m3u8
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="TVR Sport" group-title="General;Sports",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-name="FomixTV" group-title="General;Music;Public",FomixTV
-https://stream.fomixmedia.nl/FomixTV/video.m3u8
 #EXTINF:-1 tvg-name="TVR Folclor" group-title="General;Music",TVR Folclor
 https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="HTV3" group-title="Entertainment;General;Series",HTV3
