@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-17 15:25:46
-# Всего каналов: 22439
+# Обновлено: 2026-08-17 15:51:35
+# Всего каналов: 22440
 # Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Outdoor
 # Каналов: 3
-# Обновлено: 2026-08-17 15:25:47
+# Обновлено: 2026-08-17 15:51:36
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CCTV-17" group-title="Education;Outdoor",CCTV-17
@@ -19,6 +19,8 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-6.pishow.tv/live/9
 #EXTINF:-1 tvg-name="AgroCanal" group-title="Education;Outdoor",AgroCanal
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.162.64.114/AGRO_CANAL/index.m3u8
 
+#EXTINF:-1 tvg-name="TV Universidad" group-title="Education",TV Universidad
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-1 tvg-name="Canal Savoir (360p)" group-title="Education",Canal Savoir (360p)
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-name="ARD-alpha" group-title="Education",ARD-alpha

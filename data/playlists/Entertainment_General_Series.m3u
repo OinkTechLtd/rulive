@@ -1,18 +1,20 @@
 #EXTM3U
-# Обновлено: 2026-08-17 15:25:46
-# Всего каналов: 22439
+# Обновлено: 2026-08-17 15:51:35
+# Всего каналов: 22440
 # Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;General;Series
 # Каналов: 1
-# Обновлено: 2026-08-17 15:25:47
+# Обновлено: 2026-08-17 15:51:36
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="HTV3" group-title="Entertainment;General;Series",HTV3
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/vc.101vn.com/htv/htvcmb.php?id=2535
 
+#EXTINF:-1 tvg-name="9Go! [Geo-blocked]" group-title="Entertainment;Kids",9Go! [Geo-blocked]
+https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
 #EXTINF:-1 tvg-name="Belarus-1" group-title="General",Belarus-1
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Belarus-2" group-title="Entertainment",Belarus-2
@@ -2847,6 +2849,8 @@ http://66.11.33.44:8081/live/TCF/playlist.m3u8
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 #EXTINF:-1 tvg-name="Watan-e-Maa TV" group-title="General",Watan-e-Maa TV
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
+#EXTINF:-1 tvg-name="9Gem [Geo-blocked]" group-title="Entertainment",9Gem [Geo-blocked]
+https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
 #EXTINF:-1 tvg-name="ABC Australia" group-title="General",ABC Australia
 http://103.154.3.101:5001/live/2782.m3u8
 #EXTINF:-1 tvg-name="ABC TV ACT" group-title="General",ABC TV ACT
@@ -4867,6 +4871,10 @@ https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 #EXTINF:-1 tvg-name="TVR Sport" group-title="General;Sports",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 tvg-name="BE@TTV" group-title="Entertainment;Music",BE@TTV
+https://tv.beatfm.nl/live.m3u8
+#EXTINF:-1 tvg-name="FomixTV" group-title="General;Music;Public",FomixTV
+https://stream.fomixmedia.nl/FomixTV/video.m3u8
 #EXTINF:-1 tvg-name="TVR Folclor" group-title="General;Music",TVR Folclor
 https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="247 Box TV" group-title="Entertainment",247 Box TV
@@ -8183,6 +8191,8 @@ http://stream.mcquack.net/466/index.m3u8
 http://stream.mcquack.net/27/index.m3u8
 #EXTINF:-1 tvg-name="NHK General TV" group-title="General",NHK General TV
 https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",Kentron TV" group-title="General",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",Kentron TV
+http://stream.mcquack.net/39/index.m3u8
 #EXTINF:-1 tvg-name="Fortis TV" group-title="General",Fortis TV
 https://stream.fortistv.com/hls/fortis-news/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies;Series",Bolt" group-title="Movies;Series",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies;Series",Bolt
@@ -8271,6 +8281,8 @@ https://stmv.webtvninjas.com.br/rctv/rctv/playlist.m3u8
 https://d38s7rrdbnh4oy.cloudfront.net/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Saudades/index.m3u8
 #EXTINF:-1 tvg-name="TV 3 Curitiba" group-title="General",TV 3 Curitiba
 https://stmv.webtvninjas.com.br/tv3/tv3/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",Armenia TV Satellite (576p)" group-title="General",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",Armenia TV Satellite (576p)
+http://stream.mcquack.net/175/index.m3u8
 #EXTINF:-1 tvg-name="Der TV" group-title="General",Der TV
 https://stream.berosat.live/hls/der-tv/der-tv.m3u8
 #EXTINF:-1 tvg-name="UTV Africa" group-title="General",UTV Africa
