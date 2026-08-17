@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-17 14:27:21
-# Всего каналов: 22437
+# Обновлено: 2026-08-17 14:55:09
+# Всего каналов: 22438
 # Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Lifestyle;News
 # Каналов: 3
-# Обновлено: 2026-08-17 14:27:22
+# Обновлено: 2026-08-17 14:55:09
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="NowMedia Television" group-title="Lifestyle;News",NowMedia Television
@@ -23,14 +23,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-204968.castr.ne
 https://stream.tvrain.tv/live/tvrain.m3u8
 #EXTINF:-1 tvg-name="Дождь (резервный)" group-title="News",Дождь (резервный)
 https://stream.tvrain.tv/hls/tvrain_live.m3u8
-#EXTINF:-1 tvg-name="CNA" group-title="News",CNA
-https://live1.mediadesk.al/cnatvlive.m3u8
-#EXTINF:-1 tvg-name="Ora News" group-title="News",Ora News
-https://live1.mediadesk.al/oranews.m3u8
-#EXTINF:-1 tvg-name="Report TV" group-title="News",Report TV
-https://deb10stream.duckdns.org/hls/stream.m3u8
-#EXTINF:-1 tvg-name="9Life [Geo-blocked]" group-title="Lifestyle",9Life [Geo-blocked]
-https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
 #EXTINF:-1 tvg-name="Belarus-24" group-title="News",Belarus-24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="ICI RDI" group-title="News",ICI RDI
@@ -1345,8 +1337,6 @@ https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 http://158.69.24.53:8080/probashi_tv/index.m3u8
 #EXTINF:-1 tvg-name="The News Forum" group-title="News",The News Forum
 http://name-port.to/live/Gregory123/Gregory321/2420047.ts
-#EXTINF:-1 tvg-name="10 Bold Adelaide" group-title="Lifestyle;Relax",10 Bold Adelaide
-https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
 #EXTINF:-1 tvg-name="Sky News Extra 1 (540p)" group-title="News",Sky News Extra 1 (540p)
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 #EXTINF:-1 tvg-name="Sky News Extra 2 (540p)" group-title="News",Sky News Extra 2 (540p)
