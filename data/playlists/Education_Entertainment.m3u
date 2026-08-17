@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-17 19:28:27
-# Всего каналов: 22446
-# Новых за сессию: 2
+# Обновлено: 2026-08-17 19:53:40
+# Всего каналов: 22450
+# Новых за сессию: 4
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Entertainment
 # Каналов: 2
-# Обновлено: 2026-08-17 19:28:28
+# Обновлено: 2026-08-17 19:53:41
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Charana TV (360p)" group-title="Education;Entertainment",Charana TV (360p)
@@ -1034,8 +1034,6 @@ https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
 #EXTINF:-1 tvg-name="Tamil Entertainment Television" group-title="Entertainment",Tamil Entertainment Television
 https://origin-de-y376549.cdn.nextologies.com:444/4c3caf7294b3/fbbd0aee3d9a8260/playlist.m3u8
-#EXTINF:-1 tvg-name="ABC Entertains" group-title="Education;Kids",ABC Entertains
-https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1 tvg-name="ABC TV Plus" group-title="Entertainment",ABC TV Plus
 https://c.mjh.nz/abc-tv-plus.m3u8
 #EXTINF:-1 tvg-name="Channel 200 (540p)" group-title="Entertainment",Channel 200 (540p)
@@ -1440,6 +1438,8 @@ https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8
 http://62.1.176.18:8888/extra/index.m3u8
 #EXTINF:-1 tvg-name="Vĩnh Long TV5 [Geo-blocked]" group-title="Culture;Entertainment;Music;News",Vĩnh Long TV5 [Geo-blocked]
 https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="BE@TTV" group-title="Entertainment;Music",BE@TTV
+https://tv.beatfm.nl/live.m3u8
 #EXTINF:-1 tvg-name="247 Box TV" group-title="Entertainment",247 Box TV
 https://hls.247box.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="A-Plus TV (576p)" group-title="Entertainment",A-Plus TV (576p)

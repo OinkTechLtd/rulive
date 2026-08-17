@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-17 19:28:27
-# Всего каналов: 22446
-# Новых за сессию: 2
+# Обновлено: 2026-08-17 19:53:40
+# Всего каналов: 22450
+# Новых за сессию: 4
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;News;Shop
 # Каналов: 1
-# Обновлено: 2026-08-17 19:28:28
+# Обновлено: 2026-08-17 19:53:41
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Extra ProNews (576p)" group-title="Entertainment;News;Shop",Extra ProNews (576p)
@@ -1961,8 +1961,6 @@ http://name-port.to/live/Gregory123/Gregory321/2420047.ts
 https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
 #EXTINF:-1 tvg-name="ABC TV Plus" group-title="Entertainment",ABC TV Plus
 https://c.mjh.nz/abc-tv-plus.m3u8
-#EXTINF:-1 tvg-name="Expo Channel (360p)" group-title="Shop",Expo Channel (360p)
-https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
 #EXTINF:-1 tvg-name="Sky News Extra 1 (540p)" group-title="News",Sky News Extra 1 (540p)
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 #EXTINF:-1 tvg-name="Sky News Extra 2 (540p)" group-title="News",Sky News Extra 2 (540p)
@@ -2991,8 +2989,6 @@ https://video.primexsports.com/suchnews/live/playlist.m3u8
 http://103.250.28.74:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-name="Super Express TV (1080i)" group-title="News",Super Express TV (1080i)
 https://s-pl-01.mediatool.tv/playout/sepl-abr/index.m3u8
-#EXTINF:-1 tvg-name="Syri" group-title="News",Syri
-https://stream.syritv.al/live/syritv/playlist.m3u8
 #EXTINF:-1 tvg-name="TeleMoldova + [Geo-blocked]" group-title="News",TeleMoldova + [Geo-blocked]
 https://vdo.ssl-stream.com:3247/stream/play.m3u8
 #EXTINF:-1 tvg-name="Tolo News" group-title="News",Tolo News
@@ -3027,6 +3023,8 @@ https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6j
 https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8
 #EXTINF:-1 tvg-name="YES" group-title="News",YES
 https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8
+#EXTINF:-1 tvg-name="BE@TTV" group-title="Entertainment;Music",BE@TTV
+https://tv.beatfm.nl/live.m3u8
 #EXTINF:-1 tvg-name="247 Box TV" group-title="Entertainment",247 Box TV
 https://hls.247box.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="A-Plus TV (576p)" group-title="Entertainment",A-Plus TV (576p)

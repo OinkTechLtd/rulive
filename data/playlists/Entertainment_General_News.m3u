@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-17 19:28:27
-# Всего каналов: 22446
-# Новых за сессию: 2
+# Обновлено: 2026-08-17 19:53:40
+# Всего каналов: 22450
+# Новых за сессию: 4
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;General;News
 # Каналов: 3
-# Обновлено: 2026-08-17 19:28:28
+# Обновлено: 2026-08-17 19:53:41
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="TV Modelo" group-title="Entertainment;General;News",TV Modelo
@@ -3753,8 +3753,6 @@ https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 http://103.154.3.101:5001/live/2782.m3u8
 #EXTINF:-1 tvg-name="ABC TV ACT" group-title="General",ABC TV ACT
 https://c.mjh.nz/abc-act.m3u8
-#EXTINF:-1 tvg-name="ABC TV NSW" group-title="General",ABC TV NSW
-https://c.mjh.nz/abc-nsw.m3u8
 #EXTINF:-1 tvg-name="ABC TV NT" group-title="General",ABC TV NT
 https://c.mjh.nz/abc-nt.m3u8
 #EXTINF:-1 tvg-name="ABC TV Plus" group-title="Entertainment",ABC TV Plus
@@ -6343,8 +6341,6 @@ https://video.primexsports.com/suchnews/live/playlist.m3u8
 http://103.250.28.74:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-name="Super Express TV (1080i)" group-title="News",Super Express TV (1080i)
 https://s-pl-01.mediatool.tv/playout/sepl-abr/index.m3u8
-#EXTINF:-1 tvg-name="Syri" group-title="News",Syri
-https://stream.syritv.al/live/syritv/playlist.m3u8
 #EXTINF:-1 tvg-name="TeleMoldova + [Geo-blocked]" group-title="News",TeleMoldova + [Geo-blocked]
 https://vdo.ssl-stream.com:3247/stream/play.m3u8
 #EXTINF:-1 tvg-name="Tolo News" group-title="News",Tolo News
@@ -6381,6 +6377,10 @@ https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8
 https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8
 #EXTINF:-1 tvg-name="TVR Sport" group-title="General;Sports",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 tvg-name="BE@TTV" group-title="Entertainment;Music",BE@TTV
+https://tv.beatfm.nl/live.m3u8
+#EXTINF:-1 tvg-name="FomixTV" group-title="General;Music;Public",FomixTV
+https://stream.fomixmedia.nl/FomixTV/video.m3u8
 #EXTINF:-1 tvg-name="TVR Folclor" group-title="General;Music",TVR Folclor
 https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="247 Box TV" group-title="Entertainment",247 Box TV
@@ -7709,8 +7709,6 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd
 #EXTINF:-1 tvg-name="VH1 Queens of Reality" group-title="Entertainment",VH1 Queens of Reality
 https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8
-#EXTINF:-1 tvg-name="Vizion Plus" group-title="General",Vizion Plus
-https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
 #EXTINF:-1 tvg-name="Vokta TV" group-title="General",Vokta TV
 https://vokta.raytahost.com/live/voktatv/index.m3u8
 #EXTINF:-1 tvg-name="Völgyhíd TV (540p)" group-title="General",Völgyhíd TV (540p)

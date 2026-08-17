@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-17 19:28:27
-# Всего каналов: 22446
-# Новых за сессию: 2
+# Обновлено: 2026-08-17 19:53:40
+# Всего каналов: 22450
+# Новых за сессию: 4
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News;Science
 # Каналов: 1
-# Обновлено: 2026-08-17 19:28:28
+# Обновлено: 2026-08-17 19:53:41
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="News;Science",like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -791,6 +791,8 @@ https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
 https://cdn-1.pishow.tv/live/411/master.m3u8
 #EXTINF:-1 tvg-name="INH 24x7 (576p)" group-title="News",INH 24x7 (576p)
 https://mumt01.tangotv.in/INH24X7/index.m3u8
+#EXTINF:-1 tvg-name="InWonder" group-title="Science",InWonder
+https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-name="Jai Maharashtra (576p)" group-title="News",Jai Maharashtra (576p)
 https://cdn-3.pishow.tv/live/1465/master.m3u8
 #EXTINF:-1 tvg-name="Janam TV (576p)" group-title="News",Janam TV (576p)
@@ -1921,8 +1923,6 @@ https://video.primexsports.com/suchnews/live/playlist.m3u8
 http://103.250.28.74:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-name="Super Express TV (1080i)" group-title="News",Super Express TV (1080i)
 https://s-pl-01.mediatool.tv/playout/sepl-abr/index.m3u8
-#EXTINF:-1 tvg-name="Syri" group-title="News",Syri
-https://stream.syritv.al/live/syritv/playlist.m3u8
 #EXTINF:-1 tvg-name="TeleMoldova + [Geo-blocked]" group-title="News",TeleMoldova + [Geo-blocked]
 https://vdo.ssl-stream.com:3247/stream/play.m3u8
 #EXTINF:-1 tvg-name="Tolo News" group-title="News",Tolo News
