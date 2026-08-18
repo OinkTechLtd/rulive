@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-17 23:48:14
-# Всего каналов: 22456
-# Новых за сессию: 0
+# Обновлено: 2026-08-18 01:05:41
+# Всего каналов: 22469
+# Новых за сессию: 13
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Music
 # Каналов: 6
-# Обновлено: 2026-08-17 23:48:15
+# Обновлено: 2026-08-18 01:05:42
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pamir TV" group-title="Culture;Music",Pamir TV
@@ -2124,3 +2124,7 @@ https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
 https://streams.comclark.com/pknsd/myx/playlist.m3u8
 #EXTINF:-1 tvg-name="NHK World Japan" group-title="Culture;News",NHK World Japan
 https://streams.comclark.com/pknsd/nhk_world/playlist.m3u8
+#EXTINF:-1 tvg-name="Rock of Manila TV (480p)" group-title="Music",Rock of Manila TV (480p)
+https://streams.comclark.com/pknsd/rock_tv_of_manila/playlist.m3u8
+#EXTINF:-1 tvg-name="Zona M" group-title="Music",Zona M
+http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2470/index.m3u8

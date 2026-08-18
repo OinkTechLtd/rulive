@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-17 23:48:14
-# Всего каналов: 22456
-# Новых за сессию: 0
+# Обновлено: 2026-08-18 01:05:41
+# Всего каналов: 22469
+# Новых за сессию: 13
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;General;Religious
 # Каналов: 1
-# Обновлено: 2026-08-17 23:48:15
+# Обновлено: 2026-08-18 01:05:42
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Sercem TV" group-title="Culture;General;Religious",Sercem TV
@@ -5325,6 +5325,8 @@ https://echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8
 https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
 #EXTINF:-1 tvg-name="EL TV (260p)" group-title="General",EL TV (260p)
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:-1 tvg-name="Elevation Church" group-title="Religious",Elevation Church
+https://linear-1066.frequency.stream/dist/stirr/1066/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="Elshinta TV" group-title="General",Elshinta TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 #EXTINF:-1 tvg-name="Elsö Kerület TV" group-title="General",Elsö Kerület TV
@@ -5465,6 +5467,8 @@ https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8
 https://live.imamhossaintv.com/live/ih1.m3u8
 #EXTINF:-1 tvg-name="Imam Hussein TV 4" group-title="Religious",Imam Hussein TV 4
 https://live.imamhossaintv.com/live/ih4.m3u8
+#EXTINF:-1 tvg-name="In Touch+ [Geo-blocked]" group-title="Religious",In Touch+ [Geo-blocked]
+https://amg01540-amg01540c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Indigenous Television" group-title="General",Indigenous Television
 https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="General",Indosiar [Geo-blocked]" group-title="General",like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="General",Indosiar [Geo-blocked]
@@ -7865,3 +7869,7 @@ http://45.14.84.37/bbc3/index.m3u8
 http://45.14.84.37/bbc4/index.m3u8
 #EXTINF:-1 tvg-name="INC Radio" group-title="Religious",INC Radio
 https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/rewind-1800.m3u8
+#EXTINF:-1 tvg-name="Lotus TV" group-title="General",Lotus TV
+https://streams.comclark.com/pknhd/lotus_macau_hd/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="General",Cubavision Internacional" group-title="General",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="General",Cubavision Internacional
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8

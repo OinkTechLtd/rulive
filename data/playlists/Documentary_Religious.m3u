@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-17 23:48:14
-# Всего каналов: 22456
-# Новых за сессию: 0
+# Обновлено: 2026-08-18 01:05:41
+# Всего каналов: 22469
+# Новых за сессию: 13
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Religious
 # Каналов: 1
-# Обновлено: 2026-08-17 23:48:15
+# Обновлено: 2026-08-18 01:05:42
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Karbala Documentary" group-title="Documentary;Religious",Karbala Documentary
@@ -1537,6 +1537,8 @@ http://live.divyadarshantv.com/hls/stream.m3u8
 https://tvstreamcast.com/tawaftv.m3u8
 #EXTINF:-1 tvg-name="Dossiers FBI" group-title="Documentary",Dossiers FBI
 https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8
+#EXTINF:-1 tvg-name="Elevation Church" group-title="Religious",Elevation Church
+https://linear-1066.frequency.stream/dist/stirr/1066/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="Ertsulovneba" group-title="Religious",Ertsulovneba
 https://stream.sstv.ge/live/sstv/playlist.m3u8
 #EXTINF:-1 tvg-name="Eslah TV" group-title="Religious",Eslah TV
@@ -1585,6 +1587,8 @@ https://ic3hls.wns.live/hls/stream.m3u8
 https://live.imamhossaintv.com/live/ih1.m3u8
 #EXTINF:-1 tvg-name="Imam Hussein TV 4" group-title="Religious",Imam Hussein TV 4
 https://live.imamhossaintv.com/live/ih4.m3u8
+#EXTINF:-1 tvg-name="In Touch+ [Geo-blocked]" group-title="Religious",In Touch+ [Geo-blocked]
+https://amg01540-amg01540c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Iqra TV" group-title="Religious",Iqra TV
 https://cdn149.anystream.uk:8082/app/iq53la/playlist.m3u8
 #EXTINF:-1 tvg-name="Iran Jewish TV" group-title="Religious",Iran Jewish TV

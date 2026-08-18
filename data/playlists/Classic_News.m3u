@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-17 23:48:14
-# Всего каналов: 22456
-# Новых за сессию: 0
+# Обновлено: 2026-08-18 01:05:41
+# Всего каналов: 22469
+# Новых за сессию: 13
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;News
 # Каналов: 1
-# Обновлено: 2026-08-17 23:48:15
+# Обновлено: 2026-08-18 01:05:42
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ZillarBarta News" group-title="Classic;News",ZillarBarta News
@@ -2555,3 +2555,5 @@ https://streams.comclark.com/pknsd/teleradyo/playlist.m3u8
 https://redirector.dps.live/hls/pinguinotv/playlist.m3u8
 #EXTINF:-1 tvg-name="CNA (480p)" group-title="News",CNA (480p)
 https://streams.comclark.com/pknsd/channel_news_asia/playlist.m3u8
+#EXTINF:-1 tvg-name="Golden Nation Network (480p)" group-title="Entertainment;News",Golden Nation Network (480p)
+https://streams.comclark.com/pknsd/onemedia/playlist.m3u8

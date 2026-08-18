@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-17 23:48:14
-# Всего каналов: 22456
-# Новых за сессию: 0
+# Обновлено: 2026-08-18 01:05:41
+# Всего каналов: 22469
+# Новых за сессию: 13
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Undefined
 # Каналов: 4222
-# Обновлено: 2026-08-17 23:48:14
+# Обновлено: 2026-08-18 01:05:42
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Дождь [Geo-blocked]" group-title="Undefined",Дождь [Geo-blocked]
@@ -4618,9 +4618,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.ads.ottera.tv/p
 #EXTINF:-1 tvg-name="Elektrika TV" group-title="Undefined",Elektrika TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Elevation Church" group-title="Undefined",Elevation Church
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/linear-1066.frequency.stream/dist/stirr/1066/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Undefined",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/elevation-church-network/playlist.m3u8?ads.vf=-Zd8ogbOmAi
 
@@ -5646,9 +5643,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.ads.ottera.tv/p
 
 #EXTINF:-1 tvg-name="In Touch+" group-title="Undefined",In Touch+
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/amg01540-amg01540c2-distrotv-us-8133.playouts.now.amagi.tv/playlist/amg01540-apexmediafast-intouchplus-distrotvus/playlist.m3u8
-
-#EXTINF:-1 tvg-name="In Touch+" group-title="Undefined",In Touch+
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/amg01540-amg01540c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="INA 70" group-title="Undefined",INA 70
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-639b54404cfdf7000729b3c1.m3u8
@@ -12258,6 +12252,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.190.13.8/TUDNHD/ind
 
 #EXTINF:-1 tvg-name="Univision East" group-title="Undefined",Univision East
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.190.13.8/UnivisionHD/index.m3u8
+
+#EXTINF:-1 tvg-name="Vitebsk" group-title="Undefined",Vitebsk
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.dc.beltelecom.by/vtv/vitebsk.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Show Turk" group-title="Undefined",Show Turk
+https://raw.githubusercontent.com/bnyusuf67-crypto/streams/refs/heads/main/streams/shturk.m3u8
 
 #EXTINF:-1 tvg-name="R9" group-title="Undefined",R9
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8

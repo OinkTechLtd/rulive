@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-17 23:48:14
-# Всего каналов: 22456
-# Новых за сессию: 0
+# Обновлено: 2026-08-18 01:05:41
+# Всего каналов: 22469
+# Новых за сессию: 13
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;News
 # Каналов: 20
-# Обновлено: 2026-08-17 23:48:15
+# Обновлено: 2026-08-18 01:05:42
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Сочи 24" group-title="General;News",Сочи 24
@@ -8176,9 +8176,15 @@ https://redirector.dps.live/hls/pinguinotv/playlist.m3u8
 https://streams.comclark.com/pknsd/fuji/playlist.m3u8
 #EXTINF:-1 tvg-name="CNA (480p)" group-title="News",CNA (480p)
 https://streams.comclark.com/pknsd/channel_news_asia/playlist.m3u8
+#EXTINF:-1 tvg-name="Golden Nation Network (480p)" group-title="Entertainment;News",Golden Nation Network (480p)
+https://streams.comclark.com/pknsd/onemedia/playlist.m3u8
 #EXTINF:-1 tvg-name="Antena 7 (480p)[Geo-blocked]" group-title="General",Antena 7 (480p)[Geo-blocked]
 https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-name="BBC U 3" group-title="General",BBC U 3
 http://45.14.84.37/bbc3/index.m3u8
 #EXTINF:-1 tvg-name="BBC U 4" group-title="General",BBC U 4
 http://45.14.84.37/bbc4/index.m3u8
+#EXTINF:-1 tvg-name="Lotus TV" group-title="General",Lotus TV
+https://streams.comclark.com/pknhd/lotus_macau_hd/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="General",Cubavision Internacional" group-title="General",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="General",Cubavision Internacional
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
