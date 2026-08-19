@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-18 23:48:04
-# Всего каналов: 22512
-# Новых за сессию: 1
+# Обновлено: 2026-08-19 01:06:33
+# Всего каналов: 22536
+# Новых за сессию: 24
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;General
 # Каналов: 3
-# Обновлено: 2026-08-18 23:48:04
+# Обновлено: 2026-08-19 01:06:34
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ATXN3" group-title="Culture;General",ATXN3
@@ -4631,6 +4631,10 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF:-1 tvg-name="Trimedio TV [Geo-blocked]" group-title="General",Trimedio TV [Geo-blocked]
 https://stream.streaming4u.hu/TriMedioTV/index.m3u8
+#EXTINF:-1 tvg-name="TV1" group-title="General",TV1
+https://live.mana2.my/Tv1/index.m3u8?auth_key=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047&token=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047
+#EXTINF:-1 tvg-name="TV2" group-title="General",TV2
+https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d
 #EXTINF:-1 tvg-name="TV5" group-title="General",TV5
 https://10st.vcast.im/MYASIATV/TV5/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",TV8" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",TV8
@@ -5343,8 +5347,6 @@ http://playcom.trapemn.tv:1935/transcoderip/tvpublica.stream/playlist.m3u8
 https://gcmx3v3owcj.a.trbcdn.net/livemaster/ba7pu_fgej0zelpw.smil/playlist.m3u8?blstid=null
 #EXTINF:-1 tvg-name="Abu Dhabi TV" group-title="General",Abu Dhabi TV
 http://185.9.2.18/chid_326/index.m3u8
-#EXTINF:-1 tvg-name="TV2" group-title="General",TV2
-http://185.9.2.18/chid_347/index.m3u8
 #EXTINF:-1 tvg-name="Canal 56 Quiero TV" group-title="General",Canal 56 Quiero TV
 http://45.5.118.152:8000/play/a08z/index.m3u8
 #EXTINF:-1 tvg-name="Caracol 2" group-title="General",Caracol 2
@@ -6245,8 +6247,6 @@ http://103.175.73.12:8080/live/676/master.m3u8
 http://201.190.41.246:8822/play/a036/index.m3u8
 #EXTINF:-1 tvg-name="Russia RTR Asia [Geo-blocked]" group-title="General",Russia RTR Asia [Geo-blocked]
 https://stream.smotrim.ru/hls/planeta_rtr_asia/playlist.m3u8?entity=channel&id=511&sign=d1fe06cd922b67e412719536998fa43d
-#EXTINF:-1 tvg-name="TV1" group-title="General",TV1
-https://live.tv1.rw/index.m3u8
 #EXTINF:-1 tvg-name="SNT (480p)" group-title="General",SNT (480p)
 https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="General",Telelima" group-title="General",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="General",Telelima
@@ -6283,3 +6283,7 @@ http://45.14.84.37/bbc4/index.m3u8
 https://streams.comclark.com/pknhd/lotus_macau_hd/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="General",Cubavision Internacional" group-title="General",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="General",Cubavision Internacional
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="STV (360p)" group-title="General",STV (360p)
+https://vodcdn.bamboo-cloud.com/livehls/6a81edf1063044437202e65c/master.m3u8
+#EXTINF:-1 tvg-name="ABC Australia (480p)" group-title="General",ABC Australia (480p)
+https://streams.comclark.com/pknsd/abc_australia/playlist.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-18 23:48:04
-# Всего каналов: 22512
-# Новых за сессию: 1
+# Обновлено: 2026-08-19 01:06:33
+# Всего каналов: 22536
+# Новых за сессию: 24
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Undefined
-# Каналов: 4224
-# Обновлено: 2026-08-18 23:48:04
+# Каналов: 4228
+# Обновлено: 2026-08-19 01:06:34
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Дождь [Geo-blocked]" group-title="Undefined",Дождь [Geo-blocked]
@@ -3423,9 +3423,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-62792dbd5e
 
 #EXTINF:-1 tvg-name="Beond TV [Geo-blocked]" group-title="Undefined",Beond TV [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/amg01681-beondtv-amg01681c1-klowdtv-us-1826.playouts.now.amagi.tv/playlist/amg01681-beondtv-beondtv-klowdtvus/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Berita RTM [Geo-blocked]" group-title="Undefined",Berita RTM [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
 #EXTINF:-1 tvg-name="Best Action TV" group-title="Undefined",Best Action TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8
@@ -9034,14 +9031,8 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/vpn.video2go.live:444/
 #EXTINF:-1 tvg-name="Tu Pop Favorito" group-title="Undefined",Tu Pop Favorito
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.ads.ottera.tv/playlist.m3u8?network_id=1086
 
-#EXTINF:-1 tvg-name="TV1" group-title="Undefined",TV1
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.mana2.my/Tv1/index.m3u8?auth_key=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047&token=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047
-
 #EXTINF:-1 tvg-name="TV1 Plus" group-title="Undefined",TV1 Plus
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ncdn.telewebion.ir/tv1plus/live/playlist.m3u8
-
-#EXTINF:-1 tvg-name="TV2" group-title="Undefined",TV2
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d
 
 #EXTINF:-1 tvg-name="TV 2/Bornholm" group-title="Undefined",TV 2/Bornholm
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8
@@ -12258,6 +12249,27 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.dc.beltelecom.by/
 
 #EXTINF:-1 tvg-name="Show Turk" group-title="Undefined",Show Turk
 https://raw.githubusercontent.com/bnyusuf67-crypto/streams/refs/heads/main/streams/shturk.m3u8
+
+#EXTINF:-1 tvg-name="Showtime" group-title="Undefined",Showtime
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/gpuserver5.tier1streams.com/SHOWTIME/index.m3u8
+
+#EXTINF:-1 tvg-name="Showtime 2" group-title="Undefined",Showtime 2
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/gpuserver5.tier1streams.com/SHOWTIME_2/index.m3u8
+
+#EXTINF:-1 tvg-name="Showtime Extreme" group-title="Undefined",Showtime Extreme
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/gpuserver5.tier1streams.com/SHOWTIME_EXTREME/index.m3u8
+
+#EXTINF:-1 tvg-name="Showtime Next" group-title="Undefined",Showtime Next
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/gpuserver5.tier1streams.com/SHOWTIME_NEXT/index.m3u8
+
+#EXTINF:-1 tvg-name="Showtime West" group-title="Undefined",Showtime West
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/gpuserver5.tier1streams.com/SHOWTIME_WEST/index.m3u8
+
+#EXTINF:-1 tvg-name="ATV Avrupa (576p)" group-title="Undefined",ATV Avrupa (576p)
+https://flaskapihls-atv-avrupa-trkvzlive.onrender.com/hls_stream/master.m3u8
+
+#EXTINF:-1 tvg-name="Sky Mix" group-title="Undefined",Sky Mix
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/188.138.29.131/skymix/index.m3u8
 
 #EXTINF:-1 tvg-name="W24" group-title="Undefined",W24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8

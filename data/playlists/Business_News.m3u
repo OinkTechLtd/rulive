@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-18 23:48:04
-# Всего каналов: 22512
-# Новых за сессию: 1
+# Обновлено: 2026-08-19 01:06:33
+# Всего каналов: 22536
+# Новых за сессию: 24
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Business;News
 # Каналов: 9
-# Обновлено: 2026-08-18 23:48:04
+# Обновлено: 2026-08-19 01:06:34
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="Business;News",like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -2065,6 +2065,8 @@ https://live.jobplustv.or.kr/live/wowtvlive1.sdp/playlist.m3u8
 https://jobtvserver.eu/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Telewizja Biznesowa" group-title="Business",Telewizja Biznesowa
 https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
+#EXTINF:-1 tvg-name="Berita RTM [Geo-blocked]" group-title="News",Berita RTM [Geo-blocked]
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 #EXTINF:-1 tvg-name="Euronews Spanish" group-title="News",Euronews Spanish
 https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
 #EXTINF:-1 tvg-name="Miracle TV" group-title="News",Miracle TV
@@ -2529,7 +2531,7 @@ https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 tvg-name="TOLOnews" group-title="News",TOLOnews
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolonews/index.m3u8
-#EXTINF:-1 tvg-name="DZRHTV (480p)" group-title="News",DZRHTV (480p)
+#EXTINF:-1 tvg-name="DZRHTV" group-title="News",DZRHTV
 https://streams.comclark.com/pknsd/dzrh/playlist.m3u8
 #EXTINF:-1 tvg-name="DZMM TeleRadyo (480p)" group-title="News",DZMM TeleRadyo (480p)
 https://streams.comclark.com/pknsd/teleradyo/playlist.m3u8
@@ -2539,3 +2541,5 @@ https://redirector.dps.live/hls/pinguinotv/playlist.m3u8
 https://streams.comclark.com/pknsd/channel_news_asia/playlist.m3u8
 #EXTINF:-1 tvg-name="Golden Nation Network (480p)" group-title="Entertainment;News",Golden Nation Network (480p)
 https://streams.comclark.com/pknsd/onemedia/playlist.m3u8
+#EXTINF:-1 tvg-name="Fox Business Network (480p)" group-title="Business",Fox Business Network (480p)
+https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8

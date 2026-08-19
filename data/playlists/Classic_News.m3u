@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-18 23:48:04
-# Всего каналов: 22512
-# Новых за сессию: 1
+# Обновлено: 2026-08-19 01:06:33
+# Всего каналов: 22536
+# Новых за сессию: 24
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;News
 # Каналов: 1
-# Обновлено: 2026-08-18 23:48:04
+# Обновлено: 2026-08-19 01:06:34
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ZillarBarta News" group-title="Classic;News",ZillarBarta News
@@ -2029,6 +2029,8 @@ https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860e
 https://noshls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Becker" group-title="Classic;Series",Becker
 https://jmp2.uk/plu-672e157d7d5da5000812872d.m3u8
+#EXTINF:-1 tvg-name="Berita RTM [Geo-blocked]" group-title="News",Berita RTM [Geo-blocked]
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 #EXTINF:-1 tvg-name="Cin Cin" group-title="Classic;Series",Cin Cin
 https://jmp2.uk/plu-65cb78b83a116800079e2e35.m3u8
 #EXTINF:-1 tvg-name="Classic TV" group-title="Classic",Classic TV
@@ -2547,7 +2549,7 @@ http://15.204.246.24:8080/TNHD/index.m3u8
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 tvg-name="TOLOnews" group-title="News",TOLOnews
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolonews/index.m3u8
-#EXTINF:-1 tvg-name="DZRHTV (480p)" group-title="News",DZRHTV (480p)
+#EXTINF:-1 tvg-name="DZRHTV" group-title="News",DZRHTV
 https://streams.comclark.com/pknsd/dzrh/playlist.m3u8
 #EXTINF:-1 tvg-name="DZMM TeleRadyo (480p)" group-title="News",DZMM TeleRadyo (480p)
 https://streams.comclark.com/pknsd/teleradyo/playlist.m3u8
