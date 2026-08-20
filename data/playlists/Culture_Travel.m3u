@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-20 05:30:07
+# Обновлено: 2026-08-20 06:00:05
 # Всего каналов: 22602
-# Новых за сессию: 1
+# Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Travel
 # Каналов: 1
-# Обновлено: 2026-08-20 05:30:08
+# Обновлено: 2026-08-20 06:00:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Costa Rica Channel (576p)" group-title="Culture;Travel",Costa Rica Channel (576p)
@@ -263,6 +263,8 @@ https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8?ads.vf=CdxJHukE0Om
 #EXTINF:-1 tvg-name="EBS" group-title="Culture",EBS
 https://rpn.bozztv.com/ebstv/ebstv/index.m3u8
+#EXTINF:-1 tvg-name="InTravel" group-title="Travel",InTravel
+https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="KTV 2" group-title="Culture;News",KTV 2
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="Living Asia Channel" group-title="Travel",Living Asia Channel
