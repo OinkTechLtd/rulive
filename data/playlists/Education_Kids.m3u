@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-19 23:48:49
-# Всего каналов: 22578
-# Новых за сессию: 2
+# Обновлено: 2026-08-20 01:05:48
+# Всего каналов: 22598
+# Новых за сессию: 20
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Kids
 # Каналов: 11
-# Обновлено: 2026-08-19 23:48:50
+# Обновлено: 2026-08-20 01:05:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="NCM Educational & Kids Channel" group-title="Education;Kids",NCM Educational & Kids Channel
@@ -1359,3 +1359,5 @@ http://88.212.15.19/live/jim_jam_hun/index.m3u8
 http://88.212.15.19/live/test_disney_junior/playlist.m3u8
 #EXTINF:-1 tvg-name="滁州市广播电视台 科教频道 (400p)" group-title="Education;Science",滁州市广播电视台 科教频道 (400p)
 http://live.cztv.cc:85/live/sjpd.m3u8
+#EXTINF:-1 tvg-name="S Tom Sings" group-title="Kids",S Tom Sings
+https://vodcdn.bamboo-cloud.com/livehls/6a8408ae0630440c2f39aec3/master.m3u8

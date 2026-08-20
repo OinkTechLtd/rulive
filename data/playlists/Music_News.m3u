@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-19 23:48:49
-# Всего каналов: 22578
-# Новых за сессию: 2
+# Обновлено: 2026-08-20 01:05:48
+# Всего каналов: 22598
+# Новых за сессию: 20
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;News
 # Каналов: 3
-# Обновлено: 2026-08-19 23:48:50
+# Обновлено: 2026-08-20 01:05:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Onda 15 TV (224p)" group-title="Music;News",Onda 15 TV (224p)
@@ -3143,7 +3143,7 @@ https://live.supertv.ro/live/supertv/playlist.m3u8
 https://t2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="TDI Radio TV" group-title="Music",TDI Radio TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
-#EXTINF:-1 tvg-name="Tele7music" group-title="Music",Tele7music
+#EXTINF:-1 tvg-name="Tele7music (576i)" group-title="Music",Tele7music (576i)
 https://live.tele7music.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-name="Tezaur TV (576i)" group-title="Music",Tezaur TV (576i)
 https://tezaurtv.md/stream/index.m3u8
@@ -4069,3 +4069,9 @@ https://streams.comclark.com/pknsd/onemedia/playlist.m3u8
 https://streams.comclark.com/pknsd/rock_tv_of_manila/playlist.m3u8
 #EXTINF:-1 tvg-name="Zona M" group-title="Music",Zona M
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2470/index.m3u8
+#EXTINF:-1 tvg-name="Dong Nai TV 1" group-title="General;News",Dong Nai TV 1
+https://vtvgolive-ott3.vtvdigital.vn/live/dongnai1tv/chunklist_2.m3u8
+#EXTINF:-1 tvg-name="HTV9" group-title="General;News",HTV9
+https://dethich.pw/htv9/index.m3u8
+#EXTINF:-1 tvg-name="Vinh Long TV 1" group-title="General;News",Vinh Long TV 1
+https://dethich.pw/thvl1/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-19 23:48:49
-# Всего каналов: 22578
-# Новых за сессию: 2
+# Обновлено: 2026-08-20 01:05:48
+# Всего каналов: 22598
+# Новых за сессию: 20
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;News
-# Каналов: 20
-# Обновлено: 2026-08-19 23:48:50
+# Каналов: 23
+# Обновлено: 2026-08-20 01:05:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Сочи 24" group-title="General;News",Сочи 24
@@ -69,6 +69,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/43869de4e1a0d641.serve
 
 #EXTINF:-1 tvg-name="Vinh Long TV 1 (576p)" group-title="General;News",Vinh Long TV 1 (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/125hvt.ddns.net:21585/thvl1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Dong Nai TV 1" group-title="General;News",Dong Nai TV 1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vtvgolive-ott3.vtvdigital.vn/live/dongnai1tv/chunklist_2.m3u8
+
+#EXTINF:-1 tvg-name="HTV9" group-title="General;News",HTV9
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dethich.pw/htv9/index.m3u8
+
+#EXTINF:-1 tvg-name="Vinh Long TV 1" group-title="General;News",Vinh Long TV 1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dethich.pw/thvl1/index.m3u8
 
 #EXTINF:-1 tvg-name="Дождь (альтернативный)" group-title="News",Дождь (альтернативный)
 https://stream.tvrain.tv/live/tvrain.m3u8
@@ -8194,3 +8203,17 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/pl
 https://vodcdn.bamboo-cloud.com/livehls/6a81edf1063044437202e65c/master.m3u8
 #EXTINF:-1 tvg-name="ABC Australia (480p)" group-title="General",ABC Australia (480p)
 https://streams.comclark.com/pknsd/abc_australia/playlist.m3u8
+#EXTINF:-1 tvg-name="S Premium! (360p)" group-title="General",S Premium! (360p)
+https://vodcdn.bamboo-cloud.com/livehls/68d0876e06304461862415b2/master.m3u8
+#EXTINF:-1 tvg-name="Sozcu TV" group-title="General",Sozcu TV
+http://5.178.103.239:55/yt1/szctv.m3u8
+#EXTINF:-1 tvg-name="Canal 8 San Juan" group-title="General",Canal 8 San Juan
+https://live20.bozztv.com/akamaissh101/ssh101/canal8sanjuan/playlist.m3u8
+#EXTINF:-1 tvg-name="Coral 39" group-title="General",Coral 39
+https://hls.tvabierta.net/hls/039.m3u8
+#EXTINF:-1 tvg-name="Ruta 66 TV" group-title="General",Ruta 66 TV
+https://edge.livestreaminggroup.info/ruta66tvlive/index.m3u8
+#EXTINF:-1 tvg-name="SiTV" group-title="General",SiTV
+http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
+#EXTINF:-1 tvg-name="Telemedios Canal 8" group-title="General",Telemedios Canal 8
+https://hls.tvabierta.net/hls/008.m3u8

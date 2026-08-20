@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-19 23:48:49
-# Всего каналов: 22578
-# Новых за сессию: 2
+# Обновлено: 2026-08-20 01:05:48
+# Всего каналов: 22598
+# Новых за сессию: 20
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;News
 # Каналов: 1
-# Обновлено: 2026-08-19 23:48:50
+# Обновлено: 2026-08-20 01:05:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ZillarBarta News" group-title="Classic;News",ZillarBarta News
@@ -2559,3 +2559,9 @@ https://redirector.dps.live/hls/pinguinotv/playlist.m3u8
 https://streams.comclark.com/pknsd/channel_news_asia/playlist.m3u8
 #EXTINF:-1 tvg-name="Golden Nation Network (480p)" group-title="Entertainment;News",Golden Nation Network (480p)
 https://streams.comclark.com/pknsd/onemedia/playlist.m3u8
+#EXTINF:-1 tvg-name="Dong Nai TV 1" group-title="General;News",Dong Nai TV 1
+https://vtvgolive-ott3.vtvdigital.vn/live/dongnai1tv/chunklist_2.m3u8
+#EXTINF:-1 tvg-name="HTV9" group-title="General;News",HTV9
+https://dethich.pw/htv9/index.m3u8
+#EXTINF:-1 tvg-name="Vinh Long TV 1" group-title="General;News",Vinh Long TV 1
+https://dethich.pw/thvl1/index.m3u8

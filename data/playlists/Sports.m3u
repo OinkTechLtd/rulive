@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-19 23:48:49
-# Всего каналов: 22578
-# Новых за сессию: 2
+# Обновлено: 2026-08-20 01:05:48
+# Всего каналов: 22598
+# Новых за сессию: 20
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Sports
-# Каналов: 738
-# Обновлено: 2026-08-19 23:48:50
+# Каналов: 740
+# Обновлено: 2026-08-20 01:05:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CBC Sport [Geo-blocked]" group-title="Sports",CBC Sport [Geo-blocked]
@@ -2098,6 +2098,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/188.138.29.131/skyspor
 #EXTINF:-1 tvg-name="Sky Sports Golf" group-title="Sports",Sky Sports Golf
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/188.138.29.131/skygolf/index.m3u8
 
+#EXTINF:-1 tvg-name="ESPN Deportes" group-title="Sports",ESPN Deportes
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/168.228.44.241:9998/play/a0dz/index.m3u8
+
+#EXTINF:-1 tvg-name="CDN Deportes" group-title="Sports",CDN Deportes
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls.tvabierta.net/hls/036.m3u8
+
 #EXTINF:-1 tvg-name="Belarus-5" group-title="Sports",Belarus-5
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 
@@ -2534,3 +2540,5 @@ https://sport-bild.personalstream.tv/v1/bildde/master.m3u8
 http://stream.mcquack.net/313/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Sports",M4 Sport" group-title="Sports",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Sports",M4 Sport
 http://88.212.15.19/live/uatlmvixrr/index.m3u8
+#EXTINF:-1 tvg-name="Vinh Long TV 4" group-title="Culture;Entertainment;Sports;Travel",Vinh Long TV 4
+https://dethich.pw/thvl4/index.m3u8
