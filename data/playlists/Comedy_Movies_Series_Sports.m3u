@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-20 23:52:04
-# Всего каналов: 22620
-# Новых за сессию: 0
+# Обновлено: 2026-08-21 01:09:30
+# Всего каналов: 22698
+# Новых за сессию: 78
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Movies;Series;Sports
 # Каналов: 5
-# Обновлено: 2026-08-20 23:52:04
+# Обновлено: 2026-08-21 01:09:31
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="USA Network East" group-title="Comedy;Movies;Series;Sports",USA Network East
@@ -2507,6 +2507,8 @@ https://jmp2.uk/plu-693add137e308621c051e733.m3u8
 https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
 #EXTINF:-1 tvg-name="Storage Wars by A&E" group-title="Series",Storage Wars by A&E
 https://jmp2.uk/plu-6887aaf4e3703b7d42b71a1e.m3u8
+#EXTINF:-1 tvg-name="Sukan RTM [Geo-blocked]" group-title="Sports",Sukan RTM [Geo-blocked]
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 tvg-name="Supernatural Drama" group-title="Series",Supernatural Drama
 https://jmp2.uk/plu-5f24662bebe0f0000767de32.m3u8
 #EXTINF:-1 tvg-name="The Beverly Hillbillies" group-title="Classic;Comedy",The Beverly Hillbillies
@@ -3921,3 +3923,13 @@ https://streams.comclark.com/pknhd/axn/playlist.m3u8
 https://dethich.pw/thvl3/index.m3u8
 #EXTINF:-1 tvg-name="Vinh Long TV 4" group-title="Culture;Entertainment;Sports;Travel",Vinh Long TV 4
 https://dethich.pw/thvl4/index.m3u8
+#EXTINF:-1 tvg-name="MoreMax East" group-title="Movies",MoreMax East
+https://sra72yz.s.gy/MORE_MAX_EAST_HD.m3u8
+#EXTINF:-1 tvg-name="The Doctors" group-title="Series",The Doctors
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Doctors/index.m3u8
+#EXTINF:-1 tvg-name="Hub Sports 1" group-title="Sports",Hub Sports 1
+https://sra72yz.s.gy/HUB_SPORTS_1_HD.m3u8
+#EXTINF:-1 tvg-name="Max (576p)" group-title="Movies",Max (576p)
+http://5.254.89.106:80/8882/index.m3u8
+#EXTINF:-1 tvg-name="ESPN U (2160p)" group-title="Sports",ESPN U (2160p)
+https://sra72yz.s.gy/ESPN_UHD_NL.m3u8

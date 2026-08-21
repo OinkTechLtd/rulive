@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-20 23:52:04
-# Всего каналов: 22620
-# Новых за сессию: 0
+# Обновлено: 2026-08-21 01:09:30
+# Всего каналов: 22698
+# Новых за сессию: 78
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Science
 # Каналов: 3
-# Обновлено: 2026-08-20 23:52:04
+# Обновлено: 2026-08-21 01:09:31
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pluto TV Science" group-title="Documentary;Science",Pluto TV Science
@@ -461,3 +461,5 @@ https://nord.ayakkabiparti.lol/viasathistory/index.m3u8
 https://nord.ayakkabiparti.lol/bbc/index.m3u8
 #EXTINF:-1 tvg-name="滁州市广播电视台 科教频道 (400p)" group-title="Education;Science",滁州市广播电视台 科教频道 (400p)
 http://live.cztv.cc:85/live/sjpd.m3u8
+#EXTINF:-1 tvg-name="Sony BBC Earth" group-title="Documentary",Sony BBC Earth
+https://sra72yz.s.gy/SONY_BBC_EARTH_HD.m3u8

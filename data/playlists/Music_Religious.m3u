@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-20 23:52:04
-# Всего каналов: 22620
-# Новых за сессию: 0
+# Обновлено: 2026-08-21 01:09:30
+# Всего каналов: 22698
+# Новых за сессию: 78
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;Religious
 # Каналов: 11
-# Обновлено: 2026-08-20 23:52:04
+# Обновлено: 2026-08-21 01:09:31
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Муз союз (576p)" group-title="Music;Religious",Муз союз (576p)
@@ -77,6 +77,8 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 tvg-name="NRG 91" group-title="Music",NRG 91
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+#EXTINF:-1 tvg-name="Oxygen Music" group-title="Music",Oxygen Music
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1 tvg-name="Dance Television" group-title="Music",Dance Television
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1 tvg-name="TV 2000" group-title="Religious",TV 2000
@@ -3335,3 +3337,9 @@ https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084
 https://streams.comclark.com/pknsd/rock_tv_of_manila/playlist.m3u8
 #EXTINF:-1 tvg-name="Zona M" group-title="Music",Zona M
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2470/index.m3u8
+#EXTINF:-1 tvg-name="Sadhna TV (576p)" group-title="Religious",Sadhna TV (576p)
+https://mumt05.tangotv.in/87NeALx2SADHNATV/index.m3u8
+#EXTINF:-1 tvg-name="Elrodi TV (576p)" group-title="Music",Elrodi TV (576p)
+http://5.254.89.106/8718/index.m3u8
+#EXTINF:-1 tvg-name="My Music (576p)" group-title="Music",My Music (576p)
+http://5.254.89.106:80/8821/index.m3u8

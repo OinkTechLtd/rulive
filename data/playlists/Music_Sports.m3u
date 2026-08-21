@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-20 23:52:04
-# Всего каналов: 22620
-# Новых за сессию: 0
+# Обновлено: 2026-08-21 01:09:30
+# Всего каналов: 22698
+# Новых за сессию: 78
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;Sports
 # Каналов: 1
-# Обновлено: 2026-08-20 23:52:04
+# Обновлено: 2026-08-21 01:09:31
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RTI La 3" group-title="Music;Sports",RTI La 3
@@ -41,6 +41,8 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 tvg-name="NRG 91" group-title="Music",NRG 91
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+#EXTINF:-1 tvg-name="Oxygen Music" group-title="Music",Oxygen Music
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1 tvg-name="Dance Television" group-title="Music",Dance Television
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1 tvg-name="SuperTennis" group-title="Sports",SuperTennis
@@ -1967,6 +1969,8 @@ https://jmp2.uk/plu-686faf533ffa5e0c912688e7.m3u8
 https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Sport" group-title="Sports",Pluto TV Sport
 https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8
+#EXTINF:-1 tvg-name="Sukan RTM [Geo-blocked]" group-title="Sports",Sukan RTM [Geo-blocked]
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 tvg-name="Vevo True School Hip-Hop" group-title="Music",Vevo True School Hip-Hop
 https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
 #EXTINF:-1 tvg-name="El-Heddaf TV (1080i)" group-title="Sports",El-Heddaf TV (1080i)
@@ -2979,3 +2983,11 @@ http://188.138.29.131/skysportsf1/index.m3u8
 http://188.138.29.131/skygolf/index.m3u8
 #EXTINF:-1 tvg-name="Vinh Long TV 4" group-title="Culture;Entertainment;Sports;Travel",Vinh Long TV 4
 https://dethich.pw/thvl4/index.m3u8
+#EXTINF:-1 tvg-name="Hub Sports 1" group-title="Sports",Hub Sports 1
+https://sra72yz.s.gy/HUB_SPORTS_1_HD.m3u8
+#EXTINF:-1 tvg-name="ESPN U (2160p)" group-title="Sports",ESPN U (2160p)
+https://sra72yz.s.gy/ESPN_UHD_NL.m3u8
+#EXTINF:-1 tvg-name="Elrodi TV (576p)" group-title="Music",Elrodi TV (576p)
+http://5.254.89.106/8718/index.m3u8
+#EXTINF:-1 tvg-name="My Music (576p)" group-title="Music",My Music (576p)
+http://5.254.89.106:80/8821/index.m3u8
