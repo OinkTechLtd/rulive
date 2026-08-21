@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-21 20:51:33
+# Обновлено: 2026-08-21 21:24:23
 # Всего каналов: 22766
-# Новых за сессию: 1
+# Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Science
 # Каналов: 5
-# Обновлено: 2026-08-21 20:51:34
+# Обновлено: 2026-08-21 21:24:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="滁州科教 (450p)" group-title="Education;Science",滁州科教 (450p)
@@ -213,6 +213,8 @@ http://103.72.101.252:8080/live/1410.m3u8
 http://103.72.101.252:8080/live/1532.m3u8
 #EXTINF:-1 tvg-name="Gyandarshan" group-title="Education",Gyandarshan
 https://cdn-6.pishow.tv/live/14/master.m3u8
+#EXTINF:-1 tvg-name="InWonder" group-title="Science",InWonder
+https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-name="KITE Victers (Kerala)" group-title="Education",KITE Victers (Kerala)
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Swayam Prabha 1 (576p)" group-title="Education",Swayam Prabha 1 (576p)
