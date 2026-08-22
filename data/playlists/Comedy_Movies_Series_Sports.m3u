@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-21 23:50:08
-# Всего каналов: 22767
-# Новых за сессию: 0
+# Обновлено: 2026-08-22 01:05:50
+# Всего каналов: 22828
+# Новых за сессию: 61
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Movies;Series;Sports
 # Каналов: 5
-# Обновлено: 2026-08-21 23:50:09
+# Обновлено: 2026-08-22 01:05:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="USA Network East" group-title="Comedy;Movies;Series;Sports",USA Network East
@@ -3933,3 +3933,17 @@ https://sra72yz.s.gy/HUB_SPORTS_1_HD.m3u8
 http://5.254.89.106:80/8882/index.m3u8
 #EXTINF:-1 tvg-name="ESPN U (2160p)" group-title="Sports",ESPN U (2160p)
 https://sra72yz.s.gy/ESPN_UHD_NL.m3u8
+#EXTINF:-1 tvg-name="FMH Movies" group-title="Movies",FMH Movies
+https://cdn1tlinkgo.tlink.cl/fmhmovies/index.m3u8
+#EXTINF:-1 tvg-name="AXN Latin America Chile" group-title="Movies",AXN Latin America Chile
+https://cdn1tlinkgo.tlink.cl/axnhd/index.m3u8
+#EXTINF:-1 tvg-name="Az Cinema" group-title="Movies",Az Cinema
+https://cdn1tlinkgo.tlink.cl/azcinema/index.m3u8
+#EXTINF:-1 tvg-name="CDO" group-title="Sports",CDO
+http://cdn1tlinkgo.tlink.cl/cdo/mono.m3u8
+#EXTINF:-1 tvg-name="Mega Ficcion" group-title="Series",Mega Ficcion
+http://cdn1tlinkgo.tlink.cl/megaficcion/mono.m3u8
+#EXTINF:-1 tvg-name="Teletrak TV" group-title="Sports",Teletrak TV
+https://cdn1tlinkgo.tlink.cl/teletrak/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Movies",AXN Poland" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Movies",AXN Poland
+https://polska.hach.workers.dev/14850.m3u8

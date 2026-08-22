@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-21 23:50:08
-# Всего каналов: 22767
-# Новых за сессию: 0
+# Обновлено: 2026-08-22 01:05:50
+# Всего каналов: 22828
+# Новых за сессию: 61
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Weather
-# Каналов: 26
-# Обновлено: 2026-08-21 23:50:09
+# Каналов: 27
+# Обновлено: 2026-08-22 01:05:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Weathernews" group-title="Weather",Weathernews
@@ -75,6 +75,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/pb-hum8cczphcrpf.akama
 
 #EXTINF:-1 tvg-name="AccuWeather Network" group-title="Weather",AccuWeather Network
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/gpuserver3.tier1streams.com/AccuWeather/index.m3u8
+
+#EXTINF:-1 tvg-name="Megatiempo" group-title="Weather",Megatiempo
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn1tlinkgo.tlink.cl/megatiempo/mono.m3u8
 
 #EXTINF:-1 tvg-name="AccuWeather Now" group-title="Weather",AccuWeather Now
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8

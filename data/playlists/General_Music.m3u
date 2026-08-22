@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-21 23:50:08
-# Всего каналов: 22767
-# Новых за сессию: 0
+# Обновлено: 2026-08-22 01:05:50
+# Всего каналов: 22828
+# Новых за сессию: 61
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Music
 # Каналов: 3
-# Обновлено: 2026-08-21 23:50:09
+# Обновлено: 2026-08-22 01:05:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ACW UG TV (480p)" group-title="General;Music",ACW UG TV (480p)
@@ -7601,3 +7601,9 @@ http://5.254.89.106/8794/index.m3u8
 http://5.254.89.106/8718/index.m3u8
 #EXTINF:-1 tvg-name="My Music (576p)" group-title="Music",My Music (576p)
 http://5.254.89.106:80/8821/index.m3u8
+#EXTINF:-1 tvg-name="BATV Public Channel" group-title="General",BATV Public Channel
+https://livestream.telvue.com/billerica1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Best of BATV Channel" group-title="General",Best of BATV Channel
+https://livestream.telvue.com/billerica4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Epic Music Digital" group-title="Music",Epic Music Digital
+https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8

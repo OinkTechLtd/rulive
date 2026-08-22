@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-21 23:50:08
-# Всего каналов: 22767
-# Новых за сессию: 0
+# Обновлено: 2026-08-22 01:05:50
+# Всего каналов: 22828
+# Новых за сессию: 61
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;General
 # Каналов: 1
-# Обновлено: 2026-08-21 23:50:09
+# Обновлено: 2026-08-22 01:05:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Gooder Nation Channel 32" group-title="Animation;General",Gooder Nation Channel 32
@@ -6185,3 +6185,9 @@ http://5.254.89.106/8711/index.m3u8
 https://mumt05.tangotv.in/87NeALx2NANDIGHOSHATV/index.m3u8
 #EXTINF:-1 tvg-name="Alb UK TV" group-title="General",Alb UK TV
 http://5.254.89.106/8794/index.m3u8
+#EXTINF:-1 tvg-name="BATV Public Channel" group-title="General",BATV Public Channel
+https://livestream.telvue.com/billerica1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Best of BATV Channel" group-title="General",Best of BATV Channel
+https://livestream.telvue.com/billerica4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="ETC TV" group-title="Animation",ETC TV
+http://cdn1tlinkgo.tlink.cl/etc/mono.m3u8

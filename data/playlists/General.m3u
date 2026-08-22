@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-21 23:50:08
-# Всего каналов: 22767
-# Новых за сессию: 0
+# Обновлено: 2026-08-22 01:05:50
+# Всего каналов: 22828
+# Новых за сессию: 61
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General
-# Каналов: 3163
-# Обновлено: 2026-08-21 23:50:09
+# Каналов: 3175
+# Обновлено: 2026-08-22 01:05:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="БелРос (576p)" group-title="General",БелРос (576p)
@@ -9174,6 +9174,42 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/mumt01.tangotv.in/O5aw
 
 #EXTINF:-1 tvg-name="Alb UK TV" group-title="General",Alb UK TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/5.254.89.106/8794/index.m3u8
+
+#EXTINF:-1 tvg-name="TV BRICS Russian" group-title="General",TV BRICS Russian
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.23.80.23:8080/TVBRICS/index.m3u8
+
+#EXTINF:-1 tvg-name="BATV Public Channel" group-title="General",BATV Public Channel
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/livestream.telvue.com/billerica1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Best of BATV Channel" group-title="General",Best of BATV Channel
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/livestream.telvue.com/billerica4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NTD TV West" group-title="General",NTD TV West
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ntd02.akamaized.net/HD-LA/index.m3u8
+
+#EXTINF:-1 tvg-name="Jan TV (576p)" group-title="General",Jan TV (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d1msejlow1t3l4.cloudfront.net/fta/jantv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Eurochannel" group-title="General",Eurochannel
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn1tlinkgo.tlink.cl/eurochannel/index.m3u8
+
+#EXTINF:-1 tvg-name="America Paraguay" group-title="General",America Paraguay
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.170.130.224:8000/play/a02o/index.m3u8?hls
+
+#EXTINF:-1 tvg-name="Bio Bio TV" group-title="General",Bio Bio TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn1tlinkgo.tlink.cl/biobiotv/mono.m3u8
+
+#EXTINF:-1 tvg-name="La Red" group-title="General",La Red
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn1tlinkgo.tlink.cl/laredhd/mono.m3u8
+
+#EXTINF:-1 tvg-name="Paravision" group-title="General",Paravision
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.170.130.224:8000/play/a032/index.m3u8?hls
+
+#EXTINF:-1 tvg-name="SUR TV Itapua" group-title="General",SUR TV Itapua
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.170.130.224:8000/play/a036/index.m3u8?hls
+
+#EXTINF:-1 tvg-name="Trece" group-title="General",Trece
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.170.130.224:8000/play/a050/index.m3u8?hls
 
 #EXTINF:-1 tvg-name="Belarus-1" group-title="General",Belarus-1
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8

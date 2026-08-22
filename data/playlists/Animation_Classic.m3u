@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-21 23:50:08
-# Всего каналов: 22767
-# Новых за сессию: 0
+# Обновлено: 2026-08-22 01:05:50
+# Всего каналов: 22828
+# Новых за сессию: 61
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Classic
 # Каналов: 1
-# Обновлено: 2026-08-21 23:50:09
+# Обновлено: 2026-08-22 01:05:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RetroCrush" group-title="Animation;Classic",RetroCrush
@@ -481,3 +481,9 @@ https://bob.x1colegal.com/hls/stream.m3u8
 https://s3.itcnbd.live/channel/b22941f1341d7243.m3u8
 #EXTINF:-1 tvg-name="Cinevault Westerns (540p) [Geo-blocked]" group-title="Classic",Cinevault Westerns (540p) [Geo-blocked]
 https://gsn-cinevault-westerns-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="13Rec" group-title="Classic",13Rec
+http://cdn1tlinkgo.tlink.cl/13rec/mono.m3u8
+#EXTINF:-1 tvg-name="ETC TV" group-title="Animation",ETC TV
+http://cdn1tlinkgo.tlink.cl/etc/mono.m3u8
+#EXTINF:-1 tvg-name="TVN3" group-title="Classic",TVN3
+http://cdn1tlinkgo.tlink.cl/tvn3/mono.m3u8

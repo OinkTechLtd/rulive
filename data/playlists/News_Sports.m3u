@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-21 23:50:08
-# Всего каналов: 22767
-# Новых за сессию: 0
+# Обновлено: 2026-08-22 01:05:50
+# Всего каналов: 22828
+# Новых за сессию: 61
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News;Sports
 # Каналов: 6
-# Обновлено: 2026-08-21 23:50:09
+# Обновлено: 2026-08-22 01:05:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Africa 24 Sport" group-title="News;Sports",Africa 24 Sport
@@ -3676,3 +3676,19 @@ https://sra72yz.s.gy/HUB_SPORTS_1_HD.m3u8
 http://5.254.89.106/8709/index.m3u8
 #EXTINF:-1 tvg-name="ESPN U (2160p)" group-title="Sports",ESPN U (2160p)
 https://sra72yz.s.gy/ESPN_UHD_NL.m3u8
+#EXTINF:-1 tvg-name="IBC 24 (576p)" group-title="News",IBC 24 (576p)
+https://mumt05.tangotv.in/87NeALx2IBC24/index.m3u8
+#EXTINF:-1 tvg-name="Moon TV (576p)" group-title="News",Moon TV (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/moontv/playlist.m3u8
+#EXTINF:-1 tvg-name="Bilyonaryo News Channel [Geo-blocked]" group-title="News",Bilyonaryo News Channel [Geo-blocked]
+https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-name="24 Horas" group-title="News",24 Horas
+http://cdn1tlinkgo.tlink.cl/24horashd/mono.m3u8
+#EXTINF:-1 tvg-name="Canal CHV Noticias" group-title="News",Canal CHV Noticias
+http://cdn1tlinkgo.tlink.cl/chvnoticias/mono.m3u8
+#EXTINF:-1 tvg-name="CDO" group-title="Sports",CDO
+http://cdn1tlinkgo.tlink.cl/cdo/mono.m3u8
+#EXTINF:-1 tvg-name="Meganoticias Ahora" group-title="News",Meganoticias Ahora
+http://cdn1tlinkgo.tlink.cl/meganoticias/mono.m3u8
+#EXTINF:-1 tvg-name="Teletrak TV" group-title="Sports",Teletrak TV
+https://cdn1tlinkgo.tlink.cl/teletrak/index.m3u8

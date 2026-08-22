@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-21 23:50:08
-# Всего каналов: 22767
-# Новых за сессию: 0
+# Обновлено: 2026-08-22 01:05:50
+# Всего каналов: 22828
+# Новых за сессию: 61
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Undefined
-# Каналов: 4235
-# Обновлено: 2026-08-21 23:50:09
+# Каналов: 4240
+# Обновлено: 2026-08-22 01:05:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Дождь [Geo-blocked]" group-title="Undefined",Дождь [Geo-blocked]
@@ -12294,6 +12294,21 @@ https://flask-api-hls-atvavrupahdtrkvz-live.onrender.com/hls_stream/master.m3u8
 
 #EXTINF:-1 tvg-name="Sangat TV (576p)" group-title="Undefined",Sangat TV (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/mumt06.tangotv.in/qYyB8fXVSANGATTV/index.m3u8
+
+#EXTINF:-1 tvg-name="Unknown Russia" group-title="Undefined",Unknown Russia
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.23.80.23:8080/NeizvestnayaRossia/index.m3u8
+
+#EXTINF:-1 tvg-name="TVE Internacional America" group-title="Undefined",TVE Internacional America
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn1tlinkgo.tlink.cl/tve/index.m3u8
+
+#EXTINF:-1 tvg-name="TV Senado" group-title="Undefined",TV Senado
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn1tlinkgo.tlink.cl/tvsenado/mono.m3u8
+
+#EXTINF:-1 tvg-name="TVR" group-title="Undefined",TVR
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn1tlinkgo.tlink.cl/tvr/mono.m3u8
+
+#EXTINF:-1 tvg-name="Via X" group-title="Undefined",Via X
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn1tlinkgo.tlink.cl/viax/mono.m3u8
 
 #EXTINF:-1 tvg-name="W24" group-title="Undefined",W24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8

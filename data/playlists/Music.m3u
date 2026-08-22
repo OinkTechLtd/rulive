@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-21 23:50:08
-# Всего каналов: 22767
-# Новых за сессию: 0
+# Обновлено: 2026-08-22 01:05:50
+# Всего каналов: 22828
+# Новых за сессию: 61
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music
-# Каналов: 885
-# Обновлено: 2026-08-21 23:50:09
+# Каналов: 886
+# Обновлено: 2026-08-22 01:05:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Deluxe Music" group-title="Music",Deluxe Music
@@ -2577,6 +2577,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/5.254.89.106/8718/inde
 
 #EXTINF:-1 tvg-name="My Music (576p)" group-title="Music",My Music (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/5.254.89.106:80/8821/index.m3u8
+
+#EXTINF:-1 tvg-name="Epic Music Digital" group-title="Music",Epic Music Digital
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
 
 #EXTINF:-1 tvg-name="City TV (576p)" group-title="Music",City TV (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.city.bg/play/tshls/citytv/index.m3u8

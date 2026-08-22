@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-21 23:50:08
-# Всего каналов: 22767
-# Новых за сессию: 0
+# Обновлено: 2026-08-22 01:05:50
+# Всего каналов: 22828
+# Новых за сессию: 61
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Cooking
-# Каналов: 44
-# Обновлено: 2026-08-21 23:50:09
+# Каналов: 45
+# Обновлено: 2026-08-22 01:05:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Кухня ТВ (576p)" group-title="Cooking",Кухня ТВ (576p)
@@ -138,6 +138,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/dg3721c3ez5m0.cloudfro
 
 #EXTINF:-1 tvg-name="El Gourmet" group-title="Cooking",El Gourmet
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/15.204.246.24:8080/ElGourmetHD/index.m3u8
+
+#EXTINF:-1 tvg-name="El Gourmet South" group-title="Cooking",El Gourmet South
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/iptv.bitred.cl/ELGOURMET_HD/index.m3u8
 
 #EXTINF:-1 tvg-name="FoodTime" group-title="Cooking",FoodTime
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Eda_Premium_HD/index.m3u8
