@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-22 23:46:14
-# Всего каналов: 22864
-# Новых за сессию: 0
+# Обновлено: 2026-08-23 01:11:06
+# Всего каналов: 22883
+# Новых за сессию: 19
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Religious
-# Каналов: 826
-# Обновлено: 2026-08-22 23:46:15
+# Каналов: 829
+# Обновлено: 2026-08-23 01:11:07
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Спас (450p) [Geo-blocked]" group-title="Religious",Спас (450p) [Geo-blocked]
@@ -2433,6 +2433,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/yuppnimrestreammum.aka
 
 #EXTINF:-1 tvg-name="Nuevo Tiempo TV" group-title="Religious",Nuevo Tiempo TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn1tlinkgo.tlink.cl/nuevotiempo/mono.m3u8
+
+#EXTINF:-1 tvg-name="Faith TV" group-title="Religious",Faith TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Faith Africa" group-title="Religious",Faith Africa
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithAfrica.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Faith UK" group-title="Religious",Faith UK
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/faithnow-hls.secdn.net/faithnow-c-channel/play/FaithUK.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Aghapy TV" group-title="Religious",Aghapy TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8

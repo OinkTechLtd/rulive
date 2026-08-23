@@ -5,13 +5,13 @@
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
-# Категория: General;Legislative
+# Категория: General;Travel
 # Каналов: 1
 # Обновлено: 2026-08-23 01:11:07
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
-#EXTINF:-1 tvg-name="ATXN2" group-title="General;Legislative",ATXN2
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f10-8c16d0833639)/index.m3u8
+#EXTINF:-1 tvg-name="Guangxi Variety & Travel Channel" group-title="General;Travel",Guangxi Variety & Travel Channel
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-name="Belarus-1" group-title="General",Belarus-1
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
@@ -25,10 +25,6 @@ https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
 #EXTINF:-1 tvg-name="COM Brasil" group-title="General",COM Brasil
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Câmara" group-title="Legislative",TV Câmara
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 tvg-name="CPAC" group-title="Legislative",CPAC
-https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 #EXTINF:-1 tvg-name="ICI Montreal" group-title="General",ICI Montreal
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1 tvg-name="Tele Tchad" group-title="General",Tele Tchad
@@ -37,8 +33,6 @@ https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTINF:-1 tvg-name="CCTV-4 America" group-title="General",CCTV-4 America
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-#EXTINF:-1 tvg-name="Folketinget" group-title="Legislative",Folketinget
-https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-name="Canal 4 RD" group-title="General",Canal 4 RD
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Watan TV" group-title="General",Watan TV
@@ -55,8 +49,6 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
 #EXTINF:-1 tvg-name="Acheloos TV (576p)" group-title="General",Acheloos TV (576p)
 https://acheloostv.streamings.gr/live/stream/index.m3u8
-#EXTINF:-1 tvg-name="Althingi" group-title="Legislative",Althingi
-https://althingi-live.secure.footprint.net/althingi/live/index.m3u8
 #EXTINF:-1 tvg-name="Al Iraqia [Geo-blocked]" group-title="General",Al Iraqia [Geo-blocked]
 https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 #EXTINF:-1 tvg-name="Al-Sharqiya" group-title="General",Al-Sharqiya
@@ -65,10 +57,6 @@ https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Deejay TV" group-title="General",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1 tvg-name="Senato TV" group-title="Legislative",Senato TV
-https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
-#EXTINF:-1 tvg-name="Camera dei Deputati (via RR) (240p)" group-title="Legislative",Camera dei Deputati (via RR) (240p)
-https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 #EXTINF:-1 tvg-name="111 TV" group-title="General",111 TV
 https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
 #EXTINF:-1 tvg-name="12 TV Parma (540p)" group-title="General",12 TV Parma (540p)
@@ -109,6 +97,10 @@ https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
 https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Otto Channel (480p)" group-title="General",Otto Channel (480p)
 https://ottop-live-meride.akamaized.net/hls/live/2039996/ch1/playlist.m3u8
+#EXTINF:-1 tvg-name="Peer TV Alto Adige (1280p)" group-title="Outdoor;Travel",Peer TV Alto Adige (1280p)
+https://iptv.peer.biz/live/peertv-it.m3u8
+#EXTINF:-1 tvg-name="Peer TV Südtirol" group-title="Outdoor;Travel",Peer TV Südtirol
+https://iptv.peer.biz/live/peertv.m3u8
 #EXTINF:-1 tvg-name="Prima TV Sicilia" group-title="General",Prima TV Sicilia
 https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
 #EXTINF:-1 tvg-name="PrimaFree" group-title="General",PrimaFree
@@ -197,6 +189,8 @@ https://tv7plus.com/hls/tv7_site.m3u8
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Latina TV" group-title="General",Latina TV
 https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
+#EXTINF:-1 tvg-name="Peer TV South Tyrol (1280p)" group-title="Outdoor;Travel",Peer TV South Tyrol (1280p)
+https://iptv.peer.biz/live/peertv-en.m3u8
 #EXTINF:-1 tvg-name="Пятый Канал (540p) [Geo-blocked]" group-title="General",Пятый Канал (540p) [Geo-blocked]
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 tvg-name="РЕН ТВ (540p) [Geo-blocked]" group-title="General",РЕН ТВ (540p) [Geo-blocked]
@@ -207,6 +201,8 @@ https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
 #EXTINF:-1 tvg-name="Кубань 24 [Geo-blocked]" group-title="General",Кубань 24 [Geo-blocked]
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+#EXTINF:-1 tvg-name="Glazami Turista (576i)" group-title="Travel",Glazami Turista (576i)
+https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="ARTN TV" group-title="General",ARTN TV
 https://streamer1.connectto.com/ARTN_mobile/index.m3u8
 #EXTINF:-1 tvg-name="Bălţi TV [Geo-blocked]" group-title="General",Bălţi TV [Geo-blocked]
@@ -225,8 +221,12 @@ http://tmptv.sunduk.tv/CH317/index.m3u8
 http://tmptv.sunduk.tv/CH189/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/146.0.0.0 Safari/537.36 OPR/130.0.0.0 (Edition std-2)" group-title="General",Rossiya 1 Vainah (576i)" group-title="General",like Gecko) Chrome/146.0.0.0 Safari/537.36 OPR/130.0.0.0 (Edition std-2)" group-title="General",Rossiya 1 Vainah (576i)
 https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
+#EXTINF:-1 tvg-name="RTG TV" group-title="Travel",RTG TV
+http://31.148.48.15/RTG_HD/index.m3u8
 #EXTINF:-1 tvg-name="Sochi Live" group-title="General",Sochi Live
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Travel+Adventure" group-title="Travel",Travel+Adventure
+http://31.148.48.15/Travel_Adventure_HD/index.m3u8
 #EXTINF:-1 tvg-name="TV BRICS Russian" group-title="General",TV BRICS Russian
 https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:-1 tvg-name="Аист ТВ" group-title="General",Аист ТВ
@@ -243,8 +243,6 @@ https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
 #EXTINF:-1 tvg-name="Губерния (Самара) (576p)" group-title="General",Губерния (Самара) (576p)
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Legislative",Дума ТВ" group-title="Legislative",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Legislative",Дума ТВ
-https://dumatv.iptv2022.com/playlist.m3u8
 #EXTINF:-1 tvg-name="Евразия (Орск)" group-title="General",Евразия (Орск)
 https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 #EXTINF:-1 tvg-name="Енисей" group-title="General",Енисей
@@ -329,6 +327,8 @@ https://streaming.televizor-24-tochka.ru/live/24.m3u8
 https://sitv.ru/hls/s86.m3u8
 #EXTINF:-1 tvg-name="Телеканал Краснодар" group-title="General",Телеканал Краснодар
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Телепутешествия (576p)" group-title="Travel",Телепутешествия (576p)
+http://31.148.48.15/Teleputeshestviya/index.m3u8
 #EXTINF:-1 tvg-name="Телерадиокомпания 555 (Алушта)" group-title="General",Телерадиокомпания 555 (Алушта)
 http://trk555.tv:8888/live
 #EXTINF:-1 tvg-name="Урал 24 (Челябинск)" group-title="General",Урал 24 (Челябинск)
@@ -337,6 +337,8 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
 https://11tv-dp.cdn-04.cosmonova.net.ua/hls/11tv-dp_ua_hi/index.m3u8
 #EXTINF:-1 tvg-name="Avers (480p)" group-title="General",Avers (480p)
 https://avers.pp.ua/hls/efir.m3u8
+#EXTINF:-1 tvg-name="BamBarBia TV" group-title="Travel",BamBarBia TV
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
 #EXTINF:-1 tvg-name="Channel 7 Ukraine" group-title="General",Channel 7 Ukraine
 http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
 #EXTINF:-1 tvg-name="ITV (480p)" group-title="General",ITV (480p)
@@ -347,10 +349,6 @@ https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
 http://93.78.206.172:8080/stream3/stream.m3u8
 #EXTINF:-1 tvg-name="Pershyi" group-title="General",Pershyi
 https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
-#EXTINF:-1 tvg-name="Pershyi Zahidnyi" group-title="Legislative",Pershyi Zahidnyi
-https://ext.cdn.nashnet.tv/228.0.0.162/index.m3u8
-#EXTINF:-1 tvg-name="Rada TV" group-title="Legislative",Rada TV
-https://api-tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
 #EXTINF:-1 tvg-name="Renome (576p)" group-title="General",Renome (576p)
 http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
 #EXTINF:-1 tvg-name="TRK Ildana" group-title="General",TRK Ildana
@@ -443,12 +441,8 @@ https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
 https://rtmp-live-ingest-ap-northeast-2-universe-dacast-com.akamaized.net/transmuxv1/streams/f08fcd45-1d04-9a8c-39ca-f56091820e5c.m3u8
 #EXTINF:-1 tvg-name="Access Media Productions Channel" group-title="General",Access Media Productions Channel
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch1/video.m3u8
-#EXTINF:-1 tvg-name="Access Media Productions Marina TV" group-title="Legislative",Access Media Productions Marina TV
-https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch4/video.m3u8
 #EXTINF:-1 tvg-name="Access Media Productions Monterey Channel" group-title="General",Access Media Productions Monterey Channel
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch3/video.m3u8
-#EXTINF:-1 tvg-name="Access Media Productions Peninsula Channel" group-title="Legislative",Access Media Productions Peninsula Channel
-https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch5/video.m3u8
 #EXTINF:-1 tvg-name="Access Nashua" group-title="General",Access Nashua
 https://livestream.telvue.com/nashuanh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Access Sacramento Channel 17" group-title="General",Access Sacramento Channel 17
@@ -457,10 +451,6 @@ https://reflect-access-sacramento.cablecast.tv/live-7/live/live.m3u8
 https://reflect-tuolumne.cablecast.tv/live-3/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-name="AccessVision Channel 16" group-title="General",AccessVision Channel 16
 https://livestream.telvue.com/accvision1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="AccessVision Channel 17" group-title="Legislative",AccessVision Channel 17
-https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="ACTV" group-title="Legislative",ACTV
-https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8
 #EXTINF:-1 tvg-name="AFTV" group-title="General",AFTV
 https://livestream.telvue.com/accframingham1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Akaku 53 (Hawaii)" group-title="General",Akaku 53 (Hawaii)
@@ -473,8 +463,6 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
 http://live.albavision.net:1123/live/albdreams.m3u8
 #EXTINF:-1 tvg-name="Amga TV" group-title="General",Amga TV
 https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
-#EXTINF:-1 tvg-name="Apple Valley Channel 180" group-title="Legislative",Apple Valley Channel 180
-https://reflect-applevalley.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-name="ARY Digital USA" group-title="General",ARY Digital USA
 https://6zklx4wryw9b-hls-live.5centscdn.com/arydigitalusa/498f1704b692c3ad4dbfdf5ba5d04536.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Asian Culture TV" group-title="General",Asian Culture TV
@@ -483,8 +471,8 @@ https://cdn.vegasplus.us/vegas/actv/playlist.m3u8
 http://66.242.170.53/hls/live/temp/index.m3u8
 #EXTINF:-1 tvg-name="Atlanta Channel" group-title="General",Atlanta Channel
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
-#EXTINF:-1 tvg-name="ATXN1" group-title="Legislative",ATXN1
-https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)/index.m3u8
+#EXTINF:-1 tvg-name="ATXN2" group-title="General;Legislative",ATXN2
+https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f10-8c16d0833639)/index.m3u8
 #EXTINF:-1 tvg-name="ATXN3" group-title="Culture;General",ATXN3
 https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(c55d1594-ad62-7434-aa17-4d71adb80f99)/index.m3u8
 #EXTINF:-1 tvg-name="AuroraTV (Aurora CO)" group-title="General",AuroraTV (Aurora CO)
@@ -495,6 +483,16 @@ https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 https://a-cdn.klowdtv.com/live1/awee/playlist.m3u8
 #EXTINF:-1 tvg-name="AWE International" group-title="General",AWE International
 https://a-cdn.klowdtv.com/live1/aweint/playlist.m3u8
+#EXTINF:-1 tvg-name="Beach TV CSULB (160p)" group-title="Travel",Beach TV CSULB (160p)
+http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Beach TV Florida & Alabama" group-title="Travel",Beach TV Florida & Alabama
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1 tvg-name="Beach TV Key West & Florida Keys" group-title="Travel",Beach TV Key West & Florida Keys
+https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
+#EXTINF:-1 tvg-name="Beach TV Myrtle Beach & The Grand Strand" group-title="Travel",Beach TV Myrtle Beach & The Grand Strand
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 tvg-name="Beach TV Panama City" group-title="Travel",Beach TV Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
 #EXTINF:-1 tvg-name="Berks Community TV" group-title="General",Berks Community TV
 https://livestream.telvue.com/berkscmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="BIG Civic Channel" group-title="General",BIG Civic Channel
@@ -503,20 +501,12 @@ https://reflect-brookline-interactive-group.cablecast.tv/live-5/live/stream-2/li
 https://reflect-brookline-interactive-group.cablecast.tv/live-4/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-name="Binge" group-title="General",Binge
 https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Bloomfield Access Government TV (480p)" group-title="Legislative",Bloomfield Access Government TV (480p)
-https://reflect-batv.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-name="Bloomfield Access TV Channel 5 (480p)" group-title="General",Bloomfield Access TV Channel 5 (480p)
 https://reflect-batv.cablecast.tv/live-5/live/live.m3u8
 #EXTINF:-1 tvg-name="BMC- TV" group-title="General",BMC- TV
 https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Bolton Community Voice Channel (CVC) Government (Bolton CT) (480p)" group-title="Legislative",Bolton Community Voice Channel (CVC) Government (Bolton CT) (480p)
-https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch3/video.m3u8
 #EXTINF:-1 tvg-name="Bolton Community Voice Channel (CVC) Public (Bolton CT) (480p)" group-title="General",Bolton Community Voice Channel (CVC) Public (Bolton CT) (480p)
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch1/video.m3u8
-#EXTINF:-1 tvg-name="Brevard County Government Access TV (Brevard FL)" group-title="Legislative",Brevard County Government Access TV (Brevard FL)
-https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8
-#EXTINF:-1 tvg-name="Buena Park Television (360p)" group-title="Legislative",Buena Park Television (360p)
-https://buenapark.cablecast.tv/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-name="Burbank Channel" group-title="General",Burbank Channel
 https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/burbank/G0240_009/playlist.m3u8
 #EXTINF:-1 tvg-name="BX Inform" group-title="General;News",BX Inform
@@ -525,8 +515,6 @@ https://reflect-stream-bronxnet.cablecast.tv/live-8/live/stream-4/live.m3u8
 https://reflect-stream-bronxnet.cablecast.tv/live-18/live/stream-7/live.m3u8
 #EXTINF:-1 tvg-name="BX Omni" group-title="General",BX Omni
 https://reflect-stream-bronxnet.cablecast.tv/live-16/live/stream-1/live.m3u8
-#EXTINF:-1 tvg-name="C-SPAN 2" group-title="Legislative",C-SPAN 2
-https://tvpass.org/live/CSPAN2/hd
 #EXTINF:-1 tvg-name="CAN TV19" group-title="General",CAN TV19
 https://cantv.streamguys1.com/cantv/cantv19hls/playlist.m3u8
 #EXTINF:-1 tvg-name="CAN TV21" group-title="General",CAN TV21
@@ -553,86 +541,36 @@ https://linear-704.frequency.stream/dist/stirr/704/hls/master/playlist.m3u8
 http://reflect-ccx.cablecast.tv/live-9/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-name="Cerritos TV3 (360p)" group-title="General",Cerritos TV3 (360p)
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/cerritos/G0010_002/playlist.m3u8
-#EXTINF:-1 tvg-name="CFM TV Channel 98 (360p)" group-title="Legislative",CFM TV Channel 98 (360p)
-https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/cityftmyers/G2083_002/playlist.m3u8
-#EXTINF:-1 tvg-name="Champaign Government Television (CGTV) (Champaign IL)" group-title="Legislative",Champaign Government Television (CGTV) (Champaign IL)
-https://champaign-cablecast.cablecast.tv/live/stream-2/live.m3u8
-#EXTINF:-1 tvg-name="Channel 10" group-title="Legislative",Channel 10
-https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/santa-paula/G0930_002/playlist.m3u8
 #EXTINF:-1 tvg-name="Channel 11 (Scottsdale AZ)" group-title="General",Channel 11 (Scottsdale AZ)
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/scottsdale/G0040_007/chunklist.m3u8
-#EXTINF:-1 tvg-name="Chino Hills City TV Channel 3/41 (360p)" group-title="Legislative",Chino Hills City TV Channel 3/41 (360p)
-https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8
-#EXTINF:-1 tvg-name="City of Oakland (KTOP) (480p)" group-title="Legislative",City of Oakland (KTOP) (480p)
-https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/playlist.m3u8
-#EXTINF:-1 tvg-name="City TV Capital City Connection" group-title="Legislative",City TV Capital City Connection
-https://capitalcityconnection.cablecast.tv/live/stream-1/live.m3u8
-#EXTINF:-1 tvg-name="CityTV San Diego (360p)" group-title="Legislative",CityTV San Diego (360p)
-https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8
 #EXTINF:-1 tvg-name="Clarity 4K (2160p) [Geo-blocked]" group-title="General",Clarity 4K (2160p) [Geo-blocked]
 https://pb-qyrvophnifz47.akamaized.net/Clarity_4K.m3u8
-#EXTINF:-1 tvg-name="Collier Television CTV (Naples FL)" group-title="Legislative",Collier Television CTV (Naples FL)
-https://reflect-collier-countyboc.cablecast.tv/live-4/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-name="Concord TV (Concord CA)" group-title="General",Concord TV (Concord CA)
 https://concordca.cablecast.tv/live/stream-2/live.m3u8
-#EXTINF:-1 tvg-name="Contra Costa College TV [Geo-blocked]" group-title="Legislative",Contra Costa College TV [Geo-blocked]
-https://reflect-contra-costa.cablecast.tv/live-7/live/live.m3u8
-#EXTINF:-1 tvg-name="Coral Gables Television (Coral Gables FL)" group-title="Legislative",Coral Gables Television (Coral Gables FL)
-https://cdn3.wowza.com/5/R09KQXpaMWlrRjly/coralgables/G0937_004/playlist.m3u8
 #EXTINF:-1 tvg-name="Costa Mesa's Municipal Access Channel CMTV 3" group-title="General",Costa Mesa's Municipal Access Channel CMTV 3
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8
-#EXTINF:-1 tvg-name="COStv" group-title="Legislative",COStv
-https://irctv.cablecast.tv/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-name="CreaTV Bay Voice TV Channel 27 (San Jose CA)" group-title="General",CreaTV Bay Voice TV Channel 27 (San Jose CA)
 https://reflect-creatv.cablecast.tv/live-19/live/live.m3u8
 #EXTINF:-1 tvg-name="CreaTV Community Channel 15 (San Jose CA)" group-title="General",CreaTV Community Channel 15 (San Jose CA)
 https://reflect-creatv.cablecast.tv/live-13/live/live.m3u8
 #EXTINF:-1 tvg-name="CreaTV The Outlet Channel 30 (San Jose CA)" group-title="General",CreaTV The Outlet Channel 30 (San Jose CA)
 https://reflect-creatv.cablecast.tv/live-16/live/live.m3u8
-#EXTINF:-1 tvg-name="Cruz TV" group-title="Legislative",Cruz TV
-https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8
-#EXTINF:-1 tvg-name="CT-N Court Feed (360p)" group-title="Legislative",CT-N Court Feed (360p)
-http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8
-#EXTINF:-1 tvg-name="CT-N Live Stream 2 (360p)" group-title="Legislative",CT-N Live Stream 2 (360p)
-http://video.ct-n.com/live/web2stream/playlist.m3u8
-#EXTINF:-1 tvg-name="CT-N TV Conneticut" group-title="Legislative",CT-N TV Conneticut
-http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8
-#EXTINF:-1 tvg-name="Cupertino City Channel" group-title="Legislative",Cupertino City Channel
-https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/cupertino/G0067_003/playlist.m3u8
 #EXTINF:-1 tvg-name="CVTV Channel 192" group-title="General",CVTV Channel 192
 https://livestream.telvue.com/cvtv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="CVTV Channel 194" group-title="General",CVTV Channel 194
 https://livestream.telvue.com/cvtv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Cypress Public Access Channel 36 (Cypress CA) (360p)" group-title="Legislative",Cypress Public Access Channel 36 (Cypress CA) (360p)
-https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8
-#EXTINF:-1 tvg-name="DC Council Channel" group-title="Legislative",DC Council Channel
-https://video.oct.dc.gov/out/u/15_12.m3u8
-#EXTINF:-1 tvg-name="DC.gov Council Hearing Room 120 (Washington DC)" group-title="Legislative",DC.gov Council Hearing Room 120 (Washington DC)
-https://video.oct.dc.gov/out/u/97_12.m3u8
-#EXTINF:-1 tvg-name="Denver 8 TV (Denver CO)" group-title="Legislative",Denver 8 TV (Denver CO)
-https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8
-#EXTINF:-1 tvg-name="DerryTV 17" group-title="Legislative",DerryTV 17
-https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="DerryTV 23" group-title="Education;General",DerryTV 23
 https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="District of Columbia Network (DCN)" group-title="Legislative",District of Columbia Network (DCN)
-https://video.oct.dc.gov/out/u/DCN.m3u8
-#EXTINF:-1 tvg-name="Escambia County TV ECTV (Escambia County FL)" group-title="Legislative",Escambia County TV ECTV (Escambia County FL)
-https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8
 #EXTINF:-1 tvg-name="Fairfield Government Access Channel 26 (Fairfield CA) [Geo-blocked]" group-title="General",Fairfield Government Access Channel 26 (Fairfield CA) [Geo-blocked]
 https://reflect-fairfield-ca.cablecast.tv/live-8/live/live.m3u8
 #EXTINF:-1 tvg-name="FC Public Media (Fort Collins CO)" group-title="General",FC Public Media (Fort Collins CO)
 https://reflect-fcpublicmedia.cablecast.tv/live-5/live/stream-1/live.m3u8
-#EXTINF:-1 tvg-name="Fernandina Beach City Meeting (Fernandina Beach FL)" group-title="Legislative",Fernandina Beach City Meeting (Fernandina Beach FL)
-https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-name="FilAmTV Network" group-title="General",FilAmTV Network
 https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
 #EXTINF:-1 tvg-name="Fontana Community Television [Geo-blocked]" group-title="General",Fontana Community Television [Geo-blocked]
 https://reflect-watchkfon-fontana.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-name="Fort Collins Cable TV (FCTV) (Fort Collins CO)" group-title="General",Fort Collins Cable TV (FCTV) (Fort Collins CO)
 https://reflect-vod-fcgov.cablecast.tv/live-9/live/stream-1/live.m3u8
-#EXTINF:-1 tvg-name="Fort Pierce Live Stream (Fort Pierce FL)" group-title="Legislative",Fort Pierce Live Stream (Fort Pierce FL)
-https://edge-f.swagit.com/live/fortpiercefl/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-name="FOX 2 San Francisco CA (KTVU)" group-title="General",FOX 2 San Francisco CA (KTVU)
 https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8
 #EXTINF:-1 tvg-name="FOX 13 Seattle WA (KCPQ)" group-title="General",FOX 13 Seattle WA (KCPQ)
@@ -645,52 +583,36 @@ https://linear-705.frequency.stream/dist/stirr/705/hls/master/playlist.m3u8
 https://linear-711.frequency.stream/dist/stirr/711/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="Fresno CMAC 1 Public Channel" group-title="General",Fresno CMAC 1 Public Channel
 https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-1/live.m3u8
-#EXTINF:-1 tvg-name="Fresno CMAC 3 Government Channel" group-title="Legislative",Fresno CMAC 3 Government Channel
-https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-3/live.m3u8
-#EXTINF:-1 tvg-name="Gainesville Community 12TV (Gainesville FL)" group-title="Legislative",Gainesville Community 12TV (Gainesville FL)
-https://lin10.isilive.ca/live/gainesville/live/index.m3u8
-#EXTINF:-1 tvg-name="Galveston County TV" group-title="Legislative",Galveston County TV
-https://edge-f.swagit.com/live/galvestontx/smil:hd-16x9-1-a/playlist.m3u8
+#EXTINF:-1 tvg-name="Fun Roads TV" group-title="Auto;Travel",Fun Roads TV
+https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Ganj e Hozour TV" group-title="General",Ganj e Hozour TV
 https://media.parvizshahbazi.com/ganjehozour/Main_tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Gilroy CMAP TV Channel 17" group-title="Legislative",Gilroy CMAP TV Channel 17
-https://livestream.telvue.com/cmap1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Gilroy CMAP TV Channel 18" group-title="General",Gilroy CMAP TV Channel 18
 https://livestream.telvue.com/cmap3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Gilroy CMAP TV Channel 20" group-title="General",Gilroy CMAP TV Channel 20
 https://livestream.telvue.com/cmap5/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Glendale 11 AZ (360p)" group-title="Legislative",Glendale 11 AZ (360p)
-https://edge-f.swagit.com/live/glendaleaz/live-1-a-1/playlist.m3u8
-#EXTINF:-1 tvg-name="Glendale TV [Geo-blocked]" group-title="Legislative",Glendale TV [Geo-blocked]
-https://reflect-gtv6-glendale.cablecast.tv/live-2/live/live.m3u8
+#EXTINF:-1 tvg-name="Go2Travel" group-title="Travel",Go2Travel
+https://go2thls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Go USA TV" group-title="Travel",Go USA TV
+https://brandusa-gousa-1-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Golden Community Television (GCO.tv) (Golden CO)" group-title="General",Golden Community Television (GCO.tv) (Golden CO)
 https://reflect-golden-co.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-name="Gooder Nation Channel 32" group-title="Animation;General",Gooder Nation Channel 32
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/channel32/playlist.m3u8
-#EXTINF:-1 tvg-name="Greensboro TV (Greensboro NC)" group-title="Legislative",Greensboro TV (Greensboro NC)
-https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8
+#EXTINF:-1 tvg-name="GoTraveler [Geo-blocked]" group-title="Travel",GoTraveler [Geo-blocked]
+https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8
 #EXTINF:-1 tvg-name="GuyBai TV" group-title="General",GuyBai TV
 https://livechannel.mdc.akamaized.net/stitch/livechannel/1342/master1400000.m3u8;session=live_stream_1342
-#EXTINF:-1 tvg-name="Hillsborough County TV HTV (Hillsborough County FL) (360p)" group-title="Legislative",Hillsborough County TV HTV (Hillsborough County FL) (360p)
-https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/hillsboroughcounty/G2155_002/playlist.m3u8
-#EXTINF:-1 tvg-name="HTV 1 Houston Television" group-title="Legislative",HTV 1 Houston Television
-https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8
-#EXTINF:-1 tvg-name="HTV 2 Houston Television" group-title="Legislative",HTV 2 Houston Television
-https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8
 #EXTINF:-1 tvg-name="Huntington Beach TV Channel 3" group-title="General",Huntington Beach TV Channel 3
 https://reflect-huntingtonbeach.cablecast.tv/live-4/live/stream-1/live.m3u8
-#EXTINF:-1 tvg-name="Jacksonville Onslow Government Television (G10TV) (Jacksonville NC)" group-title="Legislative",Jacksonville Onslow Government Television (G10TV) (Jacksonville NC)
-https://reflect-jacksonville.cablecast.tv/live-8/live/live.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Travel",Journy" group-title="Travel",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Travel",Journy
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/journy/playlist.m3u8?ads.vf=QFdKH3fCQ5m
 #EXTINF:-1 tvg-name="KABC-DT1 (360p)" group-title="General",KABC-DT1 (360p)
 https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
-#EXTINF:-1 tvg-name="KBRI Brighton Channel 8 (Brighton CO)" group-title="Legislative",KBRI Brighton Channel 8 (Brighton CO)
-https://brightonco.cablecast.tv/live-4/live/live.m3u8
 #EXTINF:-1 tvg-name="KCBS-DT1" group-title="General",KCBS-DT1
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
 #EXTINF:-1 tvg-name="KDFW-DT1" group-title="General",KDFW-DT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8
-#EXTINF:-1 tvg-name="Kern County Television" group-title="Legislative",Kern County Television
-https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/kern/G0169_003/playlist.m3u8
 #EXTINF:-1 tvg-name="KIRO-DT1" group-title="General",KIRO-DT1
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-name="KITV 4 Island News" group-title="General",KITV 4 Island News
@@ -729,26 +651,14 @@ http://104.238.205.28:9090/278661_.m3u8
 https://d368vp0qqzvkid.cloudfront.net/11603/88889706/hls/master.m3u8?ads.xumo_channelId=88889706a&ads.xumo_ifaType=&ads.xumo_providerId=3831&ads.xumo_providerName=NBCNDAL
 #EXTINF:-1 tvg-name="KZTV-DT1" group-title="General",KZTV-DT1
 https://content.uplynk.com/channel/d1f868588ae5476dadaeff450170a183.m3u8
-#EXTINF:-1 tvg-name="LA CityView 35" group-title="Legislative",LA CityView 35
-https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-name="Lakewood CityTV" group-title="General",Lakewood CityTV
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/lakewood/live/ch1/video.m3u8
 #EXTINF:-1 tvg-name="Latino Channel TV" group-title="General",Latino Channel TV
 https://cdn.vegasplus.us/vegas/latch/playlist.m3u8
 #EXTINF:-1 tvg-name="Lawndale City TV" group-title="General",Lawndale City TV
 https://reflect-live-lawndale.cablecast.tv/live-4/live/live.m3u8
-#EXTINF:-1 tvg-name="Leesburg Lakefront TV (Leesburg FL)" group-title="Legislative",Leesburg Lakefront TV (Leesburg FL)
-https://reflect-lakefront-leesburgflorida.cablecast.tv/live-6/live/live.m3u8
-#EXTINF:-1 tvg-name="Leominster TV Government" group-title="Legislative",Leominster TV Government
-https://livestream.telvue.com/leominster3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Leominster TV Public" group-title="General",Leominster TV Public
 https://livestream.telvue.com/leominster1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Lex TV" group-title="Legislative",Lex TV
-https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/lfucg/G0264_005/playlist.m3u8
-#EXTINF:-1 tvg-name="LGTV" group-title="Legislative",LGTV
-https://livestream.telvue.com/lexmedia3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia3/stream1/playlist.m3u8
-#EXTINF:-1 tvg-name="LHCAZTV" group-title="Legislative",LHCAZTV
-https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8
 #EXTINF:-1 tvg-name="Little Guyana TV" group-title="General",Little Guyana TV
 https://video1.getstreamhosting.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-name="Littleton 8 TV (Littleton CO)" group-title="General",Littleton 8 TV (Littleton CO)
@@ -757,40 +667,24 @@ https://ch8.littletongov.org/live-2/live/live.m3u8
 https://livestream.telvue.com/lompoccmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Lompoc TAP TV Channel 25" group-title="General",Lompoc TAP TV Channel 25
 https://livestream.telvue.com/lompoccmttv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Long Beach Television" group-title="Legislative",Long Beach Television
-https://edge-f.swagit.com/live/longbeachca/live-3-a/playlist.m3u8
 #EXTINF:-1 tvg-name="Loveland TV (Loveland CO)" group-title="General",Loveland TV (Loveland CO)
 https://reflect-cityofloveland-co.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-name="LPTV" group-title="General",LPTV
 https://livestream.telvue.com/lexmedia1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia1/stream1/playlist.m3u8
-#EXTINF:-1 tvg-name="Martin County MCTV (Martin County FL)" group-title="Legislative",Martin County MCTV (Martin County FL)
-https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playlist.m3u8
 #EXTINF:-1 tvg-name="MBC 1 USA [Geo-blocked]" group-title="General",MBC 1 USA [Geo-blocked]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
 #EXTINF:-1 tvg-name="MBC Masr USA" group-title="General",MBC Masr USA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
 #EXTINF:-1 tvg-name="MCN6" group-title="Entertainment;General",MCN6
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
-#EXTINF:-1 tvg-name="Miami Beach Tv (MBTV) (Miami Beach FL)" group-title="Legislative",Miami Beach Tv (MBTV) (Miami Beach FL)
-https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8
-#EXTINF:-1 tvg-name="Midpen Media Center Government etc Channel 29" group-title="Legislative",Midpen Media Center Government etc Channel 29
-https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Millbrae Community Television" group-title="General",Millbrae Community Television
 https://685c08ed6d81a.streamlock.net/live/mp4:MCTV_aac/playlist.m3u8
-#EXTINF:-1 tvg-name="Monroe County Television MCTV (Monroe County FL)" group-title="Legislative",Monroe County Television MCTV (Monroe County FL)
-https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8
-#EXTINF:-1 tvg-name="Moorpark Government Channel (360p)" group-title="Legislative",Moorpark Government Channel (360p)
-https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/moorpark/G0086_003/playlist.m3u8
 #EXTINF:-1 tvg-name="MRVTV Channel 44" group-title="General",MRVTV Channel 44
 https://livestream.telvue.com/madrivervalleytv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="MRVTV Channel 45" group-title="General",MRVTV Channel 45
 https://livestream.telvue.com/madrivervalleytv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Nashua GTV Channel 16 Nashua NH" group-title="Legislative",Nashua GTV Channel 16 Nashua NH
-https://livestream.telvue.com/nashuanh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="NAT TV" group-title="General",NAT TV
 https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Natick Government Channel" group-title="Legislative",Natick Government Channel
-https://livestream.telvue.com/natickpegasus3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Natick Public Access Channel" group-title="General",Natick Public Access Channel
 https://livestream.telvue.com/natickpegasus2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="NBC 3 Las Vegas NV (KSNV)" group-title="General",NBC 3 Las Vegas NV (KSNV)
@@ -805,16 +699,12 @@ https://aegis-cloudfront-1.tubi.video/d5f0543d-5f83-4a69-ba01-c5a68f0c09a1/playl
 https://aegis-cloudfront-1.tubi.video/8e6af50d-76df-4208-ab8d-3ff8f512cd38/playlist.m3u8
 #EXTINF:-1 tvg-name="NBC West (San Diego)" group-title="General",NBC West (San Diego)
 https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
-#EXTINF:-1 tvg-name="NCM Government & Politics" group-title="Legislative",NCM Government & Politics
-https://reflect-npa.cablecast.tv/live-8/live/live.m3u8
 #EXTINF:-1 tvg-name="NCM Main Channel" group-title="General",NCM Main Channel
 https://reflect-npa.cablecast.tv/live-6/live/live.m3u8
 #EXTINF:-1 tvg-name="New Canaan Television 79 (NCTV79) (New Canaan CT)" group-title="General",New Canaan Television 79 (NCTV79) (New Canaan CT)
 https://livestream.telvue.com/nctv791/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Newport Beach Television" group-title="Legislative",Newport Beach Television
-https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/newportbeach/G0064_003/playlist.m3u8
-#EXTINF:-1 tvg-name="North Miami Beach TV (NMBTV) (North Miami Beach FL)" group-title="Legislative",North Miami Beach TV (NMBTV) (North Miami Beach FL)
-https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/citynmb/G2044_002/playlist.m3u8
+#EXTINF:-1 tvg-name="NOTV New Orleans TV" group-title="Travel",NOTV New Orleans TV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 #EXTINF:-1 tvg-name="NTD TV" group-title="General",NTD TV
 https://live.ntdtv.com/live900/playlist.m3u8
 #EXTINF:-1 tvg-name="NTD TV English" group-title="General;News",NTD TV English
@@ -823,14 +713,8 @@ https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist
 https://live.ntdtv.com/uwlive990/playlist.m3u8
 #EXTINF:-1 tvg-name="Oceanside Community Television (KOCT) Community Channel 18" group-title="General",Oceanside Community Television (KOCT) Community Channel 18
 https://securestream10.champds.com/LIVE/KOCTCALIVE/KOCTCALIVE.m3u8
-#EXTINF:-1 tvg-name="Olelo Community Media Channel 49" group-title="Legislative",Olelo Community Media Channel 49
-https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_009/playlist.m3u8
-#EXTINF:-1 tvg-name="Olelo Community Media Channel 54" group-title="Legislative",Olelo Community Media Channel 54
-https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_012/playlist.m3u8
 #EXTINF:-1 tvg-name="Ontario Public Access Channel (360p)" group-title="General",Ontario Public Access Channel (360p)
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/ontarioca/G2446_002/playlist.m3u8
-#EXTINF:-1 tvg-name="Orange Government Access TV (Orange CT)" group-title="Legislative",Orange Government Access TV (Orange CT)
-https://livestream.telvue.com/ogat1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="P3TV" group-title="General",P3TV
 https://5790d294af2dc.streamlock.net/8042/8042/playlist.m3u8
 #EXTINF:-1 tvg-name="Pacific Coast TV HMB Coastside Channel 27" group-title="General",Pacific Coast TV HMB Coastside Channel 27
@@ -839,38 +723,24 @@ https://livestream.telvue.com/pacificaca1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/p
 https://livestream.telvue.com/pacificaca2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Pacific Island Network" group-title="General",Pacific Island Network
 https://cdn.vegasplus.us/vegas/mpin/playlist.m3u8
-#EXTINF:-1 tvg-name="Palm Beach County TV Channel 20 (Palm Beach County FL)" group-title="Legislative",Palm Beach County TV Channel 20 (Palm Beach County FL)
-https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8
+#EXTINF:-1 tvg-name="Palm Beaches TV" group-title="Travel",Palm Beaches TV
+https://live.feed.thepalmbeaches.tv/index.m3u8
 #EXTINF:-1 tvg-name="Pars TV" group-title="General",Pars TV
 https://parshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Pasco TV (Pasco County FL) (480p)" group-title="Legislative",Pasco TV (Pasco County FL) (480p)
-https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8
 #EXTINF:-1 tvg-name="Payam-e-Afghan TV (480p)" group-title="General",Payam-e-Afghan TV (480p)
 https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
 #EXTINF:-1 tvg-name="PBC Tapesh TV" group-title="General",PBC Tapesh TV
 https://iptv.tapesh.tv/tapesh/playlist.m3u8
 #EXTINF:-1 tvg-name="PhillyCAM" group-title="General",PhillyCAM
 https://livestream.telvue.com/phillycam1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="PHLgovTV" group-title="Legislative",PHLgovTV
-https://livestream.telvue.com/ctyphiladelphia1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="PHXTV" group-title="Legislative",PHXTV
-https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_006/playlist.m3u8
-#EXTINF:-1 tvg-name="Pinole Community Television (PCTV) Channel 26 (Pinole CA) (480p)" group-title="Legislative",Pinole Community Television (PCTV) Channel 26 (Pinole CA) (480p)
-https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_004/playlist.m3u8
 #EXTINF:-1 tvg-name="Pinole Community Television (PCTV) Channel 28 (Pinole CA) (480p)" group-title="General",Pinole Community Television (PCTV) Channel 28 (Pinole CA) (480p)
 https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_002/playlist.m3u8
-#EXTINF:-1 tvg-name="Pompano Beach Web Streaming (Pompano Beach FL)" group-title="Legislative",Pompano Beach Web Streaming (Pompano Beach FL)
-https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/pompano/G0765_005/playlist.m3u8
-#EXTINF:-1 tvg-name="Port St Lucie PSL TV (Port St Lucie FL) (360p)" group-title="Legislative",Port St Lucie PSL TV (Port St Lucie FL) (360p)
-https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/psl/G0262_003/playlist.m3u8
 #EXTINF:-1 tvg-name="PVS TV" group-title="General",PVS TV
 https://2-fss-1.streamhoster.com/pl_122/202676-1357858-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio y Televisión Martí" group-title="General",Radio y Televisión Martí
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
 #EXTINF:-1 tvg-name="Rancho Cucamonga RCTV3 (Rancho Cucamonga CA) (480p)" group-title="General",Rancho Cucamonga RCTV3 (Rancho Cucamonga CA) (480p)
 https://vod.cityofrc.us/live-6/live/stream-1/live.m3u8
-#EXTINF:-1 tvg-name="Rocky Hill Government Access Channel 16 (480p)" group-title="Legislative",Rocky Hill Government Access Channel 16 (480p)
-https://securestream9.champds.com/LIVE/RockyHillCTLIVE/RockyHillCTLIVE.m3u8
 #EXTINF:-1 tvg-name="RTH-TV1" group-title="General",RTH-TV1
 https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4203440/playlist.m3u8
 #EXTINF:-1 tvg-name="RVTV Civic" group-title="General",RVTV Civic
@@ -881,12 +751,8 @@ https://livestream.telvue.com/roguevalleycmttv4/f7b44cfafd5c52223d5498196c8a2e7b
 https://livestream.telvue.com/roguevalleycmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="RVTV Voices" group-title="General",RVTV Voices
 https://livestream.telvue.com/roguevalleycmttv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Santa Maria Community Television Government Channel" group-title="Legislative",Santa Maria Community Television Government Channel
-https://livestream.telvue.com/santamariactv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Santa Maria Community Television Public Access Channel" group-title="General",Santa Maria Community Television Public Access Channel
 https://livestream.telvue.com/santamariactv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Santa Monica City TV 20 (Santa Monica CA) (360p)" group-title="Legislative",Santa Monica City TV 20 (Santa Monica CA) (360p)
-https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8
 #EXTINF:-1 tvg-name="SCVTV (Santa Clarita CA)" group-title="General",SCVTV (Santa Clarita CA)
 https://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:-1 tvg-name="Sent TV Global Network Atlanta (SGTN-49)" group-title="General",Sent TV Global Network Atlanta (SGTN-49)
@@ -897,18 +763,10 @@ https://reflect-bayarea.cablecast.tv/live-5/live/live.m3u8
 https://reflect-bayarea.cablecast.tv/live-6/live/live.m3u8
 #EXTINF:-1 tvg-name="SFGovTV2 San Francisco The City Channel" group-title="General",SFGovTV2 San Francisco The City Channel
 https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_050/playlist.m3u8
-#EXTINF:-1 tvg-name="SFGovTV San Francisco The Government Channel" group-title="Legislative",SFGovTV San Francisco The Government Channel
-https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_048/playlist.m3u8
-#EXTINF:-1 tvg-name="SGTV (Seminole County FL)" group-title="Legislative",SGTV (Seminole County FL)
-https://live.seminolecountyfl.gov/live-2/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-name="Shout! TV" group-title="General",Shout! TV
 https://d1s1wrpgemt9re.cloudfront.net/Shout_TV.m3u8
 #EXTINF:-1 tvg-name="Sound View Community Media Education (480p)" group-title="General",Sound View Community Media Education (480p)
 https://livestream.telvue.com/soundviewcmt2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="St. Pete TV (SPTV) (St Petersburg FL) (360p)" group-title="Legislative",St. Pete TV (SPTV) (St Petersburg FL) (360p)
-https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_003/playlist.m3u8
-#EXTINF:-1 tvg-name="Stockton GovTV (Stockton CA)" group-title="Legislative",Stockton GovTV (Stockton CA)
-https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8
 #EXTINF:-1 tvg-name="Tampa Bay Communnity Network TBCN (Tampa Bay FL) (480p)" group-title="General",Tampa Bay Communnity Network TBCN (Tampa Bay FL) (480p)
 https://reflect-tampa-bay-community.cablecast.tv/live-16/live/live.m3u8
 #EXTINF:-1 tvg-name="Tele Pam" group-title="General",Tele Pam
@@ -917,14 +775,10 @@ https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8
 https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
 #EXTINF:-1 tvg-name="The Library Channel TV18 (360p)" group-title="General",The Library Channel TV18 (360p)
 https://reflect-memphis.cablecast.tv/live-2/live/live.m3u8
-#EXTINF:-1 tvg-name="Thornton Government Access Channel 17 (Thornton CO)" group-title="Legislative",Thornton Government Access Channel 17 (Thornton CO)
-https://reflect-thornton.cablecast.tv/live-4/live/live.m3u8
 #EXTINF:-1 tvg-name="Torrance CitiCABLE (Torrance CA) (360p)" group-title="General",Torrance CitiCABLE (Torrance CA) (360p)
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/torrance/G0057_005/playlist.m3u8
 #EXTINF:-1 tvg-name="Traverse Area Community Media CommunityTV Channel 189 (Traverse City MI) [Geo-blocked]" group-title="General",Traverse Area Community Media CommunityTV Channel 189 (Traverse City MI) [Geo-blocked]
 https://reflect-tacm.cablecast.tv/live-3/live/live.m3u8
-#EXTINF:-1 tvg-name="TV4 (360p)" group-title="Legislative",TV4 (360p)
-https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/bullheadcity/G0860_002/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Daja" group-title="General",TV Daja
 https://edge.essastream.com/dajatv/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Hispanic" group-title="General",TV Hispanic
@@ -937,6 +791,8 @@ https://cloud5.livescast.com:19360/canaltvquisqueya/canaltvquisqueya.m3u8
 https://rpn.bozztv.com/gusa/gusa-tvsselect/index.m3u8
 #EXTINF:-1 tvg-name="TVS Television Network (480p)" group-title="General",TVS Television Network (480p)
 https://rpn.bozztv.com/gusa/gusa-tvstn/index.m3u8
+#EXTINF:-1 tvg-name="TVS Travel Network" group-title="Travel",TVS Travel Network
+https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8
 #EXTINF:-1 tvg-name="Vallejo Community Access Television (V-CAT) (Vallejo CA) (480p)" group-title="General",Vallejo Community Access Television (V-CAT) (Vallejo CA) (480p)
 https://vallejo.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-name="Valley Shore Community Television (VSCTV) (Clinton CT)" group-title="General",Valley Shore Community Television (VSCTV) (Clinton CT)
@@ -953,22 +809,10 @@ https://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist
 https://vdopanel.jlahozconsulting.com:3407/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="WCOT 13 (Tallahassee FL)" group-title="General",WCOT 13 (Tallahassee FL)
 https://stream.talgov.net/WCOT/smil:WCOT.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Whittier CityTV (Whittier CA)" group-title="Legislative",Whittier CityTV (Whittier CA)
-https://whittier.cablecast.tv/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-name="WHPS Detroit" group-title="General",WHPS Detroit
 https://f-tx-edge-87.christianworldmedia.com/313watkins/mp4:313watkins/playlist.m3u8
 #EXTINF:-1 tvg-name="WITN 22 (Wilmington DE)" group-title="General",WITN 22 (Wilmington DE)
 https://witn.cablecast.tv/live-4/live/live.m3u8
-#EXTINF:-1 tvg-name="Wolcott Governmental TV (Wolcott CT)" group-title="Legislative",Wolcott Governmental TV (Wolcott CT)
-https://5a5c57d042315.streamlock.net/live11704001/ngrp:government_all/playlist.m3u8
-#EXTINF:-1 tvg-name="YouDotGov" group-title="Legislative",YouDotGov
-https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8
-#EXTINF:-1 tvg-name="Yuma77" group-title="Legislative",Yuma77
-https://securestream10.champds.com/LIVE/YumaCoAZLIVE/YumaCoAZLIVE.m3u8
-#EXTINF:-1 tvg-name="Yuma AZ CH 72" group-title="Legislative",Yuma AZ CH 72
-https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Yuma AZ CH 73" group-title="Legislative",Yuma AZ CH 73
-https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Zarin TV" group-title="General",Zarin TV
 https://fl1002.bozztv.com/gf-zarintv/index.m3u8
 #EXTINF:-1 tvg-name="3sat [Geo-blocked]" group-title="General",3sat [Geo-blocked]
@@ -1055,14 +899,6 @@ https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
 http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
 #EXTINF:-1 tvg-name="OK-TV Ludwigshafen [Geo-blocked]" group-title="General",OK-TV Ludwigshafen [Geo-blocked]
 https://s.ok54.de/oklu/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Parlamentsfernsehen 1" group-title="Legislative",Parlamentsfernsehen 1
-https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
-#EXTINF:-1 tvg-name="Parlamentsfernsehen 2" group-title="Legislative",Parlamentsfernsehen 2
-https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Parlamentsfernsehen 3" group-title="Legislative",Parlamentsfernsehen 3
-https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Parlamentsfernsehen 4" group-title="Legislative",Parlamentsfernsehen 4
-https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="RFH" group-title="General",RFH
 http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
 #EXTINF:-1 tvg-name="RFO" group-title="General",RFO
@@ -1123,16 +959,12 @@ https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinter.m3u8
 #EXTINF:-1 tvg-name="ici Elsass (180p)" group-title="General",ici Elsass (180p)
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/icielsass.m3u8
-#EXTINF:-1 tvg-name="LCP [Geo-Blocked]" group-title="Legislative",LCP [Geo-Blocked]
-https://viamotionhsi.netplus.ch/live/eds/lcp/browser-HLS8/lcp.m3u8
 #EXTINF:-1 tvg-name="Le Figaro IDF" group-title="General",Le Figaro IDF
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:-1 tvg-name="Men's UP TV (288p)" group-title="General",Men's UP TV (288p)
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mensuptv.m3u8
 #EXTINF:-1 tvg-name="NOVO19 [Geo-Blocked]" group-title="General",NOVO19 [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
-#EXTINF:-1 tvg-name="Public Senat 24/24" group-title="Legislative",Public Senat 24/24
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/publicsenat.m3u8
 #EXTINF:-1 tvg-name="Puissance TV" group-title="General",Puissance TV
 https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 #EXTINF:-1 tvg-name="T18" group-title="General",T18
@@ -1155,6 +987,8 @@ https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
 https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
 #EXTINF:-1 tvg-name="viàTéléPaese" group-title="General",viàTéléPaese
 https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
+#EXTINF:-1 tvg-name="Voyages & Saveurs" group-title="Lifestyle;Travel",Voyages & Saveurs
+https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
 #EXTINF:-1 tvg-name="zenith" group-title="Culture;General",zenith
 https://live.azenagroup.com/zenith/index.ll.m3u8
 #EXTINF:-1 tvg-name="7 TeleValencia (576p)" group-title="General",7 TeleValencia (576p)
@@ -1207,8 +1041,6 @@ https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m
 https://5d8d85cf2c308.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal Málaga RTV" group-title="General",Canal Málaga RTV
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal Parlamento (360p)" group-title="Legislative",Canal Parlamento (360p)
-https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="General",Canal Reus TV" group-title="General",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="General",Canal Reus TV
 https://liveingesta318.cdnmedia.tv/canalreustvlive/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal San Roque" group-title="General",Canal San Roque
@@ -1227,18 +1059,6 @@ https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8
 https://ingest1-video.streaming-pro.com/canalteABR/ctestream/playlist.m3u8
 #EXTINF:-1 tvg-name="CMM TV" group-title="General;Public",CMM TV
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8
-#EXTINF:-1 tvg-name="Congreso de los Diputados 1 (360p)" group-title="Legislative",Congreso de los Diputados 1 (360p)
-https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
-#EXTINF:-1 tvg-name="Congreso de los Diputados 2 (360p)" group-title="Legislative",Congreso de los Diputados 2 (360p)
-https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8
-#EXTINF:-1 tvg-name="Congreso de los Diputados 3 (360p)" group-title="Legislative",Congreso de los Diputados 3 (360p)
-https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8
-#EXTINF:-1 tvg-name="Congreso de los Diputados 4 (360p)" group-title="Legislative",Congreso de los Diputados 4 (360p)
-https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8
-#EXTINF:-1 tvg-name="Congreso de los Diputados 5 (360p)" group-title="Legislative",Congreso de los Diputados 5 (360p)
-https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8
-#EXTINF:-1 tvg-name="Corts Valencianes (480p)" group-title="Legislative",Corts Valencianes (480p)
-https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8
 #EXTINF:-1 tvg-name="Costa Noroeste TV" group-title="General",Costa Noroeste TV
 https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
 #EXTINF:-1 tvg-name="Cuatro" group-title="General",Cuatro
@@ -1319,10 +1139,6 @@ https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
 #EXTINF:-1 tvg-name="Onda Madrid" group-title="General",Onda Madrid
 https://tvradio-1-23-secure2.akamaized.net/master.m3u8
-#EXTINF:-1 tvg-name="Parlamento de Andalucía (576p)" group-title="Legislative",Parlamento de Andalucía (576p)
-http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8
-#EXTINF:-1 tvg-name="Parlamento de Navarra (368p)" group-title="Legislative",Parlamento de Navarra (368p)
-https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="General",Penedès Televisió" group-title="General",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="General",Penedès Televisió
 https://liveingesta318.cdnmedia.tv/rtvvilafrancalive/smil:live.smil/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-name="Pirineus TV" group-title="General",Pirineus TV
@@ -1539,8 +1355,6 @@ https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
 http://183.207.248.71/gitv/live1/G_GUIZHOU/G_GUIZHOU
 #EXTINF:-1 tvg-name="辽宁卫视" group-title="General",辽宁卫视
 http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8
-#EXTINF:-1 tvg-name="长沙政法 [Geo-blocked]" group-title="Legislative",长沙政法 [Geo-blocked]
-http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视 (2160p)" group-title="General",黑龙江卫视 (2160p)
 http://118.81.195.79:9003/hls/31/index.m3u8
 #EXTINF:-1 tvg-name="CCV (480p)" group-title="General",CCV (480p)
@@ -1639,12 +1453,14 @@ https://network10.livebox.co.in/network10hls/live.m3u8
 https://mumt02.tangotv.in/NEWS11BHARAT/index.m3u8
 #EXTINF:-1 tvg-name="NKR TV Kannada" group-title="General",NKR TV Kannada
 https://stream.ottlive.co.in/nkrtv/index.m3u8
-#EXTINF:-1 tvg-name="Sansad TV 1" group-title="Legislative",Sansad TV 1
-https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
-#EXTINF:-1 tvg-name="Sansad TV 2" group-title="Legislative",Sansad TV 2
-https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
 #EXTINF:-1 tvg-name="Starnet (480p)" group-title="General",Starnet (480p)
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
+#EXTINF:-1 tvg-name="Travelxp 4K R (2160p) [Geo-blocked]" group-title="Travel",Travelxp 4K R (2160p) [Geo-blocked]
+https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
+#EXTINF:-1 tvg-name="Travelxp [Geo-blocked]" group-title="Travel",Travelxp [Geo-blocked]
+https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-name="Travelxp Tamil (576p)" group-title="Travel",Travelxp Tamil (576p)
+http://103.72.101.252:8080/live/814.m3u8
 #EXTINF:-1 tvg-name="TV BRICS English" group-title="General",TV BRICS English
 https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
 #EXTINF:-1 tvg-name="VCV" group-title="General",VCV
@@ -1757,8 +1573,6 @@ https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&c
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-name="Alpha Channel" group-title="General",Alpha Channel
 https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal Gov" group-title="Legislative",Canal Gov
-https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-name="Canal Libras" group-title="General",Canal Libras
 https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 #EXTINF:-1 tvg-name="Canal Ricos (480p)" group-title="General",Canal Ricos (480p)
@@ -1831,18 +1645,12 @@ https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Arapuan" group-title="General",TV Arapuan
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Assembléia Ceará" group-title="Legislative",TV Assembléia Ceará
-https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Birigui (640p)" group-title="General",TV Birigui (640p)
 https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Brasil Oeste" group-title="General",TV Brasil Oeste
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-name="TV BRICS Portuguese" group-title="General",TV BRICS Portuguese
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Câmara 2" group-title="Legislative",TV Câmara 2
-https://stream3.camara.gov.br/tv2/manifest.m3u8
-#EXTINF:-1 tvg-name="TV Câmara Salvador (288p)" group-title="Legislative",TV Câmara Salvador (288p)
-https://596639ebdd89b.streamlock.net/8114/8114/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Cidade Oeste" group-title="General",TV Cidade Oeste
 https://radios.dataprimer.com.br:5443/LiveApp/streams/psuqNyPC1AW1BcUZ1573443847601.m3u8
 #EXTINF:-1 tvg-name="TV Cidade Verde" group-title="General",TV Cidade Verde
@@ -1873,6 +1681,8 @@ http://185.228.163.146:8000/play/a01y/index.m3u8
 https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Paraense" group-title="Entertainment;Family;General;News",TV Paraense
 https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
+#EXTINF:-1 tvg-name="TV Paraná Turismo" group-title="Travel",TV Paraná Turismo
+http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1 tvg-name="TV Passo Fundo" group-title="General",TV Passo Fundo
 https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Sandegi (360p)" group-title="General",TV Sandegi (360p)
@@ -1987,10 +1797,6 @@ https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist
 https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 50.1 Juárez (XEJ-TDT) (614p)" group-title="General",Canal 50.1 Juárez (XEJ-TDT) (614p)
 https://stream.oursnetworktv.com/latin/juarez50/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal del Congreso 45.1" group-title="Legislative",Canal del Congreso 45.1
-https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
-#EXTINF:-1 tvg-name="Canal Parlamento del Congreso de Jalisco" group-title="Legislative",Canal Parlamento del Congreso de Jalisco
-https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="CreaLaTV" group-title="General",CreaLaTV
 https://stream8.mexiserver.com:2000/hls/crealatv/crealatv.m3u8
 #EXTINF:-1 tvg-name="Despierta TV" group-title="General",Despierta TV
@@ -1999,14 +1805,10 @@ https://video2.lhdserver.es/despiertatv/live.m3u8
 https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8
 #EXTINF:-1 tvg-name="Expresa TV" group-title="General",Expresa TV
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="ICRTV Colima" group-title="Legislative",ICRTV Colima
-https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="IERTBCS Canal 8 La Paz" group-title="General",IERTBCS Canal 8 La Paz
 https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8
 #EXTINF:-1 tvg-name="IMRyT Morelos TV" group-title="General",IMRyT Morelos TV
 https://stream8.mexiserver.com:19360/morelostv/morelostv.m3u8
-#EXTINF:-1 tvg-name="Justicia TV" group-title="Legislative",Justicia TV
-https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 #EXTINF:-1 tvg-name="Las Estrellas" group-title="General",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-name="Mexiquense TV" group-title="General",Mexiquense TV
@@ -2051,6 +1853,8 @@ https://tv.radiohosting.online:1936/TV344/TV344/playlist.m3u8
 https://servilive.com:3263/live/channel12live.m3u8
 #EXTINF:-1 tvg-name="TELE 4 Ojocaliente" group-title="General",TELE 4 Ojocaliente
 https://stream.oursnetworktv.com/latin/encoder53/playlist.m3u8
+#EXTINF:-1 tvg-name="Turistik TV" group-title="Travel",Turistik TV
+https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Cuatro 4.1" group-title="General",TV Cuatro 4.1
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
 #EXTINF:-1 tvg-name="TV Guanajuato" group-title="General",TV Guanajuato
@@ -2141,14 +1945,6 @@ https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8
 https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8
 #EXTINF:-1 tvg-name="Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked]" group-title="General",Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
-#EXTINF:-1 tvg-name="Legislative Assembly of British Columbia" group-title="Legislative",Legislative Assembly of British Columbia
-https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-house-httpo/HouseP.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Legislative Assembly of British Columbia Committee A" group-title="Legislative",Legislative Assembly of British Columbia Committee A
-https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-dougfir-httpo/DougFirP.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Legislative Assembly of Ontario" group-title="Legislative",Legislative Assembly of Ontario
-https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
-#EXTINF:-1 tvg-name="Legislative Assembly TV Nunavut" group-title="Legislative",Legislative Assembly TV Nunavut
-http://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8
 #EXTINF:-1 tvg-name="NACTV" group-title="General",NACTV
 https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8
 #EXTINF:-1 tvg-name="Newfoundland Television (480p)" group-title="General",Newfoundland Television (480p)
@@ -2157,8 +1953,6 @@ https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 https://live.ntdtv.com/mllive860/playlist.m3u8
 #EXTINF:-1 tvg-name="NTD TV Canada West" group-title="General",NTD TV Canada West
 https://live.ntdtv.com/cwlive220/playlist.m3u8
-#EXTINF:-1 tvg-name="Ontario Parliamentary Network" group-title="Legislative",Ontario Parliamentary Network
-https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 #EXTINF:-1 tvg-name="Sohail TV" group-title="General",Sohail TV
 https://iptv.sohailtv.com/sohail/playlist/index.m3u8
 #EXTINF:-1 tvg-name="TCF TV" group-title="Culture;General",TCF TV
@@ -2201,8 +1995,6 @@ https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
 https://live.ctbperth.net.au/hls/0/stream.m3u8
 #EXTINF:-1 tvg-name="Duna World (576p)" group-title="General",Duna World (576p)
 http://146.59.85.40:89/dunaworld/index.m3u8
-#EXTINF:-1 tvg-name="Parliament TV" group-title="Legislative",Parliament TV
-https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
 #EXTINF:-1 tvg-name="TVNZ 1 [Geo-blocked]" group-title="General",TVNZ 1 [Geo-blocked]
 https://d2ce82tpc3p734.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_1/master.m3u8
 #EXTINF:-1 tvg-name="TVNZ 2 [Geo-blocked]" group-title="General",TVNZ 2 [Geo-blocked]
@@ -2261,6 +2053,8 @@ https://live.approvaltv.com/approvaltv/index.m3u8
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="ART Television" group-title="General",ART Television
 https://mini.allinonereborn.fun/tata.php?id=11585
+#EXTINF:-1 tvg-name="Aruba.TV" group-title="Travel",Aruba.TV
+https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8
 #EXTINF:-1 tvg-name="Asia TV" group-title="Entertainment;Family;General",Asia TV
 https://stream.asiatvnet.com/1/live/master.m3u8
 #EXTINF:-1 tvg-name="aurLife (614p)" group-title="General",aurLife (614p)
@@ -2305,8 +2099,6 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_w
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-name="BBC One Yorkshire & Lincolnshire" group-title="General",BBC One Yorkshire & Lincolnshire
 http://92.114.85.72:8000/play/a0mp
-#EXTINF:-1 tvg-name="BBC Parliament [Geo-blocked]" group-title="Legislative",BBC Parliament [Geo-blocked]
-https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-name="BBC Scotland" group-title="General",BBC Scotland
 http://92.114.85.72:8000/play/a0mf
 #EXTINF:-1 tvg-name="BBC Three" group-title="General",BBC Three
@@ -2335,6 +2127,8 @@ https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_
 https://streamer2.nexgen.bz/06-BBN/index.m3u8
 #EXTINF:-1 tvg-name="BCS StarCross TV (576p)" group-title="General",BCS StarCross TV (576p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_001/Stream/playlist.m3u8
+#EXTINF:-1 tvg-name="BHA TV" group-title="Travel",BHA TV
+https://streamer2.nexgen.bz/15-BHA/index.m3u8
 #EXTINF:-1 tvg-name="BTM TV (480p)" group-title="General",BTM TV (480p)
 https://btmug.zerocdn.org/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Bukedde TV 2 (576p)" group-title="General",Bukedde TV 2 (576p)
@@ -2367,12 +2161,18 @@ https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
 https://streamer2.nexgen.bz/07-CHANNEL7/index.m3u8
 #EXTINF:-1 tvg-name="Channel247" group-title="General",Channel247
 https://tv.localstreamgh.com/Channel247/index.m3u8
+#EXTINF:-1 tvg-name="Chile Channel" group-title="Entertainment;Travel",Chile Channel
+https://v2.tustreaming.cl/chilechannel/index.m3u8
+#EXTINF:-1 tvg-name="China Travel" group-title="Culture;Documentary;Travel",China Travel
+https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-name="CLTV 36" group-title="General",CLTV 36
 https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
 #EXTINF:-1 tvg-name="CMTv Kenya (576p)" group-title="General",CMTv Kenya (576p)
 https://goliveafrica.media:9998/live/64ede813cfe1a/index.m3u8
 #EXTINF:-1 tvg-name="CRTV (360p)" group-title="General",CRTV (360p)
 http://69.64.57.208/crtv/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Relax;Travel",DroneTV" group-title="Relax;Travel",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Relax;Travel",DroneTV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8?ads.vf=CdxJHukE0Om
 #EXTINF:-1 tvg-name="Energia TV" group-title="General",Energia TV
 https://sincerecloud.stream/loadbalancer/public/actMdyoE.m3u8
 #EXTINF:-1 tvg-name="Equinoxe TV" group-title="General",Equinoxe TV
@@ -2397,6 +2197,8 @@ https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/8424fb7f-99a9-87a
 https://goliveafrica.media:9998/live/627d06e001aaf/index.m3u8
 #EXTINF:-1 tvg-name="Ignite Television" group-title="General",Ignite Television
 https://rpn.bozztv.com/ignitelive/ignitetv/ignitetv/playlist.m3u8
+#EXTINF:-1 tvg-name="InTravel" group-title="Travel",InTravel
+https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="ITV1" group-title="General",ITV1
 http://80.194.62.172:50002/stream/channelid/95929545
 #EXTINF:-1 tvg-name="ITV2" group-title="General",ITV2
@@ -2411,8 +2213,12 @@ https://goliveafrica.media:9998/live/62f643cdca8cf/index.m3u8
 https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
 #EXTINF:-1 tvg-name="Latest TV (480p)" group-title="General",Latest TV (480p)
 https://5a0e89631aa14.streamlock.net/live/LatestTelevision/playlist.m3u8
+#EXTINF:-1 tvg-name="Living Asia Channel" group-title="Travel",Living Asia Channel
+https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Lotus Macau 720p" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Lotus Macau 720p
 https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
+#EXTINF:-1 tvg-name="Maldives TV" group-title="Travel",Maldives TV
+https://lana.psm.mv/live/mtv.m3u8
 #EXTINF:-1 tvg-name="Mashariki TV" group-title="General",Mashariki TV
 https://goliveafrica.media:9998/live/634adc0806f2b/index.m3u8
 #EXTINF:-1 tvg-name="MCI Televisión" group-title="Family;General;Movies",MCI Televisión
@@ -2443,18 +2249,6 @@ https://goliveafrica.media:9998/live/625816e585a2b/index.m3u8
 https://ntd02.akamaized.net/NTD-UK/index.m3u8
 #EXTINF:-1 tvg-name="NTV7" group-title="General",NTV7
 https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
-#EXTINF:-1 tvg-name="Oireachtas TV Committee Room 1" group-title="Legislative",Oireachtas TV Committee Room 1
-https://d33zah5htxvoxb.cloudfront.net/el/live/cr1/hls.m3u8
-#EXTINF:-1 tvg-name="Oireachtas TV Committee Room 2" group-title="Legislative",Oireachtas TV Committee Room 2
-https://d33zah5htxvoxb.cloudfront.net/el/live/cr2/hls.m3u8
-#EXTINF:-1 tvg-name="Oireachtas TV Committee Room 3" group-title="Legislative",Oireachtas TV Committee Room 3
-https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls.m3u8
-#EXTINF:-1 tvg-name="Oireachtas TV Committee Room 4" group-title="Legislative",Oireachtas TV Committee Room 4
-https://d33zah5htxvoxb.cloudfront.net/el/live/cr4/hls.m3u8
-#EXTINF:-1 tvg-name="Oireachtas TV Dáil Éireann" group-title="Legislative",Oireachtas TV Dáil Éireann
-https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls.m3u8
-#EXTINF:-1 tvg-name="Oireachtas TV Seanad Éireann" group-title="Legislative",Oireachtas TV Seanad Éireann
-https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls.m3u8
 #EXTINF:-1 tvg-name="Okey [Geo-blocked]" group-title="General",Okey [Geo-blocked]
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 #EXTINF:-1 tvg-name="ONE 31" group-title="General",ONE 31
@@ -2479,14 +2273,16 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8
 #EXTINF:-1 tvg-name="Smash TV" group-title="General",Smash TV
 https://stream.smashmalta.com:25463/live/webplayer/livestream/47.m3u8
+#EXTINF:-1 tvg-name="Space Live powered by sen" group-title="Relax;Travel",Space Live powered by sen
+https://880ca9c9341c405f83d8664a18cc7134.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1224-SPACELIVE-LG-UK/mt/lg-uk/1224/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Tanzania Safari Channel (576p)" group-title="Travel",Tanzania Safari Channel (576p)
+https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8
 #EXTINF:-1 tvg-name="Tele Haiti (1088p)" group-title="General",Tele Haiti (1088p)
 http://66.175.238.147:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/77.0.3865.90 Safari/537.36" group-title="General",Telearuba" group-title="General",like Gecko) Chrome/77.0.3865.90 Safari/537.36" group-title="General",Telearuba
 https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8
 #EXTINF:-1 tvg-name="Television Caribbean" group-title="General",Television Caribbean
 https://live.kingdom-tv.com:3545/stream/play.m3u8
-#EXTINF:-1 tvg-name="The Parliamentary Channel" group-title="Legislative",The Parliamentary Channel
-https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8
 #EXTINF:-1 tvg-name="Tshwane TV (576p)" group-title="Entertainment;Family;General",Tshwane TV (576p)
 https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TV1 (360p)" group-title="General",TV1 (360p)
@@ -2751,8 +2547,6 @@ https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
 https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
 #EXTINF:-1 tvg-name="CDN (480p)" group-title="General",CDN (480p)
 http://200.125.170.121:8000/play/a09j/index.m3u8
-#EXTINF:-1 tvg-name="CDTV" group-title="Legislative",CDTV
-http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
 #EXTINF:-1 tvg-name="CEACOM TV" group-title="General;Lifestyle;Music;News",CEACOM TV
 https://eu1.servers10.com:8081/ceacom/index.m3u8
 #EXTINF:-1 tvg-name="Ceiba Vision Canal 36" group-title="General",Ceiba Vision Canal 36
@@ -2797,6 +2591,8 @@ http://177.234.247.66:9975/ColoradosTV/index.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/playlist.m3u8
 #EXTINF:-1 tvg-name="Cosmovision [Geo-blocked]" group-title="General",Cosmovision [Geo-blocked]
 https://videohls2.cosmovision.tv/hls/sd.m3u8
+#EXTINF:-1 tvg-name="Costa Rica Channel (576p)" group-title="Culture;Travel",Costa Rica Channel (576p)
+https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-name="Coto Brus TV" group-title="General",Coto Brus TV
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
 #EXTINF:-1 tvg-name="Cotubanama TV" group-title="General",Cotubanama TV
@@ -2961,8 +2757,6 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 https://live-server.mivideo.pro:8081/latinavzla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Latina TV Internacional" group-title="General",Latina TV Internacional
 https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8
-#EXTINF:-1 tvg-name="Legislative Assembly of El Salvador" group-title="Legislative",Legislative Assembly of El Salvador
-https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 #EXTINF:-1 tvg-name="Lena TV" group-title="General",Lena TV
 https://5790d294af2dc.streamlock.net/lenaratv/lenaratv/playlist.m3u8
 #EXTINF:-1 tvg-name="LIM TV" group-title="General",LIM TV
@@ -3061,6 +2855,8 @@ https://cloudvideo.servers10.com:8081/8118/index.m3u8
 http://vcp1.myplaytv.com/oasistv/oasistv/playlist.m3u8
 #EXTINF:-1 tvg-name="Occidental TV" group-title="General",Occidental TV
 https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
+#EXTINF:-1 tvg-name="OEPM TV" group-title="Travel",OEPM TV
+https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Olanchito TV Canal 23" group-title="General",Olanchito TV Canal 23
 https://dvrfl03.bozztv.com/hondu/hondu-otvcanal23/index.m3u8
 #EXTINF:-1 tvg-name="ONDA DIGITAL" group-title="General",ONDA DIGITAL
@@ -3317,6 +3113,8 @@ http://200.125.170.122:8000/play/a0ci/index.m3u8
 https://ticsbalancer.ticsecuador.com.ec:4444/TeleSucesos/streams/UIO-HD_adaptive.m3u8
 #EXTINF:-1 tvg-name="Teletica 7 [Geo-blocked]" group-title="General",Teletica 7 [Geo-blocked]
 https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="Teletur" group-title="Travel",Teletur
+https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Teleunion" group-title="General",Teleunion
 http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8
 #EXTINF:-1 tvg-name="Teleuniverso" group-title="General",Teleuniverso
@@ -3363,6 +3161,8 @@ https://srv2.tropicalmoonmedia.com/eventostv/eventostv/playlist.m3u8
 https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
 #EXTINF:-1 tvg-name="TRV (480p)" group-title="General",TRV (480p)
 https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
+#EXTINF:-1 tvg-name="Turismo RDTV" group-title="Travel",Turismo RDTV
+https://streamunoapp.com:3086/live/telemileniolive.m3u8
 #EXTINF:-1 tvg-name="TV3 La Plata (480p)" group-title="General",TV3 La Plata (480p)
 https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="TV5Monde Latin America" group-title="General",TV5Monde Latin America
@@ -3373,8 +3173,6 @@ https://59d39900ebfb8.streamlock.net/tv10sanjuan/tv10sanjuan/playlist.m3u8
 https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
 #EXTINF:-1 tvg-name="TV Andes" group-title="General",TV Andes
 https://vcp3.myplaytv.com/tvandes/tvandes/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Camara" group-title="Legislative",TV Camara
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8
 #EXTINF:-1 tvg-name="TV Canindeyu" group-title="General",TV Canindeyu
 https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8
 #EXTINF:-1 tvg-name="TV Centro" group-title="General",TV Centro
@@ -3391,12 +3189,12 @@ https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/playlist.m3u8
 https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
 #EXTINF:-1 tvg-name="TV Higuey Digital" group-title="General",TV Higuey Digital
 https://host.streamingnation.live/p/3467/live/tvhigueylive.m3u8
-#EXTINF:-1 tvg-name="TV Legislativa" group-title="Legislative",TV Legislativa
-https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8
 #EXTINF:-1 tvg-name="TV Montana Canal 10" group-title="General",TV Montana Canal 10
 https://live20.bozztv.com/akamaissh101/ssh101/tvmontanahd/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Oasis Monay (486p)" group-title="General",TV Oasis Monay (486p)
 https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8
+#EXTINF:-1 tvg-name="TV OFF" group-title="Travel",TV OFF
+https://seo.tv.bo/tv/TV-OFF.m3u8
 #EXTINF:-1 tvg-name="TV Penol" group-title="General",TV Penol
 https://live20.bozztv.com/akamaissh101/ssh101/tvpenol2026/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Peru" group-title="General",TV Peru
@@ -3509,6 +3307,8 @@ https://dash4.antik.sk/live/test_orf_zwei_tizen/playlist.m3u8
 https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
 #EXTINF:-1 tvg-name="ORF 2 Wien" group-title="General",ORF 2 Wien
 http://79.127.207.193/ORF2/playlist.m3u8
+#EXTINF:-1 tvg-name="Schladming-Dachstein TV" group-title="Travel",Schladming-Dachstein TV
+https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Steiermark TV" group-title="General",Steiermark TV
 https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
 #EXTINF:-1 tvg-name="TV Rheintal" group-title="General",TV Rheintal
@@ -3539,8 +3339,6 @@ https://cs2.push2stream.com/CANAL3BENIN/playlist.m3u8
 https://tvlocales-live.freecaster.com/live/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8
 #EXTINF:-1 tvg-name="CEN Télévision" group-title="General",CEN Télévision
 https://strhlslb01.streamakaci.tv/cen/cen-multi/playlist.m3u8
-#EXTINF:-1 tvg-name="Chamber TV" group-title="Legislative",Chamber TV
-https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Cherifla TV (360p)" group-title="General",Cherifla TV (360p)
 http://69.64.57.208/cherifla/playlist.m3u8
 #EXTINF:-1 tvg-name="CNM TV" group-title="General",CNM TV
@@ -3667,8 +3465,6 @@ http://69.64.57.208/tvt/playlist.m3u8
 https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018.m3u8
 #EXTINF:-1 tvg-name="Walf TV (360p)" group-title="General",Walf TV (360p)
 http://69.64.57.208/walftv/playlist.m3u8
-#EXTINF:-1 tvg-name="ARTV Canal Parlamento" group-title="Legislative",ARTV Canal Parlamento
-https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal Macau Ch. 92" group-title="General",Canal Macau Ch. 92
 https://live3.tdm.com.mo/ch2/ch2.live/playlist.m3u8
 #EXTINF:-1 tvg-name="Porto Canal" group-title="General",Porto Canal
@@ -3813,8 +3609,6 @@ http://htvint.mada.ps:8889/orient/index.m3u8
 http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="HTV9 [Geo-blocked]" group-title="General;News",HTV9 [Geo-blocked]
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="Korea TV" group-title="Legislative;News",Korea TV
-https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="NH Niews" group-title="General;News",NH Niews
 https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-name="Online TV Nusantara" group-title="Culture;General;Music;News",Online TV Nusantara
@@ -3837,6 +3631,12 @@ https://stream.fomixmedia.nl/FomixTV/video.m3u8
 https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="HTV3" group-title="Entertainment;General;Series",HTV3
 https://vc.101vn.com/htv/htvcmb.php?id=2535
+#EXTINF:-1 tvg-name="Discover Pakistan" group-title="Travel",Discover Pakistan
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+#EXTINF:-1 tvg-name="Travel TV (576p)" group-title="Travel",Travel TV (576p)
+https://streamer103.neterra.tv/travel/live.m3u8
+#EXTINF:-1 tvg-name="TV Sayohi" group-title="Travel",TV Sayohi
+https://live.teleradiocom.tj/16/3m.m3u8
 #EXTINF:-1 tvg-name="A7TV" group-title="General",A7TV
 https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
 #EXTINF:-1 tvg-name="Abadan" group-title="General",Abadan
@@ -4119,8 +3919,6 @@ https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8
 https://testcam.go.ro:8080/hls/hd365.m3u8
 #EXTINF:-1 tvg-name="Hegyvidek Tv Budapest (576p)" group-title="General",Hegyvidek Tv Budapest (576p)
 https://tv.hegyvidek.hu/stream_mpeg.flv
-#EXTINF:-1 tvg-name="Hellenic Parliament TV" group-title="Legislative",Hellenic Parliament TV
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8
 #EXTINF:-1 tvg-name="Hesper TV" group-title="General",Hesper TV
 https://streamer20.multimedia.blue/Eltrona/HesperangeTV/playlist.m3u8
 #EXTINF:-1 tvg-name="Hirshabelle TV (576p)" group-title="General",Hirshabelle TV (576p)
@@ -4329,8 +4127,6 @@ https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 tvg-name="MBC Yeosu (여수 MBC)" group-title="General",MBC Yeosu (여수 MBC)
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
-#EXTINF:-1 tvg-name="MBG TV" group-title="Legislative",MBG TV
-https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="MCOT" group-title="General",MCOT
 https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Meer TV" group-title="General",Meer TV
@@ -4357,8 +4153,6 @@ https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 https://cdn4.skygo.mn/live/disk1/MNB/DASH-FTA/MNB.mpd
 #EXTINF:-1 tvg-name="Mohona TV" group-title="General",Mohona TV
 https://bozztv.com/rongo/rongo-MohonaTV/index.m3u8
-#EXTINF:-1 tvg-name="MOI TV" group-title="Legislative",MOI TV
-http://202.62.56.22:8080/hls/MOITV.m3u8
 #EXTINF:-1 tvg-name="Moldova TV" group-title="General",Moldova TV
 https://moldovatv.ro/live-tv/live.m3u8
 #EXTINF:-1 tvg-name="Móra-Net TV (576p)" group-title="General",Móra-Net TV (576p)
@@ -4367,8 +4161,6 @@ https://stream.moranettv.hu/live/index.m3u8
 https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8
 #EXTINF:-1 tvg-name="MRT 1 (480p)" group-title="General",MRT 1 (480p)
 https://s1.teve.mk/tvstanici/6/playlist.m3u8
-#EXTINF:-1 tvg-name="MRT Sobraniski kanal [Geo-blocked]" group-title="Legislative",MRT Sobraniski kanal [Geo-blocked]
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
 #EXTINF:-1 tvg-name="MRTV" group-title="General",MRTV
 https://asia.sipradius.net/cache/SEAGames4/master.m3u8
 #EXTINF:-1 tvg-name="MRTV 4" group-title="General",MRTV 4
@@ -4389,8 +4181,6 @@ https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 https://ncdn.telewebion.ir/nama/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Nasul TV" group-title="General",Nasul TV
 https://live.nasul.tv/live/stream.m3u8
-#EXTINF:-1 tvg-name="National Assembly TV" group-title="Legislative",National Assembly TV
-https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8
 #EXTINF:-1 tvg-name="National Gold TV" group-title="General",National Gold TV
 http://maxotts.maxdigitaltv.com/x-media/C170/master.m3u8
 #EXTINF:-1 tvg-name="Navo (576p)" group-title="General",Navo (576p)
@@ -4453,10 +4243,6 @@ https://onechannel.siliconweb.com/one/stream/chunks.m3u8
 https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",ONTV" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",ONTV
 https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
-#EXTINF:-1 tvg-name="Országgyűlés (Plenáris)" group-title="Legislative",Országgyűlés (Plenáris)
-http://plenaris.parlament.hu:1935/edgelive/smil:mkogyplen.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Országgyűlés (Törvényalkotási bizottság)" group-title="Legislative",Országgyűlés (Törvényalkotási bizottság)
-http://tab.parlament.hu:1935/edgelive/smil:mkogytab.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/119.0.0.0 Safari/537.36" group-title="General",ORTB TV (1080i)" group-title="General",like Gecko) Chrome/119.0.0.0 Safari/537.36" group-title="General",ORTB TV (1080i)
 https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
 #EXTINF:-1 tvg-name="Ózdi Városi TV" group-title="General",Ózdi Városi TV
@@ -4465,10 +4251,6 @@ http://stream.nmih.hu:7980/live.m3u8
 http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="Pannon RTV (648p)" group-title="General",Pannon RTV (648p)
 https://stream.nmih.hu:4102/live.m3u8
-#EXTINF:-1 tvg-name="Parliament of Malta" group-title="Legislative",Parliament of Malta
-https://stream.smashmalta.com:25463/live/webplayer/livestream/23.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Legislative",Parliament TV" group-title="Legislative",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Legislative",Parliament TV
-https://cdn4.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd
 #EXTINF:-1 tvg-name="Pella TV (576p)" group-title="General",Pella TV (576p)
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 #EXTINF:-1 tvg-name="Pétange Info TV" group-title="General",Pétange Info TV
@@ -4485,8 +4267,6 @@ https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
 https://srv7.flussonic111.com/PL_POLSAT_HD/index.m3u8
 #EXTINF:-1 tvg-name="Pos TV" group-title="General",Pos TV
 http://dvrfl05.bozztv.com/gin-postv/index.m3u8
-#EXTINF:-1 tvg-name="Privesc.Eu TV (2160p)" group-title="Legislative",Privesc.Eu TV (2160p)
-https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
 #EXTINF:-1 tvg-name="PROFI 24 TV" group-title="General",PROFI 24 TV
 https://owncast-jjg42-u20330.vm.elestio.app/hls/0/stream.m3u8
 #EXTINF:-1 tvg-name="Qaraqalpaqstan" group-title="General",Qaraqalpaqstan
@@ -4515,10 +4295,6 @@ https://dvrfl06.bozztv.com/astv-djibouti/index.m3u8
 https://stream.castr.com/6358a30fa50e3ae11b6d0424/live_cbde16509c3611ed91f289dac03ffaaf/index.m3u8
 #EXTINF:-1 tvg-name="RTL Radio Web TV" group-title="General",RTL Radio Web TV
 https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
-#EXTINF:-1 tvg-name="RTM Parlimen (Dewan Negara) [Geo-blocked]" group-title="Legislative",RTM Parlimen (Dewan Negara) [Geo-blocked]
-https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
-#EXTINF:-1 tvg-name="RTM Parlimen (Dewan Rakyat) [Geo-blocked]" group-title="Legislative",RTM Parlimen (Dewan Rakyat) [Geo-blocked]
-https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 #EXTINF:-1 tvg-name="RTP Mundo [Geo-Blocked]" group-title="General",RTP Mundo [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-HLS8/rtpi.m3u8
 #EXTINF:-1 tvg-name="RTSH 1" group-title="General",RTSH 1
@@ -4531,8 +4307,6 @@ https://bozztv.com/rongo/rongo-RTV/index.m3u8
 https://ncdn.telewebion.ir/sabz/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Sampit TV" group-title="General",Sampit TV
 https://sampit-tv.siar.us/live/sampit-tv.m3u8
-#EXTINF:-1 tvg-name="Sangsad TV" group-title="Legislative",Sangsad TV
-https://bozztv.com/rongo/rongo-SangsadTV/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",SBN" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",SBN
 https://cdn4.skygo.mn/live/disk1/SBN/DASH-FTA/SBN.mpd
 #EXTINF:-1 tvg-name="SBS G1 (360p)" group-title="General",SBS G1 (360p)
@@ -4617,8 +4391,6 @@ https://cdn4.skygo.mn/live/disk1/VTV/DASH-FTA/VTV.mpd
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 #EXTINF:-1 tvg-name="Thái Nguyên TV" group-title="General",Thái Nguyên TV
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
-#EXTINF:-1 tvg-name="Thai Parliament TV" group-title="Legislative",Thai Parliament TV
-https://tv-live.tpchannel.org/live/tv.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",TM TV" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",TM TV
 https://cdn4.skygo.mn/live/disk1/TM/DASH-FTA/TM.mpd
 #EXTINF:-1 tvg-name="TM TV" group-title="General",TM TV
@@ -4685,8 +4457,6 @@ http://95.105.193.219:88/hls/tvm.m3u8
 https://dash4.antik.sk/live/test_nitricka/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Nové Zámky (486p)" group-title="General",TV Nové Zámky (486p)
 http://s1.media-planet.sk/live/novezamky/BratuMarian.m3u8
-#EXTINF:-1 tvg-name="TV NRSR" group-title="Legislative",TV NRSR
-https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Østfold" group-title="General",TV Østfold
 https://streamnorge.com:8088/hls/tvo.m3u8
 #EXTINF:-1 tvg-name="TV Pirveli" group-title="General",TV Pirveli
@@ -4735,8 +4505,6 @@ https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-dash/tvrintern
 https://tvr-tvrmoldova.cdn.zitec.com/live/tvrmoldova/main.m3u8
 #EXTINF:-1 tvg-name="TVR Moldova (1440p)" group-title="General",TVR Moldova (1440p)
 https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="TVR Parlemen" group-title="Legislative",TVR Parlemen
-http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="TVR Targu-Mures" group-title="General",TVR Targu-Mures
 https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TVR Timisoara" group-title="General",TVR Timisoara
@@ -4805,26 +4573,6 @@ https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
 #EXTINF:-1 tvg-name="TVRI Yogyakarta" group-title="General",TVRI Yogyakarta
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
-#EXTINF:-1 tvg-name="Tweede Kamer: Actualiteitenkanaal" group-title="Legislative",Tweede Kamer: Actualiteitenkanaal
-https://livestreaming.b67buv2.tweedekamer.nl/live/evenementenkanaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-#EXTINF:-1 tvg-name="Tweede Kamer: Aletta Jacobszaal" group-title="Legislative",Tweede Kamer: Aletta Jacobszaal
-https://livestreaming.b67buv2.tweedekamer.nl/live/alettajacobszaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-#EXTINF:-1 tvg-name="Tweede Kamer: Enquetezaal" group-title="Legislative",Tweede Kamer: Enquetezaal
-https://livestreaming.b67buv2.tweedekamer.nl/live/enquetezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-#EXTINF:-1 tvg-name="Tweede Kamer: Groen van Prinstererzaal" group-title="Legislative",Tweede Kamer: Groen van Prinstererzaal
-https://livestreaming.b67buv2.tweedekamer.nl/live/groenvanprinstererzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-#EXTINF:-1 tvg-name="Tweede Kamer: Max van der Stoelzaal" group-title="Legislative",Tweede Kamer: Max van der Stoelzaal
-https://livestreaming.b67buv2.tweedekamer.nl/live/maxvanderstoelzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-#EXTINF:-1 tvg-name="Tweede Kamer: Plenaire zaal" group-title="Legislative",Tweede Kamer: Plenaire zaal
-https://livestreaming.b67buv2.tweedekamer.nl/live/plenairezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-#EXTINF:-1 tvg-name="Tweede Kamer: Suze Groenewegzaal" group-title="Legislative",Tweede Kamer: Suze Groenewegzaal
-https://livestreaming.b67buv2.tweedekamer.nl/live/suzegroenewegzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-#EXTINF:-1 tvg-name="Tweede Kamer: Thorbeckezaal" group-title="Legislative",Tweede Kamer: Thorbeckezaal
-https://livestreaming.b67buv2.tweedekamer.nl/live/thorbeckezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-#EXTINF:-1 tvg-name="Tweede Kamer: Troelstrazaal" group-title="Legislative",Tweede Kamer: Troelstrazaal
-https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-#EXTINF:-1 tvg-name="Tweede Kamer: Wttewaall van Stoetwegenzaal" group-title="Legislative",Tweede Kamer: Wttewaall van Stoetwegenzaal
-https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",UBS" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",UBS
 https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd
 #EXTINF:-1 tvg-name="Vokta TV" group-title="General",Vokta TV
@@ -4893,8 +4641,6 @@ http://liveh12.vtvprime.vn/hls/HTV2/03.m3u8
 https://cdn.vegasplus.us/vegas/lasvegastonight/playlist.m3u8
 #EXTINF:-1 tvg-name="Monroe Community Media Public Access Channel" group-title="General",Monroe Community Media Public Access Channel
 https://reflect-monroe-public-access.cablecast.tv/live-3/live/live.m3u8
-#EXTINF:-1 tvg-name="City of Monroe Government Channel" group-title="Legislative",City of Monroe Government Channel
-https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8
 #EXTINF:-1 tvg-name="JOEX-DTV" group-title="General",JOEX-DTV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06
 #EXTINF:-1 tvg-name="Hebei TV (2160p)" group-title="General",Hebei TV (2160p)
@@ -5137,10 +4883,6 @@ https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8
 https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8
 #EXTINF:-1 tvg-name="Telelima" group-title="General",Telelima
 https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8
-#EXTINF:-1 tvg-name="EBS" group-title="Legislative",EBS
-https://streams.prd.commavservices.eu/live/ebs/index.m3u8
-#EXTINF:-1 tvg-name="EBS Plus" group-title="Legislative",EBS Plus
-https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
 #EXTINF:-1 tvg-name="Willax TV" group-title="General",Willax TV
 https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/playlist.m3u8
 #EXTINF:-1 tvg-name="ACTV (504p)" group-title="General",ACTV (504p)
@@ -5417,14 +5159,8 @@ https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8
 http://88.212.15.19/live/test_orf_eins_tizen/playlist.m3u8
 #EXTINF:-1 tvg-name="Access 4 PAC" group-title="General",Access 4 PAC
 https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-16/live/stream-4/live.m3u8
-#EXTINF:-1 tvg-name="Channel 18 GAC" group-title="Legislative",Channel 18 GAC
-https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-13/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-name="Gillette Public Access Television Channel 190" group-title="General",Gillette Public Access Television Channel 190
 https://securestream11.champds.com/LIVE/GilletteWYLIVE/GilletteWYLIVE.m3u8
-#EXTINF:-1 tvg-name="Gillette Public Access Television Channel 192" group-title="Legislative",Gillette Public Access Television Channel 192
-https://securestream11.champds.com/LIVE/GilletteWYLIVE2/GilletteWYLIVE2.m3u8
-#EXTINF:-1 tvg-name="HCTV Government Channel" group-title="Legislative",HCTV Government Channel
-https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-2/live.m3u8
 #EXTINF:-1 tvg-name="HCTV Public Access Channel" group-title="General",HCTV Public Access Channel
 https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-5/live.m3u8
 #EXTINF:-1 tvg-name="Duo 3" group-title="General",Duo 3
@@ -5439,24 +5175,22 @@ https://server.asilivehd.com:3333/live/huilatvlive.m3u8
 https://acasmedia6.acangroup.org/gmstv/gmstv_output/playlist.m3u8
 #EXTINF:-1 tvg-name="SIC [Geo-blocked]" group-title="General",SIC [Geo-blocked]
 https://sic.live.impresa.pt/sic.m3u8
+#EXTINF:-1 tvg-name="Moya stikhiya" group-title="Travel",Moya stikhiya
+https://adpnetworkhd-cmd.github.io/iptv/Moyastikhiya.m3u8
 #EXTINF:-1 tvg-name="Access 19" group-title="General",Access 19
 https://reflect-montgomerycommunitymedia.cablecast.tv/live-8/live/stream-3/live.m3u8
-#EXTINF:-1 tvg-name="ATL 26" group-title="Legislative",ATL 26
-https://securestream11.champds.com/LIVE/AtlantaGALIVE/AtlantaGALIVE.m3u8
-#EXTINF:-1 tvg-name="Detroit Channel 10" group-title="Legislative",Detroit Channel 10
-https://reflect-detroit-vod.cablecast.tv/live-2/live/stream-6/live.m3u8
 #EXTINF:-1 tvg-name="Detroit Channel 21" group-title="General",Detroit Channel 21
 https://reflect-detroit-vod.cablecast.tv/live-9/live/stream-4/live.m3u8
 #EXTINF:-1 tvg-name="Detroit Channel 68" group-title="General",Detroit Channel 68
 https://reflect-detroit-vod.cablecast.tv/live-10/live/stream-5/live.m3u8
-#EXTINF:-1 tvg-name="FGTV" group-title="Legislative",FGTV
-https://securestream11.champds.com/LIVE/FultonCoGALIVE/FultonCoGALIVE.m3u8
 #EXTINF:-1 tvg-name="Montgomery Channel" group-title="General",Montgomery Channel
 https://reflect-montgomerycommunitymedia.cablecast.tv/live-11/live/stream-4/live.m3u8
 #EXTINF:-1 tvg-name="Sercem TV" group-title="Culture;General;Religious",Sercem TV
 https://canli.sercemtv.com.tr/hls/0/stream.m3u8
 #EXTINF:-1 tvg-name="Inooro TV" group-title="General",Inooro TV
 https://live-onesignal.royalmedia.co.ke/live/T-MxRsFebq6zx7k2QFMbLw.m3u8
+#EXTINF:-1 tvg-name="Jamaica Travel Channel" group-title="Travel",Jamaica Travel Channel
+https://stream-207076.castr.net/651b2d8bde8119abf5dabf19/live_2e935360c78c11eea7a2615e1a7388f3/index.m3u8
 #EXTINF:-1 tvg-name="K24" group-title="General",K24
 https://livecdn.premiumfree.tv/afxpstr/K24Backup/index.m3u8
 #EXTINF:-1 tvg-name="CVN TV" group-title="General",CVN TV
@@ -5465,8 +5199,6 @@ https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8
 https://sc3.wasidata.com/Genios2_1902/video.m3u8
 #EXTINF:-1 tvg-name="Huacho Peru TV" group-title="General",Huacho Peru TV
 https://tv.huachotv.com/stream.m3u8
-#EXTINF:-1 tvg-name="JNE TV" group-title="Legislative",JNE TV
-https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8
 #EXTINF:-1 tvg-name="Lider TV" group-title="General",Lider TV
 https://chankillo.agenciastreaming.com/lidertv/index.m3u8
 #EXTINF:-1 tvg-name="Nacional Tv Peru" group-title="General",Nacional Tv Peru
@@ -5501,6 +5233,8 @@ https://k20.usastreams.com:8081/tv8/index.m3u8
 https://servilive.com:3562/live/vav4c8z38live.m3u8
 #EXTINF:-1 tvg-name="TVenLinea" group-title="General",TVenLinea
 https://srt.tvdatta.com/tvenlinea/index.m3u8
+#EXTINF:-1 tvg-name="Vkus (576p)" group-title="Travel",Vkus (576p)
+http://178.134.1.158:8081/vkus/index.m3u8
 #EXTINF:-1 tvg-name="TELE 6" group-title="General",TELE 6
 https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="General",Antena 1" group-title="General",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="General",Antena 1
@@ -5525,8 +5259,6 @@ https://lbgo.bozztv.com/ssh101/ssh101/imagentvpotosib/playlist.m3u8
 https://mist01.homestream.fun/hls/interactivotv/index.m3u8
 #EXTINF:-1 tvg-name="Islita TV" group-title="General",Islita TV
 https://tv.arkeo.cl:1936/unetev/unetev/playlist.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Legislative",Justicia TV" group-title="Legislative",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Legislative",Justicia TV
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/justicia.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="La Exitosa TV Riberalta" group-title="General",La Exitosa TV Riberalta
 https://ares.disfrutaenlared.com:1936/exitosa/exitosa/playlist.m3u8
 #EXTINF:-1 tvg-name="As Contenidos" group-title="General",As Contenidos
@@ -5567,8 +5299,6 @@ https://istoki.tv/live/stream1/playlist.m3u8
 https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8
 #EXTINF:-1 tvg-name="PLUS Television" group-title="General",PLUS Television
 https://twitch-m3u8.bastypro112.workers.dev/plustelevisionbolivia/index.m3u8
-#EXTINF:-1 tvg-name="Congreso TV" group-title="Legislative",Congreso TV
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalelcongreso.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Fortaleza TV Cueto" group-title="General",Fortaleza TV Cueto
 https://twitch-m3u8.bastypro112.workers.dev/tvfortalezacueto/index.m3u8
 #EXTINF:-1 tvg-name="LotPlus TV" group-title="General",LotPlus TV
@@ -5627,6 +5357,8 @@ https://5eaccbab48461.streamlock.net:1936/8124/8124/playlist.m3u8
 https://v4.tustreaming.cl/sannicolastv/index.m3u8
 #EXTINF:-1 tvg-name="Teleangol" group-title="General",Teleangol
 https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Turismo Travel TV" group-title="Travel",Turismo Travel TV
+https://stmv3.voxtvhd.com.br/turismotraveltv/turismotraveltv/playlist.m3u8
 #EXTINF:-1 tvg-name="Villazon TV" group-title="General",Villazon TV
 https://twitch-m3u8.bastypro112.workers.dev/radioactiva919/index.m3u8
 #EXTINF:-1 tvg-name="50 Canale" group-title="General",50 Canale
@@ -5759,6 +5491,8 @@ http://stream.cammonitorplus.net/1798/index.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/basket_TV.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Fox West" group-title="General",Fox West
 http://stream.cammonitorplus.net/1799/index.m3u8
+#EXTINF:-1 tvg-name="KPVM AWE Plus" group-title="Lifestyle;Travel",KPVM AWE Plus
+https://2-fss-2.streamhoster.com/pl_120/206858-4404552-1/playlist.m3u8
 #EXTINF:-1 tvg-name="KPVM Prime TV25" group-title="General",KPVM Prime TV25
 https://2-fss-1.streamhoster.com/pl_122/206858-4405346-1/playlist.m3u8
 #EXTINF:-1 tvg-name="NBC" group-title="General",NBC
@@ -5779,10 +5513,14 @@ https://v1.tustreaming.cl/frecuencia1tv/index.m3u8
 https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
 #EXTINF:-1 tvg-name="Alawla TV" group-title="General",Alawla TV
 https://live.alawla.tv/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Modo Viagem" group-title="Travel",Modo Viagem
+http://45.162.231.38:7779/Modo_Viagem/index.m3u8
 #EXTINF:-1 tvg-name="Record" group-title="General",Record
 http://45.162.231.38:7779/RECORDTV/index.m3u8
 #EXTINF:-1 tvg-name="Rede TV!" group-title="General",Rede TV!
 http://45.162.231.38:7779/Rede_TV/index.m3u8
+#EXTINF:-1 tvg-name="Travel Box Brazil" group-title="Travel",Travel Box Brazil
+http://167.250.126.140:7777/TRAVELBOX-HD/index.m3u8
 #EXTINF:-1 tvg-name="Ciudad Magazine (576p)" group-title="General",Ciudad Magazine (576p)
 http://45.6.4.35/MAGAZINE/index.m3u8
 #EXTINF:-1 tvg-name="Eurochannel" group-title="General",Eurochannel
@@ -5819,8 +5557,6 @@ https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8
 https://mdstrm.com/live-stream-playlist/69b2cdf98815b9b6c48c2532.m3u8
 #EXTINF:-1 tvg-name="AZA TV" group-title="General",AZA TV
 https://tv.webmedialive.com/azatvhn/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal Congreso" group-title="Legislative",Canal Congreso
-http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8
 #EXTINF:-1 tvg-name="TVO Canal 23" group-title="General",TVO Canal 23
 http://45.167.2.101:8000/play/a0qo/index.m3u8
 #EXTINF:-1 tvg-name="Van 65 TV" group-title="General",Van 65 TV
@@ -5847,8 +5583,6 @@ https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
 http://stream.cammonitorplus.net/1753/index.m3u8
 #EXTINF:-1 tvg-name="Rede Metropole" group-title="General",Rede Metropole
 https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/metropole/index.m3u8
-#EXTINF:-1 tvg-name="TV Assembleia Piaui" group-title="Legislative",TV Assembleia Piaui
-https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
 #EXTINF:-1 tvg-name="Vivax TV" group-title="General",Vivax TV
 https://video11.logicahost.com.br/redevivaxtv/redevivaxtv/playlist.m3u8
 #EXTINF:-1 tvg-name="CFTO-DT" group-title="General",CFTO-DT
@@ -5895,8 +5629,6 @@ http://190.7.19.197:232/play/a04l/index.m3u8
 http://200.91.32.158:8080/tvpublica/index.m3u8
 #EXTINF:-1 tvg-name="Taiwan Indigenous TV" group-title="General",Taiwan Indigenous TV
 https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1 tvg-name="C-SPAN" group-title="Legislative",C-SPAN
-http://40.160.24.52/C-SPAN_HD/index.m3u8
 #EXTINF:-1 tvg-name="CW" group-title="General",CW
 http://40.160.24.52/CW/index.m3u8
 #EXTINF:-1 tvg-name="Overcomers TV" group-title="General",Overcomers TV
@@ -5909,6 +5641,8 @@ https://live-evg8.tv360.bitel.com.pe/bitel/tvempresaSRT/playlist.m3u8
 http://176.122.125.10:8080/interplus/index.m3u8
 #EXTINF:-1 tvg-name="UNIAN Serial" group-title="General",UNIAN Serial
 http://176.122.125.10:8080/unian/index.m3u8
+#EXTINF:-1 tvg-name="Fun Roads" group-title="Auto;Travel",Fun Roads
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=978
 #EXTINF:-1 tvg-name="His Glory TV" group-title="General",His Glory TV
 https://customer-6itfaqopbksp5p0q.cloudflarestream.com/3972e89fb79bf6d6dd2a16c75455087a/manifest/video.m3u8
 #EXTINF:-1 tvg-name="Shaanxi Satelital TV" group-title="General",Shaanxi Satelital TV
@@ -5985,12 +5719,14 @@ https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/redemeio/index.m3u8
 https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
 #EXTINF:-1 tvg-name="KRC TV" group-title="General",KRC TV
 https://channels.ad-ug.com/live/ch03/index.m3u8
+#EXTINF:-1 tvg-name="JOURNY TV" group-title="Travel",JOURNY TV
+https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-name="KDVR 31.1" group-title="General",KDVR 31.1
 http://stream.cammonitorplus.net/1768/index.m3u8
+#EXTINF:-1 tvg-name="Pocono Television Network" group-title="Travel",Pocono Television Network
+https://dfoiz3dv1euv7.cloudfront.net/ptnlive-s3/live1.m3u8
 #EXTINF:-1 tvg-name="RTR Planeta USA [Geo-blocked]" group-title="General",RTR Planeta USA [Geo-blocked]
 https://stream.smotrim.ru/hls/planeta_rtr_usa/playlist.m3u8?entity=channel&id=513&sign=3ac5d8e2db71ef7fc3d4becbff7512d8
-#EXTINF:-1 tvg-name="TVSA Government Channel" group-title="Legislative",TVSA Government Channel
-https://edge-f.swagit.com/live/sanantoniotx/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-name="TVSA Public Channel" group-title="General",TVSA Public Channel
 https://edge-f.swagit.com/live/sanantoniotx/live-2-a/playlist.m3u8
 #EXTINF:-1 tvg-name="DD Assam (504p)" group-title="General",DD Assam (504p)
@@ -6023,8 +5759,8 @@ https://stream.smotrim.ru/hls/planeta_rtr_sng/playlist.m3u8?entity=channel&id=51
 http://145.239.5.177/147/index.m3u8
 #EXTINF:-1 tvg-name="RTS 3" group-title="General",RTS 3
 http://145.239.5.177/224/index.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Legislative",Pershyi Zahidnyi" group-title="Legislative",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Legislative",Pershyi Zahidnyi
-http://stream.mcquack.net/246/index.m3u8
+#EXTINF:-1 tvg-name="Tochka RF" group-title="Documentary;Travel",Tochka RF
+http://stream.mcquack.net/161/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",Suspilne. Krym" group-title="General",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",Suspilne. Krym
 http://stream.mcquack.net/436/index.m3u8
 #EXTINF:-1 tvg-name="31 Kanal (576p)" group-title="General",31 Kanal (576p)
@@ -6217,6 +5953,8 @@ http://15.204.246.24:8080/eltreceHD/index.m3u8
 http://201.190.41.246:8822/play/a036/index.m3u8
 #EXTINF:-1 tvg-name="Russia RTR Asia [Geo-blocked]" group-title="General",Russia RTR Asia [Geo-blocked]
 https://stream.smotrim.ru/hls/planeta_rtr_asia/playlist.m3u8?entity=channel&id=511&sign=d1fe06cd922b67e412719536998fa43d
+#EXTINF:-1 tvg-name="DroneTV" group-title="Relax;Travel",DroneTV
+https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="SNT (480p)" group-title="General",SNT (480p)
 https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="General",Telelima" group-title="General",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="General",Telelima
@@ -6275,22 +6013,20 @@ https://vtvgolive-ott3.vtvdigital.vn/live/dongnai1tv/chunklist_2.m3u8
 https://dethich.pw/htv9/index.m3u8
 #EXTINF:-1 tvg-name="Vinh Long TV 1" group-title="General;News",Vinh Long TV 1
 https://dethich.pw/thvl1/index.m3u8
+#EXTINF:-1 tvg-name="Vinh Long TV 4" group-title="Culture;Entertainment;Sports;Travel",Vinh Long TV 4
+https://dethich.pw/thvl4/index.m3u8
 #EXTINF:-1 tvg-name="Albanian TV America" group-title="General",Albanian TV America
 http://5.254.89.106/8711/index.m3u8
 #EXTINF:-1 tvg-name="Nandighosha TV (576p)" group-title="General",Nandighosha TV (576p)
 https://mumt05.tangotv.in/87NeALx2NANDIGHOSHATV/index.m3u8
 #EXTINF:-1 tvg-name="Alb UK TV" group-title="General",Alb UK TV
 http://5.254.89.106/8794/index.m3u8
-#EXTINF:-1 tvg-name="BATV Government Channel" group-title="Legislative",BATV Government Channel
-https://livestream.telvue.com/billerica3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="BATV Public Channel" group-title="General",BATV Public Channel
 https://livestream.telvue.com/billerica1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Best of BATV Channel" group-title="General",Best of BATV Channel
 https://livestream.telvue.com/billerica4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="JOTX-DTV" group-title="General",JOTX-DTV
 https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
-#EXTINF:-1 tvg-name="Guangxi Variety & Travel Channel" group-title="General;Travel",Guangxi Variety & Travel Channel
-http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="Kangba TV" group-title="General",Kangba TV
 http://110.185.237.164:8888/hls/30/index.m3u8
 #EXTINF:-1 tvg-name="World TV Guatemala" group-title="General",World TV Guatemala

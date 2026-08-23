@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-22 23:46:14
-# Всего каналов: 22864
-# Новых за сессию: 0
+# Обновлено: 2026-08-23 01:11:06
+# Всего каналов: 22883
+# Новых за сессию: 19
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;General;Kids
 # Каналов: 2
-# Обновлено: 2026-08-22 23:46:15
+# Обновлено: 2026-08-23 01:11:07
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="BBC Four/CBeebies [Geo-Blocked]" group-title="Animation;General;Kids",BBC Four/CBeebies [Geo-Blocked]
@@ -6912,3 +6912,11 @@ https://cdn1tlinkgo.tlink.cl/fmhkidshd/index.m3u8
 https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
 #EXTINF:-1 tvg-name="ETC TV" group-title="Animation",ETC TV
 http://cdn1tlinkgo.tlink.cl/etc/mono.m3u8
+#EXTINF:-1 tvg-name="JOTX-DTV" group-title="General",JOTX-DTV
+https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
+#EXTINF:-1 tvg-name="Guangxi Variety & Travel Channel" group-title="General;Travel",Guangxi Variety & Travel Channel
+http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="Kangba TV" group-title="General",Kangba TV
+http://110.185.237.164:8888/hls/30/index.m3u8
+#EXTINF:-1 tvg-name="World TV Guatemala" group-title="General",World TV Guatemala
+https://183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8

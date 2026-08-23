@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-22 23:46:14
-# Всего каналов: 22864
-# Новых за сессию: 0
+# Обновлено: 2026-08-23 01:11:06
+# Всего каналов: 22883
+# Новых за сессию: 19
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Kids;Religious
 # Каналов: 2
-# Обновлено: 2026-08-22 23:46:15
+# Обновлено: 2026-08-23 01:11:07
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="3ABN Kids Network" group-title="Animation;Kids;Religious",3ABN Kids Network
@@ -2630,3 +2630,9 @@ https://cdn1tlinkgo.tlink.cl/fmhkidshd/index.m3u8
 https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
 #EXTINF:-1 tvg-name="ETC TV" group-title="Animation",ETC TV
 http://cdn1tlinkgo.tlink.cl/etc/mono.m3u8
+#EXTINF:-1 tvg-name="Faith TV" group-title="Religious",Faith TV
+https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Faith Africa" group-title="Religious",Faith Africa
+https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithAfrica.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Faith UK" group-title="Religious",Faith UK
+https://faithnow-hls.secdn.net/faithnow-c-channel/play/FaithUK.smil/playlist.m3u8

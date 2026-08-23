@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-22 23:46:14
-# Всего каналов: 22864
-# Новых за сессию: 0
+# Обновлено: 2026-08-23 01:11:06
+# Всего каналов: 22883
+# Новых за сессию: 19
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General
-# Каналов: 3175
-# Обновлено: 2026-08-22 23:46:15
+# Каналов: 3178
+# Обновлено: 2026-08-23 01:11:07
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="БелРос (576p)" group-title="General",БелРос (576p)
@@ -9211,6 +9211,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.170.130.224:8000/pl
 #EXTINF:-1 tvg-name="Trece" group-title="General",Trece
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.170.130.224:8000/play/a050/index.m3u8?hls
 
+#EXTINF:-1 tvg-name="JOTX-DTV" group-title="General",JOTX-DTV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvtokyo.mov3.co/hls/tvtokyo.m3u8
+
+#EXTINF:-1 tvg-name="Kangba TV" group-title="General",Kangba TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/110.185.237.164:8888/hls/30/index.m3u8
+
+#EXTINF:-1 tvg-name="World TV Guatemala" group-title="General",World TV Guatemala
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Belarus-1" group-title="General",Belarus-1
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 
@@ -9923,3 +9932,5 @@ https://vtvgolive-ott3.vtvdigital.vn/live/dongnai1tv/chunklist_2.m3u8
 https://dethich.pw/htv9/index.m3u8
 #EXTINF:-1 tvg-name="Vinh Long TV 1" group-title="General;News",Vinh Long TV 1
 https://dethich.pw/thvl1/index.m3u8
+#EXTINF:-1 tvg-name="Guangxi Variety & Travel Channel" group-title="General;Travel",Guangxi Variety & Travel Channel
+http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
