@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-23 23:46:41
-# Всего каналов: 22906
-# Новых за сессию: 0
+# Обновлено: 2026-08-24 01:08:54
+# Всего каналов: 22922
+# Новых за сессию: 16
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Cooking;Lifestyle
 # Каналов: 17
-# Обновлено: 2026-08-23 23:46:42
+# Обновлено: 2026-08-24 01:08:55
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Food Food (576p)" group-title="Cooking;Lifestyle",Food Food (576p)
@@ -401,3 +401,5 @@ http://stream.mcquack.net/179/index.m3u8
 https://thinkkast.dpdns.org/thinkkast/bbc_lstylehd/versiglia/index.m3u8
 #EXTINF:-1 tvg-name="Ayush TV (576p)" group-title="Lifestyle",Ayush TV (576p)
 http://d1msejlow1t3l4.cloudfront.net/fta/ayushtv/playlist.m3u8
+#EXTINF:-1 tvg-name="Master Chefs Academy TV" group-title="Cooking;Education",Master Chefs Academy TV
+https://platform-iuoamc.uk/iptv/mca-tv/index.m3u8

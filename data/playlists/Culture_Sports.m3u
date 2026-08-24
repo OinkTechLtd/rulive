@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-23 23:46:41
-# Всего каналов: 22906
-# Новых за сессию: 0
+# Обновлено: 2026-08-24 01:08:54
+# Всего каналов: 22922
+# Новых за сессию: 16
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Sports
 # Каналов: 2
-# Обновлено: 2026-08-23 23:46:42
+# Обновлено: 2026-08-24 01:08:55
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="LRT Plius [Geo-blocked]" group-title="Culture;Sports",LRT Plius [Geo-blocked]
@@ -1706,3 +1706,7 @@ https://cdn1tlinkgo.tlink.cl/teletrak/index.m3u8
 https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8
 #EXTINF:-1 tvg-name="MRTV Sports" group-title="Sports",MRTV Sports
 https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
+#EXTINF:-1 tvg-name="Inter TV" group-title="Sports",Inter TV
+https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
+#EXTINF:-1 tvg-name="FightBox" group-title="Sports",FightBox
+https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8

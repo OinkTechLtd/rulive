@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-23 23:46:41
-# Всего каналов: 22906
-# Новых за сессию: 0
+# Обновлено: 2026-08-24 01:08:54
+# Всего каналов: 22922
+# Новых за сессию: 16
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Lifestyle;Music;News
 # Каналов: 1
-# Обновлено: 2026-08-23 23:46:42
+# Обновлено: 2026-08-24 01:08:55
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CEACOM TV" group-title="General;Lifestyle;Music;News",CEACOM TV
@@ -10219,3 +10219,7 @@ http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 http://110.185.237.164:8888/hls/30/index.m3u8
 #EXTINF:-1 tvg-name="World TV Guatemala" group-title="General",World TV Guatemala
 https://183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8
+#EXTINF:-1 tvg-name="WTMO-CD 31.1" group-title="News",WTMO-CD 31.1
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8
+#EXTINF:-1 tvg-name="TGCom24" group-title="News",TGCom24
+https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-23 23:46:41
-# Всего каналов: 22906
-# Новых за сессию: 0
+# Обновлено: 2026-08-24 01:08:54
+# Всего каналов: 22922
+# Новых за сессию: 16
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;News;Shop
 # Каналов: 1
-# Обновлено: 2026-08-23 23:46:42
+# Обновлено: 2026-08-24 01:08:55
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Extra ProNews (576p)" group-title="Entertainment;News;Shop",Extra ProNews (576p)
@@ -4459,3 +4459,11 @@ http://103.175.73.12:8080/live/471/master.m3u8
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Star Vijay (396p)" group-title="Entertainment",Star Vijay (396p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="WTMO-CD 31.1" group-title="News",WTMO-CD 31.1
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Entertainment",AXN White" group-title="Entertainment",like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Entertainment",AXN White
+https://onyx1.mofta1.cfd/axwhite/usergenx23rnd.m3u8
+#EXTINF:-1 tvg-name="TGCom24" group-title="News",TGCom24
+https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8
+#EXTINF:-1 tvg-name="Zodiak TV" group-title="Entertainment",Zodiak TV
+https://ranacable.duckdns.org/ZodiakTv/index.m3u8
