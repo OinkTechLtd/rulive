@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-24 23:47:28
-# Всего каналов: 22939
-# Новых за сессию: 0
+# Обновлено: 2026-08-25 01:08:26
+# Всего каналов: 22966
+# Новых за сессию: 27
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Music;Religious
 # Каналов: 1
-# Обновлено: 2026-08-24 23:47:29
+# Обновлено: 2026-08-25 01:08:27
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Ishtar TV" group-title="Culture;Music;Religious",Ishtar TV
@@ -3729,3 +3729,11 @@ https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playli
 https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithAfrica.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Faith UK" group-title="Religious",Faith UK
 https://faithnow-hls.secdn.net/faithnow-c-channel/play/FaithUK.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="ABHP TV (480p)" group-title="Religious",ABHP TV (480p)
+https://vietprocast.app/hls/abhp/index.m3u8
+#EXTINF:-1 tvg-name="Somos Entre Rios (360p)" group-title="Culture;Family;General",Somos Entre Rios (360p)
+https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8
+#EXTINF:-1 tvg-name="The Cabbin FM" group-title="Music",The Cabbin FM
+https://5f700d5b2c46f.streamlock.net/thecabinn/thecabinn/playlist.m3u8
+#EXTINF:-1 tvg-name="K100" group-title="Music",K100
+https://k100streymi.mbl.is/beint/k100/index.m3u8

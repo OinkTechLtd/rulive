@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-24 23:47:28
-# Всего каналов: 22939
-# Новых за сессию: 0
+# Обновлено: 2026-08-25 01:08:26
+# Всего каналов: 22966
+# Новых за сессию: 27
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;Music
 # Каналов: 1
-# Обновлено: 2026-08-24 23:47:29
+# Обновлено: 2026-08-25 01:08:27
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Persiana Nostalgia" group-title="Classic;Music",Persiana Nostalgia
@@ -1919,3 +1919,7 @@ https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 http://cdn1tlinkgo.tlink.cl/13rec/mono.m3u8
 #EXTINF:-1 tvg-name="TVN3" group-title="Classic",TVN3
 http://cdn1tlinkgo.tlink.cl/tvn3/mono.m3u8
+#EXTINF:-1 tvg-name="The Cabbin FM" group-title="Music",The Cabbin FM
+https://5f700d5b2c46f.streamlock.net/thecabinn/thecabinn/playlist.m3u8
+#EXTINF:-1 tvg-name="K100" group-title="Music",K100
+https://k100streymi.mbl.is/beint/k100/index.m3u8

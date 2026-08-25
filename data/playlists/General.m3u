@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-24 23:47:28
-# Всего каналов: 22939
-# Новых за сессию: 0
+# Обновлено: 2026-08-25 01:08:26
+# Всего каналов: 22966
+# Новых за сессию: 27
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General
-# Каналов: 3179
-# Обновлено: 2026-08-24 23:47:28
+# Каналов: 3181
+# Обновлено: 2026-08-25 01:08:27
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="БелРос (576p)" group-title="General",БелРос (576p)
@@ -9223,6 +9223,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/183.bozztv.com/giatv/g
 #EXTINF:-1 tvg-name="Telemundo Al Dia" group-title="General",Telemundo Al Dia
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/d3f4oii5n0oeqi.cloudfront.net/11701/88814573/hls/master.m3u8?ads.xumo_channelId=88814573
 
+#EXTINF:-1 tvg-name="Diya TV" group-title="General",Diya TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.diyatvinc.com/diya.m3u8
+
+#EXTINF:-1 tvg-name="TV-WEST" group-title="General",TV-WEST
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv-west.lg.mncdn.com/tv_west/tv_west.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Belarus-1" group-title="General",Belarus-1
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 
@@ -9937,3 +9943,5 @@ https://dethich.pw/htv9/index.m3u8
 https://dethich.pw/thvl1/index.m3u8
 #EXTINF:-1 tvg-name="Guangxi Variety & Travel Channel" group-title="General;Travel",Guangxi Variety & Travel Channel
 http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="Somos Entre Rios (360p)" group-title="Culture;Family;General",Somos Entre Rios (360p)
+https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8

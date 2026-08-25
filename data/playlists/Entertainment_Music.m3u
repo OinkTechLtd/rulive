@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-24 23:47:28
-# Всего каналов: 22939
-# Новых за сессию: 0
+# Обновлено: 2026-08-25 01:08:26
+# Всего каналов: 22966
+# Новых за сессию: 27
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Music
 # Каналов: 6
-# Обновлено: 2026-08-24 23:47:29
+# Обновлено: 2026-08-25 01:08:27
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Radio Carnaval TV" group-title="Entertainment;Music",Radio Carnaval TV
@@ -3628,3 +3628,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u
 https://onyx1.mofta1.cfd/axwhite/usergenx23rnd.m3u8
 #EXTINF:-1 tvg-name="Zodiak TV" group-title="Entertainment",Zodiak TV
 https://ranacable.duckdns.org/ZodiakTv/index.m3u8
+#EXTINF:-1 tvg-name="The Cabbin FM" group-title="Music",The Cabbin FM
+https://5f700d5b2c46f.streamlock.net/thecabinn/thecabinn/playlist.m3u8
+#EXTINF:-1 tvg-name="K100" group-title="Music",K100
+https://k100streymi.mbl.is/beint/k100/index.m3u8

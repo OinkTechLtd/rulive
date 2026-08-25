@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-24 23:47:28
-# Всего каналов: 22939
-# Новых за сессию: 0
+# Обновлено: 2026-08-25 01:08:26
+# Всего каналов: 22966
+# Новых за сессию: 27
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Sports
-# Каналов: 750
-# Обновлено: 2026-08-24 23:47:28
+# Каналов: 754
+# Обновлено: 2026-08-25 01:08:27
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CBC Sport [Geo-blocked]" group-title="Sports",CBC Sport [Geo-blocked]
@@ -2130,6 +2130,18 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/d3k8wzt41aflvx.cloudfr
 
 #EXTINF:-1 tvg-name="FightBox" group-title="Sports",FightBox
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
+
+#EXTINF:-1 tvg-name="Swerve Sports" group-title="Sports",Swerve Sports
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/linear-253.frequency.stream/dist/stirr/253/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Digi Sport 2" group-title="Sports",Digi Sport 2
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2522/index.m3u8
+
+#EXTINF:-1 tvg-name="Digi Sport 3 (576p)" group-title="Sports",Digi Sport 3 (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2524/index.m3u8
+
+#EXTINF:-1 tvg-name="Digi Sport 4" group-title="Sports",Digi Sport 4
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2538/index.m3u8
 
 #EXTINF:-1 tvg-name="Belarus-5" group-title="Sports",Belarus-5
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8

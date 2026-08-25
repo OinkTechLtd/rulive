@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-24 23:47:28
-# Всего каналов: 22939
-# Новых за сессию: 0
+# Обновлено: 2026-08-25 01:08:26
+# Всего каналов: 22966
+# Новых за сессию: 27
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Music
 # Каналов: 3
-# Обновлено: 2026-08-24 23:47:29
+# Обновлено: 2026-08-25 01:08:27
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ACW UG TV (480p)" group-title="General;Music",ACW UG TV (480p)
@@ -7613,3 +7613,13 @@ http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 http://110.185.237.164:8888/hls/30/index.m3u8
 #EXTINF:-1 tvg-name="World TV Guatemala" group-title="General",World TV Guatemala
 https://183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8
+#EXTINF:-1 tvg-name="Diya TV" group-title="General",Diya TV
+https://stream.diyatvinc.com/diya.m3u8
+#EXTINF:-1 tvg-name="Somos Entre Rios (360p)" group-title="Culture;Family;General",Somos Entre Rios (360p)
+https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8
+#EXTINF:-1 tvg-name="The Cabbin FM" group-title="Music",The Cabbin FM
+https://5f700d5b2c46f.streamlock.net/thecabinn/thecabinn/playlist.m3u8
+#EXTINF:-1 tvg-name="TV-WEST" group-title="General",TV-WEST
+https://tv-west.lg.mncdn.com/tv_west/tv_west.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="K100" group-title="Music",K100
+https://k100streymi.mbl.is/beint/k100/index.m3u8
