@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-26 16:17:27
+# Обновлено: 2026-08-26 16:54:09
 # Всего каналов: 22992
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Religious
-# Каналов: 835
-# Обновлено: 2026-08-26 16:17:28
+# Каналов: 836
+# Обновлено: 2026-08-26 16:54:10
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Спас (450p) [Geo-blocked]" group-title="Religious",Спас (450p) [Geo-blocked]
@@ -33,6 +33,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn3.wowza.com/1/WjduM
 
 #EXTINF:-1 tvg-name="Глас (576p)" group-title="Religious",Глас (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
+
+#EXTINF:-1 tvg-name="Надия/Новый канал (576p)" group-title="Religious",Надия/Новый канал (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/nadiya.home-net.com.ua/mob/mystream.m3u8
 
 #EXTINF:-1 tvg-name="3ABN Dare To Dream Network" group-title="Religious",3ABN Dare To Dream Network
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8

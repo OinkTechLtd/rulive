@@ -1,5 +1,5 @@
 #EXTM3U
-# Обновлено: 2026-08-26 16:17:27
+# Обновлено: 2026-08-26 16:54:09
 # Всего каналов: 22992
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
@@ -7,7 +7,7 @@
 
 # Категория: Movies;Religious
 # Каналов: 1
-# Обновлено: 2026-08-26 16:17:28
+# Обновлено: 2026-08-26 16:54:10
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ABN Bible Movies" group-title="Movies;Religious",ABN Bible Movies
@@ -285,6 +285,8 @@ http://89.254.128.5:22280/viasat_kino/index.m3u8
 http://89.254.128.5:22280/viasat_kino_action/index.m3u8
 #EXTINF:-1 tvg-name="Глас (576p)" group-title="Religious",Глас (576p)
 http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
+#EXTINF:-1 tvg-name="Надия/Новый канал (576p)" group-title="Religious",Надия/Новый канал (576p)
+http://nadiya.home-net.com.ua/mob/mystream.m3u8
 #EXTINF:-1 tvg-name="3ABN Dare To Dream Network" group-title="Religious",3ABN Dare To Dream Network
 https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="3ABN English" group-title="Religious",3ABN English

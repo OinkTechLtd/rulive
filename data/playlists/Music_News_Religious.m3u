@@ -1,5 +1,5 @@
 #EXTM3U
-# Обновлено: 2026-08-26 16:17:27
+# Обновлено: 2026-08-26 16:54:09
 # Всего каналов: 22992
 # Новых за сессию: 0
 # LiveM3U Scanner - автоматическое обновление
@@ -7,7 +7,7 @@
 
 # Категория: Music;News;Religious
 # Каналов: 1
-# Обновлено: 2026-08-26 16:17:28
+# Обновлено: 2026-08-26 16:54:10
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Lingkar TV" group-title="Music;News;Religious",Lingkar TV
@@ -495,6 +495,8 @@ http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
 http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
 #EXTINF:-1 tvg-name="Донбас Online" group-title="News",Донбас Online
 http://176.110.1.30:1935/live/donbasonline/playlist.m3u8
+#EXTINF:-1 tvg-name="Надия/Новый канал (576p)" group-title="Religious",Надия/Новый канал (576p)
+http://nadiya.home-net.com.ua/mob/mystream.m3u8
 #EXTINF:-1 tvg-name="Общественное Независимое Телевидение (576p)" group-title="News",Общественное Независимое Телевидение (576p)
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 #EXTINF:-1 tvg-name="Телеканал Репортер Одесса" group-title="News",Телеканал Репортер Одесса
