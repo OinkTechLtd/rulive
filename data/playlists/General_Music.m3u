@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-25 23:50:09
-# Всего каналов: 22972
-# Новых за сессию: 0
+# Обновлено: 2026-08-26 01:10:12
+# Всего каналов: 22989
+# Новых за сессию: 17
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Music
 # Каналов: 3
-# Обновлено: 2026-08-25 23:50:10
+# Обновлено: 2026-08-26 01:10:13
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ACW UG TV (480p)" group-title="General;Music",ACW UG TV (480p)
@@ -7623,3 +7623,7 @@ https://5f700d5b2c46f.streamlock.net/thecabinn/thecabinn/playlist.m3u8
 https://tv-west.lg.mncdn.com/tv_west/tv_west.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="K100" group-title="Music",K100
 https://k100streymi.mbl.is/beint/k100/index.m3u8
+#EXTINF:-1 tvg-name="Video Mix TV" group-title="Music",Video Mix TV
+https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8
+#EXTINF:-1 tvg-name="YET Max" group-title="Music",YET Max
+https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-25 23:50:09
-# Всего каналов: 22972
-# Новых за сессию: 0
+# Обновлено: 2026-08-26 01:10:12
+# Всего каналов: 22989
+# Новых за сессию: 17
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;News;Religious
 # Каналов: 1
-# Обновлено: 2026-08-25 23:50:10
+# Обновлено: 2026-08-26 01:10:13
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Lingkar TV" group-title="Music;News;Religious",Lingkar TV
@@ -4497,6 +4497,8 @@ https://live-islamtv-urdu.simplestreamcdn.com/live13/islamtv_urdu/bitrate1.isml/
 https://streaming.radiosalamjambi.com/izzahtv.m3u8
 #EXTINF:-1 tvg-name="Jaya TV (480p)" group-title="Religious",Jaya TV (480p)
 https://edge3-moblive.yuppcdn.net/drm/smil:jayamagatvdrm.smil/index.m3u8
+#EXTINF:-1 tvg-name="Joel Osteen Network" group-title="Religious",Joel Osteen Network
+https://linear-860.frequency.stream/dist/xumo/860/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="Kabbalah for the People (Israel) (504p)" group-title="Religious",Kabbalah for the People (Israel) (504p)
 https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
 #EXTINF:-1 tvg-name="Kalemeh TV" group-title="Religious",Kalemeh TV
@@ -5739,3 +5741,17 @@ https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews
 https://thor1.syndula1.cfd/ernews/usergenx6vkj8aqrnd.m3u8
 #EXTINF:-1 tvg-name="K100" group-title="Music",K100
 https://k100streymi.mbl.is/beint/k100/index.m3u8
+#EXTINF:-1 tvg-name="Greater Love TV" group-title="Religious",Greater Love TV
+https://rpn.bozztv.com/dvrfl04/itv04019/index.m3u8
+#EXTINF:-1 tvg-name="Video Mix TV" group-title="Music",Video Mix TV
+https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8
+#EXTINF:-1 tvg-name="Hosanna TV" group-title="Religious",Hosanna TV
+https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Hosanna TV Global" group-title="Religious",Hosanna TV Global
+https://ktismaservers.in:3349/live/hosannatvlive.m3u8
+#EXTINF:-1 tvg-name="Hosanna TV Hindi" group-title="Religious",Hosanna TV Hindi
+https://ktismaservers.in:3466/live/hosannattvhindhilive.m3u8
+#EXTINF:-1 tvg-name="Village TV" group-title="Religious",Village TV
+https://live.villagetv.net/villagetv/hd/index.m3u8
+#EXTINF:-1 tvg-name="YET Max" group-title="Music",YET Max
+https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8

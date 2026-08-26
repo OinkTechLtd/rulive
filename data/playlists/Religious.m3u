@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-25 23:50:09
-# Всего каналов: 22972
-# Новых за сессию: 0
+# Обновлено: 2026-08-26 01:10:12
+# Всего каналов: 22989
+# Новых за сессию: 17
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Religious
-# Каналов: 830
-# Обновлено: 2026-08-25 23:50:10
+# Каналов: 836
+# Обновлено: 2026-08-26 01:10:13
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Спас (450p) [Geo-blocked]" group-title="Religious",Спас (450p) [Geo-blocked]
@@ -1879,6 +1879,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming.radiosalamja
 #EXTINF:-1 tvg-name="Jaya TV (480p)" group-title="Religious",Jaya TV (480p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/edge3-moblive.yuppcdn.net/drm/smil:jayamagatvdrm.smil/index.m3u8
 
+#EXTINF:-1 tvg-name="Joel Osteen Network" group-title="Religious",Joel Osteen Network
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/linear-860.frequency.stream/dist/xumo/860/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Kabbalah for the People (Israel) (504p)" group-title="Religious",Kabbalah for the People (Israel) (504p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
 
@@ -2445,6 +2448,21 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/faithnow-hls.secdn.net
 
 #EXTINF:-1 tvg-name="ABHP TV (480p)" group-title="Religious",ABHP TV (480p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/vietprocast.app/hls/abhp/index.m3u8
+
+#EXTINF:-1 tvg-name="Greater Love TV" group-title="Religious",Greater Love TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rpn.bozztv.com/dvrfl04/itv04019/index.m3u8
+
+#EXTINF:-1 tvg-name="Hosanna TV" group-title="Religious",Hosanna TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Hosanna TV Global" group-title="Religious",Hosanna TV Global
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ktismaservers.in:3349/live/hosannatvlive.m3u8
+
+#EXTINF:-1 tvg-name="Hosanna TV Hindi" group-title="Religious",Hosanna TV Hindi
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ktismaservers.in:3466/live/hosannattvhindhilive.m3u8
+
+#EXTINF:-1 tvg-name="Village TV" group-title="Religious",Village TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.villagetv.net/villagetv/hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Aghapy TV" group-title="Religious",Aghapy TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
