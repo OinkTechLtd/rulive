@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-27 00:27:31
-# Всего каналов: 22992
-# Новых за сессию: 0
+# Обновлено: 2026-08-27 03:27:55
+# Всего каналов: 23012
+# Новых за сессию: 20
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;General;Music;News
 # Каналов: 1
-# Обновлено: 2026-08-27 00:27:32
+# Обновлено: 2026-08-27 03:27:56
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Online TV Nusantara" group-title="Culture;General;Music;News",Online TV Nusantara
@@ -10319,3 +10319,5 @@ https://k100streymi.mbl.is/beint/k100/index.m3u8
 https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8
 #EXTINF:-1 tvg-name="YET Max" group-title="Music",YET Max
 https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8
+#EXTINF:-1 tvg-name="Suvarna News (576p)" group-title="News",Suvarna News (576p)
+https://streams.tangotv.in/SUVARNANEWS/ORIGIN/index.m3u8

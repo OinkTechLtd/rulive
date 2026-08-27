@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-27 00:27:31
-# Всего каналов: 22992
-# Новых за сессию: 0
+# Обновлено: 2026-08-27 03:27:55
+# Всего каналов: 23012
+# Новых за сессию: 20
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment
-# Каналов: 1121
-# Обновлено: 2026-08-27 00:27:32
+# Каналов: 1127
+# Обновлено: 2026-08-27 03:27:55
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Arte [Geo-blocked]" group-title="Entertainment",Arte [Geo-blocked]
@@ -3258,6 +3258,24 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.yettelevision.com
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Entertainment",like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/onyx1.mofta1.cfd/bibi1/usergendxn09l2s6cek.m3u8
+
+#EXTINF:-1 tvg-name="Asianet" group-title="Entertainment",Asianet
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/AsianetHD.m3u8
+
+#EXTINF:-1 tvg-name="Shemaroo Umang" group-title="Entertainment",Shemaroo Umang
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Star Jalsha" group-title="Entertainment",Star Jalsha
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
+
+#EXTINF:-1 tvg-name="Star Maa" group-title="Entertainment",Star Maa
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
+
+#EXTINF:-1 tvg-name="Star Pravah" group-title="Entertainment",Star Pravah
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
+
+#EXTINF:-1 tvg-name="Vendhar TV (576p)" group-title="Entertainment",Vendhar TV (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mumt04.tangotv.in/m18aqlK4VENDHARTV/index.m3u8
 
 #EXTINF:-1 tvg-name="Belarus-2" group-title="Entertainment",Belarus-2
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
