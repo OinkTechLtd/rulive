@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-27 23:56:04
-# Всего каналов: 23012
-# Новых за сессию: 0
+# Обновлено: 2026-08-28 05:06:47
+# Всего каналов: 23026
+# Новых за сессию: 14
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Family;General
 # Каналов: 1
-# Обновлено: 2026-08-27 23:56:05
+# Обновлено: 2026-08-28 05:06:48
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Somos Entre Rios (360p)" group-title="Culture;Family;General",Somos Entre Rios (360p)
@@ -6435,3 +6435,5 @@ https://183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8
 https://stream.diyatvinc.com/diya.m3u8
 #EXTINF:-1 tvg-name="TV-WEST" group-title="General",TV-WEST
 https://tv-west.lg.mncdn.com/tv_west/tv_west.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="DaAi 2" group-title="General",DaAi 2
+http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8

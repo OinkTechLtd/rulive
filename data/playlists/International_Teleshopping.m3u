@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-27 23:56:04
-# Всего каналов: 23012
-# Новых за сессию: 0
+# Обновлено: 2026-08-28 05:06:47
+# Всего каналов: 23026
+# Новых за сессию: 14
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: International;Teleshopping
 # Каналов: 1
-# Обновлено: 2026-08-27 23:56:05
+# Обновлено: 2026-08-28 05:06:48
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Create & Craft TV" group-title="International;Teleshopping",Create & Craft TV
@@ -345,3 +345,5 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8
 #EXTINF:-1 tvg-name="SferaTV" group-title="International",SferaTV
 http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="MOMO TV" group-title="Shop",MOMO TV
+http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8

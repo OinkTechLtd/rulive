@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-27 23:56:04
-# Всего каналов: 23012
-# Новых за сессию: 0
+# Обновлено: 2026-08-28 05:06:47
+# Всего каналов: 23026
+# Новых за сессию: 14
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Religious
-# Каналов: 840
-# Обновлено: 2026-08-27 23:56:05
+# Каналов: 841
+# Обновлено: 2026-08-28 05:06:48
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Спас (450p) [Geo-blocked]" group-title="Religious",Спас (450p) [Geo-blocked]
@@ -2245,8 +2245,8 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.esteem.africa/kst
 #EXTINF:-1 tvg-name="Amazing Facts TV" group-title="Religious",Amazing Facts TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/hlspackager.akamaized.net/live/DB/AMAZING_FACTS/HLS/AMAZING_FACTS.m3u8
 
-#EXTINF:-1 tvg-name="WATC The Loop" group-title="Religious",WATC The Loop
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/tgn.bozztv.com/watc57/watc57-theloop/watc57-theloop/index.m3u8
+#EXTINF:-1 tvg-name="The Point Televsion Network" group-title="Religious",The Point Televsion Network
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tgn.bozztv.com/watc57/watc57-2/watc57-2/index.m3u8
 
 #EXTINF:-1 tvg-name="Radio Maria TV" group-title="Religious",Radio Maria TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/radiomaria.inovanex.stream/stream.m3u8
@@ -2476,6 +2476,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/mumt03.tangotv.in/Dsly
 #EXTINF:-1 tvg-name="Vedic (576p)" group-title="Religious",Vedic (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/mumt05.tangotv.in/87NeALx2VEDIC/index.m3u8
 
+#EXTINF:-1 tvg-name="Genesis Science Network" group-title="Religious",Genesis Science Network
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/2-fss-1.streamhoster.com/pl_122/amlst:206018-2645902/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Aghapy TV" group-title="Religious",Aghapy TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
 
@@ -2620,3 +2623,5 @@ http://103.175.73.12:8080/live/183/master.m3u8
 https://jtbsclassic.dpdns.org/live.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Religious",Aastha Bhajan (576p)" group-title="Religious",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Religious",Aastha Bhajan (576p)
 http://103.175.73.12:8080/live/339/master.m3u8
+#EXTINF:-1 tvg-name="Harmony Gospel Music TV" group-title="Music;Religious",Harmony Gospel Music TV
+https://tgn.bozztv.com/watc57/watc57-harmony/watc57-harmony/index.m3u8

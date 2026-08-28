@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-27 23:56:04
-# Всего каналов: 23012
-# Новых за сессию: 0
+# Обновлено: 2026-08-28 05:06:47
+# Всего каналов: 23026
+# Новых за сессию: 14
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General
-# Каналов: 3181
-# Обновлено: 2026-08-27 23:56:05
+# Каналов: 3183
+# Обновлено: 2026-08-28 05:06:48
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="БелРос (576p)" group-title="General",БелРос (576p)
@@ -9228,6 +9228,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.diyatvinc.com/d
 
 #EXTINF:-1 tvg-name="TV-WEST" group-title="General",TV-WEST
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv-west.lg.mncdn.com/tv_west/tv_west.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tele Posadas" group-title="General",Tele Posadas
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/lbgo.bozztv.com/giatv/giatv-teleposadastv/teleposadastv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="DaAi 2" group-title="General",DaAi 2
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/nmk.ioapk.com:5050/4gtv-live106/index.m3u8
 
 #EXTINF:-1 tvg-name="Belarus-1" group-title="General",Belarus-1
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8

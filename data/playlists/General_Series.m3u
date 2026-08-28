@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-27 23:56:04
-# Всего каналов: 23012
-# Новых за сессию: 0
+# Обновлено: 2026-08-28 05:06:47
+# Всего каналов: 23026
+# Новых за сессию: 14
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Series
 # Каналов: 1
-# Обновлено: 2026-08-27 23:56:05
+# Обновлено: 2026-08-28 05:06:48
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Super TV" group-title="General;Series",Super TV
@@ -6253,6 +6253,8 @@ https://cdn-dvr.ntv.ru/Shef/index.m3u8
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
 #EXTINF:-1 tvg-name="KATC 3.1" group-title="General",KATC 3.1
 http://stream.cammonitorplus.net/1753/index.m3u8
+#EXTINF:-1 tvg-name="The Loop" group-title="Classic;Series",The Loop
+https://tgn.bozztv.com/watc57/watc57-theloop/watc57-theloop/index.m3u8
 #EXTINF:-1 tvg-name="Rede Metropole" group-title="General",Rede Metropole
 https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/metropole/index.m3u8
 #EXTINF:-1 tvg-name="TNT Novelas Brazil" group-title="Series",TNT Novelas Brazil
@@ -6741,3 +6743,5 @@ https://stream.diyatvinc.com/diya.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8
 #EXTINF:-1 tvg-name="TV-WEST" group-title="General",TV-WEST
 https://tv-west.lg.mncdn.com/tv_west/tv_west.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="DaAi 2" group-title="General",DaAi 2
+http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8

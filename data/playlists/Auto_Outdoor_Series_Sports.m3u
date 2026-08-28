@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-27 23:56:04
-# Всего каналов: 23012
-# Новых за сессию: 0
+# Обновлено: 2026-08-28 05:06:47
+# Всего каналов: 23026
+# Новых за сессию: 14
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Auto;Outdoor;Series;Sports
 # Каналов: 2
-# Обновлено: 2026-08-27 23:56:05
+# Обновлено: 2026-08-28 05:06:48
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="REV'N Action" group-title="Auto;Outdoor;Series;Sports",REV'N Action
@@ -1904,6 +1904,8 @@ https://cdn-dvr.ntv.ru/Shef/index.m3u8
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
 #EXTINF:-1 tvg-name="UDAR" group-title="Sports",UDAR
 http://5.188.159.128:8070/udar/index.m3u8
+#EXTINF:-1 tvg-name="The Loop" group-title="Classic;Series",The Loop
+https://tgn.bozztv.com/watc57/watc57-theloop/watc57-theloop/index.m3u8
 #EXTINF:-1 tvg-name="TNT Novelas Brazil" group-title="Series",TNT Novelas Brazil
 http://167.250.126.140:7777/TBS-HD/index.m3u8
 #EXTINF:-1 tvg-name="Trace Sport Stars SD" group-title="Sports",Trace Sport Stars SD
