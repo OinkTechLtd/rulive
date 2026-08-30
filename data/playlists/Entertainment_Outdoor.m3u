@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-29 23:55:08
-# Всего каналов: 23036
-# Новых за сессию: 1
+# Обновлено: 2026-08-30 01:04:09
+# Всего каналов: 23065
+# Новых за сессию: 29
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Outdoor
 # Каналов: 1
-# Обновлено: 2026-08-29 23:55:09
+# Обновлено: 2026-08-30 01:04:10
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Поехали!" group-title="Entertainment;Outdoor",Поехали!
@@ -27,6 +27,10 @@ https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1 tvg-name="Vergina TV" group-title="Entertainment;News",Vergina TV
 https://verginanews.gr:8443/hls_live/stream1.m3u8
+#EXTINF:-1 tvg-name="Canale 5" group-title="Entertainment",Canale 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+#EXTINF:-1 tvg-name="Iris" group-title="Entertainment",Iris
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Gold TV Sat (576p)" group-title="Entertainment",Gold TV Sat (576p)
 https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
 #EXTINF:-1 tvg-name="Gold TV (576p)" group-title="Entertainment",Gold TV (576p)
@@ -2089,3 +2093,7 @@ https://onyx1.mofta1.cfd/bibi1/usergendxn09l2s6cek.m3u8
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/AsianetHD.m3u8
 #EXTINF:-1 tvg-name="Crime + Investigation Asia" group-title="Entertainment",Crime + Investigation Asia
 http://nmk.ioapk.com:5050/4gtv-live027/index.m3u8
+#EXTINF:-1 tvg-name="7 Gold" group-title="Entertainment",7 Gold
+https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Entertainment",MTV" group-title="Entertainment",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Entertainment",MTV
+http://42.118.247.37:9394/stream/74.m3u8

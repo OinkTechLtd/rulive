@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-29 23:55:08
-# Всего каналов: 23036
-# Новых за сессию: 1
+# Обновлено: 2026-08-30 01:04:09
+# Всего каналов: 23065
+# Новых за сессию: 29
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Family;Movies
 # Каналов: 10
-# Обновлено: 2026-08-29 23:55:09
+# Обновлено: 2026-08-30 01:04:10
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Rakuten TV Family Movies Germany" group-title="Family;Movies",Rakuten TV Family Movies Germany
@@ -40,6 +40,8 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.58/GAC_FAMIL
 #EXTINF:-1 tvg-name="Great American Family" group-title="Family;Movies",Great American Family
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.52/GREAT_AMERICAN_COUNTRY/index.m3u8
 
+#EXTINF:-1 tvg-name="Cine34" group-title="Movies",Cine34
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="FilmRise Movies" group-title="VOD Movies (EN)",FilmRise Movies
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
 #EXTINF:-1 tvg-name="FilmRise Sci-Fi" group-title="VOD Movies (EN)",FilmRise Sci-Fi
@@ -1842,3 +1844,13 @@ https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8
 https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
 #EXTINF:-1 tvg-name="Pocket Films" group-title="Movies",Pocket Films
 https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8
+#EXTINF:-1 tvg-name="Epic Bhojpuri Digital" group-title="Movies",Epic Bhojpuri Digital
+https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",Cinemax" group-title="Movies",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",Cinemax
+http://88.212.15.19/live/test_cinemax_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",Cinemax 2" group-title="Movies",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",Cinemax 2
+http://88.212.15.19/live/test_cinemax2_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Movies",Cinemax 2 Romania" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Movies",Cinemax 2 Romania
+https://cronos.mangora1.cfd/xmas2/usergendxt1v8klq6rnd.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Movies",Cinemax Romania" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Movies",Cinemax Romania
+https://cronos.mangora1.cfd/xmas1/usergendx27y41s0rnd.m3u8

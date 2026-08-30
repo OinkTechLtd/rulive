@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-29 23:55:08
-# Всего каналов: 23036
-# Новых за сессию: 1
+# Обновлено: 2026-08-30 01:04:09
+# Всего каналов: 23065
+# Новых за сессию: 29
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;Sports
 # Каналов: 1
-# Обновлено: 2026-08-29 23:55:09
+# Обновлено: 2026-08-30 01:04:10
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RTI La 3" group-title="Music;Sports",RTI La 3
@@ -3021,3 +3021,7 @@ https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8
 http://88.212.15.19/live/esp_4k_atk/playlist.m3u8
 #EXTINF:-1 tvg-name="Harmony Gospel Music TV" group-title="Music;Religious",Harmony Gospel Music TV
 https://tgn.bozztv.com/watc57/watc57-harmony/watc57-harmony/index.m3u8
+#EXTINF:-1 tvg-name="Lazio Style Channel" group-title="Sports",Lazio Style Channel
+https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Deewana (540p)" group-title="Music",Deewana (540p)
+https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
