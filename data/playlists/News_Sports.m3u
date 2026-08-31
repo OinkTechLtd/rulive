@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-08-30 23:42:44
-# Всего каналов: 23069
-# Новых за сессию: 0
+# Обновлено: 2026-08-31 01:28:27
+# Всего каналов: 23082
+# Новых за сессию: 13
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News;Sports
 # Каналов: 7
-# Обновлено: 2026-08-30 23:42:45
+# Обновлено: 2026-08-31 01:28:28
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Africa 24 Sport" group-title="News;Sports",Africa 24 Sport
@@ -3727,3 +3727,5 @@ https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/103b8dd3-a888-4d1d-89a5-8a4bc25e48c1/index.m3u8
 #EXTINF:-1 tvg-name="World Punjabi TV" group-title="News",World Punjabi TV
 https://live1.ottlive.co.in/worldpunjabitv/worldpunjabitv/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Football" group-title="Sports",Sky Sports Football
+http://188.138.29.131/skyfootball/index.m3u8
