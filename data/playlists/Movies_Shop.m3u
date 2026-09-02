@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-01 23:48:02
-# Всего каналов: 23137
-# Новых за сессию: 1
+# Обновлено: 2026-09-02 00:51:03
+# Всего каналов: 23141
+# Новых за сессию: 4
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;Shop
 # Каналов: 1
-# Обновлено: 2026-09-01 23:48:03
+# Обновлено: 2026-09-02 00:51:04
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Magnificent Movies Network" group-title="Movies;Shop",Magnificent Movies Network
@@ -1339,6 +1339,8 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
 #EXTINF:-1 tvg-name="Canal+ Cinemas" group-title="Movies",Canal+ Cinemas
 http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ Action Europe Czechia" group-title="Movies",Canal+ Action Europe Czechia
+http://151.80.18.177:86/Canal+_Family_HD/index.m3u8
 #EXTINF:-1 tvg-name="AMC Europe Bulgary" group-title="Movies",AMC Europe Bulgary
 http://45.136.153.199/AMC/mono.m3u8
 #EXTINF:-1 tvg-name="Silk Way Cinema [Geo-blocked]" group-title="Movies",Silk Way Cinema [Geo-blocked]
@@ -1713,7 +1715,7 @@ https://aes.m3u8simplu.workers.dev/procinema/index.m3u8
 https://aes.m3u8simplu.workers.dev/viasatkino/index.m3u8
 #EXTINF:-1 tvg-name="Sony Max 1" group-title="Movies",Sony Max 1
 http://103.159.180.34:5001/live/3418.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Viasat Film" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Viasat Film
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",AXN Crime" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",AXN Crime
 http://88.212.15.19/live/viasat_film/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Film+" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Film+
 http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8

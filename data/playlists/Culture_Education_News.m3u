@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-01 23:48:02
-# Всего каналов: 23137
-# Новых за сессию: 1
+# Обновлено: 2026-09-02 00:51:03
+# Всего каналов: 23141
+# Новых за сессию: 4
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Education;News
 # Каналов: 2
-# Обновлено: 2026-09-01 23:48:03
+# Обновлено: 2026-09-02 00:51:04
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="UMSA TVU LP" group-title="Culture;Education;News",UMSA TVU LP
@@ -3308,3 +3308,5 @@ https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/103b8dd3-a888-4d1d-89a5-8a4bc25e48c1/index.m3u8
 #EXTINF:-1 tvg-name="World Punjabi TV" group-title="News",World Punjabi TV
 https://live1.ottlive.co.in/worldpunjabitv/worldpunjabitv/index.m3u8
+#EXTINF:-1 tvg-name="KIIO-LD 10.1" group-title="Culture",KIIO-LD 10.1
+http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8
