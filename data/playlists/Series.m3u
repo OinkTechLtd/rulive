@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-02 23:05:16
-# Всего каналов: 23142
-# Новых за сессию: 0
+# Обновлено: 2026-09-03 00:30:48
+# Всего каналов: 23215
+# Новых за сессию: 73
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Series
-# Каналов: 438
-# Обновлено: 2026-09-02 23:05:16
+# Каналов: 441
+# Обновлено: 2026-09-03 00:30:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Смотрим Честный Детектив" group-title="Series",Смотрим Честный Детектив
@@ -1314,6 +1314,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/app.viloud.tv/hls/chan
 
 #EXTINF:-1 tvg-name="4ever Drama" group-title="Series",4ever Drama
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/260/index.m3u8
+
+#EXTINF:-1 tvg-name="Mir Seriala (576p)" group-title="Series",Mir Seriala (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test
+
+#EXTINF:-1 tvg-name="NTV-Hit (576p)" group-title="Series",NTV-Hit (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/178.134.1.158:8081/ntvhit/index.m3u8
+
+#EXTINF:-1 tvg-name="Europa Europa" group-title="Series",Europa Europa
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
 
 #EXTINF:-1 tvg-name="13 Teleseries" group-title="Series",13 Teleseries
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8

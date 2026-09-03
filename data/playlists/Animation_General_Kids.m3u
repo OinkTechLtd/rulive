@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-02 23:05:16
-# Всего каналов: 23142
-# Новых за сессию: 0
+# Обновлено: 2026-09-03 00:30:48
+# Всего каналов: 23215
+# Новых за сессию: 73
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;General;Kids
 # Каналов: 2
-# Обновлено: 2026-09-02 23:05:16
+# Обновлено: 2026-09-03 00:30:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="BBC Four/CBeebies [Geo-Blocked]" group-title="Animation;General;Kids",BBC Four/CBeebies [Geo-Blocked]
@@ -6634,7 +6634,7 @@ https://mn-nl.mncdn.com/primetv/live/index.m3u8
 https://aes.m3u8simplu.workers.dev/disneychannel/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Nickelodeon (576p)" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Nickelodeon (576p)
 https://aes.m3u8simplu.workers.dev/nickelodeon/index.m3u8
-#EXTINF:-1 tvg-name="KidOO" group-title="Animation;Kids",KidOO
+#EXTINF:-1 tvg-name="KidOO [Geo-blocked]" group-title="Animation;Kids",KidOO [Geo-blocked]
 http://15.204.246.24:8080/KidooHD/index.m3u8
 #EXTINF:-1 tvg-name="Clan" group-title="Kids;Public",Clan
 http://185.47.212.25:8080/Clan_HD/index.m3u8
@@ -6958,3 +6958,27 @@ http://stream.mcquack.net/262/index.m3u8
 http://stream.mcquack.net/271/index.m3u8
 #EXTINF:-1 tvg-name="Nevis Television" group-title="General",Nevis Television
 https://media.slactech.com:1936/NTvDirect/ngrp:NTvDirect_all/playlist.m3u8
+#EXTINF:-1 tvg-name="ETV Bal Bharat (576p)" group-title="Kids",ETV Bal Bharat (576p)
+http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
+#EXTINF:-1 tvg-name="Sony Yay! (576p)" group-title="Animation;Kids",Sony Yay! (576p)
+http://103.165.93.31:8095/sonyYay/index.m3u8
+#EXTINF:-1 tvg-name="Super Hungama (576p)" group-title="Animation;Kids",Super Hungama (576p)
+http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
+#EXTINF:-1 tvg-name="CBeebies Asia (576p)" group-title="Kids",CBeebies Asia (576p)
+http://202.70.146.135:8000/play/a0a2/index.m3u8
+#EXTINF:-1 tvg-name="Canal 5 El Lider" group-title="General",Canal 5 El Lider
+http://186.33.26.18:8000/play/a0s4/index.m3u8
+#EXTINF:-1 tvg-name="Canal 12 (576p)" group-title="General",Canal 12 (576p)
+http://186.33.26.18:8000/play/a0nw/index.m3u8
+#EXTINF:-1 tvg-name="Canal TRV (576p)" group-title="General",Canal TRV (576p)
+https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
+#EXTINF:-1 tvg-name="Morazan TV" group-title="General",Morazan TV
+http://45.167.2.138:8000/play/a0o4/index.m3u8
+#EXTINF:-1 tvg-name="Red Uno [Geo-blocked]" group-title="General",Red Uno [Geo-blocked]
+http://15.204.246.24:8080/RedUnoSCZHD/index.m3u8
+#EXTINF:-1 tvg-name="Red Uno La Paz [Geo-blocked]" group-title="General",Red Uno La Paz [Geo-blocked]
+http://15.204.246.24:8080/RedUnoLPZHD/index.m3u8
+#EXTINF:-1 tvg-name="StreamForce 360" group-title="Entertainment;General",StreamForce 360
+https://sistemastr.tropicalmoonmedia.com:443/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8
+#EXTINF:-1 tvg-name="Teletica 7" group-title="General",Teletica 7
+http://190.61.101.11:7050/play/a07t/index.m3u8

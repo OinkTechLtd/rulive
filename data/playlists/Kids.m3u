@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-02 23:05:16
-# Всего каналов: 23142
-# Новых за сессию: 0
+# Обновлено: 2026-09-03 00:30:48
+# Всего каналов: 23215
+# Новых за сессию: 73
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids
-# Каналов: 473
-# Обновлено: 2026-09-02 23:05:16
+# Каналов: 481
+# Обновлено: 2026-09-03 00:30:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Mama (576p)" group-title="Kids",Mama (576p)
@@ -1363,6 +1363,30 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/262
 #EXTINF:-1 tvg-name="Niki Kids" group-title="Kids",Niki Kids
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/271/index.m3u8
 
+#EXTINF:-1 tvg-name="Disney Channel (576p)" group-title="Kids",Disney Channel (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/202.70.146.135:8000/play/a01q/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney Channel" group-title="Kids",Disney Channel
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/66.102.126.10:8000/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-name="ETV Bal Bharat (576p)" group-title="Kids",ETV Bal Bharat (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
+
+#EXTINF:-1 tvg-name="Hungama TV (576p)" group-title="Kids",Hungama TV (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/103.185.24.134:3001/HUNGAMA/index.m3u8
+
+#EXTINF:-1 tvg-name="Nick Jr. (576p)" group-title="Kids",Nick Jr. (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/103.185.24.134:3001/NICK-JR/index.m3u8
+
+#EXTINF:-1 tvg-name="Nickelodeon (576p)" group-title="Kids",Nickelodeon (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/103.185.24.134:3001/NICK/index.m3u8
+
+#EXTINF:-1 tvg-name="Sonic (576p)" group-title="Kids",Sonic (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/103.185.24.134:3001/SONIC/index.m3u8
+
+#EXTINF:-1 tvg-name="CBeebies Asia (576p)" group-title="Kids",CBeebies Asia (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/202.70.146.135:8000/play/a0a2/index.m3u8
+
 #EXTINF:-1 tvg-name="TNT Kids (288p)" group-title="Kids",TNT Kids (288p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/restreamer1.tnt.ba/hls/tntkids.m3u8
 
@@ -1655,7 +1679,7 @@ https://aes.m3u8simplu.workers.dev/nicktoons/index.m3u8
 https://aes.m3u8simplu.workers.dev/disneychannel/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Nickelodeon (576p)" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Nickelodeon (576p)
 https://aes.m3u8simplu.workers.dev/nickelodeon/index.m3u8
-#EXTINF:-1 tvg-name="KidOO" group-title="Animation;Kids",KidOO
+#EXTINF:-1 tvg-name="KidOO [Geo-blocked]" group-title="Animation;Kids",KidOO [Geo-blocked]
 http://15.204.246.24:8080/KidooHD/index.m3u8
 #EXTINF:-1 tvg-name="Clan" group-title="Kids;Public",Clan
 http://185.47.212.25:8080/Clan_HD/index.m3u8
@@ -1701,3 +1725,7 @@ https://onyx1.mofta1.cfd/nike/usergenm24qrnd.m3u8
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidztam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-name="like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="Kids",Cine+ Kids" group-title="Kids",like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="Kids",Cine+ Kids
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNzUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI5MDYmc3Q9TUtpMWlxbmN6NGFDdjRrdmN0TkVtUQ%3D%3D&master=540
+#EXTINF:-1 tvg-name="Sony Yay! (576p)" group-title="Animation;Kids",Sony Yay! (576p)
+http://103.165.93.31:8095/sonyYay/index.m3u8
+#EXTINF:-1 tvg-name="Super Hungama (576p)" group-title="Animation;Kids",Super Hungama (576p)
+http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8

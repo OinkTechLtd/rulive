@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-02 23:05:16
-# Всего каналов: 23142
-# Новых за сессию: 0
+# Обновлено: 2026-09-03 00:30:48
+# Всего каналов: 23215
+# Новых за сессию: 73
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;Sports
 # Каналов: 1
-# Обновлено: 2026-09-02 23:05:16
+# Обновлено: 2026-09-03 00:30:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RTI La 3" group-title="Music;Sports",RTI La 3
@@ -2477,7 +2477,7 @@ https://live.tvcontrolcp.com:8081/radiozona/index.m3u8
 https://v1.tustreaming.cl/sabortv/index.m3u8
 #EXTINF:-1 tvg-name="Teleangol Radio" group-title="Music",Teleangol Radio
 https://pantera1-100gb-cl-movistar.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="KPVM Ace Country Radio" group-title="Music",KPVM Ace Country Radio
+#EXTINF:-1 tvg-name="ACE Country Radio KPVM-LD" group-title="Music",ACE Country Radio KPVM-LD
 https://2-fss-1.streamhoster.com/pl_122/206858-4412960-1/playlist.m3u8
 #EXTINF:-1 tvg-name="ESPN 3" group-title="Sports",ESPN 3
 http://181.78.197.59:8000/play/a081/index.m3u8
@@ -3035,3 +3035,7 @@ http://188.138.29.131/skyfootball/index.m3u8
 http://stream.mcquack.net/283/index.m3u8
 #EXTINF:-1 tvg-name="Sports Television" group-title="Sports",Sports Television
 https://kctv.koryofront.org/stream/sports/index.m3u8
+#EXTINF:-1 tvg-name="Kabaddi 24x7 (576p)" group-title="Sports",Kabaddi 24x7 (576p)
+http://180.188.254.253/live/KABADDI24X7.m3u8
+#EXTINF:-1 tvg-name="Sports Squad Haryana (576p)" group-title="Sports",Sports Squad Haryana (576p)
+http://180.188.254.253/live/SPORTSSQUADHARYANA.m3u8

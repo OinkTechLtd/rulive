@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-02 23:05:16
-# Всего каналов: 23142
-# Новых за сессию: 0
+# Обновлено: 2026-09-03 00:30:48
+# Всего каналов: 23215
+# Новых за сессию: 73
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Business;Culture;Lifestyle
 # Каналов: 1
-# Обновлено: 2026-09-02 23:05:16
+# Обновлено: 2026-09-03 00:30:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="apart TV" group-title="Business;Culture;Lifestyle",apart TV
@@ -895,6 +895,8 @@ http://15.204.246.24:8080/Mega2HD/index.m3u8
 https://thinkkast.dpdns.org/thinkkast/bbc_lstylehd/versiglia/index.m3u8
 #EXTINF:-1 tvg-name="CNBC World" group-title="Business",CNBC World
 http://40.160.24.56/CNBC_WORLD_SD/index.m3u8
+#EXTINF:-1 tvg-name="Domashniy SD (576p)" group-title="Lifestyle",Domashniy SD (576p)
+http://stream.mcquack.net/227/index.m3u8
 #EXTINF:-1 tvg-name="DeFiance Media" group-title="Business",DeFiance Media
 https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="NHK World Japan" group-title="Culture;News",NHK World Japan
@@ -911,3 +913,5 @@ http://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8
 #EXTINF:-1 tvg-name="KIIO-LD 10.1" group-title="Culture",KIIO-LD 10.1
 http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8
+#EXTINF:-1 tvg-name="CNBC [Geo-blocked]" group-title="Business",CNBC [Geo-blocked]
+http://41.205.93.154/CNBC/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-02 23:05:16
-# Всего каналов: 23142
-# Новых за сессию: 0
+# Обновлено: 2026-09-03 00:30:48
+# Всего каналов: 23215
+# Новых за сессию: 73
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Family;General;Movies
 # Каналов: 1
-# Обновлено: 2026-09-02 23:05:16
+# Обновлено: 2026-09-03 00:30:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="MCI Televisión" group-title="Family;General;Movies",MCI Televisión
@@ -6033,7 +6033,7 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
 #EXTINF:-1 tvg-name="Canal+ Cinemas" group-title="Movies",Canal+ Cinemas
 http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
-#EXTINF:-1 tvg-name="Canal+ Action Europe Czechia" group-title="Movies",Canal+ Action Europe Czechia
+#EXTINF:-1 tvg-name="Canal+ Action Europe Slovakia" group-title="Movies",Canal+ Action Europe Slovakia
 http://151.80.18.177:86/Canal+_Family_HD/index.m3u8
 #EXTINF:-1 tvg-name="Al Aoula (480p)" group-title="General",Al Aoula (480p)
 https://snrtworker.kharazbelaid.workers.dev/?id=alaoula.m3u8
@@ -6587,7 +6587,7 @@ https://tv.arkeo.cl:1936/radiolila/radiolila/playlist.m3u8
 https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Istoki" group-title="General",Istoki
 https://istoki.tv/live/stream1/playlist.m3u8
-#EXTINF:-1 tvg-name="KPVM Movies!" group-title="Movies",KPVM Movies!
+#EXTINF:-1 tvg-name="Movies! KPVM-LD" group-title="Movies",Movies! KPVM-LD
 https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Popcorn Central" group-title="Movies",Popcorn Central
 https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
@@ -7365,6 +7365,8 @@ http://15.204.246.24:8080/DTVHD/index.m3u8
 https://live2.telemicro.com.do/live/55/playlist.m3u8
 #EXTINF:-1 tvg-name="MNTV" group-title="General",MNTV
 https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8
+#EXTINF:-1 tvg-name="Dom kino Premium" group-title="Movies",Dom kino Premium
+http://stream.mcquack.net/108/index.m3u8
 #EXTINF:-1 tvg-name="Groznyj" group-title="General",Groznyj
 https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/720-3.m3u8
 #EXTINF:-1 tvg-name="Kinopokaz (576p)" group-title="Movies",Kinopokaz (576p)
@@ -7389,6 +7391,8 @@ http://88.212.15.19/live/duna_world_hun/index.m3u8
 https://cdn3.wind.do/streams/telesistema/telesistema_master.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Film4" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Film4
 http://88.212.15.19/live/film4_hun/index.m3u8
+#EXTINF:-1 tvg-name="Dorama" group-title="Movies",Dorama
+https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="General",1+1 Ukraina" group-title="General",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="General",1+1 Ukraina
 http://stream.mcquack.net/219/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="General",One Planet" group-title="General",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="General",One Planet
@@ -7541,6 +7545,8 @@ http://194.163.157.137:8080/hls/radioalsace.m3u8
 http://194.163.157.137:8080/hls/radiomulhouse.m3u8
 #EXTINF:-1 tvg-name="Zee Bollywood (580p)" group-title="Movies",Zee Bollywood (580p)
 https://s3.itcnbd.live/channel/a5979fd53c01d1b2.m3u8
+#EXTINF:-1 tvg-name="Dom kino (576p)" group-title="Movies",Dom kino (576p)
+http://stream.mcquack.net/236/index.m3u8
 #EXTINF:-1 tvg-name="NTV SD (576p)" group-title="General",NTV SD (576p)
 http://45.153.24.78/NTV/index.m3u8
 #EXTINF:-1 tvg-name="Black Sea TV" group-title="General",Black Sea TV
@@ -7765,3 +7771,29 @@ http://775065.live.tvstitch.com/playlist.m3u8?source=aHR0cHM6Ly9obHMtY2RuMi5keXZ
 http://103.175.73.12:8080/live/44/44_0.m3u8
 #EXTINF:-1 tvg-name="Nevis Television" group-title="General",Nevis Television
 https://media.slactech.com:1936/NTvDirect/ngrp:NTvDirect_all/playlist.m3u8
+#EXTINF:-1 tvg-name="AMC [Geo-blocked]" group-title="Movies",AMC [Geo-blocked]
+http://41.205.93.154/AMC/index.m3u8
+#EXTINF:-1 tvg-name="B4U Kadak (576p)" group-title="Movies",B4U Kadak (576p)
+https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-name="B4U Movies (576p)" group-title="Movies",B4U Movies (576p)
+https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-name="MNX (576p)" group-title="Movies",MNX (576p)
+http://59.103.38.46:8000/play/a052/index.m3u8
+#EXTINF:-1 tvg-name="Star Gold 2" group-title="Movies",Star Gold 2
+http://66.102.126.10:8000/play/a077/index.m3u8
+#EXTINF:-1 tvg-name="Canal 5 El Lider" group-title="General",Canal 5 El Lider
+http://186.33.26.18:8000/play/a0s4/index.m3u8
+#EXTINF:-1 tvg-name="Canal 12 (576p)" group-title="General",Canal 12 (576p)
+http://186.33.26.18:8000/play/a0nw/index.m3u8
+#EXTINF:-1 tvg-name="Canal TRV (576p)" group-title="General",Canal TRV (576p)
+https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
+#EXTINF:-1 tvg-name="Morazan TV" group-title="General",Morazan TV
+http://45.167.2.138:8000/play/a0o4/index.m3u8
+#EXTINF:-1 tvg-name="Red Uno [Geo-blocked]" group-title="General",Red Uno [Geo-blocked]
+http://15.204.246.24:8080/RedUnoSCZHD/index.m3u8
+#EXTINF:-1 tvg-name="Red Uno La Paz [Geo-blocked]" group-title="General",Red Uno La Paz [Geo-blocked]
+http://15.204.246.24:8080/RedUnoLPZHD/index.m3u8
+#EXTINF:-1 tvg-name="StreamForce 360" group-title="Entertainment;General",StreamForce 360
+https://sistemastr.tropicalmoonmedia.com:443/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8
+#EXTINF:-1 tvg-name="Teletica 7" group-title="General",Teletica 7
+http://190.61.101.11:7050/play/a07t/index.m3u8

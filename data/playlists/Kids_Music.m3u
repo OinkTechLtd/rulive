@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-02 23:05:16
-# Всего каналов: 23142
-# Новых за сессию: 0
+# Обновлено: 2026-09-03 00:30:48
+# Всего каналов: 23215
+# Новых за сессию: 73
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Music
 # Каналов: 1
-# Обновлено: 2026-09-02 23:05:17
+# Обновлено: 2026-09-03 00:30:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Zhara Kids TV (576p)" group-title="Kids;Music",Zhara Kids TV (576p)
@@ -2283,7 +2283,7 @@ https://v1.tustreaming.cl/sabortv/index.m3u8
 https://pantera1-100gb-cl-movistar.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="RU.TV Kids" group-title="Kids",RU.TV Kids
 https://rutvkids.ru/live/efir/index.m3u8
-#EXTINF:-1 tvg-name="KPVM Ace Country Radio" group-title="Music",KPVM Ace Country Radio
+#EXTINF:-1 tvg-name="ACE Country Radio KPVM-LD" group-title="Music",ACE Country Radio KPVM-LD
 https://2-fss-1.streamhoster.com/pl_122/206858-4412960-1/playlist.m3u8
 #EXTINF:-1 tvg-name="NickOnline" group-title="Animation;Kids",NickOnline
 https://x1colegal.com/hls/stream.m3u8
@@ -2423,7 +2423,7 @@ https://astra.emitv.ro/hls/emi/index.m3u8
 https://aes.m3u8simplu.workers.dev/musicchannel/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",ZU TV" group-title="Music",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",ZU TV
 https://aes.m3u8simplu.workers.dev/zutv/index.m3u8
-#EXTINF:-1 tvg-name="KidOO" group-title="Animation;Kids",KidOO
+#EXTINF:-1 tvg-name="KidOO [Geo-blocked]" group-title="Animation;Kids",KidOO [Geo-blocked]
 http://15.204.246.24:8080/KidooHD/index.m3u8
 #EXTINF:-1 tvg-name="Clan" group-title="Kids;Public",Clan
 http://185.47.212.25:8080/Clan_HD/index.m3u8
@@ -2619,3 +2619,11 @@ http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI
 http://stream.mcquack.net/262/index.m3u8
 #EXTINF:-1 tvg-name="Niki Kids" group-title="Kids",Niki Kids
 http://stream.mcquack.net/271/index.m3u8
+#EXTINF:-1 tvg-name="ETV Bal Bharat (576p)" group-title="Kids",ETV Bal Bharat (576p)
+http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
+#EXTINF:-1 tvg-name="Sony Yay! (576p)" group-title="Animation;Kids",Sony Yay! (576p)
+http://103.165.93.31:8095/sonyYay/index.m3u8
+#EXTINF:-1 tvg-name="Super Hungama (576p)" group-title="Animation;Kids",Super Hungama (576p)
+http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
+#EXTINF:-1 tvg-name="CBeebies Asia (576p)" group-title="Kids",CBeebies Asia (576p)
+http://202.70.146.135:8000/play/a0a2/index.m3u8
