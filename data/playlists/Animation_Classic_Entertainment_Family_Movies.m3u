@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-03 23:48:40
-# Всего каналов: 23222
-# Новых за сессию: 1
+# Обновлено: 2026-09-04 00:46:51
+# Всего каналов: 23284
+# Новых за сессию: 62
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Classic;Entertainment;Family;Movies
 # Каналов: 1
-# Обновлено: 2026-09-03 23:48:41
+# Обновлено: 2026-09-04 00:46:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pro100TV (576p)" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV (576p)
@@ -4249,3 +4249,23 @@ http://66.102.126.10:8000/play/a077/index.m3u8
 http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
 #EXTINF:-1 tvg-name="StreamForce 360" group-title="Entertainment;General",StreamForce 360
 https://sistemastr.tropicalmoonmedia.com:443/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8
+#EXTINF:-1 tvg-name="Dom kino International (576p)" group-title="Movies",Dom kino International (576p)
+https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="Dorama (576p)" group-title="Movies",Dorama (576p)
+https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="Evrokino (576p)" group-title="Movies",Evrokino (576p)
+https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="India (576p)" group-title="Entertainment",India (576p)
+https://fs.uplink.kz/india/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="Russkiy Illusion (576p)" group-title="Movies",Russkiy Illusion (576p)
+https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="START World (576p)" group-title="Movies",START World (576p)
+https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="TV-3" group-title="Entertainment",TV-3
+http://stream.mcquack.net/136/index.m3u8
+#EXTINF:-1 tvg-name="TNT4 International (576p)" group-title="Entertainment",TNT4 International (576p)
+https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="AVI Rewind" group-title="Movies",AVI Rewind
+http://45.70.201.81:8000/play/a010/index.m3u8
+#EXTINF:-1 tvg-name="Epic Bharat (576p)" group-title="Entertainment",Epic Bharat (576p)
+https://mumt06.tangotv.in/qYyB8fXVEPICTV/index.m3u8

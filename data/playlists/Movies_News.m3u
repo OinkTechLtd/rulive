@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-03 23:48:40
-# Всего каналов: 23222
-# Новых за сессию: 1
+# Обновлено: 2026-09-04 00:46:51
+# Всего каналов: 23284
+# Новых за сессию: 62
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;News
 # Каналов: 3
-# Обновлено: 2026-09-03 23:48:41
+# Обновлено: 2026-09-04 00:46:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Indywood TV" group-title="Movies;News",Indywood TV
@@ -4071,6 +4071,8 @@ https://mumt01.tangotv.in/O5aw8Zn3KALINGATV/index.m3u8
 https://mumt07.tangotv.in/zHjX9OFlMAHAANEWS/index.m3u8
 #EXTINF:-1 tvg-name="MKN Marathi (576p)" group-title="News",MKN Marathi (576p)
 https://mumt04.tangotv.in/m18aqlK4MKNNEWSHINDI/index.m3u8
+#EXTINF:-1 tvg-name="News Live Bangla (576p)" group-title="News",News Live Bangla (576p)
+https://mumt06.tangotv.in/qYyB8fXVINDRADHANU/index.m3u8
 #EXTINF:-1 tvg-name="NewsX (576p)" group-title="News",NewsX (576p)
 https://mumt01.tangotv.in/O5aw8Zn3NEWSX/index.m3u8
 #EXTINF:-1 tvg-name="NewsX World (576p)" group-title="News",NewsX World (576p)
@@ -4205,3 +4207,19 @@ http://59.103.38.46:8000/play/a052/index.m3u8
 http://66.102.126.10:8000/play/a077/index.m3u8
 #EXTINF:-1 tvg-name="Al Alam Al Yawm" group-title="News",Al Alam Al Yawm
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b928000.m3u8
+#EXTINF:-1 tvg-name="Dom kino International (576p)" group-title="Movies",Dom kino International (576p)
+https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="Dorama (576p)" group-title="Movies",Dorama (576p)
+https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="Evrokino (576p)" group-title="Movies",Evrokino (576p)
+https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="Russkiy Illusion (576p)" group-title="Movies",Russkiy Illusion (576p)
+https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="START World (576p)" group-title="Movies",START World (576p)
+https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="24KZ (576p)" group-title="News",24KZ (576p)
+https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="AVI Rewind" group-title="Movies",AVI Rewind
+http://45.70.201.81:8000/play/a010/index.m3u8
+#EXTINF:-1 tvg-name="Sandesh News (576p)" group-title="News",Sandesh News (576p)
+https://mumt01.tangotv.in/O5aw8Zn3SANDESHNEWS/index.m3u8

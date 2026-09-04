@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-03 23:48:40
-# Всего каналов: 23222
-# Новых за сессию: 1
+# Обновлено: 2026-09-04 00:46:51
+# Всего каналов: 23284
+# Новых за сессию: 62
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;Music
 # Каналов: 3
-# Обновлено: 2026-09-03 23:48:41
+# Обновлено: 2026-09-04 00:46:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Shemaroo Filmi Gaane" group-title="Movies;Music",Shemaroo Filmi Gaane
@@ -129,6 +129,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b4743
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 #EXTINF:-1 tvg-name="Муз ТВ (450p) [Geo-blocked]" group-title="Music",Муз ТВ (450p) [Geo-blocked]
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 tvg-name="DanceHits80" group-title="Music",DanceHits80
+http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 tvg-name="DTR Music 1" group-title="Music",DTR Music 1
 https://kino-stream.online/hls/DTRMUSIC1.m3u8
 #EXTINF:-1 tvg-name="Europa Plus TV" group-title="Music",Europa Plus TV
@@ -3503,3 +3505,17 @@ https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
 http://59.103.38.46:8000/play/a052/index.m3u8
 #EXTINF:-1 tvg-name="Star Gold 2" group-title="Movies",Star Gold 2
 http://66.102.126.10:8000/play/a077/index.m3u8
+#EXTINF:-1 tvg-name="Dom kino International (576p)" group-title="Movies",Dom kino International (576p)
+https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="Dorama (576p)" group-title="Movies",Dorama (576p)
+https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="Evrokino (576p)" group-title="Movies",Evrokino (576p)
+https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="FON Music (576p)" group-title="Music",FON Music (576p)
+https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Russkiy Illusion (576p)" group-title="Movies",Russkiy Illusion (576p)
+https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="START World (576p)" group-title="Movies",START World (576p)
+https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="AVI Rewind" group-title="Movies",AVI Rewind
+http://45.70.201.81:8000/play/a010/index.m3u8

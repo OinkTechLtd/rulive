@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-03 23:48:40
-# Всего каналов: 23222
-# Новых за сессию: 1
+# Обновлено: 2026-09-04 00:46:51
+# Всего каналов: 23284
+# Новых за сессию: 62
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Public;Sports
 # Каналов: 2
-# Обновлено: 2026-09-03 23:48:41
+# Обновлено: 2026-09-04 00:46:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Esport3" group-title="Public;Sports",Esport3
@@ -1396,3 +1396,5 @@ https://kctv.koryofront.org/stream/sports/index.m3u8
 http://180.188.254.253/live/KABADDI24X7.m3u8
 #EXTINF:-1 tvg-name="Sports Squad Haryana (576p)" group-title="Sports",Sports Squad Haryana (576p)
 http://180.188.254.253/live/SPORTSSQUADHARYANA.m3u8
+#EXTINF:-1 tvg-name="Match! Planeta (576p)" group-title="Sports",Match! Planeta (576p)
+https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv

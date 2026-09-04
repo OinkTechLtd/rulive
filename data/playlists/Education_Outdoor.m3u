@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-03 23:48:40
-# Всего каналов: 23222
-# Новых за сессию: 1
+# Обновлено: 2026-09-04 00:46:51
+# Всего каналов: 23284
+# Новых за сессию: 62
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Outdoor
 # Каналов: 3
-# Обновлено: 2026-09-03 23:48:41
+# Обновлено: 2026-09-04 00:46:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CCTV-17" group-title="Education;Outdoor",CCTV-17
@@ -603,6 +603,8 @@ https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8
 https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 #EXTINF:-1 tvg-name="GVision (288p)" group-title="Education",GVision (288p)
 https://videostream.chileservidores.com:8081/tome/index.m3u8
+#EXTINF:-1 tvg-name="Dikij (576p)" group-title="Outdoor",Dikij (576p)
+http://hls127.freeott.top:8080/Dikiy/video.m3u8
 #EXTINF:-1 tvg-name="Cottage Life" group-title="Lifestyle;Outdoor",Cottage Life
 http://185.246.209.113/CottageLife/index.m3u8
 #EXTINF:-1 tvg-name="Agro TV" group-title="Outdoor",Agro TV
@@ -649,6 +651,8 @@ http://40.160.24.55/WORLD_FISHING_NETWORK/index.m3u8
 http://200.91.32.158:8080/rural/index.m3u8
 #EXTINF:-1 tvg-name="Canal Educacao" group-title="Education",Canal Educacao
 http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
+#EXTINF:-1 tvg-name="Dikaya okhota" group-title="Outdoor",Dikaya okhota
+http://stream.mcquack.net/274/index.m3u8
 #EXTINF:-1 tvg-name="Ohotnik i rybolov" group-title="Outdoor",Ohotnik i rybolov
 http://stream.mcquack.net/194/index.m3u8
 #EXTINF:-1 tvg-name="Okhota i rybalka (576p)" group-title="Outdoor",Okhota i rybalka (576p)
@@ -659,6 +663,8 @@ http://stream.mcquack.net/401/index.m3u8
 http://stream.mcquack.net/357/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Documentary;Education",Chemodan TV" group-title="Documentary;Education",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Documentary;Education",Chemodan TV
 http://stream.mcquack.net/399/index.m3u8
+#EXTINF:-1 tvg-name="Dikaya rybalka" group-title="Outdoor",Dikaya rybalka
+http://stream.mcquack.net/275/index.m3u8
 #EXTINF:-1 tvg-name="Moya Planeta" group-title="Outdoor",Moya Planeta
 http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Outside TV" group-title="Outdoor",Outside TV

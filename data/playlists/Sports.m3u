@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-03 23:48:40
-# Всего каналов: 23222
-# Новых за сессию: 1
+# Обновлено: 2026-09-04 00:46:51
+# Всего каналов: 23284
+# Новых за сессию: 62
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Sports
-# Каналов: 765
-# Обновлено: 2026-09-03 23:48:40
+# Каналов: 766
+# Обновлено: 2026-09-04 00:46:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CBC Sport [Geo-blocked]" group-title="Sports",CBC Sport [Geo-blocked]
@@ -2175,6 +2175,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/180.188.254.253/live/K
 
 #EXTINF:-1 tvg-name="Sports Squad Haryana (576p)" group-title="Sports",Sports Squad Haryana (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/180.188.254.253/live/SPORTSSQUADHARYANA.m3u8
+
+#EXTINF:-1 tvg-name="Match! Planeta (576p)" group-title="Sports",Match! Planeta (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-name="Belarus-5" group-title="Sports",Belarus-5
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8

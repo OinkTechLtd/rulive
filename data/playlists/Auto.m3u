@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-03 23:48:40
-# Всего каналов: 23222
-# Новых за сессию: 1
+# Обновлено: 2026-09-04 00:46:51
+# Всего каналов: 23284
+# Новых за сессию: 62
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Auto
-# Каналов: 31
-# Обновлено: 2026-09-03 23:48:41
+# Каналов: 32
+# Обновлено: 2026-09-04 00:46:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Сити Эдем АвтоГид" group-title="Auto",Сити Эдем АвтоГид
@@ -99,6 +99,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/gpuserver3.tier1stream
 
 #EXTINF:-1 tvg-name="CTV Speed Channel" group-title="Auto",CTV Speed Channel
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/gpuserver3.tier1streams.com/DISCOVERY_SCIENCE_HD/index.m3u8
+
+#EXTINF:-1 tvg-name="Fierro a Fondo TV" group-title="Auto",Fierro a Fondo TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.70.201.81:8000/play/a00x/index.m3u8
 
 #EXTINF:-1 tvg-name="Drive (576i)" group-title="Auto",Drive (576i)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8

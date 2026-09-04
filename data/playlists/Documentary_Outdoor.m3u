@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-03 23:48:40
-# Всего каналов: 23222
-# Новых за сессию: 1
+# Обновлено: 2026-09-04 00:46:51
+# Всего каналов: 23284
+# Новых за сессию: 62
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Outdoor
 # Каналов: 2
-# Обновлено: 2026-09-03 23:48:41
+# Обновлено: 2026-09-04 00:46:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="WaterBear" group-title="Documentary;Outdoor",WaterBear
@@ -460,6 +460,8 @@ https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 https://jmp2.uk/plu-600acaff5f2d6e000745effb.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Documentary",National Geographic Wild" group-title="Documentary",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Documentary",National Geographic Wild
 http://46.32.176.50/natgeowild/index.m3u8
+#EXTINF:-1 tvg-name="Dikij (576p)" group-title="Outdoor",Dikij (576p)
+http://hls127.freeott.top:8080/Dikiy/video.m3u8
 #EXTINF:-1 tvg-name="History (576p)" group-title="Documentary",History (576p)
 http://84.17.50.102/history/index.m3u8
 #EXTINF:-1 tvg-name="Cottage Life" group-title="Lifestyle;Outdoor",Cottage Life
@@ -522,6 +524,8 @@ http://200.91.32.158:8080/rural/index.m3u8
 http://45.162.193.35:80/DOCU/index.m3u8
 #EXTINF:-1 tvg-name="Cap Terre" group-title="Documentary",Cap Terre
 http://145.239.5.177/359a/index.m3u8
+#EXTINF:-1 tvg-name="Dikaya okhota" group-title="Outdoor",Dikaya okhota
+http://stream.mcquack.net/274/index.m3u8
 #EXTINF:-1 tvg-name="Nano (576p)" group-title="Documentary",Nano (576p)
 http://stream.mcquack.net/419/index.m3u8
 #EXTINF:-1 tvg-name="Ohotnik i rybolov" group-title="Outdoor",Ohotnik i rybolov
@@ -538,6 +542,8 @@ http://stream.mcquack.net/399/index.m3u8
 https://aes.m3u8simplu.workers.dev/bbcearth/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Documentary",National Geographic (576p)" group-title="Documentary",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Documentary",National Geographic (576p)
 https://aes.m3u8simplu.workers.dev/natgeo/index.m3u8
+#EXTINF:-1 tvg-name="Dikaya rybalka" group-title="Outdoor",Dikaya rybalka
+http://stream.mcquack.net/275/index.m3u8
 #EXTINF:-1 tvg-name="viju Explore (576p)" group-title="Documentary",viju Explore (576p)
 http://stream.mcquack.net/239/index.m3u8
 #EXTINF:-1 tvg-name="viju+ Planet" group-title="Documentary",viju+ Planet

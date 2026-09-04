@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-03 23:48:40
-# Всего каналов: 23222
-# Новых за сессию: 1
+# Обновлено: 2026-09-04 00:46:51
+# Всего каналов: 23284
+# Новых за сессию: 62
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music
-# Каналов: 900
-# Обновлено: 2026-09-03 23:48:41
+# Каналов: 902
+# Обновлено: 2026-09-04 00:46:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Deluxe Music" group-title="Music",Deluxe Music
@@ -2623,6 +2623,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/281
 #EXTINF:-1 tvg-name="9X Jalwa" group-title="Music",9X Jalwa
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 
+#EXTINF:-1 tvg-name="FON Music (576p)" group-title="Music",FON Music (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="City TV (576p)" group-title="Music",City TV (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.city.bg/play/tshls/citytv/index.m3u8
 
@@ -2688,6 +2691,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.m2.tv/hls3/stream
 
 #EXTINF:-1 tvg-name="Муз ТВ (450p) [Geo-blocked]" group-title="Music",Муз ТВ (450p) [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+
+#EXTINF:-1 tvg-name="DanceHits80" group-title="Music",DanceHits80
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dancehits80.denvs.ru:8080/index.m3u8
 
 #EXTINF:-1 tvg-name="Europa Plus TV" group-title="Music",Europa Plus TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Europa_Plus_HD/index.m3u8
