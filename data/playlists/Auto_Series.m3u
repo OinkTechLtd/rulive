@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-05 00:18:03
-# Всего каналов: 23291
-# Новых за сессию: 1
+# Обновлено: 2026-09-05 03:10:48
+# Всего каналов: 23400
+# Новых за сессию: 109
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Auto;Series
 # Каналов: 1
-# Обновлено: 2026-09-05 00:18:04
+# Обновлено: 2026-09-05 03:10:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Choppertown" group-title="Auto;Series",Choppertown
@@ -45,6 +45,8 @@ https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619
 https://30a-tv.com/feeds/vidaa/cars.m3u8
 #EXTINF:-1 tvg-name="48 Hours" group-title="Series",48 Hours
 https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
+#EXTINF:-1 tvg-name="ABC 5 Boston MA (WCVB)" group-title="Series",ABC 5 Boston MA (WCVB)
+https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8
 #EXTINF:-1 tvg-name="Acapulco Shore" group-title="Series",Acapulco Shore
 https://jmp2.uk/plu-64dab1f835425100080e1e7b.m3u8
 #EXTINF:-1 tvg-name="All Reality WE tv" group-title="Series",All Reality WE tv
@@ -913,3 +915,9 @@ http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test
 http://178.134.1.158:8081/ntvhit/index.m3u8
 #EXTINF:-1 tvg-name="Fierro a Fondo TV" group-title="Auto",Fierro a Fondo TV
 http://45.70.201.81:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-name="All Weddings We TV" group-title="Series",All Weddings We TV
+https://amc-allweddings-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Nash Bridges" group-title="Series",Nash Bridges
+https://jmp2.uk/plu-666021cccb3ea10008406866.m3u8
+#EXTINF:-1 tvg-name="The Conners" group-title="Comedy;Series",The Conners
+https://jmp2.uk/plu-66e2a94d167a8b000813485d.m3u8

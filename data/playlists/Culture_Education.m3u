@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-05 00:18:03
-# Всего каналов: 23291
-# Новых за сессию: 1
+# Обновлено: 2026-09-05 03:10:48
+# Всего каналов: 23400
+# Новых за сессию: 109
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Education
 # Каналов: 11
-# Обновлено: 2026-09-05 00:18:04
+# Обновлено: 2026-09-05 03:10:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Ayeneh TV" group-title="Culture;Education",Ayeneh TV
@@ -45,8 +45,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn1tlinkgo.tlink.cl/n
 
 #EXTINF:-1 tvg-name="Belarus-3" group-title="Culture",Belarus-3
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal Savoir (360p)" group-title="Education",Canal Savoir (360p)
-https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-name="13C" group-title="Culture",13C
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-name="ARD-alpha" group-title="Education",ARD-alpha
@@ -127,8 +125,6 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Fresno CMAC 2 Education Channel" group-title="Education",Fresno CMAC 2 Education Channel
 https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8
-#EXTINF:-1 tvg-name="Geb Tv (KBPX LD5)" group-title="Culture;News",Geb Tv (KBPX LD5)
-https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
 #EXTINF:-1 tvg-name="Haddam Killingworth High School TV (HKTV) [Geo-blocked]" group-title="Education",Haddam Killingworth High School TV (HKTV) [Geo-blocked]
 https://reflect-hktv.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-name="HarPal Geo (360p)" group-title="Culture",HarPal Geo (360p)
@@ -151,6 +147,10 @@ https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
 https://s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1/video.m3u8
 #EXTINF:-1 tvg-name="KCAT Public Media TV" group-title="Education",KCAT Public Media TV
 https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8
+#EXTINF:-1 tvg-name="KQED-DT2" group-title="Education",KQED-DT2
+https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8
+#EXTINF:-1 tvg-name="KVIE-DT2" group-title="Education",KVIE-DT2
+https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8
 #EXTINF:-1 tvg-name="Leominster TV Educational" group-title="Education",Leominster TV Educational
 https://livestream.telvue.com/leominster2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Los Angeles Local Television Channel 36" group-title="Education",Los Angeles Local Television Channel 36
@@ -201,6 +201,8 @@ https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
 https://kuondt.lls.pbs.org/out/v1/91d8b5ffc5c1453c8a621508a07749a6/index.m3u8
 #EXTINF:-1 tvg-name="PBS National East [Geo-blocked]" group-title="Education",PBS National East [Geo-blocked]
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:-1 tvg-name="PBS New Jersey NJ (WNJT)" group-title="Education",PBS New Jersey NJ (WNJT)
+https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
 #EXTINF:-1 tvg-name="PBS Sedalia British Columbia MO (KMOS) [Geo-blocked]" group-title="Education",PBS Sedalia British Columbia MO (KMOS) [Geo-blocked]
 https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
 #EXTINF:-1 tvg-name="Poudre School District TV (PSD TV) (Fort Collins CO)" group-title="Education",Poudre School District TV (PSD TV) (Fort Collins CO)
@@ -215,8 +217,16 @@ http://147.174.13.196/live/live.m3u8
 https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="UCTV University of California" group-title="Education",UCTV University of California
 https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="WEDQ-DT4" group-title="Education",WEDQ-DT4
+https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
+#EXTINF:-1 tvg-name="WGTV-DT3" group-title="Education",WGTV-DT3
+https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8
+#EXTINF:-1 tvg-name="WJXT News4JAX (Jacksonville FL)" group-title="Education",WJXT News4JAX (Jacksonville FL)
+https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
 #EXTINF:-1 tvg-name="WLVT-DT1" group-title="Education",WLVT-DT1
 https://dvrfl03.bozztv.com/hondu/hondu-gbp-pbs/index.m3u8
+#EXTINF:-1 tvg-name="WMPT-DT2 (PBS Create)" group-title="Education",WMPT-DT2 (PBS Create)
+https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 #EXTINF:-1 tvg-name="World Channel" group-title="Education",World Channel
 https://world.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-name="WPS TV (360p)" group-title="Education",WPS TV (360p)
@@ -939,3 +949,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8
 http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8
 #EXTINF:-1 tvg-name="Encuentro (576p)" group-title="Culture",Encuentro (576p)
 http://138.121.113.175:8000/play/a04c/index.m3u8
+#EXTINF:-1 tvg-name="Canal Saude" group-title="Education;Lifestyle",Canal Saude
+https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
+#EXTINF:-1 tvg-name="UAA TV" group-title="Culture",UAA TV
+https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8

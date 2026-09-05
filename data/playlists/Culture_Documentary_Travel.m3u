@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-05 00:18:03
-# Всего каналов: 23291
-# Новых за сессию: 1
+# Обновлено: 2026-09-05 03:10:48
+# Всего каналов: 23400
+# Новых за сессию: 109
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Documentary;Travel
 # Каналов: 2
-# Обновлено: 2026-09-05 00:18:04
+# Обновлено: 2026-09-05 03:10:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="China Travel" group-title="Culture;Documentary;Travel",China Travel
@@ -144,8 +144,6 @@ https://jmp2.uk/plu-5bb1af6a268cae539bcedb0a.m3u8
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Fun Roads TV" group-title="Auto;Travel",Fun Roads TV
 https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
-#EXTINF:-1 tvg-name="Geb Tv (KBPX LD5)" group-title="Culture;News",Geb Tv (KBPX LD5)
-https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
 #EXTINF:-1 tvg-name="Go2Travel" group-title="Travel",Go2Travel
 https://go2thls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Go USA TV" group-title="Travel",Go USA TV
@@ -176,8 +174,6 @@ http://103.154.3.101:5001/live/961.m3u8
 http://103.154.3.101:5001/live/959.m3u8
 #EXTINF:-1 tvg-name="Kajou TV" group-title="Culture",Kajou TV
 https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
-#EXTINF:-1 tvg-name="KTOO 360TV 3 (FNX)" group-title="Documentary",KTOO 360TV 3 (FNX)
-https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Documentary",Law & Crime" group-title="Documentary",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Documentary",Law & Crime
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/law-crime/playlist_scte.m3u8?ads.vf=uF_BpgvA1oi
 #EXTINF:-1 tvg-name="Love Pets" group-title="Documentary",Love Pets
@@ -840,8 +836,6 @@ http://45.189.62.33:8002/play/a0oc/index.m3u8
 https://video03.logicahost.com.br/arabtvchile/arabtvchile/playlist.m3u8
 #EXTINF:-1 tvg-name="Karbala Documentary" group-title="Documentary;Religious",Karbala Documentary
 https://ktvlive.online/stream/hls/ch3.m3u8
-#EXTINF:-1 tvg-name="KPVM AWE Plus" group-title="Lifestyle;Travel",KPVM AWE Plus
-https://2-fss-2.streamhoster.com/pl_120/206858-4404552-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Curta!" group-title="Culture",Curta!
 http://45.162.231.38:7779/Curta/index.m3u8
 #EXTINF:-1 tvg-name="History 2 Latin America Brazil" group-title="Documentary",History 2 Latin America Brazil
@@ -962,3 +956,13 @@ http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8
 http://stream.mcquack.net/451/index.m3u8
 #EXTINF:-1 tvg-name="Encuentro (576p)" group-title="Culture",Encuentro (576p)
 http://138.121.113.175:8000/play/a04c/index.m3u8
+#EXTINF:-1 tvg-name="Viasat History (576p)" group-title="Documentary",Viasat History (576p)
+http://dtv.vol.net.ua/Viasat-History/index.m3u8
+#EXTINF:-1 tvg-name="Safari TV" group-title="Documentary",Safari TV
+https://cdn-6.pishow.tv/live/1513/master.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Documentary",National Geographic" group-title="Documentary",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Documentary",National Geographic
+https://nord.ayakkabiparti.lol/natgeo/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Documentary",National Geographic Wild" group-title="Documentary",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Documentary",National Geographic Wild
+https://nord.ayakkabiparti.lol/natgeowild/index.m3u8
+#EXTINF:-1 tvg-name="UAA TV" group-title="Culture",UAA TV
+https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8

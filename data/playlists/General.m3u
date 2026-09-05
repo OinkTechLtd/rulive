@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-05 00:18:03
-# Всего каналов: 23291
-# Новых за сессию: 1
+# Обновлено: 2026-09-05 03:10:48
+# Всего каналов: 23400
+# Новых за сессию: 109
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General
-# Каналов: 3211
-# Обновлено: 2026-09-05 00:18:04
+# Каналов: 3260
+# Обновлено: 2026-09-05 03:10:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="БелРос (576p)" group-title="General",БелРос (576p)
@@ -33,6 +33,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-edge.rtl.lu/chann
 
 #EXTINF:-1 tvg-name="Channel One" group-title="General",Channel One
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming.televizor-24-tochka.ru/live/8.m3u8
 
 #EXTINF:-1 tvg-name="Mir" group-title="General",Mir
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
@@ -322,14 +325,14 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/41.205.93.154/ABC/inde
 #EXTINF:-1 tvg-name="ABC 2 Portland OR (KATU)" group-title="General",ABC 2 Portland OR (KATU)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-name="ABC 4 Charleston SC (WCIV)" group-title="General",ABC 4 Charleston SC (WCIV)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-name="ABC 4 Seattle WA (KOMO)" group-title="General",ABC 4 Seattle WA (KOMO)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/linear-709.frequency.stream/dist/stirr/709/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ABC 5" group-title="General",ABC 5
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-live.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="ABC 5 Boston MA (WCVB)" group-title="General",ABC 5 Boston MA (WCVB)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ABC 5 St. Paul MN (KSTP)" group-title="General",ABC 5 St. Paul MN (KSTP)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/amg01942-amg01942c2-stirr-us-10173.playouts.now.amagi.tv/playlist.m3u8
@@ -337,14 +340,23 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/amg01942-amg01942c2-st
 #EXTINF:-1 tvg-name="ABC 6 Austin TX (KAAL)" group-title="General",ABC 6 Austin TX (KAAL)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/amg01942-amg01942c6-stirr-us-10178.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-name="ABC 6 Columbus OH (WSYX)" group-title="General",ABC 6 Columbus OH (WSYX)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/linear-689.frequency.stream/dist/stirr/689/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-name="ABC 7 Albuquerque NM (KOAT)" group-title="General",ABC 7 Albuquerque NM (KOAT)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/aegis-cloudfront-1.tubi.video/2dba5dd9-4097-45e3-b169-56735cc48476/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ABC 7 Denver CO (KMGH)" group-title="General",ABC 7 Denver CO (KMGH)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
 
+#EXTINF:-1 tvg-name="ABC 7 Washington DC (WJLA)" group-title="General",ABC 7 Washington DC (WJLA)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/linear-681.frequency.stream/dist/stirr/681/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-name="ABC 9 Tucson AZ (KGUN)" group-title="General",ABC 9 Tucson AZ (KGUN)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/aegis-cloudfront-1.tubi.video/a53514a7-f2aa-4d34-802e-c2b5594fc0d7/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ABC 10 Duluth MN (WDIO)" group-title="General",ABC 10 Duluth MN (WDIO)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/amg01942-amg01942c3-stirr-us-10196.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ABC 10 San Diego CA (KGTV)" group-title="General",ABC 10 San Diego CA (KGTV)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/aegis-cloudfront-1.tubi.video/1a352414-3a30-4f42-b14b-c091d02a5e45/playlist.m3u8
@@ -352,8 +364,14 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/aegis-cloudfront-1.tub
 #EXTINF:-1 tvg-name="ABC 12 Milwaukee WI (WISN)" group-title="General",ABC 12 Milwaukee WI (WISN)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/aegis-cloudfront-1.tubi.video/ec903a48-3638-4d0b-ac89-813e147bca58/playlist.m3u8
 
+#EXTINF:-1 tvg-name="ABC 13 Asheville NC (WLOS)" group-title="General",ABC 13 Asheville NC (WLOS)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/linear-695.frequency.stream/dist/stirr/695/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-name="ABC 13 Las Vegas NV (KTNV)" group-title="General",ABC 13 Las Vegas NV (KTNV)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+
+#EXTINF:-1 tvg-name="ABC 15 Myrtle Beach FL (WPDE)" group-title="General",ABC 15 Myrtle Beach FL (WPDE)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/linear-696.frequency.stream/dist/stirr/696/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ABC 15 Phoenix AZ (KNXV)" group-title="General",ABC 15 Phoenix AZ (KNXV)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/aegis-cloudfront-1.tubi.video/e923f4ce-7229-4e01-a25e-d453993dab82/playlist.m3u8
@@ -363,6 +381,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/aegis-cloudfront-1.tub
 
 #EXTINF:-1 tvg-name="ABC 25 News Central Texas" group-title="General",ABC 25 News Central Texas
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
+
+#EXTINF:-1 tvg-name="ABC WWAY 3" group-title="General",ABC WWAY 3
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u8
 
 #EXTINF:-1 tvg-name="Access Humboldt" group-title="General",Access Humboldt
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/rtmp-live-ingest-ap-northeast-2-universe-dacast-com.akamaized.net/transmuxv1/streams/f08fcd45-1d04-9a8c-39ca-f56091820e5c.m3u8
@@ -469,17 +490,29 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/edge-f.swagit.com/live
 #EXTINF:-1 tvg-name="CBS 2 Salt Lake City UT (KUTV)" group-title="General",CBS 2 Salt Lake City UT (KUTV)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/linear-707.frequency.stream/dist/stirr/707/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-name="CBS 3 Kalamazoo MI (WWMT)" group-title="General",CBS 3 Kalamazoo MI (WWMT)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/linear-701.frequency.stream/dist/stirr/701/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-name="CBS 3 Omaha NE (KMTV)" group-title="General",CBS 3 Omaha NE (KMTV)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/aegis-cloudfront-1.tubi.video/0b16cabe-a8fd-4d91-99e5-3efb7aa740cc/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CBS 4 El Paso TX (KDBC)" group-title="General",CBS 4 El Paso TX (KDBC)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/linear-706.frequency.stream/dist/stirr/706/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-name="CBS 6 Richmond VA (WTVR)" group-title="General",CBS 6 Richmond VA (WTVR)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/aegis-cloudfront-1.tubi.video/d8fc1d6c-fd55-45c8-973b-b7327ee1a6e0/playlist.m3u8
+
 #EXTINF:-1 tvg-name="CBS 8 Des Moines IA (KCCI)" group-title="General",CBS 8 Des Moines IA (KCCI)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/aegis-cloudfront-1.tubi.video/8d1f164d-34ef-4f70-b948-ae33826a0aaa/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CBS 9 Oklahoma City OK (KWTV-DT1)" group-title="General",CBS 9 Oklahoma City OK (KWTV-DT1)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb6744b0425.m3u8
+
+#EXTINF:-1 tvg-name="CBS 12 Cincinnati OH (WKRC)" group-title="General",CBS 12 Cincinnati OH (WKRC)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CBS 12 West Palm Beach FL (WPEC)" group-title="General",CBS 12 West Palm Beach FL (WPEC)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CBS 42 Austin TX (KEYE)" group-title="General",CBS 42 Austin TX (KEYE)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/linear-704.frequency.stream/dist/stirr/704/hls/master/playlist.m3u8
@@ -495,6 +528,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn3.wowza.com/5/RXJNM
 
 #EXTINF:-1 tvg-name="Clarity 4K (2160p) [Geo-blocked]" group-title="General",Clarity 4K (2160p) [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/pb-qyrvophnifz47.akamaized.net/Clarity_4K.m3u8
+
+#EXTINF:-1 tvg-name="CoastTV NBC (WRDE-LD)" group-title="General",CoastTV NBC (WRDE-LD)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.field59.com/wrde/wrde1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Concord TV (Concord CA)" group-title="General",Concord TV (Concord CA)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/concordca.cablecast.tv/live/stream-2/live.m3u8
@@ -535,17 +571,26 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/reflect-vod-fcgov.cabl
 #EXTINF:-1 tvg-name="FOX 2 San Francisco CA (KTVU)" group-title="General",FOX 2 San Francisco CA (KTVU)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8
 
+#EXTINF:-1 tvg-name="FOX 11 Green Bay WI (WLUK)" group-title="General",FOX 11 Green Bay WI (WLUK)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-name="FOX 13 Seattle WA (KCPQ)" group-title="General",FOX 13 Seattle WA (KCPQ)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8
 
 #EXTINF:-1 tvg-name="FOX 23 Cape Girardeau MO (KBSI-DT1)" group-title="General",FOX 23 Cape Girardeau MO (KBSI-DT1)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.field59.com/kbsi/kbsi1/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Fox 25 Boston (WFXT-TV) [Geo-blocked]" group-title="General",Fox 25 Boston (WFXT-TV) [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
+
 #EXTINF:-1 tvg-name="FOX 25 Oklahoma City OK (KOKH)" group-title="General",FOX 25 Oklahoma City OK (KOKH)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/linear-705.frequency.stream/dist/stirr/705/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-name="FOX 26 Visalia CA (KMPH)" group-title="General",FOX 26 Visalia CA (KMPH)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/linear-711.frequency.stream/dist/stirr/711/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FOX 45 Baltimore MD (WBFF)" group-title="General",FOX 45 Baltimore MD (WBFF)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Fresno CMAC 1 Public Channel" group-title="General",Fresno CMAC 1 Public Channel
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/reflect-vod-cmac.cablecast.tv/live-11/live/stream-1/live.m3u8
@@ -583,9 +628,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-ue1-prod.tsv2.amag
 #EXTINF:-1 tvg-name="KITV 4 Island News" group-title="General",KITV 4 Island News
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481f721a6.m3u8
 
-#EXTINF:-1 tvg-name="KMEX-DT1 [Geo-blocked]" group-title="General",KMEX-DT1 [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
-
 #EXTINF:-1 tvg-name="KMSP-DT1" group-title="General",KMSP-DT1
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kmsp-lgus/playlist.m3u8
 
@@ -597,9 +639,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/162.19.255.233:8080/pl
 
 #EXTINF:-1 tvg-name="KNTV-DT1" group-title="General",KNTV-DT1
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/d368vp0qqzvkid.cloudfront.net/11603/88889711/hls/master.m3u8?ads.xumo_channelId=88889711a&ads.xumo_ifaType=&ads.xumo_providerId=3822&ads.xumo_providerName=NBCNBA
-
-#EXTINF:-1 tvg-name="KOKI-DT1" group-title="General",KOKI-DT1
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-kokibreaking-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-name="KRCA-TV Estrella Los Angeles" group-title="General",KRCA-TV Estrella Los Angeles
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/content.uplynk.com/channel/829a8c85f9e840c6bed963856c231428.m3u8
@@ -621,9 +660,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-uw2-prod.tsv2.amag
 
 #EXTINF:-1 tvg-name="KTTV-DT1" group-title="General",KTTV-DT1
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8
-
-#EXTINF:-1 tvg-name="KUVN-DT1" group-title="General",KUVN-DT1
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8
 
 #EXTINF:-1 tvg-name="KVEA-DT1" group-title="General",KVEA-DT1
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/104.238.205.28:9090/278661_.m3u8
@@ -694,11 +730,50 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/aegis-cloudfront-1.tub
 #EXTINF:-1 tvg-name="NBC 4 Albuquerque NM (KOB)" group-title="General",NBC 4 Albuquerque NM (KOB)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/amg01942-amg01942c1-stirr-us-10167.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-name="NBC 4 Milwaukee WI (WTMJ)" group-title="General",NBC 4 Milwaukee WI (WTMJ)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/aegis-cloudfront-1.tubi.video/d4d923f2-17de-4371-b86d-43490499bcdb/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NBC 4 San Antonio TX (WOAI)" group-title="General",NBC 4 San Antonio TX (WOAI)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/linear-703.frequency.stream/dist/stirr/703/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NBC 5 Chicago Live News" group-title="General",NBC 5 Chicago Live News
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads.xumo_channelId=88889704a&ads.xumo_ifaType=&ads.xumo_providerId=3818&ads.xumo_providerName=NBCNCHI
+
+#EXTINF:-1 tvg-name="NBC 6 Johnstown PA (WJAC)" group-title="General",NBC 6 Johnstown PA (WJAC)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/linear-698.frequency.stream/dist/stirr/698/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-name="NBC 6 Santa Barbara CA (KSBY)" group-title="General",NBC 6 Santa Barbara CA (KSBY)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/aegis-cloudfront-1.tubi.video/d5f0543d-5f83-4a69-ba01-c5a68f0c09a1/playlist.m3u8
 
+#EXTINF:-1 tvg-name="NBC 8 Lancaster PA (WGAL)" group-title="General",NBC 8 Lancaster PA (WGAL)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/aegis-cloudfront-1.tubi.video/5d314174-0110-42af-8811-feaae073ea1e/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NBC 8 Lima OH (WLIO-DT1)" group-title="General",NBC 8 Lima OH (WLIO-DT1)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.field59.com/wlio/wlio1/playlist.m3u8
+
 #EXTINF:-1 tvg-name="NBC 8 Salinas CA (KSBW)" group-title="General",NBC 8 Salinas CA (KSBW)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/aegis-cloudfront-1.tubi.video/8e6af50d-76df-4208-ab8d-3ff8f512cd38/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NBC 9 Steubenville OH (WTOV)" group-title="General",NBC 9 Steubenville OH (WTOV)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/linear-699.frequency.stream/dist/stirr/699/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NBC 10 Providence MA" group-title="General",NBC 10 Providence MA
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8
+
+#EXTINF:-1 tvg-name="NBC 10 Rochester NY (WHEC)" group-title="General",NBC 10 Rochester NY (WHEC)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/amg01942-amg01942c4-stirr-us-10190.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NBC 11 Baltimore MD (WBAL)" group-title="General",NBC 11 Baltimore MD (WBAL)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/aegis-cloudfront-1.tubi.video/888aedca-93fb-4aed-bb92-4beb8f1323c6/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NBC 12 Winston-Salem NC (WXII)" group-title="General",NBC 12 Winston-Salem NC (WXII)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/aegis-cloudfront-1.tubi.video/54b357b4-bf4b-4356-97b4-b1acb6ab62f7/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NBC 13 Albany NY (WNYT)" group-title="General",NBC 13 Albany NY (WNYT)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/amg01942-amg01942c5-stirr-us-10184.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NBC 26 Green Bay WI (WGBA)" group-title="General",NBC 26 Green Bay WI (WGBA)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/aegis-cloudfront-1.tubi.video/b32c0573-4add-4b47-b826-24412d952164/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NBC West (San Diego)" group-title="General",NBC West (San Diego)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
@@ -741,6 +816,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/g5nl6xx5lpq6-hls-live.
 
 #EXTINF:-1 tvg-name="PBC Tapesh TV" group-title="General",PBC Tapesh TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/iptv.tapesh.tv/tapesh/playlist.m3u8
+
+#EXTINF:-1 tvg-name="PBS MPT Baltimore MD (WMPB)" group-title="General",PBS MPT Baltimore MD (WMPB)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 
 #EXTINF:-1 tvg-name="PhillyCAM" group-title="General",PhillyCAM
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/livestream.telvue.com/phillycam1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
@@ -853,14 +931,92 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.swagit.com/live
 #EXTINF:-1 tvg-name="Vision Global TV [Geo-blocked]" group-title="General",Vision Global TV [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/vdopanel.jlahozconsulting.com:3407/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-name="WBBJ (Jackson TN) (432p)" group-title="General",WBBJ (Jackson TN) (432p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dai.google.com/linear/hls/event/HZ3JdLVcQ463l3b1BLXmmQ/master.m3u8
+
+#EXTINF:-1 tvg-name="WBRZ Weather Channel Baton Rouge LA (480p)" group-title="General",WBRZ Weather Channel Baton Rouge LA (480p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d2a6g6zgxepbwi.cloudfront.net/wbrz-edge/weather.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="WBTS-CD1" group-title="General",WBTS-CD1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_channelId=88889713a&ads.xumo_ifaType=&ads.xumo_providerId=3820&ads.xumo_providerName=NBCNBOS
+
+#EXTINF:-1 tvg-name="WCAU-DT1" group-title="General",WCAU-DT1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI
+
+#EXTINF:-1 tvg-name="WCBI (Columbus MI)" group-title="General",WCBI (Columbus MI)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/townnews.g-mana.live/media/4efc62fa-ad0b-445c-a839-4d1e7636988e/main.m3u8
+
 #EXTINF:-1 tvg-name="WCOT 13 (Tallahassee FL)" group-title="General",WCOT 13 (Tallahassee FL)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.talgov.net/WCOT/smil:WCOT.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="WHPS Detroit" group-title="General",WHPS Detroit
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/f-tx-edge-87.christianworldmedia.com/313watkins/mp4:313watkins/playlist.m3u8
+#EXTINF:-1 tvg-name="WDEF-TV News Chattanooga TN" group-title="General",WDEF-TV News Chattanooga TN
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/townnews.g-mana.live/media/a54a6409-5e91-46f0-9fee-06904c1fd094/main.m3u8
+
+#EXTINF:-1 tvg-name="WFLD-DT1" group-title="General",WFLD-DT1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
+
+#EXTINF:-1 tvg-name="WFTX News Fort Myers FL" group-title="General",WFTX News Fort Myers FL
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
+
+#EXTINF:-1 tvg-name="WHBQ-DT1" group-title="General",WHBQ-DT1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-name="WHIO-DT1" group-title="General",WHIO-DT1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-name="WITI-DT1" group-title="General",WITI-DT1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8
 
 #EXTINF:-1 tvg-name="WITN 22 (Wilmington DE)" group-title="General",WITN 22 (Wilmington DE)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/witn.cablecast.tv/live-4/live/live.m3u8
+
+#EXTINF:-1 tvg-name="WJAX-DT1" group-title="General",WJAX-DT1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-name="WJBK-DT1" group-title="General",WJBK-DT1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8
+
+#EXTINF:-1 tvg-name="WMGT-TV News (Macon GA)" group-title="General",WMGT-TV News (Macon GA)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/townnews.g-mana.live/media/e6909128-cd42-4690-8340-4b8a49455666/main.m3u8
+
+#EXTINF:-1 tvg-name="WNYW-DT1" group-title="General",WNYW-DT1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
+
+#EXTINF:-1 tvg-name="WPTV News West Palm Beach FL" group-title="General",WPTV News West Palm Beach FL
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
+
+#EXTINF:-1 tvg-name="WPXI-DT1" group-title="General",WPXI-DT1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-name="WSBS-DT1" group-title="General",WSBS-DT1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
+
+#EXTINF:-1 tvg-name="WSOC-DT1" group-title="General",WSOC-DT1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-name="WTNH-DT1" group-title="General",WTNH-DT1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tkx.mp.lura.live/rest/v2/mcp/video/11135425.m3u8?anvack=pDKqMLyG9pVqMkSYRJHWu3XROjAlvR6z&eud=1iqQ+zazzEobWIhmmj6bA8STRJm4HceYQApO7QYBvy9BTps0KI7LuXGD4KK7RLtBTyO8KsbFw40vgX8hrw+xqw==
+
+#EXTINF:-1 tvg-name="WTTG-DT1" group-title="General",WTTG-DT1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
+
+#EXTINF:-1 tvg-name="WTVJ-DT1" group-title="General",WTVJ-DT1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/nbculocallive.akamaized.net/hls/live/2037498/miami/stream1/master.m3u8
+
+#EXTINF:-1 tvg-name="WTVQ ABC 36 News (Lexington KY)" group-title="General",WTVQ ABC 36 News (Lexington KY)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/townnews.g-mana.live/media/14d1fd2c-0548-4803-80ad-6657831a7981/main.m3u8
+
+#EXTINF:-1 tvg-name="WTVT-DT1" group-title="General",WTVT-DT1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8
+
+#EXTINF:-1 tvg-name="WTXF-DT1" group-title="General",WTXF-DT1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
+
+#EXTINF:-1 tvg-name="WVIT-DT1" group-title="General",WVIT-DT1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d368vp0qqzvkid.cloudfront.net/11603/88889707/hls/master.m3u8?ads.xumo_channelId=88889707a&ads.xumo_ifaType=&ads.xumo_providerId=3832&ads.xumo_providerName=NBCNCT
+
+#EXTINF:-1 tvg-name="WXXV-TV News (Biloxi MS)" group-title="General",WXXV-TV News (Biloxi MS)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/townnews.g-mana.live/media/c8c354e0-672f-4368-a17d-a862ee98af4a/main.m3u8
 
 #EXTINF:-1 tvg-name="Zarin TV" group-title="General",Zarin TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/fl1002.bozztv.com/gf-zarintv/index.m3u8
@@ -2368,48 +2524,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.relentlessinnovat
 #EXTINF:-1 tvg-name="Azstar TV" group-title="General",Azstar TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 
-#EXTINF:-1 tvg-name="CBC Calgary (CBRT-DT) [Geo-blocked]" group-title="General",CBC Calgary (CBRT-DT) [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
-
-#EXTINF:-1 tvg-name="CBC Edmonton (CBXT-DT) [Geo-blocked]" group-title="General",CBC Edmonton (CBXT-DT) [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
-
-#EXTINF:-1 tvg-name="CBC Manitoba (CBWT-DT) [Geo-blocked]" group-title="General",CBC Manitoba (CBWT-DT) [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8
-
-#EXTINF:-1 tvg-name="CBC Montréal (CBMT-DT) [Geo-blocked]" group-title="General",CBC Montréal (CBMT-DT) [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
-
-#EXTINF:-1 tvg-name="CBC New Brunswick (CBAT-DT) [Geo-blocked]" group-title="General",CBC New Brunswick (CBAT-DT) [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
-
-#EXTINF:-1 tvg-name="CBC Newfoundland and Labrador (CBNT-DT) [Geo-blocked]" group-title="General",CBC Newfoundland and Labrador (CBNT-DT) [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
-
-#EXTINF:-1 tvg-name="CBC North (CFYK-DT) [Geo-blocked]" group-title="General",CBC North (CFYK-DT) [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8
-
-#EXTINF:-1 tvg-name="CBC Nova Scotia (CBHT-DT) [Geo-blocked]" group-title="General",CBC Nova Scotia (CBHT-DT) [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
-
-#EXTINF:-1 tvg-name="CBC Ottawa (CBOT-DT) [Geo-blocked]" group-title="General",CBC Ottawa (CBOT-DT) [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
-
-#EXTINF:-1 tvg-name="CBC Prince Edward Island (CBCT-DT) [Geo-blocked]" group-title="General",CBC Prince Edward Island (CBCT-DT) [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
-
-#EXTINF:-1 tvg-name="CBC Saskatchewan (CBKT-DT) [Geo-blocked]" group-title="General",CBC Saskatchewan (CBKT-DT) [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8
-
-#EXTINF:-1 tvg-name="CBC Toronto (CBLT-DT) [Geo-blocked]" group-title="General",CBC Toronto (CBLT-DT) [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
-
-#EXTINF:-1 tvg-name="CBC Vancouver (CBUT-DT) [Geo-blocked]" group-title="General",CBC Vancouver (CBUT-DT) [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
-
-#EXTINF:-1 tvg-name="CBC Windsor (CBET-DT) [Geo-blocked]" group-title="General",CBC Windsor (CBET-DT) [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8
-
 #EXTINF:-1 tvg-name="CHCO-TV [Geo-blocked]" group-title="General",CHCO-TV [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/temp4.isilive.ca/live/CHCOTV/live/index.m3u8
 
@@ -2421,45 +2535,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.bozztv.com/tvst
 
 #EXTINF:-1 tvg-name="GTN Canada (1080i) [Geo-blocked]" group-title="General",GTN Canada (1080i) [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8
-
-#EXTINF:-1 tvg-name="Ici Radio-Canada Télé [Geo-blocked]" group-title="General",Ici Radio-Canada Télé [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
-
-#EXTINF:-1 tvg-name="Ici Radio-Canada Télé Alberta (CBXFT-DT) [Geo-blocked]" group-title="General",Ici Radio-Canada Télé Alberta (CBXFT-DT) [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8
-
-#EXTINF:-1 tvg-name="Ici Radio-Canada Télé Colombie-Britannique/Yukon (CBUFT-DT) [Geo-blocked]" group-title="General",Ici Radio-Canada Télé Colombie-Britannique/Yukon (CBUFT-DT) [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8
-
-#EXTINF:-1 tvg-name="Ici Radio-Canada Télé Est du Québec (CJBR-DT) [Geo-blocked]" group-title="General",Ici Radio-Canada Télé Est du Québec (CJBR-DT) [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8
-
-#EXTINF:-1 tvg-name="Ici Radio-Canada Télé Estrie (CKSH-DT) [Geo-blocked]" group-title="General",Ici Radio-Canada Télé Estrie (CKSH-DT) [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8
-
-#EXTINF:-1 tvg-name="Ici Radio-Canada Télé Manitoba (CBWFT-DT) [Geo-blocked]" group-title="General",Ici Radio-Canada Télé Manitoba (CBWFT-DT) [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8
-
-#EXTINF:-1 tvg-name="Ici Radio-Canada Télé Mauricie/Centre-du-Québec (CKTM-DT) [Geo-blocked]" group-title="General",Ici Radio-Canada Télé Mauricie/Centre-du-Québec (CKTM-DT) [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
-
-#EXTINF:-1 tvg-name="Ici Radio-Canada Télé Ontario (CBLFT-DT) [Geo-blocked]" group-title="General",Ici Radio-Canada Télé Ontario (CBLFT-DT) [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8
-
-#EXTINF:-1 tvg-name="Ici Radio-Canada Télé Ottawa/Gatineau (CBOFT-DT) [Geo-blocked]" group-title="General",Ici Radio-Canada Télé Ottawa/Gatineau (CBOFT-DT) [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8
-
-#EXTINF:-1 tvg-name="Ici Radio-Canada Télé Québec (CBVT-DT) [Geo-blocked]" group-title="General",Ici Radio-Canada Télé Québec (CBVT-DT) [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8
-
-#EXTINF:-1 tvg-name="Ici Radio-Canada Télé Saguenay/Lac-St-Jean (CKTV-DT) [Geo-blocked]" group-title="General",Ici Radio-Canada Télé Saguenay/Lac-St-Jean (CKTV-DT) [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8
-
-#EXTINF:-1 tvg-name="Ici Radio-Canada Télé Saskatchewan (CBKFT-DT) [Geo-blocked]" group-title="General",Ici Radio-Canada Télé Saskatchewan (CBKFT-DT) [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8
-
-#EXTINF:-1 tvg-name="Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked]" group-title="General",Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
 
 #EXTINF:-1 tvg-name="NACTV" group-title="General",NACTV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8
@@ -2475,9 +2550,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.ntdtv.com/cwlive2
 
 #EXTINF:-1 tvg-name="Sohail TV" group-title="General",Sohail TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/iptv.sohailtv.com/sohail/playlist/index.m3u8
-
-#EXTINF:-1 tvg-name="TVA [Geo-blocked]" group-title="General",TVA [Geo-blocked]
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 
 #EXTINF:-1 tvg-name="Watan-e-Maa TV" group-title="General",Watan-e-Maa TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
@@ -6916,6 +6988,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.centaurychile.com/i
 #EXTINF:-1 tvg-name="Telelima" group-title="General",Telelima
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Soyuzny (576p)" group-title="General",Soyuzny (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Global TV" group-title="General",Global TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8
 
@@ -7306,7 +7381,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/ip.webcamcaboverde.com
 #EXTINF:-1 tvg-name="Zagros TV" group-title="General",Zagros TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/hlspackager.akamaized.net/live/DB/ZAGROS_TV/HLS/ZAGROS_TV.m3u8
 
-#EXTINF:-1 tvg-name="LBC" group-title="General",LBC
+#EXTINF:-1 tvg-name="LBC (576p)" group-title="General",LBC (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.9.2.18/chid_327/index.m3u8
 
 #EXTINF:-1 tvg-name="El Siete" group-title="General",El Siete
@@ -7999,6 +8074,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/bantel-cdn1.iptvperu.t
 #EXTINF:-1 tvg-name="Fox West" group-title="General",Fox West
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.cammonitorplus.net/1799/index.m3u8
 
+#EXTINF:-1 tvg-name="KPVM AWE Plus" group-title="General",KPVM AWE Plus
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/2-fss-2.streamhoster.com/pl_120/206858-4404552-1/playlist.m3u8
+
 #EXTINF:-1 tvg-name="KPVM Prime TV25" group-title="General",KPVM Prime TV25
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/2-fss-1.streamhoster.com/pl_122/206858-4405346-1/playlist.m3u8
 
@@ -8154,9 +8232,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-tiva-isaocorp-clou
 
 #EXTINF:-1 tvg-name="Vivax TV" group-title="General",Vivax TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/video11.logicahost.com.br/redevivaxtv/redevivaxtv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="CFTO-DT" group-title="General",CFTO-DT
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.cammonitorplus.net/1712/index.m3u8
 
 #EXTINF:-1 tvg-name="CTV 2 Atlantic" group-title="General",CTV 2 Atlantic
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.cammonitorplus.net/1731/index.m3u8
@@ -9091,7 +9166,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/streams.comclark.com/p
 #EXTINF:-1 tvg-name="NHK BS" group-title="General",NHK BS
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/streams.comclark.com/pknsd/nhk_bs1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Antena 7 (480p)[Geo-blocked]" group-title="General",Antena 7 (480p)[Geo-blocked]
+#EXTINF:-1 tvg-name="Antena 7 (480p)" group-title="General",Antena 7 (480p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-name="Maniel TV" group-title="General",Maniel TV
@@ -9223,6 +9298,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/183.bozztv.com/giatv/g
 #EXTINF:-1 tvg-name="Telemundo Al Dia" group-title="General",Telemundo Al Dia
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/d3f4oii5n0oeqi.cloudfront.net/11701/88814573/hls/master.m3u8?ads.xumo_channelId=88814573
 
+#EXTINF:-1 tvg-name="WTMO-CD 31.1" group-title="General",WTMO-CD 31.1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8
+
 #EXTINF:-1 tvg-name="Diya TV" group-title="General",Diya TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.diyatvinc.com/diya.m3u8
 
@@ -9316,6 +9394,66 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/138.121.113.175:8000/p
 #EXTINF:-1 tvg-name="Rumbo Minero TV" group-title="General",Rumbo Minero TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.70.201.81:8000/play/a018/index.m3u8
 
+#EXTINF:-1 tvg-name="Enisey (576p)" group-title="General",Enisey (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tshift-1.telecoma.tv/enisei/index.m3u8
+
+#EXTINF:-1 tvg-name="Первый Городской (Одесса) (576p)" group-title="General",Первый Городской (Одесса) (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/91.194.79.46:8081/stream2/channel2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MDR Fernsehen Thuringen" group-title="General",MDR Fernsehen Thuringen
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV5Monde France Belgium Switzerland Monaco" group-title="General",TV5Monde France Belgium Switzerland Monaco
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/5.78.65.164/TV5Monde/index.m3u8
+
+#EXTINF:-1 tvg-name="BRTV 北京卫视" group-title="General",BRTV 北京卫视
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ivi.bupt.edu.cn/hls/btv1.m3u8
+
+#EXTINF:-1 tvg-name="Dragon TV International" group-title="General",Dragon TV International
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8
+
+#EXTINF:-1 tvg-name="Hunat TV (480p)" group-title="General",Hunat TV (480p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/59cba4d34b678.streamlock.net/canlitv/hunattv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="COM Brasil" group-title="General",COM Brasil
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
+
+#EXTINF:-1 tvg-name="5tv" group-title="General",5tv
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="15TV" group-title="General",15TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/servilive.com:3380/live/v3n6thy7glive.m3u8
+
+#EXTINF:-1 tvg-name="RTR-Planeta (576p)" group-title="General",RTR-Planeta (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/fs.uplink.kz/rtr_planeta/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-name="Arica TV" group-title="General",Arica TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/envivo.arica.tv/hls/Live2025AricaTV.m3u8
+
+#EXTINF:-1 tvg-name="Canal 1 (576p)" group-title="General",Canal 1 (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/138.121.15.230:9002/CANAL-UNO/index.m3u8
+
+#EXTINF:-1 tvg-name="Globo TV" group-title="General",Globo TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.radiosmundiales.com/hls/globotvhonduras/globotvhonduras.m3u8
+
+#EXTINF:-1 tvg-name="Grande TV" group-title="General",Grande TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vs20.live.opencaster.com/grande41_0b593479/index.m3u8
+
+#EXTINF:-1 tvg-name="Nexxo TV" group-title="General",Nexxo TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/5790d294af2dc.streamlock.net/Nexxo/Nexxo/playlist.m3u8
+
+#EXTINF:-1 tvg-name="PromarTV (576p)" group-title="General",PromarTV (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vcp.myplaytv.com/promar/promar/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SolTV" group-title="General",SolTV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/videostream.shockmedia.com.ar/hls/canalsoltv/canalsoltv.m3u8
+
+#EXTINF:-1 tvg-name="Vision Sur" group-title="General",Vision Sur
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live-evg8.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ORTM 1" group-title="General",ORTM 1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cs2.push2stream.com/ORTM-DVR/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Belarus-1" group-title="General",Belarus-1
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 
@@ -9324,9 +9462,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.dc.beltelecom.b
 
 #EXTINF:-1 tvg-name="STV" group-title="General",STV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-name="ICI Montreal" group-title="General",ICI Montreal
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 
 #EXTINF:-1 tvg-name="Tele Tchad" group-title="General",Tele Tchad
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
@@ -9549,6 +9684,18 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/77.89.199.174:8000/pla
 
 #EXTINF:-1 tvg-name="Dasturxon TV (576p)" group-title="General",Dasturxon TV (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ABC 2 Baltimore MD (WMAR)" group-title="General",ABC 2 Baltimore MD (WMAR)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/aegis-cloudfront-1.tubi.video/c28d1ca8-9467-4798-81dc-09c1d6e90be1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ABC 9 Manchester NH (WMUR-TV)" group-title="General",ABC 9 Manchester NH (WMUR-TV)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/aegis-cloudfront-1.tubi.video/b77ffe96-c5d1-43a7-8687-306ff244d725/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ABC 9 Orlando FL (WFTV)" group-title="General",ABC 9 Orlando FL (WFTV)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ABC 27 Tallahassee FL (WTXL)" group-title="General",ABC 27 Tallahassee FL (WTXL)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/aegis-cloudfront-1.tubi.video/e739361e-fa12-4cac-92f3-e0dbf332cd88/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Телерадиокомпания 555 (Алушта)" group-title="General",Телерадиокомпания 555 (Алушта)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/trk555.tv:8888/live

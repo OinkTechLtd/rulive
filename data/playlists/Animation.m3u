@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-05 00:18:03
-# Всего каналов: 23291
-# Новых за сессию: 1
+# Обновлено: 2026-09-05 03:10:48
+# Всего каналов: 23400
+# Новых за сессию: 109
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation
 # Каналов: 63
-# Обновлено: 2026-09-05 00:18:04
+# Обновлено: 2026-09-05 03:10:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Animation+ [Geo-blocked]" group-title="Animation",Animation+ [Geo-blocked]
@@ -15,9 +15,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/pb-ioe9d0fpkd6pp.akama
 
 #EXTINF:-1 tvg-name="ANIME x HIDIVE [Geo-blocked]" group-title="Animation",ANIME x HIDIVE [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Blues TV" group-title="Animation",Blues TV
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="FilmRise Anime" group-title="Animation",FilmRise Anime
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/dvu7aia8rjlfm.cloudfront.net/master.m3u8
@@ -196,6 +193,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream-us-east-1.getpu
 #EXTINF:-1 tvg-name="ETC TV" group-title="Animation",ETC TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn1tlinkgo.tlink.cl/etc/mono.m3u8
 
+#EXTINF:-1 tvg-name="ANIME x HIDIVE" group-title="Animation",ANIME x HIDIVE
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8
+
 #EXTINF:-1 tvg-name="Animax Asia (480i) [Geo-blocked]" group-title="Animation",Animax Asia (480i) [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cignalplaymaxcdn.qzz.io/animax_zte/sanjuantv/manifest.mpd
 
@@ -211,6 +211,8 @@ https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 #EXTINF:-1 tvg-name="3ABN Kids Network" group-title="Animation;Kids;Religious",3ABN Kids Network
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Blues TV" group-title="Animation;Kids",Blues TV
+https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Gooder Nation Channel 32" group-title="Animation;General",Gooder Nation Channel 32
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/channel32/playlist.m3u8
 #EXTINF:-1 tvg-name="MCN6 Music Channel" group-title="Animation;Kids;Music",MCN6 Music Channel

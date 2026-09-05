@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-05 00:18:03
-# Всего каналов: 23291
-# Новых за сессию: 1
+# Обновлено: 2026-09-05 03:10:48
+# Всего каналов: 23400
+# Новых за сессию: 109
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids
-# Каналов: 492
-# Обновлено: 2026-09-05 00:18:04
+# Каналов: 493
+# Обновлено: 2026-09-05 03:10:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Mama (576p)" group-title="Kids",Mama (576p)
@@ -361,7 +361,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/playlist.fasttvcdn.com
 #EXTINF:-1 tvg-name="Taha TV (576p)" group-title="Kids",Taha TV (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.starmenajo.com/hls/app/live/ts:fhd.m3u8
 
-#EXTINF:-1 tvg-name="4 Fun Kids (576i) []" group-title="Kids",4 Fun Kids (576i) []
+#EXTINF:-1 tvg-name="4 Fun Kids (576i)" group-title="Kids",4 Fun Kids (576i)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.4fun.tv:8889/hls/4fk_high/index.m3u8
 
 #EXTINF:-1 tvg-name="Afarin Baxcha" group-title="Kids",Afarin Baxcha
@@ -1420,6 +1420,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/fs.uplink.kz/multiland
 #EXTINF:-1 tvg-name="Chikitoonz" group-title="Kids",Chikitoonz
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.70.201.81:8000/play/a00p/index.m3u8
 
+#EXTINF:-1 tvg-name="The Jungle Book" group-title="Kids",The Jungle Book
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+
 #EXTINF:-1 tvg-name="TNT Kids (288p)" group-title="Kids",TNT Kids (288p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/restreamer1.tnt.ba/hls/tntkids.m3u8
 
@@ -1498,6 +1501,8 @@ https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 #EXTINF:-1 tvg-name="3ABN Kids Network" group-title="Animation;Kids;Religious",3ABN Kids Network
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Blues TV" group-title="Animation;Kids",Blues TV
+https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Christian Youth Channel (CYC)" group-title="Kids;Religious",Christian Youth Channel (CYC)
 http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="KidsFlix" group-title="Kids;Movies",KidsFlix

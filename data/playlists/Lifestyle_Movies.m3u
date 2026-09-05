@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-05 00:18:03
-# Всего каналов: 23291
-# Новых за сессию: 1
+# Обновлено: 2026-09-05 03:10:48
+# Всего каналов: 23400
+# Новых за сессию: 109
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Lifestyle;Movies
 # Каналов: 3
-# Обновлено: 2026-09-05 00:18:04
+# Обновлено: 2026-09-05 03:10:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Great American Faith & Living" group-title="Lifestyle;Movies",Great American Faith & Living
@@ -397,6 +397,8 @@ http://190.2.212.209:8050/play/a0q4
 https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1 tvg-name="Victor Valley Movies" group-title="Movies",Victor Valley Movies
 https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/playlist.m3u8
+#EXTINF:-1 tvg-name="WFXT-DT2" group-title="Movies",WFXT-DT2
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
 #EXTINF:-1 tvg-name="Wu Tang Collection" group-title="Movies",Wu Tang Collection
 https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745
 #EXTINF:-1 tvg-name="BBC Travel" group-title="Lifestyle",BBC Travel
@@ -1639,8 +1641,6 @@ https://s70378.cdn.ngenix.net/filmbox/index.m3u8
 https://streams.comclark.com/pknsd/cinemo/playlist.m3u8
 #EXTINF:-1 tvg-name="Home Network" group-title="Lifestyle",Home Network
 http://40.160.24.53/HGTV/index.m3u8
-#EXTINF:-1 tvg-name="KPVM AWE Plus" group-title="Lifestyle;Travel",KPVM AWE Plus
-https://2-fss-2.streamhoster.com/pl_120/206858-4404552-1/playlist.m3u8
 #EXTINF:-1 tvg-name="CND Film Middle School Channel" group-title="Movies",CND Film Middle School Channel
 http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
 #EXTINF:-1 tvg-name="Bizz TV" group-title="Lifestyle",Bizz TV
@@ -2097,3 +2097,17 @@ https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
 https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="AVI Rewind" group-title="Movies",AVI Rewind
 http://45.70.201.81:8000/play/a010/index.m3u8
+#EXTINF:-1 tvg-name="TV5Monde Style" group-title="Lifestyle",TV5Monde Style
+http://103.190.232.129/stream/tvb/style/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+#EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Goldmines Movies (576p)" group-title="Movies",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Goldmines Movies (576p)
+http://103.175.73.12:8080/live/51/51_0.m3u8
+#EXTINF:-1 tvg-name="Canal Saude" group-title="Education;Lifestyle",Canal Saude
+https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Comedy" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Comedy
+https://polska.hach.workers.dev/14863.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Emotion" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Emotion
+https://polska.hach.workers.dev/14866.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Hits" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Hits
+https://polska.hach.workers.dev/14865.m3u8
+#EXTINF:-1 tvg-name="Zee Cinema APAC" group-title="Movies",Zee Cinema APAC
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
