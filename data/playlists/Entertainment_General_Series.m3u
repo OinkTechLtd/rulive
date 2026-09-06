@@ -1,18 +1,20 @@
 #EXTM3U
-# Обновлено: 2026-09-06 15:38:52
-# Всего каналов: 23446
-# Новых за сессию: 0
+# Обновлено: 2026-09-06 17:15:17
+# Всего каналов: 23452
+# Новых за сессию: 6
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;General;Series
 # Каналов: 1
-# Обновлено: 2026-09-06 15:38:53
+# Обновлено: 2026-09-06 17:15:18
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="HTV3" group-title="Entertainment;General;Series",HTV3
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/vc.101vn.com/htv/htvcmb.php?id=2535
 
+#EXTINF:-1 tvg-name="9Go! [Geo-blocked]" group-title="Entertainment;Kids",9Go! [Geo-blocked]
+https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
 #EXTINF:-1 tvg-name="Belarus-1" group-title="General",Belarus-1
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Belarus-2" group-title="Entertainment",Belarus-2
@@ -2907,6 +2909,8 @@ https://origin-de-y376549.cdn.nextologies.com:444/4c3caf7294b3/fbbd0aee3d9a8260/
 http://66.11.33.44:8081/live/TCF/playlist.m3u8
 #EXTINF:-1 tvg-name="Watan-e-Maa TV" group-title="General",Watan-e-Maa TV
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
+#EXTINF:-1 tvg-name="9Gem [Geo-blocked]" group-title="Entertainment",9Gem [Geo-blocked]
+https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
 #EXTINF:-1 tvg-name="ABC Australia" group-title="General",ABC Australia
 http://103.154.3.101:5001/live/2782.m3u8
 #EXTINF:-1 tvg-name="ABC TV ACT" group-title="General",ABC TV ACT
