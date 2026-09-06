@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-05 23:35:17
-# Всего каналов: 23407
-# Новых за сессию: 1
+# Обновлено: 2026-09-06 01:13:13
+# Всего каналов: 23439
+# Новых за сессию: 32
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Religious
 # Каналов: 7
-# Обновлено: 2026-09-05 23:35:18
+# Обновлено: 2026-09-06 01:13:14
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Сити Эдем ТВ Христианский" group-title="General;Religious",Сити Эдем ТВ Христианский
@@ -7707,3 +7707,5 @@ https://live-evg8.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8
 https://cs2.push2stream.com/ORTM-DVR/playlist.m3u8
 #EXTINF:-1 tvg-name="Charity TV" group-title="Religious",Charity TV
 https://652930de05533.streamlock.net/live/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 tvg-name="Color Vision (1280p)" group-title="General",Color Vision (1280p)
+https://hls.tvabierta.net/hls/009.m3u8

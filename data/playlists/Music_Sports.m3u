@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-05 23:35:17
-# Всего каналов: 23407
-# Новых за сессию: 1
+# Обновлено: 2026-09-06 01:13:13
+# Всего каналов: 23439
+# Новых за сессию: 32
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;Sports
 # Каналов: 1
-# Обновлено: 2026-09-05 23:35:18
+# Обновлено: 2026-09-06 01:13:14
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RTI La 3" group-title="Music;Sports",RTI La 3
@@ -89,8 +89,6 @@ https://live.m2.tv/hls3/stream.m3u8
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Муз ТВ (450p) [Geo-blocked]" group-title="Music",Муз ТВ (450p) [Geo-blocked]
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-#EXTINF:-1 tvg-name="DanceHits80" group-title="Music",DanceHits80
-http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 tvg-name="DTR Music 1" group-title="Music",DTR Music 1
 https://kino-stream.online/hls/DTRMUSIC1.m3u8
 #EXTINF:-1 tvg-name="Europa Plus TV" group-title="Music",Europa Plus TV
@@ -3043,6 +3041,8 @@ https://kctv.koryofront.org/stream/sports/index.m3u8
 http://180.188.254.253/live/KABADDI24X7.m3u8
 #EXTINF:-1 tvg-name="Sports Squad Haryana (576p)" group-title="Sports",Sports Squad Haryana (576p)
 http://180.188.254.253/live/SPORTSSQUADHARYANA.m3u8
+#EXTINF:-1 tvg-name="1 Music Television" group-title="Music",1 Music Television
+https://stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="FON Music (576p)" group-title="Music",FON Music (576p)
 https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Match! Planeta (576p)" group-title="Sports",Match! Planeta (576p)
@@ -3071,3 +3071,13 @@ https://7nyaler.streamhostingcdn.top/stream/28/index.m3u8
 https://media.noroc.tv/noroc/bitrate_1080p.m3u8
 #EXTINF:-1 tvg-name="Super TV (576p)" group-title="Music",Super TV (576p)
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-name="Isai Aruvi (396p)" group-title="Music",Isai Aruvi (396p)
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+#EXTINF:-1 tvg-name="Sony Sports Ten 1" group-title="Sports",Sony Sports Ten 1
+https://cloudplay-sonyliv.pages.dev/ten1.m3u8
+#EXTINF:-1 tvg-name="Sony Sports Ten 2" group-title="Sports",Sony Sports Ten 2
+https://cloudplay-sonyliv.pages.dev/ten2.m3u8
+#EXTINF:-1 tvg-name="Sony Sports Ten 3 Hindi" group-title="Sports",Sony Sports Ten 3 Hindi
+https://cloudplay-sonyliv.pages.dev/ten3.m3u8
+#EXTINF:-1 tvg-name="Sony Sports Ten 4" group-title="Sports",Sony Sports Ten 4
+https://cloudplay-sonyliv.pages.dev/ten4.m3u8

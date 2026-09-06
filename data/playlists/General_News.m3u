@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-05 23:35:17
-# Всего каналов: 23407
-# Новых за сессию: 1
+# Обновлено: 2026-09-06 01:13:13
+# Всего каналов: 23439
+# Новых за сессию: 32
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;News
 # Каналов: 23
-# Обновлено: 2026-09-05 23:35:18
+# Обновлено: 2026-09-06 01:13:14
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Сочи 24" group-title="General;News",Сочи 24
@@ -8425,3 +8425,5 @@ https://live-evg8.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8
 https://cs2.push2stream.com/ORTM-DVR/playlist.m3u8
 #EXTINF:-1 tvg-name="News1" group-title="News",News1
 https://live-us1.thaimomo.com/live-as/chnews1-2/playlist.m3u8
+#EXTINF:-1 tvg-name="Color Vision (1280p)" group-title="General",Color Vision (1280p)
+https://hls.tvabierta.net/hls/009.m3u8

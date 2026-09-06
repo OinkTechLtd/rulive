@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-05 23:35:17
-# Всего каналов: 23407
-# Новых за сессию: 1
+# Обновлено: 2026-09-06 01:13:13
+# Всего каналов: 23439
+# Новых за сессию: 32
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;Music
 # Каналов: 3
-# Обновлено: 2026-09-05 23:35:18
+# Обновлено: 2026-09-06 01:13:14
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Shemaroo Filmi Gaane" group-title="Movies;Music",Shemaroo Filmi Gaane
@@ -129,8 +129,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b4743
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 #EXTINF:-1 tvg-name="Муз ТВ (450p) [Geo-blocked]" group-title="Music",Муз ТВ (450p) [Geo-blocked]
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-#EXTINF:-1 tvg-name="DanceHits80" group-title="Music",DanceHits80
-http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 tvg-name="DTR Music 1" group-title="Music",DTR Music 1
 https://kino-stream.online/hls/DTRMUSIC1.m3u8
 #EXTINF:-1 tvg-name="Europa Plus TV" group-title="Music",Europa Plus TV
@@ -3261,7 +3259,7 @@ https://s3.itcnbd.live/channel/6f6b7b6d25fbd0e6.m3u8
 http://40.160.24.52/ACTIONMAX/index.m3u8
 #EXTINF:-1 tvg-name="ActionMax East" group-title="Movies",ActionMax East
 https://gpuserver3.tier1streams.com/ACTIONMAX/index.m3u8
-#EXTINF:-1 tvg-name="MoreMax" group-title="Movies",MoreMax
+#EXTINF:-1 tvg-name="Cinemax Hits" group-title="Movies",Cinemax Hits
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:-1 tvg-name="Starz Cinema [Geo-blocked]" group-title="Movies",Starz Cinema [Geo-blocked]
 https://messi.damitv.st/papi/ts/starzcinema-usa/playlist.m3u8
@@ -3509,6 +3507,8 @@ https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
 http://59.103.38.46:8000/play/a052/index.m3u8
 #EXTINF:-1 tvg-name="Star Gold 2" group-title="Movies",Star Gold 2
 http://66.102.126.10:8000/play/a077/index.m3u8
+#EXTINF:-1 tvg-name="1 Music Television" group-title="Music",1 Music Television
+https://stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Dom kino International (576p)" group-title="Movies",Dom kino International (576p)
 https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-name="Dorama (576p)" group-title="Movies",Dorama (576p)
@@ -3547,3 +3547,17 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://media.noroc.tv/noroc/bitrate_1080p.m3u8
 #EXTINF:-1 tvg-name="Super TV (576p)" group-title="Music",Super TV (576p)
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-name="Cinemax Classics" group-title="Movies",Cinemax Classics
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:-1 tvg-name="HBO Hits" group-title="Movies;Series",HBO Hits
+http://tvsen7.aynascope.net/hbo2/index.m3u8
+#EXTINF:-1 tvg-name="HBO Movies" group-title="Movies;Series",HBO Movies
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-name="Isai Aruvi (396p)" group-title="Music",Isai Aruvi (396p)
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+#EXTINF:-1 tvg-name="Sony Max 2" group-title="Movies",Sony Max 2
+https://cloudplay-sonyliv.pages.dev/max2.m3u8
+#EXTINF:-1 tvg-name="Sony Pix" group-title="Movies",Sony Pix
+https://cloudplay-sonyliv.pages.dev/pixhd.m3u8
+#EXTINF:-1 tvg-name="Sony Wah" group-title="Movies",Sony Wah
+https://cloudplay-sonyliv.pages.dev/wah.m3u8

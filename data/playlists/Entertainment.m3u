@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-05 23:35:17
-# Всего каналов: 23407
-# Новых за сессию: 1
+# Обновлено: 2026-09-06 01:13:13
+# Всего каналов: 23439
+# Новых за сессию: 32
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment
-# Каналов: 1168
-# Обновлено: 2026-09-05 23:35:18
+# Каналов: 1175
+# Обновлено: 2026-09-06 01:13:14
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Arte [Geo-blocked]" group-title="Entertainment",Arte [Geo-blocked]
@@ -2179,6 +2179,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/iptv.prosto.tv/ch168/i
 #EXTINF:-1 tvg-name="MTV Global" group-title="Entertainment",MTV Global
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/12055/index.m3u8
 
+#EXTINF:-1 tvg-name="Subbota!" group-title="Entertainment",Subbota!
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=2066519758&s=dmUf6BUQzDBTwtQOseAfog&scheme=https
+
 #EXTINF:-1 tvg-name="U" group-title="Entertainment",U
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
 
@@ -2887,6 +2890,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.190.28.50/AE_HD/ind
 #EXTINF:-1 tvg-name="Fox (576p)" group-title="Entertainment",Fox (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/182/index.m3u8
 
+#EXTINF:-1 tvg-name="Subbota!" group-title="Entertainment",Subbota!
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/269/index.m3u8
+
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/157/index.m3u8
 
@@ -3393,6 +3399,21 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/5949aa132c8fb.streamlo
 
 #EXTINF:-1 tvg-name="Colosal TV" group-title="Entertainment",Colosal TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AMC en Espanol" group-title="Entertainment",AMC en Espanol
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sony Aath" group-title="Entertainment",Sony Aath
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cloudplay-sonyliv.pages.dev/aath.m3u8
+
+#EXTINF:-1 tvg-name="Sony Marathi" group-title="Entertainment",Sony Marathi
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cloudplay-sonyliv.pages.dev/marathi.m3u8
+
+#EXTINF:-1 tvg-name="Sony Pal" group-title="Entertainment",Sony Pal
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cloudplay-sonyliv.pages.dev/pal.m3u8
+
+#EXTINF:-1 tvg-name="Sony SAB" group-title="Entertainment",Sony SAB
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cloudplay-sonyliv.pages.dev/sabhd.m3u8
 
 #EXTINF:-1 tvg-name="Belarus-2" group-title="Entertainment",Belarus-2
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8

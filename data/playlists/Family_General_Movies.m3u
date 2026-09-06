@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-05 23:35:17
-# Всего каналов: 23407
-# Новых за сессию: 1
+# Обновлено: 2026-09-06 01:13:13
+# Всего каналов: 23439
+# Новых за сессию: 32
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Family;General;Movies
 # Каналов: 1
-# Обновлено: 2026-09-05 23:35:18
+# Обновлено: 2026-09-06 01:13:14
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="MCI Televisión" group-title="Family;General;Movies",MCI Televisión
@@ -7523,7 +7523,7 @@ http://40.160.24.52/ACTIONMAX/index.m3u8
 https://gpuserver3.tier1streams.com/ACTIONMAX/index.m3u8
 #EXTINF:-1 tvg-name="Fox [Geo-blocked]" group-title="General",Fox [Geo-blocked]
 https://messi.damitv.st/papi/ts/fox-usa/playlist.m3u8
-#EXTINF:-1 tvg-name="MoreMax" group-title="Movies",MoreMax
+#EXTINF:-1 tvg-name="Cinemax Hits" group-title="Movies",Cinemax Hits
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:-1 tvg-name="Showtime Family Zone [Geo-blocked]" group-title="Family",Showtime Family Zone [Geo-blocked]
 https://messi.damitv.st/papi/ts/showtimefamilyzone-usa/playlist.m3u8
@@ -7919,3 +7919,17 @@ https://polska.hach.workers.dev/14866.m3u8
 https://polska.hach.workers.dev/14865.m3u8
 #EXTINF:-1 tvg-name="Zee Cinema APAC" group-title="Movies",Zee Cinema APAC
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
+#EXTINF:-1 tvg-name="Cinemax Classics" group-title="Movies",Cinemax Classics
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:-1 tvg-name="HBO Hits" group-title="Movies;Series",HBO Hits
+http://tvsen7.aynascope.net/hbo2/index.m3u8
+#EXTINF:-1 tvg-name="HBO Movies" group-title="Movies;Series",HBO Movies
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-name="Sony Max 2" group-title="Movies",Sony Max 2
+https://cloudplay-sonyliv.pages.dev/max2.m3u8
+#EXTINF:-1 tvg-name="Sony Pix" group-title="Movies",Sony Pix
+https://cloudplay-sonyliv.pages.dev/pixhd.m3u8
+#EXTINF:-1 tvg-name="Sony Wah" group-title="Movies",Sony Wah
+https://cloudplay-sonyliv.pages.dev/wah.m3u8
+#EXTINF:-1 tvg-name="Color Vision (1280p)" group-title="General",Color Vision (1280p)
+https://hls.tvabierta.net/hls/009.m3u8

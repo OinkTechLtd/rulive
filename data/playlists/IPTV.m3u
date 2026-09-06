@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-05 23:35:17
-# Всего каналов: 23407
-# Новых за сессию: 1
+# Обновлено: 2026-09-06 01:13:13
+# Всего каналов: 23439
+# Новых за сессию: 32
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: IPTV
 # Каналов: 1201
-# Обновлено: 2026-09-05 23:35:18
+# Обновлено: 2026-09-06 01:13:14
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="A2 CNN Albania" group-title="IPTV",A2 CNN Albania
@@ -3361,9 +3361,6 @@ https://yandexwebcache.net/yandbtm?fmode=inject&tm=1788411356&tld=ru&lang=en&la=
 #EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
 https://yandexwebcache.net/yandbtm?fmode=inject&tm=1788411356&tld=ru&lang=en&la=1783813504&text=tvrain+live+stream+m3u8&url=https%3A//github.com/SkuryginSergey/IPTV/blob/main/IPTV_work.m3u&l10n=ru&mime=html&sign=b87e06a314f3a285c382cac45e7603a9&keyno=0&quot;},{&quot;variant&quot;:&quot;more&quot;,&quot;url&quot;:&quot;/search/?text=site%3Agithub.com%20tvrain%20live%20stream%20m3u8&lr=213&noreask=1&quot;,&quot;target&quot;:&quot;_self&quot;},{&quot;variant&quot;:&quot;info&quot;,&quot;url&quot;:&quot;https://webmaster.yandex.ru/siteinfo/?site=github.com&quot;},{&quot;variant&quot;:&quot;reportFeedback&quot;,&quot;reportFeedback&quot;:{&quot;feature&quot;:&quot;Органика&quot;,&quot;customMetaFields&quot;:[{&quot;name&quot;:&quot;url-complaint&quot;,&quot;value&quot;:&quot;https://github.com/SkuryginSergey/IPTV/blob/main/IPTV_work.m3u&quot;},{&quot;name&quot;:&quot;docId&quot;,&quot;value&quot;:&quot;1&quot;}],&quot;title&quot;:&quot;Что
 
-#EXTINF:-1 tvg-name="1 Music Television" group-title="IPTV",1 Music Television
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-name="Arsenal (576p)" group-title="IPTV",Arsenal (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 
@@ -3582,6 +3579,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/liveovh010.cda.pl/zkr7
 
 #EXTINF:-1 tvg-name="Da Vinci (576p)" group-title="IPTV",Da Vinci (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tmptv.sunduk.tv/CH205/index.m3u8
+
+#EXTINF:-1 tvg-name="DanceHits80" group-title="IPTV",DanceHits80
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dancehits80.denvs.ru:8080/index.m3u8
 
 #EXTINF:-1 tvg-name="Domashnie Zhivotnye" group-title="IPTV",Domashnie Zhivotnye
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tmptv.sunduk.tv/CH207/index.m3u8
