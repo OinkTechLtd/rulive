@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-06 12:15:32
-# Всего каналов: 23443
-# Новых за сессию: 1
+# Обновлено: 2026-09-06 14:20:23
+# Всего каналов: 23446
+# Новых за сессию: 3
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: IPTV
-# Каналов: 1201
-# Обновлено: 2026-09-06 12:15:32
+# Каналов: 1204
+# Обновлено: 2026-09-06 14:20:24
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="A2 CNN Albania" group-title="IPTV",A2 CNN Albania
@@ -591,6 +591,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/188.113.190.13/1/video
 
 #EXTINF:-1 tvg-name="Ani (576p)" group-title="IPTV",Ani (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/46.32.176.50/anitv/index.m3u8
+
+#EXTINF:-1 tvg-name="Telefe Buenos Aires" group-title="IPTV",Telefe Buenos Aires
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 
 #EXTINF:-1 tvg-name="Общественный канал" group-title="IPTV",Общественный канал
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/public-broadcaster.com/stream.m3u8
@@ -3378,6 +3381,12 @@ https://yandexwebcache.net/yandbtm?fmode=inject&tm=1788598124&tld=ru&lang=en&la=
 
 #EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
 https://github.com/smolnp/IPTVru/blob/gh-pages/IPTVmir.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/rpn3.bozztv.com/albaniatv/Med7-TV7Tirana/index.m3u8
+
+#EXTINF:-1 tvg-name="Unknown" group-title="IPTV",Unknown
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.apollon.tv/Apollon-Web/video.m3u8?token=tnt9u76reF0d1
 
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" group-title="IPTV",Kanali 7 Ⓢ
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/fe.tring.al/delta/105/out/u/1200_1.m3u8
