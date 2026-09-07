@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-07 00:43:05
-# Всего каналов: 23486
-# Новых за сессию: 28
+# Обновлено: 2026-09-07 01:15:59
+# Всего каналов: 23510
+# Новых за сессию: 24
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Family;General;Movies
 # Каналов: 1
-# Обновлено: 2026-09-07 00:43:06
+# Обновлено: 2026-09-07 01:16:00
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="MCI Televisión" group-title="Family;General;Movies",MCI Televisión
@@ -4337,8 +4337,6 @@ http://htvint.mada.ps:8889/orient/index.m3u8
 http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="HTV9 [Geo-blocked]" group-title="General;News",HTV9 [Geo-blocked]
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="NH Niews" group-title="General;News",NH Niews
-https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-name="Online TV Nusantara" group-title="Culture;General;Music;News",Online TV Nusantara
 https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlist.m3u8
 #EXTINF:-1 tvg-name="PRO TV Chisinau (480p)" group-title="General;News",PRO TV Chisinau (480p)
@@ -4451,8 +4449,6 @@ https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8
 https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="TVR Sport" group-title="General;Sports",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-name="FomixTV" group-title="General;Music;Public",FomixTV
-https://stream.fomixmedia.nl/FomixTV/video.m3u8
 #EXTINF:-1 tvg-name="TVR Folclor" group-title="General;Music",TVR Folclor
 https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="HTV3" group-title="Entertainment;General;Series",HTV3
@@ -4519,12 +4515,8 @@ https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
 https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
 #EXTINF:-1 tvg-name="Aşgabat (406p)" group-title="General",Aşgabat (406p)
 https://alpha.tv.online.tm/hls/ch006.m3u8
-#EXTINF:-1 tvg-name="Assen TV" group-title="General",Assen TV
-https://takeoff.jetstre.am/?account=OmroepAssen&file=OmroepAssenTV/playlist.m3u8&output=playlist.m3u8&protocol=https&service=webdav&type=live
 #EXTINF:-1 tvg-name="Astro Blitar TV" group-title="General",Astro Blitar TV
 https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
-#EXTINF:-1 tvg-name="AT5" group-title="General",AT5
-https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-name="ATN Bangla UK (576p)" group-title="General",ATN Bangla UK (576p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Atrak" group-title="General",Atrak
@@ -4689,12 +4681,6 @@ https://hls.drochia.tv/tv/web.m3u8
 https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
 #EXTINF:-1 tvg-name="DSTV" group-title="General",DSTV
 http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
-#EXTINF:-1 tvg-name="DTV Den Bosch" group-title="General",DTV Den Bosch
-https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv2&output=playlist.m3u8&protocol=https&service=wowza&type=live
-#EXTINF:-1 tvg-name="DTV Maashorst" group-title="General",DTV Maashorst
-https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv3&output=playlist.m3u8&protocol=https&service=wowza&type=live
-#EXTINF:-1 tvg-name="DTV Oss & Bernheze" group-title="General",DTV Oss & Bernheze
-https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv1&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-name="Dudelange TV" group-title="General",Dudelange TV
 https://streamer20.multimedia.blue/Eltrona/DudelangeTV/playlist.m3u8
 #EXTINF:-1 tvg-name="Duna TV" group-title="General",Duna TV
@@ -4941,10 +4927,6 @@ https://live.kringvarp.fo/uttanlands/720/playlist.m3u8
 http://118.107.85.5:1935/live/smil:LTV.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="Lào Cai TV" group-title="General",Lào Cai TV
 https://live.baolaocai.vn/channel2/stream.m3u8
-#EXTINF:-1 tvg-name="LINQ TV (480p)" group-title="General",LINQ TV (480p)
-https://ms7.mx-cd.net/dtv-09/246-2090022/Linq_Media_TV.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="LOE TV" group-title="General",LOE TV
-https://58c04fb1d143f.streamlock.net/loemedia/loemedia/playlist.m3u8
 #EXTINF:-1 tvg-name="Luyaa TV (480p)" group-title="General",Luyaa TV (480p)
 https://goliveafrica.media:9998/live/659e7c6432815/index.m3u8
 #EXTINF:-1 tvg-name="Madaniyat va ma'rifat (576p)" group-title="General",Madaniyat va ma'rifat (576p)
@@ -4993,8 +4975,6 @@ https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Medium" group-title="Movies;Series",Medium
 https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8
-#EXTINF:-1 tvg-name="Meer TV" group-title="General",Meer TV
-https://593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8
 #EXTINF:-1 tvg-name="Merry Christmas from Viafree" group-title="Movies",Merry Christmas from Viafree
 https://jmp2.uk/plu-63048147b09fd60007847a08.m3u8
 #EXTINF:-1 tvg-name="Metropola TV" group-title="General",Metropola TV
@@ -5011,8 +4991,6 @@ https://stream8.cinerama.uz/1014/tracks-v1a1/playlist.m3u8
 http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-name="Mixkurdy" group-title="Family",Mixkurdy
 https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
-#EXTINF:-1 tvg-name="ML5 TV (480p)" group-title="General",ML5 TV (480p)
-https://ms7.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",MN25" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",MN25
 https://cdn4.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd
 #EXTINF:-1 tvg-name="MN TV" group-title="General",MN TV
@@ -5109,8 +5087,6 @@ https://stream.streaming4u.hu/ObudaTV/index.m3u8
 https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="OIK TV" group-title="General",OIK TV
 https://streamer05.low-latency.cz/oiktv/index.m3u8
-#EXTINF:-1 tvg-name="Omroep Tilburg TV (480p)" group-title="General",Omroep Tilburg TV (480p)
-https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="One" group-title="General",One
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
 #EXTINF:-1 tvg-name="One Channel [Geo-blocked]" group-title="General",One Channel [Geo-blocked]
@@ -6089,8 +6065,6 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
 #EXTINF:-1 tvg-name="Canal+ Cinemas" group-title="Movies",Canal+ Cinemas
 http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
-#EXTINF:-1 tvg-name="Canal+ Action Europe Slovakia" group-title="Movies",Canal+ Action Europe Slovakia
-http://151.80.18.177:86/Canal+_Family_HD/index.m3u8
 #EXTINF:-1 tvg-name="Al Aoula (480p)" group-title="General",Al Aoula (480p)
 https://snrtworker.kharazbelaid.workers.dev/?id=alaoula.m3u8
 #EXTINF:-1 tvg-name="Longino TV" group-title="General",Longino TV
@@ -6203,14 +6177,6 @@ http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8
 https://streamunoapp.com:3511/live/femeninatvlive.m3u8
 #EXTINF:-1 tvg-name="Telemetro" group-title="General",Telemetro
 http://181.78.121.15:8000/play/a001/index.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FILMBOX+ One Czechia" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FILMBOX+ One Czechia
-http://88.212.15.19/live/test_filmbox/playlist.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FILMBOX+ Emotion Czechia" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FILMBOX+ Emotion Czechia
-http://88.212.15.19/live/test_film_boxextra_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FILMBOX+ Hits Czechia" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FILMBOX+ Hits Czechia
-http://88.212.15.19/live/test_film_boxpremium_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FILMBOX+ Love & Crime" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FILMBOX+ Love & Crime
-http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-name="Juntos TV" group-title="General",Juntos TV
 https://live-evg8.tv360.bitel.com.pe/bitel/juntostvSRT/playlist.m3u8
 #EXTINF:-1 tvg-name="3sat" group-title="General",3sat
@@ -6247,8 +6213,6 @@ http://149.102.245.111/305/index.m3u8
 http://149.102.245.111/1261/index.m3u8
 #EXTINF:-1 tvg-name="BBC One Yorkshire" group-title="General",BBC One Yorkshire
 http://149.102.245.111/918/index.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FILMBOX+ Comedy Czechia" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FILMBOX+ Comedy Czechia
-http://88.212.15.19/live/test_filmbox_family_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-name="36 TV Huacho" group-title="General",36 TV Huacho
 https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/playlist.m3u8
 #EXTINF:-1 tvg-name="ABC Teleshow" group-title="General",ABC Teleshow
@@ -6741,8 +6705,6 @@ https://cdn-tiva-video03-logicahost-com-br.smartbit.co/cariocainternacional1/car
 https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Afaq TV" group-title="General",Afaq TV
 https://stream.afaq.iq/live/channel/afaqtv/playlist.m3u8
-#EXTINF:-1 tvg-name="FILMBOX+ Festival" group-title="Movies",FILMBOX+ Festival
-https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-name="Bolivision Santa Cruz" group-title="General",Bolivision Santa Cruz
 https://d1mws3umreue1g.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-name="Canal 70" group-title="General",Canal 70
@@ -6781,8 +6743,6 @@ http://45.189.62.33:8002/play/a0cc/index.m3u8
 https://streams.comclark.com/pknsd/a2z/playlist.m3u8
 #EXTINF:-1 tvg-name="CTV19" group-title="General",CTV19
 https://twitch-m3u8.bastypro112.workers.dev/ctv19live/index.m3u8
-#EXTINF:-1 tvg-name="FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked]" group-title="Movies",FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked]
-https://s70378.cdn.ngenix.net/filmbox/index.m3u8
 #EXTINF:-1 tvg-name="Jeepney TV (480p)" group-title="General",Jeepney TV (480p)
 https://streams.comclark.com/pknsd/jeepney/playlist.m3u8
 #EXTINF:-1 tvg-name="RPTV (480p)" group-title="General",RPTV (480p)
@@ -7225,14 +7185,10 @@ https://stream.smotrim.ru/hls/planeta_rtr_sng/playlist.m3u8?entity=channel&id=51
 http://145.239.5.177/147/index.m3u8
 #EXTINF:-1 tvg-name="Kantipur Max [Geo-blocked]" group-title="Movies",Kantipur Max [Geo-blocked]
 https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match2/playlist.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Comedy Magyar (576p)" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Comedy Magyar (576p)
-http://88.212.15.19/live/test_filmbox_family_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-name="Star Channel Latin America Central America" group-title="Movies;Series",Star Channel Latin America Central America
 https://streamer.metronethn.com/StarChannel/index.m3u8
 #EXTINF:-1 tvg-name="RTS 3" group-title="General",RTS 3
 http://145.239.5.177/224/index.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Emotion Hungary" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Emotion Hungary
-http://88.212.15.19/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-name="Evrokino" group-title="Movies",Evrokino
 http://stream.mcquack.net/385/index.m3u8
 #EXTINF:-1 tvg-name="Nashe (576p)" group-title="Movies;Series",Nashe (576p)
@@ -7297,20 +7253,12 @@ https://nhk4.mov3.co/hls/nhk.m3u8
 http://tvsen5.aynascope.net/familyjr/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",AXN CEE Romania" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",AXN CEE Romania
 https://aes.m3u8simplu.workers.dev/axn/index.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Film1 Action" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Film1 Action
-http://86.87.15.10:8008/play/a01l/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Love & Crime Romania (576p)" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Love & Crime Romania (576p)
 https://aes.m3u8simplu.workers.dev/filmboxstars/index.m3u8
 #EXTINF:-1 tvg-name="Fortis TV" group-title="General",Fortis TV
 https://stream.fortistv.com/hls/fortis-news/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Armenia Premium" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Armenia Premium
 http://stream.mcquack.net/123/index.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Film1 Drama" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Film1 Drama
-http://86.87.15.10:8008/play/a01k/index.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Film1 Family" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Film1 Family
-http://86.87.15.10:8008/play/a01m/index.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Film1 Premiere" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Film1 Premiere
-http://86.87.15.10:8008/play/a01n/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Emotion Romania" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Emotion Romania
 https://aes.m3u8simplu.workers.dev/filmboxextra/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Hits Romania (576p)" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Hits Romania (576p)
@@ -7773,6 +7721,8 @@ https://thor1.syndula1.cfd/df/usergendlg1ks0t2n.m3u8
 http://203.81.84.130/hls/mwd_movie/index.m3u8
 #EXTINF:-1 tvg-name="FILMBOX+ Comedy Romania" group-title="Movies",FILMBOX+ Comedy Romania
 https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8
+#EXTINF:-1 tvg-name="FILMBOX+ Festival" group-title="Movies",FILMBOX+ Festival
+https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8
 #EXTINF:-1 tvg-name="FILMBOX+ Love & Crime Romania" group-title="Movies",FILMBOX+ Love & Crime Romania
 https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Classic;Movies",Bollywood Classic Romania" group-title="Classic;Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Classic;Movies",Bollywood Classic Romania

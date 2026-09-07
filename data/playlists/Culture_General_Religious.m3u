@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-07 00:43:05
-# Всего каналов: 23486
-# Новых за сессию: 28
+# Обновлено: 2026-09-07 01:15:59
+# Всего каналов: 23510
+# Новых за сессию: 24
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;General;Religious
 # Каналов: 1
-# Обновлено: 2026-09-07 00:43:06
+# Обновлено: 2026-09-07 01:16:00
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Sercem TV" group-title="Culture;General;Religious",Sercem TV
@@ -5025,8 +5025,6 @@ http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="Lingkar TV" group-title="Music;News;Religious",Lingkar TV
 https://lingkartv.my.id/hls/lingkartv.m3u8
-#EXTINF:-1 tvg-name="NH Niews" group-title="General;News",NH Niews
-https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-name="Online TV Nusantara" group-title="Culture;General;Music;News",Online TV Nusantara
 https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlist.m3u8
 #EXTINF:-1 tvg-name="PRO TV Chisinau (480p)" group-title="General;News",PRO TV Chisinau (480p)
@@ -5047,8 +5045,6 @@ https://stream-live.lrt.lt/plius/master.m3u8
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-name="ETV2" group-title="Culture;Kids",ETV2
 https://sb.err.ee/live/etv2.m3u8
-#EXTINF:-1 tvg-name="FomixTV" group-title="General;Music;Public",FomixTV
-https://stream.fomixmedia.nl/FomixTV/video.m3u8
 #EXTINF:-1 tvg-name="TVR Folclor" group-title="General;Music",TVR Folclor
 https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/81.0.4044.138 Safari/537.36" group-title="Culture;Documentary",HRT 3" group-title="Culture;Documentary",like Gecko) Chrome/81.0.4044.138 Safari/537.36" group-title="Culture;Documentary",HRT 3
@@ -5187,12 +5183,8 @@ https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
 https://alpha.tv.online.tm/hls/ch006.m3u8
 #EXTINF:-1 tvg-name="Ashiil TV (480p)" group-title="Religious",Ashiil TV (480p)
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
-#EXTINF:-1 tvg-name="Assen TV" group-title="General",Assen TV
-https://takeoff.jetstre.am/?account=OmroepAssen&file=OmroepAssenTV/playlist.m3u8&output=playlist.m3u8&protocol=https&service=webdav&type=live
 #EXTINF:-1 tvg-name="Astro Blitar TV" group-title="General",Astro Blitar TV
 https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
-#EXTINF:-1 tvg-name="AT5" group-title="General",AT5
-https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-name="ATN Bangla UK (576p)" group-title="General",ATN Bangla UK (576p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Atrak" group-title="General",Atrak
@@ -5345,12 +5337,6 @@ https://hls.drochia.tv/tv/web.m3u8
 https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
 #EXTINF:-1 tvg-name="DSTV" group-title="General",DSTV
 http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
-#EXTINF:-1 tvg-name="DTV Den Bosch" group-title="General",DTV Den Bosch
-https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv2&output=playlist.m3u8&protocol=https&service=wowza&type=live
-#EXTINF:-1 tvg-name="DTV Maashorst" group-title="General",DTV Maashorst
-https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv3&output=playlist.m3u8&protocol=https&service=wowza&type=live
-#EXTINF:-1 tvg-name="DTV Oss & Bernheze" group-title="General",DTV Oss & Bernheze
-https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv1&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-name="Dudelange TV" group-title="General",Dudelange TV
 https://streamer20.multimedia.blue/Eltrona/DudelangeTV/playlist.m3u8
 #EXTINF:-1 tvg-name="Duna TV" group-title="General",Duna TV
@@ -5669,10 +5655,6 @@ https://app.viloud.tv/hls/channel/711fd3f3a4728449889ee22ba72958ff.m3u8
 https://lifetv.mpks.sk/s.m3u8
 #EXTINF:-1 tvg-name="Light Channel (480p)" group-title="Religious",Light Channel (480p)
 https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
-#EXTINF:-1 tvg-name="LINQ TV (480p)" group-title="General",LINQ TV (480p)
-https://ms7.mx-cd.net/dtv-09/246-2090022/Linq_Media_TV.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="LOE TV" group-title="General",LOE TV
-https://58c04fb1d143f.streamlock.net/loemedia/loemedia/playlist.m3u8
 #EXTINF:-1 tvg-name="LoveWorld Persia" group-title="Religious",LoveWorld Persia
 https://cdn3.wowza.com/5/aVJETlF0UFdmYTFu/LWPP/ngrp:persia.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Luyaa TV (480p)" group-title="General",Luyaa TV (480p)
@@ -5731,8 +5713,6 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 tvg-name="MCOT" group-title="General",MCOT
 https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Meer TV" group-title="General",Meer TV
-https://593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8
 #EXTINF:-1 tvg-name="Metropola TV" group-title="General",Metropola TV
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 #EXTINF:-1 tvg-name="Mezőkövesdi Televízió (360p)" group-title="General",Mezőkövesdi Televízió (360p)
@@ -5749,8 +5729,6 @@ https://stream8.cinerama.uz/1014/tracks-v1a1/playlist.m3u8
 https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
 #EXTINF:-1 tvg-name="Mithila Nepal TV" group-title="General",Mithila Nepal TV
 http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-name="ML5 TV (480p)" group-title="General",ML5 TV (480p)
-https://ms7.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",MN25" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",MN25
 https://cdn4.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd
 #EXTINF:-1 tvg-name="MN TV" group-title="General",MN TV
@@ -5853,8 +5831,6 @@ https://stream.streaming4u.hu/ObudaTV/index.m3u8
 https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="OIK TV" group-title="General",OIK TV
 https://streamer05.low-latency.cz/oiktv/index.m3u8
-#EXTINF:-1 tvg-name="Omroep Tilburg TV (480p)" group-title="General",Omroep Tilburg TV (480p)
-https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="One" group-title="General",One
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
 #EXTINF:-1 tvg-name="One Channel [Geo-blocked]" group-title="General",One Channel [Geo-blocked]

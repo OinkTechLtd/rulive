@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-07 00:43:05
-# Всего каналов: 23486
-# Новых за сессию: 28
+# Обновлено: 2026-09-07 01:15:59
+# Всего каналов: 23510
+# Новых за сессию: 24
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News;Public
 # Каналов: 9
-# Обновлено: 2026-09-07 00:43:05
+# Обновлено: 2026-09-07 01:16:00
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Canal 24 Horas" group-title="News;Public",Canal 24 Horas
@@ -1885,8 +1885,6 @@ http://103.250.28.74:8000/play/a01p/index.m3u8
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="News One" group-title="News",News One
 https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
-#EXTINF:-1 tvg-name="NH Niews" group-title="General;News",NH Niews
-https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-name="NRT TV" group-title="News",NRT TV
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 #EXTINF:-1 tvg-name="O'zbekiston 24" group-title="News",O'zbekiston 24
@@ -1977,8 +1975,6 @@ https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6j
 https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8
 #EXTINF:-1 tvg-name="YES" group-title="News",YES
 https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8
-#EXTINF:-1 tvg-name="FomixTV" group-title="General;Music;Public",FomixTV
-https://stream.fomixmedia.nl/FomixTV/video.m3u8
 #EXTINF:-1 tvg-name="Actualidad 360" group-title="News",Actualidad 360
 https://jmp2.uk/plu-67517fae5534bb0008187997.m3u8
 #EXTINF:-1 tvg-name="Berita RTM [Geo-blocked]" group-title="News",Berita RTM [Geo-blocked]
