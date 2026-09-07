@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-06 23:29:06
-# Всего каналов: 23458
-# Новых за сессию: 1
+# Обновлено: 2026-09-07 00:43:05
+# Всего каналов: 23486
+# Новых за сессию: 28
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;Music
 # Каналов: 1
-# Обновлено: 2026-09-06 23:29:07
+# Обновлено: 2026-09-07 00:43:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Persiana Nostalgia" group-title="Classic;Music",Persiana Nostalgia
@@ -1963,3 +1963,7 @@ https://media.noroc.tv/noroc/bitrate_1080p.m3u8
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-name="Isai Aruvi (396p)" group-title="Music",Isai Aruvi (396p)
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+#EXTINF:-1 tvg-name="Velvet. Golden Collection" group-title="Classic;Movies",Velvet. Golden Collection
+https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8
+#EXTINF:-1 tvg-name="Velvet. Sovetskoe Kino" group-title="Classic;Movies",Velvet. Sovetskoe Kino
+https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8

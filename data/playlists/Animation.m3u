@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-06 23:29:06
-# Всего каналов: 23458
-# Новых за сессию: 1
+# Обновлено: 2026-09-07 00:43:05
+# Всего каналов: 23486
+# Новых за сессию: 28
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation
 # Каналов: 63
-# Обновлено: 2026-09-06 23:29:07
+# Обновлено: 2026-09-07 00:43:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Animation+ [Geo-blocked]" group-title="Animation",Animation+ [Geo-blocked]
@@ -409,3 +409,5 @@ https://yuppparoriglin.akamaized.net/181224/smil:wowkidztam.smil/playlist.m3u8?h
 http://103.165.93.31:8095/sonyYay/index.m3u8
 #EXTINF:-1 tvg-name="Super Hungama (576p)" group-title="Animation;Kids",Super Hungama (576p)
 http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
+#EXTINF:-1 tvg-name="Detvora+" group-title="Animation;Family;Kids",Detvora+
+https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8

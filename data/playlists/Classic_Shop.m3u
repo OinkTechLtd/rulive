@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-06 23:29:06
-# Всего каналов: 23458
-# Новых за сессию: 1
+# Обновлено: 2026-09-07 00:43:05
+# Всего каналов: 23486
+# Новых за сессию: 28
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;Shop
 # Каналов: 1
-# Обновлено: 2026-09-06 23:29:07
+# Обновлено: 2026-09-07 00:43:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Timeless TV" group-title="Classic;Shop",Timeless TV
@@ -377,3 +377,7 @@ http://cdn1tlinkgo.tlink.cl/tvn3/mono.m3u8
 https://flash1.bogulus1.cfd/boly/usergenr9j8s2t.m3u8
 #EXTINF:-1 tvg-name="MOMO TV" group-title="Shop",MOMO TV
 http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
+#EXTINF:-1 tvg-name="Velvet. Golden Collection" group-title="Classic;Movies",Velvet. Golden Collection
+https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8
+#EXTINF:-1 tvg-name="Velvet. Sovetskoe Kino" group-title="Classic;Movies",Velvet. Sovetskoe Kino
+https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8

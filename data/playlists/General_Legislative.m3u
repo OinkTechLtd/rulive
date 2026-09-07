@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-06 23:29:06
-# Всего каналов: 23458
-# Новых за сессию: 1
+# Обновлено: 2026-09-07 00:43:05
+# Всего каналов: 23486
+# Новых за сессию: 28
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Legislative
 # Каналов: 1
-# Обновлено: 2026-09-06 23:29:07
+# Обновлено: 2026-09-07 00:43:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ATXN2" group-title="General;Legislative",ATXN2
@@ -6431,3 +6431,7 @@ https://live-evg8.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8
 https://cs2.push2stream.com/ORTM-DVR/playlist.m3u8
 #EXTINF:-1 tvg-name="Color Vision (1280p)" group-title="General",Color Vision (1280p)
 https://hls.tvabierta.net/hls/009.m3u8
+#EXTINF:-1 tvg-name="Super+ (360p)" group-title="Entertainment;General",Super+ (360p)
+http://dtv.vol.net.ua/super_plus/index.m3u8
+#EXTINF:-1 tvg-name="JOJG-DTV" group-title="General",JOJG-DTV
+https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/hevc/playlist.m3u8

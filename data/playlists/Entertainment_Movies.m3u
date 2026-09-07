@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-06 23:29:06
-# Всего каналов: 23458
-# Новых за сессию: 1
+# Обновлено: 2026-09-07 00:43:05
+# Всего каналов: 23486
+# Новых за сессию: 28
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Movies
 # Каналов: 2
-# Обновлено: 2026-09-06 23:29:07
+# Обновлено: 2026-09-07 00:43:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="KCM [Geo-blocked]" group-title="Entertainment;Movies",KCM [Geo-blocked]
@@ -3802,3 +3802,19 @@ https://cloudplay-sonyliv.pages.dev/pal.m3u8
 https://cloudplay-sonyliv.pages.dev/pixhd.m3u8
 #EXTINF:-1 tvg-name="Sony Wah" group-title="Movies",Sony Wah
 https://cloudplay-sonyliv.pages.dev/wah.m3u8
+#EXTINF:-1 tvg-name="Velvet. European Movies" group-title="Family;Movies",Velvet. European Movies
+https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8
+#EXTINF:-1 tvg-name="Velvet. Golden Collection" group-title="Classic;Movies",Velvet. Golden Collection
+https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8
+#EXTINF:-1 tvg-name="Velvet. Scary" group-title="Movies",Velvet. Scary
+https://cdn.rostelekom-tv.xyz/live/NImhIFLevxCbtcP-.m3u8
+#EXTINF:-1 tvg-name="Velvet. Sovetskoe Kino" group-title="Classic;Movies",Velvet. Sovetskoe Kino
+https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8
+#EXTINF:-1 tvg-name="Hollywood Ukraine (576p)" group-title="Movies",Hollywood Ukraine (576p)
+http://dtv.vol.net.ua/Hollywood-HD/index.m3u8
+#EXTINF:-1 tvg-name="Prokino (360p)" group-title="Movies",Prokino (360p)
+http://dtv.vol.net.ua/ProKino/index.m3u8
+#EXTINF:-1 tvg-name="Super+ (360p)" group-title="Entertainment;General",Super+ (360p)
+http://dtv.vol.net.ua/super_plus/index.m3u8
+#EXTINF:-1 tvg-name="HBO Hits East" group-title="Movies;Series",HBO Hits East
+http://4.30.180.36:8420/hbo2/index.m3u8?token=test

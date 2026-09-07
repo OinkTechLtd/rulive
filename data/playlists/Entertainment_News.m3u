@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-06 23:29:06
-# Всего каналов: 23458
-# Новых за сессию: 1
+# Обновлено: 2026-09-07 00:43:05
+# Всего каналов: 23486
+# Новых за сессию: 28
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;News
 # Каналов: 13
-# Обновлено: 2026-09-06 23:29:07
+# Обновлено: 2026-09-07 00:43:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Vergina TV" group-title="Entertainment;News",Vergina TV
@@ -4409,3 +4409,5 @@ https://cloudplay-sonyliv.pages.dev/aath.m3u8
 https://cloudplay-sonyliv.pages.dev/marathi.m3u8
 #EXTINF:-1 tvg-name="Sony Pal" group-title="Entertainment",Sony Pal
 https://cloudplay-sonyliv.pages.dev/pal.m3u8
+#EXTINF:-1 tvg-name="Super+ (360p)" group-title="Entertainment;General",Super+ (360p)
+http://dtv.vol.net.ua/super_plus/index.m3u8

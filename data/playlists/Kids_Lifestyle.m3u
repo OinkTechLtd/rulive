@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-06 23:29:06
-# Всего каналов: 23458
-# Новых за сессию: 1
+# Обновлено: 2026-09-07 00:43:05
+# Всего каналов: 23486
+# Новых за сессию: 28
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Lifestyle
 # Каналов: 1
-# Обновлено: 2026-09-06 23:29:07
+# Обновлено: 2026-09-07 00:43:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="QTV-6" group-title="Kids;Lifestyle",QTV-6
@@ -1227,3 +1227,11 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
 #EXTINF:-1 tvg-name="Aspire TV Life" group-title="Lifestyle",Aspire TV Life
 https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Detvora+" group-title="Animation;Family;Kids",Detvora+
+https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8
+#EXTINF:-1 tvg-name="Cine+ Kids (576p)" group-title="Kids",Cine+ Kids (576p)
+http://dtv.vol.net.ua/Cine_plus_Kids_HD/index.m3u8
+#EXTINF:-1 tvg-name="Smurf TV (480p)" group-title="Kids",Smurf TV (480p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065
+#EXTINF:-1 tvg-name="Disney XD (576p)" group-title="Kids",Disney XD (576p)
+http://185.227.34.179:8080/disney-xd/index.m3u8

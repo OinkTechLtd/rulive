@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-06 23:29:06
-# Всего каналов: 23458
-# Новых за сессию: 1
+# Обновлено: 2026-09-07 00:43:05
+# Всего каналов: 23486
+# Новых за сессию: 28
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;General
-# Каналов: 8
-# Обновлено: 2026-09-06 23:29:07
+# Каналов: 9
+# Обновлено: 2026-09-07 00:43:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="MCN6" group-title="Entertainment;General",MCN6
@@ -33,6 +33,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvtoday.rpmc.com.np/hl
 
 #EXTINF:-1 tvg-name="StreamForce 360" group-title="Entertainment;General",StreamForce 360
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/sistemastr.tropicalmoonmedia.com:443/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8
+
+#EXTINF:-1 tvg-name="Super+ (360p)" group-title="Entertainment;General",Super+ (360p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dtv.vol.net.ua/super_plus/index.m3u8
 
 #EXTINF:-1 tvg-name="9Go! [Geo-blocked]" group-title="Entertainment;Kids",9Go! [Geo-blocked]
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
@@ -7998,3 +8001,5 @@ https://cloudplay-sonyliv.pages.dev/marathi.m3u8
 https://cloudplay-sonyliv.pages.dev/pal.m3u8
 #EXTINF:-1 tvg-name="Color Vision (1280p)" group-title="General",Color Vision (1280p)
 https://hls.tvabierta.net/hls/009.m3u8
+#EXTINF:-1 tvg-name="JOJG-DTV" group-title="General",JOJG-DTV
+https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/hevc/playlist.m3u8

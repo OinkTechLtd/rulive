@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-06 23:29:06
-# Всего каналов: 23458
-# Новых за сессию: 1
+# Обновлено: 2026-09-07 00:43:05
+# Всего каналов: 23486
+# Новых за сессию: 28
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Series
 # Каналов: 14
-# Обновлено: 2026-09-06 23:29:07
+# Обновлено: 2026-09-07 00:43:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Сити Эдем КиноДок" group-title="Documentary;Series",Сити Эдем КиноДок
@@ -1300,3 +1300,15 @@ http://dtv.vol.net.ua/History_HD/index.m3u8
 http://tvsen7.aynascope.net/hbo2/index.m3u8
 #EXTINF:-1 tvg-name="HBO Movies" group-title="Movies;Series",HBO Movies
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-name="DocuBox Russia" group-title="Documentary",DocuBox Russia
+http://dtv.vol.net.ua/DOCUBOX-HD/index.m3u8
+#EXTINF:-1 tvg-name="Velvet. Mentovskiye Serialy" group-title="Series",Velvet. Mentovskiye Serialy
+https://cdn.rostelekom-tv.xyz/live/tWQ0ge9rspBQhRst.m3u8
+#EXTINF:-1 tvg-name="Velvet. Series Hits" group-title="Comedy;Family;Series",Velvet. Series Hits
+https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8
+#EXTINF:-1 tvg-name="Velvet. Svaty" group-title="Family;Series",Velvet. Svaty
+https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8
+#EXTINF:-1 tvg-name="Velvet. World Series" group-title="Comedy;Family;Series",Velvet. World Series
+https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8
+#EXTINF:-1 tvg-name="HBO Hits East" group-title="Movies;Series",HBO Hits East
+http://4.30.180.36:8420/hbo2/index.m3u8?token=test

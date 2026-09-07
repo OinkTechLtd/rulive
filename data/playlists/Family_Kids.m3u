@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-06 23:29:06
-# Всего каналов: 23458
-# Новых за сессию: 1
+# Обновлено: 2026-09-07 00:43:05
+# Всего каналов: 23486
+# Новых за сессию: 28
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Family;Kids
 # Каналов: 1
-# Обновлено: 2026-09-06 23:29:07
+# Обновлено: 2026-09-07 00:43:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RiC" group-title="Family;Kids",RiC
@@ -1033,3 +1033,19 @@ https://fs.uplink.kz/multilandia/mono.m3u8?token=onlinetv
 http://45.70.201.81:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-name="The Jungle Book" group-title="Kids",The Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+#EXTINF:-1 tvg-name="Detvora+" group-title="Animation;Family;Kids",Detvora+
+https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8
+#EXTINF:-1 tvg-name="Velvet. European Movies" group-title="Family;Movies",Velvet. European Movies
+https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8
+#EXTINF:-1 tvg-name="Velvet. Series Hits" group-title="Comedy;Family;Series",Velvet. Series Hits
+https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8
+#EXTINF:-1 tvg-name="Velvet. Svaty" group-title="Family;Series",Velvet. Svaty
+https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8
+#EXTINF:-1 tvg-name="Velvet. World Series" group-title="Comedy;Family;Series",Velvet. World Series
+https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8
+#EXTINF:-1 tvg-name="Cine+ Kids (576p)" group-title="Kids",Cine+ Kids (576p)
+http://dtv.vol.net.ua/Cine_plus_Kids_HD/index.m3u8
+#EXTINF:-1 tvg-name="Smurf TV (480p)" group-title="Kids",Smurf TV (480p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065
+#EXTINF:-1 tvg-name="Disney XD (576p)" group-title="Kids",Disney XD (576p)
+http://185.227.34.179:8080/disney-xd/index.m3u8

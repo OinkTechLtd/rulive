@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-06 23:29:06
-# Всего каналов: 23458
-# Новых за сессию: 1
+# Обновлено: 2026-09-07 00:43:05
+# Всего каналов: 23486
+# Новых за сессию: 28
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Undefined
-# Каналов: 4251
-# Обновлено: 2026-09-06 23:29:07
+# Каналов: 4255
+# Обновлено: 2026-09-07 00:43:05
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Дождь [Geo-blocked]" group-title="Undefined",Дождь [Geo-blocked]
@@ -11671,6 +11671,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.52/BET_SOUL/
 #EXTINF:-1 tvg-name="BET West" group-title="Undefined",BET West
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.52/BET_WEST/index.m3u8
 
+#EXTINF:-1 tvg-name="Studio Universal Latin America Brazil" group-title="Undefined",Studio Universal Latin America Brazil
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/187.102.210.46/universo/index.m3u8
+
 #EXTINF:-1 tvg-name="SEC Network" group-title="Undefined",SEC Network
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.55/SEC_NETWORK/index.m3u8
 
@@ -12327,6 +12330,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/v2.tustreaming.cl/atac
 
 #EXTINF:-1 tvg-name="BX1 (504p)" group-title="Undefined",BX1 (504p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/7ec67c8d/index.m3u8
+
+#EXTINF:-1 tvg-name="Viasat Explore (576p)" group-title="Undefined",Viasat Explore (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dtv.vol.net.ua/Viasat-Explore/index.m3u8
+
+#EXTINF:-1 tvg-name="Telefe Rosario [Geo-blocked]" group-title="Undefined",Telefe Rosario [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Telefe Tucuman" group-title="Undefined",Telefe Tucuman
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/g2.mc-hor.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-name="W24" group-title="Undefined",W24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
