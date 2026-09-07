@@ -1,14 +1,17 @@
 #EXTM3U
-# Обновлено: 2026-09-07 11:42:17
-# Всего каналов: 23514
-# Новых за сессию: 1
+# Обновлено: 2026-09-07 12:55:54
+# Всего каналов: 23537
+# Новых за сессию: 23
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Sport
-# Каналов: 3
-# Обновлено: 2026-09-07 11:42:17
+# Каналов: 4
+# Обновлено: 2026-09-07 12:55:55
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
+
+#EXTINF:-1 tvg-name="More than Sports TV" group-title="Sport",More than Sports TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 
 #EXTINF:-1 tvg-name="AUTO BILD TV" group-title="Sport",AUTO BILD TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/auto-bild.personalstream.tv/v1/bildde/master.m3u8
@@ -281,8 +284,6 @@ https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8?ads.vf=EHEabFVWNva
 #EXTINF:-1 tvg-name="FIFA+ German" group-title="Sports",FIFA+ German
 https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-name="More Than Sports TV" group-title="Sports",More Than Sports TV
-https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1 tvg-name="Red Bull TV DE" group-title="Outdoor;Sports",Red Bull TV DE
 https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="Sportdigital FUSSBALL" group-title="Sports",Sportdigital FUSSBALL
