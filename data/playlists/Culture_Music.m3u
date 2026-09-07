@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-07 12:55:54
-# Всего каналов: 23537
-# Новых за сессию: 23
+# Обновлено: 2026-09-07 17:20:24
+# Всего каналов: 23538
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Music
 # Каналов: 6
-# Обновлено: 2026-09-07 12:55:55
+# Обновлено: 2026-09-07 17:20:25
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pamir TV" group-title="Culture;Music",Pamir TV
@@ -48,6 +48,12 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8
 #EXTINF:-1 tvg-name="JRTV Järviradio" group-title="Music",JRTV Järviradio
 https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8
+#EXTINF:-1 tvg-name="Deluxe Music" group-title="Music",Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-name="Deluxe Dance" group-title="Music",Deluxe Dance
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 tvg-name="Deluxe Rap" group-title="Music",Deluxe Rap
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 tvg-name="NRG 91" group-title="Music",NRG 91
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 tvg-name="Oxygen Music" group-title="Music",Oxygen Music
@@ -58,6 +64,8 @@ https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
 #EXTINF:-1 tvg-name="Orler TV (420p)" group-title="Culture",Orler TV (420p)
 https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="m2o TV" group-title="Music",m2o TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-name="SL48 TV (576p)" group-title="Music",SL48 TV (576p)
 http://media.velcom.it:1935/sl48/sl48/playlist.m3u8
 #EXTINF:-1 tvg-name="Teatro TV" group-title="Culture",Teatro TV
@@ -78,6 +86,8 @@ http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
 http://tv1.intv.mk:1935/live/intv/index.m3u8
 #EXTINF:-1 tvg-name="Star Plus Music" group-title="Music",Star Plus Music
 https://live.muzickatv.mk/live/StarMusic2.m3u8
+#EXTINF:-1 tvg-name="4 Fun TV (576i)" group-title="Music",4 Fun TV (576i)
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-name="Folx Slovenija" group-title="Music",Folx Slovenija
 https://cdne.folxplay.tv/folx-trz/streams/ch-5/master.m3u8
 #EXTINF:-1 tvg-name="TRT Müzik" group-title="Music",TRT Müzik
@@ -306,8 +316,12 @@ https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
 #EXTINF:-1 tvg-name="Bibel TV Musik" group-title="Music",Bibel TV Musik
 https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-name="DASDING 90.8" group-title="Music",DASDING 90.8
+https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
 #EXTINF:-1 tvg-name="Deluxe Lounge" group-title="Music",Deluxe Lounge
 https://jmp2.uk/stvp-CHAJ0500413A
+#EXTINF:-1 tvg-name="DMF" group-title="Music",DMF
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
 #EXTINF:-1 tvg-name="Finest TV (288p)" group-title="Music",Finest TV (288p)
 https://media.finest.tv/hls/live.m3u8
 #EXTINF:-1 tvg-name="FOLX Music" group-title="Music",FOLX Music
@@ -374,6 +388,8 @@ http://103.213.31.109:90/TraceUrbanHD/playlist.m3u8
 https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
 #EXTINF:-1 tvg-name="zenith" group-title="Culture;General",zenith
 https://live.azenagroup.com/zenith/index.ll.m3u8
+#EXTINF:-1 tvg-name="Activa TV" group-title="Music",Activa TV
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
 #EXTINF:-1 tvg-name="Cadena Elite" group-title="Music",Cadena Elite
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 tvg-name="Condavisión" group-title="Culture",Condavisión
@@ -1176,6 +1192,8 @@ https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m
 https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Hitradio O3" group-title="Music",Hitradio O3
 https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd
+#EXTINF:-1 tvg-name="Kronehit" group-title="Music",Kronehit
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-name="ORF III" group-title="Culture",ORF III
 https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 #EXTINF:-1 tvg-name="2STV" group-title="Culture",2STV

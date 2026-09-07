@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-07 12:55:54
-# Всего каналов: 23537
-# Новых за сессию: 23
+# Обновлено: 2026-09-07 17:20:24
+# Всего каналов: 23538
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Lifestyle;Shop
 # Каналов: 1
-# Обновлено: 2026-09-07 12:55:55
+# Обновлено: 2026-09-07 17:20:25
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Fashion Finds" group-title="Lifestyle;Shop",Fashion Finds
@@ -123,6 +123,8 @@ https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8
 https://d3i68hpvh19xjd.cloudfront.net/JamieOliver_GB.m3u8
 #EXTINF:-1 tvg-name="TVSConsumerDirect" group-title="Shop",TVSConsumerDirect
 https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8
+#EXTINF:-1 tvg-name="1-2-3 TV (270p)" group-title="Shop",1-2-3 TV (270p)
+https://123tv-mx1.flex-cdn.net/index.m3u8
 #EXTINF:-1 tvg-name="BBC Travel" group-title="Lifestyle",BBC Travel
 https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8
 #EXTINF:-1 tvg-name="Handystar (404p)" group-title="Shop",Handystar (404p)
@@ -139,6 +141,8 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3
 https://api.alpaca.t62a.com/hls/9103/index.m3u8
 #EXTINF:-1 tvg-name="QVC 2 Germany (540p)" group-title="Shop",QVC 2 Germany (540p)
 https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
+#EXTINF:-1 tvg-name="QVC Germany" group-title="Shop",QVC Germany
+https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
 #EXTINF:-1 tvg-name="QVC Style Germany (540p)" group-title="Shop",QVC Style Germany (540p)
 https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8
 #EXTINF:-1 tvg-name="FashionTV Paris L'Original" group-title="Lifestyle",FashionTV Paris L'Original
