@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-08 00:00:05
-# Всего каналов: 23543
-# Новых за сессию: 1
+# Обновлено: 2026-09-08 01:18:49
+# Всего каналов: 23562
+# Новых за сессию: 19
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Classic;Entertainment
 # Каналов: 1
-# Обновлено: 2026-09-08 00:00:06
+# Обновлено: 2026-09-08 01:18:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="LAMIL35 TV" group-title="Animation;Classic;Entertainment",LAMIL35 TV
@@ -1277,8 +1277,6 @@ https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
 https://void.greenhosting.ru/PingviinEE_Mpeg4/index.m3u8
 #EXTINF:-1 tvg-name="Пингвин" group-title="Animation;Kids",Пингвин
 https://sirius.greenhosting.ru/PingvinRu/video.m3u8
-#EXTINF:-1 tvg-name="BE@TTV" group-title="Entertainment;Music",BE@TTV
-https://tv.beatfm.nl/live.m3u8
 #EXTINF:-1 tvg-name="Persiana Nostalgia" group-title="Classic;Music",Persiana Nostalgia
 https://noshls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="247 Box TV" group-title="Entertainment",247 Box TV
@@ -2497,3 +2495,7 @@ https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8
 https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8
 #EXTINF:-1 tvg-name="Super+ (360p)" group-title="Entertainment;General",Super+ (360p)
 http://dtv.vol.net.ua/super_plus/index.m3u8
+#EXTINF:-1 tvg-name="Minimax" group-title="Animation;Kids",Minimax
+https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
+#EXTINF:-1 tvg-name="Jade" group-title="Entertainment",Jade
+http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-08 00:00:05
-# Всего каналов: 23543
-# Новых за сессию: 1
+# Обновлено: 2026-09-08 01:18:49
+# Всего каналов: 23562
+# Новых за сессию: 19
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;News
 # Каналов: 1
-# Обновлено: 2026-09-08 00:00:06
+# Обновлено: 2026-09-08 01:18:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ZillarBarta News" group-title="Classic;News",ZillarBarta News
@@ -1909,8 +1909,6 @@ http://103.250.28.74:8000/play/a01p/index.m3u8
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="News One" group-title="News",News One
 https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
-#EXTINF:-1 tvg-name="NH Niews" group-title="General;News",NH Niews
-https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-name="NRT TV" group-title="News",NRT TV
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 #EXTINF:-1 tvg-name="O'zbekiston 24" group-title="News",O'zbekiston 24
@@ -2637,3 +2635,17 @@ https://live-us1.thaimomo.com/live-as/chnews1-2/playlist.m3u8
 https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8
 #EXTINF:-1 tvg-name="Velvet. Sovetskoe Kino" group-title="Classic;Movies",Velvet. Sovetskoe Kino
 https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8
+#EXTINF:-1 tvg-name="Chuxiong News Channel" group-title="News",Chuxiong News Channel
+http://hwapi.yntv.net/ew265l/848y54.m3u8
+#EXTINF:-1 tvg-name="Ekoturk" group-title="News",Ekoturk
+https://cdn.ekoturk.net/hls/master.m3u8
+#EXTINF:-1 tvg-name="7 News" group-title="News",7 News
+https://sscsott.com/7news/live/index.m3u8
+#EXTINF:-1 tvg-name="24 News" group-title="News",24 News
+https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8
+#EXTINF:-1 tvg-name="365 News" group-title="News",365 News
+https://cdn4.mjunoon.tv:8087/streamtest/140M/chunks.m3u8
+#EXTINF:-1 tvg-name="B1" group-title="News",B1
+https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
+#EXTINF:-1 tvg-name="Capital TV" group-title="News",Capital TV
+https://cdn4.mjunoon.tv:8087/streamtest/111M/chunks.m3u8

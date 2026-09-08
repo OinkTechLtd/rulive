@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-08 00:00:05
-# Всего каналов: 23543
-# Новых за сессию: 1
+# Обновлено: 2026-09-08 01:18:49
+# Всего каналов: 23562
+# Новых за сессию: 19
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids
 # Каналов: 497
-# Обновлено: 2026-09-08 00:00:06
+# Обновлено: 2026-09-08 01:18:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Mama (576p)" group-title="Kids",Mama (576p)
@@ -793,9 +793,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/23.237.104.106:8080/US
 #EXTINF:-1 tvg-name="Smile TV" group-title="Kids",Smile TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",like Gecko) Chrome/149.0.0.0 Safari/537.3
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/86.87.15.10:8004/play/a02g/index.m3u8
-
 #EXTINF:-1 tvg-name="Radost Moya (576p)" group-title="Kids",Radost Moya (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Radost_moya/index.m3u8
 
@@ -1435,6 +1432,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.227.34.179:8080/di
 #EXTINF:-1 tvg-name="Disney XD (576p)" group-title="Kids",Disney XD (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.227.34.179:8080/disney-xd/index.m3u8
 
+#EXTINF:-1 tvg-name="Nickelodeon (480p)" group-title="Kids",Nickelodeon (480p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
+
 #EXTINF:-1 tvg-name="TNT Kids (288p)" group-title="Kids",TNT Kids (288p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/restreamer1.tnt.ba/hls/tntkids.m3u8
 
@@ -1651,8 +1651,6 @@ https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8
 https://iptv.prosto.tv/ch72/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Niki Kids" group-title="Kids",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Niki Kids
 https://iptv.prosto.tv/ch71/index.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Disney Channel" group-title="Kids",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Disney Channel
-http://86.87.15.10:8004/play/a02g/index.m3u8
 #EXTINF:-1 tvg-name="Disney Channel Latin America Panregional" group-title="Animation;Kids",Disney Channel Latin America Panregional
 http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
 #EXTINF:-1 tvg-name="Disney Jr. Latin America North" group-title="Animation;Kids",Disney Jr. Latin America North
@@ -1783,3 +1781,5 @@ http://103.165.93.31:8095/sonyYay/index.m3u8
 http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
 #EXTINF:-1 tvg-name="Detvora+" group-title="Animation;Family;Kids",Detvora+
 https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8
+#EXTINF:-1 tvg-name="Minimax" group-title="Animation;Kids",Minimax
+https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8

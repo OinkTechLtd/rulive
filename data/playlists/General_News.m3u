@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-08 00:00:05
-# Всего каналов: 23543
-# Новых за сессию: 1
+# Обновлено: 2026-09-08 01:18:49
+# Всего каналов: 23562
+# Новых за сессию: 19
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;News
-# Каналов: 23
-# Обновлено: 2026-09-08 00:00:06
+# Каналов: 22
+# Обновлено: 2026-09-08 01:18:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Сочи 24" group-title="General;News",Сочи 24
@@ -42,9 +42,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/118.107.85.4:1935/live
 
 #EXTINF:-1 tvg-name="HTV9 [Geo-blocked]" group-title="General;News",HTV9 [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="NH Niews" group-title="General;News",NH Niews
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 
 #EXTINF:-1 tvg-name="PRO TV Chisinau (480p)" group-title="General;News",PRO TV Chisinau (480p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.protv.md/live/sursa-1/index.m3u8
@@ -571,8 +568,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Дон 24" group-title="News",Дон 24
 https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8
-#EXTINF:-1 tvg-name="Евразия (Орск)" group-title="General",Евразия (Орск)
-https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 #EXTINF:-1 tvg-name="Енисей" group-title="General",Енисей
 https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-name="За!ТВ" group-title="General",За!ТВ
@@ -5461,8 +5456,6 @@ https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8
 https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8
 #EXTINF:-1 tvg-name="TVR Sport" group-title="General;Sports",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-name="FomixTV" group-title="General;Music;Public",FomixTV
-https://stream.fomixmedia.nl/FomixTV/video.m3u8
 #EXTINF:-1 tvg-name="TVR Folclor" group-title="General;Music",TVR Folclor
 https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="HTV3" group-title="Entertainment;General;Series",HTV3
@@ -8407,3 +8400,21 @@ https://hls.tvabierta.net/hls/009.m3u8
 http://dtv.vol.net.ua/super_plus/index.m3u8
 #EXTINF:-1 tvg-name="JOJG-DTV" group-title="General",JOJG-DTV
 https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="S Free! (360p)" group-title="General",S Free! (360p)
+https://vodcdn.bamboo-cloud.com/livehls/6a81c67306304414d27742d3/master.m3u8
+#EXTINF:-1 tvg-name="Chuxiong News Channel" group-title="News",Chuxiong News Channel
+http://hwapi.yntv.net/ew265l/848y54.m3u8
+#EXTINF:-1 tvg-name="Mei Alai TV (576p)" group-title="General",Mei Alai TV (576p)
+https://meialai.iptelevishion.com/meialai/2/index.m3u8
+#EXTINF:-1 tvg-name="Ekoturk" group-title="News",Ekoturk
+https://cdn.ekoturk.net/hls/master.m3u8
+#EXTINF:-1 tvg-name="Los Santos TV (1080i)" group-title="General",Los Santos TV (1080i)
+https://tiquiciatv.com/hls/lstv.m3u8
+#EXTINF:-1 tvg-name="7 News" group-title="News",7 News
+https://sscsott.com/7news/live/index.m3u8
+#EXTINF:-1 tvg-name="24 News" group-title="News",24 News
+https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8
+#EXTINF:-1 tvg-name="365 News" group-title="News",365 News
+https://cdn4.mjunoon.tv:8087/streamtest/140M/chunks.m3u8
+#EXTINF:-1 tvg-name="B1" group-title="News",B1
+https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
