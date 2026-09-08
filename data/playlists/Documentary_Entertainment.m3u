@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-08 01:18:49
-# Всего каналов: 23562
-# Новых за сессию: 19
+# Обновлено: 2026-09-08 04:19:40
+# Всего каналов: 23563
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Entertainment
 # Каналов: 1
-# Обновлено: 2026-09-08 01:18:50
+# Обновлено: 2026-09-08 04:19:41
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="The Nest" group-title="Documentary;Entertainment",The Nest
@@ -1259,6 +1259,8 @@ https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8
 http://62.1.176.18:8888/extra/index.m3u8
 #EXTINF:-1 tvg-name="Vĩnh Long TV5 [Geo-blocked]" group-title="Culture;Entertainment;Music;News",Vĩnh Long TV5 [Geo-blocked]
 https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="BE@TTV" group-title="Entertainment;Music",BE@TTV
+https://tv.beatfm.nl/live.m3u8
 #EXTINF:-1 tvg-name="ČT 2" group-title="Documentary",ČT 2
 http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
 #EXTINF:-1 tvg-name="Dvojka STV2" group-title="Documentary",Dvojka STV2
@@ -2423,6 +2425,8 @@ https://cloudplay-sonyliv.pages.dev/aath.m3u8
 https://cloudplay-sonyliv.pages.dev/marathi.m3u8
 #EXTINF:-1 tvg-name="Sony Pal" group-title="Entertainment",Sony Pal
 https://cloudplay-sonyliv.pages.dev/pal.m3u8
+#EXTINF:-1 tvg-name="DocuBox Russia" group-title="Documentary",DocuBox Russia
+http://dtv.vol.net.ua/DOCUBOX-HD/index.m3u8
 #EXTINF:-1 tvg-name="Super+ (360p)" group-title="Entertainment;General",Super+ (360p)
 http://dtv.vol.net.ua/super_plus/index.m3u8
 #EXTINF:-1 tvg-name="Jade" group-title="Entertainment",Jade
