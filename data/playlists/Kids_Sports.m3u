@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-09 06:22:28
-# Всего каналов: 23575
-# Новых за сессию: 1
+# Обновлено: 2026-09-09 09:35:54
+# Всего каналов: 23593
+# Новых за сессию: 18
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Sports
 # Каналов: 1
-# Обновлено: 2026-09-09 06:22:29
+# Обновлено: 2026-09-09 09:35:55
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ADO TV" group-title="Kids;Sports",ADO TV
@@ -2179,6 +2179,8 @@ http://stream.mcquack.net/262/index.m3u8
 http://stream.mcquack.net/271/index.m3u8
 #EXTINF:-1 tvg-name="Sports Television" group-title="Sports",Sports Television
 https://kctv.koryofront.org/stream/sports/index.m3u8
+#EXTINF:-1 tvg-name="Unikum (576p)" group-title="Kids",Unikum (576p)
+http://45.145.32.13:20440/nauka/index.m3u8?token=test
 #EXTINF:-1 tvg-name="ETV Bal Bharat (576p)" group-title="Kids",ETV Bal Bharat (576p)
 http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
 #EXTINF:-1 tvg-name="Kabaddi 24x7 (576p)" group-title="Sports",Kabaddi 24x7 (576p)
@@ -2241,3 +2243,9 @@ http://185.227.34.179:8080/disney-xd/index.m3u8
 https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 #EXTINF:-1 tvg-name="Minimax" group-title="Animation;Kids",Minimax
 https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
+#EXTINF:-1 tvg-name="UPL.TV" group-title="Sports",UPL.TV
+http://dtv.vol.net.ua/UPL-TV/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Cricket" group-title="Sports",Sky Sports Cricket
+https://leaf.highfly.dev/m3u/now-sky-sports-cricket/live.m3u8
+#EXTINF:-1 tvg-name="Minimax (540p)" group-title="Kids",Minimax (540p)
+https://live.omni3.pl/minimaxsi/index.m3u8

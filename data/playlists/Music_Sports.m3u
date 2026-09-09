@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-09 06:22:28
-# Всего каналов: 23575
-# Новых за сессию: 1
+# Обновлено: 2026-09-09 09:35:54
+# Всего каналов: 23593
+# Новых за сессию: 18
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;Sports
 # Каналов: 1
-# Обновлено: 2026-09-09 06:22:29
+# Обновлено: 2026-09-09 09:35:55
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RTI La 3" group-title="Music;Sports",RTI La 3
@@ -3083,3 +3083,7 @@ https://cloudplay-sonyliv.pages.dev/ten3.m3u8
 https://cloudplay-sonyliv.pages.dev/ten4.m3u8
 #EXTINF:-1 tvg-name="8XM" group-title="Music",8XM
 https://cdn4.mjunoon.tv:8087/streamtest/135M/chunks.m3u8
+#EXTINF:-1 tvg-name="UPL.TV" group-title="Sports",UPL.TV
+http://dtv.vol.net.ua/UPL-TV/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Cricket" group-title="Sports",Sky Sports Cricket
+https://leaf.highfly.dev/m3u/now-sky-sports-cricket/live.m3u8

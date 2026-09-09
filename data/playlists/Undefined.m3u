@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-09 06:22:28
-# Всего каналов: 23575
-# Новых за сессию: 1
+# Обновлено: 2026-09-09 09:35:54
+# Всего каналов: 23593
+# Новых за сессию: 18
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Undefined
-# Каналов: 4241
-# Обновлено: 2026-09-09 06:22:28
+# Каналов: 4242
+# Обновлено: 2026-09-09 09:35:55
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Дождь [Geo-blocked]" group-title="Undefined",Дождь [Geo-blocked]
@@ -12232,9 +12232,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/94.155.93.182/POBEDA_H
 #EXTINF:-1 tvg-name="Tonus (576p)" group-title="Undefined",Tonus (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/194.143.148.28:8080/Mir24/index.m3u8
 
-#EXTINF:-1 tvg-name="Unikum (576p)" group-title="Undefined",Unikum (576p)
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.145.32.13:20440/nauka/index.m3u8?token=test
-
 #EXTINF:-1 tvg-name="Zvezda Plus (576p)" group-title="Undefined",Zvezda Plus (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.145.32.13:20440/zvezdaplus/index.m3u8?token=test
 
@@ -12297,6 +12294,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/smt-usr-edge01.sensa.c
 
 #EXTINF:-1 tvg-name="Telefe Tucuman" group-title="Undefined",Telefe Tucuman
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/g2.mc-hor.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlist.m3u8?sense=true
+
+#EXTINF:-1 tvg-name="Showtime" group-title="Undefined",Showtime
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/4.30.180.36:8420/showtime/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-name="UniMas WFUT-DT" group-title="Undefined",UniMas WFUT-DT
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/4.30.180.36:8420/wfutdt/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-name="W24" group-title="Undefined",W24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8

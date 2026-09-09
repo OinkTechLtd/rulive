@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-09 06:22:28
-# Всего каналов: 23575
-# Новых за сессию: 1
+# Обновлено: 2026-09-09 09:35:54
+# Всего каналов: 23593
+# Новых за сессию: 18
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;News
 # Каналов: 23
-# Обновлено: 2026-09-09 06:22:29
+# Обновлено: 2026-09-09 09:35:55
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Сочи 24" group-title="General;News",Сочи 24
@@ -8023,8 +8023,6 @@ https://oqgdro3xd4rm-hls-live.5centscdn.com/tfmediacastlivestream24/60414fd886a8
 http://15.204.246.24:8080/DTVHD/index.m3u8
 #EXTINF:-1 tvg-name="Telemicro (480p)" group-title="General",Telemicro (480p)
 https://live2.telemicro.com.do/live/55/playlist.m3u8
-#EXTINF:-1 tvg-name="MNTV" group-title="General",MNTV
-https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8
 #EXTINF:-1 tvg-name="Groznyj" group-title="General",Groznyj
 https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/720-3.m3u8
 #EXTINF:-1 tvg-name="Россия 1 (Адыгея)" group-title="General",Россия 1 (Адыгея)
@@ -8425,3 +8423,11 @@ https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8
 https://cdn4.mjunoon.tv:8087/streamtest/140M/chunks.m3u8
 #EXTINF:-1 tvg-name="B1" group-title="News",B1
 https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
+#EXTINF:-1 tvg-name="Suspilne. Donbas (576p)" group-title="General",Suspilne. Donbas (576p)
+http://hls127.freeott.top:8080/UA_DONBAS/video.m3u8
+#EXTINF:-1 tvg-name="TRT Genc (1440p) [Geo-blocked]" group-title="Culture;General",TRT Genc (1440p) [Geo-blocked]
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="Myanmar International TV" group-title="General",Myanmar International TV
+https://mrtvott.com/cache/MITV/master.m3u8
+#EXTINF:-1 tvg-name="Studio + TV" group-title="General",Studio + TV
+https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8

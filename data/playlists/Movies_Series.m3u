@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-09 06:22:28
-# Всего каналов: 23575
-# Новых за сессию: 1
+# Обновлено: 2026-09-09 09:35:54
+# Всего каналов: 23593
+# Новых за сессию: 18
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;Series
 # Каналов: 107
-# Обновлено: 2026-09-09 06:22:29
+# Обновлено: 2026-09-09 09:35:55
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Ebony TV by Lionsgate" group-title="Movies;Series",Ebony TV by Lionsgate
@@ -2763,3 +2763,11 @@ http://dtv.vol.net.ua/Hollywood-HD/index.m3u8
 http://dtv.vol.net.ua/ProKino/index.m3u8
 #EXTINF:-1 tvg-name="Mei Ah Movie Channel" group-title="Movies",Mei Ah Movie Channel
 http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
+#EXTINF:-1 tvg-name="AXN Black (576p)" group-title="Movies",AXN Black (576p)
+http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8
+#EXTINF:-1 tvg-name="FILMBOX+ Love & Crime Bulgaria" group-title="Movies",FILMBOX+ Love & Crime Bulgaria
+http://hls127.freeott.top:8080/BG_FilmBox_Stars_HD/video.m3u8
+#EXTINF:-1 tvg-name="FILMBOX+ One Bulgaria (576p)" group-title="Movies",FILMBOX+ One Bulgaria (576p)
+http://hls127.freeott.top:8080/BG_Filmbox/video.m3u8
+#EXTINF:-1 tvg-name="Viasat Kino Bulgaria" group-title="Movies",Viasat Kino Bulgaria
+http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8
