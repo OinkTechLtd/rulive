@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-09 23:50:24
-# Всего каналов: 23595
-# Новых за сессию: 0
+# Обновлено: 2026-09-10 00:52:49
+# Всего каналов: 23603
+# Новых за сессию: 8
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Undefined
-# Каналов: 4242
-# Обновлено: 2026-09-09 23:50:25
+# Каналов: 4245
+# Обновлено: 2026-09-10 00:52:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Дождь [Geo-blocked]" group-title="Undefined",Дождь [Geo-blocked]
@@ -12300,6 +12300,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/4.30.180.36:8420/showt
 
 #EXTINF:-1 tvg-name="UniMas WFUT-DT" group-title="Undefined",UniMas WFUT-DT
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/4.30.180.36:8420/wfutdt/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-name="RTL" group-title="Undefined",RTL
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.omni3.pl/rtlde/index.m3u8?token=ebnk.xyz
+
+#EXTINF:-1 tvg-name="RTL Zwei" group-title="Undefined",RTL Zwei
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.omni3.pl/rtl2de/index.m3u8?token=ebnk.xyz
+
+#EXTINF:-1 tvg-name="PRO TV" group-title="Undefined",PRO TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/eb4b8dcf.kablakaka.ru/iptv/3KZ2W9GEEY49ZV/6997/index.m3u8
 
 #EXTINF:-1 tvg-name="W24" group-title="Undefined",W24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
