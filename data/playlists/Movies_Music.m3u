@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-10 23:20:39
-# Всего каналов: 23603
-# Новых за сессию: 0
+# Обновлено: 2026-09-11 00:21:49
+# Всего каналов: 23629
+# Новых за сессию: 26
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;Music
 # Каналов: 3
-# Обновлено: 2026-09-10 23:20:40
+# Обновлено: 2026-09-11 00:21:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Shemaroo Filmi Gaane" group-title="Movies;Music",Shemaroo Filmi Gaane
@@ -2323,6 +2323,8 @@ https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
 https://cdn4.skygo.mn/live/disk1/MNplus91/HLSv3-FTA/MNplus91.m3u8
 #EXTINF:-1 tvg-name="mfm" group-title="Music",mfm
 https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8
+#EXTINF:-1 tvg-name="7S Music (360p)" group-title="Music",7S Music (360p)
+https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
 #EXTINF:-1 tvg-name="Andy Haryana (576p)" group-title="Culture;Music",Andy Haryana (576p)
 https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Anmol Cinema (576p)" group-title="Movies",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Anmol Cinema (576p)
@@ -3349,8 +3351,6 @@ http://103.175.73.12:8080/live/583/master.m3u8
 http://103.175.73.12:8080/live/239/master.m3u8
 #EXTINF:-1 tvg-name="Exa TV" group-title="Music",Exa TV
 http://190.61.90.17:40000/play/a0hk/index.m3u8
-#EXTINF:-1 tvg-name="D3 TV" group-title="Music",D3 TV
-https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8
 #EXTINF:-1 tvg-name="Klara" group-title="Music",Klara
 https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/.m3u8
 #EXTINF:-1 tvg-name="Radio Romania Antena Satelor" group-title="Music",Radio Romania Antena Satelor
@@ -3589,3 +3589,7 @@ http://hls127.freeott.top:8080/BG_Filmbox/video.m3u8
 http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8
 #EXTINF:-1 tvg-name="AMC Europe Bulgary (576p)" group-title="Movies",AMC Europe Bulgary (576p)
 http://hls127.freeott.top:8080/BG_AMC/video.m3u8
+#EXTINF:-1 tvg-name="Mh 1 Music" group-title="Music",Mh 1 Music
+https://livestream.jswk.online/playlisttest/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Romania 3Net (480p)" group-title="Music",Radio Romania 3Net (480p)
+https://media.3netmedia.ro/hls/stream.m3u8

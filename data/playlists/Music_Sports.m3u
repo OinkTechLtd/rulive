@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-10 23:20:39
-# Всего каналов: 23603
-# Новых за сессию: 0
+# Обновлено: 2026-09-11 00:21:49
+# Всего каналов: 23629
+# Новых за сессию: 26
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;Sports
 # Каналов: 1
-# Обновлено: 2026-09-10 23:20:40
+# Обновлено: 2026-09-11 00:21:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RTI La 3" group-title="Music;Sports",RTI La 3
@@ -1983,6 +1983,8 @@ http://stream-server.com:8080/live/username/password/12345.ts
 https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
 #EXTINF:-1 tvg-name="mfm" group-title="Music",mfm
 https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8
+#EXTINF:-1 tvg-name="7S Music (360p)" group-title="Music",7S Music (360p)
+https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
 #EXTINF:-1 tvg-name="Andy Haryana (576p)" group-title="Culture;Music",Andy Haryana (576p)
 https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8
 #EXTINF:-1 tvg-name="RC Music" group-title="Music",RC Music
@@ -2929,8 +2931,6 @@ http://190.61.90.17:40000/play/a0hk/index.m3u8
 https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Premier Sports 1" group-title="Sports",like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Premier Sports 1
 https://7nyaler.streamhostingcdn.top/stream/47/index.m3u8
-#EXTINF:-1 tvg-name="D3 TV" group-title="Music",D3 TV
-https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8
 #EXTINF:-1 tvg-name="El-Heddaf TV" group-title="Sports",El-Heddaf TV
 https://live.elheddaftv.com:8081/elheddaftv/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Arena Sport Premium 1 BH" group-title="Sports",like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Arena Sport Premium 1 BH
@@ -3087,3 +3087,7 @@ https://cdn4.mjunoon.tv:8087/streamtest/135M/chunks.m3u8
 http://dtv.vol.net.ua/UPL-TV/index.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Cricket" group-title="Sports",Sky Sports Cricket
 https://leaf.highfly.dev/m3u/now-sky-sports-cricket/live.m3u8
+#EXTINF:-1 tvg-name="Mh 1 Music" group-title="Music",Mh 1 Music
+https://livestream.jswk.online/playlisttest/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Romania 3Net (480p)" group-title="Music",Radio Romania 3Net (480p)
+https://media.3netmedia.ro/hls/stream.m3u8

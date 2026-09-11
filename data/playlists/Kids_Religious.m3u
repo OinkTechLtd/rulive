@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-10 23:20:39
-# Всего каналов: 23603
-# Новых за сессию: 0
+# Обновлено: 2026-09-11 00:21:49
+# Всего каналов: 23629
+# Новых за сессию: 26
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Religious
 # Каналов: 9
-# Обновлено: 2026-09-10 23:20:40
+# Обновлено: 2026-09-11 00:21:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Christian Youth Channel (CYC)" group-title="Kids;Religious",Christian Youth Channel (CYC)
@@ -2599,3 +2599,5 @@ https://live.omni3.pl/minimaxsi/index.m3u8
 https://live.omni3.pl/fixfoxide/index.m3u8?token=ebnk.xyz
 #EXTINF:-1 tvg-name="GOD TV (576p)" group-title="Religious",GOD TV (576p)
 https://fl-dvr.iptvcdn.tv/chid_1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bethel Colombia" group-title="Religious",Bethel Colombia
+http://138.121.15.230:9002/BETHEL/index.m3u8

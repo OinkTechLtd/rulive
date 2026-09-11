@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-10 23:20:39
-# Всего каналов: 23603
-# Новых за сессию: 0
+# Обновлено: 2026-09-11 00:21:49
+# Всего каналов: 23629
+# Новых за сессию: 26
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment
-# Каналов: 1177
-# Обновлено: 2026-09-10 23:20:40
+# Каналов: 1182
+# Обновлено: 2026-09-11 00:21:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Arte [Geo-blocked]" group-title="Entertainment",Arte [Geo-blocked]
@@ -3178,6 +3178,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/15.204.246.24:8080/Pas
 #EXTINF:-1 tvg-name="Carac 1" group-title="Entertainment",Carac 1
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/145.239.5.177/371/index.m3u8
 
+#EXTINF:-1 tvg-name="D3 TV" group-title="Entertainment",D3 TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8
+
 #EXTINF:-1 tvg-name="La Une" group-title="Entertainment",La Une
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/145.239.5.177/329/index.m3u8
 
@@ -3420,6 +3423,18 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/da86m1sqpm3o0.cloudfro
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Entertainment",like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/103.175.73.12:8080/live/245/master.m3u8
+
+#EXTINF:-1 tvg-name="MH One Dil Se (576p)" group-title="Entertainment",MH One Dil Se (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streams.tangotv.in/MHONEDILSE/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-name="A&E Latin America Brazil" group-title="Entertainment",A&E Latin America Brazil
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/170.83.16.50/AeE/index.m3u8
+
+#EXTINF:-1 tvg-name="Adult Swim Latin America Brazil" group-title="Entertainment",Adult Swim Latin America Brazil
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/168.197.104.22/ADULT_SWIM/index.m3u8
+
+#EXTINF:-1 tvg-name="Lifetime Latin America Brazil" group-title="Entertainment",Lifetime Latin America Brazil
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/170.83.16.50/LIFETIME/index.m3u8
 
 #EXTINF:-1 tvg-name="Belarus-2" group-title="Entertainment",Belarus-2
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-10 23:20:39
-# Всего каналов: 23603
-# Новых за сессию: 0
+# Обновлено: 2026-09-11 00:21:49
+# Всего каналов: 23629
+# Новых за сессию: 26
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies
-# Каналов: 943
-# Обновлено: 2026-09-10 23:20:40
+# Каналов: 945
+# Обновлено: 2026-09-11 00:21:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="312 Кино (406p)" group-title="Movies",312 Кино (406p)
@@ -2679,6 +2679,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls127.freeott.top:808
 
 #EXTINF:-1 tvg-name="AMC Europe Bulgary (576p)" group-title="Movies",AMC Europe Bulgary (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls127.freeott.top:8080/BG_AMC/video.m3u8
+
+#EXTINF:-1 tvg-name="MH One Movies (576p)" group-title="Movies",MH One Movies (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8
+
+#EXTINF:-1 tvg-name="AXN" group-title="Movies",AXN
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/170.83.16.50/AXN/index.m3u8
 
 #EXTINF:-1 tvg-name="Cine34" group-title="Movies",Cine34
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
