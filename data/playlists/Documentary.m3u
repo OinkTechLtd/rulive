@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-11 23:54:43
-# Всего каналов: 23633
-# Новых за сессию: 0
+# Обновлено: 2026-09-12 00:28:41
+# Всего каналов: 23683
+# Новых за сессию: 50
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary
-# Каналов: 232
-# Обновлено: 2026-09-11 23:54:44
+# Каналов: 233
+# Обновлено: 2026-09-12 00:28:42
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RT Documentary Russian" group-title="Documentary",RT Documentary Russian
@@ -693,6 +693,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/dtv.vol.net.ua/Nationa
 
 #EXTINF:-1 tvg-name="National Geographic Wild" group-title="Documentary",National Geographic Wild
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/dtv.vol.net.ua:80/Nat-Geo-Wild_HD/index.m3u8
+
+#EXTINF:-1 tvg-name="Safari TV (576p)" group-title="Documentary",Safari TV (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT Belgesel" group-title="Documentary",TRT Belgesel
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv-trtbelgesel.medya.trt.com.tr/master.m3u8

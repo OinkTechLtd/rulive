@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-11 23:54:43
-# Всего каналов: 23633
-# Новых за сессию: 0
+# Обновлено: 2026-09-12 00:28:41
+# Всего каналов: 23683
+# Новых за сессию: 50
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Comedy
 # Каналов: 60
-# Обновлено: 2026-09-11 23:54:44
+# Обновлено: 2026-09-12 00:28:42
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Comedy Central South Park" group-title="Animation;Comedy",Comedy Central South Park
@@ -740,3 +740,5 @@ https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8
 https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8
 #EXTINF:-1 tvg-name="Minimax" group-title="Animation;Kids",Minimax
 https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
+#EXTINF:-1 tvg-name="Laff WJLP (576p)" group-title="Comedy",Laff WJLP (576p)
+http://4.30.180.36:8420/laff/index.m3u8?token=test

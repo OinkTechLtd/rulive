@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-11 23:54:43
-# Всего каналов: 23633
-# Новых за сессию: 0
+# Обновлено: 2026-09-12 00:28:41
+# Всего каналов: 23683
+# Новых за сессию: 50
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Movies;Series;Sports
 # Каналов: 5
-# Обновлено: 2026-09-11 23:54:44
+# Обновлено: 2026-09-12 00:28:42
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="USA Network East" group-title="Comedy;Movies;Series;Sports",USA Network East
@@ -4169,3 +4169,9 @@ http://hls127.freeott.top:8080/BG_Filmbox/video.m3u8
 http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8
 #EXTINF:-1 tvg-name="AMC Europe Bulgary (576p)" group-title="Movies",AMC Europe Bulgary (576p)
 http://hls127.freeott.top:8080/BG_AMC/video.m3u8
+#EXTINF:-1 tvg-name="Laff WJLP (576p)" group-title="Comedy",Laff WJLP (576p)
+http://4.30.180.36:8420/laff/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Goldmines Action (576p)" group-title="Movies",Goldmines Action (576p)
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
+#EXTINF:-1 tvg-name="Zee Talkies (576p)" group-title="Movies",Zee Talkies (576p)
+http://107.167.16.138/zeetalkies/index.m3u8?token=test

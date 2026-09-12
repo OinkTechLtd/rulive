@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-11 23:54:43
-# Всего каналов: 23633
-# Новых за сессию: 0
+# Обновлено: 2026-09-12 00:28:41
+# Всего каналов: 23683
+# Новых за сессию: 50
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Entertainment;Sports;Travel
 # Каналов: 1
-# Обновлено: 2026-09-11 23:54:44
+# Обновлено: 2026-09-12 00:28:42
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Vinh Long TV 4" group-title="Culture;Entertainment;Sports;Travel",Vinh Long TV 4
@@ -3841,3 +3841,5 @@ http://103.175.73.12:8080/live/245/master.m3u8
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Cricket" group-title="Sports",Sky Sports Cricket
 https://leaf.highfly.dev/m3u/now-sky-sports-cricket/live.m3u8
+#EXTINF:-1 tvg-name="DD National (576p)" group-title="Entertainment",DD National (576p)
+http://107.167.16.138/ddnational/index.m3u8?token=test

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-11 23:54:43
-# Всего каналов: 23633
-# Новых за сессию: 0
+# Обновлено: 2026-09-12 00:28:41
+# Всего каналов: 23683
+# Новых за сессию: 50
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies
-# Каналов: 945
-# Обновлено: 2026-09-11 23:54:44
+# Каналов: 950
+# Обновлено: 2026-09-12 00:28:42
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="312 Кино (406p)" group-title="Movies",312 Кино (406p)
@@ -2685,6 +2685,21 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/mumt03.tangotv.in/Dsly
 
 #EXTINF:-1 tvg-name="AXN" group-title="Movies",AXN
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/170.83.16.50/AXN/index.m3u8
+
+#EXTINF:-1 tvg-name="All Time Movies (576p)" group-title="Movies",All Time Movies (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvsen6.aynaott.com/a2cKGQtB/index.m3u8
+
+#EXTINF:-1 tvg-name="Goldmines Action (576p)" group-title="Movies",Goldmines Action (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
+
+#EXTINF:-1 tvg-name="Star Gold 2 (576p)" group-title="Movies",Star Gold 2 (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/107.167.16.138/stargold2/index.m3u8?token=test
+
+#EXTINF:-1 tvg-name="Zee Action (576p)" group-title="Movies",Zee Action (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/107.167.16.138/zeeaction/index.m3u8?token=test
+
+#EXTINF:-1 tvg-name="Zee Talkies (576p)" group-title="Movies",Zee Talkies (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/107.167.16.138/zeetalkies/index.m3u8?token=test
 
 #EXTINF:-1 tvg-name="Cine34" group-title="Movies",Cine34
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8

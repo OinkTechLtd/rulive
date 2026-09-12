@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-11 23:54:43
-# Всего каналов: 23633
-# Новых за сессию: 0
+# Обновлено: 2026-09-12 00:28:41
+# Всего каналов: 23683
+# Новых за сессию: 50
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Undefined
-# Каналов: 4248
-# Обновлено: 2026-09-11 23:54:43
+# Каналов: 4249
+# Обновлено: 2026-09-12 00:28:42
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Дождь [Geo-blocked]" group-title="Undefined",Дождь [Geo-blocked]
@@ -12318,6 +12318,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/170.84.165.204/SBT_HD/
 
 #EXTINF:-1 tvg-name="Sony Channel" group-title="Undefined",Sony Channel
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/170.83.16.50/SONY_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-name="Univision West [Geo-blocked]" group-title="Undefined",Univision West [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest.m3u8
 
 #EXTINF:-1 tvg-name="W24" group-title="Undefined",W24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8

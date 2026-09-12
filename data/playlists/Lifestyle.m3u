@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-11 23:54:43
-# Всего каналов: 23633
-# Новых за сессию: 0
+# Обновлено: 2026-09-12 00:28:41
+# Всего каналов: 23683
+# Новых за сессию: 50
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Lifestyle
-# Каналов: 135
-# Обновлено: 2026-09-11 23:54:43
+# Каналов: 136
+# Обновлено: 2026-09-12 00:28:42
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Домашний (540p) [Geo-blocked]" group-title="Lifestyle",Домашний (540p) [Geo-blocked]
@@ -399,6 +399,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/103.190.232.129/stream
 
 #EXTINF:-1 tvg-name="Aspire TV Life" group-title="Lifestyle",Aspire TV Life
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FashionTV" group-title="Lifestyle",FashionTV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="9Life [Geo-blocked]" group-title="Lifestyle",9Life [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8

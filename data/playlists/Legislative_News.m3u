@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-11 23:54:43
-# Всего каналов: 23633
-# Новых за сессию: 0
+# Обновлено: 2026-09-12 00:28:41
+# Всего каналов: 23683
+# Новых за сессию: 50
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Legislative;News
 # Каналов: 1
-# Обновлено: 2026-09-11 23:54:44
+# Обновлено: 2026-09-12 00:28:42
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Korea TV" group-title="Legislative;News",Korea TV
@@ -2817,3 +2817,19 @@ https://cdn4.mjunoon.tv:8087/streamtest/140M/chunks.m3u8
 https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
 #EXTINF:-1 tvg-name="Capital TV" group-title="News",Capital TV
 https://cdn4.mjunoon.tv:8087/streamtest/111M/chunks.m3u8
+#EXTINF:-1 tvg-name="Asom Live 24 (576p)" group-title="News",Asom Live 24 (576p)
+https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8
+#EXTINF:-1 tvg-name="Bharat24" group-title="News",Bharat24
+https://cdn.ottlive.co.in/bharat24/index.m3u8
+#EXTINF:-1 tvg-name="K News India" group-title="News",K News India
+https://legitpro.co.in/knews/index.m3u8
+#EXTINF:-1 tvg-name="Live Times" group-title="News",Live Times
+https://stream.ottlive.co.in/livetimetv/index.m3u8
+#EXTINF:-1 tvg-name="Mojo TV (576p)" group-title="News",Mojo TV (576p)
+https://mumt07.tangotv.in/zHjX9OFlMOJOTV/index.m3u8
+#EXTINF:-1 tvg-name="Munsif TV (576p)" group-title="News",Munsif TV (576p)
+https://live1.ottlive.co.in/munsiftv/munsiftv/index.m3u8
+#EXTINF:-1 tvg-name="Only Bharat (576p)" group-title="News",Only Bharat (576p)
+https://mumt07.tangotv.in/zHjX9OFlONLYBHARAT/index.m3u8
+#EXTINF:-1 tvg-name="CP24" group-title="News",CP24
+http://107.167.16.138/cp24/index.m3u8?token=test

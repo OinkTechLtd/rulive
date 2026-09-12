@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-11 23:54:43
-# Всего каналов: 23633
-# Новых за сессию: 0
+# Обновлено: 2026-09-12 00:28:41
+# Всего каналов: 23683
+# Новых за сессию: 50
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music
-# Каналов: 917
-# Обновлено: 2026-09-11 23:54:43
+# Каналов: 921
+# Обновлено: 2026-09-12 00:28:42
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Deluxe Music" group-title="Music",Deluxe Music
@@ -2673,6 +2673,18 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/168.197.104.22/MUSIC/i
 
 #EXTINF:-1 tvg-name="Radio Romania 3Net (480p)" group-title="Music",Radio Romania 3Net (480p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/media.3netmedia.ro/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="VH1" group-title="Music",VH1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/4.30.180.36:8420/vh1/index.m3u8?token=test
+
+#EXTINF:-1 tvg-name="7S Music (576p)" group-title="Music",7S Music (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.pishow.tv/ott/live/1257/master.m3u8
+
+#EXTINF:-1 tvg-name="Dhamaal (576p)" group-title="Music",Dhamaal (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/107.167.16.138/dhamaal/index.m3u8?token=test
+
+#EXTINF:-1 tvg-name="Raj Musix Kannada (576p)" group-title="Music",Raj Musix Kannada (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8
 
 #EXTINF:-1 tvg-name="City TV (576p)" group-title="Music",City TV (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.city.bg/play/tshls/citytv/index.m3u8
