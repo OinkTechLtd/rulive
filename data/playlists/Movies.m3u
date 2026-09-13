@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-12 23:09:36
-# Всего каналов: 23684
-# Новых за сессию: 0
+# Обновлено: 2026-09-13 00:38:49
+# Всего каналов: 23689
+# Новых за сессию: 5
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies
-# Каналов: 950
-# Обновлено: 2026-09-12 23:09:37
+# Каналов: 951
+# Обновлено: 2026-09-13 00:38:49
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="312 Кино (406p)" group-title="Movies",312 Кино (406p)
@@ -2700,6 +2700,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/107.167.16.138/zeeacti
 
 #EXTINF:-1 tvg-name="Zee Talkies (576p)" group-title="Movies",Zee Talkies (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/107.167.16.138/zeetalkies/index.m3u8?token=test
+
+#EXTINF:-1 tvg-name="Pro Cinema" group-title="Movies",Pro Cinema
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6951/index.m3u8
 
 #EXTINF:-1 tvg-name="Cine34" group-title="Movies",Cine34
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8

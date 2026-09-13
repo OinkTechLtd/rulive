@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-12 23:09:36
-# Всего каналов: 23684
-# Новых за сессию: 0
+# Обновлено: 2026-09-13 00:38:49
+# Всего каналов: 23689
+# Новых за сессию: 5
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Interactive
 # Каналов: 3
-# Обновлено: 2026-09-12 23:09:37
+# Обновлено: 2026-09-13 00:38:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RMC Life [Geo-Blocked]" group-title="Entertainment;Interactive",RMC Life [Geo-Blocked]
@@ -2023,3 +2023,5 @@ http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
 http://103.175.73.12:8080/live/245/master.m3u8
 #EXTINF:-1 tvg-name="DD National (576p)" group-title="Entertainment",DD National (576p)
 http://107.167.16.138/ddnational/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Suara Surabaya Visual Radio" group-title="Interactive;News",Suara Surabaya Visual Radio
+https://ssfm.siar.us/ssfm/live/playlist.m3u8

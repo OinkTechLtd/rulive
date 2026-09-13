@@ -5,22 +5,13 @@
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
-# Категория: News (AR)
-# Каналов: 4
-# Обновлено: 2026-09-13 00:38:49
+# Категория: Interactive;News
+# Каналов: 1
+# Обновлено: 2026-09-13 00:38:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
-#EXTINF:-1 tvg-name="France 24 العربية Ⓨ" group-title="News (AR)",France 24 العربية Ⓨ
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/www.youtube.com/c/FRANCE24Arabic/live
-
-#EXTINF:-1 tvg-name="DW العربية" group-title="News (AR)",DW العربية
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-
-#EXTINF:-1 tvg-name="CGTN العربية" group-title="News (AR)",CGTN العربية
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
-
-#EXTINF:-1 tvg-name="Sahara 24 صحراء" group-title="News (AR)",Sahara 24 صحراء
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/65.108.206.29/sahara24-live/video.m3u8
+#EXTINF:-1 tvg-name="Suara Surabaya Visual Radio" group-title="Interactive;News",Suara Surabaya Visual Radio
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ssfm.siar.us/ssfm/live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Дождь (альтернативный)" group-title="News",Дождь (альтернативный)
 https://stream.tvrain.tv/live/tvrain.m3u8
@@ -94,12 +85,18 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://stream.uagit.tv/gittv.m3u8
 #EXTINF:-1 tvg-name="Тернопіль 1" group-title="News",Тернопіль 1
 https://ott.columbus.te.ua/ternopil1/index.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera Documentary Ⓖ" group-title="Documentaries (AR)",Al Jazeera Documentary Ⓖ
-https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1 tvg-name="Al Arabiya" group-title="News",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="France 24 العربية Ⓨ" group-title="News (AR)",France 24 العربية Ⓨ
+https://www.youtube.com/c/FRANCE24Arabic/live
+#EXTINF:-1 tvg-name="DW العربية" group-title="News (AR)",DW العربية
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 tvg-name="CGTN العربية" group-title="News (AR)",CGTN العربية
+https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 #EXTINF:-1 tvg-name="RT Arabic [Geo-blocked]" group-title="News",RT Arabic [Geo-blocked]
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-name="Sahara 24 صحراء" group-title="News (AR)",Sahara 24 صحراء
+https://65.108.206.29/sahara24-live/video.m3u8
 #EXTINF:-1 tvg-name="Sky News (UK)" group-title="News",Sky News (UK)
 https://ythls.armelin.one/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8
 #EXTINF:-1 tvg-name="Euronews Ⓨ" group-title="News",Euronews Ⓨ
@@ -544,6 +541,8 @@ https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lemedia.m3u8
 #EXTINF:-1 tvg-name="Lyon Capitale TV (180p)" group-title="News",Lyon Capitale TV (180p)
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lyoncapitale.m3u8
+#EXTINF:-1 tvg-name="RMC Life [Geo-Blocked]" group-title="Entertainment;Interactive",RMC Life [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
 #EXTINF:-1 tvg-name="RT France [Geo-blocked]" group-title="News",RT France [Geo-blocked]
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-name="TV5Monde Info [Geo-blocked]" group-title="News",TV5Monde Info [Geo-blocked]
@@ -2084,6 +2083,8 @@ http://ott.watch/XE5QWWBZ87/20/tracks-v1a1/mono.ts.m3u8?sid=6a3725e1-2094-4453-9
 https://rt-srb.rttv.com/live/rtbalkan/playlist.m3u8
 #EXTINF:-1 tvg-name="Cherniveckiy promin" group-title="News",Cherniveckiy promin
 https://langate.tv/promin/live_720/index.m3u8
+#EXTINF:-1 tvg-name="RMC Life" group-title="Entertainment;Interactive",RMC Life
+http://41.205.77.102/CHERIE25/index.m3u8
 #EXTINF:-1 tvg-name="Sky News (576p)" group-title="News",Sky News (576p)
 http://41.205.77.102/SKYNEWS/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="News",FuegoTV" group-title="News",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="News",FuegoTV
@@ -2476,5 +2477,3 @@ https://mumt07.tangotv.in/zHjX9OFlONLYBHARAT/index.m3u8
 http://107.167.16.138/cp24/index.m3u8?token=test
 #EXTINF:-1 tvg-name="Prima News" group-title="News",Prima News
 https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
-#EXTINF:-1 tvg-name="Suara Surabaya Visual Radio" group-title="Interactive;News",Suara Surabaya Visual Radio
-https://ssfm.siar.us/ssfm/live/playlist.m3u8

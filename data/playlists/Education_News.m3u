@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-12 23:09:36
-# Всего каналов: 23684
-# Новых за сессию: 0
+# Обновлено: 2026-09-13 00:38:49
+# Всего каналов: 23689
+# Новых за сессию: 5
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;News
 # Каналов: 1
-# Обновлено: 2026-09-12 23:09:37
+# Обновлено: 2026-09-13 00:38:50
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Dabanga TV" group-title="Education;News",Dabanga TV
@@ -2993,3 +2993,7 @@ https://mumt07.tangotv.in/zHjX9OFlONLYBHARAT/index.m3u8
 http://107.167.16.138/cp24/index.m3u8?token=test
 #EXTINF:-1 tvg-name="UTalca TV" group-title="Education",UTalca TV
 https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-name="Prima News" group-title="News",Prima News
+https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
+#EXTINF:-1 tvg-name="Suara Surabaya Visual Radio" group-title="Interactive;News",Suara Surabaya Visual Radio
+https://ssfm.siar.us/ssfm/live/playlist.m3u8
