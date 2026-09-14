@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-13 23:53:39
-# Всего каналов: 23692
-# Новых за сессию: 0
+# Обновлено: 2026-09-14 01:23:27
+# Всего каналов: 23693
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;General;Music;News
 # Каналов: 1
-# Обновлено: 2026-09-13 23:53:40
+# Обновлено: 2026-09-14 01:23:28
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Online TV Nusantara" group-title="Culture;General;Music;News",Online TV Nusantara
@@ -4839,6 +4839,8 @@ https://vs20.live.opencaster.com/duacavision_092f3447/index.m3u8
 https://live.fansplay.tv/livestreams/21.GdPGZIRcwzZ9vgE5.m3u8
 #EXTINF:-1 tvg-name="Durán TV (480p)" group-title="General",Durán TV (480p)
 https://cloudvideo.servers10.com:8081/8074/index.m3u8
+#EXTINF:-1 tvg-name="DW Espanol" group-title="News",DW Espanol
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-name="E40" group-title="Music",E40
 https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-name="ECO Television" group-title="General",ECO Television
@@ -6681,7 +6683,7 @@ https://live.visir.is/hls-live/visir.smil/playlist.m3u8
 https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1 tvg-name="VTV" group-title="News",VTV
 https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8
-#EXTINF:-1 tvg-name="YES" group-title="News",YES
+#EXTINF:-1 tvg-name="YES" group-title="Culture;Entertainment;Sports",YES
 https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8
 #EXTINF:-1 tvg-name="LRT Plius [Geo-blocked]" group-title="Culture;Sports",LRT Plius [Geo-blocked]
 https://stream-live.lrt.lt/plius/master.m3u8
@@ -9637,8 +9639,6 @@ http://178.134.1.158:8081/5channel/index.m3u8
 https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 7 Talanga Vision" group-title="General",Canal 7 Talanga Vision
 https://amixtv.com:8081/talangavision/index.m3u8
-#EXTINF:-1 tvg-name="DW Espanol" group-title="News",DW Espanol
-http://177.234.249.178:8888/DW/index.m3u8
 #EXTINF:-1 tvg-name="Estacion Radio TV" group-title="General",Estacion Radio TV
 https://stmv7.voxtvhd.com.br/radiovida/radiovida/playlist.m3u8
 #EXTINF:-1 tvg-name="Las Estrellas Latin America" group-title="General",Las Estrellas Latin America

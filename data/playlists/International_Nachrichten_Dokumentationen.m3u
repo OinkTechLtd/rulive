@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-13 23:53:39
-# Всего каналов: 23692
-# Новых за сессию: 0
+# Обновлено: 2026-09-14 01:23:27
+# Всего каналов: 23693
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: International;Nachrichten;Dokumentationen
 # Каналов: 1
-# Обновлено: 2026-09-13 23:53:40
+# Обновлено: 2026-09-14 01:23:28
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="NHK WORLD TV" group-title="International;Nachrichten;Dokumentationen",NHK WORLD TV
@@ -27,8 +27,6 @@ https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-name="ALBUK TV" group-title="International",ALBUK TV
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Deutsche Welle (ES)" group-title="International;Nachrichten",Deutsche Welle (ES)
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-name="Yle TV1" group-title="International",Yle TV1
 https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
 #EXTINF:-1 tvg-name="Yle TV2" group-title="International",Yle TV2

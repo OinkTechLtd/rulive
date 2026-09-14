@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-13 23:53:39
-# Всего каналов: 23692
-# Новых за сессию: 0
+# Обновлено: 2026-09-14 01:23:27
+# Всего каналов: 23693
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Sport
 # Каналов: 3
-# Обновлено: 2026-09-13 23:53:40
+# Обновлено: 2026-09-14 01:23:28
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="AUTO BILD TV" group-title="Sport",AUTO BILD TV
@@ -599,6 +599,8 @@ https://dflive.app.tc/60.m3u8
 https://dflive.app.tc/61.m3u8
 #EXTINF:-1 tvg-name="Sin Po TV (540p)" group-title="News;Sports",Sin Po TV (540p)
 https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
+#EXTINF:-1 tvg-name="YES" group-title="Culture;Entertainment;Sports",YES
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8
 #EXTINF:-1 tvg-name="ERT Sports 1" group-title="Sports",ERT Sports 1
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
 #EXTINF:-1 tvg-name="ERT Sports 2" group-title="Sports",ERT Sports 2

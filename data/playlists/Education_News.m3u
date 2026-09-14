@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-13 23:53:39
-# Всего каналов: 23692
-# Новых за сессию: 0
+# Обновлено: 2026-09-14 01:23:27
+# Всего каналов: 23693
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;News
 # Каналов: 1
-# Обновлено: 2026-09-13 23:53:40
+# Обновлено: 2026-09-14 01:23:28
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Dabanga TV" group-title="Education;News",Dabanga TV
@@ -1751,6 +1751,8 @@ https://live.obslivestream.com/conecta2/index.m3u8
 https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="De Ultimo Minuto TV" group-title="News",De Ultimo Minuto TV
 https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
+#EXTINF:-1 tvg-name="DW Espanol" group-title="News",DW Espanol
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-name="Ecotel TV" group-title="News",Ecotel TV
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 #EXTINF:-1 tvg-name="Educa TV" group-title="Education",Educa TV
@@ -2315,8 +2317,6 @@ https://live.visir.is/hls-live/visir.smil/playlist.m3u8
 https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1 tvg-name="VTV" group-title="News",VTV
 https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8
-#EXTINF:-1 tvg-name="YES" group-title="News",YES
-https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8
 #EXTINF:-1 tvg-name="Charana TV (360p)" group-title="Education;Entertainment",Charana TV (360p)
 https://edge3-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Education;Entertainment",Education" group-title="Education;Entertainment",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Education;Entertainment",Education
@@ -2709,8 +2709,6 @@ http://176.122.125.10:8080/news24/index.m3u8
 http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
 #EXTINF:-1 tvg-name="A24" group-title="News",A24
 http://200.91.32.158:8080/a24/index.m3u8
-#EXTINF:-1 tvg-name="DW Espanol" group-title="News",DW Espanol
-http://177.234.249.178:8888/DW/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="News",RPP TV" group-title="News",like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="News",RPP TV
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/RPP/playlist.m3u8
 #EXTINF:-1 tvg-name="Sterk TV" group-title="News",Sterk TV

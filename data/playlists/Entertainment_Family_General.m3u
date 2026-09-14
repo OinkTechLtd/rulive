@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-13 23:53:39
-# Всего каналов: 23692
-# Новых за сессию: 0
+# Обновлено: 2026-09-14 01:23:27
+# Всего каналов: 23693
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Family;General
 # Каналов: 3
-# Обновлено: 2026-09-13 23:53:40
+# Обновлено: 2026-09-14 01:23:28
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="1KZN TV (576p)" group-title="Entertainment;Family;General",1KZN TV (576p)
@@ -4657,6 +4657,8 @@ https://stream.tvkstella.pl/stella/stella.m3u8
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="Vĩnh Long TV5 [Geo-blocked]" group-title="Culture;Entertainment;Music;News",Vĩnh Long TV5 [Geo-blocked]
 https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="YES" group-title="Culture;Entertainment;Sports",YES
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8
 #EXTINF:-1 tvg-name="TVR Sport" group-title="General;Sports",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-name="BE@TTV" group-title="Entertainment;Music",BE@TTV

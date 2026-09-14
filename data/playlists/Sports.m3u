@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-13 23:53:39
-# Всего каналов: 23692
-# Новых за сессию: 0
+# Обновлено: 2026-09-14 01:23:27
+# Всего каналов: 23693
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Sports
 # Каналов: 785
-# Обновлено: 2026-09-13 23:53:40
+# Обновлено: 2026-09-14 01:23:28
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CBC Sport [Geo-blocked]" group-title="Sports",CBC Sport [Geo-blocked]
@@ -2423,6 +2423,8 @@ https://live-stream.iblups.com/live/a5ae024a1bbc4a05a68debbc9d379db6bb6a6da3.m3u
 http://69.64.57.208/la3/index.m3u8
 #EXTINF:-1 tvg-name="Sin Po TV (540p)" group-title="News;Sports",Sin Po TV (540p)
 https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
+#EXTINF:-1 tvg-name="YES" group-title="Culture;Entertainment;Sports",YES
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8
 #EXTINF:-1 tvg-name="LRT Plius [Geo-blocked]" group-title="Culture;Sports",LRT Plius [Geo-blocked]
 https://stream-live.lrt.lt/plius/master.m3u8
 #EXTINF:-1 tvg-name="TVR Sport" group-title="General;Sports",TVR Sport
