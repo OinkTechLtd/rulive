@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-14 23:18:53
-# Всего каналов: 23694
-# Новых за сессию: 0
+# Обновлено: 2026-09-15 01:11:36
+# Всего каналов: 23783
+# Новых за сессию: 89
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment
-# Каналов: 1185
-# Обновлено: 2026-09-14 23:18:53
+# Каналов: 1194
+# Обновлено: 2026-09-15 01:11:37
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Arte [Geo-blocked]" group-title="Entertainment",Arte [Geo-blocked]
@@ -3444,6 +3444,33 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/107.167.16.138/ddnatio
 
 #EXTINF:-1 tvg-name="Mazhavil Manorama" group-title="Entertainment",Mazhavil Manorama
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/mmtv-vglivessai.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/f8a0827f-030f-4a0d-b7e5-338996c09a5b/index.m3u8
+
+#EXTINF:-1 tvg-name="KNino" group-title="Entertainment",KNino
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/kninohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-name="Nitro" group-title="Entertainment",Nitro
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Colors Super (396p)" group-title="Entertainment",Colors Super (396p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/d1rc86nwwc9fag.cloudfront.net/260723/smil:colorssuper1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-name="Hi Dost!" group-title="Entertainment",Hi Dost!
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.pishow.tv/ott/live/224/master.m3u8
+
+#EXTINF:-1 tvg-name="Khushboo Bangla" group-title="Entertainment",Khushboo Bangla
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.pishow.tv/ott/live/1473/master.m3u8
+
+#EXTINF:-1 tvg-name="Maha Punjabi" group-title="Entertainment",Maha Punjabi
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.pishow.tv/ott/live/1521/master.m3u8
+
+#EXTINF:-1 tvg-name="Polimer TV" group-title="Entertainment",Polimer TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.pishow.tv/ott/live/1241/master.m3u8
+
+#EXTINF:-1 tvg-name="Rupasi Bangla" group-title="Entertainment",Rupasi Bangla
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.pishow.tv/ott/live/1039/master.m3u8
+
+#EXTINF:-1 tvg-name="Adult Swim Latin America [Geo-blocked]" group-title="Entertainment",Adult Swim Latin America [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/138.121.15.230:9002/ADULT-SWIM/index.m3u8
 
 #EXTINF:-1 tvg-name="Belarus-2" group-title="Entertainment",Belarus-2
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8

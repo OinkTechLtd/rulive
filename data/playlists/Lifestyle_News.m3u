@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-14 23:18:53
-# Всего каналов: 23694
-# Новых за сессию: 0
+# Обновлено: 2026-09-15 01:11:36
+# Всего каналов: 23783
+# Новых за сессию: 89
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Lifestyle;News
 # Каналов: 3
-# Обновлено: 2026-09-14 23:18:53
+# Обновлено: 2026-09-15 01:11:37
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="NowMedia Television" group-title="Lifestyle;News",NowMedia Television
@@ -2781,3 +2781,21 @@ http://107.167.16.138/cp24/index.m3u8?token=test
 https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
 #EXTINF:-1 tvg-name="Suara Surabaya Visual Radio" group-title="Interactive;News",Suara Surabaya Visual Radio
 https://ssfm.siar.us/ssfm/live/playlist.m3u8
+#EXTINF:-1 tvg-name="WELT" group-title="News",WELT
+https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="Asian News" group-title="News",Asian News
+https://stream.ottlive.co.in/asiannews/index.m3u8
+#EXTINF:-1 tvg-name="The Voice TV" group-title="News",The Voice TV
+https://legitpro.co.in/thevoicetv/thevoicetv/index.m3u8
+#EXTINF:-1 tvg-name="Top News Marathi" group-title="News",Top News Marathi
+https://live1.ottlive.co.in/topnewsmarathi/topnewsmarathi/index.m3u8
+#EXTINF:-1 tvg-name="TV27 News (360p)" group-title="News",TV27 News (360p)
+https://mumt04.tangotv.in/m18aqlK4TV27/index.m3u8
+#EXTINF:-1 tvg-name="TV30 India" group-title="News",TV30 India
+https://stream.tv30bharat.com/hls/shree/bhattji.m3u8
+#EXTINF:-1 tvg-name="TV45" group-title="News",TV45
+https://server.livelegitpro.in/bnews24/bnews24/video.m3u8
+#EXTINF:-1 tvg-name="Vistaar News" group-title="News",Vistaar News
+https://stream.ottlive.co.in/vistaartv/index.m3u8
+#EXTINF:-1 tvg-name="VR Live" group-title="News",VR Live
+https://channel.vrlivegujarat.com/hls/vrchannel.m3u8
