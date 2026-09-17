@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-17 12:43:56
-# Всего каналов: 23789
-# Новых за сессию: 0
+# Обновлено: 2026-09-17 17:31:13
+# Всего каналов: 23883
+# Новых за сессию: 94
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General
-# Каналов: 3284
-# Обновлено: 2026-09-17 12:43:57
+# Каналов: 3294
+# Обновлено: 2026-09-17 17:31:14
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="БелРос (576p)" group-title="General",БелРос (576p)
@@ -9292,6 +9292,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/media.slactech.com:193
 #EXTINF:-1 tvg-name="OTR (576p)" group-title="General",OTR (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/flussonic.linkintel.ru/otr/index.m3u8
 
+#EXTINF:-1 tvg-name="Sun Gemini (576p)" group-title="General",Sun Gemini (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8
+
 #EXTINF:-1 tvg-name="Canal 2" group-title="General",Canal 2
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/186.33.26.18:8000/play/a0qp/index.m3u8
 
@@ -9525,6 +9528,33 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.pishow.tv/ott/live
 
 #EXTINF:-1 tvg-name="Canal C del Zulia" group-title="General",Canal C del Zulia
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/calm-forest-3478.cristianbracho904.workers.dev/live/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel One Eurasia (576p)" group-title="General",Channel One Eurasia (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/fs.uplink.kz/perviy_kanal_evrasia/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-name="Jibek Joly (576p)" group-title="General",Jibek Joly (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/fs.uplink.kz/jibek_joly/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-name="Galavision" group-title="General",Galavision
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/200.115.120.1:8000/play/ca128/index.m3u8
+
+#EXTINF:-1 tvg-name="DD India" group-title="General",DD India
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mumbai-edge.smartplaytv.in/DDIndia/index.m3u8
+
+#EXTINF:-1 tvg-name="DD Madhya Pradesh" group-title="General",DD Madhya Pradesh
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mumbai-edge.smartplaytv.in/ddmadhyapradesh/index.m3u8
+
+#EXTINF:-1 tvg-name="DD Odia (576p)" group-title="General",DD Odia (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mumbai-edge.smartplaytv.in/ddodiya/index.m3u8
+
+#EXTINF:-1 tvg-name="MBC TV (576p)" group-title="General",MBC TV (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mumbai-edge.smartplaytv.in/MBCTV/index.m3u8
+
+#EXTINF:-1 tvg-name="Network 10" group-title="General",Network 10
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mumbai-edge.smartplaytv.in/Network10/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel One CIS (576p)" group-title="General",Channel One CIS (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/fs.uplink.kz/perviy_kanal_sng/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-name="Belarus-1" group-title="General",Belarus-1
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8

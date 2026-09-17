@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-17 12:43:56
-# Всего каналов: 23789
-# Новых за сессию: 0
+# Обновлено: 2026-09-17 17:31:13
+# Всего каналов: 23883
+# Новых за сессию: 94
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Science
 # Каналов: 5
-# Обновлено: 2026-09-17 12:43:57
+# Обновлено: 2026-09-17 17:31:14
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="滁州科教 (450p)" group-title="Education;Science",滁州科教 (450p)
@@ -583,3 +583,5 @@ http://4.30.180.36:8420/wnethd/index.m3u8?token=test
 https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8
 #EXTINF:-1 tvg-name="UTalca TV" group-title="Education",UTalca TV
 https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-name="TV7" group-title="Education",TV7
+http://185.9.2.18/chid_352/index.m3u8

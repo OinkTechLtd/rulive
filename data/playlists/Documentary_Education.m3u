@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-17 12:43:56
-# Всего каналов: 23789
-# Новых за сессию: 0
+# Обновлено: 2026-09-17 17:31:13
+# Всего каналов: 23883
+# Новых за сессию: 94
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Education
 # Каналов: 2
-# Обновлено: 2026-09-17 12:43:57
+# Обновлено: 2026-09-17 17:31:14
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Asharq Discovery" group-title="Documentary;Education",Asharq Discovery
@@ -970,3 +970,7 @@ https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8
 #EXTINF:-1 tvg-name="UTalca TV" group-title="Education",UTalca TV
 https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-name="BBC Earth Romania (576p)" group-title="Documentary",BBC Earth Romania (576p)
+http://hls127.freeott.top:8080/BG_The_World/video.m3u8
+#EXTINF:-1 tvg-name="TV7" group-title="Education",TV7
+http://185.9.2.18/chid_352/index.m3u8

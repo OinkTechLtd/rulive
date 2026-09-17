@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-17 12:43:56
-# Всего каналов: 23789
-# Новых за сессию: 0
+# Обновлено: 2026-09-17 17:31:13
+# Всего каналов: 23883
+# Новых за сессию: 94
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Lifestyle
-# Каналов: 137
-# Обновлено: 2026-09-17 12:43:57
+# Каналов: 139
+# Обновлено: 2026-09-17 17:31:14
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Домашний (540p) [Geo-blocked]" group-title="Lifestyle",Домашний (540p) [Geo-blocked]
@@ -405,6 +405,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/fashionlive.mediacdn.r
 
 #EXTINF:-1 tvg-name="CVR Health (576p)" group-title="Lifestyle",CVR Health (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.pishow.tv/ott/live/395/master.m3u8
+
+#EXTINF:-1 tvg-name="CVR Health (576p)" group-title="Lifestyle",CVR Health (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mumbai-edge.smartplaytv.in/CVRHealth/index.m3u8
+
+#EXTINF:-1 tvg-name="ETV Life" group-title="Lifestyle",ETV Life
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/mumbai-edge.smartplaytv.in/ETVLIFE/index.m3u8
 
 #EXTINF:-1 tvg-name="9Life [Geo-blocked]" group-title="Lifestyle",9Life [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8

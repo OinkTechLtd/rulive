@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-17 12:43:56
-# Всего каналов: 23789
-# Новых за сессию: 0
+# Обновлено: 2026-09-17 17:31:13
+# Всего каналов: 23883
+# Новых за сессию: 94
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Lifestyle
 # Каналов: 1
-# Обновлено: 2026-09-17 12:43:57
+# Обновлено: 2026-09-17 17:31:14
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="QTV-6" group-title="Kids;Lifestyle",QTV-6
@@ -789,6 +789,8 @@ http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="Мама (576p)" group-title="Kids",Мама (576p)
 http://31.148.48.15/Mama/index.m3u8
+#EXTINF:-1 tvg-name="Уникум (576p)" group-title="Kids",Уникум (576p)
+http://31.148.48.15/Detskiy/index.m3u8
 #EXTINF:-1 tvg-name="MAX Kids" group-title="Kids",MAX Kids
 https://indihuy.streamized.net/atm/DASH/indikids/manifest.mpd
 #EXTINF:-1 tvg-name="Lale" group-title="Kids",Lale
@@ -1245,3 +1247,9 @@ https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
 https://live.omni3.pl/minimaxsi/index.m3u8
 #EXTINF:-1 tvg-name="Fix & Foxi (540p)" group-title="Kids",Fix & Foxi (540p)
 https://live.omni3.pl/fixfoxide/index.m3u8?token=ebnk.xyz
+#EXTINF:-1 tvg-name="Detskiy (576p)" group-title="Kids",Detskiy (576p)
+https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="ETV Life" group-title="Lifestyle",ETV Life
+https://mumbai-edge.smartplaytv.in/ETVLIFE/index.m3u8
+#EXTINF:-1 tvg-name="TraLaLa TV" group-title="Kids",TraLaLa TV
+https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8
