@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-18 15:50:28
-# Всего каналов: 23954
-# Новых за сессию: 0
+# Обновлено: 2026-09-18 18:55:40
+# Всего каналов: 23959
+# Новых за сессию: 5
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Series
 # Каналов: 8
-# Обновлено: 2026-09-18 15:50:29
+# Обновлено: 2026-09-18 18:55:41
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Rakuten Viki" group-title="Entertainment;Series",Rakuten Viki
@@ -16,7 +16,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/newidco-rakutenviki-1-
 #EXTINF:-1 tvg-name="Rakuten Viki" group-title="Entertainment;Series",Rakuten Viki
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Rakuten VIKI" group-title="Entertainment;Series",Rakuten VIKI
+#EXTINF:-1 tvg-name="Rakuten Viki Poland" group-title="Entertainment;Series",Rakuten Viki Poland
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Zee Alwan (576p)" group-title="Entertainment;Series",Zee Alwan (576p)
@@ -38,17 +38,19 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/41.223.30.230/ZEEALWAN
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
 #EXTINF:-1 tvg-name="Belarus-2" group-title="Entertainment",Belarus-2
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="13 Entretención" group-title="Entertainment",13 Entretención
+#EXTINF:-1 tvg-name="13E" group-title="Entertainment",13E
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
 #EXTINF:-1 tvg-name="13 Realities" group-title="Entertainment",13 Realities
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
-#EXTINF:-1 tvg-name="13 Teleseries" group-title="Series",13 Teleseries
+#EXTINF:-1 tvg-name="13T" group-title="Series",13T
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-name="Arte [Geo-blocked]" group-title="Entertainment",Arte [Geo-blocked]
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1 tvg-name="arte (Germany) [Geo-blocked]" group-title="Entertainment",arte (Germany) [Geo-blocked]
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 #EXTINF:-1 tvg-name="WDR 1 Live" group-title="Entertainment",WDR 1 Live
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
-#EXTINF:-1 tvg-name="STAR International" group-title="Entertainment",STAR International
+#EXTINF:-1 tvg-name="Star Channel International" group-title="Entertainment",Star Channel International
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1 tvg-name="Vergina TV" group-title="Entertainment;News",Vergina TV
 https://verginanews.gr:8443/hls_live/stream1.m3u8
@@ -64,7 +66,7 @@ https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
 https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
 #EXTINF:-1 tvg-name="ST Europe Channel" group-title="Entertainment",ST Europe Channel
 https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
-#EXTINF:-1 tvg-name="Смотрим Честный Детектив" group-title="Series",Смотрим Честный Детектив
+#EXTINF:-1 tvg-name="Smotrim Chestnyy Detektiv" group-title="Series",Smotrim Chestnyy Detektiv
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="CG Entertainment" group-title="Entertainment",CG Entertainment
 https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
@@ -74,19 +76,19 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 https://kino-stream.online/hls/DTRZONA1.m3u8
 #EXTINF:-1 tvg-name="DTR Zona 2" group-title="Entertainment",DTR Zona 2
 https://kino-stream.online/hls/DTRZONA2.m3u8
-#EXTINF:-1 tvg-name="312 ТВ (406p)" group-title="Entertainment",312 ТВ (406p)
+#EXTINF:-1 tvg-name="312 TV (406p)" group-title="Entertainment",312 TV (406p)
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 tvg-name="ETV+" group-title="Entertainment",ETV+
 https://sb.err.ee/live/etvpluss.m3u8
-#EXTINF:-1 tvg-name="30A Georgia Hollywood Review TV" group-title="Entertainment;News",30A Georgia Hollywood Review TV
+#EXTINF:-1 tvg-name="30A Georgia Hollywood Review" group-title="Entertainment;News",30A Georgia Hollywood Review
 https://30a-tv.com/gh.m3u8
-#EXTINF:-1 tvg-name="27 TwentySeven [Geo-blocked]" group-title="Movies;Series",27 TwentySeven [Geo-blocked]
+#EXTINF:-1 tvg-name="Twentyseven [Geo-blocked]" group-title="Movies;Series",Twentyseven [Geo-blocked]
 https://live2.msf.cdn.mediaset.net/content/hls_h0_cls_vos/live/channel(ts)/index.m3u8
 #EXTINF:-1 tvg-name="50 Cent Action" group-title="Movies;Series",50 Cent Action
 https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
 #EXTINF:-1 tvg-name="@TV" group-title="Movies;Series",@TV
 http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
-#EXTINF:-1 tvg-name="Alterna TV" group-title="Culture;Documentary;Entertainment;General;Movies;Music",Alterna TV
+#EXTINF:-1 tvg-name="AlternaTV" group-title="Culture;Documentary;Entertainment;General;Movies;Music",AlternaTV
 https://tv.alterna.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-name="Đồng Nai 2 (480p)" group-title="Entertainment;Sports",Đồng Nai 2 (480p)
 http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
@@ -102,9 +104,9 @@ http://31.148.48.15/Zee_TV_Russia/index.m3u8
 http://31.148.48.15/Mir_Seriala/index.m3u8
 #EXTINF:-1 tvg-name="НТВ Хит (576p)" group-title="Series",НТВ Хит (576p)
 https://cdn.ntv.ru/th_hit/playlist.m3u8
-#EXTINF:-1 tvg-name="ОТВ Приморье" group-title="Entertainment",ОТВ Приморье
+#EXTINF:-1 tvg-name="OTV-Prim" group-title="Entertainment",OTV-Prim
 https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Поехали!" group-title="Entertainment;Outdoor",Поехали!
+#EXTINF:-1 tvg-name="Poehali!" group-title="Entertainment;Outdoor",Poehali!
 http://31.148.48.15/Poehali/index.m3u8
 #EXTINF:-1 tvg-name="Пятница! (576p)" group-title="Entertainment",Пятница! (576p)
 https://vod.tuva.ru/friday/index.m3u8
@@ -112,9 +114,9 @@ https://vod.tuva.ru/friday/index.m3u8
 https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 #EXTINF:-1 tvg-name="Сапфир" group-title="Series",Сапфир
 http://31.148.48.15/Sapfir_HD/index.m3u8
-#EXTINF:-1 tvg-name="Сити Эдем КиноДок" group-title="Documentary;Series",Сити Эдем КиноДок
+#EXTINF:-1 tvg-name="City Eden KinoDok" group-title="Documentary;Series",City Eden KinoDok
 https://cityeden.catcast.tv/content/38354/index.m3u8
-#EXTINF:-1 tvg-name="Сити Эдем ТелеНовелла" group-title="Series",Сити Эдем ТелеНовелла
+#EXTINF:-1 tvg-name="City Eden TeleNovella" group-title="Series",City Eden TeleNovella
 https://cityeden.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 tvg-name="Смотрим 100% Любовь" group-title="Series",Смотрим 100% Любовь
 https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
@@ -122,7 +124,7 @@ https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df
 https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d
 #EXTINF:-1 tvg-name="Смотрим 100% Праздник" group-title="Entertainment",Смотрим 100% Праздник
 https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
-#EXTINF:-1 tvg-name="Твое TV" group-title="Entertainment",Твое TV
+#EXTINF:-1 tvg-name="Tvoe TV" group-title="Entertainment",Tvoe TV
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-name="ТНТ4 (576p)" group-title="Entertainment",ТНТ4 (576p)
 http://31.148.48.15/TNT4/index.m3u8
@@ -134,7 +136,7 @@ http://31.148.48.15/Che/index.m3u8
 https://kiev1-cdn.lanet.tv/live/1008.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Entertainment",ТНТ4 International (576p)" group-title="Entertainment",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Entertainment",ТНТ4 International (576p)
 https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Entertainment",ТНТ International (480p)" group-title="Entertainment",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Entertainment",ТНТ International (480p)
+#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Entertainment",TNT International (480p)" group-title="Entertainment",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Entertainment",TNT International (480p)
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 #EXTINF:-1 tvg-name="30A Sidewalks" group-title="Entertainment",30A Sidewalks
 https://30a-tv.com/sidewalks.m3u8
@@ -144,15 +146,15 @@ https://30a-tv.com/feeds/masters/30atv.m3u8
 https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
 #EXTINF:-1 tvg-name="A&E East" group-title="Entertainment",A&E East
 https://tvpass.org/live/AEEast/hd
-#EXTINF:-1 tvg-name="ABC 5 Boston MA (WCVB)" group-title="Series",ABC 5 Boston MA (WCVB)
+#EXTINF:-1 tvg-name="True Crime Network WCVB-TV" group-title="Series",True Crime Network WCVB-TV
 https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8
-#EXTINF:-1 tvg-name="ABC 22 Dayton OH (WKEF)" group-title="Entertainment",ABC 22 Dayton OH (WKEF)
+#EXTINF:-1 tvg-name="Roar WKEF" group-title="Entertainment",Roar WKEF
 https://linear-690.frequency.stream/dist/stirr/690/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="Acapulco Shore" group-title="Series",Acapulco Shore
+#EXTINF:-1 tvg-name="Acapulco Shore US" group-title="Series",Acapulco Shore US
 https://jmp2.uk/plu-64dab1f835425100080e1e7b.m3u8
 #EXTINF:-1 tvg-name="AfroLandTV" group-title="Entertainment",AfroLandTV
 https://alt-al.otteravision.com/alt/al/al.m3u8
-#EXTINF:-1 tvg-name="All Reality WE tv" group-title="Series",All Reality WE tv
+#EXTINF:-1 tvg-name="All Reality by WE tv" group-title="Series",All Reality by WE tv
 https://jmp2.uk/plu-5e82530945600e0007ca076c.m3u8
 #EXTINF:-1 tvg-name="All Weddings We TV [Geo-blocked]" group-title="Series",All Weddings We TV [Geo-blocked]
 https://pb-amiq9wz02dhco.akamaized.net/playlist.m3u8
@@ -160,13 +162,13 @@ https://pb-amiq9wz02dhco.akamaized.net/playlist.m3u8
 https://df1zke3zj042m.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-name="Always Funny Videos" group-title="Series",Always Funny Videos
 https://d24l3uppudokci.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-name="AMC Absolute Reality" group-title="Entertainment",AMC Absolute Reality
+#EXTINF:-1 tvg-name="Absolute Reality by WE TV" group-title="Entertainment",Absolute Reality by WE TV
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="AMC en Español [Geo-blocked]" group-title="Entertainment",AMC en Español [Geo-blocked]
 https://pb-fmbyorn1d0n1n.akamaized.net/v1/amc_amcespanol_3/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-name="Anger Management Channel" group-title="Comedy;Series",Anger Management Channel
 https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-name="Antiques Roadshow PBS" group-title="Series",Antiques Roadshow PBS
+#EXTINF:-1 tvg-name="PBS Antiques Roadshow" group-title="Series",PBS Antiques Roadshow
 https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Antiques Roadshow UK" group-title="Series",Antiques Roadshow UK
 https://bbc-antiquesroadshowuk-1-us.roku.wurl.tv/playlist.m3u8
@@ -176,7 +178,7 @@ https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist
 https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="At Home with Family Handyman" group-title="Series",At Home with Family Handyman
 https://d1ik2p49apxqjf.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-name="Auction Hunters" group-title="Entertainment",Auction Hunters
+#EXTINF:-1 tvg-name="Auction Hunters (Germany) GB" group-title="Entertainment",Auction Hunters (Germany) GB
 https://jmp2.uk/plu-62ac50e92c48f900071444c9.m3u8
 #EXTINF:-1 tvg-name="Bar Rescue" group-title="Series",Bar Rescue
 https://jmp2.uk/plu-60a3d889a5b3690008dc7fe8.m3u8
@@ -184,21 +186,21 @@ https://jmp2.uk/plu-60a3d889a5b3690008dc7fe8.m3u8
 https://amg00145-fremantlemedian-baywatch-samsungau-gtsd6.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC America" group-title="Entertainment",BBC America
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-name="BBC Doctor Who Classic" group-title="Series",BBC Doctor Who Classic
+#EXTINF:-1 tvg-name="Doctor Who Classic" group-title="Series",Doctor Who Classic
 https://bbc-classicdrwho-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="BET Pluto TV" group-title="Entertainment",BET Pluto TV
+#EXTINF:-1 tvg-name="BET Pluto TV (United States)" group-title="Entertainment",BET Pluto TV (United States)
 https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8
 #EXTINF:-1 tvg-name="Black Ink Crew" group-title="Series",Black Ink Crew
 https://jmp2.uk/plu-5d51e2bceca5b4b2c0e06c50.m3u8
-#EXTINF:-1 tvg-name="Blue Bloods" group-title="Series",Blue Bloods
+#EXTINF:-1 tvg-name="Blue Bloods (United States)" group-title="Series",Blue Bloods (United States)
 https://jmp2.uk/plu-61b3b8c645b45d0007a9bb8d.m3u8
 #EXTINF:-1 tvg-name="Bounce XL" group-title="Entertainment",Bounce XL
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
 #EXTINF:-1 tvg-name="Buzzr" group-title="Entertainment",Buzzr
 https://buzzrota-ono.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Canela.TV" group-title="Entertainment",Canela.TV
+#EXTINF:-1 tvg-name="Canela TV" group-title="Entertainment",Canela TV
 https://d3cx6yargdnl7q.cloudfront.net/canelatv.m3u8
-#EXTINF:-1 tvg-name="CBS 22 South Bend IN (WSBT)" group-title="Entertainment",CBS 22 South Bend IN (WSBT)
+#EXTINF:-1 tvg-name="Roar WSBT-TV" group-title="Entertainment",Roar WSBT-TV
 https://linear-693.frequency.stream/dist/stirr/693/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="Celebrity Name Game [Geo-blocked]" group-title="Series",Celebrity Name Game [Geo-blocked]
 https://amg00353-amg00353c19-xumo-us-2608.playouts.now.amagi.tv/lionsgate-clbng/playlist.m3u8
@@ -216,7 +218,7 @@ https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8
 http://173.225.32.123/Cozi-2358/index.m3u8
 #EXTINF:-1 tvg-name="Crime + Investigation" group-title="Entertainment",Crime + Investigation
 https://tvpass.org/live/CrimePlusInvestigation/hd
-#EXTINF:-1 tvg-name="CSI" group-title="Series",CSI
+#EXTINF:-1 tvg-name="CSI (United States)" group-title="Series",CSI (United States)
 https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8
 #EXTINF:-1 tvg-name="Dark Matter TV" group-title="Series",Dark Matter TV
 https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
@@ -232,7 +234,7 @@ https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/ff0ad399-75ed-42ba-8c60-75bb6cb8c929/playlist.m3u8
 #EXTINF:-1 tvg-name="Don't Tell The Bride" group-title="Series",Don't Tell The Bride
 https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Dr Phil's MeritTV" group-title="Entertainment",Dr Phil's MeritTV
+#EXTINF:-1 tvg-name="Merit Street" group-title="Entertainment",Merit Street
 https://d9069ugodwkju.cloudfront.net/Merit_Street.m3u8
 #EXTINF:-1 tvg-name="E! East" group-title="Entertainment",E! East
 https://tvpass.org/live/EEast/hd
@@ -252,7 +254,7 @@ https://estrella-games-oando.amagi.tv/playlist.m3u8
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36" group-title="Entertainment",ETV Telugu USA" group-title="Entertainment",like Gecko) Chrome/145.0.0.0 Safari/537.36" group-title="Entertainment",ETV Telugu USA
 https://livegeorouus.akamaized.net/100823/etvhd_2500/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-name="Family Ties" group-title="Series",Family Ties
+#EXTINF:-1 tvg-name="Family Ties (United States)" group-title="Series",Family Ties (United States)
 https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
 #EXTINF:-1 tvg-name="Farscape" group-title="Series",Farscape
 https://jmp2.uk/plu-680bb31c56ff83bcd685d64e.m3u8
@@ -270,7 +272,7 @@ https://tvpass.org/live/FXEast/hd
 https://tvpass.org/live/FXXEast/hd
 #EXTINF:-1 tvg-name="Game Show Central" group-title="Entertainment",Game Show Central
 https://jmp2.uk/plu-5e54187aae660e00093561d6.m3u8
-#EXTINF:-1 tvg-name="Game Show Network East" group-title="Entertainment",Game Show Network East
+#EXTINF:-1 tvg-name="Game Show Network" group-title="Entertainment",Game Show Network
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="GlobalWorldTV" group-title="Entertainment",GlobalWorldTV
 https://media.streambrothers.com:1936/8052/8052/playlist.m3u8
@@ -280,11 +282,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tabl
 https://stream.ads.ottera.tv/cl/260421d7jmp97108ighs2i413g/1280x720_2300000_0_f.m3u8?i=475_567
 #EXTINF:-1 tvg-name="Hallmark Drama" group-title="Series",Hallmark Drama
 https://tvpass.org/live/HallmarkDrama/hd
-#EXTINF:-1 tvg-name="Happy Days" group-title="Series",Happy Days
+#EXTINF:-1 tvg-name="Happy Days (United States)" group-title="Series",Happy Days (United States)
 https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
-#EXTINF:-1 tvg-name="Haunt TV" group-title="Series",Haunt TV
+#EXTINF:-1 tvg-name="HauntTV" group-title="Series",HauntTV
 https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-name="Heartland" group-title="Entertainment",Heartland
+#EXTINF:-1 tvg-name="Heartland Web" group-title="Entertainment",Heartland Web
 https://jmp2.uk/plu-61f07513227feb00073ee6bc.m3u8
 #EXTINF:-1 tvg-name="Hi-YAH!" group-title="Entertainment",Hi-YAH!
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
@@ -292,7 +294,7 @@ https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 https://bozztv.com/hwotta/playlist/playlist.m3u8
 #EXTINF:-1 tvg-name="Home.Made.Nation" group-title="Series",Home.Made.Nation
 https://3238c44f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9MaXZlbHlQbGFjZV9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-name="iCarly TV" group-title="Series",iCarly TV
+#EXTINF:-1 tvg-name="iCarly (United States) SD" group-title="Series",iCarly (United States) SD
 https://jmp2.uk/plu-6450209d939a5900084dba1d.m3u8
 #EXTINF:-1 tvg-name="Impact Network" group-title="Entertainment",Impact Network
 https://edge1.lifestreamcdn.com/live/impactroku1/index.m3u8
@@ -302,21 +304,21 @@ https://bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8
 https://pb-xhb3ic8b61whm.akamaized.net/Ion_US.m3u8
 #EXTINF:-1 tvg-name="ION Plus" group-title="Entertainment",ION Plus
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
-#EXTINF:-1 tvg-name="Jersey Shore" group-title="Series",Jersey Shore
+#EXTINF:-1 tvg-name="Jersey Shore (United States)" group-title="Series",Jersey Shore (United States)
 https://jmp2.uk/plu-609bfa51fbecc1000733152e.m3u8
 #EXTINF:-1 tvg-name="Judge Nosey" group-title="Series",Judge Nosey
 https://amg00514-noseybaxterllc-realnosey-cineverse-tqbpv.amagi.tv/playlist/amg00514-noseybaxterllc-realnosey-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-name="K Content by CJ ENM" group-title="Entertainment",K Content by CJ ENM
+#EXTINF:-1 tvg-name="K-Content by CJ ENM" group-title="Entertainment",K-Content by CJ ENM
 https://d2q0mzb9bm4w5z.cloudfront.net/68fee8e1_605a_437b_b968_244c3c0d5f24/hls/playlist.m3u8
 #EXTINF:-1 tvg-name="KMCT-DT1" group-title="Entertainment",KMCT-DT1
 https://cdn-unified-hls.streamspot.com/ingest1/4b4d895dd6/playlist.m3u8?origin=1
-#EXTINF:-1 tvg-name="KOKI-DT1" group-title="Entertainment",KOKI-DT1
+#EXTINF:-1 tvg-name="Roar KOKI-TV" group-title="Entertainment",Roar KOKI-TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-kokibreaking-ono/playlist.m3u8
-#EXTINF:-1 tvg-name="KRGV-DT2 [Geo-blocked]" group-title="Entertainment",KRGV-DT2 [Geo-blocked]
+#EXTINF:-1 tvg-name="KRGV-TV 5.2 [Geo-blocked]" group-title="Entertainment",KRGV-TV 5.2 [Geo-blocked]
 https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-somos.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="KTIV-DT6 (404p)" group-title="Entertainment",KTIV-DT6 (404p)
 http://txc4-swbb-mn.fibernet-tv.com/KABY-CW-2364/index.m3u8
-#EXTINF:-1 tvg-name="KVVB-TV 33 Victor Valley" group-title="Entertainment",KVVB-TV 33 Victor Valley
+#EXTINF:-1 tvg-name="Youtoo America KVVB-LD" group-title="Entertainment",Youtoo America KVVB-LD
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
 #EXTINF:-1 tvg-name="LATV [Geo-blocked]" group-title="Entertainment",LATV [Geo-blocked]
 https://amg00779-latv-amg00779c1-cineverse-us-1746.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-cineverseus/playlist.m3u8
@@ -328,19 +330,19 @@ https://jmp2.uk/plu-5ce5a8954311f992edbe1da2.m3u8
 https://lonestar-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Love & Hip Hop" group-title="Series",Love & Hip Hop
 https://jmp2.uk/plu-5d51ddf0369acdb278dfb05e.m3u8
-#EXTINF:-1 tvg-name="Matlock" group-title="Series",Matlock
+#EXTINF:-1 tvg-name="Matlock (Germany)" group-title="Series",Matlock (Germany)
 https://jmp2.uk/plu-6850426e53d981d1fdb0d966.m3u8
 #EXTINF:-1 tvg-name="MBC America" group-title="Culture;Entertainment;Music",MBC America
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
 #EXTINF:-1 tvg-name="MBC Drama USA" group-title="Series",MBC Drama USA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
-#EXTINF:-1 tvg-name="MCN6" group-title="Entertainment;General",MCN6
+#EXTINF:-1 tvg-name="MCN6 Main Channel" group-title="Entertainment;General",MCN6 Main Channel
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
 #EXTINF:-1 tvg-name="Midnight Pulp" group-title="Entertainment",Midnight Pulp
 https://linear-897.frequency.stream/dist/cineverse/897/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="Midsomer Murders" group-title="Series",Midsomer Murders
 https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Mission Impossible" group-title="Movies;Series",Mission Impossible
+#EXTINF:-1 tvg-name="Mission Impossible (Germany) GB" group-title="Movies;Series",Mission Impossible (Germany) GB
 https://jmp2.uk/plu-62ab579258cb950007811aad.m3u8
 #EXTINF:-1 tvg-name="Misterios sin resolver" group-title="Series",Misterios sin resolver
 https://jmp2.uk/plu-5f4d882d5233170007ee880e.m3u8
@@ -348,11 +350,11 @@ https://jmp2.uk/plu-5f4d882d5233170007ee880e.m3u8
 https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8
 #EXTINF:-1 tvg-name="MST3K" group-title="Series",MST3K
 https://mst3k-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="MTV en español" group-title="Entertainment",MTV en español
+#EXTINF:-1 tvg-name="MTV en Espanol" group-title="Entertainment",MTV en Espanol
 https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
-#EXTINF:-1 tvg-name="MTV Pluto TV" group-title="Entertainment",MTV Pluto TV
+#EXTINF:-1 tvg-name="MTV Pluto TV (United States)" group-title="Entertainment",MTV Pluto TV (United States)
 https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8
-#EXTINF:-1 tvg-name="myTV San Antonio TX (KCWX-TV)" group-title="Entertainment",myTV San Antonio TX (KCWX-TV)
+#EXTINF:-1 tvg-name="Roar KCWX" group-title="Entertainment",Roar KCWX
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Nash Bridges Channel [Geo-blocked]" group-title="Series",Nash Bridges Channel [Geo-blocked]
 https://amg00353-amg00353c35-xumo-us-3804.playouts.now.amagi.tv/playlist.m3u8
@@ -364,9 +366,9 @@ https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 https://nosey-intl-1-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Novelisima" group-title="Series",Novelisima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
-#EXTINF:-1 tvg-name="Olelo Community Media Channel 55" group-title="Entertainment",Olelo Community Media Channel 55
+#EXTINF:-1 tvg-name="Olelo 55" group-title="Entertainment",Olelo 55
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_013/playlist.m3u8
-#EXTINF:-1 tvg-name="Omide Iran" group-title="Entertainment",Omide Iran
+#EXTINF:-1 tvg-name="Omid e Iran TV" group-title="Entertainment",Omid e Iran TV
 https://oitnhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="OuterSphere" group-title="Movies;Series",OuterSphere
 https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
@@ -374,27 +376,27 @@ https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
 https://d3mr43kyql7wgk.cloudfront.net/PBS_Nature.m3u8
 #EXTINF:-1 tvg-name="People Are Awesome" group-title="Entertainment",People Are Awesome
 https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Perry Mason" group-title="Series",Perry Mason
+#EXTINF:-1 tvg-name="Perry Mason (Germany)" group-title="Series",Perry Mason (Germany)
 https://jmp2.uk/plu-64eddc3485efec00085b0369.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Crime Drama" group-title="Series",Pluto TV Crime Drama
+#EXTINF:-1 tvg-name="Pluto TV Crime Drama (Germany)" group-title="Series",Pluto TV Crime Drama (Germany)
 https://jmp2.uk/plu-65a6a7a00c7ff50008cba07b.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Fantastic" group-title="Series",Pluto TV Fantastic
 https://jmp2.uk/plu-5b64a245a202b3337f09e51d.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Game Shows" group-title="Entertainment",Pluto TV Game Shows
 https://jmp2.uk/plu-6036e7c385749f00075dbd3b.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Horror" group-title="Movies;Series",Pluto TV Horror
+#EXTINF:-1 tvg-name="Pluto TV Horror (United States)" group-title="Movies;Series",Pluto TV Horror (United States)
 https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Lives" group-title="Series",Pluto TV Lives
 https://jmp2.uk/plu-5d8beeb39b5d5d5f8c672530.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Military" group-title="Series",Pluto TV Military
 https://jmp2.uk/plu-5bb3fea0f711fd76340eebff.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Novelas" group-title="Series",Pluto TV Novelas
+#EXTINF:-1 tvg-name="Pluto TV Novelas BR" group-title="Series",Pluto TV Novelas BR
 https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Reality" group-title="Entertainment",Pluto TV Reality
 https://jmp2.uk/plu-5d8bf0b06d2d855ee15115e3.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Romance" group-title="Movies;Series",Pluto TV Romance
+#EXTINF:-1 tvg-name="Pluto TV Romance (United States)" group-title="Movies;Series",Pluto TV Romance (United States)
 https://jmp2.uk/plu-5a66795ef91fef2c7031c599.m3u8
-#EXTINF:-1 tvg-name="Pluto TV True Crime" group-title="Documentary;Series",Pluto TV True Crime
+#EXTINF:-1 tvg-name="Pluto TV True Crime (United States)" group-title="Documentary;Series",Pluto TV True Crime (United States)
 https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8
 #EXTINF:-1 tvg-name="Popstar! TV" group-title="Entertainment",Popstar! TV
 https://linear-10.frequency.stream/dist/stirr/10/hls/master/playlist.m3u8
@@ -408,7 +410,7 @@ https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 https://tixbolt.com/royaltv/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="Shabakeh 7" group-title="Entertainment",Shabakeh 7
 https://sh7hls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Star Trek" group-title="Series",Star Trek
+#EXTINF:-1 tvg-name="Star Trek US" group-title="Series",Star Trek US
 https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8
 #EXTINF:-1 tvg-name="Stories by AMC" group-title="Entertainment",Stories by AMC
 https://jmp2.uk/plu-5e8254118601b80007b4b7ae.m3u8
@@ -416,7 +418,7 @@ https://jmp2.uk/plu-5e8254118601b80007b4b7ae.m3u8
 https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-name="Talkin Live Classics TV (480p)" group-title="Entertainment",Talkin Live Classics TV (480p)
 https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8
-#EXTINF:-1 tvg-name="Teen Mom" group-title="Entertainment",Teen Mom
+#EXTINF:-1 tvg-name="Teen Mom (Germany) GB" group-title="Entertainment",Teen Mom (Germany) GB
 https://jmp2.uk/plu-62d550d81054990007db7798.m3u8
 #EXTINF:-1 tvg-name="Tele Boston (480p)" group-title="Entertainment",Tele Boston (480p)
 https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8
@@ -424,7 +426,7 @@ https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8
 https://haititivi.com/haiti/telemix1/index.m3u8
 #EXTINF:-1 tvg-name="Telemundo Corpus Christi" group-title="Entertainment",Telemundo Corpus Christi
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
-#EXTINF:-1 tvg-name="Telemundo telenovelas clásicas" group-title="Series",Telemundo telenovelas clásicas
+#EXTINF:-1 tvg-name="Telemundo Telenovelas Clasicas" group-title="Series",Telemundo Telenovelas Clasicas
 https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8
 #EXTINF:-1 tvg-name="The Addams Family" group-title="Series",The Addams Family
 https://jmp2.uk/plu-5d81607ab737153ea3c1c80e.m3u8
@@ -442,13 +444,13 @@ https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/a
 https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="The Graham Norton Show" group-title="Entertainment",The Graham Norton Show
 https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="The Johnny Carson Show" group-title="Series",The Johnny Carson Show
+#EXTINF:-1 tvg-name="Johnny Carson TV" group-title="Series",Johnny Carson TV
 https://aegis-cloudfront-1.tubi.video/475550ae-8708-46a5-a7c3-54acb3d91480/playlist.m3u8
 #EXTINF:-1 tvg-name="The Judge Judy Channel" group-title="Series",The Judge Judy Channel
 https://jmp2.uk/plu-6283d51144ad8f0007fa382d.m3u8
 #EXTINF:-1 tvg-name="The Nest" group-title="Documentary;Entertainment",The Nest
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
-#EXTINF:-1 tvg-name="The New Detectives" group-title="Series",The New Detectives
+#EXTINF:-1 tvg-name="The New Detectives (United States)" group-title="Series",The New Detectives (United States)
 https://jmp2.uk/plu-5aea40b35126c2157123aa64.m3u8
 #EXTINF:-1 tvg-name="The Price Is Right" group-title="Entertainment",The Price Is Right
 https://jmp2.uk/plu-643f035d5a0cd50008361534.m3u8
@@ -456,7 +458,7 @@ https://jmp2.uk/plu-643f035d5a0cd50008361534.m3u8
 https://amg00145-buzzr-bigballs-tpir-8min-rokuus-otcre.amagi.tv/playlist/amg00145-buzzr-bigballs-tpir-8min-rokuus/playlist.m3u8
 #EXTINF:-1 tvg-name="The Rifleman" group-title="Series",The Rifleman
 https://jmp2.uk/plu-5e825550e758c700077b0aef.m3u8
-#EXTINF:-1 tvg-name="The Twilight Zone" group-title="Classic;Series",The Twilight Zone
+#EXTINF:-1 tvg-name="Pluto TV The Twilight Zone" group-title="Classic;Series",Pluto TV The Twilight Zone
 https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8
 #EXTINF:-1 tvg-name="The Walking Dead Universe" group-title="Series",The Walking Dead Universe
 https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8
@@ -470,7 +472,7 @@ https://tulixcdn.akamaized.net/tintv6/tintv/tintv/playlist.m3u8
 https://6df6888a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9UaW55SG91c2VOYXRpb25fSExT/playlist.m3u8
 #EXTINF:-1 tvg-name="TMZ [Geo-blocked]" group-title="Entertainment",TMZ [Geo-blocked]
 https://pb-ryciga1q62u8o.akamaized.net/TMZ.m3u8
-#EXTINF:-1 tvg-name="True Crime Network+ [Geo-blocked]" group-title="Series",True Crime Network+ [Geo-blocked]
+#EXTINF:-1 tvg-name="True Crime Network [Geo-blocked]" group-title="Series",True Crime Network [Geo-blocked]
 https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Turismo" group-title="Entertainment",Turismo
 https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
@@ -486,19 +488,19 @@ https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
 https://d31z96rdrmwfsp.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-name="USA Network East" group-title="Comedy;Movies;Series;Sports",USA Network East
 https://tvpass.org/live/USANetworkEast/hd
-#EXTINF:-1 tvg-name="Weeds / Nurse Jackie" group-title="Series",Weeds / Nurse Jackie
+#EXTINF:-1 tvg-name="Weeds & Nurse Jackie" group-title="Series",Weeds & Nurse Jackie
 https://jmp2.uk/plu-688a44cf5d73ec0a3f49718b.m3u8
-#EXTINF:-1 tvg-name="WGGS-DT2" group-title="Entertainment",WGGS-DT2
+#EXTINF:-1 tvg-name="Outlaw WGGS-TV" group-title="Entertainment",Outlaw WGGS-TV
 https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8
 #EXTINF:-1 tvg-name="Wild 'N Out" group-title="Series",Wild 'N Out
 https://jmp2.uk/plu-5d48678d34ceb37d3c458a55.m3u8
 #EXTINF:-1 tvg-name="Wipeout Xtra" group-title="Entertainment",Wipeout Xtra
 https://amg00627-banijaygroup-wipeoutxtraau-samsungau-ashbl.amagi.tv/playlist/amg00627-banijaygroup-wipeoutxtraau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-name="WMBC-DT1" group-title="Entertainment",WMBC-DT1
+#EXTINF:-1 tvg-name="Estrella TV WMBC-TV" group-title="Entertainment",Estrella TV WMBC-TV
 http://d029dcec.kazmazpaz.ru/iptv/GVR4V8HYAGBS5V/1098/manifest.m3u8
-#EXTINF:-1 tvg-name="WWON TV CH 48" group-title="Entertainment",WWON TV CH 48
+#EXTINF:-1 tvg-name="WWON-TV Channel 48" group-title="Entertainment",WWON-TV Channel 48
 https://tv2.fastcast4u.com:3943/stream/play.m3u8
-#EXTINF:-1 tvg-name="Xplore" group-title="Entertainment",Xplore
+#EXTINF:-1 tvg-name="Xplore TV" group-title="Entertainment",Xplore TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-name="Young Hollywood [Geo-blocked]" group-title="Entertainment",Young Hollywood [Geo-blocked]
 https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.amagi.tv/playlist/amg00143-younghollywoodfast-younghollywood-cineverseus/playlist.m3u8
@@ -510,7 +512,9 @@ https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 #EXTINF:-1 tvg-name="arte" group-title="Entertainment",arte
 http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15171/index.m3u8
-#EXTINF:-1 tvg-name="Beverly Hills 90210" group-title="Series",Beverly Hills 90210
+#EXTINF:-1 tvg-name="arte (Germany)" group-title="Entertainment",arte (Germany)
+https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-name="Beverly Hills 90210 (Germany)" group-title="Series",Beverly Hills 90210 (Germany)
 https://jmp2.uk/plu-60afb576053df900076fa2f0.m3u8
 #EXTINF:-1 tvg-name="Chaos City" group-title="Series",Chaos City
 https://jmp2.uk/plu-60afbad343e3840007164348.m3u8
@@ -520,13 +524,15 @@ https://jmp2.uk/plu-5ce40f42ba7f7f5ea9518fe1.m3u8
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
 #EXTINF:-1 tvg-name="MC TV" group-title="Entertainment",MC TV
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&output=playlist.m3u8&protocol=https&service=wowza&type=live
-#EXTINF:-1 tvg-name="MTV Catfish TV Show" group-title="Entertainment",MTV Catfish TV Show
+#EXTINF:-1 tvg-name="MTV Catfish TV Show DACH" group-title="Entertainment",MTV Catfish TV Show DACH
 https://jmp2.uk/plu-5db6a697d5f34a000934cd13.m3u8
-#EXTINF:-1 tvg-name="MTV Dating" group-title="Entertainment",MTV Dating
+#EXTINF:-1 tvg-name="MTV Dating (Germany)" group-title="Entertainment",MTV Dating (Germany)
 https://jmp2.uk/plu-5caf330ea5068259a32320fd.m3u8
-#EXTINF:-1 tvg-name="MTV Ridiculousness" group-title="Entertainment",MTV Ridiculousness
+#EXTINF:-1 tvg-name="MTV Pluto TV (Germany)" group-title="Entertainment",MTV Pluto TV (Germany)
+https://jmp2.uk/plu-5caf325764025859afdd6c4d.m3u8
+#EXTINF:-1 tvg-name="MTV Ridiculousness (Germany)" group-title="Entertainment",MTV Ridiculousness (Germany)
 https://jmp2.uk/plu-5f9847fd513250000728a9a5.m3u8
-#EXTINF:-1 tvg-name="MTV Teen Mom" group-title="Entertainment",MTV Teen Mom
+#EXTINF:-1 tvg-name="MTV Teen Mom (Germany)" group-title="Entertainment",MTV Teen Mom (Germany)
 https://jmp2.uk/plu-5cffcf5686dfe15595fb3f56.m3u8
 #EXTINF:-1 tvg-name="MTV The Shores" group-title="Entertainment",MTV The Shores
 https://jmp2.uk/plu-5caf32c2a5068259a32320fc.m3u8
@@ -536,8 +542,12 @@ https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
 https://viamotionhsi.netplus.ch/live/eds/onehd/browser-HLS8/onehd.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Crime" group-title="Series",Pluto TV Crime
 https://jmp2.uk/plu-5e7b6c60fd20c50007910bf5.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Horror (Germany)" group-title="Movies;Series",Pluto TV Horror (Germany)
+https://jmp2.uk/plu-62f4f4b88157cf00075c22db.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Sitcoms" group-title="Comedy;Series",Pluto TV Sitcoms
 https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
+#EXTINF:-1 tvg-name="Pluto TV True Crime (Germany)" group-title="Documentary;Series",Pluto TV True Crime (Germany)
+https://jmp2.uk/plu-615333098185f00008715a56.m3u8
 #EXTINF:-1 tvg-name="RTL Crime" group-title="Series",RTL Crime
 http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15178/index.m3u8
 #EXTINF:-1 tvg-name="Zee One German" group-title="Entertainment",Zee One German
@@ -546,7 +556,7 @@ https://e4955b54.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
 #EXTINF:-1 tvg-name="AB1 [Geo-Blocked]" group-title="Entertainment",AB1 [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/ab1/browser-dash/ab1.mpd
-#EXTINF:-1 tvg-name="BET Classics" group-title="Entertainment",BET Classics
+#EXTINF:-1 tvg-name="BET Classics Pluto TV" group-title="Entertainment",BET Classics Pluto TV
 https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8
 #EXTINF:-1 tvg-name="C Star [Geo-Blocked]" group-title="Entertainment",C Star [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/d17/browser-dash/d17.mpd
@@ -574,15 +584,15 @@ https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
 #EXTINF:-1 tvg-name="W9 [Geo-blocked] [Geo-Blocked]" group-title="Entertainment",W9 [Geo-blocked] [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
-#EXTINF:-1 tvg-name="Zee One Français" group-title="Entertainment",Zee One Français
+#EXTINF:-1 tvg-name="Zee One French" group-title="Entertainment",Zee One French
 https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-name="Zylo Fréquence Novelas" group-title="Series",Zylo Fréquence Novelas
+#EXTINF:-1 tvg-name="Frequence Novelas" group-title="Series",Frequence Novelas
 https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-name="3Cat Plats bruts" group-title="Classic;Comedy;Public;Series",3Cat Plats bruts
 https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
 #EXTINF:-1 tvg-name="BBC Drama" group-title="Series",BBC Drama
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Ciudades Del Ocio TV" group-title="Entertainment",Ciudades Del Ocio TV
+#EXTINF:-1 tvg-name="Ciudades del Ocio TV" group-title="Entertainment",Ciudades del Ocio TV
 https://cloudvideo.servers10.com:8081/8024/index.m3u8
 #EXTINF:-1 tvg-name="Energy" group-title="Entertainment",Energy
 http://92.176.119.180:2095/play/a17a
@@ -600,6 +610,8 @@ http://92.176.119.180:2095/play/a16l
 http://92.176.119.180:2095/play/a178
 #EXTINF:-1 tvg-name="Neox" group-title="Entertainment",Neox
 http://92.176.119.180:2095/play/a16n
+#EXTINF:-1 tvg-name="Pluto TV Horror (Germany) ES" group-title="Movies;Series",Pluto TV Horror (Germany) ES
+https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8
 #EXTINF:-1 tvg-name="Radio Carnaval TV" group-title="Entertainment;Music",Radio Carnaval TV
 https://eu1.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1 tvg-name="ROTV Valencia" group-title="Entertainment",ROTV Valencia
@@ -620,15 +632,15 @@ http://92.176.119.180:2095/play/a1f1
 https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
 #EXTINF:-1 tvg-name="XPTV US" group-title="Series",XPTV US
 https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
-#EXTINF:-1 tvg-name="Zylo Todo Novelas" group-title="Series",Zylo Todo Novelas
+#EXTINF:-1 tvg-name="Todo Novelas" group-title="Series",Todo Novelas
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
-#EXTINF:-1 tvg-name="20 Mediaset [Geo-blocked]" group-title="Entertainment",20 Mediaset [Geo-blocked]
+#EXTINF:-1 tvg-name="20 [Geo-blocked]" group-title="Entertainment",20 [Geo-blocked]
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
 #EXTINF:-1 tvg-name="Canale 5 [Geo-blocked]" group-title="Entertainment",Canale 5 [Geo-blocked]
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
 #EXTINF:-1 tvg-name="Donna TV (480p)" group-title="Series",Donna TV (480p)
 https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
-#EXTINF:-1 tvg-name="Geordie Shore" group-title="Entertainment",Geordie Shore
+#EXTINF:-1 tvg-name="Geordie Shore (Germany) GB" group-title="Entertainment",Geordie Shore (Germany) GB
 https://jmp2.uk/plu-65c4960d11ced7000812c433.m3u8
 #EXTINF:-1 tvg-name="Iris [Geo-blocked]" group-title="Entertainment",Iris [Geo-blocked]
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
@@ -636,7 +648,9 @@ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
 #EXTINF:-1 tvg-name="Passione Lotto (300p)" group-title="Entertainment",Passione Lotto (300p)
 http://185.63.52.103:8080/hls/passionelotto/1_2/index.m3u8
-#EXTINF:-1 tvg-name="Super TV" group-title="General;Series",Super TV
+#EXTINF:-1 tvg-name="Pluto TV Horror (Germany) IT" group-title="Movies;Series",Pluto TV Horror (Germany) IT
+https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8
+#EXTINF:-1 tvg-name="Super TV (Italy)" group-title="General;Series",Super TV (Italy)
 http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
 #EXTINF:-1 tvg-name="Top Crime [Geo-blocked]" group-title="Series",Top Crime [Geo-blocked]
 https://live3-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
@@ -658,7 +672,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
 http://74.91.26.218:82/live/cctv3hd.m3u8
 #EXTINF:-1 tvg-name="City Theater Channel" group-title="Entertainment",City Theater Channel
 http://49.113.179.174:4022/udp/238.125.1.60:5140
-#EXTINF:-1 tvg-name="宁夏卫视 (576p)" group-title="Entertainment",宁夏卫视 (576p)
+#EXTINF:-1 tvg-name="Ningxia Satellite Channel (576p)" group-title="Entertainment",Ningxia Satellite Channel (576p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
 #EXTINF:-1 tvg-name="江苏综艺 (576p)" group-title="Entertainment",江苏综艺 (576p)
 http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY
@@ -752,13 +766,13 @@ https://mumt03.tangotv.in/JAIHIND/index.m3u8
 http://103.72.101.252:8080/live/1455.m3u8
 #EXTINF:-1 tvg-name="Jaya Max (576p)" group-title="Culture;Entertainment",Jaya Max (576p)
 http://103.72.101.252:8080/live/420.m3u8
-#EXTINF:-1 tvg-name="Jaya TV" group-title="Culture;Entertainment",Jaya TV
+#EXTINF:-1 tvg-name="Jaya TV (India)" group-title="Culture;Entertainment",Jaya TV (India)
 http://103.72.101.252:8080/live/419.m3u8
 #EXTINF:-1 tvg-name="Kalaignar Murasu (396p)" group-title="Entertainment",Kalaignar Murasu (396p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8
 #EXTINF:-1 tvg-name="KCL TV" group-title="Entertainment",KCL TV
 https://kcltv.livebox.co.in/kclhls/live.m3u8
-#EXTINF:-1 tvg-name="KCM [Geo-blocked]" group-title="Entertainment;Movies",KCM [Geo-blocked]
+#EXTINF:-1 tvg-name="KCM India [Geo-blocked]" group-title="Entertainment;Movies",KCM India [Geo-blocked]
 https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-name="Kerala Vision (576p)" group-title="Entertainment",Kerala Vision (576p)
 https://mumt03.tangotv.in/KERALAVISION/index.m3u8
@@ -784,7 +798,7 @@ https://cdn-7.pishow.tv/live/1129/master.m3u8
 https://mumt01.tangotv.in/MHONEDILSE/index.m3u8
 #EXTINF:-1 tvg-name="MK Six" group-title="Entertainment",MK Six
 https://cdn-3.pishow.tv/live/1253/master.m3u8
-#EXTINF:-1 tvg-name="MNTV" group-title="Entertainment",MNTV
+#EXTINF:-1 tvg-name="Marutam TV" group-title="Entertainment",Marutam TV
 https://mntv.livebox.co.in/mntvhls/live.m3u8
 #EXTINF:-1 tvg-name="MTV" group-title="Entertainment",MTV
 http://103.72.101.252:8080/live/248.m3u8
@@ -794,7 +808,7 @@ https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8
 #EXTINF:-1 tvg-name="NTC TV" group-title="Entertainment",NTC TV
 https://galaxyott.live/hls/ntv.m3u8
-#EXTINF:-1 tvg-name="Oli TV" group-title="Entertainment",Oli TV
+#EXTINF:-1 tvg-name="Oli TV (India)" group-title="Entertainment",Oli TV (India)
 https://live.olidigital.in/olitv/olitv/index.m3u8
 #EXTINF:-1 tvg-name="Pasand TV (576p)" group-title="Entertainment",Pasand TV (576p)
 https://mumt01.tangotv.in/PASANDTV/index.m3u8
@@ -810,7 +824,7 @@ http://103.72.101.252:8080/live/707.m3u8
 https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
 #EXTINF:-1 tvg-name="Rupasi Bangla" group-title="Entertainment",Rupasi Bangla
 https://cdn-4.pishow.tv/live/1039/master.m3u8
-#EXTINF:-1 tvg-name="Sada TV" group-title="Entertainment",Sada TV
+#EXTINF:-1 tvg-name="SADA TV" group-title="Entertainment",SADA TV
 http://cdn12.henico.net:8080/live/sadatv/index.m3u8
 #EXTINF:-1 tvg-name="Sana TV" group-title="Entertainment",Sana TV
 https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6d9e864-ec16-410a-804d-ccf8f720bfaa/index.m3u8
@@ -912,6 +926,8 @@ https://turkhls.persiana.live/hls/stream.m3u8
 https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="BDC TV (576p)" group-title="Entertainment",BDC TV (576p)
 https://video01.kshost.com.br/bdctv/bdctv/playlist.m3u8
+#EXTINF:-1 tvg-name="BET Pluto TV (United States) BR" group-title="Entertainment",BET Pluto TV (United States) BR
+https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8
 #EXTINF:-1 tvg-name="Cabo Frio TV" group-title="Entertainment",Cabo Frio TV
 https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8
 #EXTINF:-1 tvg-name="Chroma TV (480p)" group-title="Entertainment",Chroma TV (480p)
@@ -922,7 +938,7 @@ http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8
 https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
 #EXTINF:-1 tvg-name="ElyTV (360p)" group-title="Entertainment",ElyTV (360p)
 https://stmv1.srvsite.com/ely/ely/playlist.m3u8
-#EXTINF:-1 tvg-name="Kenan & Kel" group-title="Series",Kenan & Kel
+#EXTINF:-1 tvg-name="Kenan & Kel BR" group-title="Series",Kenan & Kel BR
 https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
 #EXTINF:-1 tvg-name="Loading" group-title="Entertainment",Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
@@ -930,15 +946,15 @@ https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
 #EXTINF:-1 tvg-name="MTV Com o Ex" group-title="Series",MTV Com o Ex
 https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Retrô" group-title="Entertainment",Pluto TV Retrô
+#EXTINF:-1 tvg-name="Pluto TV Retro" group-title="Entertainment",Pluto TV Retro
 https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8
 #EXTINF:-1 tvg-name="Rede NGT" group-title="Entertainment",Rede NGT
 https://isaocorp.cloudecast.com/ngt/index.m3u8
-#EXTINF:-1 tvg-name="TV Curuça (360p)" group-title="Entertainment",TV Curuça (360p)
+#EXTINF:-1 tvg-name="TV Curuca (360p)" group-title="Entertainment",TV Curuca (360p)
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Digital Biriguí (640p)" group-title="Entertainment",TV Digital Biriguí (640p)
+#EXTINF:-1 tvg-name="TV Digital Birigui (640p)" group-title="Entertainment",TV Digital Birigui (640p)
 http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Empire Magazine" group-title="Entertainment",TV Empire Magazine
+#EXTINF:-1 tvg-name="TV Empire" group-title="Entertainment",TV Empire
 https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Modelo" group-title="Entertainment;General;News",TV Modelo
 https://video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3u
@@ -946,9 +962,9 @@ https://video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3u
 http://185.228.163.146:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-name="TV Paraense" group-title="Entertainment;Family;General;News",TV Paraense
 https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
-#EXTINF:-1 tvg-name="TV Series 1 As Panteras (480p)" group-title="Series",TV Series 1 As Panteras (480p)
+#EXTINF:-1 tvg-name="TV Series (480p)" group-title="Series",TV Series (480p)
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Viçosa (480p)" group-title="Entertainment",TV Viçosa (480p)
+#EXTINF:-1 tvg-name="TV Vicosa (480p)" group-title="Entertainment",TV Vicosa (480p)
 http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Zoom" group-title="Entertainment;News",TV Zoom
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
@@ -958,11 +974,11 @@ https://umatv.nuvemplay.live/hls/stream.m3u8
 https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
 #EXTINF:-1 tvg-name="Canal Pulpo TV" group-title="Entertainment",Canal Pulpo TV
 https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
-#EXTINF:-1 tvg-name="Metro TV" group-title="Entertainment",Metro TV
+#EXTINF:-1 tvg-name="Metro TV (Argentina)" group-title="Entertainment",Metro TV (Argentina)
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 #EXTINF:-1 tvg-name="Power Max Radio TV" group-title="Entertainment",Power Max Radio TV
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
-#EXTINF:-1 tvg-name="Radio Yguazú TV (480p)" group-title="Entertainment",Radio Yguazú TV (480p)
+#EXTINF:-1 tvg-name="Radio Yguazu TV (480p)" group-title="Entertainment",Radio Yguazu TV (480p)
 https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
 #EXTINF:-1 tvg-name="Azteca Internacional" group-title="Entertainment",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
@@ -970,7 +986,7 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 https://video.cdmx.gob.mx/redes/stream.m3u8
 #EXTINF:-1 tvg-name="GikTVMX" group-title="Animation;Culture;Entertainment",GikTVMX
 https://pistream.ddns.net/hls/stream.m3u8
-#EXTINF:-1 tvg-name="IERTBCS Canal 8.2 La Paz" group-title="Entertainment",IERTBCS Canal 8.2 La Paz
+#EXTINF:-1 tvg-name="IERTBCS Canal 8.2" group-title="Entertainment",IERTBCS Canal 8.2
 https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8
 #EXTINF:-1 tvg-name="ITV Deportes" group-title="Entertainment;Sports",ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
@@ -984,12 +1000,16 @@ https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-name="5AAB TV" group-title="Entertainment",5AAB TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 tvg-name="48 Hours CA" group-title="Series",48 Hours CA
+https://jmp2.uk/plu-62e925bc68d18a00077bb990.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Entertainment",FEVA TV" group-title="Entertainment",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Entertainment",FEVA TV
 https://d21x3vavxu7p2x.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVATV/416.m3u8?ads.vf=nn5CUAdOxVu
 #EXTINF:-1 tvg-name="MHZ" group-title="Entertainment",MHZ
 https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Nashville" group-title="Series",Nashville
+#EXTINF:-1 tvg-name="Nashville CA" group-title="Series",Nashville CA
 https://jmp2.uk/plu-65cf8d7428730900087c5907.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Horror (United States) CA" group-title="Movies;Series",Pluto TV Horror (United States) CA
+https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8
 #EXTINF:-1 tvg-name="Prime Canada TV" group-title="Entertainment",Prime Canada TV
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
 #EXTINF:-1 tvg-name="Tamil Entertainment Television" group-title="Entertainment",Tamil Entertainment Television
@@ -1014,17 +1034,19 @@ https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
 https://jmp2.uk/plu-5d2c571faeb3e2738ae27933.m3u8
 #EXTINF:-1 tvg-name="American Crime Channel" group-title="Entertainment",American Crime Channel
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104
-#EXTINF:-1 tvg-name="Andromeda" group-title="Series",Andromeda
+#EXTINF:-1 tvg-name="Andromeda UK" group-title="Series",Andromeda UK
 https://jmp2.uk/plu-5e8db96bccae160007c71eec.m3u8
 #EXTINF:-1 tvg-name="Asia TV" group-title="Entertainment;Family;General",Asia TV
 https://stream.asiatvnet.com/1/live/master.m3u8
-#EXTINF:-1 tvg-name="Avatar" group-title="Animation;Kids;Series",Avatar
+#EXTINF:-1 tvg-name="Avatar (Germany)" group-title="Animation;Kids;Series",Avatar (Germany)
 https://jmp2.uk/plu-656df599c0fc8800089c75ab.m3u8
 #EXTINF:-1 tvg-name="B+ TV (480p)" group-title="Entertainment",B+ TV (480p)
 https://tv.btnrwanda.com:3432/live/bpluslive.m3u8
+#EXTINF:-1 tvg-name="BET Pluto TV (Germany)" group-title="Entertainment",BET Pluto TV (Germany)
+https://jmp2.uk/plu-604f8f8622166000071a929f.m3u8
 #EXTINF:-1 tvg-name="Blaze (576p) [Geo-blocked]" group-title="Entertainment",Blaze (576p) [Geo-blocked]
 https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8
-#EXTINF:-1 tvg-name="BTV (480p)" group-title="Entertainment",BTV (480p)
+#EXTINF:-1 tvg-name="BTV (Uganda) (480p)" group-title="Entertainment",BTV (Uganda) (480p)
 https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Channel U" group-title="Entertainment",Channel U
 https://app.viloud.tv/hls/channel/aaf404bee904cff424bb5d1f6fdf9333.m3u8
@@ -1034,7 +1056,7 @@ https://v2.tustreaming.cl/chilechannel/index.m3u8
 https://streamer2.nexgen.bz/12-CBTV/index.m3u8
 #EXTINF:-1 tvg-name="Crime + Investigation Asia [Geo-blocked]" group-title="Entertainment",Crime + Investigation Asia [Geo-blocked]
 https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
-#EXTINF:-1 tvg-name="Dog The Bounty Hunter [Geo-blocked]" group-title="Series",Dog The Bounty Hunter [Geo-blocked]
+#EXTINF:-1 tvg-name="Dog the Bounty Hunter UK" group-title="Series",Dog the Bounty Hunter UK
 https://amg00276-amg00276c11-rakuten-uk-3446.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-dogthebountyhunterall-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-name="Dog Whisperer [Geo-blocked]" group-title="Series",Dog Whisperer [Geo-blocked]
 https://pb-ffpxvjshv4rxx.akamaized.net/Dog_Whisperer_with_Cesar_Millan.m3u8
@@ -1058,7 +1080,7 @@ https://amg00654-itv-amg00654c1-samsung-au-1072.playouts.now.amagi.tv/itv-hellsk
 https://jmp2.uk/plu-6081738748d3200007afb24b.m3u8
 #EXTINF:-1 tvg-name="HITS" group-title="Entertainment",HITS
 https://cdn10jtedge.indihometv.com/atm/DASH/hits/manifest.mpd
-#EXTINF:-1 tvg-name="Homes Under The Hammer" group-title="Series",Homes Under The Hammer
+#EXTINF:-1 tvg-name="Homes Under Hammer" group-title="Series",Homes Under Hammer
 https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Homicide Hunter" group-title="Series",Homicide Hunter
 https://jmp2.uk/plu-60e452730e76f20007598de8.m3u8
@@ -1078,7 +1100,9 @@ http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
 https://j78dp6reyq5r-hls-live.5centscdn.com/4896_push_1963_001/00cb1f2e4ff89048f2e77e26940c00e6.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="KIX" group-title="Entertainment",KIX
 https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
-#EXTINF:-1 tvg-name="Mcleod's Daughters" group-title="Series",Mcleod's Daughters
+#EXTINF:-1 tvg-name="Lone Star Poland" group-title="Entertainment",Lone Star Poland
+https://6b88cde9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0xvbmVTdGFyX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-name="McLeod's Daughters" group-title="Series",McLeod's Daughters
 https://amg00627-amg00627c5-samsung-nz-2807.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mcleodsdaughters-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-name="meWATCH LIVE 1" group-title="Entertainment",meWATCH LIVE 1
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
@@ -1092,18 +1116,26 @@ https://d2bog959vw5xq.cloudfront.net/playlist/amg00627-banijayfast-mythbusters-s
 https://hls2.nbcplus.na/hls/high_nbc3.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Entertainment",NHK World Premium" group-title="Entertainment",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Entertainment",NHK World Premium
 https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-#EXTINF:-1 tvg-name="Nos Païs" group-title="Entertainment",Nos Païs
+#EXTINF:-1 tvg-name="Nos Pais" group-title="Entertainment",Nos Pais
 https://5f86a49aedff6.streamlock.net/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
 #EXTINF:-1 tvg-name="NuView TV (360p)" group-title="Entertainment",NuView TV (360p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u8
-#EXTINF:-1 tvg-name="OTV" group-title="Entertainment",OTV
+#EXTINF:-1 tvg-name="OTV (Ghana)" group-title="Entertainment",OTV (Ghana)
 https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Paranormal State" group-title="Entertainment",Paranormal State
 https://jmp2.uk/plu-60804d85858bd00007c5d591.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Action" group-title="Movies;Series",Pluto TV Action
+#EXTINF:-1 tvg-name="People Are Awesome Poland" group-title="Entertainment",People Are Awesome Poland
+https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Action (Germany) GB" group-title="Movies;Series",Pluto TV Action (Germany) GB
 https://jmp2.uk/plu-5dbfeb961b411c00090b52b3.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Drama" group-title="Series",Pluto TV Drama
+#EXTINF:-1 tvg-name="Pluto TV Crime GB" group-title="Series",Pluto TV Crime GB
+https://jmp2.uk/plu-5d767790d0438aceb41d03ae.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Drama (Germany)" group-title="Series",Pluto TV Drama (Germany)
 https://jmp2.uk/plu-5ddf91149880d60009d35d27.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Horror (Germany) GB" group-title="Movies;Series",Pluto TV Horror (Germany) GB
+https://jmp2.uk/plu-612cda102f5f18000705e0bf.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Reality (Germany) GB" group-title="Entertainment",Pluto TV Reality (Germany) GB
+https://jmp2.uk/plu-5bd8186d53ed2c6334ea0855.m3u8
 #EXTINF:-1 tvg-name="PRIDEtv LATAM" group-title="Entertainment;Lifestyle;Music",PRIDEtv LATAM
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-name="ROCK Action" group-title="Entertainment",ROCK Action
@@ -1114,9 +1146,11 @@ http://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
 https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="The National Channel 10" group-title="Entertainment",The National Channel 10
 https://streamer2.nexgen.bz/10-TNC/index.m3u8
+#EXTINF:-1 tvg-name="The New Detectives (Germany)" group-title="Series",The New Detectives (Germany)
+https://jmp2.uk/plu-5e393d5c696b3b0009775c8b.m3u8
 #EXTINF:-1 tvg-name="Top Gear" group-title="Auto;Entertainment",Top Gear
 https://jmp2.uk/plu-636adc255bcf470007d6e0e2.m3u8
-#EXTINF:-1 tvg-name="True Crime UK" group-title="Series",True Crime UK
+#EXTINF:-1 tvg-name="True Crime" group-title="Series",True Crime
 https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-name="Tshwane TV (576p)" group-title="Entertainment;Family;General",Tshwane TV (576p)
 https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
@@ -1126,8 +1160,10 @@ https://mini.allinonereborn.fun/tata.php?id=11606
 https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8
 #EXTINF:-1 tvg-name="U&Alibi (576p)" group-title="Series",U&Alibi (576p)
 http://92.114.85.72:8000/play/a0bi
-#EXTINF:-1 tvg-name="Undercover Boss" group-title="Entertainment",Undercover Boss
+#EXTINF:-1 tvg-name="Undercover Boss Global" group-title="Entertainment",Undercover Boss Global
 https://all3media-international-undercoverboss-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Unsolved Mysteries UK" group-title="Series",Unsolved Mysteries UK
+https://jmp2.uk/plu-5bd05b4694d45d266bc951f2.m3u8
 #EXTINF:-1 tvg-name="Wild at Heart" group-title="Series",Wild at Heart
 https://jmp2.uk/plu-60817936fd2d70000763d2b2.m3u8
 #EXTINF:-1 tvg-name="Zee One" group-title="Entertainment",Zee One
@@ -1142,13 +1178,13 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="Alegre TV RD" group-title="Entertainment",Alegre TV RD
 https://streamunoapp.com:3149/live/alegretvlive.m3u8
-#EXTINF:-1 tvg-name="América TeVé" group-title="Entertainment;General",América TeVé
+#EXTINF:-1 tvg-name="America TeVe" group-title="Entertainment;General",America TeVe
 https://live.gideo.video/americateve2/master.m3u8
 #EXTINF:-1 tvg-name="Antares Televisión" group-title="Entertainment",Antares Televisión
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-name="Antena 21 (480p)" group-title="Entertainment",Antena 21 (480p)
 https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-name="Bacán Te Veo (360p)" group-title="Entertainment",Bacán Te Veo (360p)
+#EXTINF:-1 tvg-name="Bacan Te Veo (360p)" group-title="Entertainment",Bacan Te Veo (360p)
 https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8
 #EXTINF:-1 tvg-name="Bellavision" group-title="Entertainment",Bellavision
 https://fox.hostlagarto.com:8081/bellavision8hd/tracks-v1a1/mono.m3u8
@@ -1160,13 +1196,13 @@ https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
 https://eu1.servers10.com:8081/8056/index.m3u8
 #EXTINF:-1 tvg-name="Canal Nets" group-title="Entertainment",Canal Nets
 https://movil.ejeserver.com/live/nets.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="Entertainment",Canal TRO Plus [Geo-blocked]" group-title="Entertainment",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="Entertainment",Canal TRO Plus [Geo-blocked]
+#EXTINF:-1 tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="Entertainment",Canal TRO + [Geo-blocked]" group-title="Entertainment",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="Entertainment",Canal TRO + [Geo-blocked]
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Canica TV (240p)" group-title="Entertainment",Canica TV (240p)
 https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
-#EXTINF:-1 tvg-name="Cibaeña TV" group-title="Entertainment",Cibaeña TV
+#EXTINF:-1 tvg-name="Cibaena TV" group-title="Entertainment",Cibaena TV
 https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
-#EXTINF:-1 tvg-name="Claro Visión TV" group-title="Entertainment",Claro Visión TV
+#EXTINF:-1 tvg-name="Claro Vision TV" group-title="Entertainment",Claro Vision TV
 https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
 #EXTINF:-1 tvg-name="Clic TV (360p)" group-title="Entertainment",Clic TV (360p)
 https://stmv1.voxhdnet.com/yorka7322/yorka7322/playlist.m3u8
@@ -1182,11 +1218,11 @@ https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-name="ENT Family" group-title="Entertainment",ENT Family
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-name="Galaxia TV (360p)" group-title="Entertainment",Galaxia TV (360p)
+#EXTINF:-1 tvg-name="GalaxiATeVe (360p)" group-title="Entertainment",GalaxiATeVe (360p)
 https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
 #EXTINF:-1 tvg-name="Gardenias TV" group-title="Entertainment",Gardenias TV
 https://stream.oursnetworktv.com/latin/gardeniasTv/playlist.m3u8
-#EXTINF:-1 tvg-name="Génesis TV (768p)" group-title="Entertainment",Génesis TV (768p)
+#EXTINF:-1 tvg-name="GTV (Guatemala) (768p)" group-title="Entertainment",GTV (Guatemala) (768p)
 https://cdn.streamhispanatv.net:3126/live/genesistvlive.m3u8
 #EXTINF:-1 tvg-name="GET tv" group-title="Entertainment",GET tv
 https://cnn.livestreaminggroup.info:3050/live/gettv/playlist.m3u8
@@ -1204,9 +1240,9 @@ https://streamtv.intervenhosting.net:3592/hybrid/play.m3u8
 https://www.streaming507.net:19360/hispaniamediatv/hispaniamediatv.m3u8
 #EXTINF:-1 tvg-name="HTV Live" group-title="Entertainment",HTV Live
 https://fox.hostlagarto.com:8081/canalhtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Impacto Televisión (360p)" group-title="Entertainment",Impacto Televisión (360p)
+#EXTINF:-1 tvg-name="Impacto Television (360p)" group-title="Entertainment",Impacto Television (360p)
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
-#EXTINF:-1 tvg-name="interTV" group-title="Entertainment",interTV
+#EXTINF:-1 tvg-name="Inter TV (Venezuela)" group-title="Entertainment",Inter TV (Venezuela)
 https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="JARABACOA TV" group-title="Entertainment",JARABACOA TV
 https://streaming.jarabacoatv.com/Jarabacoa_tv/playlist.m3u8
@@ -1218,7 +1254,7 @@ https://byecablecluster.ddns.net/neira/neira.stream/index.fmp4.m3u8
 https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="La Tele" group-title="Entertainment",La Tele
 https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
-#EXTINF:-1 tvg-name="Latacunga TV (360p)" group-title="Entertainment",Latacunga TV (360p)
+#EXTINF:-1 tvg-name="LatacungaTV (360p)" group-title="Entertainment",LatacungaTV (360p)
 https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
 #EXTINF:-1 tvg-name="Latina Clasicos" group-title="Series",Latina Clasicos
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
@@ -1226,9 +1262,9 @@ https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3
 https://magicatv.4pu.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="MakroDigital Television" group-title="Entertainment",MakroDigital Television
 https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
-#EXTINF:-1 tvg-name="Más Talk" group-title="Entertainment",Más Talk
+#EXTINF:-1 tvg-name="Mas Talk" group-title="Entertainment",Mas Talk
 https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
-#EXTINF:-1 tvg-name="Maxivisión TV" group-title="Entertainment",Maxivisión TV
+#EXTINF:-1 tvg-name="Maxivision TV" group-title="Entertainment",Maxivision TV
 https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
 #EXTINF:-1 tvg-name="MaxTV" group-title="Entertainment",MaxTV
 https://inliveserver.com:1936/8078/8078/playlist.m3u8
@@ -1236,19 +1272,21 @@ https://inliveserver.com:1936/8078/8078/playlist.m3u8
 https://eu1.servers10.com:8081/8334/index.m3u8
 #EXTINF:-1 tvg-name="Memorias TV Series [Geo-blocked]" group-title="Series",Memorias TV Series [Geo-blocked]
 https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
+#EXTINF:-1 tvg-name="Metro TV (Honduras)" group-title="Entertainment",Metro TV (Honduras)
+https://s.emisoras.tv:8081/metrotv/index.m3u8
 #EXTINF:-1 tvg-name="MiTV" group-title="Entertainment",MiTV
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 #EXTINF:-1 tvg-name="Nitida TV" group-title="Entertainment",Nitida TV
 https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8
-#EXTINF:-1 tvg-name="Norteña TV (576p)" group-title="Entertainment",Norteña TV (576p)
+#EXTINF:-1 tvg-name="Nortena Tv (576p)" group-title="Entertainment",Nortena Tv (576p)
 https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8
-#EXTINF:-1 tvg-name="Oasis TV" group-title="Entertainment",Oasis TV
+#EXTINF:-1 tvg-name="Oasis TV (Paraguay)" group-title="Entertainment",Oasis TV (Paraguay)
 https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
-#EXTINF:-1 tvg-name="Omega TV" group-title="Entertainment",Omega TV
+#EXTINF:-1 tvg-name="Radio Omega TV" group-title="Entertainment",Radio Omega TV
 https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
 #EXTINF:-1 tvg-name="Panc TV Peru" group-title="Entertainment",Panc TV Peru
 https://panel.host-live.com:19360/20000/20000.m3u8
-#EXTINF:-1 tvg-name="Pantalla Clásica EC (512p)" group-title="Movies;Series",Pantalla Clásica EC (512p)
+#EXTINF:-1 tvg-name="Pantalla Clasica EC (512p)" group-title="Movies;Series",Pantalla Clasica EC (512p)
 https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
 #EXTINF:-1 tvg-name="Popu TV" group-title="Entertainment",Popu TV
 https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
@@ -1258,7 +1296,7 @@ https://fox.hostlagarto.com:8081/pronemstv/playlist.m3u8
 https://fox.hostlagarto.com:8081/pulatv/index.m3u8
 #EXTINF:-1 tvg-name="R&E TV (480p)" group-title="Entertainment",R&E TV (480p)
 https://cloud2.streaminglivehd.com:1936/8072/8072/playlist.m3u8
-#EXTINF:-1 tvg-name="RCN Más" group-title="Entertainment",RCN Más
+#EXTINF:-1 tvg-name="RCN Mas" group-title="Entertainment",RCN Mas
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Red+" group-title="Entertainment;General;News",Red+
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
@@ -1268,7 +1306,7 @@ https://live20.bozztv.com/dvrfl03/hondu/hondu-rsvhonduras/index.m3u8
 https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 #EXTINF:-1 tvg-name="Señal Positiva TV" group-title="Entertainment",Señal Positiva TV
 https://eu1.servers10.com:8081/8108/index.m3u8
-#EXTINF:-1 tvg-name="SolTV" group-title="Entertainment",SolTV
+#EXTINF:-1 tvg-name="SolTV (Equatorial Guinea)" group-title="Entertainment",SolTV (Equatorial Guinea)
 https://stream.solmediaeg.com/soltv/soltv.m3u8
 #EXTINF:-1 tvg-name="Super7FM" group-title="Entertainment",Super7FM
 https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8
@@ -1276,7 +1314,7 @@ https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8
 http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 #EXTINF:-1 tvg-name="TeleMas" group-title="Entertainment",TeleMas
 https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
-#EXTINF:-1 tvg-name="Telemax" group-title="Entertainment",Telemax
+#EXTINF:-1 tvg-name="Telemax (Dominican Republic)" group-title="Entertainment",Telemax (Dominican Republic)
 https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Telepremier Plus" group-title="Entertainment",Telepremier Plus
 http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8
@@ -1290,9 +1328,9 @@ https://streamtvs.tvcanalsur.com.do/hls/stream/index.m3u8
 https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
 #EXTINF:-1 tvg-name="TVCARiB Latino" group-title="Entertainment",TVCARiB Latino
 https://cdn.mycloudstream.io/hls/live/broadcast/xn44vdc5/index.m3u8
-#EXTINF:-1 tvg-name="TVMAX" group-title="Entertainment",TVMAX
+#EXTINF:-1 tvg-name="TVMax" group-title="Entertainment",TVMax
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-#EXTINF:-1 tvg-name="TVS (540p)" group-title="Entertainment",TVS (540p)
+#EXTINF:-1 tvg-name="TVS (Dominican Republic) (540p)" group-title="Entertainment",TVS (Dominican Republic) (540p)
 https://imagenuniversaltv.net:3741/live/tvslive.m3u8
 #EXTINF:-1 tvg-name="Ultra Casanare TV" group-title="Entertainment",Ultra Casanare TV
 https://eu1.servers10.com:8081/8072/index.m3u8
@@ -1352,9 +1390,9 @@ http://69.64.57.208/rts2/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8
 #EXTINF:-1 tvg-name="Tal TV" group-title="Entertainment",Tal TV
 https://mediaserver1.castpin.com/hls/taltv/index.m3u8
-#EXTINF:-1 tvg-name="TR24" group-title="Entertainment",TR24
+#EXTINF:-1 tvg-name="TR24 Television" group-title="Entertainment",TR24 Television
 https://stream.it-innov.com/tr24/index.m3u8
-#EXTINF:-1 tvg-name="TV Vitória" group-title="Entertainment",TV Vitória
+#EXTINF:-1 tvg-name="TV Vitoria" group-title="Entertainment",TV Vitoria
 https://stmv1.srvif.com/tvvitoriamz/tvvitoriamz/playlist.m3u8
 #EXTINF:-1 tvg-name="TVI Ficção" group-title="Series",TVI Ficção
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
@@ -1362,9 +1400,9 @@ https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificca
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 #EXTINF:-1 tvg-name="8TV" group-title="Entertainment",8TV
 http://cdn6.163189.xyz/163189/8tv
-#EXTINF:-1 tvg-name="TDM Entertainment Ch. 95" group-title="Entertainment",TDM Entertainment Ch. 95
+#EXTINF:-1 tvg-name="TDM Entertainment" group-title="Entertainment",TDM Entertainment
 https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 tvg-name="TVBS Asia" group-title="Entertainment",TVBS Asia
+#EXTINF:-1 tvg-name="TVBS-Asia" group-title="Entertainment",TVBS-Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-name="Bab Al Hara" group-title="Series",Bab Al Hara
 https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
@@ -1378,7 +1416,7 @@ https://iko-live.akamaized.net/KurdsatTV/master.m3u8
 https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
 #EXTINF:-1 tvg-name="MBC 4" group-title="Entertainment",MBC 4
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
-#EXTINF:-1 tvg-name="MBC Drama" group-title="Entertainment",MBC Drama
+#EXTINF:-1 tvg-name="MBC Drama (United Arab Emirates)" group-title="Entertainment",MBC Drama (United Arab Emirates)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
 #EXTINF:-1 tvg-name="MBC Masr Drama" group-title="Series",MBC Masr Drama
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
@@ -1396,7 +1434,7 @@ https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
 https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8
 #EXTINF:-1 tvg-name="AXN Asia Indonesia" group-title="Movies;Series",AXN Asia Indonesia
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
-#EXTINF:-1 tvg-name="BE@TTV" group-title="Entertainment;Music",BE@TTV
+#EXTINF:-1 tvg-name="BEATTV" group-title="Entertainment;Music",BEATTV
 https://tv.beatfm.nl/live.m3u8
 #EXTINF:-1 tvg-name="247 Box TV" group-title="Entertainment",247 Box TV
 https://hls.247box.live/hls/stream.m3u8
@@ -1602,102 +1640,190 @@ https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8
 http://43.252.18.195:5080/live/streams/KoreanDrama.playlist.m3u8
 #EXTINF:-1 tvg-name="Persiana Series" group-title="Series",Persiana Series
 https://onehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="7th Heaven" group-title="Series",7th Heaven
+#EXTINF:-1 tvg-name="7th Heaven DK" group-title="Series",7th Heaven DK
 https://jmp2.uk/plu-6728c9c85534bb0008b320a4.m3u8
+#EXTINF:-1 tvg-name="7th Heaven NO" group-title="Series",7th Heaven NO
+https://jmp2.uk/plu-6728ca75529ac9000830ab14.m3u8
+#EXTINF:-1 tvg-name="7th Heaven" group-title="Series",7th Heaven
+https://jmp2.uk/plu-6728cab6e482950008b76d8c.m3u8
 #EXTINF:-1 tvg-name="16 Anni e Incinta" group-title="Entertainment",16 Anni e Incinta
 https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8
 #EXTINF:-1 tvg-name="2900 Happiness" group-title="Series",2900 Happiness
 https://jmp2.uk/plu-6720bc6cdaad7f000872a6e2.m3u8
 #EXTINF:-1 tvg-name="90210" group-title="Series",90210
 https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
-#EXTINF:-1 tvg-name="Acapulco Shore Pluto TV" group-title="Series",Acapulco Shore Pluto TV
+#EXTINF:-1 tvg-name="Acapulco Shore" group-title="Series",Acapulco Shore
 https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
-#EXTINF:-1 tvg-name="Alerte à Malibu" group-title="Series",Alerte à Malibu
+#EXTINF:-1 tvg-name="Alerte a Malibu" group-title="Series",Alerte a Malibu
 https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8
-#EXTINF:-1 tvg-name="America's Next Top Model" group-title="Entertainment",America's Next Top Model
+#EXTINF:-1 tvg-name="America's Next Top Model (United States) CA" group-title="Entertainment",America's Next Top Model (United States) CA
 https://jmp2.uk/plu-68679fc6bb46d0bdd38ac9a4.m3u8
+#EXTINF:-1 tvg-name="America's Next Top Model (Sweden) DK" group-title="Series",America's Next Top Model (Sweden) DK
+https://jmp2.uk/plu-6464cc595a0cd500088c7749.m3u8
+#EXTINF:-1 tvg-name="America's Next Top Model (Germany)" group-title="Entertainment",America's Next Top Model (Germany)
+https://jmp2.uk/plu-686cd84603ad75cfd132d672.m3u8
+#EXTINF:-1 tvg-name="America's Next Top Model (Sweden) NO" group-title="Series",America's Next Top Model (Sweden) NO
+https://jmp2.uk/plu-6464cd7c7cb4b100086c71c9.m3u8
+#EXTINF:-1 tvg-name="America's Next Top Model (Sweden)" group-title="Series",America's Next Top Model (Sweden)
+https://jmp2.uk/plu-6464cdcaee6a2f000822a7a8.m3u8
+#EXTINF:-1 tvg-name="America's Next Top Model" group-title="Entertainment",America's Next Top Model
+https://jmp2.uk/plu-686cd713e48af72bc250efb8.m3u8
+#EXTINF:-1 tvg-name="America's Next Top Model (United States)" group-title="Entertainment",America's Next Top Model (United States)
+https://jmp2.uk/plu-68757c45759366af05b3b199.m3u8
 #EXTINF:-1 tvg-name="Ana y los 7" group-title="Series",Ana y los 7
 https://jmp2.uk/plu-5f1acce7f17797000718f9be.m3u8
+#EXTINF:-1 tvg-name="Andromeda" group-title="Series",Andromeda
+https://jmp2.uk/plu-6850335b5965a2fd49f7e36d.m3u8
 #EXTINF:-1 tvg-name="Andromeda Italy" group-title="Series",Andromeda Italy
 https://jmp2.uk/plu-60802d37ee238e0007c94e64.m3u8
 #EXTINF:-1 tvg-name="Anthony Bourdain: Parts Unknown" group-title="Series",Anthony Bourdain: Parts Unknown
 https://jmp2.uk/plu-69173ce8abd4703b27f71d44.m3u8
-#EXTINF:-1 tvg-name="Are You The One?" group-title="Entertainment",Are You The One?
+#EXTINF:-1 tvg-name="Are You The One? DK" group-title="Entertainment",Are You The One? DK
 https://jmp2.uk/plu-61c091c39863900007ac9e8f.m3u8
-#EXTINF:-1 tvg-name="Awkward" group-title="Series",Awkward
+#EXTINF:-1 tvg-name="Are You The One? NO" group-title="Entertainment",Are You The One? NO
+https://jmp2.uk/plu-61c1db8ed6d97900076ea15c.m3u8
+#EXTINF:-1 tvg-name="Are You The One?" group-title="Entertainment",Are You The One?
+https://jmp2.uk/plu-61c0ac242bb0cf0007015f89.m3u8
+#EXTINF:-1 tvg-name="Auction Hunters (Germany)" group-title="Entertainment",Auction Hunters (Germany)
+https://jmp2.uk/plu-5ede45d077746000072be0fe.m3u8
+#EXTINF:-1 tvg-name="Auction Hunters (Sweden) DK" group-title="Series",Auction Hunters (Sweden) DK
+https://jmp2.uk/plu-62da73c4ec46c000070f4cb1.m3u8
+#EXTINF:-1 tvg-name="Auction Hunters (Sweden) NO" group-title="Series",Auction Hunters (Sweden) NO
+https://jmp2.uk/plu-62da7159ca8f220008032730.m3u8
+#EXTINF:-1 tvg-name="Auction Hunters (Sweden)" group-title="Series",Auction Hunters (Sweden)
+https://jmp2.uk/plu-62da7380478a5b0007e610d9.m3u8
+#EXTINF:-1 tvg-name="Avatar (Sweden)" group-title="Animation;Kids;Series",Avatar (Sweden)
+https://jmp2.uk/plu-61c09b48d6d97900076e91c5.m3u8
+#EXTINF:-1 tvg-name="Awkward (Germany)" group-title="Series",Awkward (Germany)
 https://jmp2.uk/plu-62bc1784120ba80007935aaa.m3u8
-#EXTINF:-1 tvg-name="Becker" group-title="Classic;Series",Becker
+#EXTINF:-1 tvg-name="Bar Rescue CA" group-title="Series",Bar Rescue CA
+https://jmp2.uk/plu-655f2ee6c0fc88000877d26c.m3u8
+#EXTINF:-1 tvg-name="Becker (Sweden) DK" group-title="Classic;Series",Becker (Sweden) DK
 https://jmp2.uk/plu-672e157d7d5da5000812872d.m3u8
-#EXTINF:-1 tvg-name="Best of Dr. Phil" group-title="Entertainment",Best of Dr. Phil
+#EXTINF:-1 tvg-name="Becker (Sweden) NO" group-title="Classic;Series",Becker (Sweden) NO
+https://jmp2.uk/plu-672e1634e482950008c759a5.m3u8
+#EXTINF:-1 tvg-name="Becker (Sweden)" group-title="Classic;Series",Becker (Sweden)
+https://jmp2.uk/plu-672e16f5daad7f0008929a0d.m3u8
+#EXTINF:-1 tvg-name="Best of Dr Phil" group-title="Entertainment",Best of Dr Phil
 https://jmp2.uk/plu-666815f24b9fb400083f7e31.m3u8
-#EXTINF:-1 tvg-name="Best of MTV" group-title="Entertainment",Best of MTV
+#EXTINF:-1 tvg-name="Best of MTV DK" group-title="Entertainment",Best of MTV DK
 https://jmp2.uk/plu-632aff5e44111b00076ad9b1.m3u8
+#EXTINF:-1 tvg-name="Best of MTV NO" group-title="Entertainment",Best of MTV NO
+https://jmp2.uk/plu-632afc466699570007ed1106.m3u8
+#EXTINF:-1 tvg-name="Best of MTV" group-title="Entertainment",Best of MTV
+https://jmp2.uk/plu-632afdf820e83e000710ea12.m3u8
 #EXTINF:-1 tvg-name="Best of Paradise Hotel: Finalveckan" group-title="Entertainment",Best of Paradise Hotel: Finalveckan
 https://jmp2.uk/plu-65e97d41f7f0af0008da2543.m3u8
-#EXTINF:-1 tvg-name="Best of Paradise Hotel: Kyssar & kärlek" group-title="Entertainment",Best of Paradise Hotel: Kyssar & kärlek
+#EXTINF:-1 tvg-name="Best of Paradise Hotel: Kyssar & karlek" group-title="Entertainment",Best of Paradise Hotel: Kyssar & karlek
 https://jmp2.uk/plu-65b1077e0d9ab40008245b20.m3u8
 #EXTINF:-1 tvg-name="Best of Paradise Hotel: Pandoras Ask" group-title="Entertainment",Best of Paradise Hotel: Pandoras Ask
 https://jmp2.uk/plu-65e97d760d456100082da660.m3u8
 #EXTINF:-1 tvg-name="Best of Paradise Hotel: Skolveckan" group-title="Entertainment",Best of Paradise Hotel: Skolveckan
 https://jmp2.uk/plu-65e97cd118036500082ed0ce.m3u8
-#EXTINF:-1 tvg-name="Best of The Drew Barrymore Show" group-title="Entertainment",Best of The Drew Barrymore Show
+#EXTINF:-1 tvg-name="Best of The Drew Barrymore Show (United States)" group-title="Entertainment",Best of The Drew Barrymore Show (United States)
 https://jmp2.uk/plu-6310cbee5a8ad300070fdb7c.m3u8
-#EXTINF:-1 tvg-name="BET" group-title="Series",BET
+#EXTINF:-1 tvg-name="Best of The Drew Barrymore Show (Sweden) DK" group-title="Entertainment",Best of The Drew Barrymore Show (Sweden) DK
+https://jmp2.uk/plu-62beb692cda2b10007d5fd76.m3u8
+#EXTINF:-1 tvg-name="Best of The Drew Barrymore Show (Sweden) NO" group-title="Entertainment",Best of The Drew Barrymore Show (Sweden) NO
+https://jmp2.uk/plu-630478cfdb5a4a0007ec255e.m3u8
+#EXTINF:-1 tvg-name="Best of The Drew Barrymore Show (Sweden)" group-title="Entertainment",Best of The Drew Barrymore Show (Sweden)
+https://jmp2.uk/plu-630483153a21200007f1920f.m3u8
+#EXTINF:-1 tvg-name="BET DK" group-title="Series",BET DK
 https://jmp2.uk/plu-61c1939b8929e40007ff6382.m3u8
+#EXTINF:-1 tvg-name="BET NO" group-title="Series",BET NO
+https://jmp2.uk/plu-61dd5bf8db0b8e00080804ff.m3u8
+#EXTINF:-1 tvg-name="BET" group-title="Series",BET
+https://jmp2.uk/plu-61c187ef1efe1b0007571711.m3u8
 #EXTINF:-1 tvg-name="Beyond the Gates" group-title="Entertainment",Beyond the Gates
 https://jmp2.uk/plu-687ff00ff6bc08130f16ab81.m3u8
 #EXTINF:-1 tvg-name="Big Brother" group-title="Entertainment",Big Brother
 https://jmp2.uk/plu-6661f11a41af6400080e90d8.m3u8
 #EXTINF:-1 tvg-name="BIG BROTHER CLASSIC" group-title="Entertainment",BIG BROTHER CLASSIC
 https://jmp2.uk/plu-663e09e4b18d700008e48dcf.m3u8
+#EXTINF:-1 tvg-name="Blue Bloods (Germany)" group-title="Series",Blue Bloods (Germany)
+https://jmp2.uk/plu-66f55a9a747bfa0008521859.m3u8
 #EXTINF:-1 tvg-name="Boligjakten" group-title="Entertainment",Boligjakten
 https://jmp2.uk/plu-61c1dc21b9587d0007e3fc15.m3u8
-#EXTINF:-1 tvg-name="Bonanza" group-title="Movies;Series",Bonanza
+#EXTINF:-1 tvg-name="Bonanza CA" group-title="Movies;Series",Bonanza CA
 https://jmp2.uk/plu-696e647b07ea70192d49f6a5.m3u8
-#EXTINF:-1 tvg-name="Bondi Rescue" group-title="Entertainment",Bondi Rescue
+#EXTINF:-1 tvg-name="Bonanza" group-title="Movies;Series",Bonanza
+https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
+#EXTINF:-1 tvg-name="Bondi Rescue (United States)" group-title="Entertainment",Bondi Rescue (United States)
 https://jmp2.uk/plu-66166989635c7500084105a2.m3u8
+#EXTINF:-1 tvg-name="Bondi Rescue (Sweden) DK" group-title="Series",Bondi Rescue (Sweden) DK
+https://jmp2.uk/plu-660d66be7bcd8600087cfee5.m3u8
+#EXTINF:-1 tvg-name="Bondi Rescue (Sweden) NO" group-title="Series",Bondi Rescue (Sweden) NO
+https://jmp2.uk/plu-660d67c419ca71000849a4e9.m3u8
+#EXTINF:-1 tvg-name="Bondi Rescue (Sweden)" group-title="Series",Bondi Rescue (Sweden)
+https://jmp2.uk/plu-660d67eec8311c0008b8c3f7.m3u8
 #EXTINF:-1 tvg-name="Breinholts" group-title="Entertainment",Breinholts
 https://jmp2.uk/plu-660d6c0094db140008fe2f74.m3u8
-#EXTINF:-1 tvg-name="Britain's Next Top Model" group-title="Series",Britain's Next Top Model
+#EXTINF:-1 tvg-name="Britain's Next Top Model DK" group-title="Series",Britain's Next Top Model DK
 https://jmp2.uk/plu-67a09ddc21af380008088dc3.m3u8
+#EXTINF:-1 tvg-name="Britain's Next Top Model NO" group-title="Series",Britain's Next Top Model NO
+https://jmp2.uk/plu-67a09e25c070cf00083c40fa.m3u8
+#EXTINF:-1 tvg-name="Britain's Next Top Model" group-title="Series",Britain's Next Top Model
+https://jmp2.uk/plu-67a09e5921af38000808900a.m3u8
 #EXTINF:-1 tvg-name="Cagney & Lacey" group-title="Series",Cagney & Lacey
 https://jmp2.uk/plu-6960c5a906d76f50db2816dc.m3u8
-#EXTINF:-1 tvg-name="Camp Kulinaris" group-title="Entertainment",Camp Kulinaris
+#EXTINF:-1 tvg-name="Camp Kulinaris NO" group-title="Entertainment",Camp Kulinaris NO
 https://jmp2.uk/plu-61c1dce2fb9ae40007d0ac15.m3u8
-#EXTINF:-1 tvg-name="Car Chase" group-title="Series",Car Chase
+#EXTINF:-1 tvg-name="Camp Kulinaris" group-title="Entertainment",Camp Kulinaris
+https://jmp2.uk/plu-6400bf66dff38e00083f4ee8.m3u8
+#EXTINF:-1 tvg-name="Car Chase (Sweden) DK" group-title="Series",Car Chase (Sweden) DK
 https://jmp2.uk/plu-65a93b0607e03a000895abda.m3u8
-#EXTINF:-1 tvg-name="Catfish" group-title="Entertainment",Catfish
+#EXTINF:-1 tvg-name="Car Chase (Sweden) NO" group-title="Series",Car Chase (Sweden) NO
+https://jmp2.uk/plu-65a93b870c7ff50008d1ca47.m3u8
+#EXTINF:-1 tvg-name="Car Chase (Sweden)" group-title="Series",Car Chase (Sweden)
+https://jmp2.uk/plu-65a93be02fac9c00083cbac4.m3u8
+#EXTINF:-1 tvg-name="Car Chase (United States)" group-title="Entertainment",Car Chase (United States)
+https://jmp2.uk/plu-65244c403fd33c0008ffff31.m3u8
+#EXTINF:-1 tvg-name="MTV Catfish (United States)" group-title="Entertainment",MTV Catfish (United States)
 https://jmp2.uk/plu-64f8a2a23a0d700008a6ed7b.m3u8
-#EXTINF:-1 tvg-name="CATFISH TV" group-title="Entertainment",CATFISH TV
+#EXTINF:-1 tvg-name="MTV Catfish TV Show" group-title="Entertainment",MTV Catfish TV Show
+https://jmp2.uk/plu-6093f9ed2c75660007322bb7.m3u8
+#EXTINF:-1 tvg-name="MTV Catfish TV Show GB" group-title="Entertainment",MTV Catfish TV Show GB
+https://jmp2.uk/plu-625eaebc2a73a00007d3f855.m3u8
+#EXTINF:-1 tvg-name="MTV Catfish TV Show FR" group-title="Entertainment",MTV Catfish TV Show FR
 https://jmp2.uk/plu-5f8eb66537867f0007146953.m3u8
-#EXTINF:-1 tvg-name="CBS en español" group-title="Entertainment",CBS en español
+#EXTINF:-1 tvg-name="CBS en espanol" group-title="Entertainment",CBS en espanol
 https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8
 #EXTINF:-1 tvg-name="Charterfeber" group-title="Entertainment",Charterfeber
 https://jmp2.uk/plu-61c1dda0fe470d00080f85b8.m3u8
-#EXTINF:-1 tvg-name="Cheers" group-title="Series",Cheers
+#EXTINF:-1 tvg-name="Cheers (United States)" group-title="Series",Cheers (United States)
 https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8
 #EXTINF:-1 tvg-name="Cin Cin" group-title="Classic;Series",Cin Cin
 https://jmp2.uk/plu-65cb78b83a116800079e2e35.m3u8
 #EXTINF:-1 tvg-name="Cine aventura" group-title="Entertainment",Cine aventura
 https://jmp2.uk/plu-60fb2f47c133270007327375.m3u8
-#EXTINF:-1 tvg-name="Cine en español" group-title="Entertainment",Cine en español
+#EXTINF:-1 tvg-name="Cine en espanol" group-title="Entertainment",Cine en espanol
 https://jmp2.uk/plu-5cf96b1c4f1ca3f0629f4bf0.m3u8
 #EXTINF:-1 tvg-name="Classic Movie Westerns" group-title="Movies;Series",Classic Movie Westerns
 https://jmp2.uk/plu-61f33318210549000806a530.m3u8
+#EXTINF:-1 tvg-name="CSI (Sweden)" group-title="Series",CSI (Sweden)
+https://jmp2.uk/plu-6525419dc52b3600083db9c3.m3u8
 #EXTINF:-1 tvg-name="CSI: Crime Scene Investigation" group-title="Series",CSI: Crime Scene Investigation
 https://jmp2.uk/plu-6304f8d5ffb61000071ab478.m3u8
-#EXTINF:-1 tvg-name="CSI: Miami" group-title="Series",CSI: Miami
+#EXTINF:-1 tvg-name="CSI: Miami BR" group-title="Series",CSI: Miami BR
 https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
-#EXTINF:-1 tvg-name="CSI: Miami en español" group-title="Entertainment",CSI: Miami en español
+#EXTINF:-1 tvg-name="CSI: Miami LatAm" group-title="Series",CSI: Miami LatAm
+https://jmp2.uk/plu-63eb9255c111bc0008fe6ec4.m3u8
+#EXTINF:-1 tvg-name="CSI: Miami" group-title="Series",CSI: Miami
+https://jmp2.uk/plu-62f54c11b3af68000702c304.m3u8
+#EXTINF:-1 tvg-name="CSI: Miami en espanol" group-title="Entertainment",CSI: Miami en espanol
 https://jmp2.uk/plu-632b5950b515b000079e6b81.m3u8
 #EXTINF:-1 tvg-name="CSI: NY" group-title="Series",CSI: NY
 https://jmp2.uk/plu-62f54c6439183b000769fb8f.m3u8
-#EXTINF:-1 tvg-name="CSI: NY en español" group-title="Entertainment",CSI: NY en español
+#EXTINF:-1 tvg-name="CSI: NY en espanol" group-title="Entertainment",CSI: NY en espanol
 https://jmp2.uk/plu-632b606e12a67b0007c9e371.m3u8
-#EXTINF:-1 tvg-name="Curro Jiménez" group-title="Series",Curro Jiménez
+#EXTINF:-1 tvg-name="Curro Jimenez" group-title="Series",Curro Jimenez
 https://jmp2.uk/plu-5f1acd36779de70007a680d1.m3u8
-#EXTINF:-1 tvg-name="Dallas Cowboys Cheerleaders" group-title="Series",Dallas Cowboys Cheerleaders
+#EXTINF:-1 tvg-name="Dallas Cowboys Cheerleaders DK" group-title="Series",Dallas Cowboys Cheerleaders DK
 https://jmp2.uk/plu-64e87c6b28cec700088ceb55.m3u8
+#EXTINF:-1 tvg-name="Dallas Cowboys Cheerleaders NO" group-title="Series",Dallas Cowboys Cheerleaders NO
+https://jmp2.uk/plu-64e77016324d190008291c13.m3u8
+#EXTINF:-1 tvg-name="Dallas Cowboys Cheerleaders" group-title="Series",Dallas Cowboys Cheerleaders
+https://jmp2.uk/plu-64e7715c4c5ed800081230e4.m3u8
 #EXTINF:-1 tvg-name="Dating Disasters" group-title="Entertainment",Dating Disasters
 https://jmp2.uk/plu-651f239d9c7aeb0008286823.m3u8
 #EXTINF:-1 tvg-name="DCC: Making the Team" group-title="Entertainment",DCC: Making the Team
@@ -1708,56 +1834,96 @@ https://jmp2.uk/plu-66b22714d512590008c3d573.m3u8
 https://jmp2.uk/plu-660d6bc10cd4630008f4a25a.m3u8
 #EXTINF:-1 tvg-name="Diagnosis Murder" group-title="Series",Diagnosis Murder
 https://jmp2.uk/plu-65fd548f29adfd00089c662c.m3u8
-#EXTINF:-1 tvg-name="Diff’rent Strokes Arnold" group-title="Series",Diff’rent Strokes Arnold
+#EXTINF:-1 tvg-name="Diagnosis Murder DK" group-title="Classic;Series",Diagnosis Murder DK
+https://jmp2.uk/plu-668bf7dd74f5ec000817e6d1.m3u8
+#EXTINF:-1 tvg-name="Diagnosis Murder NO" group-title="Classic;Series",Diagnosis Murder NO
+https://jmp2.uk/plu-668bf91208d5490008065ffd.m3u8
+#EXTINF:-1 tvg-name="Diff'rent Strokes Arnold" group-title="Series",Diff'rent Strokes Arnold
 https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8
-#EXTINF:-1 tvg-name="Doc Martin" group-title="Series",Doc Martin
+#EXTINF:-1 tvg-name="Doc Martin (United States)" group-title="Series",Doc Martin (United States)
 https://jmp2.uk/plu-62e922f6675f71000736db3b.m3u8
-#EXTINF:-1 tvg-name="Dog el cazarrecompensas" group-title="Series",Dog el cazarrecompensas
+#EXTINF:-1 tvg-name="Doc Martin" group-title="Series",Doc Martin
+https://jmp2.uk/plu-62724ae034f5190007b63424.m3u8
+#EXTINF:-1 tvg-name="Doc Martin (Sweden)" group-title="Series",Doc Martin (Sweden)
+https://jmp2.uk/plu-62b1e5e77d15410007f798c6.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Dog el cazarrecompensas" group-title="Series",Pluto TV Dog el cazarrecompensas
 https://jmp2.uk/plu-5f9992c685a2a80007fa414a.m3u8
 #EXTINF:-1 tvg-name="Dynasty" group-title="Series",Dynasty
 https://jmp2.uk/plu-62e919ca865c590007ecd0bd.m3u8
+#EXTINF:-1 tvg-name="Dynasty (Germany)" group-title="Classic;Series",Dynasty (Germany)
+https://jmp2.uk/plu-65cb76ea11ced70008206b66.m3u8
+#EXTINF:-1 tvg-name="Dynasty (Germany) GB" group-title="Classic;Series",Dynasty (Germany) GB
+https://jmp2.uk/plu-622f48de713e510007f85808.m3u8
+#EXTINF:-1 tvg-name="Dynasty (United States)" group-title="Series",Dynasty (United States)
+https://jmp2.uk/plu-64d1606b4c5ed80008e3b8b9.m3u8
 #EXTINF:-1 tvg-name="Efterlyst" group-title="Series",Efterlyst
 https://jmp2.uk/plu-646ce0e2e1979c0008983939.m3u8
 #EXTINF:-1 tvg-name="El Comisario" group-title="Series",El Comisario
 https://jmp2.uk/plu-60c343007bcabe0007242aa6.m3u8
 #EXTINF:-1 tvg-name="El encantador de perros" group-title="Series",El encantador de perros
 https://jmp2.uk/plu-60e45687313c5f0007bc8e94.m3u8
-#EXTINF:-1 tvg-name="Empeños a lo bestia" group-title="Series",Empeños a lo bestia
+#EXTINF:-1 tvg-name="Empenos a lo bestia" group-title="Series",Empenos a lo bestia
 https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8
 #EXTINF:-1 tvg-name="En el punto de mira" group-title="Entertainment",En el punto de mira
 https://jmp2.uk/plu-61922be835f3910007fc58f6.m3u8
 #EXTINF:-1 tvg-name="Eventyrlig Oppussing" group-title="Entertainment",Eventyrlig Oppussing
 https://jmp2.uk/plu-61c1de93244e500007581d69.m3u8
-#EXTINF:-1 tvg-name="Ex On The Beach" group-title="Entertainment",Ex On The Beach
+#EXTINF:-1 tvg-name="MTV Ex On The Beach DK" group-title="Entertainment",MTV Ex On The Beach DK
 https://jmp2.uk/plu-61c0909b872c650008ed42e4.m3u8
+#EXTINF:-1 tvg-name="MTV Ex On The Beach NO" group-title="Entertainment",MTV Ex On The Beach NO
+https://jmp2.uk/plu-61c1d66518447e000717e4c2.m3u8
+#EXTINF:-1 tvg-name="MTV Ex On The Beach" group-title="Entertainment",MTV Ex On The Beach
+https://jmp2.uk/plu-61c09072a09bbe00078f5692.m3u8
 #EXTINF:-1 tvg-name="Familien fra Bryggen" group-title="Entertainment",Familien fra Bryggen
 https://jmp2.uk/plu-61c19c8c9863900007acaa57.m3u8
 #EXTINF:-1 tvg-name="FBoy Island" group-title="Series",FBoy Island
 https://jmp2.uk/plu-6790d6c7bc03978b9bfbfd44.m3u8
 #EXTINF:-1 tvg-name="Feel Good Drama" group-title="Series",Feel Good Drama
 https://jmp2.uk/plu-65775af3b3801200084a3aa4.m3u8
-#EXTINF:-1 tvg-name="For lækker til love" group-title="Entertainment",For lækker til love
+#EXTINF:-1 tvg-name="For laekker til love" group-title="Entertainment",For laekker til love
 https://jmp2.uk/plu-6272511cb389bb0007b30b09.m3u8
 #EXTINF:-1 tvg-name="Forsidefruer" group-title="Entertainment",Forsidefruer
 https://jmp2.uk/plu-61c19dcefbb4b50007d242e1.m3u8
-#EXTINF:-1 tvg-name="Frasier" group-title="Series",Frasier
+#EXTINF:-1 tvg-name="Frasier (United States)" group-title="Series",Frasier (United States)
 https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8
-#EXTINF:-1 tvg-name="Frusna Vägar" group-title="Entertainment",Frusna Vägar
+#EXTINF:-1 tvg-name="Frusna Vagar" group-title="Entertainment",Frusna Vagar
 https://jmp2.uk/plu-61c19099bf8c520007a93cff.m3u8
+#EXTINF:-1 tvg-name="Geordie Shore (Sweden) DK" group-title="Entertainment",Geordie Shore (Sweden) DK
+https://jmp2.uk/plu-6442512cee6a2f0008d3351f.m3u8
+#EXTINF:-1 tvg-name="Geordie Shore (Germany)" group-title="Entertainment",Geordie Shore (Germany)
+https://jmp2.uk/plu-619263ee9541940007d20d60.m3u8
+#EXTINF:-1 tvg-name="Geordie Shore (Sweden) NO" group-title="Entertainment",Geordie Shore (Sweden) NO
+https://jmp2.uk/plu-64424a1d5a0cd500083ed27c.m3u8
+#EXTINF:-1 tvg-name="Geordie Shore (Sweden)" group-title="Entertainment",Geordie Shore (Sweden)
+https://jmp2.uk/plu-64424be3e94c380008d0a66d.m3u8
 #EXTINF:-1 tvg-name="Germany Shore" group-title="Entertainment",Germany Shore
 https://jmp2.uk/plu-6447dea7e94c380008dba94c.m3u8
 #EXTINF:-1 tvg-name="Ghost Dimension" group-title="Series",Ghost Dimension
 https://jmp2.uk/plu-619e1bb3e9af5a0007f235ad.m3u8
 #EXTINF:-1 tvg-name="Gunsmoke" group-title="Series",Gunsmoke
 https://jmp2.uk/plu-62e916affb29c60007211c8a.m3u8
-#EXTINF:-1 tvg-name="Hélène et les garçons" group-title="Series",Hélène et les garçons
+#EXTINF:-1 tvg-name="Happy Days (United States) CA" group-title="Series",Happy Days (United States) CA
+https://jmp2.uk/plu-62e917b5e354cf0007b97a67.m3u8
+#EXTINF:-1 tvg-name="Happy Days (Sweden) DK" group-title="Classic;Series",Happy Days (Sweden) DK
+https://jmp2.uk/plu-654a4e29ab05240008a18625.m3u8
+#EXTINF:-1 tvg-name="Happy Days (Sweden) NO" group-title="Classic;Series",Happy Days (Sweden) NO
+https://jmp2.uk/plu-654a508d986ad20008a456a5.m3u8
+#EXTINF:-1 tvg-name="Happy Days (Sweden)" group-title="Classic;Series",Happy Days (Sweden)
+https://jmp2.uk/plu-654a52254d6d8f00084eacfc.m3u8
+#EXTINF:-1 tvg-name="Heartland" group-title="Entertainment",Heartland
+https://jmp2.uk/plu-680f375e6798ccd1185b58f9.m3u8
+#EXTINF:-1 tvg-name="Helene et les garcons" group-title="Series",Helene et les garcons
 https://jmp2.uk/plu-604f8de01b479400078fb1e7.m3u8
-#EXTINF:-1 tvg-name="Högspänning" group-title="Entertainment",Högspänning
+#EXTINF:-1 tvg-name="Hogspanning" group-title="Entertainment",Hogspanning
 https://jmp2.uk/plu-6537abf42cf1310008441686.m3u8
 #EXTINF:-1 tvg-name="Hot Bench" group-title="Entertainment",Hot Bench
 https://jmp2.uk/plu-6036e6e7ac69c400072afca2.m3u8
-#EXTINF:-1 tvg-name="House of Lies" group-title="Series",House of Lies
+#EXTINF:-1 tvg-name="House of Lies DK" group-title="Series",House of Lies DK
 https://jmp2.uk/plu-693ae62a43fe00a023e76e0d.m3u8
+#EXTINF:-1 tvg-name="House of Lies NO" group-title="Series",House of Lies NO
+https://jmp2.uk/plu-693ae65fab5959c036fa6c1e.m3u8
+#EXTINF:-1 tvg-name="House of Lies" group-title="Series",House of Lies
+https://jmp2.uk/plu-693ae6bf0ddf7d2a40b7fd35.m3u8
 #EXTINF:-1 tvg-name="Il Banco dei Pugni" group-title="Entertainment",Il Banco dei Pugni
 https://jmp2.uk/plu-60e4507a06171800072339a3.m3u8
 #EXTINF:-1 tvg-name="Il Testimone" group-title="Entertainment",Il Testimone
@@ -1766,27 +1932,51 @@ https://jmp2.uk/plu-61fbd3f0733df400076c9a2d.m3u8
 https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8
 #EXTINF:-1 tvg-name="Instant Saga" group-title="Series",Instant Saga
 https://jmp2.uk/plu-60549e98061b5f000776866a.m3u8
-#EXTINF:-1 tvg-name="Investiga" group-title="Series",Investiga
+#EXTINF:-1 tvg-name="Investiga US" group-title="Series",Investiga US
 https://jmp2.uk/plu-5cf96b8f4f1ca3f0629f4bf1.m3u8
 #EXTINF:-1 tvg-name="Investigation by Pluto TV" group-title="Series",Investigation by Pluto TV
 https://jmp2.uk/plu-6683cd2fca74680008772545.m3u8
 #EXTINF:-1 tvg-name="Iron Chef" group-title="Series",Iron Chef
 https://jmp2.uk/plu-6582f8dadfed030008e5a93d.m3u8
-#EXTINF:-1 tvg-name="JAG" group-title="Series",JAG
+#EXTINF:-1 tvg-name="JAG (United States)" group-title="Series",JAG (United States)
 https://jmp2.uk/plu-66a105f4a79dea0008aa5e0f.m3u8
-#EXTINF:-1 tvg-name="Jersey Shore Family Vacation" group-title="Entertainment",Jersey Shore Family Vacation
+#EXTINF:-1 tvg-name="JAG (Sweden) DK" group-title="Classic;Series",JAG (Sweden) DK
+https://jmp2.uk/plu-654a4ab92c1d330008657ae5.m3u8
+#EXTINF:-1 tvg-name="JAG (Germany)" group-title="Series",JAG (Germany)
+https://jmp2.uk/plu-65ccd26060eb870008db95fc.m3u8
+#EXTINF:-1 tvg-name="JAG (Sweden) NO" group-title="Classic;Series",JAG (Sweden) NO
+https://jmp2.uk/plu-654a4fc753fc9700083ae79f.m3u8
+#EXTINF:-1 tvg-name="JAG (Sweden)" group-title="Classic;Series",JAG (Sweden)
+https://jmp2.uk/plu-654a515f986ad20008a4593b.m3u8
+#EXTINF:-1 tvg-name="JAG (Germany) GB" group-title="Series",JAG (Germany) GB
+https://jmp2.uk/plu-660e5dc60cd4630008f6198a.m3u8
+#EXTINF:-1 tvg-name="Jersey Shore (Sweden) DK" group-title="Entertainment",Jersey Shore (Sweden) DK
+https://jmp2.uk/plu-6442508e5a0cd500083edd3c.m3u8
+#EXTINF:-1 tvg-name="Jersey Shore (Sweden) NO" group-title="Entertainment",Jersey Shore (Sweden) NO
+https://jmp2.uk/plu-64424b21e1979c0008379681.m3u8
+#EXTINF:-1 tvg-name="Jersey Shore (Sweden)" group-title="Entertainment",Jersey Shore (Sweden)
+https://jmp2.uk/plu-64424c1be94c380008d0a98c.m3u8
+#EXTINF:-1 tvg-name="Jersey Shore Family Vacation DK" group-title="Entertainment",Jersey Shore Family Vacation DK
 https://jmp2.uk/plu-6728c831c7626f0008b28127.m3u8
-#EXTINF:-1 tvg-name="Jornada nas Estrelas A Nova Geração" group-title="Series",Jornada nas Estrelas A Nova Geração
+#EXTINF:-1 tvg-name="Jersey Shore Family Vacation NO" group-title="Entertainment",Jersey Shore Family Vacation NO
+https://jmp2.uk/plu-6728c87cc7626f0008b28149.m3u8
+#EXTINF:-1 tvg-name="Jersey Shore Family Vacation" group-title="Entertainment",Jersey Shore Family Vacation
+https://jmp2.uk/plu-6728c8b45534bb0008b31f35.m3u8
+#EXTINF:-1 tvg-name="Jornada nas Estrelas: A Nova Geracao" group-title="Series",Jornada nas Estrelas: A Nova Geracao
 https://jmp2.uk/plu-69162ad79505d0f3b1ebf07d.m3u8
-#EXTINF:-1 tvg-name="Jornada nas Estrelas Deep Space Nine" group-title="Series",Jornada nas Estrelas Deep Space Nine
+#EXTINF:-1 tvg-name="Jornada nas Estrelas: Deep Space Nine" group-title="Series",Jornada nas Estrelas: Deep Space Nine
 https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8
-#EXTINF:-1 tvg-name="Jornada nas Estrelas Voyager" group-title="Series",Jornada nas Estrelas Voyager
+#EXTINF:-1 tvg-name="Jornada nas Estrelas: Voyager" group-title="Series",Jornada nas Estrelas: Voyager
 https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8
-#EXTINF:-1 tvg-name="Judge Judy" group-title="Series",Judge Judy
+#EXTINF:-1 tvg-name="Judge Judy (Sweden) DK" group-title="Series",Judge Judy (Sweden) DK
 https://jmp2.uk/plu-6380c36389eccc000858c50f.m3u8
+#EXTINF:-1 tvg-name="Judge Judy (Sweden) NO" group-title="Series",Judge Judy (Sweden) NO
+https://jmp2.uk/plu-6380c428dd0f47000799907c.m3u8
+#EXTINF:-1 tvg-name="Judge Judy (Sweden)" group-title="Series",Judge Judy (Sweden)
+https://jmp2.uk/plu-6380c4ab81c8d2000790fbf3.m3u8
 #EXTINF:-1 tvg-name="Just Tattoo of Us" group-title="Entertainment",Just Tattoo of Us
 https://jmp2.uk/plu-6304f20c941c5d00089634e7.m3u8
-#EXTINF:-1 tvg-name="Kenan y Kel" group-title="Series",Kenan y Kel
+#EXTINF:-1 tvg-name="Kenan & Kel" group-title="Series",Kenan & Kel
 https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8
 #EXTINF:-1 tvg-name="Langt fra Bryggen" group-title="Entertainment",Langt fra Bryggen
 https://jmp2.uk/plu-654a3fe6986ad20008a42add.m3u8
@@ -1794,9 +1984,9 @@ https://jmp2.uk/plu-654a3fe6986ad20008a42add.m3u8
 https://jmp2.uk/plu-60549c238c3f21000753d3e0.m3u8
 #EXTINF:-1 tvg-name="Le sorelle McLeod" group-title="Series",Le sorelle McLeod
 https://jmp2.uk/plu-60a2837f8154ab0007c4dcdf.m3u8
-#EXTINF:-1 tvg-name="Les Années fac" group-title="Series",Les Années fac
+#EXTINF:-1 tvg-name="Les Annees fac" group-title="Series",Les Annees fac
 https://jmp2.uk/plu-60afae68a7fc50000737186d.m3u8
-#EXTINF:-1 tvg-name="Les filles d'à côté" group-title="Series",Les filles d'à côté
+#EXTINF:-1 tvg-name="Les filles d'a cote" group-title="Series",Les filles d'a cote
 https://jmp2.uk/plu-60549d97cd7b090007c73314.m3u8
 #EXTINF:-1 tvg-name="Les Nouveaux Detectives" group-title="Series",Les Nouveaux Detectives
 https://jmp2.uk/plu-5f8edb6df1ebb800072edf10.m3u8
@@ -1808,33 +1998,69 @@ https://jmp2.uk/plu-5f1acbed25948a0007ffbe65.m3u8
 https://jmp2.uk/plu-5f1aca8310a30e00074fab92.m3u8
 #EXTINF:-1 tvg-name="Louis La Brocante" group-title="Series",Louis La Brocante
 https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8
-#EXTINF:-1 tvg-name="Luksusfælden" group-title="Entertainment",Luksusfælden
+#EXTINF:-1 tvg-name="Luksusfaelden" group-title="Entertainment",Luksusfaelden
 https://jmp2.uk/plu-61c19b7785706b00072d421a.m3u8
 #EXTINF:-1 tvg-name="Luksusfellen" group-title="Entertainment",Luksusfellen
 https://jmp2.uk/plu-61c1e060197fe600073c1ffb.m3u8
 #EXTINF:-1 tvg-name="Luksusfellen Sverige" group-title="Series",Luksusfellen Sverige
 https://jmp2.uk/plu-61c1e0f1d6d97900076ea16f.m3u8
-#EXTINF:-1 tvg-name="Lyxfällan" group-title="Entertainment",Lyxfällan
+#EXTINF:-1 tvg-name="Lyxfallan" group-title="Entertainment",Lyxfallan
 https://jmp2.uk/plu-61c18f62f5acaf0007f83135.m3u8
-#EXTINF:-1 tvg-name="Lyxfällan Danmark" group-title="Entertainment",Lyxfällan Danmark
+#EXTINF:-1 tvg-name="Lyxfallan Danmark" group-title="Entertainment",Lyxfallan Danmark
 https://jmp2.uk/plu-61c19165decece0007e9b2f3.m3u8
-#EXTINF:-1 tvg-name="Lyxfällan Norge" group-title="Entertainment",Lyxfällan Norge
+#EXTINF:-1 tvg-name="Lyxfallan Norge" group-title="Entertainment",Lyxfallan Norge
 https://jmp2.uk/plu-67f7d328efc5473b6b4ac5f4.m3u8
-#EXTINF:-1 tvg-name="MacGyver" group-title="Classic;Series",MacGyver
+#EXTINF:-1 tvg-name="MacGyver (Sweden) DK" group-title="Classic;Series",MacGyver (Sweden) DK
 https://jmp2.uk/plu-654a59742c1d33000865a797.m3u8
-#EXTINF:-1 tvg-name="Más adrenalina" group-title="Entertainment",Más adrenalina
+#EXTINF:-1 tvg-name="MacGyver (Germany)" group-title="Series",MacGyver (Germany)
+https://jmp2.uk/plu-6245ccd0c6cdb800074632e4.m3u8
+#EXTINF:-1 tvg-name="MacGyver (Sweden) NO" group-title="Classic;Series",MacGyver (Sweden) NO
+https://jmp2.uk/plu-654a59d483595c0008187514.m3u8
+#EXTINF:-1 tvg-name="MacGyver (Sweden)" group-title="Classic;Series",MacGyver (Sweden)
+https://jmp2.uk/plu-63a19eceb3d0eb0007439c34.m3u8
+#EXTINF:-1 tvg-name="MacGyver (Germany) GB" group-title="Series",MacGyver (Germany) GB
+https://jmp2.uk/plu-68503d585965a2fd49fc2f0b.m3u8
+#EXTINF:-1 tvg-name="Mas adrenalina" group-title="Entertainment",Mas adrenalina
 https://jmp2.uk/plu-687fea9a4fa995eff284a1c8.m3u8
+#EXTINF:-1 tvg-name="Matlock (United States) CA" group-title="Series",Matlock (United States) CA
+https://jmp2.uk/plu-63da365f60bc8f0008a50f44.m3u8
+#EXTINF:-1 tvg-name="Matlock (Sweden) DK" group-title="Classic;Series",Matlock (Sweden) DK
+https://jmp2.uk/plu-66290a779e68c20008a18cf3.m3u8
+#EXTINF:-1 tvg-name="Matlock (Sweden) NO" group-title="Classic;Series",Matlock (Sweden) NO
+https://jmp2.uk/plu-66290b7523e24f000832cc17.m3u8
+#EXTINF:-1 tvg-name="Matlock (Sweden)" group-title="Classic;Series",Matlock (Sweden)
+https://jmp2.uk/plu-66290c12801af8000850c1a9.m3u8
 #EXTINF:-1 tvg-name="McLeods døtre & Grantchester" group-title="Series",McLeods døtre & Grantchester
 https://jmp2.uk/plu-65ba4db63ef47d000837b535.m3u8
-#EXTINF:-1 tvg-name="McLeods Töchter" group-title="Series",McLeods Töchter
+#EXTINF:-1 tvg-name="McLeods Tochter" group-title="Series",McLeods Tochter
 https://jmp2.uk/plu-66c6fcfc6838ee00085beb1a.m3u8
-#EXTINF:-1 tvg-name="Medium" group-title="Series",Medium
+#EXTINF:-1 tvg-name="Medium (Sweden) DK" group-title="Series",Medium (Sweden) DK
 https://jmp2.uk/plu-68f0f54ca362b63a8df4d5a9.m3u8
-#EXTINF:-1 tvg-name="Mi Extraña Obsesión" group-title="Series",Mi Extraña Obsesión
+#EXTINF:-1 tvg-name="Medium (Germany)" group-title="Movies;Series",Medium (Germany)
+https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8
+#EXTINF:-1 tvg-name="Medium (Sweden) NO" group-title="Series",Medium (Sweden) NO
+https://jmp2.uk/plu-68f0f602a362b63a8df4efb4.m3u8
+#EXTINF:-1 tvg-name="Medium (Sweden)" group-title="Series",Medium (Sweden)
+https://jmp2.uk/plu-68f0f642a25ba0aab3e64e66.m3u8
+#EXTINF:-1 tvg-name="Mi Extrana Obsesion" group-title="Series",Mi Extrana Obsesion
 https://jmp2.uk/plu-60e4573c9f963e00077ecf25.m3u8
-#EXTINF:-1 tvg-name="Minuto Para Ganar" group-title="Series",Minuto Para Ganar
+#EXTINF:-1 tvg-name="Pluto TV Minuto Para Ganar" group-title="Series",Pluto TV Minuto Para Ganar
 https://jmp2.uk/plu-5e46e64dc73db400094b5f0b.m3u8
-#EXTINF:-1 tvg-name="Misterios Medicos" group-title="Series",Misterios Medicos
+#EXTINF:-1 tvg-name="Mission Impossible (United States) CA" group-title="Series",Mission Impossible (United States) CA
+https://jmp2.uk/plu-62ea43aa0c43540007f2db96.m3u8
+#EXTINF:-1 tvg-name="Mission Impossible (Germany)" group-title="Movies;Series",Mission Impossible (Germany)
+https://jmp2.uk/plu-634fe5afece2e60007c9d8b8.m3u8
+#EXTINF:-1 tvg-name="Mission Impossible (Sweden) DK" group-title="Classic;Series",Mission Impossible (Sweden) DK
+https://jmp2.uk/plu-6478a9e4f77b61000817034b.m3u8
+#EXTINF:-1 tvg-name="Mission Impossible (Germany) FR" group-title="Movies;Series",Mission Impossible (Germany) FR
+https://jmp2.uk/plu-6671b21ffc3a46000857fe75.m3u8
+#EXTINF:-1 tvg-name="Mission Impossible (Germany) IT" group-title="Movies;Series",Mission Impossible (Germany) IT
+https://jmp2.uk/plu-65cb77853ba51e00084cba02.m3u8
+#EXTINF:-1 tvg-name="Mission Impossible (Sweden) NO" group-title="Classic;Series",Mission Impossible (Sweden) NO
+https://jmp2.uk/plu-639b4eb4da3fda0008036f6e.m3u8
+#EXTINF:-1 tvg-name="Mission Impossible (Sweden)" group-title="Classic;Series",Mission Impossible (Sweden)
+https://jmp2.uk/plu-639b4f14be012600070fe1be.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Misterios Medicos" group-title="Series",Pluto TV Misterios Medicos
 https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8
 #EXTINF:-1 tvg-name="Mit plastikmareridt" group-title="Entertainment",Mit plastikmareridt
 https://jmp2.uk/plu-643814ef479f6400086ff043.m3u8
@@ -1848,12 +2074,36 @@ https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8
 https://amg00426-lds-amg00426c17-samsung-gb-10157.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="MTV Are you the One?" group-title="Series",MTV Are you the One?
 https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8
-#EXTINF:-1 tvg-name="MTV Catfish" group-title="Entertainment",MTV Catfish
+#EXTINF:-1 tvg-name="MTV Catfish (United States) BR" group-title="Entertainment",MTV Catfish (United States) BR
 https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8
+#EXTINF:-1 tvg-name="MTV Catfish (Sweden) DK" group-title="Entertainment",MTV Catfish (Sweden) DK
+https://jmp2.uk/plu-6177fe76691b2e000702c7fc.m3u8
+#EXTINF:-1 tvg-name="MTV Catfish (United States) LatAm" group-title="Entertainment",MTV Catfish (United States) LatAm
+https://jmp2.uk/plu-625461ef01f27a0007976ad1.m3u8
+#EXTINF:-1 tvg-name="MTV Catfish (Sweden)" group-title="Entertainment",MTV Catfish (Sweden)
+https://jmp2.uk/plu-61780d4267bf4d00077ddd73.m3u8
+#EXTINF:-1 tvg-name="MTV Catfish (Sweden) NO" group-title="Entertainment",MTV Catfish (Sweden) NO
+https://jmp2.uk/plu-61781a52a3638a00078fa57e.m3u8
+#EXTINF:-1 tvg-name="MTV Catfish TV Show ES" group-title="Entertainment",MTV Catfish TV Show ES
+https://jmp2.uk/plu-5f1ab3c7778230000735cf41.m3u8
 #EXTINF:-1 tvg-name="MTV CLASSICS" group-title="Entertainment",MTV CLASSICS
 https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
 #EXTINF:-1 tvg-name="MTV Con Mi Ex" group-title="Entertainment",MTV Con Mi Ex
 https://jmp2.uk/plu-638693db857364000781b471.m3u8
+#EXTINF:-1 tvg-name="MTV Dating (Sweden) DK" group-title="Entertainment",MTV Dating (Sweden) DK
+https://jmp2.uk/plu-6851407c21f49d1b9d177493.m3u8
+#EXTINF:-1 tvg-name="MTV Dating (Germany) ES" group-title="Entertainment",MTV Dating (Germany) ES
+https://jmp2.uk/plu-600169ec77e6f70008fa9cf0.m3u8
+#EXTINF:-1 tvg-name="MTV Dating (United States) LatAm" group-title="Series",MTV Dating (United States) LatAm
+https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8
+#EXTINF:-1 tvg-name="MTV Dating (Sweden) NO" group-title="Entertainment",MTV Dating (Sweden) NO
+https://jmp2.uk/plu-685140bd21f49d1b9d177e21.m3u8
+#EXTINF:-1 tvg-name="MTV Dating (Sweden)" group-title="Entertainment",MTV Dating (Sweden)
+https://jmp2.uk/plu-685140f121f49d1b9d178249.m3u8
+#EXTINF:-1 tvg-name="MTV Dating (United States)" group-title="Series",MTV Dating (United States)
+https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8
+#EXTINF:-1 tvg-name="MTV Dating (United States) CA" group-title="Series",MTV Dating (United States) CA
+https://jmp2.uk/plu-64f8a0c230ab3300084369b8.m3u8
 #EXTINF:-1 tvg-name="MTV Embarazada a los 16" group-title="Entertainment",MTV Embarazada a los 16
 https://jmp2.uk/plu-5f98537a5a4341000733aefe.m3u8
 #EXTINF:-1 tvg-name="MTV Geordies" group-title="Entertainment",MTV Geordies
@@ -1862,54 +2112,116 @@ https://jmp2.uk/plu-627d3176d7dfa500077042f1.m3u8
 https://jmp2.uk/plu-68b9b0dbf9cf3d7cb9f56d88.m3u8
 #EXTINF:-1 tvg-name="MTV Jerseys" group-title="Entertainment",MTV Jerseys
 https://jmp2.uk/plu-62ac3d7dc23b400008ae5b5a.m3u8
-#EXTINF:-1 tvg-name="MTV Jovens e Mães" group-title="Entertainment",MTV Jovens e Mães
+#EXTINF:-1 tvg-name="MTV Jovens e Maes" group-title="Entertainment",MTV Jovens e Maes
 https://jmp2.uk/plu-620fdc7d8a36fc000710e3ba.m3u8
 #EXTINF:-1 tvg-name="MTV Just Tattoo of Us" group-title="Entertainment",MTV Just Tattoo of Us
 https://jmp2.uk/plu-63988b61c8d285000798a22a.m3u8
 #EXTINF:-1 tvg-name="MTV Originals" group-title="Entertainment",MTV Originals
 https://jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8
-#EXTINF:-1 tvg-name="MTV Pluto TV LatAm" group-title="Entertainment",MTV Pluto TV LatAm
+#EXTINF:-1 tvg-name="MTV Pluto TV (United States) BR" group-title="Entertainment",MTV Pluto TV (United States) BR
+https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
+#EXTINF:-1 tvg-name="MTV Pluto TV (United States) LatAm" group-title="Entertainment",MTV Pluto TV (United States) LatAm
 https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
-#EXTINF:-1 tvg-name="MTV Reality" group-title="Entertainment",MTV Reality
+#EXTINF:-1 tvg-name="MTV Reality (United States)" group-title="Entertainment",MTV Reality (United States)
 https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8
+#EXTINF:-1 tvg-name="MTV Reality (Germany)" group-title="Entertainment",MTV Reality (Germany)
+https://jmp2.uk/plu-685136fb33a52de120bbb086.m3u8
+#EXTINF:-1 tvg-name="MTV Reality (Germany) ES" group-title="Entertainment",MTV Reality (Germany) ES
+https://jmp2.uk/plu-6130d8dc943001000708548d.m3u8
+#EXTINF:-1 tvg-name="MTV Reality (United States) CA" group-title="Entertainment",MTV Reality (United States) CA
+https://jmp2.uk/plu-64f89fcfd661bb00081ba45c.m3u8
+#EXTINF:-1 tvg-name="MTV Reality (United States) LatAm" group-title="Entertainment",MTV Reality (United States) LatAm
+https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8
+#EXTINF:-1 tvg-name="MTV Ridiculousness" group-title="Entertainment",MTV Ridiculousness
+https://jmp2.uk/plu-68641eb4852dfe78698c3390.m3u8
+#EXTINF:-1 tvg-name="MTV Ridiculousness (Sweden) DK" group-title="Entertainment",MTV Ridiculousness (Sweden) DK
+https://jmp2.uk/plu-62cd9641393d8400076f34db.m3u8
+#EXTINF:-1 tvg-name="MTV Ridiculousness (United States) LatAm" group-title="Entertainment",MTV Ridiculousness (United States) LatAm
+https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8
+#EXTINF:-1 tvg-name="MTV Ridiculousness (Sweden) NO" group-title="Entertainment",MTV Ridiculousness (Sweden) NO
+https://jmp2.uk/plu-62cd9e0d10bb020007005628.m3u8
+#EXTINF:-1 tvg-name="MTV Ridiculousness (Sweden)" group-title="Entertainment",MTV Ridiculousness (Sweden)
+https://jmp2.uk/plu-62cda0dfddc1040008fccacc.m3u8
+#EXTINF:-1 tvg-name="MTV Ridiculousness (United States) CA" group-title="Entertainment",MTV Ridiculousness (United States) CA
+https://jmp2.uk/plu-64f9cccf110545000837912e.m3u8
 #EXTINF:-1 tvg-name="MTV Rocks" group-title="Entertainment",MTV Rocks
 https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
-#EXTINF:-1 tvg-name="MTV Rupaul's Drag Race" group-title="Entertainment",MTV Rupaul's Drag Race
+#EXTINF:-1 tvg-name="MTV Rocks LatAm" group-title="Entertainment",MTV Rocks LatAm
+https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
+#EXTINF:-1 tvg-name="MTV Drag" group-title="Entertainment",MTV Drag
 https://jmp2.uk/plu-645111f1d8436e00081bb2bd.m3u8
-#EXTINF:-1 tvg-name="MTV Rupaul's Drag Race Untucked" group-title="Entertainment",MTV Rupaul's Drag Race Untucked
+#EXTINF:-1 tvg-name="MTV Drag LatAm" group-title="Entertainment",MTV Drag LatAm
 https://jmp2.uk/plu-64510d3ad3fdde00080951f2.m3u8
 #EXTINF:-1 tvg-name="MTV Shore" group-title="Entertainment",MTV Shore
 https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8
 #EXTINF:-1 tvg-name="MTV Tattoo a dos" group-title="Entertainment",MTV Tattoo a dos
 https://jmp2.uk/plu-611b87946b7f420007c22361.m3u8
-#EXTINF:-1 tvg-name="MTV Vergüenza ajena" group-title="Entertainment",MTV Vergüenza ajena
+#EXTINF:-1 tvg-name="MTV Teen Mom (Sweden) DK" group-title="Entertainment",MTV Teen Mom (Sweden) DK
+https://jmp2.uk/plu-61c092157e1b8b0007372a35.m3u8
+#EXTINF:-1 tvg-name="MTV Teen Mom (Germany) ES" group-title="Entertainment",MTV Teen Mom (Germany) ES
+https://jmp2.uk/plu-604f81a49ef73300070e554f.m3u8
+#EXTINF:-1 tvg-name="MTV Teen Mom (United States)" group-title="Series",MTV Teen Mom (United States)
+https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8
+#EXTINF:-1 tvg-name="MTV Teen Mom (Sweden) NO" group-title="Entertainment",MTV Teen Mom (Sweden) NO
+https://jmp2.uk/plu-61c1df62b7672a0007b6c9ba.m3u8
+#EXTINF:-1 tvg-name="MTV Teen Mom (Sweden)" group-title="Entertainment",MTV Teen Mom (Sweden)
+https://jmp2.uk/plu-61c09342b3a6230007a45119.m3u8
+#EXTINF:-1 tvg-name="MTV Verguenza ajena" group-title="Entertainment",MTV Verguenza ajena
 https://jmp2.uk/plu-63eb9495a8b227000841bf64.m3u8
-#EXTINF:-1 tvg-name="NCIS" group-title="Series",NCIS
+#EXTINF:-1 tvg-name="NCIS (United States)" group-title="Series",NCIS (United States)
 https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
+#EXTINF:-1 tvg-name="NCIS (United States) CA" group-title="Series",NCIS (United States) CA
+https://jmp2.uk/plu-62f4f5de1c100100075665ef.m3u8
+#EXTINF:-1 tvg-name="NCIS (Sweden)" group-title="Series",NCIS (Sweden)
+https://jmp2.uk/plu-6319ec31c62c3f00075c90b1.m3u8
+#EXTINF:-1 tvg-name="NCIS (United States) LatAm" group-title="Series",NCIS (United States) LatAm
+https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8
 #EXTINF:-1 tvg-name="NCIS: Det bedste med Gibbs" group-title="Series",NCIS: Det bedste med Gibbs
 https://jmp2.uk/plu-6901d952ec12c3c759fdc7cd.m3u8
 #EXTINF:-1 tvg-name="NCIS: Det bedste med Tony & Ziva" group-title="Series",NCIS: Det bedste med Tony & Ziva
 https://jmp2.uk/plu-68921b2f4fa995eff24df6c8.m3u8
-#EXTINF:-1 tvg-name="NCIS: Los Angeles" group-title="Series",NCIS: Los Angeles
+#EXTINF:-1 tvg-name="NCIS: Los Angeles (United States)" group-title="Series",NCIS: Los Angeles (United States)
 https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon iCarly" group-title="Series",Nickelodeon iCarly
+#EXTINF:-1 tvg-name="NCIS: Los Angeles (Sweden)" group-title="Series",NCIS: Los Angeles (Sweden)
+https://jmp2.uk/plu-66fbf4d3d7de140008d41f5b.m3u8
+#EXTINF:-1 tvg-name="iCarly (United States)" group-title="Series",iCarly (United States)
 https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
+#EXTINF:-1 tvg-name="iCarly (United States) LatAm" group-title="Series",iCarly (United States) LatAm
+https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
 #EXTINF:-1 tvg-name="Nordisk krim fra Viaplay" group-title="Series",Nordisk krim fra Viaplay
 https://jmp2.uk/plu-64eca23c9c1e390008524ae6.m3u8
-#EXTINF:-1 tvg-name="Numb3rs" group-title="Series",Numb3rs
+#EXTINF:-1 tvg-name="Nosey UK" group-title="Series",Nosey UK
+https://jmp2.uk/plu-5dc2ba1a9c91420009db4858.m3u8
+#EXTINF:-1 tvg-name="Numb3rs NO" group-title="Series",Numb3rs NO
 https://jmp2.uk/plu-63dbe78051f5d000083e9249.m3u8
-#EXTINF:-1 tvg-name="Numbers" group-title="Series",Numbers
+#EXTINF:-1 tvg-name="Numb3rs" group-title="Series",Numb3rs
+https://jmp2.uk/plu-63dbe8a1c111bc0008dec8b8.m3u8
+#EXTINF:-1 tvg-name="Numbers (United States)" group-title="Series",Numbers (United States)
 https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8
-#EXTINF:-1 tvg-name="Números" group-title="Series",Números
+#EXTINF:-1 tvg-name="Numbers (Sweden)" group-title="Series",Numbers (Sweden)
+https://jmp2.uk/plu-62bebb3a67307900077a7f9d.m3u8
+#EXTINF:-1 tvg-name="Numeros" group-title="Series",Numeros
 https://jmp2.uk/plu-67f960680072d6b187a0682e.m3u8
-#EXTINF:-1 tvg-name="Paradise" group-title="Entertainment",Paradise
+#EXTINF:-1 tvg-name="Paradise DK" group-title="Entertainment",Paradise DK
 https://jmp2.uk/plu-629e095e511d4b00070c9f44.m3u8
-#EXTINF:-1 tvg-name="Paradise Hotel" group-title="Entertainment",Paradise Hotel
+#EXTINF:-1 tvg-name="Paradise" group-title="Entertainment",Paradise
+https://jmp2.uk/plu-6380c73f76e43f000721f73b.m3u8
+#EXTINF:-1 tvg-name="Paradise Hotel DK" group-title="Entertainment",Paradise Hotel DK
 https://jmp2.uk/plu-61c19af83fae0a00078c8918.m3u8
+#EXTINF:-1 tvg-name="Paradise Hotel NO" group-title="Entertainment",Paradise Hotel NO
+https://jmp2.uk/plu-61c1db901346480007b7c345.m3u8
+#EXTINF:-1 tvg-name="Paradise Hotel" group-title="Entertainment",Paradise Hotel
+https://jmp2.uk/plu-61c18e1e0cd4cc00076bc4b3.m3u8
 #EXTINF:-1 tvg-name="Paradise Hotel: Under lagnerne" group-title="Entertainment",Paradise Hotel: Under lagnerne
 https://jmp2.uk/plu-662b71658dd8160008fc3abf.m3u8
-#EXTINF:-1 tvg-name="Pimp My Ride" group-title="Entertainment",Pimp My Ride
+#EXTINF:-1 tvg-name="Perry Mason (United States) CA" group-title="Series",Perry Mason (United States) CA
+https://jmp2.uk/plu-63e20bd160bc8f0008b4c949.m3u8
+#EXTINF:-1 tvg-name="Pimp My Ride DK" group-title="Entertainment",Pimp My Ride DK
 https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8
+#EXTINF:-1 tvg-name="Pimp My Ride NO" group-title="Entertainment",Pimp My Ride NO
+https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8
+#EXTINF:-1 tvg-name="Pimp My Ride" group-title="Entertainment",Pimp My Ride
+https://jmp2.uk/plu-61c09a3894aa450007814aea.m3u8
 #EXTINF:-1 tvg-name="Pluto Classic Movie Westerns" group-title="Movies;Series",Pluto Classic Movie Westerns
 https://jmp2.uk/plu-66dad50215d2c60008d7afbd.m3u8
 #EXTINF:-1 tvg-name="Pluto TV 80's Action" group-title="Movies;Series",Pluto TV 80's Action
@@ -1918,7 +2230,15 @@ https://jmp2.uk/plu-66d717c6abec540008ba7eb5.m3u8
 https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
 #EXTINF:-1 tvg-name="Pluto TV 2010's Classics" group-title="Movies;Series",Pluto TV 2010's Classics
 https://jmp2.uk/plu-66b498bc14a2bb00086965bc.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Adventure" group-title="Entertainment;Outdoor;Series",Pluto TV Adventure
+#EXTINF:-1 tvg-name="Pluto TV Action (Germany)" group-title="Movies;Series",Pluto TV Action (Germany)
+https://jmp2.uk/plu-65004605110545000842035d.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Action (Sweden) DK" group-title="Movies;Series",Pluto TV Action (Sweden) DK
+https://jmp2.uk/plu-61c095861782bd000780e0ba.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Action (Sweden) NO" group-title="Movies;Series",Pluto TV Action (Sweden) NO
+https://jmp2.uk/plu-61c1e270489a9c000874d209.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Action (Sweden)" group-title="Movies;Series",Pluto TV Action (Sweden)
+https://jmp2.uk/plu-61c0b0688a80a4000703fbcb.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Adventure CA" group-title="Entertainment;Outdoor;Series",Pluto TV Adventure CA
 https://jmp2.uk/plu-653bdb0fbdf3cf00089cc395.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Aliens" group-title="Documentary;Series",Pluto TV Aliens
 https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8
@@ -1952,19 +2272,27 @@ https://jmp2.uk/plu-65bd0f53dc10a40008e68b96.m3u8
 https://jmp2.uk/plu-66b0dfa1d512590008bfa7fd.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Historische Serien" group-title="Series",Pluto TV Historische Serien
 https://jmp2.uk/plu-68ada3395190a45dc9c445cf.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Horror (Sweden) DK" group-title="Movies;Series",Pluto TV Horror (Sweden) DK
+https://jmp2.uk/plu-63a1c9790cc44a0007dc8857.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Horror (Sweden) NO" group-title="Movies;Series",Pluto TV Horror (Sweden) NO
+https://jmp2.uk/plu-63a19cb7847a090007f230d7.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Horror (Sweden)" group-title="Movies;Series",Pluto TV Horror (Sweden)
+https://jmp2.uk/plu-63a19e1b9ab2df0007bef7a7.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Horror-Serien" group-title="Series",Pluto TV Horror-Serien
 https://jmp2.uk/plu-67ff7d9c7fc25e0e72451bc9.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Impacto" group-title="Entertainment",Pluto TV Impacto
 https://jmp2.uk/plu-68adc697116b783a33f99e6c.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Inside" group-title="Entertainment",Pluto TV Inside
 https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Investiga" group-title="Series",Pluto TV Investiga
+#EXTINF:-1 tvg-name="Investiga" group-title="Series",Investiga
 https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8
 #EXTINF:-1 tvg-name="Pluto TV K-Drama" group-title="Series",Pluto TV K-Drama
 https://jmp2.uk/plu-6475bfec536e0c0008858e9f.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Nordic Crime" group-title="Series",Pluto TV Nordic Crime
 https://jmp2.uk/plu-67d984408d8dc3d7754dccf2.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Novelas de México" group-title="Series",Pluto TV Novelas de México
+#EXTINF:-1 tvg-name="Pluto TV Novelas LatAm" group-title="Series",Pluto TV Novelas LatAm
+https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Novelas de Mexico" group-title="Series",Pluto TV Novelas de Mexico
 https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Novelas de Otros Continentes" group-title="Series",Pluto TV Novelas de Otros Continentes
 https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8
@@ -1974,25 +2302,55 @@ https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
 https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Polizeiserien" group-title="Series",Pluto TV Polizeiserien
 https://jmp2.uk/plu-64be64445dc166000899ce75.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Sci-fi" group-title="Movies;Series",Pluto TV Sci-fi
+#EXTINF:-1 tvg-name="Pluto TV Reality (United States) CA" group-title="Entertainment",Pluto TV Reality (United States) CA
+https://jmp2.uk/plu-67922858b83355184c699699.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Reality (Germany) FR" group-title="Entertainment",Pluto TV Reality (Germany) FR
+https://jmp2.uk/plu-6092544e7639460007d4835e.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Reality (United States) LatAm" group-title="Entertainment",Pluto TV Reality (United States) LatAm
+https://jmp2.uk/plu-5dcde197f6591d0009839e04.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Romance (Germany) DACH" group-title="Movies;Series",Pluto TV Romance (Germany) DACH
+https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Sci-Fi (United States) CA" group-title="Movies;Series",Pluto TV Sci-Fi (United States) CA
 https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Sci-Fi (Germany)" group-title="Movies;Series",Pluto TV Sci-Fi (Germany)
+https://jmp2.uk/plu-60ed498c4248a400077c0b9d.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Sci-Fi (Sweden) DK" group-title="Movies;Series",Pluto TV Sci-Fi (Sweden) DK
+https://jmp2.uk/plu-61f9598588f86000078ee7d6.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Sci-Fi (Germany) ES" group-title="Movies;Series",Pluto TV Sci-Fi (Germany) ES
+https://jmp2.uk/plu-5f6a38eaa5b68b0007a00e7a.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Sci-Fi (Germany) IT" group-title="Movies;Series",Pluto TV Sci-Fi (Germany) IT
+https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Sci-Fi (United States) LatAm" group-title="Movies;Series",Pluto TV Sci-Fi (United States) LatAm
+https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Sci-Fi (Sweden) NO" group-title="Movies;Series",Pluto TV Sci-Fi (Sweden) NO
+https://jmp2.uk/plu-61f957e051cca800076f2358.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Sci-Fi (Sweden)" group-title="Movies;Series",Pluto TV Sci-Fi (Sweden)
+https://jmp2.uk/plu-61f9597e78607000074f6c2a.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Sci-Fi (Germany) GB" group-title="Movies;Series",Pluto TV Sci-Fi (Germany) GB
+https://jmp2.uk/plu-5dc02a44a9518600094273ac.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Sci-Fi (United States)" group-title="Movies;Series",Pluto TV Sci-Fi (United States)
+https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Sci-fi Series" group-title="Series",Pluto TV Sci-fi Series
 https://jmp2.uk/plu-619247c34a270700077c8415.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Serie" group-title="Series",Pluto TV Serie
 https://jmp2.uk/plu-5dc190f7bfed110009d934c3.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Serie IT" group-title="Series",Pluto TV Serie IT
+https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Serie Crime" group-title="Series",Pluto TV Serie Crime
 https://jmp2.uk/plu-608aa777b907770007e5d05d.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Series" group-title="Series",Pluto TV Series
+#EXTINF:-1 tvg-name="Pluto TV Series (Germany)" group-title="Series",Pluto TV Series (Germany)
 https://jmp2.uk/plu-5f1ac8f49205650007bc15f1.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Séries Ação" group-title="Series",Pluto TV Séries Ação
+#EXTINF:-1 tvg-name="Pluto TV Series (United States)" group-title="Series",Pluto TV Series (United States)
+https://jmp2.uk/plu-5dcde1317578340009b751d0.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Series Acao" group-title="Series",Pluto TV Series Acao
 https://jmp2.uk/plu-6474ab1da51cb80008bfb5f4.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Séries Comédia" group-title="Comedy;Series",Pluto TV Séries Comédia
+#EXTINF:-1 tvg-name="Pluto TV Series Comedia" group-title="Comedy;Series",Pluto TV Series Comedia
 https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Séries Criminais" group-title="Series",Pluto TV Séries Criminais
+#EXTINF:-1 tvg-name="Pluto TV Series Criminais" group-title="Series",Pluto TV Series Criminais
 https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Series criminales" group-title="Series",Pluto TV Series criminales
 https://jmp2.uk/plu-65cf6ab58145cb0008129ca8.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Series de Acción" group-title="Series",Pluto TV Series de Acción
+#EXTINF:-1 tvg-name="Pluto TV Series de Accion" group-title="Series",Pluto TV Series de Accion
 https://jmp2.uk/plu-6479ff1c17f5e10008ad2797.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Series de Comedia" group-title="Series",Pluto TV Series de Comedia
 https://jmp2.uk/plu-655f626d57fe4a00085c7c3e.m3u8
@@ -2004,63 +2362,105 @@ https://jmp2.uk/plu-655f636d954b020008c93299.m3u8
 https://jmp2.uk/plu-6806d570c178637410ae4962.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Series de Sci-Fi" group-title="Series",Pluto TV Series de Sci-Fi
 https://jmp2.uk/plu-65662f8a2c46f300088a84cc.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Séries Drama" group-title="Series",Pluto TV Séries Drama
+#EXTINF:-1 tvg-name="Pluto TV Series Drama" group-title="Series",Pluto TV Series Drama
 https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Séries Fantastiques" group-title="Series",Pluto TV Séries Fantastiques
+#EXTINF:-1 tvg-name="Pluto TV Series Fantastiques" group-title="Series",Pluto TV Series Fantastiques
 https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Series Latinas" group-title="Series",Pluto TV Series Latinas
 https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Séries Novelescas" group-title="Series",Pluto TV Séries Novelescas
+#EXTINF:-1 tvg-name="Pluto TV Series Novelescas" group-title="Series",Pluto TV Series Novelescas
 https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Series Sci-Fi" group-title="Series",Pluto TV Series Sci-Fi
+#EXTINF:-1 tvg-name="Pluto TV Series Sci-Fi (Germany)" group-title="Series",Pluto TV Series Sci-Fi (Germany)
 https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Séries Sci-Fi" group-title="Series",Pluto TV Séries Sci-Fi
+#EXTINF:-1 tvg-name="Pluto TV Series Sci-Fi (United States)" group-title="Series",Pluto TV Series Sci-Fi (United States)
 https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Shore" group-title="Entertainment",Pluto TV Shore
 https://jmp2.uk/plu-67e3b0d2443f0671bc8a1297.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Star Trek" group-title="Series",Pluto TV Star Trek
+#EXTINF:-1 tvg-name="Star Trek" group-title="Series",Star Trek
 https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Star Trek (Germany)" group-title="Movies;Series",Pluto TV Star Trek (Germany)
+https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Star Trek (Sweden)" group-title="Movies;Series",Pluto TV Star Trek (Sweden)
+https://jmp2.uk/plu-61c1979dfa307000070bbe4d.m3u8
+#EXTINF:-1 tvg-name="Star Trek LatAm" group-title="Series",Star Trek LatAm
+https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Telenovelas" group-title="Series",Pluto TV Telenovelas
 https://jmp2.uk/plu-60b4c06717da110007ee1af6.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Telenovelas Clásicas" group-title="Series",Pluto TV Telenovelas Clásicas
+#EXTINF:-1 tvg-name="Pluto TV Telenovelas Clasicas" group-title="Series",Pluto TV Telenovelas Clasicas
 https://jmp2.uk/plu-662a69daa0a74e00087a1c72.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Wild West" group-title="Movies;Series",Pluto TV Wild West
+#EXTINF:-1 tvg-name="Pluto TV True Crime (United States) CA" group-title="Documentary;Series",Pluto TV True Crime (United States) CA
+https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8
+#EXTINF:-1 tvg-name="Pluto TV True Crime (Sweden) DK" group-title="Documentary;Series",Pluto TV True Crime (Sweden) DK
+https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8
+#EXTINF:-1 tvg-name="Pluto TV True Crime (Germany) ES" group-title="Documentary;Series",Pluto TV True Crime (Germany) ES
+https://jmp2.uk/plu-64a3f200f238ce0008d47247.m3u8
+#EXTINF:-1 tvg-name="Pluto TV True Crime (Germany) IT" group-title="Documentary;Series",Pluto TV True Crime (Germany) IT
+https://jmp2.uk/plu-66d9ab4bf0f17500084e9b7e.m3u8
+#EXTINF:-1 tvg-name="Pluto TV True Crime (Sweden) NO" group-title="Documentary;Series",Pluto TV True Crime (Sweden) NO
+https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8
+#EXTINF:-1 tvg-name="Pluto TV True Crime (Sweden)" group-title="Documentary;Series",Pluto TV True Crime (Sweden)
+https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Wild West DK" group-title="Movies;Series",Pluto TV Wild West DK
 https://jmp2.uk/plu-68c01732b3900870ec74766f.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Wild West NO" group-title="Movies;Series",Pluto TV Wild West NO
+https://jmp2.uk/plu-68c01785b3900870ec7480e4.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Wild West" group-title="Movies;Series",Pluto TV Wild West
+https://jmp2.uk/plu-68c017bf337652ee75db201f.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Zombies" group-title="Movies;Series",Pluto TV Zombies
 https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
-#EXTINF:-1 tvg-name="Rawhide" group-title="Movies;Series",Rawhide
+#EXTINF:-1 tvg-name="Rawhide (United States) CA" group-title="Movies;Series",Rawhide (United States) CA
 https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8
-#EXTINF:-1 tvg-name="Ridiculousness Nya avsnitt" group-title="Entertainment",Ridiculousness Nya avsnitt
+#EXTINF:-1 tvg-name="Rawhide (United States)" group-title="Movies;Series",Rawhide (United States)
+https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8
+#EXTINF:-1 tvg-name="Ridiculousness: Nya avsnitt" group-title="Entertainment",Ridiculousness: Nya avsnitt
 https://jmp2.uk/plu-68dfa1e7fae18f8db6218703.m3u8
-#EXTINF:-1 tvg-name="Ridiculousness Nye afsnit" group-title="Entertainment",Ridiculousness Nye afsnit
+#EXTINF:-1 tvg-name="Ridiculousness: Nye afsnit" group-title="Entertainment",Ridiculousness: Nye afsnit
 https://jmp2.uk/plu-68dfa160cc3c6cd90404d798.m3u8
-#EXTINF:-1 tvg-name="Ridiculousness Nye episoder" group-title="Entertainment",Ridiculousness Nye episoder
+#EXTINF:-1 tvg-name="Ridiculousness: Nye episoder" group-title="Entertainment",Ridiculousness: Nye episoder
 https://jmp2.uk/plu-68dfa1a7fae18f8db6218222.m3u8
 #EXTINF:-1 tvg-name="Robinson Ekspeditionen" group-title="Entertainment",Robinson Ekspeditionen
 https://jmp2.uk/plu-63a42df60cc44a0007dd47f8.m3u8
 #EXTINF:-1 tvg-name="S.W.A.T." group-title="Series",S.W.A.T.
 https://jmp2.uk/plu-65033c4b98020f0008547124.m3u8
-#EXTINF:-1 tvg-name="Sanctuary" group-title="Series",Sanctuary
+#EXTINF:-1 tvg-name="Pluto TV Sanctuary" group-title="Series",Pluto TV Sanctuary
 https://jmp2.uk/plu-63eb57d6c111bc0008fe2658.m3u8
-#EXTINF:-1 tvg-name="Scorpion" group-title="Series",Scorpion
+#EXTINF:-1 tvg-name="Scorpion (Sweden) DK" group-title="Series",Scorpion (Sweden) DK
 https://jmp2.uk/plu-63a1caefc8d285000799e8af.m3u8
+#EXTINF:-1 tvg-name="Scorpion (Sweden) NO" group-title="Series",Scorpion (Sweden) NO
+https://jmp2.uk/plu-63a1c959d9dd51000825d659.m3u8
+#EXTINF:-1 tvg-name="Scorpion (Sweden)" group-title="Series",Scorpion (Sweden)
+https://jmp2.uk/plu-63a1c9c2847a090007f248da.m3u8
+#EXTINF:-1 tvg-name="Scorpion (Germany)" group-title="Series",Scorpion (Germany)
+https://jmp2.uk/plu-63d000ef4e83e700086e0d6c.m3u8
 #EXTINF:-1 tvg-name="Series by Pluto TV" group-title="Series",Series by Pluto TV
 https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8
-#EXTINF:-1 tvg-name="Sin Tetas No Hay Paraíso" group-title="Series",Sin Tetas No Hay Paraíso
+#EXTINF:-1 tvg-name="Sin tetas no hay paraiso" group-title="Series",Sin tetas no hay paraiso
 https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
-#EXTINF:-1 tvg-name="Skjønnhetsfellen Danmark" group-title="Series",Skjønnhetsfellen Danmark
+#EXTINF:-1 tvg-name="Skjonnhetsfellen Danmark" group-title="Series",Skjonnhetsfellen Danmark
 https://jmp2.uk/plu-643810f2e8a4aa0008ccf575.m3u8
-#EXTINF:-1 tvg-name="Skönhetsfällan Danmark" group-title="Entertainment",Skönhetsfällan Danmark
+#EXTINF:-1 tvg-name="Skonhetsfallan Danmark" group-title="Entertainment",Skonhetsfallan Danmark
 https://jmp2.uk/plu-643808dce0789d00084797f6.m3u8
 #EXTINF:-1 tvg-name="Star Trek: Deep Space Nine" group-title="Movies;Series",Star Trek: Deep Space Nine
 https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
 #EXTINF:-1 tvg-name="Star Trek: The Next Generation" group-title="Movies;Series",Star Trek: The Next Generation
 https://jmp2.uk/plu-65786b94cbd0d60008f7e4d9.m3u8
-#EXTINF:-1 tvg-name="Star Trek: The Original Series" group-title="Movies;Series",Star Trek: The Original Series
+#EXTINF:-1 tvg-name="Star Trek: The Next Generation (United States)" group-title="Movies;Series",Star Trek: The Next Generation (United States)
+https://jmp2.uk/plu-695c32e61ca20bb8ca802eb9.m3u8
+#EXTINF:-1 tvg-name="Star Trek: The Original Series (Sweden) DK" group-title="Movies;Series",Star Trek: The Original Series (Sweden) DK
 https://jmp2.uk/plu-693add137e308621c051e733.m3u8
-#EXTINF:-1 tvg-name="Star Trek: Voyager" group-title="Movies;Series",Star Trek: Voyager
+#EXTINF:-1 tvg-name="Star Trek: The Original Series" group-title="Movies;Series",Star Trek: The Original Series
+https://jmp2.uk/plu-67b4b3c51a5ca760802cc1c7.m3u8
+#EXTINF:-1 tvg-name="Star Trek: The Original Series (Sweden) NO" group-title="Movies;Series",Star Trek: The Original Series (Sweden) NO
+https://jmp2.uk/plu-693addd62bf6cf7414c4b2fc.m3u8
+#EXTINF:-1 tvg-name="Star Trek: The Original Series (Sweden)" group-title="Movies;Series",Star Trek: The Original Series (Sweden)
+https://jmp2.uk/plu-693ade4d569386f93f235bb6.m3u8
+#EXTINF:-1 tvg-name="Star Trek: Voyager (Germany)" group-title="Movies;Series",Star Trek: Voyager (Germany)
 https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
-#EXTINF:-1 tvg-name="Storage Wars by A&E" group-title="Series",Storage Wars by A&E
+#EXTINF:-1 tvg-name="Star Trek: Voyager (Germany) IT" group-title="Movies;Series",Star Trek: Voyager (Germany) IT
+https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
+#EXTINF:-1 tvg-name="Star Trek: Voyager (United States)" group-title="Movies;Series",Star Trek: Voyager (United States)
+https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Storage Wars" group-title="Series",Pluto TV Storage Wars
 https://jmp2.uk/plu-6887aaf4e3703b7d42b71a1e.m3u8
 #EXTINF:-1 tvg-name="Supernatural Drama" group-title="Series",Supernatural Drama
 https://jmp2.uk/plu-5f24662bebe0f0000767de32.m3u8
@@ -2068,49 +2468,91 @@ https://jmp2.uk/plu-5f24662bebe0f0000767de32.m3u8
 https://jmp2.uk/plu-61c1921610d254000727eebd.m3u8
 #EXTINF:-1 tvg-name="Svenska Truckers" group-title="Entertainment",Svenska Truckers
 https://jmp2.uk/plu-61f128f68a1dfc00086470af.m3u8
-#EXTINF:-1 tvg-name="Svenske Truckers" group-title="Entertainment",Svenske Truckers
+#EXTINF:-1 tvg-name="Svenska Truckers NO" group-title="Entertainment",Svenska Truckers NO
 https://jmp2.uk/plu-645cc855e1979c000875ee47.m3u8
-#EXTINF:-1 tvg-name="The Daily Show" group-title="Entertainment",The Daily Show
+#EXTINF:-1 tvg-name="Teen Mom (Germany) FR" group-title="Entertainment",Teen Mom (Germany) FR
+https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8
+#EXTINF:-1 tvg-name="Teen Mom (Germany)" group-title="Entertainment",Teen Mom (Germany)
+https://jmp2.uk/plu-62e7fc8c0d061100083946a9.m3u8
+#EXTINF:-1 tvg-name="The Challenge CA" group-title="Series",The Challenge CA
+https://jmp2.uk/plu-64f8a22a3efb510008245df0.m3u8
+#EXTINF:-1 tvg-name="The Daily Show DK" group-title="Entertainment",The Daily Show DK
 https://jmp2.uk/plu-65c096d23ba51e0008305a75.m3u8
+#EXTINF:-1 tvg-name="The Daily Show NO" group-title="Entertainment",The Daily Show NO
+https://jmp2.uk/plu-65c0973311ced7000808d255.m3u8
+#EXTINF:-1 tvg-name="The Daily Show" group-title="Entertainment",The Daily Show
+https://jmp2.uk/plu-65c0978360eb870008bc9d5b.m3u8
 #EXTINF:-1 tvg-name="The Good Wife" group-title="Series",The Good Wife
 https://jmp2.uk/plu-685a995b460ac82fa504342c.m3u8
-#EXTINF:-1 tvg-name="The Hills" group-title="Entertainment",The Hills
+#EXTINF:-1 tvg-name="MTV The Hills DK" group-title="Entertainment",MTV The Hills DK
 https://jmp2.uk/plu-61c09039ebd75200072587f9.m3u8
+#EXTINF:-1 tvg-name="MTV The Hills NO" group-title="Entertainment",MTV The Hills NO
+https://jmp2.uk/plu-61c1d56f28e94c0007827bdb.m3u8
+#EXTINF:-1 tvg-name="MTV The Hills" group-title="Entertainment",MTV The Hills
+https://jmp2.uk/plu-61c08d7c73bdb800070eef0a.m3u8
+#EXTINF:-1 tvg-name="The Judge Judy Channel CA" group-title="Series",The Judge Judy Channel CA
+https://jmp2.uk/plu-62e92e536f28870007fa9b3a.m3u8
 #EXTINF:-1 tvg-name="The L Word – Wenn Frauen lieben" group-title="Series",The L Word – Wenn Frauen lieben
 https://jmp2.uk/plu-68d2759a59fd82da3226492d.m3u8
-#EXTINF:-1 tvg-name="The Price is Right: The Barker Era" group-title="Entertainment",The Price is Right: The Barker Era
+#EXTINF:-1 tvg-name="The New Detectives (United States) CA" group-title="Series",The New Detectives (United States) CA
+https://jmp2.uk/plu-62bdabbc5611f2000761ca30.m3u8
+#EXTINF:-1 tvg-name="The New Detectives (Sweden) DK" group-title="Series",The New Detectives (Sweden) DK
+https://jmp2.uk/plu-618147d2a814250007b42916.m3u8
+#EXTINF:-1 tvg-name="The New Detectives (United States) LatAm" group-title="Series",The New Detectives (United States) LatAm
+https://jmp2.uk/plu-5ea71d48af1d0b0007d837f4.m3u8
+#EXTINF:-1 tvg-name="The New Detectives (Sweden) NO" group-title="Series",The New Detectives (Sweden) NO
+https://jmp2.uk/plu-6181511c1e13690007b143c2.m3u8
+#EXTINF:-1 tvg-name="The New Detectives (Sweden)" group-title="Series",The New Detectives (Sweden)
+https://jmp2.uk/plu-61814dd68a368d0007d78c53.m3u8
+#EXTINF:-1 tvg-name="The Price Is Right CA" group-title="Entertainment",The Price Is Right CA
+https://jmp2.uk/plu-64c2214c2a7f2200089a0c4b.m3u8
+#EXTINF:-1 tvg-name="The Price Is Right: The Barker Era" group-title="Entertainment",The Price Is Right: The Barker Era
 https://jmp2.uk/plu-64c220e15dc1660008a79c96.m3u8
-#EXTINF:-1 tvg-name="The Wild Wild West" group-title="Movies;Series",The Wild Wild West
+#EXTINF:-1 tvg-name="The Twilight Zone DK" group-title="Movies;Series",The Twilight Zone DK
+https://jmp2.uk/plu-6512ec9f3a0d700008db4f0c.m3u8
+#EXTINF:-1 tvg-name="The Twilight Zone NO" group-title="Movies;Series",The Twilight Zone NO
+https://jmp2.uk/plu-6512d3a0bdcb19000799cc82.m3u8
+#EXTINF:-1 tvg-name="The Twilight Zone" group-title="Movies;Series",The Twilight Zone
+https://jmp2.uk/plu-6512d6c92ce8e40008bd5c81.m3u8
+#EXTINF:-1 tvg-name="The Wild Wild West (United States)" group-title="Movies;Series",The Wild Wild West (United States)
 https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
 #EXTINF:-1 tvg-name="The Yellow Couch with Jeremy Lynch" group-title="Entertainment",The Yellow Couch with Jeremy Lynch
 https://jmp2.uk/plu-68e8ffee9d1d49e672fe790f.m3u8
+#EXTINF:-1 tvg-name="Three's Company CA" group-title="Series",Three's Company CA
+https://jmp2.uk/plu-64ca723a2bc49300081a8966.m3u8
 #EXTINF:-1 tvg-name="Til julefrokost hos r8Dio" group-title="Entertainment",Til julefrokost hos r8Dio
 https://jmp2.uk/plu-69256bd7db5cc2f81d8a1a08.m3u8
-#EXTINF:-1 tvg-name="Tosh.0" group-title="Series",Tosh.0
+#EXTINF:-1 tvg-name="Tosh.0 (United States)" group-title="Series",Tosh.0 (United States)
 https://jmp2.uk/plu-5dae084727c8af0009fe40a4.m3u8
 #EXTINF:-1 tvg-name="Tough Jobs" group-title="Entertainment",Tough Jobs
 https://jmp2.uk/plu-65c69bf23ef47d0008583967.m3u8
-#EXTINF:-1 tvg-name="Tout le monde déteste Chris" group-title="Series",Tout le monde déteste Chris
+#EXTINF:-1 tvg-name="Tout le monde deteste Chris" group-title="Series",Tout le monde deteste Chris
 https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8
 #EXTINF:-1 tvg-name="True Crime by Pluto TV" group-title="Series",True Crime by Pluto TV
 https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8
-#EXTINF:-1 tvg-name="True crime från Viaplay" group-title="Series",True crime från Viaplay
+#EXTINF:-1 tvg-name="True crime fran Viaplay" group-title="Series",True crime fran Viaplay
 https://jmp2.uk/plu-645cb7857cb4b1000859c57c.m3u8
 #EXTINF:-1 tvg-name="Turbo" group-title="Entertainment",Turbo
 https://jmp2.uk/plu-66f55c3955567d0008ef9b68.m3u8
-#EXTINF:-1 tvg-name="TV Grande Natal" group-title="Entertainment",TV Grande Natal
+#EXTINF:-1 tvg-name="TV GRANDE NATAL TV BRASIL" group-title="Entertainment",TV GRANDE NATAL TV BRASIL
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
-#EXTINF:-1 tvg-name="Unga Mammor" group-title="Series",Unga Mammor
+#EXTINF:-1 tvg-name="Unga Mammor NO" group-title="Series",Unga Mammor NO
 https://jmp2.uk/plu-61c1e1c445b45d0007aad03e.m3u8
+#EXTINF:-1 tvg-name="Unga Mammor" group-title="Series",Unga Mammor
+https://jmp2.uk/plu-61c1900995f417000731a002.m3u8
 #EXTINF:-1 tvg-name="VH1 Queens of Reality" group-title="Entertainment",VH1 Queens of Reality
 https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8
 #EXTINF:-1 tvg-name="Walker Texas Ranger" group-title="Series",Walker Texas Ranger
 https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8
-#EXTINF:-1 tvg-name="Wildfire" group-title="Series",Wildfire
+#EXTINF:-1 tvg-name="Wildfire DK" group-title="Series",Wildfire DK
 https://jmp2.uk/plu-62b9b63d3bbe9000073c0a2d.m3u8
-#EXTINF:-1 tvg-name="Wipeout" group-title="Series",Wipeout
+#EXTINF:-1 tvg-name="Wildfire NO" group-title="Series",Wildfire NO
+https://jmp2.uk/plu-62beb7d7fbf54600076abc7b.m3u8
+#EXTINF:-1 tvg-name="Wildfire" group-title="Series",Wildfire
+https://jmp2.uk/plu-62beb0de371e6c000775930c.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Wipeout" group-title="Series",Pluto TV Wipeout
 https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8
-#EXTINF:-1 tvg-name="Y'a que la vérité qui compte" group-title="Entertainment",Y'a que la vérité qui compte
+#EXTINF:-1 tvg-name="Y'a que la verite qui compte" group-title="Entertainment",Y'a que la verite qui compte
 https://jmp2.uk/plu-612e044c970e6f00083bcf3b.m3u8
 #EXTINF:-1 tvg-name="Z Nation" group-title="Series",Z Nation
 https://jmp2.uk/plu-66b3af48d2d50d00083d6936.m3u8
@@ -2148,7 +2590,7 @@ http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/15235/index.m3u8
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/17056/index.m3u8
 #EXTINF:-1 tvg-name="AXN White" group-title="Entertainment",AXN White
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6950/index.m3u8
-#EXTINF:-1 tvg-name="Fox" group-title="Entertainment",Fox
+#EXTINF:-1 tvg-name="Fox (Poland)" group-title="Entertainment",Fox (Poland)
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6108/index.m3u8
 #EXTINF:-1 tvg-name="NHK World Premium" group-title="Entertainment",NHK World Premium
 https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
@@ -2162,7 +2604,7 @@ https://iptv.prosto.tv/ch37/tracks-v2a1/mono.m3u8?live=1&ip=178.136.40.86&id=922
 https://iptv.prosto.tv/ch2/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment",Svarozhychy (576p)" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment",Svarozhychy (576p)
 https://iptv.prosto.tv/ch168/index.m3u8
-#EXTINF:-1 tvg-name="Married... with Children" group-title="Series",Married... with Children
+#EXTINF:-1 tvg-name="Married with Children" group-title="Series",Married with Children
 https://jmp2.uk/plu-66bb3212fe11e5000883ea6b.m3u8
 #EXTINF:-1 tvg-name="MTV Global" group-title="Entertainment",MTV Global
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/12055/index.m3u8
@@ -2178,13 +2620,15 @@ https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playl
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="LAMIL35 TV" group-title="Animation;Classic;Entertainment",LAMIL35 TV
 https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8
+#EXTINF:-1 tvg-name="Fox" group-title="Entertainment",Fox
+http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/6108/index.m3u8
 #EXTINF:-1 tvg-name="La Potente Radio TV" group-title="Entertainment",La Potente Radio TV
 https://latamvdo.com:3626/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment",AXN White" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment",AXN White
 https://dokagents.site/live/axnw/mono.m3u8
 #EXTINF:-1 tvg-name="Blitstv" group-title="Entertainment",Blitstv
 https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
-#EXTINF:-1 tvg-name="NTV" group-title="Entertainment;General",NTV
+#EXTINF:-1 tvg-name="NTV (Brazil)" group-title="Entertainment;General",NTV (Brazil)
 https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
 #EXTINF:-1 tvg-name="M6 SD" group-title="Entertainment",M6 SD
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_q2hyb21h/index-hd720.m3u8
@@ -2212,12 +2656,18 @@ http://streaming.multicontenidos.cl:8081/live/canalfeliz/playlist.m3u8
 https://v1.tustreaming.cl/melinkana/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Movies;Series",Star Channel Latin America (1080i)" group-title="Movies;Series",like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Movies;Series",Star Channel Latin America (1080i)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Adventure" group-title="Entertainment;Outdoor;Series",Pluto TV Adventure
+https://jmp2.uk/plu-69d7ebb726eeec84158e28cb.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Hometown Drama" group-title="Series",Pluto TV Hometown Drama
 https://jmp2.uk/plu-69d6c7befde57cd5ba0160c3.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Novelas" group-title="Series",Pluto TV Novelas
+https://jmp2.uk/plu-5cf96c0222df39f1a338d163.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Western Serien" group-title="Series",Pluto TV Western Serien
 https://jmp2.uk/plu-682453215c646751955e1204.m3u8
 #EXTINF:-1 tvg-name="Pluto TV ANIME GO!" group-title="Entertainment",Pluto TV ANIME GO!
 https://jmp2.uk/plu-691b3669c48674840c3b832a.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Sitcoms GB" group-title="Comedy;Series",Pluto TV Sitcoms GB
+https://jmp2.uk/plu-62f53dc6ee9a0400071dc22b.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Tough Jobs" group-title="Documentary;Series",Pluto TV Tough Jobs
 https://jmp2.uk/plu-600acaff5f2d6e000745effb.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Amor y Mentiras" group-title="Entertainment",Pluto TV Amor y Mentiras
@@ -2230,9 +2680,7 @@ https://cdn-dvr.ntv.ru/th_serial/index.m3u8
 https://cdn-dvr.ntv.ru/th_hit/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies;Series",FilmUADrama" group-title="Movies;Series",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies;Series",FilmUADrama
 http://88.99.215.227/FilmUADrama/index.m3u8
-#EXTINF:-1 tvg-name="E!" group-title="Entertainment",E!
-http://23.237.104.106:8080/USA_E/index.m3u8
-#EXTINF:-1 tvg-name="FX" group-title="Entertainment",FX
+#EXTINF:-1 tvg-name="FX (United States)" group-title="Entertainment",FX (United States)
 http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1 tvg-name="SYFY" group-title="Movies;Series",SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
@@ -2244,7 +2692,7 @@ http://151.80.18.177:86/Canal+_HD/index.m3u8
 https://tvsen4.aynaott.com/n64PH4YL/index.m3u8
 #EXTINF:-1 tvg-name="Nada Es Imposible TV" group-title="Entertainment",Nada Es Imposible TV
 https://vdochile.com:3194/live/mvqutymylive.m3u8
-#EXTINF:-1 tvg-name="TV-3 (576p)" group-title="Entertainment",TV-3 (576p)
+#EXTINF:-1 tvg-name="TV-3 Belarus (576p)" group-title="Entertainment",TV-3 Belarus (576p)
 http://178.124.179.122:8080/TB-3/index.m3u8
 #EXTINF:-1 tvg-name="Pear TV (576p)" group-title="Entertainment",Pear TV (576p)
 https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8
@@ -2260,7 +2708,7 @@ https://a-cdn.klowdtv.com/live2/greattv_720p/playlist.m3u8
 http://185.246.209.113/DISCOVERYHD/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment",M6" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment",M6
 http://99.27.51.147:8080/M6/index.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment",MTV" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment",MTV
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment",MTV (France)" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment",MTV (France)
 http://99.27.51.147:8080/MTV/index.m3u8
 #EXTINF:-1 tvg-name="RTL9" group-title="Entertainment",RTL9
 http://rezofoot.tv/rtl-9/index.m3u8
@@ -2292,7 +2740,7 @@ https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/playlist.m3u8
 https://live-evg7.tv360.bitel.com.pe/bitel/riku/playlist.m3u8
 #EXTINF:-1 tvg-name="Passion Novelas" group-title="Entertainment",Passion Novelas
 http://41.223.30.230/PASSIONTV/index.m3u8
-#EXTINF:-1 tvg-name="KCKS-LD 25.3" group-title="Entertainment",KCKS-LD 25.3
+#EXTINF:-1 tvg-name="Ace TV KCKS-LD" group-title="Entertainment",Ace TV KCKS-LD
 https://2-fss-1.streamhoster.com/pl_154/amlst:205432-2055980/playlist.m3u8
 #EXTINF:-1 tvg-name="Fillka TV" group-title="Entertainment;Movies;Series",Fillka TV
 https://live-evg5.tv360.bitel.com.pe/bitel/fillka/playlist.m3u8
@@ -2358,6 +2806,8 @@ https://adpnetworkhd-cmd.github.io/iptv/Blaze.m3u8
 https://adpnetworkhd-cmd.github.io/iptv/ChallengeUK.m3u8
 #EXTINF:-1 tvg-name="Canal Womtv" group-title="Entertainment",Canal Womtv
 https://live.amelbatv.co:81/womtvlive/index.m3u8
+#EXTINF:-1 tvg-name="TVI Ficcao" group-title="Series",TVI Ficcao
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8
 #EXTINF:-1 tvg-name="Nashe" group-title="Movies;Series",Nashe
 https://adpnetworkhd-cmd.github.io/iptv/NasheHD.m3u8
 #EXTINF:-1 tvg-name="NTV Series" group-title="Series",NTV Series
@@ -2372,6 +2822,8 @@ https://adpnetworkhd-cmd.github.io/iptv/OtseHD.m3u8
 https://adpnetworkhd-cmd.github.io/iptv/More4.m3u8
 #EXTINF:-1 tvg-name="Kora TV" group-title="Entertainment",Kora TV
 https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8
+#EXTINF:-1 tvg-name="Channel 8 (Russia) (576p)" group-title="Entertainment",Channel 8 (Russia) (576p)
+http://45.11.139.43:8555/8kanal/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Entertainment",E! Europe" group-title="Entertainment",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Entertainment",E! Europe
 https://lb.dstvmultimedia.com/E!/index.m3u8
 #EXTINF:-1 tvg-name="Alt Media TV" group-title="Entertainment",Alt Media TV
@@ -2392,28 +2844,68 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcrime/playlist.m3u8
 http://41.205.77.102/CHERIE25/index.m3u8
 #EXTINF:-1 tvg-name="Battlestar Galactica" group-title="Movies;Series",Battlestar Galactica
 https://jmp2.uk/plu-69d7ebff029c431826bd328e.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Pride" group-title="Entertainment",Pluto TV Pride
+#EXTINF:-1 tvg-name="Beverly Hills 90210 (United States)" group-title="Series",Beverly Hills 90210 (United States)
+https://jmp2.uk/plu-5f4d83e0a382c00007bc02e7.m3u8
+#EXTINF:-1 tvg-name="Matlock (United States)" group-title="Series",Matlock (United States)
+https://jmp2.uk/plu-60f754f98185580007eb0754.m3u8
+#EXTINF:-1 tvg-name="Mission Impossible (United States)" group-title="Series",Mission Impossible (United States)
+https://jmp2.uk/plu-5f77977bd924d80007eee60c.m3u8
+#EXTINF:-1 tvg-name="Perry Mason (United States)" group-title="Series",Perry Mason (United States)
+https://jmp2.uk/plu-6197086891ddd4000739941a.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Reality (United States)" group-title="Entertainment",Pluto TV Reality (United States)
 https://jmp2.uk/plu-69fa3faab9c0f0d444e64de3.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Camp" group-title="Entertainment",Pluto TV Camp
 https://jmp2.uk/plu-661801e871e8c30008a73f7b.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Haialarm" group-title="Movies;Series",Pluto TV Haialarm
 https://jmp2.uk/plu-69b015c5d29cc97de7da4af8.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Pride" group-title="Entertainment",Pluto TV Pride
+https://jmp2.uk/plu-69f209cd0ed14e790bddeb46.m3u8
+#EXTINF:-1 tvg-name="Star Trek: The Next Generation (Germany)" group-title="Movies;Series",Star Trek: The Next Generation (Germany)
+https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8
+#EXTINF:-1 tvg-name="Star Trek: The Original Series (Germany)" group-title="Movies;Series",Star Trek: The Original Series (Germany)
+https://jmp2.uk/plu-69776b58036e883f39e5ab8a.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Footanim'" group-title="Entertainment",Pluto TV Footanim'
 https://jmp2.uk/plu-69c2ae0d1f1accd54916c825.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Téléréalité France" group-title="Entertainment",Pluto TV Téléréalité France
+#EXTINF:-1 tvg-name="Pluto TV Telerealite France" group-title="Entertainment",Pluto TV Telerealite France
 https://jmp2.uk/plu-699865ccac36b147e74619fe.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Orgullo" group-title="Entertainment",Pluto TV Orgullo
 https://jmp2.uk/plu-63fe0111dff38e00083510f9.m3u8
-#EXTINF:-1 tvg-name="Bull" group-title="Series",Bull
+#EXTINF:-1 tvg-name="Bull DK" group-title="Series",Bull DK
 https://jmp2.uk/plu-6964b982ca459f9b939da8e6.m3u8
-#EXTINF:-1 tvg-name="Dating Naked UK" group-title="Series",Dating Naked UK
+#EXTINF:-1 tvg-name="Bull NO" group-title="Series",Bull NO
+https://jmp2.uk/plu-6964b9b97d2afdec4f9390f6.m3u8
+#EXTINF:-1 tvg-name="Bull" group-title="Series",Bull
+https://jmp2.uk/plu-6964b9e19bf57be1537fc7d7.m3u8
+#EXTINF:-1 tvg-name="Dating Naked UK DK" group-title="Series",Dating Naked UK DK
 https://jmp2.uk/plu-692edc78d52ea9e4858cf78f.m3u8
-#EXTINF:-1 tvg-name="De unge mødre" group-title="Entertainment",De unge mødre
+#EXTINF:-1 tvg-name="Dating Naked UK NO" group-title="Series",Dating Naked UK NO
+https://jmp2.uk/plu-692edcff77f0147d69f19498.m3u8
+#EXTINF:-1 tvg-name="Dating Naked UK" group-title="Series",Dating Naked UK
+https://jmp2.uk/plu-692edd6bdb8695f63e14f3b9.m3u8
+#EXTINF:-1 tvg-name="De unge modre" group-title="Entertainment",De unge modre
 https://jmp2.uk/plu-69172a4fcf4a1101befdd894.m3u8
+#EXTINF:-1 tvg-name="Judge Judy (Germany)" group-title="Entertainment",Judge Judy (Germany)
+https://jmp2.uk/plu-622f498d119b4c000719c0b7.m3u8
 #EXTINF:-1 tvg-name="r8Dio TV" group-title="Entertainment",r8Dio TV
 https://jmp2.uk/plu-698ddf5a8c21a5f2d64c14a8.m3u8
-#EXTINF:-1 tvg-name="The L Word" group-title="Series",The L Word
+#EXTINF:-1 tvg-name="Rawhide (Sweden) DK" group-title="Classic;Series",Rawhide (Sweden) DK
+https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8
+#EXTINF:-1 tvg-name="Rawhide (Sweden) NO" group-title="Classic;Series",Rawhide (Sweden) NO
+https://jmp2.uk/plu-6964baa63dfd98e10945ac51.m3u8
+#EXTINF:-1 tvg-name="Rawhide (Sweden)" group-title="Classic;Series",Rawhide (Sweden)
+https://jmp2.uk/plu-6964bb3640c8de392514a0c6.m3u8
+#EXTINF:-1 tvg-name="The L Word DK" group-title="Series",The L Word DK
 https://jmp2.uk/plu-693ae48864476d678e9b6235.m3u8
+#EXTINF:-1 tvg-name="The L Word NO" group-title="Series",The L Word NO
+https://jmp2.uk/plu-693ae4b616c2bba998852c21.m3u8
+#EXTINF:-1 tvg-name="The L Word" group-title="Series",The L Word
+https://jmp2.uk/plu-693ae4ee25e9a6646b198fb0.m3u8
+#EXTINF:-1 tvg-name="The Wild Wild West (Sweden) DK" group-title="Classic;Series",The Wild Wild West (Sweden) DK
+https://jmp2.uk/plu-6964bc3806d76f50db3e315e.m3u8
+#EXTINF:-1 tvg-name="The Wild Wild West (Sweden) NO" group-title="Classic;Series",The Wild Wild West (Sweden) NO
+https://jmp2.uk/plu-6964bca2a6c400fd418854a2.m3u8
+#EXTINF:-1 tvg-name="The Wild Wild West (Sweden)" group-title="Classic;Series",The Wild Wild West (Sweden)
+https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8
 #EXTINF:-1 tvg-name="REV'N Action" group-title="Auto;Outdoor;Series;Sports",REV'N Action
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8
 #EXTINF:-1 tvg-name="Q TV (576p)" group-title="Entertainment",Q TV (576p)
@@ -2466,6 +2958,8 @@ https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8
 https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 #EXTINF:-1 tvg-name="NBC Universo" group-title="Entertainment",NBC Universo
 https://streamvidex.qzz.io/videx/universo/index.m3u8
+#EXTINF:-1 tvg-name="TV-3 (576p)" group-title="Entertainment",TV-3 (576p)
+http://94.230.129.31:8080/TB3/index.m3u8
 #EXTINF:-1 tvg-name="Sun+ TV" group-title="Entertainment",Sun+ TV
 https://livemaraboo.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="AMC Series Latin America" group-title="Series",AMC Series Latin America
@@ -2492,9 +2986,11 @@ http://45.6.4.35/FOX/index.m3u8
 http://72.1.184.5:8089/play/a05d/index.m3u8
 #EXTINF:-1 tvg-name="Lifetime Latin America Mexico" group-title="Entertainment",Lifetime Latin America Mexico
 http://177.245.131.133:8080/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-name="FX" group-title="Entertainment",FX
+http://138.121.15.230:9002/FX/index.m3u8
 #EXTINF:-1 tvg-name="Paramount Network Latin America" group-title="Movies;Series",Paramount Network Latin America
 http://138.186.23.7:8082/PARAMOUNT/index.m3u8
-#EXTINF:-1 tvg-name="Star Channel" group-title="Movies;Series",Star Channel
+#EXTINF:-1 tvg-name="Star Channel (Chile)" group-title="Movies;Series",Star Channel (Chile)
 http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-name="Nevskiy" group-title="Series",Nevskiy
 https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
@@ -2518,8 +3014,6 @@ https://edge.enhdtv.com/8054/index.m3u8
 http://40.160.24.52/BBC_AMERICA/index.m3u8
 #EXTINF:-1 tvg-name="Catchy Comedy" group-title="Entertainment",Catchy Comedy
 http://40.160.24.52/DECADES/index.m3u8
-#EXTINF:-1 tvg-name="Game Show Network" group-title="Entertainment",Game Show Network
-http://40.160.24.52/GSN/index.m3u8
 #EXTINF:-1 tvg-name="Lifetime Real Women (576p)" group-title="Entertainment",Lifetime Real Women (576p)
 http://40.160.24.58/LIFETIME_REAL_WOMEN/index.m3u8
 #EXTINF:-1 tvg-name="Universal Reality" group-title="Entertainment",Universal Reality
@@ -2568,6 +3062,8 @@ https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8
 https://shift03.isp.bg/MTVEurope/index.m3u8
 #EXTINF:-1 tvg-name="FX Latin America" group-title="Entertainment",FX Latin America
 http://45.162.193.35/FX/index.m3u8
+#EXTINF:-1 tvg-name="Neo TV (Peru)" group-title="Entertainment",Neo TV (Peru)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/DigitalTV/playlist.m3u8
 #EXTINF:-1 tvg-name="Star Channel Latin America" group-title="Movies;Series",Star Channel Latin America
 http://45.162.193.35/STAR_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-name="Tlnovelas Latin America" group-title="Series",Tlnovelas Latin America
@@ -2576,10 +3072,12 @@ http://177.234.249.135:8888/Telenovelas/index.m3u8
 http://145.239.5.177/332/index.m3u8
 #EXTINF:-1 tvg-name="Series Classic" group-title="Series",Series Classic
 https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic/playlist.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",Star Channel" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",Star Channel
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",Star Channel (Portugal)" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",Star Channel (Portugal)
 http://znty.dyndns.org:5010/hls/fox.m3u8
 #EXTINF:-1 tvg-name="ElectricNOW [Geo-blocked]" group-title="Entertainment",ElectricNOW [Geo-blocked]
 https://pb-aexv6wqzkg929.akamaized.net/ElectricNOW.m3u8
+#EXTINF:-1 tvg-name="arte (France)" group-title="Entertainment",arte (France)
+http://145.239.5.177/300/index.m3u8
 #EXTINF:-1 tvg-name="C Star" group-title="Entertainment",C Star
 http://145.239.5.177/361/index.m3u8
 #EXTINF:-1 tvg-name="DD Malayalam (504p)" group-title="Entertainment",DD Malayalam (504p)
@@ -2590,7 +3088,7 @@ https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8
 https://futbol9865.ultratv13.workers.dev/deportivo111/24.m3u8
 #EXTINF:-1 tvg-name="Star Channel Latin America Central America" group-title="Movies;Series",Star Channel Latin America Central America
 https://streamer.metronethn.com/StarChannel/index.m3u8
-#EXTINF:-1 tvg-name="Fox (576p)" group-title="Entertainment",Fox (576p)
+#EXTINF:-1 tvg-name="Fox (Russia) (576p)" group-title="Entertainment",Fox (Russia) (576p)
 http://stream.mcquack.net/182/index.m3u8
 #EXTINF:-1 tvg-name="Fox Life (576p)" group-title="Series",Fox Life (576p)
 http://stream.mcquack.net/129/index.m3u8
@@ -2604,7 +3102,7 @@ http://206.212.244.63/4242/index.m3u8
 http://stream.mcquack.net/346/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Series",Tviy serial" group-title="Series",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Series",Tviy serial
 http://stream.mcquack.net/466/index.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies;Series",Bolt" group-title="Movies;Series",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies;Series",Bolt
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies;Series",Bolt (Ukraine)" group-title="Movies;Series",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies;Series",Bolt (Ukraine)
 http://stream.mcquack.net/73/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",ICTV2" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",ICTV2
 http://stream.mcquack.net/368/index.m3u8
@@ -2612,7 +3110,7 @@ http://stream.mcquack.net/368/index.m3u8
 http://stream.mcquack.net/270/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",OTSE" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",OTSE
 http://stream.mcquack.net/329/index.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",Zoom" group-title="Entertainment",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",Zoom
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",Zoom (Ukraine)" group-title="Entertainment",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",Zoom (Ukraine)
 http://stream.mcquack.net/327/index.m3u8
 #EXTINF:-1 tvg-name="Siri Kannada All Time (576p)" group-title="Entertainment",Siri Kannada All Time (576p)
 https://mumt07.tangotv.in/zHjX9OFlSIRIKANNADAALLTIME/index.m3u8
@@ -2624,7 +3122,7 @@ http://202.70.146.135:8000/play/a009/index.m3u8
 http://185.102.171.218/FOX_Life/index.m3u8
 #EXTINF:-1 tvg-name="M Entertainment Channel" group-title="Entertainment",M Entertainment Channel
 https://mmtvs.exliatycl.online/mchannel/stream.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",ICTV" group-title="Entertainment",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",ICTV
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",ICTV (Ukraine)" group-title="Entertainment",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",ICTV (Ukraine)
 http://stream.mcquack.net/158/index.m3u8
 #EXTINF:-1 tvg-name="SciFi" group-title="Entertainment",SciFi
 http://41.205.93.154/SYFY/index.m3u8
@@ -2660,6 +3158,8 @@ http://59.103.38.46:8000/play/a00b/index.m3u8
 http://stream.mcquack.net/121/index.m3u8
 #EXTINF:-1 tvg-name="Voprosy i Otvety (576p)" group-title="Entertainment",Voprosy i Otvety (576p)
 http://stream.mcquack.net/76/index.m3u8
+#EXTINF:-1 tvg-name="E!" group-title="Entertainment",E!
+http://185.102.171.218/Entertainment/index.m3u8
 #EXTINF:-1 tvg-name="AbejalesTV" group-title="Entertainment",AbejalesTV
 https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8
 #EXTINF:-1 tvg-name="E! Latin America Brazil (432p)" group-title="Entertainment;News",E! Latin America Brazil (432p)
@@ -2694,15 +3194,15 @@ https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8
 https://thinkkast.dpdns.org/thinkkast/cg_axn_sd/versiglia/index.m3u8
 #EXTINF:-1 tvg-name="One Paschima (400p)" group-title="Entertainment",One Paschima (400p)
 https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",MTV" group-title="Entertainment",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",MTV
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",MTV (India)" group-title="Entertainment",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",MTV (India)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",MTV (396p)" group-title="Entertainment",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",MTV (396p)
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",MTV" group-title="Entertainment",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",MTV
+https://maamusic.keralive.workers.dev/v1/master/a797c00cba954265ba781f92a57e2cf5/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",MTV (India) (396p)" group-title="Entertainment",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",MTV (India) (396p)
 https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
-#EXTINF:-1 tvg-name="TNT SD (576p)" group-title="Entertainment",TNT SD (576p)
-http://stream.mcquack.net/135/index.m3u8
 #EXTINF:-1 tvg-name="Sonce" group-title="Entertainment",Sonce
 https://ext.cdn.nashnet.tv/228.0.0.165/index.m3u8
-#EXTINF:-1 tvg-name="RightNow TV" group-title="Entertainment;Sports",RightNow TV
+#EXTINF:-1 tvg-name="Right Now TV" group-title="Entertainment;Sports",Right Now TV
 https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Entertainment",Big Magic (576p)" group-title="Entertainment",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Entertainment",Big Magic (576p)
 http://103.175.73.12:8080/live/13/13_0.m3u8
@@ -2732,7 +3232,7 @@ https://streams.comclark.com/pknsd/solar_flix/playlist.m3u8
 https://streams.comclark.com/pknhd/kapamilya_hd/playlist.m3u8
 #EXTINF:-1 tvg-name="Golden Nation Network (480p)" group-title="Entertainment;News",Golden Nation Network (480p)
 https://streams.comclark.com/pknsd/onemedia/playlist.m3u8
-#EXTINF:-1 tvg-name="Star TV" group-title="Entertainment",Star TV
+#EXTINF:-1 tvg-name="Star TV (Moldova)" group-title="Entertainment",Star TV (Moldova)
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2465/index.m3u8
 #EXTINF:-1 tvg-name="AXN PH (480p)" group-title="Movies;Series",AXN PH (480p)
 https://streams.comclark.com/pknhd/axn/playlist.m3u8
@@ -2760,7 +3260,7 @@ http://cdn1tlinkgo.tlink.cl/megaficcion/mono.m3u8
 http://103.175.73.12:8080/live/471/master.m3u8
 #EXTINF:-1 tvg-name="Zee Tamil" group-title="Entertainment",Zee Tamil
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Star Vijay (396p)" group-title="Entertainment",Star Vijay (396p)
+#EXTINF:-1 tvg-name="Star Vijay UK (396p)" group-title="Entertainment",Star Vijay UK (396p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Entertainment",AXN White" group-title="Entertainment",like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Entertainment",AXN White
 https://onyx1.mofta1.cfd/axwhite/usergenx23rnd.m3u8
@@ -2810,10 +3310,12 @@ http://stream.mcquack.net/136/index.m3u8
 https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-name="Epic Bharat (576p)" group-title="Entertainment",Epic Bharat (576p)
 https://mumt06.tangotv.in/qYyB8fXVEPICTV/index.m3u8
-#EXTINF:-1 tvg-name="All Weddings We TV" group-title="Series",All Weddings We TV
+#EXTINF:-1 tvg-name="All Weddings WE tv" group-title="Series",All Weddings WE tv
 https://amc-allweddings-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="ION TV" group-title="Entertainment",ION TV
 http://23.237.104.106:8080/USA_ION/index.m3u8
+#EXTINF:-1 tvg-name="MTV (United States)" group-title="Entertainment",MTV (United States)
+http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1 tvg-name="Nash Bridges" group-title="Series",Nash Bridges
 https://jmp2.uk/plu-666021cccb3ea10008406866.m3u8
 #EXTINF:-1 tvg-name="The Conners" group-title="Comedy;Series",The Conners
@@ -2826,7 +3328,7 @@ https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
 https://mumt07.tangotv.in/zHjX9OFlENTERR10BANGLA/index.m3u8
 #EXTINF:-1 tvg-name="Fakt Marathi (576p)" group-title="Entertainment",Fakt Marathi (576p)
 https://mumt07.tangotv.in/zHjX9OFlFAKTMARATHI/index.m3u8
-#EXTINF:-1 tvg-name="Mango (576p)" group-title="Entertainment",Mango (576p)
+#EXTINF:-1 tvg-name="Mango (India) (576p)" group-title="Entertainment",Mango (India) (576p)
 https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
 #EXTINF:-1 tvg-name="MK Six (576p)" group-title="Entertainment",MK Six (576p)
 https://mumt06.tangotv.in/qYyB8fXVMKSIX/index.m3u8
@@ -2880,6 +3382,8 @@ https://server.playontv.in/friendstv/index.m3u8
 https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
 #EXTINF:-1 tvg-name="Pulari TV (576p)" group-title="Entertainment",Pulari TV (576p)
 https://mumbai-edge.smartplaytv.in/PulariTV/index.m3u8
+#EXTINF:-1 tvg-name="FX (Russia)" group-title="Entertainment",FX (Russia)
+http://str2.iptvhd.ru:8080/FOX_HD/index.m3u8
 #EXTINF:-1 tvg-name="FX Life (576p)" group-title="Series",FX Life (576p)
 http://str2.iptvhd.ru:8080/Fox_Life_HD/index.m3u8
 #EXTINF:-1 tvg-name="Mir Seriala (576p)" group-title="Series",Mir Seriala (576p)

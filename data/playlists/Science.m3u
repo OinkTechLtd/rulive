@@ -1,19 +1,19 @@
 #EXTM3U
-# Обновлено: 2026-09-18 15:50:28
-# Всего каналов: 23954
-# Новых за сессию: 0
+# Обновлено: 2026-09-18 18:55:40
+# Всего каналов: 23959
+# Новых за сессию: 5
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Science
 # Каналов: 16
-# Обновлено: 2026-09-18 15:50:29
+# Обновлено: 2026-09-18 18:55:41
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Eko TV" group-title="Science",Eko TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
 
-#EXTINF:-1 tvg-name="山东农科 (406p) [Geo-blocked]" group-title="Science",山东农科 (406p) [Geo-blocked]
+#EXTINF:-1 tvg-name="Shandong TV Agricultural Science Channel (406p) [Geo-blocked]" group-title="Science",Shandong TV Agricultural Science Channel (406p) [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/livealone302.iqilu.com/iqilu/nkpd.m3u8
 
 #EXTINF:-1 tvg-name="InWonder" group-title="Science",InWonder
@@ -25,7 +25,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/lds-wonder-rakuten.ama
 #EXTINF:-1 tvg-name="Cosmos TV" group-title="Science",Cosmos TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 
-#EXTINF:-1 tvg-name="Explosión Creativa" group-title="Science",Explosión Creativa
+#EXTINF:-1 tvg-name="EXC TV" group-title="Science",EXC TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ilm va Tabiat" group-title="Science",Ilm va Tabiat
@@ -43,7 +43,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/edgectc.com/TEC_HD/ind
 #EXTINF:-1 tvg-name="Pervyy Kosmicheskiy" group-title="Science",Pervyy Kosmicheskiy
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/adpnetworkhd-cmd.github.io/iptv/PervyyKosmicheskiy.m3u8
 
-#EXTINF:-1 tvg-name="Smithsonian Channel Selects" group-title="Science",Smithsonian Channel Selects
+#EXTINF:-1 tvg-name="Smithsonian Channel Selects (United States)" group-title="Science",Smithsonian Channel Selects (United States)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
 
 #EXTINF:-1 tvg-name="Smithsonian Channel" group-title="Science",Smithsonian Channel
@@ -58,7 +58,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/403
 #EXTINF:-1 tvg-name="Pervyy Kosmicheskiy" group-title="Science",Pervyy Kosmicheskiy
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/str2.iptvhd.ru:8080/Eureka_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="Pluto TV Science" group-title="Documentary;Science",Pluto TV Science
+#EXTINF:-1 tvg-name="Pluto TV Science (United States)" group-title="Documentary;Science",Pluto TV Science (United States)
 https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="News;Science",BFM Tech & Co" group-title="News;Science",like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="News;Science",BFM Tech & Co
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
@@ -70,15 +70,19 @@ http://49.113.179.174:4022/udp/238.125.2.175:5140
 https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
 #EXTINF:-1 tvg-name="滁州科教 (450p)" group-title="Education;Science",滁州科教 (450p)
 http://183.167.193.45:1935/live/cztvkj/playlist.m3u8
-#EXTINF:-1 tvg-name="ЭлТР Билим Илим (480p)" group-title="Kids;Science",ЭлТР Билим Илим (480p)
+#EXTINF:-1 tvg-name="Bilim Ilim (480p)" group-title="Kids;Science",Bilim Ilim (480p)
 http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Science (Germany) GB" group-title="Documentary;Science",Pluto TV Science (Germany) GB
+https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8
 #EXTINF:-1 tvg-name="UMSA TVU Internacional" group-title="Documentary;Education;Science",UMSA TVU Internacional
 https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Cần Thơ TV2" group-title="Education;Science",Cần Thơ TV2
 https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Science (Germany)" group-title="Documentary;Science",Pluto TV Science (Germany)
+https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8
 #EXTINF:-1 tvg-name="MediBizTV" group-title="Education;News;Science",MediBizTV
 https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Science",Nauka (576p)" group-title="Science",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Science",Nauka (576p)
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Science",Nauka (Ukraine) (576p)" group-title="Science",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Science",Nauka (Ukraine) (576p)
 http://stream.mcquack.net/403/index.m3u8
-#EXTINF:-1 tvg-name="滁州市广播电视台 科教频道 (400p)" group-title="Education;Science",滁州市广播电视台 科教频道 (400p)
+#EXTINF:-1 tvg-name="Chuzhou Science & Education Channel (400p)" group-title="Education;Science",Chuzhou Science & Education Channel (400p)
 http://live.cztv.cc:85/live/sjpd.m3u8

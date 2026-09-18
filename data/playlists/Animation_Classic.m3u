@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-18 15:50:28
-# Всего каналов: 23954
-# Новых за сессию: 0
+# Обновлено: 2026-09-18 18:55:40
+# Всего каналов: 23959
+# Новых за сессию: 5
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Classic
 # Каналов: 1
-# Обновлено: 2026-09-18 15:50:29
+# Обновлено: 2026-09-18 18:55:41
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RetroCrush" group-title="Animation;Classic",RetroCrush
@@ -19,7 +19,7 @@ https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
 #EXTINF:-1 tvg-name="FAN" group-title="Animation;Movies",FAN
 http://31.148.48.15/Fan/index.m3u8
-#EXTINF:-1 tvg-name="Artflix Movie Classics" group-title="Classic;Movies",Artflix Movie Classics
+#EXTINF:-1 tvg-name="ARTFLIX Movie Classics" group-title="Classic;Movies",ARTFLIX Movie Classics
 https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Bollywood Classic" group-title="Classic;Movies",Bollywood Classic
 http://103.213.31.109:90/BollywoodClassic/playlist.m3u8
@@ -27,7 +27,7 @@ http://103.213.31.109:90/BollywoodClassic/playlist.m3u8
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-name="Retro" group-title="Classic",Retro
 http://tmptv.sunduk.tv/CH149/index.m3u8
-#EXTINF:-1 tvg-name="Мультимания (576p)" group-title="Animation;Kids",Мультимания (576p)
+#EXTINF:-1 tvg-name="Multimania (576p)" group-title="Animation;Kids",Multimania (576p)
 https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Ностальгия (576p)" group-title="Classic",Ностальгия (576p)
 http://31.148.48.15/Nostalgiya/index.m3u8
@@ -35,7 +35,7 @@ http://31.148.48.15/Nostalgiya/index.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
 #EXTINF:-1 tvg-name="Солнце (576p)" group-title="Animation;Kids",Солнце (576p)
 http://tv.mediacdn.ru/live/solntse/playlist.m3u8
-#EXTINF:-1 tvg-name="3ABN Kids Network" group-title="Animation;Kids;Religious",3ABN Kids Network
+#EXTINF:-1 tvg-name="3ABN Kids" group-title="Animation;Kids;Religious",3ABN Kids
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Animation+ [Geo-blocked]" group-title="Animation",Animation+ [Geo-blocked]
 https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8
@@ -43,7 +43,7 @@ https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8
 https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-name="Beverly Hillbillies" group-title="Classic",Beverly Hillbillies
 https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8
-#EXTINF:-1 tvg-name="Blues TV" group-title="Animation;Kids",Blues TV
+#EXTINF:-1 tvg-name="MeTV Toons KMBY-LD" group-title="Animation;Kids",MeTV Toons KMBY-LD
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Cinevault Westerns" group-title="Classic",Cinevault Westerns
 https://aegis-cloudfront-1.tubi.video/72b8dd6b-391b-401c-a3e4-03f9c29555c8/playlist.m3u8
@@ -63,17 +63,19 @@ https://jmp2.uk/plu-68503d1736c9361b191e7d89.m3u8
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 #EXTINF:-1 tvg-name="Movies for Gamers" group-title="Animation",Movies for Gamers
 https://jmp2.uk/plu-6008ddf24ef92b00079d61cf.m3u8
-#EXTINF:-1 tvg-name="Mr. Bean Animated" group-title="Animation;Kids",Mr. Bean Animated
+#EXTINF:-1 tvg-name="Mr Bean Animated" group-title="Animation;Kids",Mr Bean Animated
 https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Naruto" group-title="Animation",Naruto
 https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-name="Naruto en espanol" group-title="Animation",Naruto en espanol
+https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon Pluto TV" group-title="Animation;Kids",Nickelodeon Pluto TV
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 #EXTINF:-1 tvg-name="One Piece" group-title="Animation",One Piece
 https://jmp2.uk/plu-5f7790b3ed0c88000720b241.m3u8
 #EXTINF:-1 tvg-name="PBS Retro [Geo-blocked]" group-title="Classic;Kids",PBS Retro [Geo-blocked]
 https://amg02333-pbs-amg02333c6-firetv-us-4236.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Anime" group-title="Animation",Pluto TV Anime
+#EXTINF:-1 tvg-name="Pluto TV Anime (United States)" group-title="Animation",Pluto TV Anime (United States)
 https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Anime Movies" group-title="Animation",Pluto TV Anime Movies
 https://jmp2.uk/plu-67ed8f7e443f0671bc2b2368.m3u8
@@ -89,9 +91,9 @@ https://linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist.m3u
 https://carolburnett-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="The Love Boat" group-title="Classic",The Love Boat
 https://jmp2.uk/plu-66275e41cee0d900085fde6e.m3u8
-#EXTINF:-1 tvg-name="The Twilight Zone" group-title="Classic;Series",The Twilight Zone
+#EXTINF:-1 tvg-name="Pluto TV The Twilight Zone" group-title="Classic;Series",Pluto TV The Twilight Zone
 https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8
-#EXTINF:-1 tvg-name="Toonami Aftermath East (480p)" group-title="Animation",Toonami Aftermath East (480p)
+#EXTINF:-1 tvg-name="Toonami Aftermath (480p)" group-title="Animation",Toonami Aftermath (480p)
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 tvg-name="TVS Cipher Network (360p)" group-title="Classic",TVS Cipher Network (360p)
 https://rpn.bozztv.com/gusa/gusa-tvsmystery/index.m3u8
@@ -123,15 +125,21 @@ https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playl
 https://e3.thetvapp.to/hls/metv-toons/index.m3u8
 #EXTINF:-1 tvg-name="Yu-Gi-Oh!" group-title="Animation",Yu-Gi-Oh!
 https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
-#EXTINF:-1 tvg-name="Comedy Central South Park" group-title="Animation;Comedy",Comedy Central South Park
+#EXTINF:-1 tvg-name="Comedy Central South Park (Germany)" group-title="Animation;Comedy",Comedy Central South Park (Germany)
 https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8
+#EXTINF:-1 tvg-name="Naruto Germany" group-title="Animation",Naruto Germany
+https://jmp2.uk/plu-65d5fc39a25d5e00082895c4.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Anime (Germany)" group-title="Animation",Pluto TV Anime (Germany)
+https://jmp2.uk/plu-608181d420fc8500075f612a.m3u8
 #EXTINF:-1 tvg-name="ADN TV+" group-title="Animation",ADN TV+
 https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
-#EXTINF:-1 tvg-name="Banijay Mr Bean Animé" group-title="Animation;Kids",Banijay Mr Bean Animé
+#EXTINF:-1 tvg-name="Mr Bean Animated FR" group-title="Animation;Kids",Mr Bean Animated FR
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
 #EXTINF:-1 tvg-name="Gong" group-title="Animation",Gong
 https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
-#EXTINF:-1 tvg-name="South Park" group-title="Animation;Comedy",South Park
+#EXTINF:-1 tvg-name="One Piece FR" group-title="Animation",One Piece FR
+https://jmp2.uk/plu-6380c94947c72b0007ee9a13.m3u8
+#EXTINF:-1 tvg-name="South Park (Germany) GB" group-title="Animation;Comedy",South Park (Germany) GB
 https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8
 #EXTINF:-1 tvg-name="3Cat Plats bruts" group-title="Classic;Comedy;Public;Series",3Cat Plats bruts
 https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
@@ -143,15 +151,17 @@ https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Dreiko TV" group-title="Animation",Dreiko TV
 https://cloudvideo.servers10.com:8081/8020/index.m3u8
-#EXTINF:-1 tvg-name="Mr. Bean Anime Spain" group-title="Animation;Kids",Mr. Bean Anime Spain
+#EXTINF:-1 tvg-name="Mr Bean Animated ES" group-title="Animation;Kids",Mr Bean Animated ES
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-name="Mr. Bean Anime Italy" group-title="Animation;Kids",Mr. Bean Anime Italy
+#EXTINF:-1 tvg-name="One Piece Spain" group-title="Animation",One Piece Spain
+https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
+#EXTINF:-1 tvg-name="Mr Bean Animated IT" group-title="Animation;Kids",Mr Bean Animated IT
 https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
 #EXTINF:-1 tvg-name="Jiangxi Children's Channel" group-title="Animation;Kids",Jiangxi Children's Channel
 https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
-#EXTINF:-1 tvg-name="优漫卡通 (576p)" group-title="Animation;Kids",优漫卡通 (576p)
+#EXTINF:-1 tvg-name="You Man Cartoon Channel (576p)" group-title="Animation;Kids",You Man Cartoon Channel (576p)
 http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通 (576p)" group-title="Animation;Kids",金鹰卡通 (576p)
+#EXTINF:-1 tvg-name="Golden Eagle Cartoon (576p)" group-title="Animation;Kids",Golden Eagle Cartoon (576p)
 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
 #EXTINF:-1 tvg-name="Animax Asia India [Geo-blocked]" group-title="Animation",Animax Asia India [Geo-blocked]
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
@@ -165,14 +175,18 @@ https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 http://103.229.254.25:7001/play/a09w/index.m3u8
 #EXTINF:-1 tvg-name="ZillarBarta News" group-title="Classic;News",ZillarBarta News
 https://server.zillarbarta.com/zillarbarta/index.m3u8
-#EXTINF:-1 tvg-name="Disney Jr. [Geo-blocked]" group-title="Animation;Kids",Disney Jr. [Geo-blocked]
+#EXTINF:-1 tvg-name="Disney Jr. (Turkiye) [Geo-blocked]" group-title="Animation;Kids",Disney Jr. (Turkiye) [Geo-blocked]
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 tvg-name="AWTV [Geo-blocked]" group-title="Classic;Series",AWTV [Geo-blocked]
 https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Comedy Central South Park (United States)" group-title="Animation;Comedy",Comedy Central South Park (United States)
+https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
 #EXTINF:-1 tvg-name="Geekdot" group-title="Animation",Geekdot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="Kuriakos Kids" group-title="Animation;Kids;Religious",Kuriakos Kids
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Naruto Brazil" group-title="Animation",Naruto Brazil
+https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
 #EXTINF:-1 tvg-name="NickOnline (360p)" group-title="Animation;Kids",NickOnline (360p)
 https://x1co.com.br/hls/stream.m3u8
 #EXTINF:-1 tvg-name="NickOnline SD (320p)" group-title="Animation;Kids",NickOnline SD (320p)
@@ -183,7 +197,11 @@ https://spongebobnew.x1co.com.br/hls/stream.m3u8
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-name="NickWeb" group-title="Animation;Kids",NickWeb
 https://vs20.live.opencaster.com/nickelodeonbrasil_68f1743d/index.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Anime Ação" group-title="Animation",Pluto TV Anime Ação
+#EXTINF:-1 tvg-name="One Piece BR" group-title="Animation",One Piece BR
+https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Anime (United States) BR" group-title="Animation",Pluto TV Anime (United States) BR
+https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Anime Acao" group-title="Animation",Pluto TV Anime Acao
 https://jmp2.uk/plu-604b79c558393100078faeef.m3u8
 #EXTINF:-1 tvg-name="Tokusato" group-title="Animation",Tokusato
 https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
@@ -197,6 +215,8 @@ https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
 #EXTINF:-1 tvg-name="GikTVMX" group-title="Animation;Culture;Entertainment",GikTVMX
 https://pistream.ddns.net/hls/stream.m3u8
+#EXTINF:-1 tvg-name="One Piece CA" group-title="Animation",One Piece CA
+https://jmp2.uk/plu-62e94ec74823db0007277a8f.m3u8
 #EXTINF:-1 tvg-name="Movify Kino (576p)" group-title="Classic;Movies",Movify Kino (576p)
 https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
 #EXTINF:-1 tvg-name="Multimania (Latvia) (576p)" group-title="Animation;Kids",Multimania (Latvia) (576p)
@@ -205,7 +225,7 @@ https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8
 http://195.64.140.147:10121/121
 #EXTINF:-1 tvg-name="Aniplus Asia" group-title="Animation",Aniplus Asia
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
-#EXTINF:-1 tvg-name="Avatar" group-title="Animation;Kids;Series",Avatar
+#EXTINF:-1 tvg-name="Avatar (Germany)" group-title="Animation;Kids;Series",Avatar (Germany)
 https://jmp2.uk/plu-656df599c0fc8800089c75ab.m3u8
 #EXTINF:-1 tvg-name="BBC Four/CBeebies [Geo-Blocked]" group-title="Animation;General;Kids",BBC Four/CBeebies [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
@@ -217,17 +237,19 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now
 https://jmp2.uk/plu-612f761008a9e50007984ba0.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Classic TV" group-title="Classic",Pluto TV Classic TV
 https://jmp2.uk/plu-5d134a74ca91eedee1630faa.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Retro Toons" group-title="Animation;Kids",Pluto TV Retro Toons
+#EXTINF:-1 tvg-name="Pluto TV Retro Toons GB" group-title="Animation;Kids",Pluto TV Retro Toons GB
 https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Sherlock" group-title="Classic",Pluto TV Sherlock
 https://jmp2.uk/plu-5dc2c00abfed110009d97243.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Pokemon UK" group-title="Animation;Kids",Pluto TV Pokemon UK
+https://jmp2.uk/plu-6683cd71a1d7ad000866ec6a.m3u8
 #EXTINF:-1 tvg-name="Cúcuta Retro TV" group-title="Classic",Cúcuta Retro TV
 https://mist01.homestream.fun/hls/ntvlive/0_1/index.m3u8
 #EXTINF:-1 tvg-name="DreikoTv" group-title="Animation",DreikoTv
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1 tvg-name="EnerGeek" group-title="Animation",EnerGeek
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 tvg-name="EnerGeek Fan" group-title="Animation",EnerGeek Fan
+#EXTINF:-1 tvg-name="EnerGeek FAN" group-title="Animation",EnerGeek FAN
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-name="Extrema Kids TV" group-title="Animation;Kids",Extrema Kids TV
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
@@ -235,13 +257,15 @@ https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-name="Naruto Shippuden" group-title="Animation",Naruto Shippuden
 https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8
+#EXTINF:-1 tvg-name="One Piece LatAm" group-title="Animation",One Piece LatAm
+https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
 #EXTINF:-1 tvg-name="Retrox TV" group-title="Classic",Retrox TV
 https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8
 #EXTINF:-1 tvg-name="Tiguerito TV" group-title="Animation;Kids",Tiguerito TV
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 #EXTINF:-1 tvg-name="TVS Retro" group-title="Classic",TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-#EXTINF:-1 tvg-name="Japanim TV" group-title="Animation;Kids",Japanim TV
+#EXTINF:-1 tvg-name="JapanimTV" group-title="Animation;Kids",JapanimTV
 https://foxkidstv.be:3369/stream/play.m3u8
 #EXTINF:-1 tvg-name="Rotana Classic [Geo-blocked]" group-title="Classic",Rotana Classic [Geo-blocked]
 https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
@@ -249,112 +273,230 @@ https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
 #EXTINF:-1 tvg-name="Pingviin (576p)" group-title="Animation;Kids",Pingviin (576p)
 https://void.greenhosting.ru/PingviinEE_Mpeg4/index.m3u8
-#EXTINF:-1 tvg-name="Пингвин" group-title="Animation;Kids",Пингвин
+#EXTINF:-1 tvg-name="Pingviins" group-title="Animation;Kids",Pingviins
 https://sirius.greenhosting.ru/PingvinRu/video.m3u8
 #EXTINF:-1 tvg-name="Persiana Nostalgia" group-title="Classic;Music",Persiana Nostalgia
 https://noshls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Ani-Blast" group-title="Animation",Ani-Blast
 https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8
-#EXTINF:-1 tvg-name="Becker" group-title="Classic;Series",Becker
+#EXTINF:-1 tvg-name="Avatar (Sweden)" group-title="Animation;Kids;Series",Avatar (Sweden)
+https://jmp2.uk/plu-61c09b48d6d97900076e91c5.m3u8
+#EXTINF:-1 tvg-name="Becker (Sweden) DK" group-title="Classic;Series",Becker (Sweden) DK
 https://jmp2.uk/plu-672e157d7d5da5000812872d.m3u8
+#EXTINF:-1 tvg-name="Becker (Sweden) NO" group-title="Classic;Series",Becker (Sweden) NO
+https://jmp2.uk/plu-672e1634e482950008c759a5.m3u8
+#EXTINF:-1 tvg-name="Becker (Sweden)" group-title="Classic;Series",Becker (Sweden)
+https://jmp2.uk/plu-672e16f5daad7f0008929a0d.m3u8
 #EXTINF:-1 tvg-name="Cin Cin" group-title="Classic;Series",Cin Cin
 https://jmp2.uk/plu-65cb78b83a116800079e2e35.m3u8
 #EXTINF:-1 tvg-name="Classic TV" group-title="Classic",Classic TV
 https://clshls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Classic TV Crime Drama" group-title="Classic",Classic TV Crime Drama
 https://jmp2.uk/plu-61325c4f982acd000723287e.m3u8
+#EXTINF:-1 tvg-name="Comedy Central South Park (United States) LatAm" group-title="Animation;Comedy",Comedy Central South Park (United States) LatAm
+https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
 #EXTINF:-1 tvg-name="Crunchyroll" group-title="Animation",Crunchyroll
 https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
-#EXTINF:-1 tvg-name="Daria" group-title="Animation",Daria
+#EXTINF:-1 tvg-name="Daria (Germany)" group-title="Animation",Daria (Germany)
 https://jmp2.uk/plu-6683b680efa2a10008e8a393.m3u8
 #EXTINF:-1 tvg-name="Detective Conan" group-title="Animation;Kids",Detective Conan
 https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
 #EXTINF:-1 tvg-name="Detective Conan France" group-title="Animation;Kids",Detective Conan France
 https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
-#EXTINF:-1 tvg-name="Diagnosis Murder" group-title="Classic;Series",Diagnosis Murder
+#EXTINF:-1 tvg-name="Diagnosis Murder DK" group-title="Classic;Series",Diagnosis Murder DK
 https://jmp2.uk/plu-668bf7dd74f5ec000817e6d1.m3u8
-#EXTINF:-1 tvg-name="Dynasty" group-title="Classic;Series",Dynasty
+#EXTINF:-1 tvg-name="Diagnosis Murder NO" group-title="Classic;Series",Diagnosis Murder NO
+https://jmp2.uk/plu-668bf91208d5490008065ffd.m3u8
+#EXTINF:-1 tvg-name="Diagnosis Murder" group-title="Classic;Series",Diagnosis Murder
+https://jmp2.uk/plu-668bf9be0642e5000815102d.m3u8
+#EXTINF:-1 tvg-name="Dynasty (Germany)" group-title="Classic;Series",Dynasty (Germany)
 https://jmp2.uk/plu-65cb76ea11ced70008206b66.m3u8
+#EXTINF:-1 tvg-name="Dynasty (Germany) GB" group-title="Classic;Series",Dynasty (Germany) GB
+https://jmp2.uk/plu-622f48de713e510007f85808.m3u8
 #EXTINF:-1 tvg-name="GEM Classic" group-title="Classic",GEM Classic
 https://ca-rt.onetv.app/gemclassic/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-name="Happy Days" group-title="Classic;Series",Happy Days
+#EXTINF:-1 tvg-name="Happy Days (Sweden) DK" group-title="Classic;Series",Happy Days (Sweden) DK
 https://jmp2.uk/plu-654a4e29ab05240008a18625.m3u8
+#EXTINF:-1 tvg-name="Happy Days (Sweden) NO" group-title="Classic;Series",Happy Days (Sweden) NO
+https://jmp2.uk/plu-654a508d986ad20008a456a5.m3u8
+#EXTINF:-1 tvg-name="Happy Days (Sweden)" group-title="Classic;Series",Happy Days (Sweden)
+https://jmp2.uk/plu-654a52254d6d8f00084eacfc.m3u8
 #EXTINF:-1 tvg-name="Hogan's Heroes" group-title="Classic",Hogan's Heroes
 https://jmp2.uk/plu-68939e206727ec919bb39061.m3u8
-#EXTINF:-1 tvg-name="I Love Lucy" group-title="Classic;Comedy",I Love Lucy
+#EXTINF:-1 tvg-name="I Love Lucy CA" group-title="Classic;Comedy",I Love Lucy CA
 https://jmp2.uk/plu-63a2f1dda0d69700078b7cba.m3u8
-#EXTINF:-1 tvg-name="JAG" group-title="Classic;Series",JAG
+#EXTINF:-1 tvg-name="I Love Lucy" group-title="Classic;Comedy",I Love Lucy
+https://jmp2.uk/plu-634f3011f4fff20007431641.m3u8
+#EXTINF:-1 tvg-name="JAG (Sweden) DK" group-title="Classic;Series",JAG (Sweden) DK
 https://jmp2.uk/plu-654a4ab92c1d330008657ae5.m3u8
-#EXTINF:-1 tvg-name="Las Tortugas Ninja" group-title="Animation",Las Tortugas Ninja
+#EXTINF:-1 tvg-name="JAG (Sweden) NO" group-title="Classic;Series",JAG (Sweden) NO
+https://jmp2.uk/plu-654a4fc753fc9700083ae79f.m3u8
+#EXTINF:-1 tvg-name="JAG (Sweden)" group-title="Classic;Series",JAG (Sweden)
+https://jmp2.uk/plu-654a515f986ad20008a4593b.m3u8
+#EXTINF:-1 tvg-name="Las Tortugas Ninja (United States)" group-title="Animation",Las Tortugas Ninja (United States)
 https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
-#EXTINF:-1 tvg-name="MacGyver" group-title="Classic",MacGyver
+#EXTINF:-1 tvg-name="MacGyver (United States)" group-title="Classic",MacGyver (United States)
 https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
-#EXTINF:-1 tvg-name="Matlock" group-title="Classic;Series",Matlock
+#EXTINF:-1 tvg-name="MacGyver (Sweden) DK" group-title="Classic;Series",MacGyver (Sweden) DK
+https://jmp2.uk/plu-654a59742c1d33000865a797.m3u8
+#EXTINF:-1 tvg-name="MacGyver (United States) LatAm" group-title="Classic",MacGyver (United States) LatAm
+https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
+#EXTINF:-1 tvg-name="MacGyver (Sweden) NO" group-title="Classic;Series",MacGyver (Sweden) NO
+https://jmp2.uk/plu-654a59d483595c0008187514.m3u8
+#EXTINF:-1 tvg-name="MacGyver (Sweden)" group-title="Classic;Series",MacGyver (Sweden)
+https://jmp2.uk/plu-63a19eceb3d0eb0007439c34.m3u8
+#EXTINF:-1 tvg-name="Matlock (Sweden) DK" group-title="Classic;Series",Matlock (Sweden) DK
 https://jmp2.uk/plu-66290a779e68c20008a18cf3.m3u8
-#EXTINF:-1 tvg-name="Mission Impossible" group-title="Classic;Series",Mission Impossible
+#EXTINF:-1 tvg-name="Matlock (Sweden) NO" group-title="Classic;Series",Matlock (Sweden) NO
+https://jmp2.uk/plu-66290b7523e24f000832cc17.m3u8
+#EXTINF:-1 tvg-name="Matlock (Sweden)" group-title="Classic;Series",Matlock (Sweden)
+https://jmp2.uk/plu-66290c12801af8000850c1a9.m3u8
+#EXTINF:-1 tvg-name="Mission Impossible (Sweden) DK" group-title="Classic;Series",Mission Impossible (Sweden) DK
 https://jmp2.uk/plu-6478a9e4f77b61000817034b.m3u8
+#EXTINF:-1 tvg-name="Mission Impossible (Sweden) NO" group-title="Classic;Series",Mission Impossible (Sweden) NO
+https://jmp2.uk/plu-639b4eb4da3fda0008036f6e.m3u8
+#EXTINF:-1 tvg-name="Mission Impossible (Sweden)" group-title="Classic;Series",Mission Impossible (Sweden)
+https://jmp2.uk/plu-639b4f14be012600070fe1be.m3u8
 #EXTINF:-1 tvg-name="Pixel.tv" group-title="Animation;Kids",Pixel.tv
 https://jmp2.uk/plu-66bb36e03a4ad200082bb8fe.m3u8
+#EXTINF:-1 tvg-name="Pixel TV (Poland)" group-title="Animation;Kids",Pixel TV (Poland)
+https://jmp2.uk/plu-66bb374ba4ee27000841a62c.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Adult Animation" group-title="Animation;Comedy",Pluto TV Adult Animation
 https://jmp2.uk/plu-67f68bd2135aeda9ddf0ef54.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Classic TV Families" group-title="Classic",Pluto TV Classic TV Families
+#EXTINF:-1 tvg-name="Pluto TV Anime (United States) CA" group-title="Animation",Pluto TV Anime (United States) CA
+https://jmp2.uk/plu-68d25b620a0f3829b116bb6f.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Anime (Germany) ES" group-title="Animation",Pluto TV Anime (Germany) ES
+https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Anime (Germany) IT" group-title="Animation",Pluto TV Anime (Germany) IT
+https://jmp2.uk/plu-65b90daed77d450008a43345.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Anime (United States) LatAm" group-title="Animation",Pluto TV Anime (United States) LatAm
+https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
+#EXTINF:-1 tvg-name="Classic TV: Families CA" group-title="Classic",Classic TV: Families CA
 https://jmp2.uk/plu-62e91af00c43540007f2bb43.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Classic TV Variety" group-title="Classic",Pluto TV Classic TV Variety
 https://jmp2.uk/plu-68d25c623175a2780d051d3a.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Danske klassikere" group-title="Classic;Movies",Pluto TV Danske klassikere
 https://jmp2.uk/plu-67d2b814fe36d6e7b1d2318a.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Desenhos Clássicos" group-title="Classic",Pluto TV Desenhos Clássicos
+#EXTINF:-1 tvg-name="Pluto TV Desenhos Classicos" group-title="Classic",Pluto TV Desenhos Classicos
 https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Gaming por Ubisoft" group-title="Animation",Pluto TV Gaming por Ubisoft
 https://jmp2.uk/plu-64c815e8a1c6130008fef928.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Retro Crime Drama" group-title="Classic",Pluto TV Retro Crime Drama
 https://jmp2.uk/plu-630f1e6073bd1800082107f0.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Retro Toons" group-title="Animation;Kids",Pluto TV Retro Toons
+https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Series Retro" group-title="Classic",Pluto TV Series Retro
 https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Pokemon" group-title="Animation;Kids",Pluto TV Pokemon
+https://jmp2.uk/plu-687007a8ee4155e89a8f6d67.m3u8
 #EXTINF:-1 tvg-name="Puto TV Classic TV Crime Drama" group-title="Classic",Puto TV Classic TV Crime Drama
 https://jmp2.uk/plu-696e61287d2afdec4ff2cb75.m3u8
-#EXTINF:-1 tvg-name="South Park Armageddon" group-title="Animation;Comedy",South Park Armageddon
+#EXTINF:-1 tvg-name="South Park (United States)" group-title="Animation;Comedy",South Park (United States)
+https://jmp2.uk/plu-62bdb1c5e25122000798ac79.m3u8
+#EXTINF:-1 tvg-name="South Park (Sweden) DK" group-title="Animation;Comedy",South Park (Sweden) DK
+https://jmp2.uk/plu-61c098df897b9d00070375c8.m3u8
+#EXTINF:-1 tvg-name="South Park (Germany)" group-title="Animation;Comedy",South Park (Germany)
+https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
+#EXTINF:-1 tvg-name="South Park (Germany) IT" group-title="Animation;Comedy",South Park (Germany) IT
+https://jmp2.uk/plu-62bc1f502b70e3000706298e.m3u8
+#EXTINF:-1 tvg-name="South Park (Sweden) NO" group-title="Animation;Comedy",South Park (Sweden) NO
+https://jmp2.uk/plu-61c1e88cd168ea0007068133.m3u8
+#EXTINF:-1 tvg-name="South Park (Sweden)" group-title="Animation;Comedy",South Park (Sweden)
+https://jmp2.uk/plu-61c0b627e3ed94000793c18a.m3u8
+#EXTINF:-1 tvg-name="South Park Armageddon DK" group-title="Animation;Comedy",South Park Armageddon DK
 https://jmp2.uk/plu-660bff28516d260008479e23.m3u8
-#EXTINF:-1 tvg-name="South Park En Français" group-title="Animation;Comedy",South Park En Français
+#EXTINF:-1 tvg-name="South Park Armageddon NO" group-title="Animation;Comedy",South Park Armageddon NO
+https://jmp2.uk/plu-660bff5724e1d000085b7c07.m3u8
+#EXTINF:-1 tvg-name="South Park Armageddon" group-title="Animation;Comedy",South Park Armageddon
+https://jmp2.uk/plu-660bff7dc8311c0008b4bdb4.m3u8
+#EXTINF:-1 tvg-name="South Park En Francais" group-title="Animation;Comedy",South Park En Francais
 https://jmp2.uk/plu-62bdb919d36cbd0007e6ab8a.m3u8
-#EXTINF:-1 tvg-name="South Park Rockin' Out" group-title="Animation;Comedy",South Park Rockin' Out
+#EXTINF:-1 tvg-name="South Park Rockin' Out DK" group-title="Animation;Comedy",South Park Rockin' Out DK
 https://jmp2.uk/plu-664f132c8ea5560008ce4d86.m3u8
-#EXTINF:-1 tvg-name="South Park Versión Original" group-title="Animation;Comedy",South Park Versión Original
+#EXTINF:-1 tvg-name="South Park Rockin' Out NO" group-title="Animation;Comedy",South Park Rockin' Out NO
+https://jmp2.uk/plu-664f1370f78a8500092df452.m3u8
+#EXTINF:-1 tvg-name="South Park Rockin' Out" group-title="Animation;Comedy",South Park Rockin' Out
+https://jmp2.uk/plu-664f13aff9992200084a3532.m3u8
+#EXTINF:-1 tvg-name="South Park Version Original" group-title="Animation;Comedy",South Park Version Original
 https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8
-#EXTINF:-1 tvg-name="South Park: Butters Collection" group-title="Animation;Comedy",South Park: Butters Collection
+#EXTINF:-1 tvg-name="South Park: Butters Collection (Germany)" group-title="Animation;Comedy",South Park: Butters Collection (Germany)
 https://jmp2.uk/plu-646b14a0e94c3800082a8d3a.m3u8
-#EXTINF:-1 tvg-name="South Park: Cartman Collection" group-title="Animation;Comedy",South Park: Cartman Collection
+#EXTINF:-1 tvg-name="South Park: Butters Collection (Sweden) DK" group-title="Animation;Comedy",South Park: Butters Collection (Sweden) DK
+https://jmp2.uk/plu-65d87a66ec9fda0008a5ac11.m3u8
+#EXTINF:-1 tvg-name="South Park: Butters Collection (Sweden) NO" group-title="Animation;Comedy",South Park: Butters Collection (Sweden) NO
+https://jmp2.uk/plu-65d87fcb66eec8000887f4aa.m3u8
+#EXTINF:-1 tvg-name="South Park: Butters Collection (Sweden)" group-title="Animation;Comedy",South Park: Butters Collection (Sweden)
+https://jmp2.uk/plu-65d881d566eec8000887f6bb.m3u8
+#EXTINF:-1 tvg-name="South Park: Cartman Collection (United States)" group-title="Animation;Comedy",South Park: Cartman Collection (United States)
 https://jmp2.uk/plu-65df4934f7f0af0008c32545.m3u8
-#EXTINF:-1 tvg-name="South Park: Coleção Cartman" group-title="Animation;Comedy",South Park: Coleção Cartman
+#EXTINF:-1 tvg-name="South Park: Cartman Collection (Germany)" group-title="Animation;Comedy",South Park: Cartman Collection (Germany)
+https://jmp2.uk/plu-646b14747cb4b1000875724d.m3u8
+#EXTINF:-1 tvg-name="South Park: Cartman Collection (Sweden) DK" group-title="Animation;Comedy",South Park: Cartman Collection (Sweden) DK
+https://jmp2.uk/plu-65d87a058145cb0008265c2e.m3u8
+#EXTINF:-1 tvg-name="South Park: Cartman Collection (Sweden) NO" group-title="Animation;Comedy",South Park: Cartman Collection (Sweden) NO
+https://jmp2.uk/plu-65d87fa0f7f0af0008b2358b.m3u8
+#EXTINF:-1 tvg-name="South Park: Cartman Collection (Sweden)" group-title="Animation;Comedy",South Park: Cartman Collection (Sweden)
+https://jmp2.uk/plu-65d881b1332fec000833a122.m3u8
+#EXTINF:-1 tvg-name="South Park: Colecao Cartman" group-title="Animation;Comedy",South Park: Colecao Cartman
 https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8
-#EXTINF:-1 tvg-name="South Park: Coleção Kenny" group-title="Animation;Comedy",South Park: Coleção Kenny
+#EXTINF:-1 tvg-name="South Park: Colecao Kenny" group-title="Animation;Comedy",South Park: Colecao Kenny
 https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8
-#EXTINF:-1 tvg-name="South Park: Coleção Kyle" group-title="Animation;Comedy",South Park: Coleção Kyle
+#EXTINF:-1 tvg-name="South Park: Colecao Kyle" group-title="Animation;Comedy",South Park: Colecao Kyle
 https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8
-#EXTINF:-1 tvg-name="South Park: Coleção Stan" group-title="Animation;Comedy",South Park: Coleção Stan
+#EXTINF:-1 tvg-name="South Park: Colecao Stan" group-title="Animation;Comedy",South Park: Colecao Stan
 https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8
-#EXTINF:-1 tvg-name="South Park: Colección Cartman" group-title="Animation;Comedy",South Park: Colección Cartman
+#EXTINF:-1 tvg-name="South Park: Coleccion Cartman" group-title="Animation;Comedy",South Park: Coleccion Cartman
 https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8
-#EXTINF:-1 tvg-name="South Park: Colección Kenny" group-title="Animation;Comedy",South Park: Colección Kenny
+#EXTINF:-1 tvg-name="South Park: Coleccion Kenny" group-title="Animation;Comedy",South Park: Coleccion Kenny
 https://jmp2.uk/plu-65df7272ec9fda0008b7a970.m3u8
-#EXTINF:-1 tvg-name="South Park: Colección Kyle" group-title="Animation;Comedy",South Park: Colección Kyle
+#EXTINF:-1 tvg-name="South Park: Coleccion Kyle" group-title="Animation;Comedy",South Park: Coleccion Kyle
 https://jmp2.uk/plu-65df73520d4561000817c29b.m3u8
-#EXTINF:-1 tvg-name="South Park: Colección Stan" group-title="Animation;Comedy",South Park: Colección Stan
+#EXTINF:-1 tvg-name="South Park: Coleccion Stan" group-title="Animation;Comedy",South Park: Coleccion Stan
 https://jmp2.uk/plu-65df72db18036500081a8292.m3u8
-#EXTINF:-1 tvg-name="South Park: Into the Stars" group-title="Animation;Comedy",South Park: Into the Stars
+#EXTINF:-1 tvg-name="South Park: Into the Stars DK" group-title="Animation;Comedy",South Park: Into the Stars DK
 https://jmp2.uk/plu-664f0eaa8ce31100088036bd.m3u8
-#EXTINF:-1 tvg-name="South Park: Kenny Collection" group-title="Animation;Comedy",South Park: Kenny Collection
+#EXTINF:-1 tvg-name="South Park: Into the Stars NO" group-title="Animation;Comedy",South Park: Into the Stars NO
+https://jmp2.uk/plu-664f0ecc41af640008e37b43.m3u8
+#EXTINF:-1 tvg-name="South Park: Into the Stars" group-title="Animation;Comedy",South Park: Into the Stars
+https://jmp2.uk/plu-664f0eea0120f40008bf97d6.m3u8
+#EXTINF:-1 tvg-name="South Park: Kenny Collection (United States)" group-title="Animation;Comedy",South Park: Kenny Collection (United States)
 https://jmp2.uk/plu-65df47f428730900089f83ac.m3u8
-#EXTINF:-1 tvg-name="South Park: Kyle Collection" group-title="Animation;Comedy",South Park: Kyle Collection
+#EXTINF:-1 tvg-name="South Park: Kenny Collection (Germany)" group-title="Animation;Comedy",South Park: Kenny Collection (Germany)
+https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8
+#EXTINF:-1 tvg-name="South Park: Kenny Collection (Sweden) DK" group-title="Animation;Comedy",South Park: Kenny Collection (Sweden) DK
+https://jmp2.uk/plu-65d879bd0d4561000805d190.m3u8
+#EXTINF:-1 tvg-name="South Park: Kenny Collection (Sweden) NO" group-title="Animation;Comedy",South Park: Kenny Collection (Sweden) NO
+https://jmp2.uk/plu-65d87f53ec9fda0008a5b810.m3u8
+#EXTINF:-1 tvg-name="South Park: Kenny Collection (Sweden)" group-title="Animation;Comedy",South Park: Kenny Collection (Sweden)
+https://jmp2.uk/plu-65d880cea25d5e0008315b0a.m3u8
+#EXTINF:-1 tvg-name="South Park: Kyle Collection (United States)" group-title="Animation;Comedy",South Park: Kyle Collection (United States)
 https://jmp2.uk/plu-65df49b30d45610008172c5b.m3u8
+#EXTINF:-1 tvg-name="South Park: Kyle Collection (Germany)" group-title="Animation;Comedy",South Park: Kyle Collection (Germany)
+https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8
+#EXTINF:-1 tvg-name="South Park: Kyle Collection (Sweden) DK" group-title="Animation;Comedy",South Park: Kyle Collection (Sweden) DK
+https://jmp2.uk/plu-65d87a908145cb0008265c6d.m3u8
+#EXTINF:-1 tvg-name="South Park: Kyle Collection (Sweden) NO" group-title="Animation;Comedy",South Park: Kyle Collection (Sweden) NO
+https://jmp2.uk/plu-65d88004ec9fda0008a5b8b3.m3u8
+#EXTINF:-1 tvg-name="South Park: Kyle Collection (Sweden)" group-title="Animation;Comedy",South Park: Kyle Collection (Sweden)
+https://jmp2.uk/plu-65d882394e01740008a36768.m3u8
 #EXTINF:-1 tvg-name="South Park: Original Version" group-title="Animation;Comedy",South Park: Original Version
 https://jmp2.uk/plu-646b150a15939400089e2702.m3u8
-#EXTINF:-1 tvg-name="South Park: Stan Collection" group-title="Animation;Comedy",South Park: Stan Collection
+#EXTINF:-1 tvg-name="South Park: Stan Collection (United States)" group-title="Animation;Comedy",South Park: Stan Collection (United States)
 https://jmp2.uk/plu-65df48ba28730900089f8480.m3u8
+#EXTINF:-1 tvg-name="South Park: Stan Collection (Germany)" group-title="Animation;Comedy",South Park: Stan Collection (Germany)
+https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8
+#EXTINF:-1 tvg-name="South Park: Stan Collection (Sweden) DK" group-title="Animation;Comedy",South Park: Stan Collection (Sweden) DK
+https://jmp2.uk/plu-65d879e266eec8000887e91b.m3u8
+#EXTINF:-1 tvg-name="South Park: Stan Collection (Sweden) NO" group-title="Animation;Comedy",South Park: Stan Collection (Sweden) NO
+https://jmp2.uk/plu-65d87f7a28730900088e7fbf.m3u8
+#EXTINF:-1 tvg-name="South Park: Stan Collection (Sweden)" group-title="Animation;Comedy",South Park: Stan Collection (Sweden)
+https://jmp2.uk/plu-65d881914e01740008a36603.m3u8
 #EXTINF:-1 tvg-name="South Park: Welcome to Canada!" group-title="Animation;Comedy",South Park: Welcome to Canada!
 https://jmp2.uk/plu-663115d923e24f000843b49c.m3u8
 #EXTINF:-1 tvg-name="Teenage Mutant Ninja Turtles" group-title="Animation;Kids",Teenage Mutant Ninja Turtles
 https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8
+#EXTINF:-1 tvg-name="The Andy Griffith Show CA" group-title="Classic",The Andy Griffith Show CA
+https://jmp2.uk/plu-62e9145ec07f2a00070e68dc.m3u8
 #EXTINF:-1 tvg-name="The Beverly Hillbillies" group-title="Classic;Comedy",The Beverly Hillbillies
 https://jmp2.uk/plu-6565fefdc917a50008485cc6.m3u8
 #EXTINF:-1 tvg-name="Western TV" group-title="Classic",Western TV
@@ -417,7 +559,7 @@ http://8.243.126.131:8000/play/a0od/index.m3u8
 https://adpnetworkhd-cmd.github.io/iptv/Pingvin.m3u8
 #EXTINF:-1 tvg-name="eSports Max TV" group-title="Animation",eSports Max TV
 https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
-#EXTINF:-1 tvg-name="Nostalgia (576p)" group-title="Classic",Nostalgia (576p)
+#EXTINF:-1 tvg-name="Nostalgia (Russia) (576p)" group-title="Classic",Nostalgia (Russia) (576p)
 http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
 #EXTINF:-1 tvg-name="Retro TV" group-title="Classic",Retro TV
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8
@@ -429,10 +571,18 @@ http://45.166.93.156:9999/play/a0f3/index.m3u8
 https://jmp2.uk/plu-664f12bb3d173b0008168c1f.m3u8
 #EXTINF:-1 tvg-name="South Park: Stars & Sternchen" group-title="Animation;Comedy",South Park: Stars & Sternchen
 https://jmp2.uk/plu-664f0d373d173b0008164948.m3u8
-#EXTINF:-1 tvg-name="Rawhide" group-title="Classic;Series",Rawhide
+#EXTINF:-1 tvg-name="Rawhide (Sweden) DK" group-title="Classic;Series",Rawhide (Sweden) DK
 https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8
-#EXTINF:-1 tvg-name="The Wild Wild West" group-title="Classic;Series",The Wild Wild West
+#EXTINF:-1 tvg-name="Rawhide (Sweden) NO" group-title="Classic;Series",Rawhide (Sweden) NO
+https://jmp2.uk/plu-6964baa63dfd98e10945ac51.m3u8
+#EXTINF:-1 tvg-name="Rawhide (Sweden)" group-title="Classic;Series",Rawhide (Sweden)
+https://jmp2.uk/plu-6964bb3640c8de392514a0c6.m3u8
+#EXTINF:-1 tvg-name="The Wild Wild West (Sweden) DK" group-title="Classic;Series",The Wild Wild West (Sweden) DK
 https://jmp2.uk/plu-6964bc3806d76f50db3e315e.m3u8
+#EXTINF:-1 tvg-name="The Wild Wild West (Sweden) NO" group-title="Classic;Series",The Wild Wild West (Sweden) NO
+https://jmp2.uk/plu-6964bca2a6c400fd418854a2.m3u8
+#EXTINF:-1 tvg-name="The Wild Wild West (Sweden)" group-title="Classic;Series",The Wild Wild West (Sweden)
+https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8
 #EXTINF:-1 tvg-name="Hasbro Legends [Geo-blocked]" group-title="Animation;Kids",Hasbro Legends [Geo-blocked]
 https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02713-amg02713c11-amgplt0852/playlist.m3u8
 #EXTINF:-1 tvg-name="MeTV Toons" group-title="Animation;Kids",MeTV Toons
@@ -491,13 +641,15 @@ http://cdn1tlinkgo.tlink.cl/etc/mono.m3u8
 http://cdn1tlinkgo.tlink.cl/tvn3/mono.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Classic;Movies",Bollywood Classic Romania" group-title="Classic;Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Classic;Movies",Bollywood Classic Romania
 https://flash1.bogulus1.cfd/boly/usergenr9j8s2t.m3u8
+#EXTINF:-1 tvg-name="WOW Kidz Telugu" group-title="Animation;Kids",WOW Kidz Telugu
+https://yuppparoriglin.akamaized.net/181224/smil:wowkidztelgu.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-name="WOW Kidz Tamil" group-title="Animation;Kids",WOW Kidz Tamil
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidztam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-name="Sony Yay! (576p)" group-title="Animation;Kids",Sony Yay! (576p)
 http://103.165.93.31:8095/sonyYay/index.m3u8
 #EXTINF:-1 tvg-name="Super Hungama (576p)" group-title="Animation;Kids",Super Hungama (576p)
 http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
-#EXTINF:-1 tvg-name="ANIME x HIDIVE" group-title="Animation",ANIME x HIDIVE
+#EXTINF:-1 tvg-name="Anime x HIDIVE" group-title="Animation",Anime x HIDIVE
 https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8
 #EXTINF:-1 tvg-name="Detvora+" group-title="Animation;Family;Kids",Detvora+
 https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8
@@ -505,7 +657,7 @@ https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8
 https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8
 #EXTINF:-1 tvg-name="Velvet. Sovetskoe Kino" group-title="Classic;Movies",Velvet. Sovetskoe Kino
 https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8
-#EXTINF:-1 tvg-name="Minimax" group-title="Animation;Kids",Minimax
+#EXTINF:-1 tvg-name="Minimax (Romania)" group-title="Animation;Kids",Minimax (Romania)
 https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
 #EXTINF:-1 tvg-name="Bollywood Film" group-title="Classic;Movies",Bollywood Film
 https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8

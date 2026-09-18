@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-18 15:50:28
-# Всего каналов: 23954
-# Новых за сессию: 0
+# Обновлено: 2026-09-18 18:55:40
+# Всего каналов: 23959
+# Новых за сессию: 5
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Weather
 # Каналов: 28
-# Обновлено: 2026-09-18 15:50:29
+# Обновлено: 2026-09-18 18:55:41
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Weathernews" group-title="Weather",Weathernews
@@ -25,7 +25,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/foxweather-xumo.amagi.
 #EXTINF:-1 tvg-name="WeatherNation" group-title="Weather",WeatherNation
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.weathernationtv.com/WNTVStirr_eokxldieulowixkdimn/ND1/playlistSCTE35.m3u8
 
-#EXTINF:-1 tvg-name="WeatherSpy" group-title="Weather",WeatherSpy
+#EXTINF:-1 tvg-name="WeatherSpy (United States)" group-title="Weather",WeatherSpy (United States)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/d12gab6t5iutxf.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NHK Kishou Saigai (360p)" group-title="Weather",NHK Kishou Saigai (360p)
@@ -34,16 +34,16 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/newssimul-stream.nhk.j
 #EXTINF:-1 tvg-name="Weathernews" group-title="Weather",Weathernews
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
 
-#EXTINF:-1 tvg-name="中国气象 (576p)" group-title="Weather",中国气象 (576p)
+#EXTINF:-1 tvg-name="China Weather Channel (576p)" group-title="Weather",China Weather Channel (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
-#EXTINF:-1 tvg-name="Weatherspy" group-title="Weather",Weatherspy
+#EXTINF:-1 tvg-name="WeatherSpy (India)" group-title="Weather",WeatherSpy (India)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="WeatherSpy" group-title="Weather",WeatherSpy
+#EXTINF:-1 tvg-name="WeatherSpy (Mexico)" group-title="Weather",WeatherSpy (Mexico)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="WeatherSpy" group-title="Weather",WeatherSpy
+#EXTINF:-1 tvg-name="WeatherSpy (Australia)" group-title="Weather",WeatherSpy (Australia)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/jukin-weatherspy-2-au.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Meteonews" group-title="Weather",Meteonews
@@ -82,7 +82,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn1tlinkgo.tlink.cl/m
 #EXTINF:-1 tvg-name="Fox Weather" group-title="Weather",Fox Weather
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/247wlive.foxweather.com/stream/index.m3u8
 
-#EXTINF:-1 tvg-name="AccuWeather Now" group-title="Weather",AccuWeather Now
+#EXTINF:-1 tvg-name="AccuWeather NOW" group-title="Weather",AccuWeather NOW
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 
 #EXTINF:-1 tvg-name="KTCA-DT5" group-title="Weather",KTCA-DT5
@@ -94,5 +94,5 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cfd-v4-service-channel
 #EXTINF:-1 tvg-name="The Weather Network" group-title="Weather",The Weather Network
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/d3f6rv2ihfj09x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4l4ssesb90374-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 tvg-name="3Cat Càmeres del temps" group-title="Public;Weather",3Cat Càmeres del temps
+#EXTINF:-1 tvg-name="3Cat Cameres del temps" group-title="Public;Weather",3Cat Cameres del temps
 https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
