@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-17 23:23:51
-# Всего каналов: 23884
-# Новых за сессию: 0
+# Обновлено: 2026-09-18 01:24:01
+# Всего каналов: 23953
+# Новых за сессию: 69
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;News;Shop
 # Каналов: 1
-# Обновлено: 2026-09-17 23:23:52
+# Обновлено: 2026-09-18 01:24:02
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Extra ProNews (576p)" group-title="Entertainment;News;Shop",Extra ProNews (576p)
@@ -4495,6 +4495,8 @@ https://live1.ottlive.co.in/worldpunjabitv/worldpunjabitv/index.m3u8
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTI1LjIzOjcwMDAvY2g0My90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTU3LjEyOC4yMzYuMjIzJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1NTE0NiZzdD02SC1HSlEtemw4X1NCQjMzRjVLTUpn&master=1103
 #EXTINF:-1 tvg-name="Colors Kannada (1080i)" group-title="Entertainment",Colors Kannada (1080i)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Che! (576p)" group-title="Entertainment",Che! (576p)
+http://flussonic.linkintel.ru/che/index.m3u8
 #EXTINF:-1 tvg-name="TNT4 (576p)" group-title="Entertainment",TNT4 (576p)
 http://flussonic.linkintel.ru/tnt4/index.m3u8
 #EXTINF:-1 tvg-name="Lifetime [Geo-blocked]" group-title="Entertainment",Lifetime [Geo-blocked]
@@ -4685,3 +4687,7 @@ https://server.playontv.in/raatdinbangla/index.m3u8
 https://mumt07.tangotv.in/zHjX9OFlSATHIYAMTV/index.m3u8
 #EXTINF:-1 tvg-name="BBC News South Asia" group-title="News",BBC News South Asia
 https://mumbai-edge.smartplaytv.in/BBCNews/index.m3u8
+#EXTINF:-1 tvg-name="TNT4" group-title="Entertainment",TNT4
+http://str2.iptvhd.ru:8080/TNT_4/index.m3u8
+#EXTINF:-1 tvg-name="TF1" group-title="Entertainment",TF1
+http://str2.iptvhd.ru:8080/TF1/index.m3u8

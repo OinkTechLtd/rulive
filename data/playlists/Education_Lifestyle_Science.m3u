@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-17 23:23:51
-# Всего каналов: 23884
-# Новых за сессию: 0
+# Обновлено: 2026-09-18 01:24:01
+# Всего каналов: 23953
+# Новых за сессию: 69
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Lifestyle;Science
 # Каналов: 1
-# Обновлено: 2026-09-17 23:23:52
+# Обновлено: 2026-09-18 01:24:02
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Jilin Rural Channel" group-title="Education;Lifestyle;Science",Jilin Rural Channel
@@ -759,6 +759,8 @@ http://185.246.209.113/SmithsonianHD/index.m3u8
 http://185.246.209.113/CottageLife/index.m3u8
 #EXTINF:-1 tvg-name="CTV Life Channel" group-title="Lifestyle",CTV Life Channel
 http://185.246.209.113/ANIMALPLANETHD/index.m3u8
+#EXTINF:-1 tvg-name="Da Vinci (576p)" group-title="Education",Da Vinci (576p)
+http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
 #EXTINF:-1 tvg-name="HGTV" group-title="Lifestyle",HGTV
 https://i.mjh.nz/.r/sky-hgtv.m3u8
 #EXTINF:-1 tvg-name="Senales TV" group-title="Lifestyle",Senales TV
@@ -883,3 +885,5 @@ https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunk
 https://mumbai-edge.smartplaytv.in/ETVLIFE/index.m3u8
 #EXTINF:-1 tvg-name="TV7" group-title="Education",TV7
 http://185.9.2.18/chid_352/index.m3u8
+#EXTINF:-1 tvg-name="Kto est kto (576p)" group-title="Education",Kto est kto (576p)
+http://str2.iptvhd.ru:8080/kto_est_kto/index.m3u8

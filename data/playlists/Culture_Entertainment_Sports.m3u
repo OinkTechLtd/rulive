@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-17 23:23:51
-# Всего каналов: 23884
-# Новых за сессию: 0
+# Обновлено: 2026-09-18 01:24:01
+# Всего каналов: 23953
+# Новых за сессию: 69
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Entertainment;Sports
 # Каналов: 1
-# Обновлено: 2026-09-17 23:23:52
+# Обновлено: 2026-09-18 01:24:02
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="YES" group-title="Culture;Entertainment;Sports",YES
@@ -3645,6 +3645,8 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlis
 http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8
 #EXTINF:-1 tvg-name="Sports Television" group-title="Sports",Sports Television
 https://kctv.koryofront.org/stream/sports/index.m3u8
+#EXTINF:-1 tvg-name="Che! (576p)" group-title="Entertainment",Che! (576p)
+http://flussonic.linkintel.ru/che/index.m3u8
 #EXTINF:-1 tvg-name="TNT4 (576p)" group-title="Entertainment",TNT4 (576p)
 http://flussonic.linkintel.ru/tnt4/index.m3u8
 #EXTINF:-1 tvg-name="Lifetime [Geo-blocked]" group-title="Entertainment",Lifetime [Geo-blocked]
@@ -3763,3 +3765,13 @@ http://hls127.freeott.top:8080/BG_MAX_Sport_2_HD/video.m3u8
 http://hls127.freeott.top:8080/BG_MAX_Sport_3_HD/video.m3u8
 #EXTINF:-1 tvg-name="Max Sport 4" group-title="Sports",Max Sport 4
 http://hls127.freeott.top:8080/BG_MAX_Sport_4_HD/video.m3u8
+#EXTINF:-1 tvg-name="Extreme Sports Channel" group-title="Sports",Extreme Sports Channel
+http://str2.iptvhd.ru:8080/Extreme_Sports/index.m3u8
+#EXTINF:-1 tvg-name="Match! Igra" group-title="Sports",Match! Igra
+http://str2.iptvhd.ru:8080/Match_Igra_HD/index.m3u8
+#EXTINF:-1 tvg-name="TNT4" group-title="Entertainment",TNT4
+http://str2.iptvhd.ru:8080/TNT_4/index.m3u8
+#EXTINF:-1 tvg-name="Sport+ Qazaqstan" group-title="Sports",Sport+ Qazaqstan
+https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="TF1" group-title="Entertainment",TF1
+http://str2.iptvhd.ru:8080/TF1/index.m3u8

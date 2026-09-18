@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-17 23:23:51
-# Всего каналов: 23884
-# Новых за сессию: 0
+# Обновлено: 2026-09-18 01:24:01
+# Всего каналов: 23953
+# Новых за сессию: 69
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;Music
 # Каналов: 3
-# Обновлено: 2026-09-17 23:23:52
+# Обновлено: 2026-09-18 01:24:02
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Shemaroo Filmi Gaane" group-title="Movies;Music",Shemaroo Filmi Gaane
@@ -129,6 +129,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b4743
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 #EXTINF:-1 tvg-name="Муз ТВ (450p) [Geo-blocked]" group-title="Music",Муз ТВ (450p) [Geo-blocked]
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 tvg-name="DanceHits80" group-title="Music",DanceHits80
+http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 tvg-name="DTR Music 1" group-title="Music",DTR Music 1
 https://kino-stream.online/hls/DTRMUSIC1.m3u8
 #EXTINF:-1 tvg-name="Europa Plus TV" group-title="Music",Europa Plus TV
@@ -3073,6 +3075,8 @@ https://cdnbarinas.tvzamora.com/showven/index.m3u8
 https://streamer.metronethn.com/StarChannel/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Emotion Hungary" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Emotion Hungary
 http://88.212.15.19/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-name="Classic Music" group-title="Music",Classic Music
+http://stream.mcquack.net/312/index.m3u8
 #EXTINF:-1 tvg-name="Evrokino" group-title="Movies",Evrokino
 http://stream.mcquack.net/385/index.m3u8
 #EXTINF:-1 tvg-name="Muzyka Live (576p)" group-title="Music",Muzyka Live (576p)
@@ -3497,6 +3501,8 @@ http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ%3D%3D&master=568
 #EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",B4U Kadak (576p)" group-title="Movies",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",B4U Kadak (576p)
 http://103.175.73.12:8080/live/44/44_0.m3u8
+#EXTINF:-1 tvg-name="Cinema (576p)" group-title="Movies",Cinema (576p)
+http://flussonic.linkintel.ru/cinema/index.m3u8
 #EXTINF:-1 tvg-name="AMC [Geo-blocked]" group-title="Movies",AMC [Geo-blocked]
 http://41.205.93.154/AMC/index.m3u8
 #EXTINF:-1 tvg-name="B4U Kadak (576p)" group-title="Movies",B4U Kadak (576p)
@@ -3611,3 +3617,19 @@ https://streams.tangotv.in/BALLEBALLE/ORIGIN/index.m3u8
 https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-name="NH BollyGold" group-title="Movies",NH BollyGold
 https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8
+#EXTINF:-1 tvg-name="Illusion+ (576p)" group-title="Movies",Illusion+ (576p)
+http://176.118.197.101/Illuzion+/index.m3u8
+#EXTINF:-1 tvg-name="FILMBOX+ One Ukraine & Baltics (576p)" group-title="Movies",FILMBOX+ One Ukraine & Baltics (576p)
+https://iptv.prosto.tv/ch064/index.m3u8
+#EXTINF:-1 tvg-name="Horror Channel" group-title="Movies",Horror Channel
+http://str2.iptvhd.ru:8080/Horror/index.m3u8
+#EXTINF:-1 tvg-name="Bollywood Film" group-title="Classic;Movies",Bollywood Film
+https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
+#EXTINF:-1 tvg-name="HOT Cinema 2" group-title="Movies",HOT Cinema 2
+http://str2.iptvhd.ru:8080/action/index.m3u8
+#EXTINF:-1 tvg-name="HOT Cinema 3" group-title="Movies",HOT Cinema 3
+http://str2.iptvhd.ru:8080/fun/index.m3u8
+#EXTINF:-1 tvg-name="HOT Cinema 4" group-title="Movies",HOT Cinema 4
+http://str2.iptvhd.ru:8080/drama/index.m3u8
+#EXTINF:-1 tvg-name="Mooz Dance" group-title="Music",Mooz Dance
+https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8

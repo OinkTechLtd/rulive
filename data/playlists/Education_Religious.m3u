@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-17 23:23:51
-# Всего каналов: 23884
-# Новых за сессию: 0
+# Обновлено: 2026-09-18 01:24:01
+# Всего каналов: 23953
+# Новых за сессию: 69
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Religious
 # Каналов: 2
-# Обновлено: 2026-09-17 23:23:52
+# Обновлено: 2026-09-18 01:24:02
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Paighan TV" group-title="Education;Religious",Paighan TV
@@ -1968,6 +1968,8 @@ https://cdn.oktvus.com/ConectadoConDios/tracks-v2a1/mono.ts.m3u8
 https://eu1.servers10.com:8081/8338/index.m3u8
 #EXTINF:-1 tvg-name="Poder de Dios TV" group-title="Religious",Poder de Dios TV
 https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8
+#EXTINF:-1 tvg-name="Da Vinci (576p)" group-title="Education",Da Vinci (576p)
+http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
 #EXTINF:-1 tvg-name="Andes Television" group-title="Religious",Andes Television
 https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8
 #EXTINF:-1 tvg-name="Rede Vida (576p)" group-title="Religious",Rede Vida (576p)
@@ -2248,3 +2250,5 @@ https://mumt01.tangotv.in/O5aw8Zn3SARAVDHARAMSANGAM/index.m3u8
 https://server.playontv.in/swastiktv/index.m3u8
 #EXTINF:-1 tvg-name="TV7" group-title="Education",TV7
 http://185.9.2.18/chid_352/index.m3u8
+#EXTINF:-1 tvg-name="Kto est kto (576p)" group-title="Education",Kto est kto (576p)
+http://str2.iptvhd.ru:8080/kto_est_kto/index.m3u8

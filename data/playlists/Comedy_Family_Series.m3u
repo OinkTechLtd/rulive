@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-17 23:23:51
-# Всего каналов: 23884
-# Новых за сессию: 0
+# Обновлено: 2026-09-18 01:24:01
+# Всего каналов: 23953
+# Новых за сессию: 69
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Family;Series
 # Каналов: 2
-# Обновлено: 2026-09-17 23:23:52
+# Обновлено: 2026-09-18 01:24:02
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Velvet. Series Hits" group-title="Comedy;Family;Series",Velvet. Series Hits
@@ -1310,3 +1310,7 @@ https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8
 http://4.30.180.36:8420/hbo2/index.m3u8?token=test
 #EXTINF:-1 tvg-name="Laff WJLP (576p)" group-title="Comedy",Laff WJLP (576p)
 http://4.30.180.36:8420/laff/index.m3u8?token=test
+#EXTINF:-1 tvg-name="FX Life (576p)" group-title="Series",FX Life (576p)
+http://str2.iptvhd.ru:8080/Fox_Life_HD/index.m3u8
+#EXTINF:-1 tvg-name="Mir Seriala (576p)" group-title="Series",Mir Seriala (576p)
+http://176.118.197.101/MirSeriala/index.m3u8

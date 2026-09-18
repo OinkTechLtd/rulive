@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-17 23:23:51
-# Всего каналов: 23884
-# Новых за сессию: 0
+# Обновлено: 2026-09-18 01:24:01
+# Всего каналов: 23953
+# Новых за сессию: 69
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Music
 # Каналов: 6
-# Обновлено: 2026-09-17 23:23:52
+# Обновлено: 2026-09-18 01:24:02
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Radio Carnaval TV" group-title="Entertainment;Music",Radio Carnaval TV
@@ -118,6 +118,8 @@ https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 tvg-name="Муз ТВ (450p) [Geo-blocked]" group-title="Music",Муз ТВ (450p) [Geo-blocked]
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 tvg-name="DanceHits80" group-title="Music",DanceHits80
+http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 tvg-name="DTR Music 1" group-title="Music",DTR Music 1
 https://kino-stream.online/hls/DTRMUSIC1.m3u8
 #EXTINF:-1 tvg-name="DTR Zona 1" group-title="Entertainment",DTR Zona 1
@@ -3394,6 +3396,8 @@ https://futbol9865.ultratv13.workers.dev/deportivo111/24.m3u8
 https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 #EXTINF:-1 tvg-name="ShowVen TV" group-title="Culture;Music",ShowVen TV
 https://cdnbarinas.tvzamora.com/showven/index.m3u8
+#EXTINF:-1 tvg-name="Classic Music" group-title="Music",Classic Music
+http://stream.mcquack.net/312/index.m3u8
 #EXTINF:-1 tvg-name="Fox (576p)" group-title="Entertainment",Fox (576p)
 http://stream.mcquack.net/182/index.m3u8
 #EXTINF:-1 tvg-name="Muzyka Live (576p)" group-title="Music",Muzyka Live (576p)
@@ -3684,6 +3688,8 @@ http://stream.mcquack.net/283/index.m3u8
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTI1LjIzOjcwMDAvY2g0My90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTU3LjEyOC4yMzYuMjIzJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1NTE0NiZzdD02SC1HSlEtemw4X1NCQjMzRjVLTUpn&master=1103
 #EXTINF:-1 tvg-name="Colors Kannada (1080i)" group-title="Entertainment",Colors Kannada (1080i)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Che! (576p)" group-title="Entertainment",Che! (576p)
+http://flussonic.linkintel.ru/che/index.m3u8
 #EXTINF:-1 tvg-name="TNT4 (576p)" group-title="Entertainment",TNT4 (576p)
 http://flussonic.linkintel.ru/tnt4/index.m3u8
 #EXTINF:-1 tvg-name="Lifetime [Geo-blocked]" group-title="Entertainment",Lifetime [Geo-blocked]
@@ -3784,3 +3790,9 @@ https://server.playontv.in/friendstv/index.m3u8
 https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
 #EXTINF:-1 tvg-name="Pulari TV (576p)" group-title="Entertainment",Pulari TV (576p)
 https://mumbai-edge.smartplaytv.in/PulariTV/index.m3u8
+#EXTINF:-1 tvg-name="TNT4" group-title="Entertainment",TNT4
+http://str2.iptvhd.ru:8080/TNT_4/index.m3u8
+#EXTINF:-1 tvg-name="TF1" group-title="Entertainment",TF1
+http://str2.iptvhd.ru:8080/TF1/index.m3u8
+#EXTINF:-1 tvg-name="Mooz Dance" group-title="Music",Mooz Dance
+https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8

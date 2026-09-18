@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-17 23:23:51
-# Всего каналов: 23884
-# Новых за сессию: 0
+# Обновлено: 2026-09-18 01:24:01
+# Всего каналов: 23953
+# Новых за сессию: 69
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music
-# Каналов: 933
-# Обновлено: 2026-09-17 23:23:52
+# Каналов: 941
+# Обновлено: 2026-09-18 01:24:02
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Deluxe Music" group-title="Music",Deluxe Music
@@ -2386,6 +2386,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/mn-nl.mncdn.com/amusic
 #EXTINF:-1 tvg-name="Stingray iConcerts" group-title="Music",Stingray iConcerts
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Classic Music" group-title="Music",Classic Music
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/312/index.m3u8
+
 #EXTINF:-1 tvg-name="Muzyka Live (576p)" group-title="Music",Muzyka Live (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream.mcquack.net/303/index.m3u8
 
@@ -2722,6 +2725,24 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/mumbai-edge.smartplayt
 #EXTINF:-1 tvg-name="Mastiii (576p)" group-title="Music",Mastiii (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
 
+#EXTINF:-1 tvg-name="MusicBox Gold (576p)" group-title="Music",MusicBox Gold (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/str2.iptvhd.ru:8080/360TuneBox/index.m3u8
+
+#EXTINF:-1 tvg-name="Mezzo" group-title="Music",Mezzo
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/str2.iptvhd.ru:8080/Mezzo_HD/index.m3u8
+
+#EXTINF:-1 tvg-name="Stingray iConcerts" group-title="Music",Stingray iConcerts
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/str2.iptvhd.ru:8080/iConcertsHD/index.m3u8
+
+#EXTINF:-1 tvg-name="Mooz Dance" group-title="Music",Mooz Dance
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8
+
+#EXTINF:-1 tvg-name="Mooz Hits" group-title="Music",Mooz Hits
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8
+
+#EXTINF:-1 tvg-name="Mooz Ro!" group-title="Music",Mooz Ro!
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tvextra-hls.b-cdn.net/moozro/moozro.m3u8
+
 #EXTINF:-1 tvg-name="City TV (576p)" group-title="Music",City TV (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.city.bg/play/tshls/citytv/index.m3u8
 
@@ -2787,6 +2808,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/live.m2.tv/hls3/stream
 
 #EXTINF:-1 tvg-name="Муз ТВ (450p) [Geo-blocked]" group-title="Music",Муз ТВ (450p) [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+
+#EXTINF:-1 tvg-name="DanceHits80" group-title="Music",DanceHits80
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/dancehits80.denvs.ru:8080/index.m3u8
 
 #EXTINF:-1 tvg-name="Europa Plus TV" group-title="Music",Europa Plus TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/31.148.48.15/Europa_Plus_HD/index.m3u8

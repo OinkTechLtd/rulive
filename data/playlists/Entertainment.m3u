@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-17 23:23:51
-# Всего каналов: 23884
-# Новых за сессию: 0
+# Обновлено: 2026-09-18 01:24:01
+# Всего каналов: 23953
+# Новых за сессию: 69
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment
-# Каналов: 1204
-# Обновлено: 2026-09-17 23:23:52
+# Каналов: 1208
+# Обновлено: 2026-09-18 01:24:02
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Arte [Geo-blocked]" group-title="Entertainment",Arte [Geo-blocked]
@@ -3316,6 +3316,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/777905.live.tvstitch.c
 #EXTINF:-1 tvg-name="Colors Kannada (1080i)" group-title="Entertainment",Colors Kannada (1080i)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Che! (576p)" group-title="Entertainment",Che! (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/flussonic.linkintel.ru/che/index.m3u8
+
 #EXTINF:-1 tvg-name="TNT4 (576p)" group-title="Entertainment",TNT4 (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/flussonic.linkintel.ru/tnt4/index.m3u8
 
@@ -3501,6 +3504,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/mumbai-edge.smartplayt
 
 #EXTINF:-1 tvg-name="Pulari TV (576p)" group-title="Entertainment",Pulari TV (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/mumbai-edge.smartplaytv.in/PulariTV/index.m3u8
+
+#EXTINF:-1 tvg-name="FX" group-title="Entertainment",FX
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/str2.iptvhd.ru:8080/FOX_HD/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT4" group-title="Entertainment",TNT4
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/str2.iptvhd.ru:8080/TNT_4/index.m3u8
+
+#EXTINF:-1 tvg-name="TF1" group-title="Entertainment",TF1
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/str2.iptvhd.ru:8080/TF1/index.m3u8
 
 #EXTINF:-1 tvg-name="Belarus-2" group-title="Entertainment",Belarus-2
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8

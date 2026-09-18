@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-17 23:23:51
-# Всего каналов: 23884
-# Новых за сессию: 0
+# Обновлено: 2026-09-18 01:24:01
+# Всего каналов: 23953
+# Новых за сессию: 69
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Movies
 # Каналов: 1
-# Обновлено: 2026-09-17 23:23:52
+# Обновлено: 2026-09-18 01:24:02
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="FAN" group-title="Animation;Movies",FAN
@@ -2055,6 +2055,8 @@ http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ%3D%3D&master=568
 #EXTINF:-1 tvg-name="like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",B4U Kadak (576p)" group-title="Movies",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",B4U Kadak (576p)
 http://103.175.73.12:8080/live/44/44_0.m3u8
+#EXTINF:-1 tvg-name="Cinema (576p)" group-title="Movies",Cinema (576p)
+http://flussonic.linkintel.ru/cinema/index.m3u8
 #EXTINF:-1 tvg-name="AMC [Geo-blocked]" group-title="Movies",AMC [Geo-blocked]
 http://41.205.93.154/AMC/index.m3u8
 #EXTINF:-1 tvg-name="B4U Kadak (576p)" group-title="Movies",B4U Kadak (576p)
@@ -2149,3 +2151,17 @@ https://fs.uplink.kz/kinoboevik/mono.m3u8?token=onlinetv
 https://fs.uplink.kz/mirovoe_kino/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-name="NH BollyGold" group-title="Movies",NH BollyGold
 https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8
+#EXTINF:-1 tvg-name="Illusion+ (576p)" group-title="Movies",Illusion+ (576p)
+http://176.118.197.101/Illuzion+/index.m3u8
+#EXTINF:-1 tvg-name="FILMBOX+ One Ukraine & Baltics (576p)" group-title="Movies",FILMBOX+ One Ukraine & Baltics (576p)
+https://iptv.prosto.tv/ch064/index.m3u8
+#EXTINF:-1 tvg-name="Horror Channel" group-title="Movies",Horror Channel
+http://str2.iptvhd.ru:8080/Horror/index.m3u8
+#EXTINF:-1 tvg-name="Bollywood Film" group-title="Classic;Movies",Bollywood Film
+https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
+#EXTINF:-1 tvg-name="HOT Cinema 2" group-title="Movies",HOT Cinema 2
+http://str2.iptvhd.ru:8080/action/index.m3u8
+#EXTINF:-1 tvg-name="HOT Cinema 3" group-title="Movies",HOT Cinema 3
+http://str2.iptvhd.ru:8080/fun/index.m3u8
+#EXTINF:-1 tvg-name="HOT Cinema 4" group-title="Movies",HOT Cinema 4
+http://str2.iptvhd.ru:8080/drama/index.m3u8
