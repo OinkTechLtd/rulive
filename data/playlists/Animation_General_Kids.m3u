@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-18 23:30:41
-# Всего каналов: 23959
-# Новых за сессию: 0
+# Обновлено: 2026-09-19 01:30:54
+# Всего каналов: 23962
+# Новых за сессию: 3
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;General;Kids
 # Каналов: 2
-# Обновлено: 2026-09-18 23:30:42
+# Обновлено: 2026-09-19 01:30:55
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="BBC Four/CBeebies [Geo-Blocked]" group-title="Animation;General;Kids",BBC Four/CBeebies [Geo-Blocked]
@@ -7460,6 +7460,8 @@ https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
 https://fs.uplink.kz/perviy_kanal_evrasia/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-name="Jibek Joly (576p)" group-title="General",Jibek Joly (576p)
 https://fs.uplink.kz/jibek_joly/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="Galavision West" group-title="General",Galavision West
+http://200.115.120.1:8000/play/ca128/index.m3u8
 #EXTINF:-1 tvg-name="Channel One CIS (576p)" group-title="General",Channel One CIS (576p)
 https://fs.uplink.kz/perviy_kanal_sng/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-name="TraLaLa TV" group-title="Kids",TraLaLa TV
@@ -7474,3 +7476,5 @@ http://str2.iptvhd.ru:8080/nickjr/index.m3u8
 http://176.61.157.250/NickJr/index.m3u8
 #EXTINF:-1 tvg-name="Roya TV (Jordan)" group-title="General",Roya TV (Jordan)
 https://live.kwikmotion.com/royatvpublic/royatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Cartoon Classics" group-title="Animation;Kids",Cartoon Classics
+https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-18 23:30:41
-# Всего каналов: 23959
-# Новых за сессию: 0
+# Обновлено: 2026-09-19 01:30:54
+# Всего каналов: 23962
+# Новых за сессию: 3
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Music
 # Каналов: 1
-# Обновлено: 2026-09-18 23:30:42
+# Обновлено: 2026-09-19 01:30:55
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Zhara Kids TV (576p)" group-title="Kids;Music",Zhara Kids TV (576p)
@@ -2881,3 +2881,5 @@ http://str2.iptvhd.ru:8080/nickjr/index.m3u8
 http://176.61.157.250/NickJr/index.m3u8
 #EXTINF:-1 tvg-name="Mooz Dance" group-title="Music",Mooz Dance
 https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8
+#EXTINF:-1 tvg-name="Cartoon Classics" group-title="Animation;Kids",Cartoon Classics
+https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
