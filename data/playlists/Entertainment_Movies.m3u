@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-20 00:15:22
-# Всего каналов: 23963
-# Новых за сессию: 0
+# Обновлено: 2026-09-20 00:42:25
+# Всего каналов: 23984
+# Новых за сессию: 21
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Movies
 # Каналов: 2
-# Обновлено: 2026-09-20 00:15:23
+# Обновлено: 2026-09-20 00:42:26
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="KCM India [Geo-blocked]" group-title="Entertainment;Movies",KCM India [Geo-blocked]
@@ -4254,3 +4254,11 @@ http://str2.iptvhd.ru:8080/action/index.m3u8
 http://str2.iptvhd.ru:8080/fun/index.m3u8
 #EXTINF:-1 tvg-name="HOT Cinema 4" group-title="Movies",HOT Cinema 4
 http://str2.iptvhd.ru:8080/drama/index.m3u8
+#EXTINF:-1 tvg-name="FX (United States) East" group-title="Entertainment",FX (United States) East
+http://4.30.180.36:8420/fx/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Manoranjan Movies (576p)" group-title="Movies",Manoranjan Movies (576p)
+https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8
+#EXTINF:-1 tvg-name="PTC Punjabi (576p)" group-title="Entertainment",PTC Punjabi (576p)
+https://streams.tangotv.in/PTCPUNJABI/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-name="OTV (Estonia)" group-title="Entertainment",OTV (Estonia)
+http://88.212.15.19/live/otv/playlist.m3u8

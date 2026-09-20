@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-20 00:15:22
-# Всего каналов: 23963
-# Новых за сессию: 0
+# Обновлено: 2026-09-20 00:42:25
+# Всего каналов: 23984
+# Новых за сессию: 21
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Movies;Series
 # Каналов: 2
-# Обновлено: 2026-09-20 00:15:23
+# Обновлено: 2026-09-20 00:42:26
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Comedy;Movies;Series",like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -3066,6 +3066,8 @@ http://stream.mcquack.net/465/index.m3u8
 http://stream.mcquack.net/456/index.m3u8
 #EXTINF:-1 tvg-name="FXM" group-title="Movies",FXM
 https://gpuserver3.tier1streams.com/FXM/index.m3u8
+#EXTINF:-1 tvg-name="REV'N Action [Geo-blocked]" group-title="Auto;Outdoor;Series;Sports",REV'N Action [Geo-blocked]
+https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",AMC Europe Romania (576p)" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",AMC Europe Romania (576p)
 https://aes.m3u8simplu.workers.dev/amc/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",AXN Black Romania (406p)" group-title="Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",AXN Black Romania (406p)
@@ -3276,7 +3278,7 @@ https://streams.comclark.com/pknhd/axn/playlist.m3u8
 https://dethich.pw/thvl3/index.m3u8
 #EXTINF:-1 tvg-name="MoreMax East" group-title="Movies",MoreMax East
 https://sra72yz.s.gy/MORE_MAX_EAST_HD.m3u8
-#EXTINF:-1 tvg-name="The Doctors" group-title="Series",The Doctors
+#EXTINF:-1 tvg-name="The Doctors [Geo-blocked]" group-title="Series",The Doctors [Geo-blocked]
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Doctors/index.m3u8
 #EXTINF:-1 tvg-name="Max (576p)" group-title="Movies",Max (576p)
 http://5.254.89.106:80/8882/index.m3u8
@@ -3486,3 +3488,7 @@ http://str2.iptvhd.ru:8080/action/index.m3u8
 http://str2.iptvhd.ru:8080/fun/index.m3u8
 #EXTINF:-1 tvg-name="HOT Cinema 4" group-title="Movies",HOT Cinema 4
 http://str2.iptvhd.ru:8080/drama/index.m3u8
+#EXTINF:-1 tvg-name="Comedy Central (United States) (576p)" group-title="Comedy",Comedy Central (United States) (576p)
+https://tvsen3.aynaott.com/5fUWDMxZ/index.m3u8
+#EXTINF:-1 tvg-name="Manoranjan Movies (576p)" group-title="Movies",Manoranjan Movies (576p)
+https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8

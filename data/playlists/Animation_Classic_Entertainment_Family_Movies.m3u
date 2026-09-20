@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-20 00:15:22
-# Всего каналов: 23963
-# Новых за сессию: 0
+# Обновлено: 2026-09-20 00:42:25
+# Всего каналов: 23984
+# Новых за сессию: 21
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Classic;Entertainment;Family;Movies
 # Каналов: 1
-# Обновлено: 2026-09-20 00:15:23
+# Обновлено: 2026-09-20 00:42:26
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pro100TV (576p)" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV (576p)
@@ -4351,6 +4351,8 @@ http://stream.mcquack.net/465/index.m3u8
 http://stream.mcquack.net/456/index.m3u8
 #EXTINF:-1 tvg-name="FXM" group-title="Movies",FXM
 https://gpuserver3.tier1streams.com/FXM/index.m3u8
+#EXTINF:-1 tvg-name="Retro TV [Geo-blocked]" group-title="Classic",Retro TV [Geo-blocked]
+https://freecast-lukentvlive.vgcdn.net/out/v1/665e9f91614b43b0a0654e9317f1d9f3/index.m3u8
 #EXTINF:-1 tvg-name="SciFi" group-title="Entertainment",SciFi
 http://41.205.93.154/SYFY/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",AXN White (576p)" group-title="Entertainment",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",AXN White (576p)
@@ -4969,3 +4971,11 @@ http://str2.iptvhd.ru:8080/fun/index.m3u8
 http://str2.iptvhd.ru:8080/drama/index.m3u8
 #EXTINF:-1 tvg-name="Cartoon Classics" group-title="Animation;Kids",Cartoon Classics
 https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
+#EXTINF:-1 tvg-name="FX (United States) East" group-title="Entertainment",FX (United States) East
+http://4.30.180.36:8420/fx/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Manoranjan Movies (576p)" group-title="Movies",Manoranjan Movies (576p)
+https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8
+#EXTINF:-1 tvg-name="PTC Punjabi (576p)" group-title="Entertainment",PTC Punjabi (576p)
+https://streams.tangotv.in/PTCPUNJABI/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-name="OTV (Estonia)" group-title="Entertainment",OTV (Estonia)
+http://88.212.15.19/live/otv/playlist.m3u8

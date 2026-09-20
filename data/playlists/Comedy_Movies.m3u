@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-20 00:15:22
-# Всего каналов: 23963
-# Новых за сессию: 0
+# Обновлено: 2026-09-20 00:42:25
+# Всего каналов: 23984
+# Новых за сессию: 21
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Movies
 # Каналов: 11
-# Обновлено: 2026-09-20 00:15:23
+# Обновлено: 2026-09-20 00:42:26
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pluto TV Comedias Romanticas" group-title="Comedy;Movies",Pluto TV Comedias Romanticas
@@ -2545,3 +2545,7 @@ http://str2.iptvhd.ru:8080/action/index.m3u8
 http://str2.iptvhd.ru:8080/fun/index.m3u8
 #EXTINF:-1 tvg-name="HOT Cinema 4" group-title="Movies",HOT Cinema 4
 http://str2.iptvhd.ru:8080/drama/index.m3u8
+#EXTINF:-1 tvg-name="Comedy Central (United States) (576p)" group-title="Comedy",Comedy Central (United States) (576p)
+https://tvsen3.aynaott.com/5fUWDMxZ/index.m3u8
+#EXTINF:-1 tvg-name="Manoranjan Movies (576p)" group-title="Movies",Manoranjan Movies (576p)
+https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8

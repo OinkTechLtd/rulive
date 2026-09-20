@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-20 00:15:22
-# Всего каналов: 23963
-# Новых за сессию: 0
+# Обновлено: 2026-09-20 00:42:25
+# Всего каналов: 23984
+# Новых за сессию: 21
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Documentary;Travel
 # Каналов: 2
-# Обновлено: 2026-09-20 00:15:23
+# Обновлено: 2026-09-20 00:42:26
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="China Travel" group-title="Culture;Documentary;Travel",China Travel
@@ -1060,3 +1060,5 @@ http://str2.iptvhd.ru:8080/travel/index.m3u8
 http://hls127.freeott.top:8080/VIASAT_EXPLORE_HD_CEE/video.m3u8
 #EXTINF:-1 tvg-name="National Geographic (Bulgaria)" group-title="Documentary",National Geographic (Bulgaria)
 http://hls127.freeott.top:8080/BG_Nat_Geo_HD/video.m3u8
+#EXTINF:-1 tvg-name="History TV18 [Geo-blocked]" group-title="Documentary",History TV18 [Geo-blocked]
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8

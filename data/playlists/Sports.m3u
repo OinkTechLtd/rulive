@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-20 00:15:22
-# Всего каналов: 23963
-# Новых за сессию: 0
+# Обновлено: 2026-09-20 00:42:25
+# Всего каналов: 23984
+# Новых за сессию: 21
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Sports
-# Каналов: 800
-# Обновлено: 2026-09-20 00:15:22
+# Каналов: 802
+# Обновлено: 2026-09-20 00:42:26
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CBC Sport [Geo-blocked]" group-title="Sports",CBC Sport [Geo-blocked]
@@ -253,7 +253,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/rpn.bozztv.com/gusa/gu
 #EXTINF:-1 tvg-name="TyC Sports USA" group-title="Sports",TyC Sports USA
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.170.130.224:8000/play/a020/index.m3u8
 
-#EXTINF:-1 tvg-name="Unbeaten Sports Channel" group-title="Sports",Unbeaten Sports Channel
+#EXTINF:-1 tvg-name="Unbeaten" group-title="Sports",Unbeaten
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
 
 #EXTINF:-1 tvg-name="W14DK-D 14.5 All Sports Television Network" group-title="Sports",W14DK-D 14.5 All Sports Television Network
@@ -2281,6 +2281,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/str2.iptvhd.ru:8080/Vi
 #EXTINF:-1 tvg-name="Sport+ Qazaqstan" group-title="Sports",Sport+ Qazaqstan
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/fs.uplink.kz/sport+/mono.m3u8?token=onlinetv
 
+#EXTINF:-1 tvg-name="Alkass Three" group-title="Sports",Alkass Three
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Jordan Sport [Geo-blocked]" group-title="Sports",Jordan Sport [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
+
 #EXTINF:-1 tvg-name="Belarus-5" group-title="Sports",Belarus-5
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 
@@ -2624,6 +2630,8 @@ http://59.103.38.46:8000/play/a125/index.m3u8
 http://59.103.38.46:8000/play/a126/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Sport 5" group-title="Sports",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Sport 5
 http://stream.mcquack.net/212/index.m3u8
+#EXTINF:-1 tvg-name="REV'N Action [Geo-blocked]" group-title="Auto;Outdoor;Series;Sports",REV'N Action [Geo-blocked]
+https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8
 #EXTINF:-1 tvg-name="Prime (Syria)" group-title="General;Sports",Prime (Syria)
 https://mn-nl.mncdn.com/primetv/live/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",AntenaSport" group-title="Sports",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",AntenaSport

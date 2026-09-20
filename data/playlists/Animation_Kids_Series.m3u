@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-20 00:15:22
-# Всего каналов: 23963
-# Новых за сессию: 0
+# Обновлено: 2026-09-20 00:42:25
+# Всего каналов: 23984
+# Новых за сессию: 21
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Kids;Series
 # Каналов: 2
-# Обновлено: 2026-09-20 00:15:23
+# Обновлено: 2026-09-20 00:42:26
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Avatar (Germany)" group-title="Animation;Kids;Series",Avatar (Germany)
@@ -2280,6 +2280,8 @@ http://stream.mcquack.net/167/index.m3u8
 http://185.102.171.218/FOX_Life/index.m3u8
 #EXTINF:-1 tvg-name="Keedoo (576p)" group-title="Kids",Keedoo (576p)
 http://185.102.171.218/Nickelodeon/index.m3u8
+#EXTINF:-1 tvg-name="REV'N Action [Geo-blocked]" group-title="Auto;Outdoor;Series;Sports",REV'N Action [Geo-blocked]
+https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Disney Junior (576p)" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Disney Junior (576p)
 https://aes.m3u8simplu.workers.dev/disneyjunior/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",JimJam (576p)" group-title="Kids",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",JimJam (576p)
@@ -2380,7 +2382,7 @@ http://88.212.15.19/live/test_disney_junior/playlist.m3u8
 https://streams.comclark.com/pknhd/axn/playlist.m3u8
 #EXTINF:-1 tvg-name="S Tom Sings" group-title="Kids",S Tom Sings
 https://vodcdn.bamboo-cloud.com/livehls/6a8408ae0630440c2f39aec3/master.m3u8
-#EXTINF:-1 tvg-name="The Doctors" group-title="Series",The Doctors
+#EXTINF:-1 tvg-name="The Doctors [Geo-blocked]" group-title="Series",The Doctors [Geo-blocked]
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Doctors/index.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon +1" group-title="Kids",Nickelodeon +1
 https://sra72yz.s.gy/NICKELODEON_UK_PLUS_1.m3u8

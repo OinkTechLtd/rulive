@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-20 00:15:22
-# Всего каналов: 23963
-# Новых за сессию: 0
+# Обновлено: 2026-09-20 00:42:25
+# Всего каналов: 23984
+# Новых за сессию: 21
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Family;Series
 # Каналов: 1
-# Обновлено: 2026-09-20 00:15:23
+# Обновлено: 2026-09-20 00:42:26
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Velvet. Svaty" group-title="Family;Series",Velvet. Svaty
@@ -1287,6 +1287,8 @@ http://tvsen5.aynascope.net/familyjr/index.m3u8
 http://stream.mcquack.net/73/index.m3u8
 #EXTINF:-1 tvg-name="FX Life" group-title="Series",FX Life
 http://185.102.171.218/FOX_Life/index.m3u8
+#EXTINF:-1 tvg-name="REV'N Action [Geo-blocked]" group-title="Auto;Outdoor;Series;Sports",REV'N Action [Geo-blocked]
+https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8
 #EXTINF:-1 tvg-name="+SBT Novelas [Geo-blocked]" group-title="Series",+SBT Novelas [Geo-blocked]
 https://novelas.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/Novelas_cmaf/index.m3u8
 #EXTINF:-1 tvg-name="viju+ Serial" group-title="Series",viju+ Serial
@@ -1299,7 +1301,7 @@ https://thinkkast.dpdns.org/thinkkast/cg_axn_sd/versiglia/index.m3u8
 http://125.227.210.55:4050/VideoInput/play.ts
 #EXTINF:-1 tvg-name="AXN PH (480p)" group-title="Movies;Series",AXN PH (480p)
 https://streams.comclark.com/pknhd/axn/playlist.m3u8
-#EXTINF:-1 tvg-name="The Doctors" group-title="Series",The Doctors
+#EXTINF:-1 tvg-name="The Doctors [Geo-blocked]" group-title="Series",The Doctors [Geo-blocked]
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Doctors/index.m3u8
 #EXTINF:-1 tvg-name="Mega Ficcion" group-title="Series",Mega Ficcion
 http://cdn1tlinkgo.tlink.cl/megaficcion/mono.m3u8

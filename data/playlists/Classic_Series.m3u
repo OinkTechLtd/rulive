@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-20 00:15:22
-# Всего каналов: 23963
-# Новых за сессию: 0
+# Обновлено: 2026-09-20 00:42:25
+# Всего каналов: 23984
+# Новых за сессию: 21
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;Series
 # Каналов: 33
-# Обновлено: 2026-09-20 00:15:23
+# Обновлено: 2026-09-20 00:42:26
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pluto TV The Twilight Zone" group-title="Classic;Series",Pluto TV The Twilight Zone
@@ -1343,6 +1343,10 @@ http://stream.mcquack.net/466/index.m3u8
 http://stream.mcquack.net/73/index.m3u8
 #EXTINF:-1 tvg-name="FX Life" group-title="Series",FX Life
 http://185.102.171.218/FOX_Life/index.m3u8
+#EXTINF:-1 tvg-name="Retro TV [Geo-blocked]" group-title="Classic",Retro TV [Geo-blocked]
+https://freecast-lukentvlive.vgcdn.net/out/v1/665e9f91614b43b0a0654e9317f1d9f3/index.m3u8
+#EXTINF:-1 tvg-name="REV'N Action [Geo-blocked]" group-title="Auto;Outdoor;Series;Sports",REV'N Action [Geo-blocked]
+https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Classic;Movies",Bollywood Classic" group-title="Classic;Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Classic;Movies",Bollywood Classic
 https://aes.m3u8simplu.workers.dev/bollywood/index.m3u8
 #EXTINF:-1 tvg-name="+SBT Novelas [Geo-blocked]" group-title="Series",+SBT Novelas [Geo-blocked]
@@ -1361,7 +1365,7 @@ https://gsn-cinevault-westerns-2-us.roku.wurl.tv/playlist.m3u8
 http://125.227.210.55:4050/VideoInput/play.ts
 #EXTINF:-1 tvg-name="AXN PH (480p)" group-title="Movies;Series",AXN PH (480p)
 https://streams.comclark.com/pknhd/axn/playlist.m3u8
-#EXTINF:-1 tvg-name="The Doctors" group-title="Series",The Doctors
+#EXTINF:-1 tvg-name="The Doctors [Geo-blocked]" group-title="Series",The Doctors [Geo-blocked]
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Doctors/index.m3u8
 #EXTINF:-1 tvg-name="13Rec" group-title="Classic",13Rec
 http://cdn1tlinkgo.tlink.cl/13rec/mono.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-20 00:15:22
-# Всего каналов: 23963
-# Новых за сессию: 0
+# Обновлено: 2026-09-20 00:42:25
+# Всего каналов: 23984
+# Новых за сессию: 21
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Series
 # Каналов: 8
-# Обновлено: 2026-09-20 00:15:23
+# Обновлено: 2026-09-20 00:42:26
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Rakuten Viki" group-title="Entertainment;Series",Rakuten Viki
@@ -3124,6 +3124,8 @@ http://185.102.171.218/FOX_Life/index.m3u8
 https://mmtvs.exliatycl.online/mchannel/stream.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",ICTV (Ukraine)" group-title="Entertainment",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",ICTV (Ukraine)
 http://stream.mcquack.net/158/index.m3u8
+#EXTINF:-1 tvg-name="REV'N Action [Geo-blocked]" group-title="Auto;Outdoor;Series;Sports",REV'N Action [Geo-blocked]
+https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8
 #EXTINF:-1 tvg-name="SciFi" group-title="Entertainment",SciFi
 http://41.205.93.154/SYFY/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",AXN White (576p)" group-title="Entertainment",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",AXN White (576p)
@@ -3244,7 +3246,7 @@ https://dethich.pw/thvl4/index.m3u8
 https://wggstv16.ddns.net:9953/hls/KMCT1.m3u8
 #EXTINF:-1 tvg-name="Lifetime (576p)" group-title="Entertainment",Lifetime (576p)
 https://tvsen7.aynaott.com/lifetime/index.m3u8
-#EXTINF:-1 tvg-name="The Doctors" group-title="Series",The Doctors
+#EXTINF:-1 tvg-name="The Doctors [Geo-blocked]" group-title="Series",The Doctors [Geo-blocked]
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Doctors/index.m3u8
 #EXTINF:-1 tvg-name="Mahaa Max (576p)" group-title="Entertainment",Mahaa Max (576p)
 https://mumt03.tangotv.in/Dsly5z3HMAHAAMAX/index.m3u8
@@ -3392,3 +3394,9 @@ http://176.118.197.101/MirSeriala/index.m3u8
 http://str2.iptvhd.ru:8080/TNT_4/index.m3u8
 #EXTINF:-1 tvg-name="TF1" group-title="Entertainment",TF1
 http://str2.iptvhd.ru:8080/TF1/index.m3u8
+#EXTINF:-1 tvg-name="FX (United States) East" group-title="Entertainment",FX (United States) East
+http://4.30.180.36:8420/fx/index.m3u8?token=test
+#EXTINF:-1 tvg-name="PTC Punjabi (576p)" group-title="Entertainment",PTC Punjabi (576p)
+https://streams.tangotv.in/PTCPUNJABI/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-name="OTV (Estonia)" group-title="Entertainment",OTV (Estonia)
+http://88.212.15.19/live/otv/playlist.m3u8

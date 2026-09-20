@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-20 00:15:22
-# Всего каналов: 23963
-# Новых за сессию: 0
+# Обновлено: 2026-09-20 00:42:25
+# Всего каналов: 23984
+# Новых за сессию: 21
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;Comedy
 # Каналов: 3
-# Обновлено: 2026-09-20 00:15:23
+# Обновлено: 2026-09-20 00:42:26
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="I Love Lucy CA" group-title="Classic;Comedy",I Love Lucy CA
@@ -681,6 +681,8 @@ http://znty.dyndns.org:5010/hls/foxcomedy.m3u8
 http://stream.mcquack.net/68/index.m3u8
 #EXTINF:-1 tvg-name="Retro (576p)" group-title="Classic",Retro (576p)
 http://stream.mcquack.net/191/index.m3u8
+#EXTINF:-1 tvg-name="Retro TV [Geo-blocked]" group-title="Classic",Retro TV [Geo-blocked]
+https://freecast-lukentvlive.vgcdn.net/out/v1/665e9f91614b43b0a0654e9317f1d9f3/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Comedy",Comedy Central (576p)" group-title="Comedy",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Comedy",Comedy Central (576p)
 https://aes.m3u8simplu.workers.dev/comedycentral/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Classic;Movies",Bollywood Classic" group-title="Classic;Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Classic;Movies",Bollywood Classic
@@ -753,3 +755,5 @@ http://4.30.180.36:8420/comedycentral/index.m3u8?token=test
 http://4.30.180.36:8420/laff/index.m3u8?token=test
 #EXTINF:-1 tvg-name="Bollywood Film" group-title="Classic;Movies",Bollywood Film
 https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
+#EXTINF:-1 tvg-name="Comedy Central (United States) (576p)" group-title="Comedy",Comedy Central (United States) (576p)
+https://tvsen3.aynaott.com/5fUWDMxZ/index.m3u8

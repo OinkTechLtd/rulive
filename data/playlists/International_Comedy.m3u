@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-20 00:15:22
-# Всего каналов: 23963
-# Новых за сессию: 0
+# Обновлено: 2026-09-20 00:42:25
+# Всего каналов: 23984
+# Новых за сессию: 21
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: International;Comedy
 # Каналов: 15
-# Обновлено: 2026-09-20 00:15:23
+# Обновлено: 2026-09-20 00:42:26
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Adult Swim" group-title="International;Comedy",Adult Swim
@@ -667,3 +667,5 @@ https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8
 http://4.30.180.36:8420/comedycentral/index.m3u8?token=test
 #EXTINF:-1 tvg-name="Laff WJLP (576p)" group-title="Comedy",Laff WJLP (576p)
 http://4.30.180.36:8420/laff/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Comedy Central (United States) (576p)" group-title="Comedy",Comedy Central (United States) (576p)
+https://tvsen3.aynaott.com/5fUWDMxZ/index.m3u8

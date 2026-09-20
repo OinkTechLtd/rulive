@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-20 00:15:22
-# Всего каналов: 23963
-# Новых за сессию: 0
+# Обновлено: 2026-09-20 00:42:25
+# Всего каналов: 23984
+# Новых за сессию: 21
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Family;Series
 # Каналов: 2
-# Обновлено: 2026-09-20 00:15:23
+# Обновлено: 2026-09-20 00:42:26
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Velvet. Series Hits" group-title="Comedy;Family;Series",Velvet. Series Hits
@@ -1714,6 +1714,8 @@ http://tvsen5.aynascope.net/familyjr/index.m3u8
 http://stream.mcquack.net/73/index.m3u8
 #EXTINF:-1 tvg-name="FX Life" group-title="Series",FX Life
 http://185.102.171.218/FOX_Life/index.m3u8
+#EXTINF:-1 tvg-name="REV'N Action [Geo-blocked]" group-title="Auto;Outdoor;Series;Sports",REV'N Action [Geo-blocked]
+https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Comedy",Comedy Central (576p)" group-title="Comedy",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Comedy",Comedy Central (576p)
 https://aes.m3u8simplu.workers.dev/comedycentral/index.m3u8
 #EXTINF:-1 tvg-name="+SBT Novelas [Geo-blocked]" group-title="Series",+SBT Novelas [Geo-blocked]
@@ -1762,7 +1764,7 @@ https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream_7.m3u8
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="AXN PH (480p)" group-title="Movies;Series",AXN PH (480p)
 https://streams.comclark.com/pknhd/axn/playlist.m3u8
-#EXTINF:-1 tvg-name="The Doctors" group-title="Series",The Doctors
+#EXTINF:-1 tvg-name="The Doctors [Geo-blocked]" group-title="Series",The Doctors [Geo-blocked]
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Doctors/index.m3u8
 #EXTINF:-1 tvg-name="Mega Ficcion" group-title="Series",Mega Ficcion
 http://cdn1tlinkgo.tlink.cl/megaficcion/mono.m3u8
@@ -1810,3 +1812,5 @@ http://4.30.180.36:8420/laff/index.m3u8?token=test
 http://str2.iptvhd.ru:8080/Fox_Life_HD/index.m3u8
 #EXTINF:-1 tvg-name="Mir Seriala (576p)" group-title="Series",Mir Seriala (576p)
 http://176.118.197.101/MirSeriala/index.m3u8
+#EXTINF:-1 tvg-name="Comedy Central (United States) (576p)" group-title="Comedy",Comedy Central (United States) (576p)
+https://tvsen3.aynaott.com/5fUWDMxZ/index.m3u8

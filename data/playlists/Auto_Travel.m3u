@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-20 00:15:22
-# Всего каналов: 23963
-# Новых за сессию: 0
+# Обновлено: 2026-09-20 00:42:25
+# Всего каналов: 23984
+# Новых за сессию: 21
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Auto;Travel
 # Каналов: 2
-# Обновлено: 2026-09-20 00:15:23
+# Обновлено: 2026-09-20 00:42:26
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Fun Roads TV" group-title="Auto;Travel",Fun Roads TV
@@ -192,6 +192,8 @@ http://stream.mcquack.net/161/index.m3u8
 http://stream.mcquack.net/404/index.m3u8
 #EXTINF:-1 tvg-name="Discovery Turbo" group-title="Auto",Discovery Turbo
 https://gpuserver3.tier1streams.com/MOTORTREND/index.m3u8
+#EXTINF:-1 tvg-name="REV'N Action [Geo-blocked]" group-title="Auto;Outdoor;Series;Sports",REV'N Action [Geo-blocked]
+https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8
 #EXTINF:-1 tvg-name="CTV Speed Channel" group-title="Auto",CTV Speed Channel
 https://gpuserver3.tier1streams.com/DISCOVERY_SCIENCE_HD/index.m3u8
 #EXTINF:-1 tvg-name="DroneTV" group-title="Relax;Travel",DroneTV

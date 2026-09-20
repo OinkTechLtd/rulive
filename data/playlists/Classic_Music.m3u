@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-20 00:15:22
-# Всего каналов: 23963
-# Новых за сессию: 0
+# Обновлено: 2026-09-20 00:42:25
+# Всего каналов: 23984
+# Новых за сессию: 21
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;Music
 # Каналов: 1
-# Обновлено: 2026-09-20 00:15:23
+# Обновлено: 2026-09-20 00:42:26
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Persiana Nostalgia" group-title="Classic;Music",Persiana Nostalgia
@@ -1883,6 +1883,8 @@ http://103.175.73.12:8080/live/160/master.m3u8
 http://103.175.73.12:8080/live/157/master.m3u8
 #EXTINF:-1 tvg-name="Mazzika (576p)" group-title="Music",Mazzika (576p)
 http://149.100.11.235:8080/Mazzika/index.m3u8
+#EXTINF:-1 tvg-name="Retro TV [Geo-blocked]" group-title="Classic",Retro TV [Geo-blocked]
+https://freecast-lukentvlive.vgcdn.net/out/v1/665e9f91614b43b0a0654e9317f1d9f3/index.m3u8
 #EXTINF:-1 tvg-name="Clubland TV" group-title="Music",Clubland TV
 http://bore.pub:14073/live.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Classic;Movies",Bollywood Classic" group-title="Classic;Movies",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Classic;Movies",Bollywood Classic
@@ -2053,3 +2055,5 @@ https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playli
 https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
 #EXTINF:-1 tvg-name="Mooz Dance" group-title="Music",Mooz Dance
 https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8
+#EXTINF:-1 tvg-name="Stingray TikTok Radio" group-title="Music",Stingray TikTok Radio
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814594/hls/master.m3u8?ads.xumo_channelId=88814594

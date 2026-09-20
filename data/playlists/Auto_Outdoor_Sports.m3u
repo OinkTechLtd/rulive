@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-20 00:15:22
-# Всего каналов: 23963
-# Новых за сессию: 0
+# Обновлено: 2026-09-20 00:42:25
+# Всего каналов: 23984
+# Новых за сессию: 21
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Auto;Outdoor;Sports
 # Каналов: 1
-# Обновлено: 2026-09-20 00:15:23
+# Обновлено: 2026-09-20 00:42:26
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="InTrouble" group-title="Auto;Outdoor;Sports",InTrouble
@@ -313,7 +313,7 @@ https://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
 #EXTINF:-1 tvg-name="TyC Sports USA" group-title="Sports",TyC Sports USA
 http://45.170.130.224:8000/play/a020/index.m3u8
-#EXTINF:-1 tvg-name="Unbeaten Sports Channel" group-title="Sports",Unbeaten Sports Channel
+#EXTINF:-1 tvg-name="Unbeaten" group-title="Sports",Unbeaten
 https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
 #EXTINF:-1 tvg-name="USA Network East" group-title="Comedy;Movies;Series;Sports",USA Network East
 https://tvpass.org/live/USANetworkEast/hd
@@ -1091,8 +1091,6 @@ https://lb.dstvmultimedia.com/AS2SLOHD/index.m3u8
 http://143.244.62.109:80/as3slo/index.m3u8
 #EXTINF:-1 tvg-name="Sportivnyy" group-title="Sports",Sportivnyy
 https://live-3.otcnet.ru/sportivny/index.m3u8
-#EXTINF:-1 tvg-name="Unbeaten" group-title="Sports",Unbeaten
-https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/UnbeatenSports/playlist.m3u8
 #EXTINF:-1 tvg-name="Unite8 Sports 1" group-title="Sports",Unite8 Sports 1
 https://lbgo.bozztv.com/ssh101/ssh101/qallamsortadf/playlist.m3u8
 #EXTINF:-1 tvg-name="Unite8 Sports 2" group-title="Sports",Unite8 Sports 2
@@ -1329,6 +1327,8 @@ http://stream.mcquack.net/212/index.m3u8
 https://gpuserver3.tier1streams.com/MOTORTREND/index.m3u8
 #EXTINF:-1 tvg-name="NBA TV" group-title="Sports",NBA TV
 https://cdn1.ayitistream.com/NBATV/index.m3u8
+#EXTINF:-1 tvg-name="REV'N Action [Geo-blocked]" group-title="Auto;Outdoor;Series;Sports",REV'N Action [Geo-blocked]
+https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8
 #EXTINF:-1 tvg-name="CTV Speed Channel" group-title="Auto",CTV Speed Channel
 https://gpuserver3.tier1streams.com/DISCOVERY_SCIENCE_HD/index.m3u8
 #EXTINF:-1 tvg-name="Prime (Syria)" group-title="General;Sports",Prime (Syria)
@@ -1599,3 +1599,5 @@ http://str2.iptvhd.ru:8080/Extreme_Sports/index.m3u8
 http://str2.iptvhd.ru:8080/FastFunBoxHD/index.m3u8
 #EXTINF:-1 tvg-name="Sport+ Qazaqstan" group-title="Sports",Sport+ Qazaqstan
 https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="Jordan Sport [Geo-blocked]" group-title="Sports",Jordan Sport [Geo-blocked]
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8

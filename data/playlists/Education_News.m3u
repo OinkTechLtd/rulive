@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-20 00:15:22
-# Всего каналов: 23963
-# Новых за сессию: 0
+# Обновлено: 2026-09-20 00:42:25
+# Всего каналов: 23984
+# Новых за сессию: 21
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;News
 # Каналов: 1
-# Обновлено: 2026-09-20 00:15:23
+# Обновлено: 2026-09-20 00:42:26
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Dabanga TV" group-title="Education;News",Dabanga TV
@@ -3085,3 +3085,7 @@ https://mumbai-edge.smartplaytv.in/BBCNews/index.m3u8
 http://185.9.2.18/chid_352/index.m3u8
 #EXTINF:-1 tvg-name="Kto est kto (576p)" group-title="Education",Kto est kto (576p)
 http://str2.iptvhd.ru:8080/kto_est_kto/index.m3u8
+#EXTINF:-1 tvg-name="Lokshahi News (576p)" group-title="News",Lokshahi News (576p)
+https://mumt05.tangotv.in/87NeALx2LOKSAAHI/index.m3u8
+#EXTINF:-1 tvg-name="Public First (576p)" group-title="News",Public First (576p)
+https://mumt06.tangotv.in/qYyB8fXVPUBLICFIRST/index.m3u8
