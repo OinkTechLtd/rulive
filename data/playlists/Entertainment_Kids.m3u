@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-21 01:23:48
-# Всего каналов: 23987
-# Новых за сессию: 1
+# Обновлено: 2026-09-21 05:54:44
+# Всего каналов: 23997
+# Новых за сессию: 10
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Kids
 # Каналов: 4
-# Обновлено: 2026-09-21 01:23:49
+# Обновлено: 2026-09-21 05:54:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Unique TV (576p)" group-title="Entertainment;Kids",Unique TV (576p)
@@ -3164,7 +3164,7 @@ http://59.103.38.46:8000/play/a0ac/index.m3u8
 http://103.165.93.31:8095/sonyYay/index.m3u8
 #EXTINF:-1 tvg-name="Super Hungama (576p)" group-title="Animation;Kids",Super Hungama (576p)
 http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
-#EXTINF:-1 tvg-name="CBeebies Asia (576p)" group-title="Kids",CBeebies Asia (576p)
+#EXTINF:-1 tvg-name="CBeebies Asia India (576p)" group-title="Kids",CBeebies Asia India (576p)
 http://202.70.146.135:8000/play/a0a2/index.m3u8
 #EXTINF:-1 tvg-name="StreamForce 360" group-title="Entertainment;General",StreamForce 360
 https://sistemastr.tropicalmoonmedia.com:443/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8
@@ -3300,3 +3300,7 @@ http://4.30.180.36:8420/fx/index.m3u8?token=test
 https://streams.tangotv.in/PTCPUNJABI/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-name="OTV (Estonia)" group-title="Entertainment",OTV (Estonia)
 http://88.212.15.19/live/otv/playlist.m3u8
+#EXTINF:-1 tvg-name="S Corby TV (480p)" group-title="Kids",S Corby TV (480p)
+https://vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master.m3u8
+#EXTINF:-1 tvg-name="S KPop! (480p)" group-title="Kids;Music",S KPop! (480p)
+https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8

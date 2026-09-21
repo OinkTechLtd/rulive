@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-21 01:23:48
-# Всего каналов: 23987
-# Новых за сессию: 1
+# Обновлено: 2026-09-21 05:54:44
+# Всего каналов: 23997
+# Новых за сессию: 10
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids
-# Каналов: 521
-# Обновлено: 2026-09-21 01:23:49
+# Каналов: 522
+# Обновлено: 2026-09-21 05:54:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Mama (576p)" group-title="Kids",Mama (576p)
@@ -1393,7 +1393,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/103.185.24.134:3001/NI
 #EXTINF:-1 tvg-name="Sonic (576p)" group-title="Kids",Sonic (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/103.185.24.134:3001/SONIC/index.m3u8
 
-#EXTINF:-1 tvg-name="CBeebies Asia (576p)" group-title="Kids",CBeebies Asia (576p)
+#EXTINF:-1 tvg-name="CBeebies Asia India (576p)" group-title="Kids",CBeebies Asia India (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/202.70.146.135:8000/play/a0a2/index.m3u8
 
 #EXTINF:-1 tvg-name="Mult International (576p)" group-title="Kids",Mult International (576p)
@@ -1503,6 +1503,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/str2.iptvhd.ru:8080/ni
 
 #EXTINF:-1 tvg-name="Nick Jr. (Croatia) (540p)" group-title="Kids",Nick Jr. (Croatia) (540p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/176.61.157.250/NickJr/index.m3u8
+
+#EXTINF:-1 tvg-name="S Corby TV (480p)" group-title="Kids",S Corby TV (480p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master.m3u8
 
 #EXTINF:-1 tvg-name="TNT Kids TV (288p)" group-title="Kids",TNT Kids TV (288p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/restreamer1.tnt.ba/hls/tntkids.m3u8
@@ -1877,3 +1880,5 @@ https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8
 https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
 #EXTINF:-1 tvg-name="Cartoon Classics" group-title="Animation;Kids",Cartoon Classics
 https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
+#EXTINF:-1 tvg-name="S KPop! (480p)" group-title="Kids;Music",S KPop! (480p)
+https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8

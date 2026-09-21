@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-21 01:23:48
-# Всего каналов: 23987
-# Новых за сессию: 1
+# Обновлено: 2026-09-21 05:54:44
+# Всего каналов: 23997
+# Новых за сессию: 10
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Legislative
 # Каналов: 1
-# Обновлено: 2026-09-21 01:23:49
+# Обновлено: 2026-09-21 05:54:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="ATXN2" group-title="General;Legislative",ATXN2
@@ -6523,3 +6523,7 @@ http://str2.iptvhd.ru:8080/5_kanal/index.m3u8
 https://live.kwikmotion.com/royatvpublic/royatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Kalaignar TV (396p)" group-title="General",Kalaignar TV (396p)
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
+#EXTINF:-1 tvg-name="S Metro TV (360p)" group-title="General",S Metro TV (360p)
+https://vodcdn.bamboo-cloud.com/livehls/6a9f8b4606304461c50dfe93/master.m3u8
+#EXTINF:-1 tvg-name="Norte TV" group-title="General",Norte TV
+https://ntvcanal7.com.ar:81/dash/stream.mpd

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-21 01:23:48
-# Всего каналов: 23987
-# Новых за сессию: 1
+# Обновлено: 2026-09-21 05:54:44
+# Всего каналов: 23997
+# Новых за сессию: 10
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Auto;Series
 # Каналов: 1
-# Обновлено: 2026-09-21 01:23:49
+# Обновлено: 2026-09-21 05:54:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Choppertown" group-title="Auto;Series",Choppertown
@@ -1273,3 +1273,5 @@ http://4.30.180.36:8420/hbo2/index.m3u8?token=test
 http://str2.iptvhd.ru:8080/Fox_Life_HD/index.m3u8
 #EXTINF:-1 tvg-name="Mir Seriala (576p)" group-title="Series",Mir Seriala (576p)
 http://176.118.197.101/MirSeriala/index.m3u8
+#EXTINF:-1 tvg-name="Viasat Epic Drama Ukraine (576p)" group-title="Series",Viasat Epic Drama Ukraine (576p)
+http://195.189.60.253/118/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-21 01:23:48
-# Всего каналов: 23987
-# Новых за сессию: 1
+# Обновлено: 2026-09-21 05:54:44
+# Всего каналов: 23997
+# Новых за сессию: 10
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Movies
 # Каналов: 2
-# Обновлено: 2026-09-21 01:23:49
+# Обновлено: 2026-09-21 05:54:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="KCM India [Geo-blocked]" group-title="Entertainment;Movies",KCM India [Geo-blocked]
@@ -4262,3 +4262,5 @@ https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8
 https://streams.tangotv.in/PTCPUNJABI/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-name="OTV (Estonia)" group-title="Entertainment",OTV (Estonia)
 http://88.212.15.19/live/otv/playlist.m3u8
+#EXTINF:-1 tvg-name="Shemaroo Josh (576p)" group-title="Movies",Shemaroo Josh (576p)
+https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8

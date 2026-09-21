@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-21 01:23:48
-# Всего каналов: 23987
-# Новых за сессию: 1
+# Обновлено: 2026-09-21 05:54:44
+# Всего каналов: 23997
+# Новых за сессию: 10
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Kids
 # Каналов: 81
-# Обновлено: 2026-09-21 01:23:49
+# Обновлено: 2026-09-21 05:54:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Multimania (576p)" group-title="Animation;Kids",Multimania (576p)
@@ -1389,7 +1389,7 @@ http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
 http://103.185.24.134:3001/NICK-JR/index.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon (India) (576p)" group-title="Kids",Nickelodeon (India) (576p)
 http://103.185.24.134:3001/NICK/index.m3u8
-#EXTINF:-1 tvg-name="CBeebies Asia (576p)" group-title="Kids",CBeebies Asia (576p)
+#EXTINF:-1 tvg-name="CBeebies Asia India (576p)" group-title="Kids",CBeebies Asia India (576p)
 http://202.70.146.135:8000/play/a0a2/index.m3u8
 #EXTINF:-1 tvg-name="Mult International (576p)" group-title="Kids",Mult International (576p)
 https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv
@@ -1449,3 +1449,7 @@ http://str2.iptvhd.ru:8080/disney/index.m3u8
 http://str2.iptvhd.ru:8080/nickjr/index.m3u8
 #EXTINF:-1 tvg-name="Nick Jr. (Croatia) (540p)" group-title="Kids",Nick Jr. (Croatia) (540p)
 http://176.61.157.250/NickJr/index.m3u8
+#EXTINF:-1 tvg-name="S Corby TV (480p)" group-title="Kids",S Corby TV (480p)
+https://vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master.m3u8
+#EXTINF:-1 tvg-name="S KPop! (480p)" group-title="Kids;Music",S KPop! (480p)
+https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8

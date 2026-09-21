@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-21 01:23:48
-# Всего каналов: 23987
-# Новых за сессию: 1
+# Обновлено: 2026-09-21 05:54:44
+# Всего каналов: 23997
+# Новых за сессию: 10
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;Music
 # Каналов: 1
-# Обновлено: 2026-09-21 01:23:49
+# Обновлено: 2026-09-21 05:54:45
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Persiana Nostalgia" group-title="Classic;Music",Persiana Nostalgia
@@ -1767,8 +1767,6 @@ https://v2.tustreaming.cl/fmplus/index.m3u8
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Maidan" group-title="Music",Maidan
 https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="MCM Top (Russia) (576p)" group-title="Music",MCM Top (Russia) (576p)
-http://46.32.176.50/mcmtop/index.m3u8
 #EXTINF:-1 tvg-name="La Clave" group-title="Music",La Clave
 https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Duna" group-title="Music",Radio Duna
@@ -2057,3 +2055,9 @@ https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
 https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8
 #EXTINF:-1 tvg-name="Stingray TikTok Radio" group-title="Music",Stingray TikTok Radio
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814594/hls/master.m3u8?ads.xumo_channelId=88814594
+#EXTINF:-1 tvg-name="S KPop! (480p)" group-title="Kids;Music",S KPop! (480p)
+https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8
+#EXTINF:-1 tvg-name="Sangeet Bhojpuri (576p)" group-title="Music",Sangeet Bhojpuri (576p)
+https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8
+#EXTINF:-1 tvg-name="Songdew TV (396p)" group-title="Music",Songdew TV (396p)
+https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
