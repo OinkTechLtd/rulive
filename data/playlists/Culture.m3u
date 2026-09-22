@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-21 22:44:13
-# Всего каналов: 23998
-# Новых за сессию: 1
+# Обновлено: 2026-09-22 01:00:32
+# Всего каналов: 24011
+# Новых за сессию: 13
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture
 # Каналов: 162
-# Обновлено: 2026-09-21 22:44:14
+# Обновлено: 2026-09-22 01:00:33
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Aurora Arte (480p)" group-title="Culture",Aurora Arte (480p)
@@ -652,3 +652,5 @@ https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="Jaya Plus (576p)" group-title="Culture;Entertainment",Jaya Plus (576p)
 https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
+#EXTINF:-1 tvg-name="Bem Mais TV" group-title="Culture;Education",Bem Mais TV
+https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8

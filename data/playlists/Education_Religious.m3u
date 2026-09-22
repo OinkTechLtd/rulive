@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-21 22:44:13
-# Всего каналов: 23998
-# Новых за сессию: 1
+# Обновлено: 2026-09-22 01:00:32
+# Всего каналов: 24011
+# Новых за сессию: 13
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Religious
 # Каналов: 2
-# Обновлено: 2026-09-21 22:44:14
+# Обновлено: 2026-09-22 01:00:33
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Paighan TV" group-title="Education;Religious",Paighan TV
@@ -2272,3 +2272,5 @@ http://str2.iptvhd.ru:8080/kto_est_kto/index.m3u8
 https://cdn.pishow.tv/ott/live/1389/master.m3u8
 #EXTINF:-1 tvg-name="PTC Simran (576p)" group-title="Religious",PTC Simran (576p)
 https://streams.tangotv.in/PTCSIMRAN/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-name="Bem Mais TV" group-title="Culture;Education",Bem Mais TV
+https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8

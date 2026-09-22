@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-21 22:44:13
-# Всего каналов: 23998
-# Новых за сессию: 1
+# Обновлено: 2026-09-22 01:00:32
+# Всего каналов: 24011
+# Новых за сессию: 13
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Sports
 # Каналов: 2
-# Обновлено: 2026-09-21 22:44:14
+# Обновлено: 2026-09-22 01:00:33
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="LRT Plius [Geo-blocked]" group-title="Culture;Sports",LRT Plius [Geo-blocked]
@@ -1822,3 +1822,7 @@ http://str2.iptvhd.ru:8080/FastFunBoxHD/index.m3u8
 https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-name="Jordan Sport [Geo-blocked]" group-title="Sports",Jordan Sport [Geo-blocked]
 https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
+#EXTINF:-1 tvg-name="Star Sports 2 Telugu (576p)" group-title="Sports",Star Sports 2 Telugu (576p)
+https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
+#EXTINF:-1 tvg-name="Bem Mais TV" group-title="Culture;Education",Bem Mais TV
+https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8

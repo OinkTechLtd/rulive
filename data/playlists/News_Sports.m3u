@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-21 22:44:13
-# Всего каналов: 23998
-# Новых за сессию: 1
+# Обновлено: 2026-09-22 01:00:32
+# Всего каналов: 24011
+# Новых за сессию: 13
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News;Sports
 # Каналов: 7
-# Обновлено: 2026-09-21 22:44:14
+# Обновлено: 2026-09-22 01:00:33
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Africa 24 Sport" group-title="News;Sports",Africa 24 Sport
@@ -2089,8 +2089,6 @@ https://hls.newworldtv.com/nw-info/video/live.m3u8
 https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="RTI La 3" group-title="Music;Sports",RTI La 3
 http://69.64.57.208/la3/index.m3u8
-#EXTINF:-1 tvg-name="Saraounia TV" group-title="News",Saraounia TV
-https://live20.bozztv.com/dvrfl06/astv/astv-saraouna/index.m3u8
 #EXTINF:-1 tvg-name="SunuLabel TV (480p)" group-title="News",SunuLabel TV (480p)
 https://live3.acangroup.org:1929/publiclive/sunulabel/playlist.m3u8
 #EXTINF:-1 tvg-name="TV La Capitale" group-title="News",TV La Capitale
@@ -3929,3 +3927,9 @@ https://mumt05.tangotv.in/87NeALx2LOKSAAHI/index.m3u8
 https://mumt06.tangotv.in/qYyB8fXVPUBLICFIRST/index.m3u8
 #EXTINF:-1 tvg-name="Jordan Sport [Geo-blocked]" group-title="Sports",Jordan Sport [Geo-blocked]
 https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
+#EXTINF:-1 tvg-name="Novorossiya TV [Geo-blocked]" group-title="News",Novorossiya TV [Geo-blocked]
+http://31.131.139.253:9002/novoros/index.m3u8
+#EXTINF:-1 tvg-name="Oplot TV [Geo-blocked]" group-title="News",Oplot TV [Geo-blocked]
+http://31.131.139.253:9002/oplot_hd/index.m3u8
+#EXTINF:-1 tvg-name="Star Sports 2 Telugu (576p)" group-title="Sports",Star Sports 2 Telugu (576p)
+https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
