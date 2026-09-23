@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-22 23:09:54
-# Всего каналов: 24014
-# Новых за сессию: 0
+# Обновлено: 2026-09-23 01:39:54
+# Всего каналов: 24015
+# Новых за сессию: 1
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Series
 # Каналов: 1
-# Обновлено: 2026-09-22 23:09:55
+# Обновлено: 2026-09-23 01:39:55
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Super TV (Italy)" group-title="General;Series",Super TV (Italy)
@@ -197,7 +197,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
 #EXTINF:-1 tvg-name="Лен ТВ 24 (540p) [Geo-blocked]" group-title="General",Лен ТВ 24 (540p) [Geo-blocked]
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
-#EXTINF:-1 tvg-name="Kuban 24 [Geo-blocked]" group-title="General",Kuban 24 [Geo-blocked]
+#EXTINF:-1 tvg-name="Kuban 24 SD [Geo-blocked]" group-title="General",Kuban 24 SD [Geo-blocked]
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 #EXTINF:-1 tvg-name="Channel 12" group-title="General",Channel 12
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
@@ -539,7 +539,7 @@ https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8
 https://jmp2.uk/plu-5d51e2bceca5b4b2c0e06c50.m3u8
 #EXTINF:-1 tvg-name="BATV (480p)" group-title="General",BATV (480p)
 https://reflect-batv.cablecast.tv/live-5/live/live.m3u8
-#EXTINF:-1 tvg-name="Blue Bloods (United States)" group-title="Series",Blue Bloods (United States)
+#EXTINF:-1 tvg-name="Blue Bloods" group-title="Series",Blue Bloods
 https://jmp2.uk/plu-61b3b8c645b45d0007a9bb8d.m3u8
 #EXTINF:-1 tvg-name="BMC- TV" group-title="General",BMC- TV
 https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
@@ -4301,8 +4301,6 @@ https://jmp2.uk/plu-62e919ca865c590007ecd0bd.m3u8
 https://jmp2.uk/plu-65cb76ea11ced70008206b66.m3u8
 #EXTINF:-1 tvg-name="Dynasty (Germany) GB" group-title="Classic;Series",Dynasty (Germany) GB
 https://jmp2.uk/plu-622f48de713e510007f85808.m3u8
-#EXTINF:-1 tvg-name="Dynasty (United States)" group-title="Series",Dynasty (United States)
-https://jmp2.uk/plu-64d1606b4c5ed80008e3b8b9.m3u8
 #EXTINF:-1 tvg-name="Echo24" group-title="General",Echo24
 https://echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8
 #EXTINF:-1 tvg-name="Efarina TV" group-title="General",Efarina TV
@@ -4889,7 +4887,7 @@ http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
 https://stream.nmih.hu:4102/live.m3u8
 #EXTINF:-1 tvg-name="Pella TV (576p)" group-title="General",Pella TV (576p)
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
-#EXTINF:-1 tvg-name="Perry Mason (United States) CA" group-title="Series",Perry Mason (United States) CA
+#EXTINF:-1 tvg-name="Perry Mason CA" group-title="Series",Perry Mason CA
 https://jmp2.uk/plu-63e20bd160bc8f0008b4c949.m3u8
 #EXTINF:-1 tvg-name="Pétange Info TV" group-title="General",Pétange Info TV
 https://streamer20.multimedia.blue/Eltrona/PetangeTV/playlist.m3u8
@@ -6271,13 +6269,13 @@ https://59d39900ebfb8.streamlock.net/unicatv/unicatv/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/vivatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Battlestar Galactica" group-title="Movies;Series",Battlestar Galactica
 https://jmp2.uk/plu-69d7ebff029c431826bd328e.m3u8
-#EXTINF:-1 tvg-name="Beverly Hills 90210 (United States)" group-title="Series",Beverly Hills 90210 (United States)
+#EXTINF:-1 tvg-name="Beverly Hills 90210" group-title="Series",Beverly Hills 90210
 https://jmp2.uk/plu-5f4d83e0a382c00007bc02e7.m3u8
 #EXTINF:-1 tvg-name="Matlock (United States)" group-title="Series",Matlock (United States)
 https://jmp2.uk/plu-60f754f98185580007eb0754.m3u8
 #EXTINF:-1 tvg-name="Mission Impossible (United States)" group-title="Series",Mission Impossible (United States)
 https://jmp2.uk/plu-5f77977bd924d80007eee60c.m3u8
-#EXTINF:-1 tvg-name="Perry Mason (United States)" group-title="Series",Perry Mason (United States)
+#EXTINF:-1 tvg-name="Perry Mason" group-title="Series",Perry Mason
 https://jmp2.uk/plu-6197086891ddd4000739941a.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Haialarm" group-title="Movies;Series",Pluto TV Haialarm
 https://jmp2.uk/plu-69b015c5d29cc97de7da4af8.m3u8
