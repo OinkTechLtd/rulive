@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-23 23:52:45
-# Всего каналов: 24017
-# Новых за сессию: 0
+# Обновлено: 2026-09-24 01:04:40
+# Всего каналов: 24034
+# Новых за сессию: 17
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Sports
 # Каналов: 3
-# Обновлено: 2026-09-23 23:52:46
+# Обновлено: 2026-09-24 01:04:40
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="TVR Sport" group-title="General;Sports",TVR Sport
@@ -7541,3 +7541,27 @@ https://ntvcanal7.com.ar:81/dash/stream.mpd
 https://liveingesta318.cdnmedia.tv/101weblive/smil:antequera.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Star Sports 2 Telugu (576p)" group-title="Sports",Star Sports 2 Telugu (576p)
 https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 1" group-title="Sports",Setanta Sports 1
+https://fs.uplink.kz/setanta_sports_1_hd/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="Qazaqstan (576p)" group-title="General",Qazaqstan (576p)
+https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0" group-title="General",Channel 8 International (576p) [Geo-blocked]" group-title="General",like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0" group-title="General",Channel 8 International (576p) [Geo-blocked]
+http://live-11cinema.cdnvideo.net/11cinemanet/11cinemanet/playlist.m3u8
+#EXTINF:-1 tvg-name="Caracol Internacional (576p)" group-title="General",Caracol Internacional (576p)
+http://138.59.177.78:9999/play/a0a8/index.m3u8
+#EXTINF:-1 tvg-name="Telepacifico" group-title="General",Telepacifico
+http://138.121.15.230:9002/TELEPACIFICO/index.m3u8
+#EXTINF:-1 tvg-name="5Gold" group-title="Sports",5Gold
+http://str2.iptvhd.ru:8080/sport5gold/index.m3u8
+#EXTINF:-1 tvg-name="5Live" group-title="Sports",5Live
+http://str2.iptvhd.ru:8080/5live/index.m3u8
+#EXTINF:-1 tvg-name="5Plus" group-title="Sports",5Plus
+http://89.33.29.115:8080/sportplus/index.m3u8
+#EXTINF:-1 tvg-name="5Sport 4K (2160p)" group-title="Sports",5Sport 4K (2160p)
+http://str2.iptvhd.ru:8080/5SPORT_4K/index.m3u8
+#EXTINF:-1 tvg-name="5Sport" group-title="Sports",5Sport
+http://str2.iptvhd.ru:8080/5sport/index.m3u8
+#EXTINF:-1 tvg-name="One 2" group-title="Sports",One 2
+http://str2.iptvhd.ru:8080/One/index.m3u8
+#EXTINF:-1 tvg-name="Sport 2 (Israel)" group-title="Sports",Sport 2 (Israel)
+http://str2.iptvhd.ru:8080/Sport_2/index.m3u8

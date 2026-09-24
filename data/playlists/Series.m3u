@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-23 23:52:45
-# Всего каналов: 24017
-# Новых за сессию: 0
+# Обновлено: 2026-09-24 01:04:40
+# Всего каналов: 24034
+# Новых за сессию: 17
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Series
-# Каналов: 447
-# Обновлено: 2026-09-23 23:52:46
+# Каналов: 448
+# Обновлено: 2026-09-24 01:04:40
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Smotrim Chestnyy Detektiv" group-title="Series",Smotrim Chestnyy Detektiv
@@ -1341,6 +1341,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/176.118.197.101/MirSer
 
 #EXTINF:-1 tvg-name="Viasat Epic Drama Ukraine (576p)" group-title="Series",Viasat Epic Drama Ukraine (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/195.189.60.253/118/index.m3u8
+
+#EXTINF:-1 tvg-name="We TV" group-title="Series",We TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/23.237.104.106:8080/USA_WE_TV/index.m3u8
 
 #EXTINF:-1 tvg-name="13T" group-title="Series",13T
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8

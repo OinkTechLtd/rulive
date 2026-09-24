@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-23 23:52:45
-# Всего каналов: 24017
-# Новых за сессию: 0
+# Обновлено: 2026-09-24 01:04:40
+# Всего каналов: 24034
+# Новых за сессию: 17
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Series
 # Каналов: 1
-# Обновлено: 2026-09-23 23:52:46
+# Обновлено: 2026-09-24 01:04:40
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Super TV (Italy)" group-title="General;Series",Super TV (Italy)
@@ -7349,3 +7349,11 @@ https://vodcdn.bamboo-cloud.com/livehls/6a9f8b4606304461c50dfe93/master.m3u8
 https://ntvcanal7.com.ar:81/dash/stream.mpd
 #EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="General",101tv Antequera [Geo-blocked]" group-title="General",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="General",101tv Antequera [Geo-blocked]
 https://liveingesta318.cdnmedia.tv/101weblive/smil:antequera.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Qazaqstan (576p)" group-title="General",Qazaqstan (576p)
+https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0" group-title="General",Channel 8 International (576p) [Geo-blocked]" group-title="General",like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0" group-title="General",Channel 8 International (576p) [Geo-blocked]
+http://live-11cinema.cdnvideo.net/11cinemanet/11cinemanet/playlist.m3u8
+#EXTINF:-1 tvg-name="Caracol Internacional (576p)" group-title="General",Caracol Internacional (576p)
+http://138.59.177.78:9999/play/a0a8/index.m3u8
+#EXTINF:-1 tvg-name="Telepacifico" group-title="General",Telepacifico
+http://138.121.15.230:9002/TELEPACIFICO/index.m3u8

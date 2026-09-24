@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-23 23:52:45
-# Всего каналов: 24017
-# Новых за сессию: 0
+# Обновлено: 2026-09-24 01:04:40
+# Всего каналов: 24034
+# Новых за сессию: 17
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Entertainment;Sports
 # Каналов: 1
-# Обновлено: 2026-09-23 23:52:46
+# Обновлено: 2026-09-24 01:04:40
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="YES" group-title="Culture;Entertainment;Sports",YES
@@ -249,7 +249,7 @@ https://kiev1-cdn.lanet.tv/live/1008.m3u8
 https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Entertainment",ТНТ4 International (576p)" group-title="Entertainment",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Entertainment",ТНТ4 International (576p)
 https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Entertainment",TNT International (480p)" group-title="Entertainment",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Entertainment",TNT International (480p)
+#EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Entertainment",TNT International SD (480p)" group-title="Entertainment",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Entertainment",TNT International SD (480p)
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 #EXTINF:-1 tvg-name="Abai TV" group-title="Culture",Abai TV
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
@@ -3995,3 +3995,19 @@ http://05cea6e8.ucomist.net/iptv/VK7YCHHWNDD8XC/15230/index.m3u8
 https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
 #EXTINF:-1 tvg-name="Bem Mais TV" group-title="Culture;Education",Bem Mais TV
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 1" group-title="Sports",Setanta Sports 1
+https://fs.uplink.kz/setanta_sports_1_hd/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="5Gold" group-title="Sports",5Gold
+http://str2.iptvhd.ru:8080/sport5gold/index.m3u8
+#EXTINF:-1 tvg-name="5Live" group-title="Sports",5Live
+http://str2.iptvhd.ru:8080/5live/index.m3u8
+#EXTINF:-1 tvg-name="5Plus" group-title="Sports",5Plus
+http://89.33.29.115:8080/sportplus/index.m3u8
+#EXTINF:-1 tvg-name="5Sport 4K (2160p)" group-title="Sports",5Sport 4K (2160p)
+http://str2.iptvhd.ru:8080/5SPORT_4K/index.m3u8
+#EXTINF:-1 tvg-name="5Sport" group-title="Sports",5Sport
+http://str2.iptvhd.ru:8080/5sport/index.m3u8
+#EXTINF:-1 tvg-name="One 2" group-title="Sports",One 2
+http://str2.iptvhd.ru:8080/One/index.m3u8
+#EXTINF:-1 tvg-name="Sport 2 (Israel)" group-title="Sports",Sport 2 (Israel)
+http://str2.iptvhd.ru:8080/Sport_2/index.m3u8
