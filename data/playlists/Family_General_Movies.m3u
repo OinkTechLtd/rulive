@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-24 23:45:57
-# Всего каналов: 24039
-# Новых за сессию: 1
+# Обновлено: 2026-09-25 00:28:01
+# Всего каналов: 24051
+# Новых за сессию: 12
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Family;General;Movies
 # Каналов: 1
-# Обновлено: 2026-09-24 23:45:58
+# Обновлено: 2026-09-25 00:28:02
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="MCI Television" group-title="Family;General;Movies",MCI Television
@@ -8329,3 +8329,7 @@ http://live-11cinema.cdnvideo.net/11cinemanet/11cinemanet/playlist.m3u8
 http://138.59.177.78:9999/play/a0a8/index.m3u8
 #EXTINF:-1 tvg-name="Telepacifico" group-title="General",Telepacifico
 http://138.121.15.230:9002/TELEPACIFICO/index.m3u8
+#EXTINF:-1 tvg-name="Golden Premier 2" group-title="Movies",Golden Premier 2
+http://200.229.147.210:9999/play/a00l/index.m3u8
+#EXTINF:-1 tvg-name="Golden Premier" group-title="Movies",Golden Premier
+http://200.229.147.210:9999/play/a00k/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-24 23:45:57
-# Всего каналов: 24039
-# Новых за сессию: 1
+# Обновлено: 2026-09-25 00:28:01
+# Всего каналов: 24051
+# Новых за сессию: 12
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;Religious
 # Каналов: 12
-# Обновлено: 2026-09-24 23:45:58
+# Обновлено: 2026-09-25 00:28:02
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Muz Soyuz (576p)" group-title="Music;Religious",Muz Soyuz (576p)
@@ -3522,3 +3522,5 @@ https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8
 #EXTINF:-1 tvg-name="Songdew TV (396p)" group-title="Music",Songdew TV (396p)
 https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-name="TeleHit (576p)" group-title="Music",TeleHit (576p)
+http://200.115.120.1:8000/play/ca048/index.m3u8

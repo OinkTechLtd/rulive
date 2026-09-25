@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-24 23:45:57
-# Всего каналов: 24039
-# Новых за сессию: 1
+# Обновлено: 2026-09-25 00:28:01
+# Всего каналов: 24051
+# Новых за сессию: 12
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;News
 # Каналов: 3
-# Обновлено: 2026-09-24 23:45:58
+# Обновлено: 2026-09-25 00:28:02
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Indywood TV" group-title="Movies;News",Indywood TV
@@ -4599,3 +4599,7 @@ https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8
 http://31.131.139.253:9002/novoros/index.m3u8
 #EXTINF:-1 tvg-name="Oplot TV SD [Geo-blocked]" group-title="News",Oplot TV SD [Geo-blocked]
 http://31.131.139.253:9002/oplot_hd/index.m3u8
+#EXTINF:-1 tvg-name="Golden Premier 2" group-title="Movies",Golden Premier 2
+http://200.229.147.210:9999/play/a00l/index.m3u8
+#EXTINF:-1 tvg-name="Golden Premier" group-title="Movies",Golden Premier
+http://200.229.147.210:9999/play/a00k/index.m3u8

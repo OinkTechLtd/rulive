@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-24 23:45:57
-# Всего каналов: 24039
-# Новых за сессию: 1
+# Обновлено: 2026-09-25 00:28:01
+# Всего каналов: 24051
+# Новых за сессию: 12
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Family;Kids
 # Каналов: 1
-# Обновлено: 2026-09-24 23:45:58
+# Обновлено: 2026-09-25 00:28:02
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RiC" group-title="Family;Kids",RiC
@@ -1241,3 +1241,5 @@ http://89.33.29.115:8080/TeenNick/index.m3u8
 http://str2.iptvhd.ru:8080/junior/index.m3u8
 #EXTINF:-1 tvg-name="Luli" group-title="Kids",Luli
 http://str2.iptvhd.ru:8080/HOT_Luli/index.m3u8
+#EXTINF:-1 tvg-name="Spacetoon Turkey" group-title="Animation;Kids",Spacetoon Turkey
+https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-24 23:45:57
-# Всего каналов: 24039
-# Новых за сессию: 1
+# Обновлено: 2026-09-25 00:28:01
+# Всего каналов: 24051
+# Новых за сессию: 12
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Lifestyle;Movies
 # Каналов: 3
-# Обновлено: 2026-09-24 23:45:58
+# Обновлено: 2026-09-25 00:28:02
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Great American Faith & Living" group-title="Lifestyle;Movies",Great American Faith & Living
@@ -2379,3 +2379,7 @@ http://str2.iptvhd.ru:8080/drama/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8
 #EXTINF:-1 tvg-name="Shemaroo Josh (576p)" group-title="Movies",Shemaroo Josh (576p)
 https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8
+#EXTINF:-1 tvg-name="Golden Premier 2" group-title="Movies",Golden Premier 2
+http://200.229.147.210:9999/play/a00l/index.m3u8
+#EXTINF:-1 tvg-name="Golden Premier" group-title="Movies",Golden Premier
+http://200.229.147.210:9999/play/a00k/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-24 23:45:57
-# Всего каналов: 24039
-# Новых за сессию: 1
+# Обновлено: 2026-09-25 00:28:01
+# Всего каналов: 24051
+# Новых за сессию: 12
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Movies;Series
 # Каналов: 2
-# Обновлено: 2026-09-24 23:45:58
+# Обновлено: 2026-09-25 00:28:02
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Fillka TV" group-title="Entertainment;Movies;Series",Fillka TV
@@ -5222,3 +5222,7 @@ http://195.189.60.253/118/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8
 #EXTINF:-1 tvg-name="TNT International Belarus" group-title="Entertainment",TNT International Belarus
 http://05cea6e8.ucomist.net/iptv/VK7YCHHWNDD8XC/15230/index.m3u8
+#EXTINF:-1 tvg-name="Golden Premier 2" group-title="Movies",Golden Premier 2
+http://200.229.147.210:9999/play/a00l/index.m3u8
+#EXTINF:-1 tvg-name="Golden Premier" group-title="Movies",Golden Premier
+http://200.229.147.210:9999/play/a00k/index.m3u8
