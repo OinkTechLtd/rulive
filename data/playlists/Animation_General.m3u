@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-25 22:41:59
-# Всего каналов: 24055
-# Новых за сессию: 1
+# Обновлено: 2026-09-26 01:13:55
+# Всего каналов: 24066
+# Новых за сессию: 11
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;General
 # Каналов: 1
-# Обновлено: 2026-09-25 22:42:00
+# Обновлено: 2026-09-26 01:13:56
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Gooder Nation Channel 32" group-title="Animation;General",Gooder Nation Channel 32
@@ -6577,3 +6577,5 @@ http://138.59.177.78:9999/play/a0a8/index.m3u8
 http://138.121.15.230:9002/TELEPACIFICO/index.m3u8
 #EXTINF:-1 tvg-name="Spacetoon Turkey" group-title="Animation;Kids",Spacetoon Turkey
 https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
+#EXTINF:-1 tvg-name="Chaozhou Public Channel" group-title="General",Chaozhou Public Channel
+http://113.64.146.48:1688/hls/4/index.m3u8

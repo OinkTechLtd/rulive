@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-25 22:41:59
-# Всего каналов: 24055
-# Новых за сессию: 1
+# Обновлено: 2026-09-26 01:13:55
+# Всего каналов: 24066
+# Новых за сессию: 11
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids
-# Каналов: 526
-# Обновлено: 2026-09-25 22:42:00
+# Каналов: 528
+# Обновлено: 2026-09-26 01:13:56
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Mama (576p)" group-title="Kids",Mama (576p)
@@ -1518,6 +1518,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/str2.iptvhd.ru:8080/ju
 
 #EXTINF:-1 tvg-name="Luli" group-title="Kids",Luli
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/str2.iptvhd.ru:8080/HOT_Luli/index.m3u8
+
+#EXTINF:-1 tvg-name="Nick Jr. (United States) East" group-title="Kids",Nick Jr. (United States) East
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/sra72yz.s.gy/NICK_JR_HD.m3u8
+
+#EXTINF:-1 tvg-name="Nicktoons (United States)" group-title="Kids",Nicktoons (United States)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/sra72yz.s.gy/NICKTOONS_HD.m3u8
 
 #EXTINF:-1 tvg-name="TNT Kids TV (288p)" group-title="Kids",TNT Kids TV (288p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/restreamer1.tnt.ba/hls/tntkids.m3u8
