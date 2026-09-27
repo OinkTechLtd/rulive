@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-27 00:16:52
-# Всего каналов: 24068
-# Новых за сессию: 0
+# Обновлено: 2026-09-27 00:47:34
+# Всего каналов: 24087
+# Новых за сессию: 19
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General
-# Каналов: 3304
-# Обновлено: 2026-09-27 00:16:53
+# Каналов: 3307
+# Обновлено: 2026-09-27 00:47:34
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="БелРос (576p)" group-title="General",БелРос (576p)
@@ -9538,7 +9538,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/mumbai-edge.smartplayt
 #EXTINF:-1 tvg-name="DD Odia (576p)" group-title="General",DD Odia (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/mumbai-edge.smartplaytv.in/ddodiya/index.m3u8
 
-#EXTINF:-1 tvg-name="MBC TV (576p)" group-title="General",MBC TV (576p)
+#EXTINF:-1 tvg-name="MBC TV (India) (576p)" group-title="General",MBC TV (India) (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/mumbai-edge.smartplaytv.in/MBCTV/index.m3u8
 
 #EXTINF:-1 tvg-name="Network 10" group-title="General",Network 10
@@ -9585,6 +9585,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/138.121.15.230:9002/TE
 
 #EXTINF:-1 tvg-name="Chaozhou Public Channel" group-title="General",Chaozhou Public Channel
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/113.64.146.48:1688/hls/4/index.m3u8
+
+#EXTINF:-1 tvg-name="Azteca 7" group-title="General",Azteca 7
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/187.245.231.226:8000/play/a0uz/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel One (Russia) Europa (480p)" group-title="General",Channel One (Russia) Europa (480p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
+
+#EXTINF:-1 tvg-name="like Gecko) Chrome/131.0.0.0 Safari/537.36" group-title="General",like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:9KJTMRBAm2BbnsYK.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Belarus-1" group-title="General",Belarus-1
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
@@ -10332,3 +10341,7 @@ https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 https://liveingesta318.cdnmedia.tv/101weblive/smil:antequera.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0" group-title="General",Channel 8 International (576p) [Geo-blocked]" group-title="General",like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0" group-title="General",Channel 8 International (576p) [Geo-blocked]
 http://live-11cinema.cdnvideo.net/11cinemanet/11cinemanet/playlist.m3u8
+#EXTINF:-1 tvg-name="La 1 (1086p)" group-title="General;Public",La 1 (1086p)
+https://cdn.stmify.com/zapitv/stream/LA_1/la1_4k.mpd
+#EXTINF:-1 tvg-name="like Gecko) Chrome/131.0.0.0 Safari/537.36" group-title="General",Cubavision" group-title="General",like Gecko) Chrome/131.0.0.0 Safari/537.36" group-title="General",Cubavision
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:9KJTMRBAm2BbnsYK.stream/playlist.m3u8

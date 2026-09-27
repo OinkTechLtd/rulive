@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-27 00:16:52
-# Всего каналов: 24068
-# Новых за сессию: 0
+# Обновлено: 2026-09-27 00:47:34
+# Всего каналов: 24087
+# Новых за сессию: 19
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies
-# Каналов: 980
-# Обновлено: 2026-09-27 00:16:53
+# Каналов: 982
+# Обновлено: 2026-09-27 00:47:35
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="312 Kino (406p)" group-title="Movies",312 Kino (406p)
@@ -2790,6 +2790,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/sra72yz.s.gy/CINEMAX_A
 
 #EXTINF:-1 tvg-name="AXN Latin America South" group-title="Movies",AXN Latin America South
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/181.78.12.119:16123/play/ch46/index.m3u8
+
+#EXTINF:-1 tvg-name="Sundance TV" group-title="Movies",Sundance TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.stmify.com/zapitv/stream/SUNDANCE_TV/sundance_hd.mpd
+
+#EXTINF:-1 tvg-name="Cinemaraton Plus (1080i)" group-title="Movies",Cinemaraton Plus (1080i)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Cine34" group-title="Movies",Cine34
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8

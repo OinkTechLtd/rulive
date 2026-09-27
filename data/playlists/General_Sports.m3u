@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-27 00:16:52
-# Всего каналов: 24068
-# Новых за сессию: 0
+# Обновлено: 2026-09-27 00:47:34
+# Всего каналов: 24087
+# Новых за сессию: 19
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Sports
 # Каналов: 3
-# Обновлено: 2026-09-27 00:16:53
+# Обновлено: 2026-09-27 00:47:35
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="TVR Sport" group-title="General;Sports",TVR Sport
@@ -7507,6 +7507,8 @@ http://200.115.120.1:8000/play/ca128/index.m3u8
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-name="DD Sports" group-title="Sports",DD Sports
 https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
+#EXTINF:-1 tvg-name="MBC TV (India) (576p)" group-title="General",MBC TV (India) (576p)
+https://mumbai-edge.smartplaytv.in/MBCTV/index.m3u8
 #EXTINF:-1 tvg-name="Channel One CIS (576p)" group-title="General",Channel One CIS (576p)
 https://fs.uplink.kz/perviy_kanal_sng/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-name="Sky Sports Cricket (United Kingdom)" group-title="Sports",Sky Sports Cricket (United Kingdom)
@@ -7573,3 +7575,11 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/2389/index.m3u8
 #EXTINF:-1 tvg-name="Chaozhou Public Channel" group-title="General",Chaozhou Public Channel
 http://113.64.146.48:1688/hls/4/index.m3u8
+#EXTINF:-1 tvg-name="La 1 (1086p)" group-title="General;Public",La 1 (1086p)
+https://cdn.stmify.com/zapitv/stream/LA_1/la1_4k.mpd
+#EXTINF:-1 tvg-name="Channel One (Russia) Europa (480p)" group-title="General",Channel One (Russia) Europa (480p)
+https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/131.0.0.0 Safari/537.36" group-title="General",Cubavision" group-title="General",like Gecko) Chrome/131.0.0.0 Safari/537.36" group-title="General",Cubavision
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:9KJTMRBAm2BbnsYK.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Tigo Sports (Paraguay)" group-title="Sports",Tigo Sports (Paraguay)
+http://45.170.130.224:8000/play/a04k/index.m3u8?hls

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-27 00:16:52
-# Всего каналов: 24068
-# Новых за сессию: 0
+# Обновлено: 2026-09-27 00:47:34
+# Всего каналов: 24087
+# Новых за сессию: 19
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Music
-# Каналов: 2
-# Обновлено: 2026-09-27 00:16:53
+# Каналов: 3
+# Обновлено: 2026-09-27 00:47:35
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Zhara Kids TV (576p)" group-title="Kids;Music",Zhara Kids TV (576p)
@@ -15,6 +15,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/trs1.aynaott.com/disco
 
 #EXTINF:-1 tvg-name="S KPop! (480p)" group-title="Kids;Music",S KPop! (480p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8
+
+#EXTINF:-1 tvg-name="New Channel (480p)" group-title="Kids;Music",New Channel (480p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/vodcdn.bamboo-cloud.com/livehls/6ab2104508fd5ee36702e3d4/master.m3u8
 
 #EXTINF:-1 tvg-name="9Go! [Geo-blocked]" group-title="Entertainment;Kids",9Go! [Geo-blocked]
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
@@ -2908,3 +2911,15 @@ http://200.115.120.1:8000/play/ca048/index.m3u8
 https://sra72yz.s.gy/NICK_JR_HD.m3u8
 #EXTINF:-1 tvg-name="Bandamax" group-title="Music",Bandamax
 http://181.78.106.127:5000/play/ca064/index.m3u8
+#EXTINF:-1 tvg-name="New Channel Pop! (480p)" group-title="Kids",New Channel Pop! (480p)
+https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8
+#EXTINF:-1 tvg-name="S Play Event" group-title="Kids",S Play Event
+https://vodcdn.bamboo-cloud.com/livehls/6a9f929f0630443af52c7162/master.m3u8
+#EXTINF:-1 tvg-name="Mi Musica Reggaeton" group-title="Music",Mi Musica Reggaeton
+http://181.78.12.119:16123/play/ch53/index.m3u8
+#EXTINF:-1 tvg-name="Mi Musica Romantica" group-title="Music",Mi Musica Romantica
+http://181.78.12.119:16123/play/ch54/index.m3u8
+#EXTINF:-1 tvg-name="Mi Musica Salsa" group-title="Music",Mi Musica Salsa
+http://181.78.12.119:16123/play/ch55/index.m3u8
+#EXTINF:-1 tvg-name="Impact TV 2" group-title="Music",Impact TV 2
+https://online.tvimpact.live/hls/impact_tv2.m3u8

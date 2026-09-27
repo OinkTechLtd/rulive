@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-27 00:16:52
-# Всего каналов: 24068
-# Новых за сессию: 0
+# Обновлено: 2026-09-27 00:47:34
+# Всего каналов: 24087
+# Новых за сессию: 19
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Public;Sports
 # Каналов: 2
-# Обновлено: 2026-09-27 00:16:53
+# Обновлено: 2026-09-27 00:47:35
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Esport3 Originals" group-title="Public;Sports",Esport3 Originals
@@ -1504,3 +1504,9 @@ http://89.33.29.115:8080/IL_5Stars/index.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/12251/index.m3u8
 #EXTINF:-1 tvg-name="Sport 4 (Israel)" group-title="Sports",Sport 4 (Israel)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/2389/index.m3u8
+#EXTINF:-1 tvg-name="Canal Sur" group-title="General;Public",Canal Sur
+https://cdn.stmify.com/zapitv/stream/CANAL_SUR/canal_sur_hd.mpd
+#EXTINF:-1 tvg-name="La 1 (1086p)" group-title="General;Public",La 1 (1086p)
+https://cdn.stmify.com/zapitv/stream/LA_1/la1_4k.mpd
+#EXTINF:-1 tvg-name="Tigo Sports (Paraguay)" group-title="Sports",Tigo Sports (Paraguay)
+http://45.170.130.224:8000/play/a04k/index.m3u8?hls

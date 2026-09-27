@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-27 00:16:52
-# Всего каналов: 24068
-# Новых за сессию: 0
+# Обновлено: 2026-09-27 00:47:34
+# Всего каналов: 24087
+# Новых за сессию: 19
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Music;Public
 # Каналов: 1
-# Обновлено: 2026-09-27 00:16:53
+# Обновлено: 2026-09-27 00:47:35
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="FomixTV" group-title="General;Music;Public",FomixTV
@@ -7969,6 +7969,8 @@ http://200.115.120.1:8000/play/ca128/index.m3u8
 https://streams.tangotv.in/BALLEBALLE/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-name="Boogle Bollywood" group-title="Music",Boogle Bollywood
 https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-name="MBC TV (India) (576p)" group-title="General",MBC TV (India) (576p)
+https://mumbai-edge.smartplaytv.in/MBCTV/index.m3u8
 #EXTINF:-1 tvg-name="Channel One CIS (576p)" group-title="General",Channel One CIS (576p)
 https://fs.uplink.kz/perviy_kanal_sng/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-name="Channel 5 (Russia) (576p)" group-title="General",Channel 5 (Russia) (576p)
@@ -8007,3 +8009,19 @@ http://200.115.120.1:8000/play/ca048/index.m3u8
 http://113.64.146.48:1688/hls/4/index.m3u8
 #EXTINF:-1 tvg-name="Bandamax" group-title="Music",Bandamax
 http://181.78.106.127:5000/play/ca064/index.m3u8
+#EXTINF:-1 tvg-name="New Channel (480p)" group-title="Kids;Music",New Channel (480p)
+https://vodcdn.bamboo-cloud.com/livehls/6ab2104508fd5ee36702e3d4/master.m3u8
+#EXTINF:-1 tvg-name="La 1 (1086p)" group-title="General;Public",La 1 (1086p)
+https://cdn.stmify.com/zapitv/stream/LA_1/la1_4k.mpd
+#EXTINF:-1 tvg-name="Channel One (Russia) Europa (480p)" group-title="General",Channel One (Russia) Europa (480p)
+https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/131.0.0.0 Safari/537.36" group-title="General",Cubavision" group-title="General",like Gecko) Chrome/131.0.0.0 Safari/537.36" group-title="General",Cubavision
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:9KJTMRBAm2BbnsYK.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Mi Musica Reggaeton" group-title="Music",Mi Musica Reggaeton
+http://181.78.12.119:16123/play/ch53/index.m3u8
+#EXTINF:-1 tvg-name="Mi Musica Romantica" group-title="Music",Mi Musica Romantica
+http://181.78.12.119:16123/play/ch54/index.m3u8
+#EXTINF:-1 tvg-name="Mi Musica Salsa" group-title="Music",Mi Musica Salsa
+http://181.78.12.119:16123/play/ch55/index.m3u8
+#EXTINF:-1 tvg-name="Impact TV 2" group-title="Music",Impact TV 2
+https://online.tvimpact.live/hls/impact_tv2.m3u8
