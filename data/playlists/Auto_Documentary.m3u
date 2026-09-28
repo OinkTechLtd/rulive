@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-27 22:49:07
-# Всего каналов: 24089
-# Новых за сессию: 0
+# Обновлено: 2026-09-28 01:25:00
+# Всего каналов: 24127
+# Новых за сессию: 38
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Auto;Documentary
 # Каналов: 1
-# Обновлено: 2026-09-27 22:49:08
+# Обновлено: 2026-09-28 01:25:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pluto TV Turbo" group-title="Auto;Documentary",Pluto TV Turbo
@@ -577,7 +577,7 @@ http://dtv.vol.net.ua:80/Nat-Geo-Wild_HD/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8
 #EXTINF:-1 tvg-name="BBC Earth Romania (576p)" group-title="Documentary",BBC Earth Romania (576p)
 http://hls127.freeott.top:8080/BG_The_World/video.m3u8
-#EXTINF:-1 tvg-name="History 2" group-title="Documentary",History 2
+#EXTINF:-1 tvg-name="History 2 (Russia)" group-title="Documentary",History 2 (Russia)
 http://str2.iptvhd.ru:8080/H2_HD/index.m3u8
 #EXTINF:-1 tvg-name="Tochka.rf (576p)" group-title="Documentary;Travel",Tochka.rf (576p)
 http://str2.iptvhd.ru:8080/HD_Life/index.m3u8
@@ -587,3 +587,5 @@ http://hls127.freeott.top:8080/VIASAT_EXPLORE_HD_CEE/video.m3u8
 http://hls127.freeott.top:8080/BG_Nat_Geo_HD/video.m3u8
 #EXTINF:-1 tvg-name="History TV18 [Geo-blocked]" group-title="Documentary",History TV18 [Geo-blocked]
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Four" group-title="Culture;Documentary",BBC Four
+https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd

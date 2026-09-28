@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-27 22:49:07
-# Всего каналов: 24089
-# Новых за сессию: 0
+# Обновлено: 2026-09-28 01:25:00
+# Всего каналов: 24127
+# Новых за сессию: 38
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Public;Weather
 # Каналов: 1
-# Обновлено: 2026-09-27 22:49:08
+# Обновлено: 2026-09-28 01:25:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="3Cat Cameres del temps" group-title="Public;Weather",3Cat Cameres del temps
@@ -151,3 +151,5 @@ https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8
 https://cdn.stmify.com/zapitv/stream/CANAL_SUR/canal_sur_hd.mpd
 #EXTINF:-1 tvg-name="La 1 (1086p)" group-title="General;Public",La 1 (1086p)
 https://cdn.stmify.com/zapitv/stream/LA_1/la1_4k.mpd
+#EXTINF:-1 tvg-name="Clan Internacional" group-title="Kids;Public",Clan Internacional
+http://168.228.44.241:9999/play/a04j/index.m3u8

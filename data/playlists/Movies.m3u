@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-27 22:49:07
-# Всего каналов: 24089
-# Новых за сессию: 0
+# Обновлено: 2026-09-28 01:25:00
+# Всего каналов: 24127
+# Новых за сессию: 38
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies
-# Каналов: 982
-# Обновлено: 2026-09-27 22:49:08
+# Каналов: 985
+# Обновлено: 2026-09-28 01:25:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="312 Kino (406p)" group-title="Movies",312 Kino (406p)
@@ -1477,7 +1477,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/dokagents.site/live/fi
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/dokagents.site/live/filmnow/mono.m3u8
 
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3
+#EXTINF:-1 tvg-name="like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36" group-title="Movies",like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/dokagents.site/live/procinema/mono.m3u8
 
 #EXTINF:-1 tvg-name="Canal Cine Dios" group-title="Movies",Canal Cine Dios
@@ -2797,6 +2797,15 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.stmify.com/zapitv/
 #EXTINF:-1 tvg-name="Cinemaraton Plus (1080i)" group-title="Movies",Cinemaraton Plus (1080i)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
 
+#EXTINF:-1 tvg-name="MultiPremier" group-title="Movies",MultiPremier
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/168.196.127.137:6001/play/a08n/index.m3u8
+
+#EXTINF:-1 tvg-name="De Pelicula Plus" group-title="Movies",De Pelicula Plus
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/200.115.120.1:8000/play/ca030/index.m3u8
+
+#EXTINF:-1 tvg-name="Film Now (1080i)" group-title="Movies",Film Now (1080i)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/lbgo.bozztv.com/ssh101/ssh101/filmnoww/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Cine34" group-title="Movies",Cine34
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
 
@@ -3248,7 +3257,7 @@ https://dokagents.site/live/cinemaraton/mono.m3u8
 https://dokagents.site/live/filmmania/mono.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Film Now" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Film Now
 https://dokagents.site/live/filmnow/mono.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Pro Cinema" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Pro Cinema
+#EXTINF:-1 tvg-name="like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36" group-title="Movies",Pro Cinema (576i)" group-title="Movies",like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36" group-title="Movies",Pro Cinema (576i)
 https://dokagents.site/live/procinema/mono.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Movies;Series",Star Channel Latin America (1080i)" group-title="Movies;Series",like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Movies;Series",Star Channel Latin America (1080i)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8

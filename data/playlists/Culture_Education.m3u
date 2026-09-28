@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-27 22:49:07
-# Всего каналов: 24089
-# Новых за сессию: 0
+# Обновлено: 2026-09-28 01:25:00
+# Всего каналов: 24127
+# Новых за сессию: 38
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Education
 # Каналов: 12
-# Обновлено: 2026-09-27 22:49:08
+# Обновлено: 2026-09-28 01:25:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Ayeneh TV" group-title="Culture;Education",Ayeneh TV
@@ -980,3 +980,5 @@ https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
 http://185.9.2.18/chid_352/index.m3u8
 #EXTINF:-1 tvg-name="Kto est kto (576p)" group-title="Education",Kto est kto (576p)
 http://str2.iptvhd.ru:8080/kto_est_kto/index.m3u8
+#EXTINF:-1 tvg-name="BBC Four" group-title="Culture;Documentary",BBC Four
+https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd

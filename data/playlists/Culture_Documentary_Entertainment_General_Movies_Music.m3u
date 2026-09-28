@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-27 22:49:07
-# Всего каналов: 24089
-# Новых за сессию: 0
+# Обновлено: 2026-09-28 01:25:00
+# Всего каналов: 24127
+# Новых за сессию: 38
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Documentary;Entertainment;General;Movies;Music
 # Каналов: 1
-# Обновлено: 2026-09-27 22:49:08
+# Обновлено: 2026-09-28 01:25:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="AlternaTV" group-title="Culture;Documentary;Entertainment;General;Movies;Music",AlternaTV
@@ -9673,7 +9673,7 @@ https://dokagents.site/live/cinemaraton/mono.m3u8
 https://dokagents.site/live/filmmania/mono.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Film Now" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Film Now
 https://dokagents.site/live/filmnow/mono.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Pro Cinema" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Pro Cinema
+#EXTINF:-1 tvg-name="like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36" group-title="Movies",Pro Cinema (576i)" group-title="Movies",like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36" group-title="Movies",Pro Cinema (576i)
 https://dokagents.site/live/procinema/mono.m3u8
 #EXTINF:-1 tvg-name="JOAX-DTV" group-title="General",JOAX-DTV
 https://ntv5.mov3.co/hls/ntv.m3u8
@@ -12933,9 +12933,7 @@ http://hls127.freeott.top:8080/BG_The_World/video.m3u8
 http://hls127.freeott.top:8080/BG_FOX/video.m3u8
 #EXTINF:-1 tvg-name="Channel 5 (Russia) (576p)" group-title="General",Channel 5 (Russia) (576p)
 http://str2.iptvhd.ru:8080/5_kanal/index.m3u8
-#EXTINF:-1 tvg-name="FX (Russia)" group-title="Entertainment",FX (Russia)
-http://str2.iptvhd.ru:8080/FOX_HD/index.m3u8
-#EXTINF:-1 tvg-name="History 2" group-title="Documentary",History 2
+#EXTINF:-1 tvg-name="History 2 (Russia)" group-title="Documentary",History 2 (Russia)
 http://str2.iptvhd.ru:8080/H2_HD/index.m3u8
 #EXTINF:-1 tvg-name="Illusion+ (576p)" group-title="Movies",Illusion+ (576p)
 http://176.118.197.101/Illuzion+/index.m3u8
@@ -13037,3 +13035,19 @@ http://181.78.12.119:16123/play/ch55/index.m3u8
 https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
 #EXTINF:-1 tvg-name="Impact TV 2" group-title="Music",Impact TV 2
 https://online.tvimpact.live/hls/impact_tv2.m3u8
+#EXTINF:-1 tvg-name="Kuban 24 (480p) [Geo-blocked]" group-title="General",Kuban 24 (480p) [Geo-blocked]
+http://dmi3y-tv.online/hls/zabava/region/MAYK/CH_MAYKOP.m3u8
+#EXTINF:-1 tvg-name="MultiPremier" group-title="Movies",MultiPremier
+http://168.196.127.137:6001/play/a08n/index.m3u8
+#EXTINF:-1 tvg-name="BBC Four" group-title="Culture;Documentary",BBC Four
+https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-name="Caracol Internacional" group-title="General",Caracol Internacional
+http://167.249.23.102:8000/play/a0ax/index.m3u8
+#EXTINF:-1 tvg-name="De Pelicula Plus" group-title="Movies",De Pelicula Plus
+http://200.115.120.1:8000/play/ca030/index.m3u8
+#EXTINF:-1 tvg-name="El Trece Internacional Latin America" group-title="General",El Trece Internacional Latin America
+http://200.7.99.59:8000/play/a0gm/index.m3u8
+#EXTINF:-1 tvg-name="Ve Plus Panregional" group-title="Entertainment",Ve Plus Panregional
+http://190.61.114.186:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-name="Film Now (1080i)" group-title="Movies",Film Now (1080i)
+https://lbgo.bozztv.com/ssh101/ssh101/filmnoww/playlist.m3u8

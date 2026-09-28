@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-27 22:49:07
-# Всего каналов: 24089
-# Новых за сессию: 0
+# Обновлено: 2026-09-28 01:25:00
+# Всего каналов: 24127
+# Новых за сессию: 38
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Legislative;News
 # Каналов: 1
-# Обновлено: 2026-09-27 22:49:08
+# Обновлено: 2026-09-28 01:25:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="KTV (South Korea)" group-title="Legislative;News",KTV (South Korea)
@@ -2923,3 +2923,9 @@ http://31.131.139.253:9002/oplot_hd/index.m3u8
 http://181.78.12.119:16123/play/ch80/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/131.0.0.0 Safari/537.36" group-title="News",Canal Caribe" group-title="News",like Gecko) Chrome/131.0.0.0 Safari/537.36" group-title="News",Canal Caribe
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:CKZ3s6Wuv4gDjndG.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Parliament" group-title="Legislative",BBC Parliament
+https://cdn.stmify.com/bbc/stream/BBC_PARLIAMENT/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-name="ANTV (Venezuela)" group-title="Legislative",ANTV (Venezuela)
+http://181.78.8.199:8000/play/a0fo/index.m3u8
+#EXTINF:-1 tvg-name="Sahara 24" group-title="News",Sahara 24
+https://live.saharamedias.net:3317/live/shara24live.m3u8

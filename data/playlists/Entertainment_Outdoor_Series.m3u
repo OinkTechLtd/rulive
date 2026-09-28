@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-27 22:49:07
-# Всего каналов: 24089
-# Новых за сессию: 0
+# Обновлено: 2026-09-28 01:25:00
+# Всего каналов: 24127
+# Новых за сессию: 38
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Outdoor;Series
 # Каналов: 2
-# Обновлено: 2026-09-27 22:49:08
+# Обновлено: 2026-09-28 01:25:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Pluto TV Adventure CA" group-title="Entertainment;Outdoor;Series",Pluto TV Adventure CA
@@ -3528,8 +3528,6 @@ https://server.playontv.in/friendstv/index.m3u8
 https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
 #EXTINF:-1 tvg-name="Pulari TV (576p)" group-title="Entertainment",Pulari TV (576p)
 https://mumbai-edge.smartplaytv.in/PulariTV/index.m3u8
-#EXTINF:-1 tvg-name="FX (Russia)" group-title="Entertainment",FX (Russia)
-http://str2.iptvhd.ru:8080/FOX_HD/index.m3u8
 #EXTINF:-1 tvg-name="FX Life (576p)" group-title="Series",FX Life (576p)
 http://str2.iptvhd.ru:8080/Fox_Life_HD/index.m3u8
 #EXTINF:-1 tvg-name="Mir Seriala (576p)" group-title="Series",Mir Seriala (576p)
@@ -3550,3 +3548,7 @@ http://195.189.60.253/118/index.m3u8
 http://05cea6e8.ucomist.net/iptv/VK7YCHHWNDD8XC/15230/index.m3u8
 #EXTINF:-1 tvg-name="HBO Drama" group-title="Movies;Series",HBO Drama
 https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8
+#EXTINF:-1 tvg-name="TVAgro" group-title="Outdoor",TVAgro
+http://168.228.44.241:9999/play/a04n/index.m3u8
+#EXTINF:-1 tvg-name="Ve Plus Panregional" group-title="Entertainment",Ve Plus Panregional
+http://190.61.114.186:8000/play/a03i/index.m3u8

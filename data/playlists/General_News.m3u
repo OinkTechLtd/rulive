@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-27 22:49:07
-# Всего каналов: 24089
-# Новых за сессию: 0
+# Обновлено: 2026-09-28 01:25:00
+# Всего каналов: 24127
+# Новых за сессию: 38
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;News
 # Каналов: 23
-# Обновлено: 2026-09-27 22:49:08
+# Обновлено: 2026-09-28 01:25:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Sochi24" group-title="General;News",Sochi24
@@ -8687,3 +8687,11 @@ https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:CKZ3s6Wuv4gDjndG.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/131.0.0.0 Safari/537.36" group-title="General",Cubavision" group-title="General",like Gecko) Chrome/131.0.0.0 Safari/537.36" group-title="General",Cubavision
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:9KJTMRBAm2BbnsYK.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Kuban 24 (480p) [Geo-blocked]" group-title="General",Kuban 24 (480p) [Geo-blocked]
+http://dmi3y-tv.online/hls/zabava/region/MAYK/CH_MAYKOP.m3u8
+#EXTINF:-1 tvg-name="Caracol Internacional" group-title="General",Caracol Internacional
+http://167.249.23.102:8000/play/a0ax/index.m3u8
+#EXTINF:-1 tvg-name="El Trece Internacional Latin America" group-title="General",El Trece Internacional Latin America
+http://200.7.99.59:8000/play/a0gm/index.m3u8
+#EXTINF:-1 tvg-name="Sahara 24" group-title="News",Sahara 24
+https://live.saharamedias.net:3317/live/shara24live.m3u8

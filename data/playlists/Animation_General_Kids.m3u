@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-27 22:49:07
-# Всего каналов: 24089
-# Новых за сессию: 0
+# Обновлено: 2026-09-28 01:25:00
+# Всего каналов: 24127
+# Новых за сессию: 38
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;General;Kids
 # Каналов: 2
-# Обновлено: 2026-09-27 22:49:08
+# Обновлено: 2026-09-28 01:25:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="BBC Four/CBeebies [Geo-Blocked]" group-title="Animation;General;Kids",BBC Four/CBeebies [Geo-Blocked]
@@ -5484,6 +5484,8 @@ https://tbs5.mov3.co/hls/tbs.m3u8
 https://ntv4.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-name="BBC One" group-title="General",BBC One
 https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8
+#EXTINF:-1 tvg-name="CBeebies (United Kingdom) [Geo-blocked]" group-title="Kids",CBeebies (United Kingdom) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-name="Al Aoula" group-title="General",Al Aoula
 https://stream-lb.livemediama.com/alaoula-tnt/hls/master.m3u8
 #EXTINF:-1 tvg-name="Al Aoula Inter" group-title="General",Al Aoula Inter
@@ -7500,7 +7502,7 @@ https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv
 http://live-11cinema.cdnvideo.net/11cinemanet/11cinemanet/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="Kids",Nicktoons Scandinavia" group-title="Kids",like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="Kids",Nicktoons Scandinavia
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PE7C639D6VY8TCQQ4BYRZT7X/12059/index.m3u8
-#EXTINF:-1 tvg-name="TeenNick (Israel) (406p)" group-title="Kids",TeenNick (Israel) (406p)
+#EXTINF:-1 tvg-name="TeenNick (406p)" group-title="Kids",TeenNick (406p)
 http://89.33.29.115:8080/TeenNick/index.m3u8
 #EXTINF:-1 tvg-name="Caracol Internacional (576p)" group-title="General",Caracol Internacional (576p)
 http://138.59.177.78:9999/play/a0a8/index.m3u8
@@ -7528,3 +7530,17 @@ https://cdn.stmify.com/zapitv/stream/LA_1/la1_4k.mpd
 https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/131.0.0.0 Safari/537.36" group-title="General",Cubavision" group-title="General",like Gecko) Chrome/131.0.0.0 Safari/537.36" group-title="General",Cubavision
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:9KJTMRBAm2BbnsYK.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Kuban 24 (480p) [Geo-blocked]" group-title="General",Kuban 24 (480p) [Geo-blocked]
+http://dmi3y-tv.online/hls/zabava/region/MAYK/CH_MAYKOP.m3u8
+#EXTINF:-1 tvg-name="CBBC" group-title="Kids",CBBC
+https://cdn.stmify.com/bbc/stream/CBBC/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-name="CBeebies (Poland) (576p)" group-title="Kids",CBeebies (Poland) (576p)
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_cbeebies.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="CBeebies (United Kingdom)" group-title="Kids",CBeebies (United Kingdom)
+https://cdn.stmify.com/bbc/stream/CBEEBIES/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-name="Caracol Internacional" group-title="General",Caracol Internacional
+http://167.249.23.102:8000/play/a0ax/index.m3u8
+#EXTINF:-1 tvg-name="Clan Internacional" group-title="Kids;Public",Clan Internacional
+http://168.228.44.241:9999/play/a04j/index.m3u8
+#EXTINF:-1 tvg-name="El Trece Internacional Latin America" group-title="General",El Trece Internacional Latin America
+http://200.7.99.59:8000/play/a0gm/index.m3u8

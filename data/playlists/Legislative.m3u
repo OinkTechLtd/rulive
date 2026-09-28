@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-27 22:49:07
-# Всего каналов: 24089
-# Новых за сессию: 0
+# Обновлено: 2026-09-28 01:25:00
+# Всего каналов: 24127
+# Новых за сессию: 38
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Legislative
-# Каналов: 196
-# Обновлено: 2026-09-27 22:49:08
+# Каналов: 198
+# Обновлено: 2026-09-28 01:25:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Legislative",like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -579,6 +579,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.23.80.23:8080/Duma
 
 #EXTINF:-1 tvg-name="Sansad TV 2" group-title="Legislative",Sansad TV 2
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.pishow.tv/ott/live/39/master.m3u8
+
+#EXTINF:-1 tvg-name="BBC Parliament" group-title="Legislative",BBC Parliament
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.stmify.com/bbc/stream/BBC_PARLIAMENT/hevc_iptv_mse_v0.mpd
+
+#EXTINF:-1 tvg-name="ANTV (Venezuela)" group-title="Legislative",ANTV (Venezuela)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/181.78.8.199:8000/play/a0fo/index.m3u8
 
 #EXTINF:-1 tvg-name="TV Camara (Brazil)" group-title="Legislative",TV Camara (Brazil)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/stream3.camara.gov.br/tv1/manifest.m3u8

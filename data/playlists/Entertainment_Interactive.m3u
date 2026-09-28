@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-27 22:49:07
-# Всего каналов: 24089
-# Новых за сессию: 0
+# Обновлено: 2026-09-28 01:25:00
+# Всего каналов: 24127
+# Новых за сессию: 38
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Interactive
 # Каналов: 3
-# Обновлено: 2026-09-27 22:49:08
+# Обновлено: 2026-09-28 01:25:01
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RMC Life [Geo-Blocked]" group-title="Entertainment;Interactive",RMC Life [Geo-Blocked]
@@ -2211,8 +2211,6 @@ https://server.playontv.in/friendstv/index.m3u8
 https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
 #EXTINF:-1 tvg-name="Pulari TV (576p)" group-title="Entertainment",Pulari TV (576p)
 https://mumbai-edge.smartplaytv.in/PulariTV/index.m3u8
-#EXTINF:-1 tvg-name="FX (Russia)" group-title="Entertainment",FX (Russia)
-http://str2.iptvhd.ru:8080/FOX_HD/index.m3u8
 #EXTINF:-1 tvg-name="TNT4" group-title="Entertainment",TNT4
 http://str2.iptvhd.ru:8080/TNT_4/index.m3u8
 #EXTINF:-1 tvg-name="TF1" group-title="Entertainment",TF1
@@ -2225,3 +2223,5 @@ https://streams.tangotv.in/PTCPUNJABI/ORIGIN/index.m3u8
 http://88.212.15.19/live/otv/playlist.m3u8
 #EXTINF:-1 tvg-name="TNT International Belarus" group-title="Entertainment",TNT International Belarus
 http://05cea6e8.ucomist.net/iptv/VK7YCHHWNDD8XC/15230/index.m3u8
+#EXTINF:-1 tvg-name="Ve Plus Panregional" group-title="Entertainment",Ve Plus Panregional
+http://190.61.114.186:8000/play/a03i/index.m3u8
