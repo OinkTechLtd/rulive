@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-28 22:25:48
-# Всего каналов: 24131
-# Новых за сессию: 1
+# Обновлено: 2026-09-29 01:29:05
+# Всего каналов: 24161
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;News
 # Каналов: 3
-# Обновлено: 2026-09-28 22:25:50
+# Обновлено: 2026-09-29 01:29:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Indywood TV" group-title="Movies;News",Indywood TV
@@ -4621,3 +4621,11 @@ http://200.115.120.1:8000/play/ca030/index.m3u8
 https://live.saharamedias.net:3317/live/shara24live.m3u8
 #EXTINF:-1 tvg-name="Film Now (1080i)" group-title="Movies",Film Now (1080i)
 https://lbgo.bozztv.com/ssh101/ssh101/filmnoww/playlist.m3u8
+#EXTINF:-1 tvg-name="Oplot TV [Geo-blocked]" group-title="News",Oplot TV [Geo-blocked]
+http://31.131.141.195:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-name="Canal N" group-title="News",Canal N
+http://187.102.208.209:8000/play/a0az/index.m3u8
+#EXTINF:-1 tvg-name="Star Channel (Colombia)" group-title="Movies;Series",Star Channel (Colombia)
+http://190.61.47.54:8000/play/a035/index.m3u8
+#EXTINF:-1 tvg-name="Polsat Film 2" group-title="Movies",Polsat Film 2
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatFilm2.stream/playlist.m3u8

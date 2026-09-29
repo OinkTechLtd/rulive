@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-28 22:25:48
-# Всего каналов: 24131
-# Новых за сессию: 1
+# Обновлено: 2026-09-29 01:29:05
+# Всего каналов: 24161
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Religious
 # Каналов: 9
-# Обновлено: 2026-09-28 22:25:50
+# Обновлено: 2026-09-29 01:29:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Christian Youth Channel CYC" group-title="Kids;Religious",Christian Youth Channel CYC
@@ -2825,3 +2825,9 @@ https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_cbeebies.stream/playlist.m3u8
 https://cdn.stmify.com/bbc/stream/CBEEBIES/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-name="Clan Internacional" group-title="Kids;Public",Clan Internacional
 http://168.228.44.241:9999/play/a04j/index.m3u8
+#EXTINF:-1 tvg-name="ESNE TV" group-title="Religious",ESNE TV
+http://168.196.127.137:6001/play/a071/index.m3u8
+#EXTINF:-1 tvg-name="Elim TV (576p)" group-title="Religious",Elim TV (576p)
+http://38.252.238.18:8000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-name="Mizpa TV" group-title="Religious",Mizpa TV
+http://45.167.2.101:8000/play/a0r7/index.m3u8

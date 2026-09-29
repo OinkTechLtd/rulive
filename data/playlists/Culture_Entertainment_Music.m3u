@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-28 22:25:48
-# Всего каналов: 24131
-# Новых за сессию: 1
+# Обновлено: 2026-09-29 01:29:05
+# Всего каналов: 24161
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Entertainment;Music
 # Каналов: 1
-# Обновлено: 2026-09-28 22:25:50
+# Обновлено: 2026-09-29 01:29:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="MBC America" group-title="Culture;Entertainment;Music",MBC America
@@ -4413,3 +4413,7 @@ https://online.tvimpact.live/hls/impact_tv2.m3u8
 https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-name="Ve Plus Panregional" group-title="Entertainment",Ve Plus Panregional
 http://190.61.114.186:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-name="Az Clic" group-title="Entertainment",Az Clic
+http://38.252.238.18:8000/play/a01g/index.m3u8
+#EXTINF:-1 tvg-name="Picosa TV" group-title="Music",Picosa TV
+http://45.167.2.101:8000/play/a0sd/index.m3u8

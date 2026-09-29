@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-28 22:25:48
-# Всего каналов: 24131
-# Новых за сессию: 1
+# Обновлено: 2026-09-29 01:29:05
+# Всего каналов: 24161
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General
-# Каналов: 3317
-# Обновлено: 2026-09-28 22:25:49
+# Каналов: 3326
+# Обновлено: 2026-09-29 01:29:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="БелРос (576p)" group-title="General",БелРос (576p)
@@ -9624,6 +9624,33 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/200.7.99.59:8000/play/
 
 #EXTINF:-1 tvg-name="TV Chile" group-title="General",TV Chile
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/168.196.127.137:6001/play/a03n/index.m3u8
+
+#EXTINF:-1 tvg-name="Antena 3 Internacional" group-title="General",Antena 3 Internacional
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/38.252.238.18:8000/play/a04a/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal 5 (Mexico) XET-TDT" group-title="General",Canal 5 (Mexico) XET-TDT
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.5.118.152:8000/play/a03i/index.m3u8
+
+#EXTINF:-1 tvg-name="MC" group-title="General",MC
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/168.196.127.137:6001/play/a070/index.m3u8
+
+#EXTINF:-1 tvg-name="Bolivia TV" group-title="General",Bolivia TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/190.181.61.93:8000/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal 1 (Colombia)" group-title="General",Canal 1 (Colombia)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/38.134.250.110:8000/play/a014/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal 9 La Union" group-title="General",Canal 9 La Union
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.167.2.101:8000/play/a0r5/index.m3u8
+
+#EXTINF:-1 tvg-name="Teleislas" group-title="General",Teleislas
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/190.61.47.54:8000/play/a015/index.m3u8
+
+#EXTINF:-1 tvg-name="Televen" group-title="General",Televen
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/38.134.250.110:8000/play/a02i/index.m3u8
+
+#EXTINF:-1 tvg-name="Trece (Colombia)" group-title="General",Trece (Colombia)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/190.60.46.228:8888/play/a030/index.m3u8
 
 #EXTINF:-1 tvg-name="Belarus-1" group-title="General",Belarus-1
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8

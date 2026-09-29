@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-28 22:25:48
-# Всего каналов: 24131
-# Новых за сессию: 1
+# Обновлено: 2026-09-29 01:29:05
+# Всего каналов: 24161
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Family;Religious
 # Каналов: 1
-# Обновлено: 2026-09-28 22:25:50
+# Обновлено: 2026-09-29 01:29:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="TV Famille" group-title="Family;Religious",TV Famille
@@ -1871,3 +1871,9 @@ https://server.playontv.in/swastiktv/index.m3u8
 https://cdn.pishow.tv/ott/live/1389/master.m3u8
 #EXTINF:-1 tvg-name="PTC Simran (576p)" group-title="Religious",PTC Simran (576p)
 https://streams.tangotv.in/PTCSIMRAN/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-name="ESNE TV" group-title="Religious",ESNE TV
+http://168.196.127.137:6001/play/a071/index.m3u8
+#EXTINF:-1 tvg-name="Elim TV (576p)" group-title="Religious",Elim TV (576p)
+http://38.252.238.18:8000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-name="Mizpa TV" group-title="Religious",Mizpa TV
+http://45.167.2.101:8000/play/a0r7/index.m3u8

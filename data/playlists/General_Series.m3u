@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-28 22:25:48
-# Всего каналов: 24131
-# Новых за сессию: 1
+# Обновлено: 2026-09-29 01:29:05
+# Всего каналов: 24161
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Series
 # Каналов: 1
-# Обновлено: 2026-09-28 22:25:50
+# Обновлено: 2026-09-29 01:29:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Super TV (Italy)" group-title="General;Series",Super TV (Italy)
@@ -7375,3 +7375,17 @@ http://dmi3y-tv.online/hls/zabava/region/MAYK/CH_MAYKOP.m3u8
 http://167.249.23.102:8000/play/a0ax/index.m3u8
 #EXTINF:-1 tvg-name="El Trece Internacional Latin America" group-title="General",El Trece Internacional Latin America
 http://200.7.99.59:8000/play/a0gm/index.m3u8
+#EXTINF:-1 tvg-name="Canal 5 (Mexico) XET-TDT" group-title="General",Canal 5 (Mexico) XET-TDT
+http://45.5.118.152:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-name="MC" group-title="General",MC
+http://168.196.127.137:6001/play/a070/index.m3u8
+#EXTINF:-1 tvg-name="Canal 1 (Colombia)" group-title="General",Canal 1 (Colombia)
+http://38.134.250.110:8000/play/a014/index.m3u8
+#EXTINF:-1 tvg-name="Canal 9 La Union" group-title="General",Canal 9 La Union
+http://45.167.2.101:8000/play/a0r5/index.m3u8
+#EXTINF:-1 tvg-name="Star Channel (Colombia)" group-title="Movies;Series",Star Channel (Colombia)
+http://190.61.47.54:8000/play/a035/index.m3u8
+#EXTINF:-1 tvg-name="Teleislas" group-title="General",Teleislas
+http://190.61.47.54:8000/play/a015/index.m3u8
+#EXTINF:-1 tvg-name="Trece (Colombia)" group-title="General",Trece (Colombia)
+http://190.60.46.228:8888/play/a030/index.m3u8

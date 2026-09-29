@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-28 22:25:48
-# Всего каналов: 24131
-# Новых за сессию: 1
+# Обновлено: 2026-09-29 01:29:05
+# Всего каналов: 24161
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;News;Religious
 # Каналов: 1
-# Обновлено: 2026-09-28 22:25:50
+# Обновлено: 2026-09-29 01:29:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Lingkar TV" group-title="Music;News;Religious",Lingkar TV
@@ -6049,3 +6049,15 @@ http://181.78.12.119:16123/play/ch55/index.m3u8
 https://online.tvimpact.live/hls/impact_tv2.m3u8
 #EXTINF:-1 tvg-name="Sahara 24" group-title="News",Sahara 24
 https://live.saharamedias.net:3317/live/shara24live.m3u8
+#EXTINF:-1 tvg-name="Oplot TV [Geo-blocked]" group-title="News",Oplot TV [Geo-blocked]
+http://31.131.141.195:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-name="ESNE TV" group-title="Religious",ESNE TV
+http://168.196.127.137:6001/play/a071/index.m3u8
+#EXTINF:-1 tvg-name="Canal N" group-title="News",Canal N
+http://187.102.208.209:8000/play/a0az/index.m3u8
+#EXTINF:-1 tvg-name="Elim TV (576p)" group-title="Religious",Elim TV (576p)
+http://38.252.238.18:8000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-name="Mizpa TV" group-title="Religious",Mizpa TV
+http://45.167.2.101:8000/play/a0r7/index.m3u8
+#EXTINF:-1 tvg-name="Picosa TV" group-title="Music",Picosa TV
+http://45.167.2.101:8000/play/a0sd/index.m3u8

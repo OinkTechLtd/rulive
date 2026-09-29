@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-28 22:25:48
-# Всего каналов: 24131
-# Новых за сессию: 1
+# Обновлено: 2026-09-29 01:29:05
+# Всего каналов: 24161
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;News
-# Каналов: 14
-# Обновлено: 2026-09-28 22:25:50
+# Каналов: 15
+# Обновлено: 2026-09-29 01:29:06
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Channel One (United States)" group-title="Culture;News",Channel One (United States)
@@ -51,6 +51,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/streams.comclark.com/p
 
 #EXTINF:-1 tvg-name="NHK World-Japan" group-title="Culture;News",NHK World-Japan
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/nmk.ioapk.com:5050/4gtv-live168/index.m3u8
+
+#EXTINF:-1 tvg-name="NHK World-Japan" group-title="Culture;News",NHK World-Japan
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/170.83.16.50/NHK_WORLD/index.m3u8
 
 #EXTINF:-1 tvg-name="Дождь (альтернативный)" group-title="News",Дождь (альтернативный)
 https://stream.tvrain.tv/live/tvrain.m3u8
@@ -2992,3 +2995,7 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:CKZ3s6Wuv4gDjndG.stream/pl
 https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-name="Sahara 24" group-title="News",Sahara 24
 https://live.saharamedias.net:3317/live/shara24live.m3u8
+#EXTINF:-1 tvg-name="Oplot TV [Geo-blocked]" group-title="News",Oplot TV [Geo-blocked]
+http://31.131.141.195:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-name="Canal N" group-title="News",Canal N
+http://187.102.208.209:8000/play/a0az/index.m3u8
