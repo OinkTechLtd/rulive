@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-29 23:53:31
-# Всего каналов: 24164
-# Новых за сессию: 0
+# Обновлено: 2026-09-30 04:12:50
+# Всего каналов: 24194
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Sports
-# Каналов: 824
-# Обновлено: 2026-09-29 23:53:31
+# Каналов: 829
+# Обновлено: 2026-09-30 04:12:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CBC Sport [Geo-blocked]" group-title="Sports",CBC Sport [Geo-blocked]
@@ -2352,6 +2352,21 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/168.196.127.137:6001/p
 
 #EXTINF:-1 tvg-name="PX Sports" group-title="Sports",PX Sports
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/38.252.238.18:8000/play/a02f/index.m3u8
+
+#EXTINF:-1 tvg-name="SporTV" group-title="Sports",SporTV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/195.178.110.110/sportv/index.m3u8
+
+#EXTINF:-1 tvg-name="DeporTV" group-title="Sports",DeporTV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/181.209.105.115:2525/play/deportv/index.m3u8
+
+#EXTINF:-1 tvg-name="DSports 2" group-title="Sports",DSports 2
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/187.102.208.209:8000/play/a0bq/index.m3u8
+
+#EXTINF:-1 tvg-name="Tigo Sports (El Salvador)" group-title="Sports",Tigo Sports (El Salvador)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.167.2.101:8000/play/a0pp/index.m3u8
+
+#EXTINF:-1 tvg-name="Tigo Sports (Honduras)" group-title="Sports",Tigo Sports (Honduras)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/168.196.127.137:6001/play/a0ay/index.m3u8
 
 #EXTINF:-1 tvg-name="Belarus-5" group-title="Sports",Belarus-5
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-29 23:53:31
-# Всего каналов: 24164
-# Новых за сессию: 0
+# Обновлено: 2026-09-30 04:12:50
+# Всего каналов: 24194
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Family;General;Movies
 # Каналов: 1
-# Обновлено: 2026-09-29 23:53:32
+# Обновлено: 2026-09-30 04:12:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="MCI Television" group-title="Family;General;Movies",MCI Television
@@ -8377,3 +8377,17 @@ http://190.61.47.54:8000/play/a015/index.m3u8
 http://190.60.46.228:8888/play/a030/index.m3u8
 #EXTINF:-1 tvg-name="Polsat Film 2" group-title="Movies",Polsat Film 2
 https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatFilm2.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="HBO Drama West" group-title="Movies;Series",HBO Drama West
+https://sra72yz.s.gy/HBO_DRAMA_WEST_HD.m3u8
+#EXTINF:-1 tvg-name="HBO Hits West" group-title="Movies;Series",HBO Hits West
+https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8
+#EXTINF:-1 tvg-name="Cine.Ar" group-title="Movies",Cine.Ar
+http://181.209.105.115:2525/play/cinear/index.m3u8
+#EXTINF:-1 tvg-name="BBC Two Wales" group-title="General",BBC Two Wales
+https://cdn.stmify.com/bbc/stream/BBC_TWO_WALES/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-name="AXN Poland" group-title="Movies",AXN Poland
+https://2203.weebvideo.stream/hls/1288486/s/DI_yOeqLvqKFgnP7nYS18cjzG8MYtfk13VVnqo8DPkw/current/high/index.m3u8
+#EXTINF:-1 tvg-name="Radio Romania Oltenia-Craiova (576p)" group-title="General;Music",Radio Romania Oltenia-Craiova (576p)
+https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
+#EXTINF:-1 tvg-name="Radio Romania Targu Mures (576p)" group-title="General;Music",Radio Romania Targu Mures (576p)
+https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8

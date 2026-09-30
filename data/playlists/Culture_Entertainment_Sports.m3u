@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-29 23:53:31
-# Всего каналов: 24164
-# Новых за сессию: 0
+# Обновлено: 2026-09-30 04:12:50
+# Всего каналов: 24194
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Entertainment;Sports
 # Каналов: 1
-# Обновлено: 2026-09-29 23:53:32
+# Обновлено: 2026-09-30 04:12:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="YES" group-title="Culture;Entertainment;Sports",YES
@@ -2855,6 +2855,8 @@ https://jmp2.uk/plu-698a45156dc3c71eb1ba6599.m3u8
 http://hls127.freeott.top:8080/Kluch/video.m3u8
 #EXTINF:-1 tvg-name="beIN Sports USA" group-title="Sports",beIN Sports USA
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
+#EXTINF:-1 tvg-name="E! (United States) East" group-title="Entertainment",E! (United States) East
+http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1 tvg-name="FX (United States)" group-title="Entertainment",FX (United States)
 http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1 tvg-name="Canal+" group-title="Entertainment",Canal+
@@ -4031,3 +4033,11 @@ http://168.196.127.137:6001/play/a06v/index.m3u8
 http://38.252.238.18:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-name="Az Clic" group-title="Entertainment",Az Clic
 http://38.252.238.18:8000/play/a01g/index.m3u8
+#EXTINF:-1 tvg-name="SporTV" group-title="Sports",SporTV
+http://195.178.110.110/sportv/index.m3u8
+#EXTINF:-1 tvg-name="BBC Brit" group-title="Entertainment",BBC Brit
+http://57.128.231.171:8080/309/index.m3u8
+#EXTINF:-1 tvg-name="Tigo Sports (El Salvador)" group-title="Sports",Tigo Sports (El Salvador)
+http://45.167.2.101:8000/play/a0pp/index.m3u8
+#EXTINF:-1 tvg-name="Tigo Sports (Honduras)" group-title="Sports",Tigo Sports (Honduras)
+http://168.196.127.137:6001/play/a0ay/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-29 23:53:31
-# Всего каналов: 24164
-# Новых за сессию: 0
+# Обновлено: 2026-09-30 04:12:50
+# Всего каналов: 24194
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Religious
 # Каналов: 9
-# Обновлено: 2026-09-29 23:53:32
+# Обновлено: 2026-09-30 04:12:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Christian Youth Channel CYC" group-title="Kids;Religious",Christian Youth Channel CYC
@@ -2831,3 +2831,5 @@ http://168.196.127.137:6001/play/a071/index.m3u8
 http://38.252.238.18:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-name="Mizpa TV" group-title="Religious",Mizpa TV
 http://45.167.2.101:8000/play/a0r7/index.m3u8
+#EXTINF:-1 tvg-name="Disney Channel (Netherlands) (1080i)" group-title="Kids",Disney Channel (Netherlands) (1080i)
+https://masterofiptv.s.gy/iptv2/disney_channel_nl_uhd.m3u8

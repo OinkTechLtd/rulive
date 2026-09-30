@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-29 23:53:31
-# Всего каналов: 24164
-# Новых за сессию: 0
+# Обновлено: 2026-09-30 04:12:50
+# Всего каналов: 24194
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Comedy;Family;Series
 # Каналов: 2
-# Обновлено: 2026-09-29 23:53:32
+# Обновлено: 2026-09-30 04:12:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Velvet. Series Hits" group-title="Comedy;Family;Series",Velvet. Series Hits
@@ -664,11 +664,11 @@ https://jmp2.uk/plu-672e157d7d5da5000812872d.m3u8
 https://jmp2.uk/plu-672e1634e482950008c759a5.m3u8
 #EXTINF:-1 tvg-name="Becker (Sweden)" group-title="Classic;Series",Becker (Sweden)
 https://jmp2.uk/plu-672e16f5daad7f0008929a0d.m3u8
-#EXTINF:-1 tvg-name="BET DK" group-title="Series",BET DK
+#EXTINF:-1 tvg-name="BET (Sweden) DK" group-title="Series",BET (Sweden) DK
 https://jmp2.uk/plu-61c1939b8929e40007ff6382.m3u8
-#EXTINF:-1 tvg-name="BET NO" group-title="Series",BET NO
+#EXTINF:-1 tvg-name="BET (Sweden) NO" group-title="Series",BET (Sweden) NO
 https://jmp2.uk/plu-61dd5bf8db0b8e00080804ff.m3u8
-#EXTINF:-1 tvg-name="BET" group-title="Series",BET
+#EXTINF:-1 tvg-name="BET (Sweden)" group-title="Series",BET (Sweden)
 https://jmp2.uk/plu-61c187ef1efe1b0007571711.m3u8
 #EXTINF:-1 tvg-name="BET Throwbacks" group-title="Comedy",BET Throwbacks
 https://jmp2.uk/plu-61326275b3c86a00078e4833.m3u8
@@ -1818,3 +1818,9 @@ http://195.189.60.253/118/index.m3u8
 https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8
 #EXTINF:-1 tvg-name="Star Channel (Colombia)" group-title="Movies;Series",Star Channel (Colombia)
 http://190.61.47.54:8000/play/a035/index.m3u8
+#EXTINF:-1 tvg-name="HBO Drama West" group-title="Movies;Series",HBO Drama West
+https://sra72yz.s.gy/HBO_DRAMA_WEST_HD.m3u8
+#EXTINF:-1 tvg-name="HBO Hits West" group-title="Movies;Series",HBO Hits West
+https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8
+#EXTINF:-1 tvg-name="Tlnovelas Mexico" group-title="Series",Tlnovelas Mexico
+http://167.249.23.102:8000/play/a0g8/index.m3u8

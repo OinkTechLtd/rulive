@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-29 23:53:31
-# Всего каналов: 24164
-# Новых за сессию: 0
+# Обновлено: 2026-09-30 04:12:50
+# Всего каналов: 24194
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary;Entertainment
 # Каналов: 1
-# Обновлено: 2026-09-29 23:53:32
+# Обновлено: 2026-09-30 04:12:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="The Nest" group-title="Documentary;Entertainment",The Nest
@@ -2049,6 +2049,8 @@ https://jmp2.uk/plu-698a45156dc3c71eb1ba6599.m3u8
 http://hls127.freeott.top:8080/Kluch/video.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Documentary",National Geographic Wild" group-title="Documentary",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Documentary",National Geographic Wild
 http://46.32.176.50/natgeowild/index.m3u8
+#EXTINF:-1 tvg-name="E! (United States) East" group-title="Entertainment",E! (United States) East
+http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1 tvg-name="FX (United States)" group-title="Entertainment",FX (United States)
 http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1 tvg-name="National Geographic (United States) East" group-title="Documentary",National Geographic (United States) East
@@ -2719,3 +2721,7 @@ https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd
 http://190.61.114.186:8000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-name="Az Clic" group-title="Entertainment",Az Clic
 http://38.252.238.18:8000/play/a01g/index.m3u8
+#EXTINF:-1 tvg-name="BBC Brit" group-title="Entertainment",BBC Brit
+http://57.128.231.171:8080/309/index.m3u8
+#EXTINF:-1 tvg-name="BBC Earth" group-title="Documentary",BBC Earth
+http://57.128.231.171:8080/307/index.m3u8

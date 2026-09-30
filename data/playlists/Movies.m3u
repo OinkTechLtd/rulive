@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-29 23:53:31
-# Всего каналов: 24164
-# Новых за сессию: 0
+# Обновлено: 2026-09-30 04:12:50
+# Всего каналов: 24194
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies
-# Каналов: 988
-# Обновлено: 2026-09-29 23:53:32
+# Каналов: 992
+# Обновлено: 2026-09-30 04:12:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="312 Kino (406p)" group-title="Movies",312 Kino (406p)
@@ -2815,6 +2815,18 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/38.252.238.18:8000/pla
 #EXTINF:-1 tvg-name="Polsat Film 2" group-title="Movies",Polsat Film 2
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatFilm2.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Cinemax Action East" group-title="Movies",Cinemax Action East
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/sra72yz.s.gy/CINEMAX_ACTION_EAST_HD.m3u8
+
+#EXTINF:-1 tvg-name="Cine.Ar" group-title="Movies",Cine.Ar
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/181.209.105.115:2525/play/cinear/index.m3u8
+
+#EXTINF:-1 tvg-name="AXN Poland" group-title="Movies",AXN Poland
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/2203.weebvideo.stream/hls/1288486/s/DI_yOeqLvqKFgnP7nYS18cjzG8MYtfk13VVnqo8DPkw/current/high/index.m3u8
+
+#EXTINF:-1 tvg-name="Kino Polska" group-title="Movies",Kino Polska
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/57.128.231.171:8080/238/index.m3u8
+
 #EXTINF:-1 tvg-name="Cine34" group-title="Movies",Cine34
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
 
@@ -3596,3 +3608,7 @@ https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
 https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8
 #EXTINF:-1 tvg-name="Star Channel (Colombia)" group-title="Movies;Series",Star Channel (Colombia)
 http://190.61.47.54:8000/play/a035/index.m3u8
+#EXTINF:-1 tvg-name="HBO Drama West" group-title="Movies;Series",HBO Drama West
+https://sra72yz.s.gy/HBO_DRAMA_WEST_HD.m3u8
+#EXTINF:-1 tvg-name="HBO Hits West" group-title="Movies;Series",HBO Hits West
+https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8

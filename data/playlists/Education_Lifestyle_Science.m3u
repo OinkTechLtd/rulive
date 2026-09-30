@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-29 23:53:31
-# Всего каналов: 24164
-# Новых за сессию: 0
+# Обновлено: 2026-09-30 04:12:50
+# Всего каналов: 24194
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Lifestyle;Science
 # Каналов: 1
-# Обновлено: 2026-09-29 23:53:32
+# Обновлено: 2026-09-30 04:12:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Jilin Rural Channel" group-title="Education;Lifestyle;Science",Jilin Rural Channel
@@ -897,3 +897,5 @@ http://185.9.2.18/chid_352/index.m3u8
 http://str2.iptvhd.ru:8080/kto_est_kto/index.m3u8
 #EXTINF:-1 tvg-name="Bem Mais TV" group-title="Culture;Education",Bem Mais TV
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Lifestyle Poland" group-title="Lifestyle",BBC Lifestyle Poland
+http://57.128.231.171:8080/305/index.m3u8

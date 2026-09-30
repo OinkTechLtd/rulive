@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-29 23:53:31
-# Всего каналов: 24164
-# Новых за сессию: 0
+# Обновлено: 2026-09-30 04:12:50
+# Всего каналов: 24194
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Family;General
 # Каналов: 3
-# Обновлено: 2026-09-29 23:53:32
+# Обновлено: 2026-09-30 04:12:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="1KZN TV (576p)" group-title="Entertainment;Family;General",1KZN TV (576p)
@@ -6553,6 +6553,8 @@ https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/playlist.m3u8
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8
 #EXTINF:-1 tvg-name="Kluch (576p)" group-title="Entertainment",Kluch (576p)
 http://hls127.freeott.top:8080/Kluch/video.m3u8
+#EXTINF:-1 tvg-name="E! (United States) East" group-title="Entertainment",E! (United States) East
+http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1 tvg-name="Fox (540p)" group-title="General",Fox (540p)
 http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1 tvg-name="FX (United States)" group-title="Entertainment",FX (United States)
@@ -8489,3 +8491,11 @@ http://45.167.2.101:8000/play/a0r5/index.m3u8
 http://190.61.47.54:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-name="Trece (Colombia)" group-title="General",Trece (Colombia)
 http://190.60.46.228:8888/play/a030/index.m3u8
+#EXTINF:-1 tvg-name="BBC Brit" group-title="Entertainment",BBC Brit
+http://57.128.231.171:8080/309/index.m3u8
+#EXTINF:-1 tvg-name="BBC Two Wales" group-title="General",BBC Two Wales
+https://cdn.stmify.com/bbc/stream/BBC_TWO_WALES/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-name="Radio Romania Oltenia-Craiova (576p)" group-title="General;Music",Radio Romania Oltenia-Craiova (576p)
+https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
+#EXTINF:-1 tvg-name="Radio Romania Targu Mures (576p)" group-title="General;Music",Radio Romania Targu Mures (576p)
+https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8

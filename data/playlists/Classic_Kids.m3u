@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-29 23:53:31
-# Всего каналов: 24164
-# Новых за сессию: 0
+# Обновлено: 2026-09-30 04:12:50
+# Всего каналов: 24194
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;Kids
 # Каналов: 2
-# Обновлено: 2026-09-29 23:53:32
+# Обновлено: 2026-09-30 04:12:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="PBS Retro [Geo-blocked]" group-title="Classic;Kids",PBS Retro [Geo-blocked]
@@ -1372,3 +1372,5 @@ https://cdn.stmify.com/bbc/stream/CBEEBIES/hevc_iptv_mse_v0.mpd
 http://168.228.44.241:9999/play/a04j/index.m3u8
 #EXTINF:-1 tvg-name="TeleNostalgia" group-title="Classic",TeleNostalgia
 http://38.134.250.110:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-name="Disney Channel (Netherlands) (1080i)" group-title="Kids",Disney Channel (Netherlands) (1080i)
+https://masterofiptv.s.gy/iptv2/disney_channel_nl_uhd.m3u8

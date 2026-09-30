@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-29 23:53:31
-# Всего каналов: 24164
-# Новых за сессию: 0
+# Обновлено: 2026-09-30 04:12:50
+# Всего каналов: 24194
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Entertainment;News
 # Каналов: 2
-# Обновлено: 2026-09-29 23:53:32
+# Обновлено: 2026-09-30 04:12:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Unifranz" group-title="Education;Entertainment;News",Unifranz
@@ -4134,6 +4134,8 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
 https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
 #EXTINF:-1 tvg-name="Kluch (576p)" group-title="Entertainment",Kluch (576p)
 http://hls127.freeott.top:8080/Kluch/video.m3u8
+#EXTINF:-1 tvg-name="E! (United States) East" group-title="Entertainment",E! (United States) East
+http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1 tvg-name="FX (United States)" group-title="Entertainment",FX (United States)
 http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1 tvg-name="Canal+" group-title="Entertainment",Canal+
@@ -5268,3 +5270,5 @@ http://31.131.141.195:8000/play/a006/index.m3u8
 http://38.252.238.18:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-name="Canal N" group-title="News",Canal N
 http://187.102.208.209:8000/play/a0az/index.m3u8
+#EXTINF:-1 tvg-name="BBC Brit" group-title="Entertainment",BBC Brit
+http://57.128.231.171:8080/309/index.m3u8

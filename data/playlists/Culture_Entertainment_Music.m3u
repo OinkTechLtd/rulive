@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-29 23:53:31
-# Всего каналов: 24164
-# Новых за сессию: 0
+# Обновлено: 2026-09-30 04:12:50
+# Всего каналов: 24194
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Entertainment;Music
 # Каналов: 1
-# Обновлено: 2026-09-29 23:53:32
+# Обновлено: 2026-09-30 04:12:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="MBC America" group-title="Culture;Entertainment;Music",MBC America
@@ -3367,6 +3367,8 @@ https://jmp2.uk/plu-691b3669c48674840c3b832a.m3u8
 https://jmp2.uk/plu-698a45156dc3c71eb1ba6599.m3u8
 #EXTINF:-1 tvg-name="Kluch (576p)" group-title="Entertainment",Kluch (576p)
 http://hls127.freeott.top:8080/Kluch/video.m3u8
+#EXTINF:-1 tvg-name="E! (United States) East" group-title="Entertainment",E! (United States) East
+http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1 tvg-name="FX (United States)" group-title="Entertainment",FX (United States)
 http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1 tvg-name="MTV Live" group-title="Music",MTV Live
@@ -4417,3 +4419,13 @@ http://190.61.114.186:8000/play/a03i/index.m3u8
 http://38.252.238.18:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-name="Picosa TV" group-title="Music",Picosa TV
 http://45.167.2.101:8000/play/a0sd/index.m3u8
+#EXTINF:-1 tvg-name="BBC Brit" group-title="Entertainment",BBC Brit
+http://57.128.231.171:8080/309/index.m3u8
+#EXTINF:-1 tvg-name="Music Box 80s" group-title="Music",Music Box 80s
+http://57.128.231.171:8080/229/index.m3u8
+#EXTINF:-1 tvg-name="Kino Polska Muzyka" group-title="Music",Kino Polska Muzyka
+http://57.128.231.171:8080/237/index.m3u8
+#EXTINF:-1 tvg-name="Radio Romania Oltenia-Craiova (576p)" group-title="General;Music",Radio Romania Oltenia-Craiova (576p)
+https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
+#EXTINF:-1 tvg-name="Radio Romania Targu Mures (576p)" group-title="General;Music",Radio Romania Targu Mures (576p)
+https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8

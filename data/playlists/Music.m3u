@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-29 23:53:31
-# Всего каналов: 24164
-# Новых за сессию: 0
+# Обновлено: 2026-09-30 04:12:50
+# Всего каналов: 24194
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music
-# Каналов: 959
-# Обновлено: 2026-09-29 23:53:31
+# Каналов: 961
+# Обновлено: 2026-09-30 04:12:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Deluxe Music" group-title="Music",Deluxe Music
@@ -2797,6 +2797,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/lon1-y7p7cyzc7vdh.lolo
 #EXTINF:-1 tvg-name="Picosa TV" group-title="Music",Picosa TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.167.2.101:8000/play/a0sd/index.m3u8
 
+#EXTINF:-1 tvg-name="Music Box 80s" group-title="Music",Music Box 80s
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/57.128.231.171:8080/229/index.m3u8
+
+#EXTINF:-1 tvg-name="Kino Polska Muzyka" group-title="Music",Kino Polska Muzyka
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/57.128.231.171:8080/237/index.m3u8
+
 #EXTINF:-1 tvg-name="City TV (Bulgaria) (576p)" group-title="Music",City TV (Bulgaria) (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.city.bg/play/tshls/citytv/index.m3u8
 
@@ -3033,3 +3039,7 @@ http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cHM6Ly9obHMtY2RuMS5keXZ
 https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8
 #EXTINF:-1 tvg-name="New Channel (480p)" group-title="Kids;Music",New Channel (480p)
 https://vodcdn.bamboo-cloud.com/livehls/6ab2104508fd5ee36702e3d4/master.m3u8
+#EXTINF:-1 tvg-name="Radio Romania Oltenia-Craiova (576p)" group-title="General;Music",Radio Romania Oltenia-Craiova (576p)
+https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
+#EXTINF:-1 tvg-name="Radio Romania Targu Mures (576p)" group-title="General;Music",Radio Romania Targu Mures (576p)
+https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8

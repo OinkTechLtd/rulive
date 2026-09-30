@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-09-29 23:53:31
-# Всего каналов: 24164
-# Новых за сессию: 0
+# Обновлено: 2026-09-30 04:12:50
+# Всего каналов: 24194
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Music;Religious
 # Каналов: 1
-# Обновлено: 2026-09-29 23:53:32
+# Обновлено: 2026-09-30 04:12:51
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Ishtar TV SD" group-title="Culture;Music;Religious",Ishtar TV SD
@@ -3939,3 +3939,11 @@ http://38.252.238.18:8000/play/a01k/index.m3u8
 http://45.167.2.101:8000/play/a0r7/index.m3u8
 #EXTINF:-1 tvg-name="Picosa TV" group-title="Music",Picosa TV
 http://45.167.2.101:8000/play/a0sd/index.m3u8
+#EXTINF:-1 tvg-name="Music Box 80s" group-title="Music",Music Box 80s
+http://57.128.231.171:8080/229/index.m3u8
+#EXTINF:-1 tvg-name="Kino Polska Muzyka" group-title="Music",Kino Polska Muzyka
+http://57.128.231.171:8080/237/index.m3u8
+#EXTINF:-1 tvg-name="Radio Romania Oltenia-Craiova (576p)" group-title="General;Music",Radio Romania Oltenia-Craiova (576p)
+https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
+#EXTINF:-1 tvg-name="Radio Romania Targu Mures (576p)" group-title="General;Music",Radio Romania Targu Mures (576p)
+https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
