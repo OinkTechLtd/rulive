@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-01 00:21:39
-# Всего каналов: 24195
-# Новых за сессию: 0
+# Обновлено: 2026-10-01 00:42:15
+# Всего каналов: 24337
+# Новых за сессию: 142
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Lifestyle
 # Каналов: 1
-# Обновлено: 2026-10-01 00:21:40
+# Обновлено: 2026-10-01 00:42:16
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Salira TV" group-title="Culture;Lifestyle",Salira TV
@@ -755,6 +755,8 @@ https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8
 https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT Genc (1440p) [Geo-blocked]" group-title="Culture;General",TRT Genc (1440p) [Geo-blocked]
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="FashionTV (Russia)" group-title="Lifestyle",FashionTV (Russia)
+http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
 #EXTINF:-1 tvg-name="ETV Life" group-title="Lifestyle",ETV Life
 https://mumbai-edge.smartplaytv.in/ETVLIFE/index.m3u8
 #EXTINF:-1 tvg-name="Jaya Plus (576p)" group-title="Culture;Entertainment",Jaya Plus (576p)
@@ -765,3 +767,9 @@ https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
 https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-name="BBC Lifestyle Poland" group-title="Lifestyle",BBC Lifestyle Poland
 http://57.128.231.171:8080/305/index.m3u8
+#EXTINF:-1 tvg-name="Fashion India" group-title="Lifestyle",Fashion India
+http://51.75.127.199:3141/fashionindia/index.m3u8
+#EXTINF:-1 tvg-name="FashionTV (India)" group-title="Lifestyle",FashionTV (India)
+http://51.75.127.199:3141/ftvhd/index.m3u8
+#EXTINF:-1 tvg-name="Shiksha TV (576p)" group-title="Culture;Education",Shiksha TV (576p)
+http://51.75.127.199:3141/shikshatv/index.m3u8

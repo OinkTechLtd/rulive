@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-01 00:21:39
-# Всего каналов: 24195
-# Новых за сессию: 0
+# Обновлено: 2026-10-01 00:42:15
+# Всего каналов: 24337
+# Новых за сессию: 142
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Family
 # Каналов: 1
-# Обновлено: 2026-10-01 00:21:40
+# Обновлено: 2026-10-01 00:42:16
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Superscreen TV (412p)" group-title="Culture;Family",Superscreen TV (412p)
@@ -599,3 +599,5 @@ https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC Four" group-title="Culture;Documentary",BBC Four
 https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-name="Shiksha TV (576p)" group-title="Culture;Education",Shiksha TV (576p)
+http://51.75.127.199:3141/shikshatv/index.m3u8

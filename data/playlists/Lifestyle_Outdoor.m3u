@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-01 00:21:39
-# Всего каналов: 24195
-# Новых за сессию: 0
+# Обновлено: 2026-10-01 00:42:15
+# Всего каналов: 24337
+# Новых за сессию: 142
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Lifestyle;Outdoor
 # Каналов: 1
-# Обновлено: 2026-10-01 00:21:40
+# Обновлено: 2026-10-01 00:42:16
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Cottage Life" group-title="Lifestyle;Outdoor",Cottage Life
@@ -483,6 +483,8 @@ http://103.190.232.129/stream/tvb/style/master.m3u8?p=967e33767f592e1aaf3d4019f3
 https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
 #EXTINF:-1 tvg-name="Aspire TV Life" group-title="Lifestyle",Aspire TV Life
 https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="FashionTV (Russia)" group-title="Lifestyle",FashionTV (Russia)
+http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
 #EXTINF:-1 tvg-name="Agricultura TV" group-title="Outdoor",Agricultura TV
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Rybalka i okhota (576p)" group-title="Outdoor",Rybalka i okhota (576p)
@@ -493,3 +495,7 @@ https://mumbai-edge.smartplaytv.in/ETVLIFE/index.m3u8
 http://168.228.44.241:9999/play/a04n/index.m3u8
 #EXTINF:-1 tvg-name="BBC Lifestyle Poland" group-title="Lifestyle",BBC Lifestyle Poland
 http://57.128.231.171:8080/305/index.m3u8
+#EXTINF:-1 tvg-name="Fashion India" group-title="Lifestyle",Fashion India
+http://51.75.127.199:3141/fashionindia/index.m3u8
+#EXTINF:-1 tvg-name="FashionTV (India)" group-title="Lifestyle",FashionTV (India)
+http://51.75.127.199:3141/ftvhd/index.m3u8

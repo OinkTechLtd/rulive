@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-01 00:21:39
-# Всего каналов: 24195
-# Новых за сессию: 0
+# Обновлено: 2026-10-01 00:42:15
+# Всего каналов: 24337
+# Новых за сессию: 142
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;News;Religious
 # Каналов: 1
-# Обновлено: 2026-10-01 00:21:40
+# Обновлено: 2026-10-01 00:42:16
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Lingkar TV" group-title="Music;News;Religious",Lingkar TV
@@ -351,7 +351,7 @@ https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-
 https://aegis-cloudfront-1.tubi.video/bc9ff1c7-4dc1-4e36-9ef0-25b28c595ada/playlist.m3u8
 #EXTINF:-1 tvg-name="WPLG 10.1" group-title="News",WPLG 10.1
 https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8
-#EXTINF:-1 tvg-name="ABC News" group-title="News",ABC News
+#EXTINF:-1 tvg-name="ABC News (Australia)" group-title="News",ABC News (Australia)
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 tvg-name="ABC News Live [Geo-blocked]" group-title="News",ABC News Live [Geo-blocked]
 https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8
@@ -6069,3 +6069,85 @@ http://57.128.231.171:8080/237/index.m3u8
 https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
 #EXTINF:-1 tvg-name="Radio Romania Targu Mures (576p)" group-title="General;Music",Radio Romania Targu Mures (576p)
 https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
+#EXTINF:-1 tvg-name="7X Music (576p)" group-title="Music",7X Music (576p)
+http://51.75.127.199:3141/7xmusic/index.m3u8
+#EXTINF:-1 tvg-name="24Hrs TV (576p)" group-title="News",24Hrs TV (576p)
+http://51.75.127.199:3141/24hrstv/index.m3u8
+#EXTINF:-1 tvg-name="ABC News (India) (576p)" group-title="News",ABC News (India) (576p)
+http://51.75.127.199:3141/abcnews/index.m3u8
+#EXTINF:-1 tvg-name="Anaadi TV (576p)" group-title="News",Anaadi TV (576p)
+http://51.75.127.199:3141/anaaditv/index.m3u8
+#EXTINF:-1 tvg-name="ANN News (576p)" group-title="News",ANN News (576p)
+http://51.75.127.199:3141/annnews/index.m3u8
+#EXTINF:-1 tvg-name="B4U Music" group-title="Music",B4U Music
+https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC News Hindi" group-title="News",BBC News Hindi
+http://51.75.127.199:3141/bbcnewshindi/index.m3u8
+#EXTINF:-1 tvg-name="Bharat News TV (576p)" group-title="News",Bharat News TV (576p)
+http://51.75.127.199:3141/bharatnewstv/index.m3u8
+#EXTINF:-1 tvg-name="Bharat Update (576p)" group-title="News",Bharat Update (576p)
+https://cdn.pishow.tv/ott/live/339/master.m3u8
+#EXTINF:-1 tvg-name="BS9 News (576p)" group-title="News",BS9 News (576p)
+http://51.75.127.199:3141/bs9news/index.m3u8
+#EXTINF:-1 tvg-name="Buletin India (576p)" group-title="News",Buletin India (576p)
+http://51.75.127.199:3141/buletinindia/index.m3u8
+#EXTINF:-1 tvg-name="BVTV (576p)" group-title="Religious",BVTV (576p)
+http://51.75.127.199:3141/bvtv/index.m3u8
+#EXTINF:-1 tvg-name="DNN (576p)" group-title="News",DNN (576p)
+http://51.75.127.199:3141/dnn/index.m3u8
+#EXTINF:-1 tvg-name="FM News (576p)" group-title="News",FM News (576p)
+http://51.75.127.199:3141/fmnews/index.m3u8
+#EXTINF:-1 tvg-name="Hosanna TV (576p)" group-title="Religious",Hosanna TV (576p)
+http://51.75.127.199:3141/hosannatv/index.m3u8
+#EXTINF:-1 tvg-name="IN 24 News (576p)" group-title="News",IN 24 News (576p)
+http://51.75.127.199:3141/in24news/index.m3u8
+#EXTINF:-1 tvg-name="India 24x7 (576p)" group-title="News",India 24x7 (576p)
+http://51.75.127.199:3141/india24x7/index.m3u8
+#EXTINF:-1 tvg-name="Kalaignar Seithigal (576p)" group-title="News",Kalaignar Seithigal (576p)
+http://51.75.127.199:3141/kalaignarseithigal/index.m3u8
+#EXTINF:-1 tvg-name="Kannur One (576p)" group-title="News",Kannur One (576p)
+http://51.75.127.199:3141/kannurone/index.m3u8
+#EXTINF:-1 tvg-name="KKD News (576p)" group-title="News",KKD News (576p)
+http://51.75.127.199:3141/kkdnews/index.m3u8
+#EXTINF:-1 tvg-name="Live Samachar Bharat (576p)" group-title="News",Live Samachar Bharat (576p)
+http://51.75.127.199:3141/livesamacharbharat/index.m3u8
+#EXTINF:-1 tvg-name="News 21 (576p)" group-title="News",News 21 (576p)
+http://51.75.127.199:3141/news21/index.m3u8
+#EXTINF:-1 tvg-name="News Flash (576p)" group-title="News",News Flash (576p)
+http://51.75.127.199:3141/newsflash/index.m3u8
+#EXTINF:-1 tvg-name="News J (576p)" group-title="News",News J (576p)
+http://51.75.127.199:3141/newsj/index.m3u8
+#EXTINF:-1 tvg-name="News Only (576p)" group-title="News",News Only (576p)
+http://51.75.127.199:3141/newsonly/index.m3u8
+#EXTINF:-1 tvg-name="Raftaar Samay (576p)" group-title="News",Raftaar Samay (576p)
+http://51.75.127.199:3141/raftaarsamay/index.m3u8
+#EXTINF:-1 tvg-name="Real News Kerala (576p)" group-title="News",Real News Kerala (576p)
+http://51.75.127.199:3141/realnewskerala/index.m3u8
+#EXTINF:-1 tvg-name="RS Bharat (576p)" group-title="Music",RS Bharat (576p)
+http://51.75.127.199:3141/rsbharat/index.m3u8
+#EXTINF:-1 tvg-name="Sadvidya TV (576p)" group-title="Religious",Sadvidya TV (576p)
+http://51.75.127.199:3141/sadvidyatv/index.m3u8
+#EXTINF:-1 tvg-name="Samachar Nation (576p)" group-title="News",Samachar Nation (576p)
+http://51.75.127.199:3141/samacharnation/index.m3u8
+#EXTINF:-1 tvg-name="Sidharth Utsav (576p)" group-title="Religious",Sidharth Utsav (576p)
+http://51.75.127.199:3141/sidharthbhakti/index.m3u8
+#EXTINF:-1 tvg-name="Star Maa Music (576p)" group-title="Music",Star Maa Music (576p)
+http://51.75.127.199:3141/starmaamusic/index.m3u8
+#EXTINF:-1 tvg-name="Surya Samachar (576p)" group-title="News",Surya Samachar (576p)
+http://51.75.127.199:3141/suryasamachar/index.m3u8
+#EXTINF:-1 tvg-name="Tulja Bhavani (576p)" group-title="Religious",Tulja Bhavani (576p)
+http://51.75.127.199:3141/tuljabhavani/index.m3u8
+#EXTINF:-1 tvg-name="TV 24 (576p)" group-title="News",TV 24 (576p)
+http://51.75.127.199:3141/tv24/index.m3u8
+#EXTINF:-1 tvg-name="TV27 News (576p)" group-title="News",TV27 News (576p)
+http://51.75.127.199:3141/tv27news/index.m3u8
+#EXTINF:-1 tvg-name="Valam TV Dayro (576p)" group-title="Religious",Valam TV Dayro (576p)
+https://mumt03.tangotv.in/Dsly5z3HVALAMDAIRO/index.m3u8
+#EXTINF:-1 tvg-name="VNM TV (576p)" group-title="News",VNM TV (576p)
+http://51.75.127.199:3141/vnmtv/index.m3u8
+#EXTINF:-1 tvg-name="Wah Punjabi (576p)" group-title="Music",Wah Punjabi (576p)
+http://51.75.127.199:3141/wahpunjabi/index.m3u8
+#EXTINF:-1 tvg-name="Canal Telesantiago" group-title="Religious",Canal Telesantiago
+https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8
+#EXTINF:-1 tvg-name="Express News (576p)" group-title="News",Express News (576p)
+http://51.75.127.199:3141/expressnews/index.m3u8

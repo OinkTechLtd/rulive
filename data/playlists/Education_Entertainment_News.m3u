@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-01 00:21:39
-# Всего каналов: 24195
-# Новых за сессию: 0
+# Обновлено: 2026-10-01 00:42:15
+# Всего каналов: 24337
+# Новых за сессию: 142
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Entertainment;News
 # Каналов: 2
-# Обновлено: 2026-10-01 00:21:40
+# Обновлено: 2026-10-01 00:42:16
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Unifranz" group-title="Education;Entertainment;News",Unifranz
@@ -312,7 +312,7 @@ https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-
 https://aegis-cloudfront-1.tubi.video/bc9ff1c7-4dc1-4e36-9ef0-25b28c595ada/playlist.m3u8
 #EXTINF:-1 tvg-name="WPLG 10.1" group-title="News",WPLG 10.1
 https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8
-#EXTINF:-1 tvg-name="ABC News" group-title="News",ABC News
+#EXTINF:-1 tvg-name="ABC News (Australia)" group-title="News",ABC News (Australia)
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 tvg-name="ABC News Live [Geo-blocked]" group-title="News",ABC News Live [Geo-blocked]
 https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8
@@ -2154,8 +2154,6 @@ https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 #EXTINF:-1 tvg-name="Milenio Televisión" group-title="News",Milenio Televisión
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:-1 tvg-name="Once México" group-title="Education",Once México
-https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
 #EXTINF:-1 tvg-name="PSN (288p)" group-title="Entertainment;News",PSN (288p)
 https://srspsn.live/live/livestream.m3u8
 #EXTINF:-1 tvg-name="PSN Canal 45.2 (288p)" group-title="News",PSN Canal 45.2 (288p)
@@ -4188,7 +4186,7 @@ http://31.148.48.15/RT_HD/index.m3u8
 https://live.cineramatvbo.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Pasiones Latin America" group-title="Entertainment",Pasiones Latin America
 http://179.60.51.134:8888/PASIONES/index.m3u8
-#EXTINF:-1 tvg-name="Da Vinci (576p)" group-title="Education",Da Vinci (576p)
+#EXTINF:-1 tvg-name="Da Vinci (Russia) (576p)" group-title="Education",Da Vinci (Russia) (576p)
 http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
 #EXTINF:-1 tvg-name="GloboNews" group-title="News",GloboNews
 http://41.205.70.146/GLOBONEWS/index.m3u8
@@ -4718,7 +4716,7 @@ https://googlecdn1.alkassdigital.net/livestream/qbc4/main.m3u8
 https://mumt07.tangotv.in/zHjX9OFlSIRIKANNADAALLTIME/index.m3u8
 #EXTINF:-1 tvg-name="Sony SAB (1080i)" group-title="Entertainment",Sony SAB (1080i)
 http://202.70.146.135:8000/play/a025/index.m3u8
-#EXTINF:-1 tvg-name="StarPlus (1080i)" group-title="Entertainment",StarPlus (1080i)
+#EXTINF:-1 tvg-name="StarPlus (India) (1080i)" group-title="Entertainment",StarPlus (India) (1080i)
 http://202.70.146.135:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-name="M Entertainment Channel" group-title="Entertainment",M Entertainment Channel
 https://mmtvs.exliatycl.online/mchannel/stream.m3u8
@@ -5272,3 +5270,97 @@ http://38.252.238.18:8000/play/a01g/index.m3u8
 http://187.102.208.209:8000/play/a0az/index.m3u8
 #EXTINF:-1 tvg-name="BBC Brit" group-title="Entertainment",BBC Brit
 http://57.128.231.171:8080/309/index.m3u8
+#EXTINF:-1 tvg-name="24Hrs TV (576p)" group-title="News",24Hrs TV (576p)
+http://51.75.127.199:3141/24hrstv/index.m3u8
+#EXTINF:-1 tvg-name="ABC News (India) (576p)" group-title="News",ABC News (India) (576p)
+http://51.75.127.199:3141/abcnews/index.m3u8
+#EXTINF:-1 tvg-name="Anaadi TV (576p)" group-title="News",Anaadi TV (576p)
+http://51.75.127.199:3141/anaaditv/index.m3u8
+#EXTINF:-1 tvg-name="ANN News (576p)" group-title="News",ANN News (576p)
+http://51.75.127.199:3141/annnews/index.m3u8
+#EXTINF:-1 tvg-name="BBC News Hindi" group-title="News",BBC News Hindi
+http://51.75.127.199:3141/bbcnewshindi/index.m3u8
+#EXTINF:-1 tvg-name="Bharat News TV (576p)" group-title="News",Bharat News TV (576p)
+http://51.75.127.199:3141/bharatnewstv/index.m3u8
+#EXTINF:-1 tvg-name="Bharat Update (576p)" group-title="News",Bharat Update (576p)
+https://cdn.pishow.tv/ott/live/339/master.m3u8
+#EXTINF:-1 tvg-name="BS9 News (576p)" group-title="News",BS9 News (576p)
+http://51.75.127.199:3141/bs9news/index.m3u8
+#EXTINF:-1 tvg-name="Buletin India (576p)" group-title="News",Buletin India (576p)
+http://51.75.127.199:3141/buletinindia/index.m3u8
+#EXTINF:-1 tvg-name="Colors Infinity (576p)" group-title="Entertainment",Colors Infinity (576p)
+http://51.75.127.199:3141/colorsinfinitysd/index.m3u8
+#EXTINF:-1 tvg-name="Colors Tamil (576p)" group-title="Entertainment",Colors Tamil (576p)
+http://51.75.127.199:3141/colorstamil/index.m3u8
+#EXTINF:-1 tvg-name="DNN (576p)" group-title="News",DNN (576p)
+http://51.75.127.199:3141/dnn/index.m3u8
+#EXTINF:-1 tvg-name="FM News (576p)" group-title="News",FM News (576p)
+http://51.75.127.199:3141/fmnews/index.m3u8
+#EXTINF:-1 tvg-name="IN 24 News (576p)" group-title="News",IN 24 News (576p)
+http://51.75.127.199:3141/in24news/index.m3u8
+#EXTINF:-1 tvg-name="India 24x7 (576p)" group-title="News",India 24x7 (576p)
+http://51.75.127.199:3141/india24x7/index.m3u8
+#EXTINF:-1 tvg-name="Kalaignar Seithigal (576p)" group-title="News",Kalaignar Seithigal (576p)
+http://51.75.127.199:3141/kalaignarseithigal/index.m3u8
+#EXTINF:-1 tvg-name="Kannur One (576p)" group-title="News",Kannur One (576p)
+http://51.75.127.199:3141/kannurone/index.m3u8
+#EXTINF:-1 tvg-name="Kite Victers (576p)" group-title="Education",Kite Victers (576p)
+http://51.75.127.199:3141/kitevicters/index.m3u8
+#EXTINF:-1 tvg-name="KKD News (576p)" group-title="News",KKD News (576p)
+http://51.75.127.199:3141/kkdnews/index.m3u8
+#EXTINF:-1 tvg-name="Live Samachar Bharat (576p)" group-title="News",Live Samachar Bharat (576p)
+http://51.75.127.199:3141/livesamacharbharat/index.m3u8
+#EXTINF:-1 tvg-name="MTV (India)" group-title="Entertainment",MTV (India)
+http://51.75.127.199:3141/mtvhd/index.m3u8
+#EXTINF:-1 tvg-name="Nakshatra Digital TV (576p)" group-title="Entertainment",Nakshatra Digital TV (576p)
+http://51.75.127.199:3141/nakshatradigitaltv/index.m3u8
+#EXTINF:-1 tvg-name="News 21 (576p)" group-title="News",News 21 (576p)
+http://51.75.127.199:3141/news21/index.m3u8
+#EXTINF:-1 tvg-name="News Flash (576p)" group-title="News",News Flash (576p)
+http://51.75.127.199:3141/newsflash/index.m3u8
+#EXTINF:-1 tvg-name="News J (576p)" group-title="News",News J (576p)
+http://51.75.127.199:3141/newsj/index.m3u8
+#EXTINF:-1 tvg-name="News Only (576p)" group-title="News",News Only (576p)
+http://51.75.127.199:3141/newsonly/index.m3u8
+#EXTINF:-1 tvg-name="Raftaar Samay (576p)" group-title="News",Raftaar Samay (576p)
+http://51.75.127.199:3141/raftaarsamay/index.m3u8
+#EXTINF:-1 tvg-name="Real News Kerala (576p)" group-title="News",Real News Kerala (576p)
+http://51.75.127.199:3141/realnewskerala/index.m3u8
+#EXTINF:-1 tvg-name="Samachar Nation (576p)" group-title="News",Samachar Nation (576p)
+http://51.75.127.199:3141/samacharnation/index.m3u8
+#EXTINF:-1 tvg-name="Shiksha TV (576p)" group-title="Culture;Education",Shiksha TV (576p)
+http://51.75.127.199:3141/shikshatv/index.m3u8
+#EXTINF:-1 tvg-name="Sidharth TV (576p)" group-title="Entertainment",Sidharth TV (576p)
+http://51.75.127.199:3141/sidharthtv/index.m3u8
+#EXTINF:-1 tvg-name="Star Jalsha (576p)" group-title="Entertainment",Star Jalsha (576p)
+http://51.75.127.199:3141/starjalsha/index.m3u8
+#EXTINF:-1 tvg-name="Star Maa (576p)" group-title="Entertainment",Star Maa (576p)
+http://51.75.127.199:3141/starmaa/index.m3u8
+#EXTINF:-1 tvg-name="Star Pravah (576p)" group-title="Entertainment",Star Pravah (576p)
+http://51.75.127.199:3141/starpravah/index.m3u8
+#EXTINF:-1 tvg-name="Star Suvarna (576p)" group-title="Entertainment",Star Suvarna (576p)
+http://51.75.127.199:3141/starsuvarna/index.m3u8
+#EXTINF:-1 tvg-name="Star Vijay (576p)" group-title="Entertainment",Star Vijay (576p)
+http://51.75.127.199:3141/starvijay/index.m3u8
+#EXTINF:-1 tvg-name="StarPlus (India) (576p)" group-title="Entertainment",StarPlus (India) (576p)
+http://51.75.127.199:3141/starplus/index.m3u8
+#EXTINF:-1 tvg-name="Surya Samachar (576p)" group-title="News",Surya Samachar (576p)
+http://51.75.127.199:3141/suryasamachar/index.m3u8
+#EXTINF:-1 tvg-name="TV 24 (576p)" group-title="News",TV 24 (576p)
+http://51.75.127.199:3141/tv24/index.m3u8
+#EXTINF:-1 tvg-name="TV27 News (576p)" group-title="News",TV27 News (576p)
+http://51.75.127.199:3141/tv27news/index.m3u8
+#EXTINF:-1 tvg-name="VNM TV (576p)" group-title="News",VNM TV (576p)
+http://51.75.127.199:3141/vnmtv/index.m3u8
+#EXTINF:-1 tvg-name="Zee Keralam" group-title="Entertainment",Zee Keralam
+http://51.75.127.199:3141/zeekeralamhd/index.m3u8
+#EXTINF:-1 tvg-name="Zee Power" group-title="Entertainment",Zee Power
+http://51.75.127.199:3141/zeepowerhd/index.m3u8
+#EXTINF:-1 tvg-name="Zee Punjabi (576p)" group-title="Entertainment",Zee Punjabi (576p)
+http://51.75.127.199:3141/zeepunjabi/index.m3u8
+#EXTINF:-1 tvg-name="Zee TV (576p)" group-title="Entertainment",Zee TV (576p)
+http://51.75.127.199:3141/zeetv/index.m3u8
+#EXTINF:-1 tvg-name="LAMIL35 TV (480p)" group-title="Animation;Classic;Entertainment",LAMIL35 TV (480p)
+https://streamingvideo.com.ar/hls/eea3c96df781e0a3.m3u8
+#EXTINF:-1 tvg-name="Express News (576p)" group-title="News",Express News (576p)
+http://51.75.127.199:3141/expressnews/index.m3u8

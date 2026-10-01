@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-01 00:21:39
-# Всего каналов: 24195
-# Новых за сессию: 0
+# Обновлено: 2026-10-01 00:42:15
+# Всего каналов: 24337
+# Новых за сессию: 142
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Documentary
-# Каналов: 245
-# Обновлено: 2026-10-01 00:21:40
+# Каналов: 249
+# Обновлено: 2026-10-01 00:42:16
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RT Documentary Russian" group-title="Documentary",RT Documentary Russian
@@ -732,6 +732,18 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/amg01448-amg01448c16-s
 
 #EXTINF:-1 tvg-name="BBC Earth" group-title="Documentary",BBC Earth
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/57.128.231.171:8080/307/index.m3u8
+
+#EXTINF:-1 tvg-name="History TV18 (576p)" group-title="Documentary",History TV18 (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/51.75.127.199:3141/historytv18/index.m3u8
+
+#EXTINF:-1 tvg-name="National Geographic (India) (576p)" group-title="Documentary",National Geographic (India) (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/51.75.127.199:3141/natgeo/index.m3u8
+
+#EXTINF:-1 tvg-name="National Geographic (India)" group-title="Documentary",National Geographic (India)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/51.75.127.199:3141/natgeohd/index.m3u8
+
+#EXTINF:-1 tvg-name="National Geographic Wild (India) (576p)" group-title="Documentary",National Geographic Wild (India) (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/51.75.127.199:3141/natgeowild/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT Belgesel" group-title="Documentary",TRT Belgesel
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv-trtbelgesel.medya.trt.com.tr/master.m3u8

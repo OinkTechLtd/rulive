@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-01 00:21:39
-# Всего каналов: 24195
-# Новых за сессию: 0
+# Обновлено: 2026-10-01 00:42:15
+# Всего каналов: 24337
+# Новых за сессию: 142
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General
-# Каналов: 3328
-# Обновлено: 2026-10-01 00:21:40
+# Каналов: 3336
+# Обновлено: 2026-10-01 00:42:16
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="БелРос (576p)" group-title="General",БелРос (576p)
@@ -9657,6 +9657,30 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.stmify.com/bbc/str
 
 #EXTINF:-1 tvg-name="Zona Sur TV" group-title="General",Zona Sur TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/170.79.235.133:8002/play/a063/index.m3u8
+
+#EXTINF:-1 tvg-name="Gorodskoy telekanal" group-title="General",Gorodskoy telekanal
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/gtk.tv/hls/gtyar.m3u8
+
+#EXTINF:-1 tvg-name="Fox (United States) WSVN" group-title="General",Fox (United States) WSVN
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/190.197.41.183/Fox/index.m3u8
+
+#EXTINF:-1 tvg-name="NBC WTLV" group-title="General",NBC WTLV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/190.197.41.183/NBC/index.m3u8
+
+#EXTINF:-1 tvg-name="DD Tamil" group-title="General",DD Tamil
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.pishow.tv/ott/live/1737/master.m3u8
+
+#EXTINF:-1 tvg-name="Kalaignar TV (576p)" group-title="General",Kalaignar TV (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/51.75.127.199:3141/kalaignartv/index.m3u8
+
+#EXTINF:-1 tvg-name="Telefe" group-title="General",Telefe
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.173.231.22:8000/play/a053/index.m3u8
+
+#EXTINF:-1 tvg-name="CNC Medellin" group-title="General",CNC Medellin
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/138.94.3.106:8000/play/a02o/index.m3u8
+
+#EXTINF:-1 tvg-name="Nuestra Tele Internacional" group-title="General",Nuestra Tele Internacional
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.173.231.22:8000/play/a0cr/index.m3u8
 
 #EXTINF:-1 tvg-name="Belarus-1" group-title="General",Belarus-1
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8

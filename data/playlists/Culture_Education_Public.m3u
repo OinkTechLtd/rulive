@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-01 00:21:39
-# Всего каналов: 24195
-# Новых за сессию: 0
+# Обновлено: 2026-10-01 00:42:15
+# Всего каналов: 24337
+# Новых за сессию: 142
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Education;Public
 # Каналов: 2
-# Обновлено: 2026-10-01 00:21:40
+# Обновлено: 2026-10-01 00:42:16
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="TV UFOP" group-title="Culture;Education;Public",TV UFOP
@@ -528,8 +528,6 @@ https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
 https://pistream.ddns.net/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Jalisco TV" group-title="Culture;Education",Jalisco TV
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
-#EXTINF:-1 tvg-name="Once México" group-title="Education",Once México
-https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
 #EXTINF:-1 tvg-name="Presumiendo Mexico" group-title="Culture",Presumiendo Mexico
 https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="XHUNES-TDT" group-title="Education",XHUNES-TDT
@@ -902,7 +900,7 @@ https://snrtworker.kharazbelaid.workers.dev/?id=arrabia.m3u8
 https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8
 #EXTINF:-1 tvg-name="Russia-K" group-title="Culture",Russia-K
 https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
-#EXTINF:-1 tvg-name="Da Vinci (576p)" group-title="Education",Da Vinci (576p)
+#EXTINF:-1 tvg-name="Da Vinci (Russia) (576p)" group-title="Education",Da Vinci (Russia) (576p)
 http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Culture;News",Ost West (576p)" group-title="Culture;News",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Culture;News",Ost West (576p)
 http://hls127.freeott.top:8080/OstWest/video.m3u8
@@ -1064,3 +1062,7 @@ https://cdn.stmify.com/zapitv/stream/LA_1/la1_4k.mpd
 https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-name="Clan Internacional" group-title="Kids;Public",Clan Internacional
 http://168.228.44.241:9999/play/a04j/index.m3u8
+#EXTINF:-1 tvg-name="Kite Victers (576p)" group-title="Education",Kite Victers (576p)
+http://51.75.127.199:3141/kitevicters/index.m3u8
+#EXTINF:-1 tvg-name="Shiksha TV (576p)" group-title="Culture;Education",Shiksha TV (576p)
+http://51.75.127.199:3141/shikshatv/index.m3u8

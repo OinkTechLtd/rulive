@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-01 00:21:39
-# Всего каналов: 24195
-# Новых за сессию: 0
+# Обновлено: 2026-10-01 00:42:15
+# Всего каналов: 24337
+# Новых за сессию: 142
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Religious
 # Каналов: 2
-# Обновлено: 2026-10-01 00:21:40
+# Обновлено: 2026-10-01 00:42:16
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Paighan TV" group-title="Education;Religious",Paighan TV
@@ -874,8 +874,6 @@ https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 #EXTINF:-1 tvg-name="Monte Maria" group-title="Religious",Monte Maria
 https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8
-#EXTINF:-1 tvg-name="Once México" group-title="Education",Once México
-https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio y Television Crisol de la Alegria" group-title="Religious",Radio y Television Crisol de la Alegria
 https://omegaingenieria.com:19360/CRisolTVdigital-Live_abr/CRisolTVdigital-Live_abr.m3u8
 #EXTINF:-1 tvg-name="XHUNES-TDT" group-title="Education",XHUNES-TDT
@@ -1976,7 +1974,7 @@ https://cdn.oktvus.com/ConectadoConDios/tracks-v2a1/mono.ts.m3u8
 https://eu1.servers10.com:8081/8338/index.m3u8
 #EXTINF:-1 tvg-name="Poder de Dios TV" group-title="Religious",Poder de Dios TV
 https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8
-#EXTINF:-1 tvg-name="Da Vinci (576p)" group-title="Education",Da Vinci (576p)
+#EXTINF:-1 tvg-name="Da Vinci (Russia) (576p)" group-title="Education",Da Vinci (Russia) (576p)
 http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
 #EXTINF:-1 tvg-name="Andes Television" group-title="Religious",Andes Television
 https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8
@@ -2280,3 +2278,21 @@ http://168.196.127.137:6001/play/a071/index.m3u8
 http://38.252.238.18:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-name="Mizpa TV" group-title="Religious",Mizpa TV
 http://45.167.2.101:8000/play/a0r7/index.m3u8
+#EXTINF:-1 tvg-name="BVTV (576p)" group-title="Religious",BVTV (576p)
+http://51.75.127.199:3141/bvtv/index.m3u8
+#EXTINF:-1 tvg-name="Hosanna TV (576p)" group-title="Religious",Hosanna TV (576p)
+http://51.75.127.199:3141/hosannatv/index.m3u8
+#EXTINF:-1 tvg-name="Kite Victers (576p)" group-title="Education",Kite Victers (576p)
+http://51.75.127.199:3141/kitevicters/index.m3u8
+#EXTINF:-1 tvg-name="Sadvidya TV (576p)" group-title="Religious",Sadvidya TV (576p)
+http://51.75.127.199:3141/sadvidyatv/index.m3u8
+#EXTINF:-1 tvg-name="Shiksha TV (576p)" group-title="Culture;Education",Shiksha TV (576p)
+http://51.75.127.199:3141/shikshatv/index.m3u8
+#EXTINF:-1 tvg-name="Sidharth Utsav (576p)" group-title="Religious",Sidharth Utsav (576p)
+http://51.75.127.199:3141/sidharthbhakti/index.m3u8
+#EXTINF:-1 tvg-name="Tulja Bhavani (576p)" group-title="Religious",Tulja Bhavani (576p)
+http://51.75.127.199:3141/tuljabhavani/index.m3u8
+#EXTINF:-1 tvg-name="Valam TV Dayro (576p)" group-title="Religious",Valam TV Dayro (576p)
+https://mumt03.tangotv.in/Dsly5z3HVALAMDAIRO/index.m3u8
+#EXTINF:-1 tvg-name="Canal Telesantiago" group-title="Religious",Canal Telesantiago
+https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8

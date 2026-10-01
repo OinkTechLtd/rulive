@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-01 00:21:39
-# Всего каналов: 24195
-# Новых за сессию: 0
+# Обновлено: 2026-10-01 00:42:15
+# Всего каналов: 24337
+# Новых за сессию: 142
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Religious
 # Каналов: 9
-# Обновлено: 2026-10-01 00:21:40
+# Обновлено: 2026-10-01 00:42:16
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Christian Youth Channel CYC" group-title="Kids;Religious",Christian Youth Channel CYC
@@ -2833,3 +2833,23 @@ http://38.252.238.18:8000/play/a01k/index.m3u8
 http://45.167.2.101:8000/play/a0r7/index.m3u8
 #EXTINF:-1 tvg-name="Disney Channel (Netherlands) (1080i)" group-title="Kids",Disney Channel (Netherlands) (1080i)
 https://masterofiptv.s.gy/iptv2/disney_channel_nl_uhd.m3u8
+#EXTINF:-1 tvg-name="Disney Junior (United States) (480p)" group-title="Kids",Disney Junior (United States) (480p)
+http://tvsen5.aynascope.net/disney/index.m3u8
+#EXTINF:-1 tvg-name="BVTV (576p)" group-title="Religious",BVTV (576p)
+http://51.75.127.199:3141/bvtv/index.m3u8
+#EXTINF:-1 tvg-name="Disney Junior (India) (576p)" group-title="Kids",Disney Junior (India) (576p)
+http://51.75.127.199:3141/disneyjunior/index.m3u8
+#EXTINF:-1 tvg-name="Hosanna TV (576p)" group-title="Religious",Hosanna TV (576p)
+http://51.75.127.199:3141/hosannatv/index.m3u8
+#EXTINF:-1 tvg-name="Sadvidya TV (576p)" group-title="Religious",Sadvidya TV (576p)
+http://51.75.127.199:3141/sadvidyatv/index.m3u8
+#EXTINF:-1 tvg-name="Sidharth Utsav (576p)" group-title="Religious",Sidharth Utsav (576p)
+http://51.75.127.199:3141/sidharthbhakti/index.m3u8
+#EXTINF:-1 tvg-name="Tulja Bhavani (576p)" group-title="Religious",Tulja Bhavani (576p)
+http://51.75.127.199:3141/tuljabhavani/index.m3u8
+#EXTINF:-1 tvg-name="Valam TV Dayro (576p)" group-title="Religious",Valam TV Dayro (576p)
+https://mumt03.tangotv.in/Dsly5z3HVALAMDAIRO/index.m3u8
+#EXTINF:-1 tvg-name="Canal Telesantiago" group-title="Religious",Canal Telesantiago
+https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8
+#EXTINF:-1 tvg-name="Disney Junior (Poland) (576p)" group-title="Kids",Disney Junior (Poland) (576p)
+http://57.128.231.171:8080/277/index.m3u8

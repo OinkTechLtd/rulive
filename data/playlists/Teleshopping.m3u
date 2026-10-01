@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-01 00:21:39
-# Всего каналов: 24195
-# Новых за сессию: 0
+# Обновлено: 2026-10-01 00:42:15
+# Всего каналов: 24337
+# Новых за сессию: 142
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Teleshopping
 # Каналов: 2
-# Обновлено: 2026-10-01 00:21:40
+# Обновлено: 2026-10-01 00:42:16
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="QVC PLUS" group-title="Teleshopping",QVC PLUS
@@ -182,3 +182,5 @@ http://40.160.24.55/QVC/index.m3u8
 https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
 #EXTINF:-1 tvg-name="MOMO TV" group-title="Shop",MOMO TV
 http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
+#EXTINF:-1 tvg-name="Propex TV (576p)" group-title="Shop",Propex TV (576p)
+http://51.75.127.199:3141/propextv/index.m3u8

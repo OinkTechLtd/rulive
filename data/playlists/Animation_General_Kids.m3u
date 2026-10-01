@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-01 00:21:39
-# Всего каналов: 24195
-# Новых за сессию: 0
+# Обновлено: 2026-10-01 00:42:15
+# Всего каналов: 24337
+# Новых за сессию: 142
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;General;Kids
 # Каналов: 2
-# Обновлено: 2026-10-01 00:21:40
+# Обновлено: 2026-10-01 00:42:16
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="BBC Four/CBeebies [Geo-Blocked]" group-title="Animation;General;Kids",BBC Four/CBeebies [Geo-Blocked]
@@ -7564,3 +7564,21 @@ https://masterofiptv.s.gy/iptv2/disney_channel_nl_uhd.m3u8
 https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
 #EXTINF:-1 tvg-name="Radio Romania Targu Mures (576p)" group-title="General;Music",Radio Romania Targu Mures (576p)
 https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
+#EXTINF:-1 tvg-name="Gorodskoy telekanal" group-title="General",Gorodskoy telekanal
+https://gtk.tv/hls/gtyar.m3u8
+#EXTINF:-1 tvg-name="Disney Junior (United States) (480p)" group-title="Kids",Disney Junior (United States) (480p)
+http://tvsen5.aynascope.net/disney/index.m3u8
+#EXTINF:-1 tvg-name="Fox (United States) WSVN" group-title="General",Fox (United States) WSVN
+http://190.197.41.183/Fox/index.m3u8
+#EXTINF:-1 tvg-name="NBC WTLV" group-title="General",NBC WTLV
+http://190.197.41.183/NBC/index.m3u8
+#EXTINF:-1 tvg-name="Toonami Aftermath West (480p)" group-title="Animation",Toonami Aftermath West (480p)
+http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
+#EXTINF:-1 tvg-name="Disney Junior (India) (576p)" group-title="Kids",Disney Junior (India) (576p)
+http://51.75.127.199:3141/disneyjunior/index.m3u8
+#EXTINF:-1 tvg-name="LAMIL35 TV (480p)" group-title="Animation;Classic;Entertainment",LAMIL35 TV (480p)
+https://streamingvideo.com.ar/hls/eea3c96df781e0a3.m3u8
+#EXTINF:-1 tvg-name="CNC Medellin" group-title="General",CNC Medellin
+http://138.94.3.106:8000/play/a02o/index.m3u8
+#EXTINF:-1 tvg-name="Disney Junior (Poland) (576p)" group-title="Kids",Disney Junior (Poland) (576p)
+http://57.128.231.171:8080/277/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-01 00:21:39
-# Всего каналов: 24195
-# Новых за сессию: 0
+# Обновлено: 2026-10-01 00:42:15
+# Всего каналов: 24337
+# Новых за сессию: 142
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;General;Religious
 # Каналов: 1
-# Обновлено: 2026-10-01 00:21:40
+# Обновлено: 2026-10-01 00:42:16
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Sercem TV" group-title="Culture;General;Religious",Sercem TV
@@ -8329,3 +8329,27 @@ https://cdn.stmify.com/bbc/stream/BBC_TWO_WALES/hevc_iptv_mse_v0.mpd
 https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
 #EXTINF:-1 tvg-name="Radio Romania Targu Mures (576p)" group-title="General;Music",Radio Romania Targu Mures (576p)
 https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
+#EXTINF:-1 tvg-name="Gorodskoy telekanal" group-title="General",Gorodskoy telekanal
+https://gtk.tv/hls/gtyar.m3u8
+#EXTINF:-1 tvg-name="Fox (United States) WSVN" group-title="General",Fox (United States) WSVN
+http://190.197.41.183/Fox/index.m3u8
+#EXTINF:-1 tvg-name="NBC WTLV" group-title="General",NBC WTLV
+http://190.197.41.183/NBC/index.m3u8
+#EXTINF:-1 tvg-name="BVTV (576p)" group-title="Religious",BVTV (576p)
+http://51.75.127.199:3141/bvtv/index.m3u8
+#EXTINF:-1 tvg-name="Hosanna TV (576p)" group-title="Religious",Hosanna TV (576p)
+http://51.75.127.199:3141/hosannatv/index.m3u8
+#EXTINF:-1 tvg-name="Sadvidya TV (576p)" group-title="Religious",Sadvidya TV (576p)
+http://51.75.127.199:3141/sadvidyatv/index.m3u8
+#EXTINF:-1 tvg-name="Shiksha TV (576p)" group-title="Culture;Education",Shiksha TV (576p)
+http://51.75.127.199:3141/shikshatv/index.m3u8
+#EXTINF:-1 tvg-name="Sidharth Utsav (576p)" group-title="Religious",Sidharth Utsav (576p)
+http://51.75.127.199:3141/sidharthbhakti/index.m3u8
+#EXTINF:-1 tvg-name="Tulja Bhavani (576p)" group-title="Religious",Tulja Bhavani (576p)
+http://51.75.127.199:3141/tuljabhavani/index.m3u8
+#EXTINF:-1 tvg-name="Valam TV Dayro (576p)" group-title="Religious",Valam TV Dayro (576p)
+https://mumt03.tangotv.in/Dsly5z3HVALAMDAIRO/index.m3u8
+#EXTINF:-1 tvg-name="Canal Telesantiago" group-title="Religious",Canal Telesantiago
+https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8
+#EXTINF:-1 tvg-name="CNC Medellin" group-title="General",CNC Medellin
+http://138.94.3.106:8000/play/a02o/index.m3u8

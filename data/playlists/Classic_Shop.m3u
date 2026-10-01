@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-01 00:21:39
-# Всего каналов: 24195
-# Новых за сессию: 0
+# Обновлено: 2026-10-01 00:42:15
+# Всего каналов: 24337
+# Новых за сессию: 142
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Classic;Shop
 # Каналов: 1
-# Обновлено: 2026-10-01 00:21:40
+# Обновлено: 2026-10-01 00:42:16
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Timeless TV" group-title="Classic;Shop",Timeless TV
@@ -435,3 +435,7 @@ https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8
 https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
 #EXTINF:-1 tvg-name="TeleNostalgia" group-title="Classic",TeleNostalgia
 http://38.134.250.110:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-name="Propex TV (576p)" group-title="Shop",Propex TV (576p)
+http://51.75.127.199:3141/propextv/index.m3u8
+#EXTINF:-1 tvg-name="LAMIL35 TV (480p)" group-title="Animation;Classic;Entertainment",LAMIL35 TV (480p)
+https://streamingvideo.com.ar/hls/eea3c96df781e0a3.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-01 00:21:39
-# Всего каналов: 24195
-# Новых за сессию: 0
+# Обновлено: 2026-10-01 00:42:15
+# Всего каналов: 24337
+# Новых за сессию: 142
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Family;Kids
 # Каналов: 1
-# Обновлено: 2026-10-01 00:21:40
+# Обновлено: 2026-10-01 00:42:16
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RiC" group-title="Family;Kids",RiC
@@ -1263,3 +1263,9 @@ https://cdn.stmify.com/bbc/stream/CBEEBIES/hevc_iptv_mse_v0.mpd
 http://168.228.44.241:9999/play/a04j/index.m3u8
 #EXTINF:-1 tvg-name="Disney Channel (Netherlands) (1080i)" group-title="Kids",Disney Channel (Netherlands) (1080i)
 https://masterofiptv.s.gy/iptv2/disney_channel_nl_uhd.m3u8
+#EXTINF:-1 tvg-name="Disney Junior (United States) (480p)" group-title="Kids",Disney Junior (United States) (480p)
+http://tvsen5.aynascope.net/disney/index.m3u8
+#EXTINF:-1 tvg-name="Disney Junior (India) (576p)" group-title="Kids",Disney Junior (India) (576p)
+http://51.75.127.199:3141/disneyjunior/index.m3u8
+#EXTINF:-1 tvg-name="Disney Junior (Poland) (576p)" group-title="Kids",Disney Junior (Poland) (576p)
+http://57.128.231.171:8080/277/index.m3u8

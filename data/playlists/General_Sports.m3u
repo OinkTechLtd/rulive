@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-01 00:21:39
-# Всего каналов: 24195
-# Новых за сессию: 0
+# Обновлено: 2026-10-01 00:42:15
+# Всего каналов: 24337
+# Новых за сессию: 142
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Sports
 # Каналов: 3
-# Обновлено: 2026-10-01 00:21:40
+# Обновлено: 2026-10-01 00:42:16
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="TVR Sport" group-title="General;Sports",TVR Sport
@@ -5599,9 +5599,9 @@ https://nl1.nghk.ai/ArenaSport5BH/index.m3u8
 https://dokagents.site/live/digisport1/mono.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Digi Sport 2" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Digi Sport 2
 https://dokagents.site/live/digisport2/mono.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Digi Sport 3" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Digi Sport 3
+#EXTINF:-1 tvg-name="like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36" group-title="Sports",Digi Sport 3 (576i)" group-title="Sports",like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36" group-title="Sports",Digi Sport 3 (576i)
 https://dokagents.site/live/digisport3/mono.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Digi Sport 4" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Digi Sport 4
+#EXTINF:-1 tvg-name="like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36" group-title="Sports",Digi Sport 4 (576i)" group-title="Sports",like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36" group-title="Sports",Digi Sport 4 (576i)
 https://dokagents.site/live/digisport4/mono.m3u8
 #EXTINF:-1 tvg-name="VTV6 [Geo-blocked]" group-title="Sports",VTV6 [Geo-blocked]
 https://live.fptplay53.net/fnxhd1/vtv6hd_vhls.smil/chunklist.m3u8
@@ -6031,6 +6031,10 @@ https://server.asilivehd.com:3333/live/huilatvlive.m3u8
 https://acasmedia6.acangroup.org/gmstv/gmstv_output/playlist.m3u8
 #EXTINF:-1 tvg-name="SIC [Geo-blocked]" group-title="General",SIC [Geo-blocked]
 https://sic.live.impresa.pt/sic.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Digi Sport 3" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Digi Sport 3
+http://82.78.243.219:45739/play/a01m/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Digi Sport 4" group-title="Sports",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Digi Sport 4
+http://82.78.243.219:45739/play/a00v/index.m3u8
 #EXTINF:-1 tvg-name="Access 19" group-title="General",Access 19
 https://reflect-montgomerycommunitymedia.cablecast.tv/live-8/live/stream-3/live.m3u8
 #EXTINF:-1 tvg-name="Detroit Channel 21" group-title="General",Detroit Channel 21
@@ -7511,7 +7515,7 @@ https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
 https://mumbai-edge.smartplaytv.in/MBCTV/index.m3u8
 #EXTINF:-1 tvg-name="Channel One CIS (576p)" group-title="General",Channel One CIS (576p)
 https://fs.uplink.kz/perviy_kanal_sng/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-name="Sky Sports Cricket (United Kingdom)" group-title="Sports",Sky Sports Cricket (United Kingdom)
+#EXTINF:-1 tvg-name="Sky Sports Cricket" group-title="Sports",Sky Sports Cricket
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
 #EXTINF:-1 tvg-name="Max Sport 1" group-title="Sports",Max Sport 1
 http://hls127.freeott.top:8080/BG_MAX_Sport_1_HD/video.m3u8
@@ -7621,3 +7625,21 @@ http://168.196.127.137:6001/play/a0ay/index.m3u8
 https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
 #EXTINF:-1 tvg-name="Radio Romania Targu Mures (576p)" group-title="General;Music",Radio Romania Targu Mures (576p)
 https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
+#EXTINF:-1 tvg-name="Gorodskoy telekanal" group-title="General",Gorodskoy telekanal
+https://gtk.tv/hls/gtyar.m3u8
+#EXTINF:-1 tvg-name="Fox (United States) WSVN" group-title="General",Fox (United States) WSVN
+http://190.197.41.183/Fox/index.m3u8
+#EXTINF:-1 tvg-name="NBC WTLV" group-title="General",NBC WTLV
+http://190.197.41.183/NBC/index.m3u8
+#EXTINF:-1 tvg-name="Star Sports 1 (576p)" group-title="Sports",Star Sports 1 (576p)
+http://51.75.127.199:3141/starsports1/index.m3u8
+#EXTINF:-1 tvg-name="Star Sports 2 (576p)" group-title="Sports",Star Sports 2 (576p)
+http://51.75.127.199:3141/starsports2/index.m3u8
+#EXTINF:-1 tvg-name="Star Sports Khel (576p)" group-title="Sports",Star Sports Khel (576p)
+http://51.75.127.199:3141/starsportskhel/index.m3u8
+#EXTINF:-1 tvg-name="Extreme Sports Channel Polska" group-title="Sports",Extreme Sports Channel Polska
+http://57.128.231.171:8080/262/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Sky Sports Football" group-title="Sports",like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Sky Sports Football
+https://7nyaler.streamhostingcdn.top/stream/39/index.m3u8
+#EXTINF:-1 tvg-name="CNC Medellin" group-title="General",CNC Medellin
+http://138.94.3.106:8000/play/a02o/index.m3u8

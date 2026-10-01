@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-01 00:21:39
-# Всего каналов: 24195
-# Новых за сессию: 0
+# Обновлено: 2026-10-01 00:42:15
+# Всего каналов: 24337
+# Новых за сессию: 142
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Lifestyle
 # Каналов: 4
-# Обновлено: 2026-10-01 00:21:40
+# Обновлено: 2026-10-01 00:42:16
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Doctor" group-title="Education;Lifestyle",Doctor
@@ -456,8 +456,6 @@ http://unitvaovivo.ufrgs.br:8080/live.ogg
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Jalisco TV" group-title="Culture;Education",Jalisco TV
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
-#EXTINF:-1 tvg-name="Once México" group-title="Education",Once México
-https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
 #EXTINF:-1 tvg-name="XHUNES-TDT" group-title="Education",XHUNES-TDT
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 #EXTINF:-1 tvg-name="SET Televisión Canal 26.2" group-title="Education",SET Televisión Canal 26.2
@@ -744,7 +742,7 @@ http://185.246.209.113/FYIHD/index.m3u8
 http://185.246.209.113/CottageLife/index.m3u8
 #EXTINF:-1 tvg-name="CTV Life Channel" group-title="Lifestyle",CTV Life Channel
 http://185.246.209.113/ANIMALPLANETHD/index.m3u8
-#EXTINF:-1 tvg-name="Da Vinci (576p)" group-title="Education",Da Vinci (576p)
+#EXTINF:-1 tvg-name="Da Vinci (Russia) (576p)" group-title="Education",Da Vinci (Russia) (576p)
 http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
 #EXTINF:-1 tvg-name="HGTV" group-title="Lifestyle",HGTV
 https://i.mjh.nz/.r/sky-hgtv.m3u8
@@ -850,6 +848,8 @@ https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8
 https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Zoom (Colombia)" group-title="Education",Zoom (Colombia)
 http://138.121.15.230:9002/ZOOM/index.m3u8
+#EXTINF:-1 tvg-name="FashionTV (Russia)" group-title="Lifestyle",FashionTV (Russia)
+http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
 #EXTINF:-1 tvg-name="PBS WNET" group-title="Education",PBS WNET
 http://4.30.180.36:8420/wnethd/index.m3u8?token=test
 #EXTINF:-1 tvg-name="Gyandarshan (576p)" group-title="Education",Gyandarshan (576p)
@@ -866,3 +866,11 @@ http://str2.iptvhd.ru:8080/kto_est_kto/index.m3u8
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC Lifestyle Poland" group-title="Lifestyle",BBC Lifestyle Poland
 http://57.128.231.171:8080/305/index.m3u8
+#EXTINF:-1 tvg-name="Fashion India" group-title="Lifestyle",Fashion India
+http://51.75.127.199:3141/fashionindia/index.m3u8
+#EXTINF:-1 tvg-name="FashionTV (India)" group-title="Lifestyle",FashionTV (India)
+http://51.75.127.199:3141/ftvhd/index.m3u8
+#EXTINF:-1 tvg-name="Kite Victers (576p)" group-title="Education",Kite Victers (576p)
+http://51.75.127.199:3141/kitevicters/index.m3u8
+#EXTINF:-1 tvg-name="Shiksha TV (576p)" group-title="Culture;Education",Shiksha TV (576p)
+http://51.75.127.199:3141/shikshatv/index.m3u8

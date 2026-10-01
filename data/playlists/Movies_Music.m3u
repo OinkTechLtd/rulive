@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-01 00:21:39
-# Всего каналов: 24195
-# Новых за сессию: 0
+# Обновлено: 2026-10-01 00:42:15
+# Всего каналов: 24337
+# Новых за сессию: 142
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies;Music
 # Каналов: 4
-# Обновлено: 2026-10-01 00:21:40
+# Обновлено: 2026-10-01 00:42:16
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Shemaroo Filmi Gaane" group-title="Movies;Music",Shemaroo Filmi Gaane
@@ -2700,7 +2700,7 @@ https://us.streaminghd.cl/apocalipsistvd/video.m3u8
 https://canal.mediaserver.com.co/live/buenisimatv.m3u8
 #EXTINF:-1 tvg-name="Ishtar TV SD" group-title="Culture;Music;Religious",Ishtar TV SD
 https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",CineMaraton" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",CineMaraton
+#EXTINF:-1 tvg-name="CineMaraton (576i)" group-title="Movies",CineMaraton (576i)
 https://dokagents.site/live/cinemaraton/mono.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Film Mania" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Film Mania
 https://dokagents.site/live/filmmania/mono.m3u8
@@ -3914,3 +3914,37 @@ http://57.128.231.171:8080/237/index.m3u8
 https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
 #EXTINF:-1 tvg-name="Radio Romania Targu Mures (576p)" group-title="General;Music",Radio Romania Targu Mures (576p)
 https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
+#EXTINF:-1 tvg-name="7X Music (576p)" group-title="Music",7X Music (576p)
+http://51.75.127.199:3141/7xmusic/index.m3u8
+#EXTINF:-1 tvg-name="B4U Bhojpuri Plus" group-title="Movies",B4U Bhojpuri Plus
+http://51.75.127.199:3141/b4ubhojpuri/index.m3u8
+#EXTINF:-1 tvg-name="B4U Music" group-title="Music",B4U Music
+https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8
+#EXTINF:-1 tvg-name="Colors Gujarati Cinema (576p)" group-title="Movies",Colors Gujarati Cinema (576p)
+http://51.75.127.199:3141/colorsgujaraticinema/index.m3u8
+#EXTINF:-1 tvg-name="Jalsha Movies (576p)" group-title="Movies",Jalsha Movies (576p)
+http://51.75.127.199:3141/jalshamovies/index.m3u8
+#EXTINF:-1 tvg-name="Romedy Now" group-title="Movies",Romedy Now
+http://51.75.127.199:3141/romedynow/index.m3u8
+#EXTINF:-1 tvg-name="RS Bharat (576p)" group-title="Music",RS Bharat (576p)
+http://51.75.127.199:3141/rsbharat/index.m3u8
+#EXTINF:-1 tvg-name="Sidharth Gold (576p)" group-title="Movies",Sidharth Gold (576p)
+http://51.75.127.199:3141/sidharthgold/index.m3u8
+#EXTINF:-1 tvg-name="Star Gold (576p)" group-title="Movies",Star Gold (576p)
+http://51.75.127.199:3141/stargold/index.m3u8
+#EXTINF:-1 tvg-name="Star Gold Select (576p)" group-title="Movies",Star Gold Select (576p)
+http://51.75.127.199:3141/stargoldselect/index.m3u8
+#EXTINF:-1 tvg-name="Star Maa Movies (576p)" group-title="Movies",Star Maa Movies (576p)
+http://51.75.127.199:3141/starmaamovies/index.m3u8
+#EXTINF:-1 tvg-name="Star Maa Music (576p)" group-title="Music",Star Maa Music (576p)
+http://51.75.127.199:3141/starmaamusic/index.m3u8
+#EXTINF:-1 tvg-name="Star Movies (India) (576p)" group-title="Movies",Star Movies (India) (576p)
+http://51.75.127.199:3141/starmovies/index.m3u8
+#EXTINF:-1 tvg-name="Star Movies (India)" group-title="Movies",Star Movies (India)
+http://51.75.127.199:3141/starmovieshd/index.m3u8
+#EXTINF:-1 tvg-name="Star Suvarna Plus (576p)" group-title="Movies",Star Suvarna Plus (576p)
+http://51.75.127.199:3141/starsuvarnaplus/index.m3u8
+#EXTINF:-1 tvg-name="Wah Punjabi (576p)" group-title="Music",Wah Punjabi (576p)
+http://51.75.127.199:3141/wahpunjabi/index.m3u8
+#EXTINF:-1 tvg-name="FILMBOX+ One" group-title="Movies",FILMBOX+ One
+http://57.128.231.171:8080/236/index.m3u8

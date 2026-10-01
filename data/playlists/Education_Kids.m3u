@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-01 00:21:39
-# Всего каналов: 24195
-# Новых за сессию: 0
+# Обновлено: 2026-10-01 00:42:15
+# Всего каналов: 24337
+# Новых за сессию: 142
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Education;Kids
 # Каналов: 11
-# Обновлено: 2026-10-01 00:21:40
+# Обновлено: 2026-10-01 00:42:16
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="NCM Educational & Kids Channel" group-title="Education;Kids",NCM Educational & Kids Channel
@@ -617,8 +617,6 @@ https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playl
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 tvg-name="Jalisco TV" group-title="Culture;Education",Jalisco TV
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
-#EXTINF:-1 tvg-name="Once México" group-title="Education",Once México
-https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
 #EXTINF:-1 tvg-name="XHUNES-TDT" group-title="Education",XHUNES-TDT
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 #EXTINF:-1 tvg-name="SET Televisión Canal 26.2" group-title="Education",SET Televisión Canal 26.2
@@ -1197,7 +1195,7 @@ http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8
 http://193.46.58.239:8080/CbeebiesHD/index.m3u8
 #EXTINF:-1 tvg-name="BBC Three/CBBC" group-title="Animation;Family;Kids",BBC Three/CBBC
 http://193.46.58.239:8080/CBBCHD/index.m3u8
-#EXTINF:-1 tvg-name="Da Vinci (576p)" group-title="Education",Da Vinci (576p)
+#EXTINF:-1 tvg-name="Da Vinci (Russia) (576p)" group-title="Education",Da Vinci (Russia) (576p)
 http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
 #EXTINF:-1 tvg-name="BabyTV France" group-title="Kids",BabyTV France
 http://41.223.30.230/BABYTV/index.m3u8
@@ -1667,3 +1665,13 @@ https://cdn.stmify.com/bbc/stream/CBEEBIES/hevc_iptv_mse_v0.mpd
 http://168.228.44.241:9999/play/a04j/index.m3u8
 #EXTINF:-1 tvg-name="Disney Channel (Netherlands) (1080i)" group-title="Kids",Disney Channel (Netherlands) (1080i)
 https://masterofiptv.s.gy/iptv2/disney_channel_nl_uhd.m3u8
+#EXTINF:-1 tvg-name="Disney Junior (United States) (480p)" group-title="Kids",Disney Junior (United States) (480p)
+http://tvsen5.aynascope.net/disney/index.m3u8
+#EXTINF:-1 tvg-name="Disney Junior (India) (576p)" group-title="Kids",Disney Junior (India) (576p)
+http://51.75.127.199:3141/disneyjunior/index.m3u8
+#EXTINF:-1 tvg-name="Kite Victers (576p)" group-title="Education",Kite Victers (576p)
+http://51.75.127.199:3141/kitevicters/index.m3u8
+#EXTINF:-1 tvg-name="Shiksha TV (576p)" group-title="Culture;Education",Shiksha TV (576p)
+http://51.75.127.199:3141/shikshatv/index.m3u8
+#EXTINF:-1 tvg-name="Disney Junior (Poland) (576p)" group-title="Kids",Disney Junior (Poland) (576p)
+http://57.128.231.171:8080/277/index.m3u8

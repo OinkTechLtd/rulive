@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-01 00:21:39
-# Всего каналов: 24195
-# Новых за сессию: 0
+# Обновлено: 2026-10-01 00:42:15
+# Всего каналов: 24337
+# Новых за сессию: 142
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Lifestyle
-# Каналов: 140
-# Обновлено: 2026-10-01 00:21:40
+# Каналов: 142
+# Обновлено: 2026-10-01 00:42:16
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Домашний (540p) [Geo-blocked]" group-title="Lifestyle",Домашний (540p) [Geo-blocked]
@@ -400,7 +400,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/103.190.232.129/stream
 #EXTINF:-1 tvg-name="Aspire TV Life" group-title="Lifestyle",Aspire TV Life
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="FashionTV" group-title="Lifestyle",FashionTV
+#EXTINF:-1 tvg-name="FashionTV (Russia)" group-title="Lifestyle",FashionTV (Russia)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CVR Health (576p)" group-title="Lifestyle",CVR Health (576p)
@@ -414,6 +414,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/mumbai-edge.smartplayt
 
 #EXTINF:-1 tvg-name="BBC Lifestyle Poland" group-title="Lifestyle",BBC Lifestyle Poland
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/57.128.231.171:8080/305/index.m3u8
+
+#EXTINF:-1 tvg-name="Fashion India" group-title="Lifestyle",Fashion India
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/51.75.127.199:3141/fashionindia/index.m3u8
+
+#EXTINF:-1 tvg-name="FashionTV (India)" group-title="Lifestyle",FashionTV (India)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/51.75.127.199:3141/ftvhd/index.m3u8
 
 #EXTINF:-1 tvg-name="9Life [Geo-blocked]" group-title="Lifestyle",9Life [Geo-blocked]
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8

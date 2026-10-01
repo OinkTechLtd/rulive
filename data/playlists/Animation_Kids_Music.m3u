@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-01 00:21:39
-# Всего каналов: 24195
-# Новых за сессию: 0
+# Обновлено: 2026-10-01 00:42:15
+# Всего каналов: 24337
+# Новых за сессию: 142
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;Kids;Music
 # Каналов: 1
-# Обновлено: 2026-10-01 00:21:40
+# Обновлено: 2026-10-01 00:42:16
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="MCN6 Music Channel" group-title="Animation;Kids;Music",MCN6 Music Channel
@@ -3193,3 +3193,23 @@ http://57.128.231.171:8080/237/index.m3u8
 https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
 #EXTINF:-1 tvg-name="Radio Romania Targu Mures (576p)" group-title="General;Music",Radio Romania Targu Mures (576p)
 https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
+#EXTINF:-1 tvg-name="Disney Junior (United States) (480p)" group-title="Kids",Disney Junior (United States) (480p)
+http://tvsen5.aynascope.net/disney/index.m3u8
+#EXTINF:-1 tvg-name="Toonami Aftermath West (480p)" group-title="Animation",Toonami Aftermath West (480p)
+http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
+#EXTINF:-1 tvg-name="7X Music (576p)" group-title="Music",7X Music (576p)
+http://51.75.127.199:3141/7xmusic/index.m3u8
+#EXTINF:-1 tvg-name="B4U Music" group-title="Music",B4U Music
+https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8
+#EXTINF:-1 tvg-name="Disney Junior (India) (576p)" group-title="Kids",Disney Junior (India) (576p)
+http://51.75.127.199:3141/disneyjunior/index.m3u8
+#EXTINF:-1 tvg-name="RS Bharat (576p)" group-title="Music",RS Bharat (576p)
+http://51.75.127.199:3141/rsbharat/index.m3u8
+#EXTINF:-1 tvg-name="Star Maa Music (576p)" group-title="Music",Star Maa Music (576p)
+http://51.75.127.199:3141/starmaamusic/index.m3u8
+#EXTINF:-1 tvg-name="Wah Punjabi (576p)" group-title="Music",Wah Punjabi (576p)
+http://51.75.127.199:3141/wahpunjabi/index.m3u8
+#EXTINF:-1 tvg-name="LAMIL35 TV (480p)" group-title="Animation;Classic;Entertainment",LAMIL35 TV (480p)
+https://streamingvideo.com.ar/hls/eea3c96df781e0a3.m3u8
+#EXTINF:-1 tvg-name="Disney Junior (Poland) (576p)" group-title="Kids",Disney Junior (Poland) (576p)
+http://57.128.231.171:8080/277/index.m3u8
