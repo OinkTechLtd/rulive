@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-01 23:42:48
-# Всего каналов: 24343
-# Новых за сессию: 1
+# Обновлено: 2026-10-02 04:17:38
+# Всего каналов: 24373
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;Sports
 # Каналов: 1
-# Обновлено: 2026-10-01 23:42:49
+# Обновлено: 2026-10-02 04:17:39
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RTI La 3" group-title="Music;Sports",RTI La 3
@@ -3275,3 +3275,13 @@ http://51.75.127.199:3141/wahpunjabi/index.m3u8
 http://57.128.231.171:8080/262/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Sky Sports Football" group-title="Sports",like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Sky Sports Football
 https://7nyaler.streamhostingcdn.top/stream/39/index.m3u8
+#EXTINF:-1 tvg-name="VH1 (432p)" group-title="Music",VH1 (432p)
+http://193.254.245.162/VH1/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ Sport [Geo-blocked]" group-title="Sports",Canal+ Sport [Geo-blocked]
+http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
+#EXTINF:-1 tvg-name="Golf + [Geo-blocked]" group-title="Sports",Golf + [Geo-blocked]
+http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8
+#EXTINF:-1 tvg-name="MCM Pop (576p)" group-title="Music",MCM Pop (576p)
+http://193.254.245.162/MCM/index.m3u8
+#EXTINF:-1 tvg-name="Party Mix" group-title="Music",Party Mix
+https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-01 23:42:48
-# Всего каналов: 24343
-# Новых за сессию: 1
+# Обновлено: 2026-10-02 04:17:38
+# Всего каналов: 24373
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: News;Sports
-# Каналов: 7
-# Обновлено: 2026-10-01 23:42:49
+# Каналов: 6
+# Обновлено: 2026-10-02 04:17:39
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Africa 24 Sport" group-title="News;Sports",Africa 24 Sport
@@ -24,9 +24,6 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/40.160.24.52/ESPN_NEWS
 
 #EXTINF:-1 tvg-name="ESPNews" group-title="News;Sports",ESPNews
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/gpuserver3.tier1streams.com/ESPN_NEWS/index.m3u8
-
-#EXTINF:-1 tvg-name="ESPNews" group-title="News;Sports",ESPNews
-https://secure-272717.tatnet.app/secure-272717.tatnet.app/41.205.93.154/ESPNNEWS/index.m3u8
 
 #EXTINF:-1 tvg-name="Sin Po TV (540p)" group-title="News;Sports",Sin Po TV (540p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
@@ -4033,6 +4030,10 @@ http://51.75.127.199:3141/raftaarsamay/index.m3u8
 http://51.75.127.199:3141/realnewskerala/index.m3u8
 #EXTINF:-1 tvg-name="Samachar Nation (576p)" group-title="News",Samachar Nation (576p)
 http://51.75.127.199:3141/samacharnation/index.m3u8
+#EXTINF:-1 tvg-name="Star Bharat (India) (576p)" group-title="News",Star Bharat (India) (576p)
+http://51.75.127.199:3141/starbharat/index.m3u8
+#EXTINF:-1 tvg-name="Star Bharat (India)" group-title="News",Star Bharat (India)
+http://51.75.127.199:3141/starbharathd/index.m3u8
 #EXTINF:-1 tvg-name="Star Sports 1 (576p)" group-title="Sports",Star Sports 1 (576p)
 http://51.75.127.199:3141/starsports1/index.m3u8
 #EXTINF:-1 tvg-name="Star Sports 2 (576p)" group-title="Sports",Star Sports 2 (576p)
@@ -4053,3 +4054,15 @@ http://57.128.231.171:8080/262/index.m3u8
 https://7nyaler.streamhostingcdn.top/stream/39/index.m3u8
 #EXTINF:-1 tvg-name="Express News (576p)" group-title="News",Express News (576p)
 http://51.75.127.199:3141/expressnews/index.m3u8
+#EXTINF:-1 tvg-name="Canal+ Sport [Geo-blocked]" group-title="Sports",Canal+ Sport [Geo-blocked]
+http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
+#EXTINF:-1 tvg-name="Golf + [Geo-blocked]" group-title="Sports",Golf + [Geo-blocked]
+http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8
+#EXTINF:-1 tvg-name="News Leader (576p)" group-title="News",News Leader (576p)
+https://stream.ottlive.co.in/newsleader/index.m3u8
+#EXTINF:-1 tvg-name="TV7 Bharat (576p)" group-title="News",TV7 Bharat (576p)
+https://stream.ottlive.co.in/tv7bharat/index.m3u8
+#EXTINF:-1 tvg-name="UP NOW" group-title="News",UP NOW
+http://45.122.122.61:8080/UPNOW/video.m3u8
+#EXTINF:-1 tvg-name="Euronews Romania (576p)" group-title="News",Euronews Romania (576p)
+https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-01 23:42:48
-# Всего каналов: 24343
-# Новых за сессию: 1
+# Обновлено: 2026-10-02 04:17:38
+# Всего каналов: 24373
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Movies
-# Каналов: 1017
-# Обновлено: 2026-10-01 23:42:49
+# Каналов: 1022
+# Обновлено: 2026-10-02 04:17:39
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="312 Kino (406p)" group-title="Movies",312 Kino (406p)
@@ -1471,7 +1471,7 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/dokagents.site/live/vi
 #EXTINF:-1 tvg-name="CineMaraton (576i)" group-title="Movies",CineMaraton (576i)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/dokagents.site/live/cinemaraton/mono.m3u8
 
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3
+#EXTINF:-1 tvg-name="Film Mania (576p)" group-title="Movies",Film Mania (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/dokagents.site/live/filmmania/mono.m3u8
 
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -2737,6 +2737,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/0dc330e6408b4c3b9ac31f
 #EXTINF:-1 tvg-name="Star Channel (Bulgaria)" group-title="Movies",Star Channel (Bulgaria)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/hls127.freeott.top:8080/BG_FOX/video.m3u8
 
+#EXTINF:-1 tvg-name="Nile Drama (576p)" group-title="Movies",Nile Drama (576p)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/185.9.2.18/chid_352/index.m3u8
+
 #EXTINF:-1 tvg-name="Illusion+ (576p)" group-title="Movies",Illusion+ (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/176.118.197.101/Illuzion+/index.m3u8
 
@@ -2901,6 +2904,18 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/51.75.127.199:3141/zee
 
 #EXTINF:-1 tvg-name="FILMBOX+ One" group-title="Movies",FILMBOX+ One
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/57.128.231.171:8080/236/index.m3u8
+
+#EXTINF:-1 tvg-name="AXN (Spain)" group-title="Movies",AXN (Spain)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/193.254.245.162/AXN/index.m3u8
+
+#EXTINF:-1 tvg-name="AXN Movies (Spain)" group-title="Movies",AXN Movies (Spain)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.stmify.com/zapitv/stream/AXN_MOVIES/axn_white.mpd
+
+#EXTINF:-1 tvg-name="Colors Cineplex (576p)" group-title="Movies",Colors Cineplex (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
+
+#EXTINF:-1 tvg-name="Claro Cinema" group-title="Movies",Claro Cinema
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/158.172.217.18:8000/play/a00d/index.m3u8
 
 #EXTINF:-1 tvg-name="Cine34" group-title="Movies",Cine34
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
@@ -3347,8 +3362,6 @@ https://dokagents.site/live/bollyc/mono.m3u8
 https://dokagents.site/live/filmboxp/mono.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",TV1000" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",TV1000
 https://dokagents.site/live/viasatkino/mono.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Film Mania" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Film Mania
-https://dokagents.site/live/filmmania/mono.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Film Now" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Film Now
 https://dokagents.site/live/filmnow/mono.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36" group-title="Movies",Pro Cinema (576i)" group-title="Movies",like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36" group-title="Movies",Pro Cinema (576i)
@@ -3403,7 +3416,7 @@ http://88.212.15.19/live/test_axn/playlist.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/fillka/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Adria" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Adria
 http://5.57.74.130:8000/play/a0at/index.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Movies" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Movies
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Movies (Portugal)" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Movies (Portugal)
 http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies;Series",AXN Asia Thailand" group-title="Movies;Series",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies;Series",AXN Asia Thailand
 http://54.37.19.157/axn/playlist.m3u8
@@ -3685,3 +3698,5 @@ http://190.61.47.54:8000/play/a035/index.m3u8
 https://sra72yz.s.gy/HBO_DRAMA_WEST_HD.m3u8
 #EXTINF:-1 tvg-name="HBO Hits West" group-title="Movies;Series",HBO Hits West
 https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8
+#EXTINF:-1 tvg-name="Paramount Network (432p)" group-title="Movies;Series",Paramount Network (432p)
+http://193.254.245.162/PARAMOUNT-CHANNEL/index.m3u8

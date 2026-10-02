@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-01 23:42:48
-# Всего каналов: 24343
-# Новых за сессию: 1
+# Обновлено: 2026-10-02 04:17:38
+# Всего каналов: 24373
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Entertainment;Music;News
 # Каналов: 2
-# Обновлено: 2026-10-01 23:42:49
+# Обновлено: 2026-10-02 04:17:39
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Vĩnh Long TV5 [Geo-blocked]" group-title="Culture;Entertainment;Music;News",Vĩnh Long TV5 [Geo-blocked]
@@ -6970,6 +6970,10 @@ http://51.75.127.199:3141/samacharnation/index.m3u8
 http://51.75.127.199:3141/shikshatv/index.m3u8
 #EXTINF:-1 tvg-name="Sidharth TV (576p)" group-title="Entertainment",Sidharth TV (576p)
 http://51.75.127.199:3141/sidharthtv/index.m3u8
+#EXTINF:-1 tvg-name="Star Bharat (India) (576p)" group-title="News",Star Bharat (India) (576p)
+http://51.75.127.199:3141/starbharat/index.m3u8
+#EXTINF:-1 tvg-name="Star Bharat (India)" group-title="News",Star Bharat (India)
+http://51.75.127.199:3141/starbharathd/index.m3u8
 #EXTINF:-1 tvg-name="Star Jalsha (576p)" group-title="Entertainment",Star Jalsha (576p)
 http://51.75.127.199:3141/starjalsha/index.m3u8
 #EXTINF:-1 tvg-name="Star Maa (576p)" group-title="Entertainment",Star Maa (576p)
@@ -7006,3 +7010,17 @@ http://51.75.127.199:3141/zeetv/index.m3u8
 https://streamingvideo.com.ar/hls/eea3c96df781e0a3.m3u8
 #EXTINF:-1 tvg-name="Express News (576p)" group-title="News",Express News (576p)
 http://51.75.127.199:3141/expressnews/index.m3u8
+#EXTINF:-1 tvg-name="VH1 (432p)" group-title="Music",VH1 (432p)
+http://193.254.245.162/VH1/index.m3u8
+#EXTINF:-1 tvg-name="MCM Pop (576p)" group-title="Music",MCM Pop (576p)
+http://193.254.245.162/MCM/index.m3u8
+#EXTINF:-1 tvg-name="News Leader (576p)" group-title="News",News Leader (576p)
+https://stream.ottlive.co.in/newsleader/index.m3u8
+#EXTINF:-1 tvg-name="TV7 Bharat (576p)" group-title="News",TV7 Bharat (576p)
+https://stream.ottlive.co.in/tv7bharat/index.m3u8
+#EXTINF:-1 tvg-name="UP NOW" group-title="News",UP NOW
+http://45.122.122.61:8080/UPNOW/video.m3u8
+#EXTINF:-1 tvg-name="Party Mix" group-title="Music",Party Mix
+https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8
+#EXTINF:-1 tvg-name="Euronews Romania (576p)" group-title="News",Euronews Romania (576p)
+https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8

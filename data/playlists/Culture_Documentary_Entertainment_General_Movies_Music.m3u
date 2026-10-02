@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-01 23:42:48
-# Всего каналов: 24343
-# Новых за сессию: 1
+# Обновлено: 2026-10-02 04:17:38
+# Всего каналов: 24373
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Culture;Documentary;Entertainment;General;Movies;Music
 # Каналов: 1
-# Обновлено: 2026-10-01 23:42:49
+# Обновлено: 2026-10-02 04:17:39
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="AlternaTV" group-title="Culture;Documentary;Entertainment;General;Movies;Music",AlternaTV
@@ -9669,7 +9669,7 @@ https://5cf4a2c2512a2.streamlock.net/8176/8176/playlist.m3u8
 https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
 #EXTINF:-1 tvg-name="CineMaraton (576i)" group-title="Movies",CineMaraton (576i)
 https://dokagents.site/live/cinemaraton/mono.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Film Mania" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Film Mania
+#EXTINF:-1 tvg-name="Film Mania (576p)" group-title="Movies",Film Mania (576p)
 https://dokagents.site/live/filmmania/mono.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Film Now" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Film Now
 https://dokagents.site/live/filmnow/mono.m3u8
@@ -10231,7 +10231,7 @@ https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8
 https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8
 #EXTINF:-1 tvg-name="Evasion TV" group-title="General",Evasion TV
 https://kali.vdopanel.com:3090/hybrid/play.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Movies" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Movies
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Movies (Portugal)" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Movies (Portugal)
 http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment",AXN White Portugal (480p)" group-title="Entertainment",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment",AXN White Portugal (480p)
 http://50.7.120.34:8080/AXN_WHITE/index.m3u8
@@ -12933,6 +12933,8 @@ https://fs.uplink.kz/perviy_kanal_sng/mono.m3u8?token=onlinetv
 http://hls127.freeott.top:8080/BG_The_World/video.m3u8
 #EXTINF:-1 tvg-name="Star Channel (Bulgaria)" group-title="Movies",Star Channel (Bulgaria)
 http://hls127.freeott.top:8080/BG_FOX/video.m3u8
+#EXTINF:-1 tvg-name="Nile Drama (576p)" group-title="Movies",Nile Drama (576p)
+http://185.9.2.18/chid_352/index.m3u8
 #EXTINF:-1 tvg-name="Channel 5 (Russia) (576p)" group-title="General",Channel 5 (Russia) (576p)
 http://str2.iptvhd.ru:8080/5_kanal/index.m3u8
 #EXTINF:-1 tvg-name="History 2 (Russia)" group-title="Documentary",History 2 (Russia)
@@ -13177,3 +13179,25 @@ https://streamingvideo.com.ar/hls/eea3c96df781e0a3.m3u8
 http://138.94.3.106:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-name="FILMBOX+ One" group-title="Movies",FILMBOX+ One
 http://57.128.231.171:8080/236/index.m3u8
+#EXTINF:-1 tvg-name="Paramount Network (432p)" group-title="Movies;Series",Paramount Network (432p)
+http://193.254.245.162/PARAMOUNT-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="VH1 (432p)" group-title="Music",VH1 (432p)
+http://193.254.245.162/VH1/index.m3u8
+#EXTINF:-1 tvg-name="MCM Pop (576p)" group-title="Music",MCM Pop (576p)
+http://193.254.245.162/MCM/index.m3u8
+#EXTINF:-1 tvg-name="TMC [Geo-blocked]" group-title="General",TMC [Geo-blocked]
+http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
+#EXTINF:-1 tvg-name="AXN (Spain)" group-title="Movies",AXN (Spain)
+http://193.254.245.162/AXN/index.m3u8
+#EXTINF:-1 tvg-name="AXN Movies (Spain)" group-title="Movies",AXN Movies (Spain)
+https://cdn.stmify.com/zapitv/stream/AXN_MOVIES/axn_white.mpd
+#EXTINF:-1 tvg-name="Canal 12 Venado Tuerto (1080i)" group-title="General",Canal 12 Venado Tuerto (1080i)
+https://nd106.republicaservers.com:4433/hls/diegologonitv/index.m3u8
+#EXTINF:-1 tvg-name="Claro Cinema" group-title="Movies",Claro Cinema
+http://158.172.217.18:8000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-name="BBC Two Northern Ireland" group-title="General",BBC Two Northern Ireland
+https://cdn.stmify.com/bbc/stream/BBC_TWO_NORTHERN_IRELAND/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-name="Party Mix" group-title="Music",Party Mix
+https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8
+#EXTINF:-1 tvg-name="WAPA-TV 4.1" group-title="General",WAPA-TV 4.1
+https://wapa-updater.onrender.com/WAPA-TV-4-1.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-01 23:42:48
-# Всего каналов: 24343
-# Новых за сессию: 1
+# Обновлено: 2026-10-02 04:17:38
+# Всего каналов: 24373
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Undefined
-# Каналов: 4294
-# Обновлено: 2026-10-01 23:42:49
+# Каналов: 4296
+# Обновлено: 2026-10-02 04:17:39
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="TV Rain [Geo-blocked]" group-title="Undefined",TV Rain [Geo-blocked]
@@ -12453,6 +12453,12 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/51.75.127.199:3141/tot
 
 #EXTINF:-1 tvg-name="TV 100 (India) (576p)" group-title="Undefined",TV 100 (India) (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/51.75.127.199:3141/tv100/index.m3u8
+
+#EXTINF:-1 tvg-name="Vea Canal" group-title="Undefined",Vea Canal
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/181.78.106.127:5000/play/ca090/index.m3u8
+
+#EXTINF:-1 tvg-name="UTV (Iraq)" group-title="Undefined",UTV (Iraq)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/utviraqi-live.lg.mncdn.com/utviraqi-live/64c80359/index.m3u8
 
 #EXTINF:-1 tvg-name="W24" group-title="Undefined",W24
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8

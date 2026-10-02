@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-01 23:42:48
-# Всего каналов: 24343
-# Новых за сессию: 1
+# Обновлено: 2026-10-02 04:17:38
+# Всего каналов: 24373
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General
-# Каналов: 3336
-# Обновлено: 2026-10-01 23:42:49
+# Каналов: 3343
+# Обновлено: 2026-10-02 04:17:39
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="БелРос (576p)" group-title="General",БелРос (576p)
@@ -9681,6 +9681,27 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/138.94.3.106:8000/play
 
 #EXTINF:-1 tvg-name="Nuestra Tele Internacional" group-title="General",Nuestra Tele Internacional
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/45.173.231.22:8000/play/a0cr/index.m3u8
+
+#EXTINF:-1 tvg-name="Paris Premiere" group-title="General",Paris Premiere
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/193.254.245.162/PARIS-PREMIERE/index.m3u8
+
+#EXTINF:-1 tvg-name="TMC [Geo-blocked]" group-title="General",TMC [Geo-blocked]
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
+
+#EXTINF:-1 tvg-name="Antena 3" group-title="General",Antena 3
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.stmify.com/zapitv/stream/ANTENA_3/test.mpd
+
+#EXTINF:-1 tvg-name="Jeevan TV (576p)" group-title="General",Jeevan TV (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/JeevanTV.m3u8
+
+#EXTINF:-1 tvg-name="Canal 12 Venado Tuerto (1080i)" group-title="General",Canal 12 Venado Tuerto (1080i)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/nd106.republicaservers.com:4433/hls/diegologonitv/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC Two Northern Ireland" group-title="General",BBC Two Northern Ireland
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.stmify.com/bbc/stream/BBC_TWO_NORTHERN_IRELAND/hevc_iptv_mse_v0.mpd
+
+#EXTINF:-1 tvg-name="WAPA-TV 4.1" group-title="General",WAPA-TV 4.1
+https://wapa-updater.onrender.com/WAPA-TV-4-1.m3u8
 
 #EXTINF:-1 tvg-name="Belarus-1" group-title="General",Belarus-1
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-01 23:42:48
-# Всего каналов: 24343
-# Новых за сессию: 1
+# Обновлено: 2026-10-02 04:17:38
+# Всего каналов: 24373
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Kids;Movies
 # Каналов: 2
-# Обновлено: 2026-10-01 23:42:49
+# Обновлено: 2026-10-02 04:17:39
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="KidsFlix" group-title="Kids;Movies",KidsFlix
@@ -1996,7 +1996,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 tvg-name="CineMaraton (576i)" group-title="Movies",CineMaraton (576i)
 https://dokagents.site/live/cinemaraton/mono.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Film Mania" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Film Mania
+#EXTINF:-1 tvg-name="Film Mania (576p)" group-title="Movies",Film Mania (576p)
 https://dokagents.site/live/filmmania/mono.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Film Now" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Film Now
 https://dokagents.site/live/filmnow/mono.m3u8
@@ -2154,7 +2154,7 @@ https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
 http://193.239.186.231/NICK/index.m3u8
 #EXTINF:-1 tvg-name="Sony Movies Latin America" group-title="Movies",Sony Movies Latin America
 https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Movies" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Movies
+#EXTINF:-1 tvg-name="like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Movies (Portugal)" group-title="Movies",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Movies (Portugal)
 http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 #EXTINF:-1 tvg-name="God Stands Kids Club TV Chinese" group-title="Kids;Religious",God Stands Kids Club TV Chinese
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
@@ -3114,6 +3114,8 @@ https://fs.uplink.kz/mirovoe_kino/mono.m3u8?token=onlinetv
 https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8
 #EXTINF:-1 tvg-name="Star Channel (Bulgaria)" group-title="Movies",Star Channel (Bulgaria)
 http://hls127.freeott.top:8080/BG_FOX/video.m3u8
+#EXTINF:-1 tvg-name="Nile Drama (576p)" group-title="Movies",Nile Drama (576p)
+http://185.9.2.18/chid_352/index.m3u8
 #EXTINF:-1 tvg-name="TraLaLa TV" group-title="Kids",TraLaLa TV
 https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8
 #EXTINF:-1 tvg-name="Illusion+ (576p)" group-title="Movies",Illusion+ (576p)
@@ -3232,3 +3234,11 @@ http://51.75.127.199:3141/starsuvarnaplus/index.m3u8
 http://57.128.231.171:8080/236/index.m3u8
 #EXTINF:-1 tvg-name="Disney Junior (Poland) (576p)" group-title="Kids",Disney Junior (Poland) (576p)
 http://57.128.231.171:8080/277/index.m3u8
+#EXTINF:-1 tvg-name="Paramount Network (432p)" group-title="Movies;Series",Paramount Network (432p)
+http://193.254.245.162/PARAMOUNT-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="AXN (Spain)" group-title="Movies",AXN (Spain)
+http://193.254.245.162/AXN/index.m3u8
+#EXTINF:-1 tvg-name="AXN Movies (Spain)" group-title="Movies",AXN Movies (Spain)
+https://cdn.stmify.com/zapitv/stream/AXN_MOVIES/axn_white.mpd
+#EXTINF:-1 tvg-name="Claro Cinema" group-title="Movies",Claro Cinema
+http://158.172.217.18:8000/play/a00d/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-01 23:42:48
-# Всего каналов: 24343
-# Новых за сессию: 1
+# Обновлено: 2026-10-02 04:17:38
+# Всего каналов: 24373
+# Новых за сессию: 30
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Music
 # Каналов: 6
-# Обновлено: 2026-10-01 23:42:49
+# Обновлено: 2026-10-02 04:17:39
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Radio Carnaval TV" group-title="Entertainment;Music",Radio Carnaval TV
@@ -4072,3 +4072,9 @@ http://51.75.127.199:3141/zeepunjabi/index.m3u8
 http://51.75.127.199:3141/zeetv/index.m3u8
 #EXTINF:-1 tvg-name="LAMIL35 TV (480p)" group-title="Animation;Classic;Entertainment",LAMIL35 TV (480p)
 https://streamingvideo.com.ar/hls/eea3c96df781e0a3.m3u8
+#EXTINF:-1 tvg-name="VH1 (432p)" group-title="Music",VH1 (432p)
+http://193.254.245.162/VH1/index.m3u8
+#EXTINF:-1 tvg-name="MCM Pop (576p)" group-title="Music",MCM Pop (576p)
+http://193.254.245.162/MCM/index.m3u8
+#EXTINF:-1 tvg-name="Party Mix" group-title="Music",Party Mix
+https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8
