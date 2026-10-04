@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-03 22:00:41
-# Всего каналов: 24376
-# Новых за сессию: 0
+# Обновлено: 2026-10-04 06:11:59
+# Всего каналов: 24387
+# Новых за сессию: 11
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Animation;General
 # Каналов: 1
-# Обновлено: 2026-10-03 22:00:42
+# Обновлено: 2026-10-04 06:12:00
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="Gooder Nation Channel 32" group-title="Animation;General",Gooder Nation Channel 32
@@ -2157,6 +2157,8 @@ https://live.acwugtv.com/hls/stream.m3u8
 https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="Ajman TV" group-title="General",Ajman TV
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Alb UK TV" group-title="General",Alb UK TV
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Aniplus Asia" group-title="Animation",Aniplus Asia
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 #EXTINF:-1 tvg-name="Apna Channel (576p)" group-title="General",Apna Channel (576p)
@@ -6383,8 +6385,6 @@ https://dethich.pw/thvl1/index.m3u8
 http://5.254.89.106/8711/index.m3u8
 #EXTINF:-1 tvg-name="Nandighosha TV (576p)" group-title="General",Nandighosha TV (576p)
 https://mumt05.tangotv.in/87NeALx2NANDIGHOSHATV/index.m3u8
-#EXTINF:-1 tvg-name="Alb UK TV" group-title="General",Alb UK TV
-http://5.254.89.106/8794/index.m3u8
 #EXTINF:-1 tvg-name="BATV Public Channel" group-title="General",BATV Public Channel
 https://livestream.telvue.com/billerica1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Best of BATV Channel" group-title="General",Best of BATV Channel

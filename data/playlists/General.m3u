@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-03 22:00:41
-# Всего каналов: 24376
-# Новых за сессию: 0
+# Обновлено: 2026-10-04 06:11:59
+# Всего каналов: 24387
+# Новых за сессию: 11
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General
-# Каналов: 3343
-# Обновлено: 2026-10-03 22:00:42
+# Каналов: 3345
+# Обновлено: 2026-10-04 06:12:00
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="БелРос (576p)" group-title="General",БелРос (576p)
@@ -2658,6 +2658,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/edge.socialsmart.tv/na
 
 #EXTINF:-1 tvg-name="Ajman TV" group-title="General",Ajman TV
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn1.logichost.in/ajmantv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Alb UK TV" group-title="General",Alb UK TV
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Apna Channel (576p)" group-title="General",Apna Channel (576p)
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/115.42.65.142:9981/stream/channelid/1273966657
@@ -9702,6 +9705,9 @@ https://secure-272717.tatnet.app/secure-272717.tatnet.app/cdn.stmify.com/bbc/str
 
 #EXTINF:-1 tvg-name="WAPA-TV 4.1" group-title="General",WAPA-TV 4.1
 https://wapa-updater.onrender.com/WAPA-TV-4-1.m3u8
+
+#EXTINF:-1 tvg-name="Canal 1 (Colombia)" group-title="General",Canal 1 (Colombia)
+https://secure-272717.tatnet.app/secure-272717.tatnet.app/190.109.2.92:8000/play/a010/index.m3u8
 
 #EXTINF:-1 tvg-name="Belarus-1" group-title="General",Belarus-1
 https://secure-272717.tatnet.app/secure-272717.tatnet.app/ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8

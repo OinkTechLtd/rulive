@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-03 22:00:41
-# Всего каналов: 24376
-# Новых за сессию: 0
+# Обновлено: 2026-10-04 06:11:59
+# Всего каналов: 24387
+# Новых за сессию: 11
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Entertainment;Family;General;News
 # Каналов: 1
-# Обновлено: 2026-10-03 22:00:42
+# Обновлено: 2026-10-04 06:12:00
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="TV Paraense" group-title="Entertainment;Family;General;News",TV Paraense
@@ -3943,6 +3943,8 @@ https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8
 #EXTINF:-1 tvg-name="Al Arabiya English" group-title="News",Al Arabiya English
 https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="Alb UK TV" group-title="General",Alb UK TV
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="American Crime Channel" group-title="Entertainment",American Crime Channel
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104
 #EXTINF:-1 tvg-name="ANC" group-title="News",ANC
@@ -10445,8 +10447,6 @@ https://mumt01.tangotv.in/O5aw8Zn3PRIME9NEWS/index.m3u8
 https://streams.tangotv.in/PUDHARINEWS/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-name="Sadhna News Madhya Pradesh/Chhattisgarh (576p)" group-title="News",Sadhna News Madhya Pradesh/Chhattisgarh (576p)
 https://mumt04.tangotv.in/m18aqlK4SADHNEWSPMRAJ/index.m3u8
-#EXTINF:-1 tvg-name="Alb UK TV" group-title="General",Alb UK TV
-http://5.254.89.106/8794/index.m3u8
 #EXTINF:-1 tvg-name="CNA International (576p)" group-title="News",CNA International (576p)
 https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8
 #EXTINF:-1 tvg-name="ATV (Kosovo)" group-title="News",ATV (Kosovo)

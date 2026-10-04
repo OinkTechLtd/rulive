@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-03 22:00:41
-# Всего каналов: 24376
-# Новых за сессию: 0
+# Обновлено: 2026-10-04 06:11:59
+# Всего каналов: 24387
+# Новых за сессию: 11
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: Music;Sports
 # Каналов: 1
-# Обновлено: 2026-10-03 22:00:42
+# Обновлено: 2026-10-04 06:12:00
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="RTI La 3" group-title="Music;Sports",RTI La 3
@@ -1765,7 +1765,7 @@ https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8?token=onetv202
 https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8
 #EXTINF:-1 tvg-name="Gugak TV" group-title="Music",Gugak TV
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="H!t Music Channel (480p)" group-title="Music",H!t Music Channel (480p)
+#EXTINF:-1 tvg-name="H!t Music Channel (Hungary) (480p)" group-title="Music",H!t Music Channel (Hungary) (480p)
 http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:-1 tvg-name="Impact TV Dance" group-title="Music",Impact TV Dance
 https://online.tvimpact.live/hls/dancetv.m3u8
@@ -3285,3 +3285,7 @@ http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8
 http://193.254.245.162/MCM/index.m3u8
 #EXTINF:-1 tvg-name="Party Mix" group-title="Music",Party Mix
 https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8
+#EXTINF:-1 tvg-name="Radio Bruno TV" group-title="Music",Radio Bruno TV
+http://stream7.xdevel.com/video0s975758-1051/stream/playlist.m3u8
+#EXTINF:-1 tvg-name="TeleHit" group-title="Music",TeleHit
+http://190.61.47.54:8000/play/a029/index.m3u8

@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-03 22:00:41
-# Всего каналов: 24376
-# Новых за сессию: 0
+# Обновлено: 2026-10-04 06:11:59
+# Всего каналов: 24387
+# Новых за сессию: 11
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Sports
 # Каналов: 4
-# Обновлено: 2026-10-03 22:00:42
+# Обновлено: 2026-10-04 06:12:00
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="TVR Sport" group-title="General;Sports",TVR Sport
@@ -2494,6 +2494,8 @@ https://live.acwugtv.com/hls/stream.m3u8
 https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="Ajman TV" group-title="General",Ajman TV
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Alb UK TV" group-title="General",Alb UK TV
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Apna Channel (576p)" group-title="General",Apna Channel (576p)
 http://115.42.65.142:9981/stream/channelid/1273966657
 #EXTINF:-1 tvg-name="Approval TV" group-title="General;Religious",Approval TV
@@ -7300,8 +7302,6 @@ https://dethich.pw/thvl4/index.m3u8
 http://5.254.89.106/8711/index.m3u8
 #EXTINF:-1 tvg-name="Nandighosha TV (576p)" group-title="General",Nandighosha TV (576p)
 https://mumt05.tangotv.in/87NeALx2NANDIGHOSHATV/index.m3u8
-#EXTINF:-1 tvg-name="Alb UK TV" group-title="General",Alb UK TV
-http://5.254.89.106/8794/index.m3u8
 #EXTINF:-1 tvg-name="Hub Sports 1" group-title="Sports",Hub Sports 1
 https://sra72yz.s.gy/HUB_SPORTS_1_HD.m3u8
 #EXTINF:-1 tvg-name="ESPN U (2160p)" group-title="Sports",ESPN U (2160p)

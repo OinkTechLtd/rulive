@@ -1,13 +1,13 @@
 #EXTM3U
-# Обновлено: 2026-10-03 22:00:41
-# Всего каналов: 24376
-# Новых за сессию: 0
+# Обновлено: 2026-10-04 06:11:59
+# Всего каналов: 24387
+# Новых за сессию: 11
 # LiveM3U Scanner - автоматическое обновление
 # ПРИОРИТЕТ: Канал Дождь и важные каналы добавлены в начало!
 
 # Категория: General;Lifestyle;Music;News
 # Каналов: 1
-# Обновлено: 2026-10-03 22:00:42
+# Обновлено: 2026-10-04 06:12:00
 # ВСЕ каналы с прокси кроме zabava-hlive.ngenix.net
 
 #EXTINF:-1 tvg-name="CEACOM TV" group-title="General;Lifestyle;Music;News",CEACOM TV
@@ -3927,6 +3927,8 @@ https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8
 #EXTINF:-1 tvg-name="Al Arabiya English" group-title="News",Al Arabiya English
 https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="Alb UK TV" group-title="General",Alb UK TV
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Music",AMusic Channel" group-title="Music",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Music",AMusic Channel
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/LVP8DMYRYH6F6Y5UUO8J/hls3/now,-1m/m.m3u8?ads.vf=McCy6HuluFe
 #EXTINF:-1 tvg-name="ANC" group-title="News",ANC
@@ -6677,7 +6679,7 @@ https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8?token=onetv202
 https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8
 #EXTINF:-1 tvg-name="Gugak TV" group-title="Music",Gugak TV
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="H!t Music Channel (480p)" group-title="Music",H!t Music Channel (480p)
+#EXTINF:-1 tvg-name="H!t Music Channel (Hungary) (480p)" group-title="Music",H!t Music Channel (Hungary) (480p)
 http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:-1 tvg-name="Impact TV Dance" group-title="Music",Impact TV Dance
 https://online.tvimpact.live/hls/dancetv.m3u8
@@ -10301,8 +10303,6 @@ https://streams.tangotv.in/PUDHARINEWS/ORIGIN/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4SADHNEWSPMRAJ/index.m3u8
 #EXTINF:-1 tvg-name="Dhool TV (576p)" group-title="Music",Dhool TV (576p)
 https://mumt04.tangotv.in/m18aqlK4SUBHARTITV/index.m3u8
-#EXTINF:-1 tvg-name="Alb UK TV" group-title="General",Alb UK TV
-http://5.254.89.106/8794/index.m3u8
 #EXTINF:-1 tvg-name="CNA International (576p)" group-title="News",CNA International (576p)
 https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8
 #EXTINF:-1 tvg-name="ATV (Kosovo)" group-title="News",ATV (Kosovo)
@@ -10891,3 +10891,7 @@ https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8
 https://wapa-updater.onrender.com/WAPA-TV-4-1.m3u8
 #EXTINF:-1 tvg-name="Euronews Romania (576p)" group-title="News",Euronews Romania (576p)
 https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8
+#EXTINF:-1 tvg-name="Radio Bruno TV" group-title="Music",Radio Bruno TV
+http://stream7.xdevel.com/video0s975758-1051/stream/playlist.m3u8
+#EXTINF:-1 tvg-name="TeleHit" group-title="Music",TeleHit
+http://190.61.47.54:8000/play/a029/index.m3u8
